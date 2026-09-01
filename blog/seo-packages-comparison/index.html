@@ -6,12 +6,17 @@
     <base href="/">
     
     
-    <title>SEO Packages Compared — Essential, Strategic, and Managed | VIVIDIGIT</title>
-    <meta name="description" content="Compare Vividigit SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.">
+    
+    
+    
+    <title>SEO Packages Compared — Essential, Strategic, and Managed | ONLINUUM</title>
+    <meta name="description" content="Compare Onlinuum SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.">
     
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://vividigit.com/blog/seo-packages-comparison/">
+    <link rel="canonical" href="https://onlinuum.com/blog/seo-packages-comparison/">
+
+    
 
     <!-- Open Graph -->
     
@@ -19,27 +24,27 @@
     <meta property="article:published_time" content="2026-07-16">
     <meta property="article:modified_time" content="2026-07-16">
     
-    <meta property="og:site_name" content="Vividigit">
-    <meta property="og:title" content="SEO Packages Compared — Essential, Strategic, and Managed | VIVIDIGIT">
-    <meta property="og:description" content="Compare Vividigit SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.">
-    <meta property="og:url" content="https://vividigit.com/blog/seo-packages-comparison/">
-    <meta property="og:image" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
-    <meta property="og:image:secure_url" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
+    <meta property="og:site_name" content="Onlinuum">
+    <meta property="og:title" content="SEO Packages Compared — Essential, Strategic, and Managed | ONLINUUM">
+    <meta property="og:description" content="Compare Onlinuum SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.">
+    <meta property="og:url" content="https://onlinuum.com/blog/seo-packages-comparison/">
+    <meta property="og:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
+    <meta property="og:image:secure_url" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="VIVIDIGIT logo">
+    <meta property="og:image:alt" content="ONLINUUM logo">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@vividigit">
-    <meta name="twitter:title" content="SEO Packages Compared — Essential, Strategic, and Managed | VIVIDIGIT">
-    <meta name="twitter:description" content="Compare Vividigit SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.">
-    <meta name="twitter:image" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
+    <meta name="twitter:title" content="SEO Packages Compared — Essential, Strategic, and Managed | ONLINUUM">
+    <meta name="twitter:description" content="Compare Onlinuum SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.">
+    <meta name="twitter:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="_media/images/site/favicon.svg?v=a66e3b8f">
+    <link rel="icon" type="image/svg+xml" href="/_media/images/site/favicon.svg?v=da33a481">
 
     
     
@@ -55,7 +60,7 @@
     
 
     <!-- Fonts -->
-    <link rel="preload" href="_media/fonts/jetbrains-mono-latin.woff2?v=a66e3b8f" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/_media/fonts/jetbrains-mono-latin.woff2?v=da33a481" as="font" type="font/woff2" crossorigin>
     
 
     <script>
@@ -74,17 +79,36 @@
     </script>
 
     <!-- Styles -->
-    <link rel="preload" href="_assets/css/styles.css?v=5117b587" as="style">
-    <link rel="stylesheet" href="_assets/css/styles.css?v=5117b587">
+    
+    <link rel="preload" href="/_assets/css/styles.css?v=9b7530bf" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=9b7530bf">
     <script>
-    window.VividigitAssetHashes = {
-        cart: '6aa4cd7f',
-        media: 'a66e3b8f'
+    window.OnlinuumAssetHashes = {
+        cart: '15867eb7',
+        media: 'da33a481'
     };
     </script>
     <script>
-    window.VividigitDomainContext = (function(w) {
-        var storageKey = 'vividigit_selected_domain_v1';
+    // Per-language UI strings bridge for shared JS bundles. Empty for the
+    // default language — cmsT then always returns the English fallback.
+    window.CMS_STRINGS = {};
+    window.cmsT = function(key, fallback) {
+        return window.CMS_STRINGS[key] || fallback;
+    };
+    window.cmsPlural = function(count, forms, fallback) {
+        var n = Math.abs(parseInt(count, 10) || 0);
+        var parts = String(forms || fallback || '').split('|').map(function(p) { return p.trim(); }).filter(Boolean);
+        if (!parts.length) return '';
+        if (parts.length === 1) return parts[0];
+        if (parts.length === 2) return n === 1 ? parts[0] : parts[1];
+        if (n % 10 === 1 && n % 100 !== 11) return parts[0];
+        if (n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) return parts[1];
+        return parts[2];
+    };
+    </script>
+    <script>
+    window.OnlinuumDomainContext = (function(w) {
+        var storageKey = 'onlinuum_selected_domain_v1';
         var ttlMs = 12 * 60 * 60 * 1000;
 
         function parse(raw) {
@@ -170,8 +194,8 @@
             syncUrl: syncUrl
         };
     })(window);
-    window.VividigitFilterContext = (function(w) {
-        var storageKey = 'vividigit_selected_filters_v1';
+    window.OnlinuumFilterContext = (function(w) {
+        var storageKey = 'onlinuum_selected_filters_v1';
         var ttlMs = 12 * 60 * 60 * 1000;
 
         function parse(raw) {
@@ -269,14 +293,14 @@
     
     
     </script>
-    <script src="_assets/js/cards.js?v=1ffd1b23" defer></script>
+    <script src="/_assets/js/cards.js?v=036223b2" defer></script>
 
     <!-- Analytics (skip on block demo pages) -->
     
     <script>
     window.dataLayer = window.dataLayer || [];
-    window.VividigitConsent = (function(w) {
-        var storageKey = 'vividigit_cookie_consent_v1';
+    window.OnlinuumConsent = (function(w) {
+        var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
 
@@ -440,7 +464,7 @@
                 if (state && state.analytics) loadGtm();
             });
         }
-    })(window, document, 'dataLayer', 'GTM-WXWHHQXN', window.VividigitConsent);
+    })(window, document, 'dataLayer', 'GTM-WXWHHQXN', window.OnlinuumConsent);
     </script>
     
     
@@ -450,9 +474,9 @@
     {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "Vividigit",
-        "url": "https://vividigit.com",
-        "logo": "https://vividigit.com/_media/images/site/favicon.svg?v=a66e3b8f",
+        "name": "Onlinuum",
+        "url": "https://onlinuum.com",
+        "logo": "https://onlinuum.com/_media/images/site/favicon.svg?v=da33a481",
         "description": "Productized marketing services marketplace",
         "contactPoint": {
             "@type": "ContactPoint",
@@ -474,19 +498,19 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://vividigit.com/"
+                "item": "https://onlinuum.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Blog",
-                "item": "https://vividigit.com/blog/"
+                "item": "https://onlinuum.com/blog/"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Seo Packages Comparison",
-                "item": "https://vividigit.com/blog/seo-packages-comparison/"
+                "item": "https://onlinuum.com/blog/seo-packages-comparison/"
             }
         ]
     }
@@ -500,24 +524,24 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "SEO Packages Compared — Essential, Strategic, and Managed | VIVIDIGIT",
-        "description": "Compare Vividigit SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.",
-        "url": "https://vividigit.com/blog/seo-packages-comparison/",
+        "headline": "SEO Packages Compared — Essential, Strategic, and Managed | ONLINUUM",
+        "description": "Compare Onlinuum SEO package pricing, delivery capacity, implementation responsibility, reporting, terms, audit tiers, add-ons, and exclusions.",
+        "url": "https://onlinuum.com/blog/seo-packages-comparison/",
         "datePublished": "2026-07-16",
         "dateModified": "2026-07-16",
         "author": {
             "@type": "Organization",
-            "name": "Vividigit"
+            "name": "Onlinuum"
         },
         "publisher": {
             "@type": "Organization",
-            "name": "Vividigit",
+            "name": "Onlinuum",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://vividigit.com/_media/images/site/favicon.svg?v=a66e3b8f"
+                "url": "https://onlinuum.com/_media/images/site/favicon.svg?v=da33a481"
             }
         },
-        "image": "https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f"
+        "image": "https://onlinuum.com/_media/images/site/og-default.png?v=da33a481"
     }
     </script>
     
@@ -554,7 +578,8 @@
         </div>
 
         <a href="./" class="logo">
-            <img src="_media/images/site/logo-gradient.svg?v=a66e3b8f" alt="Vividigit" class="logo-text" width="156" height="30" decoding="async">
+            <img src="/_media/images/site/logo-white.svg?v=da33a481" alt="Onlinuum" class="logo-text logo-dark" width="159" height="30" decoding="async">
+            <img src="/_media/images/site/logo.svg?v=da33a481" alt="Onlinuum" class="logo-text logo-light" width="159" height="30" decoding="async">
         </a>
 
         <div class="header-right">
@@ -734,8 +759,8 @@
                     <a href="about/"
                        class="icon-bar-link "
                        data-nav-index="12"
-                       title="About Vividigit"
-                       aria-label="About Vividigit">
+                       title="About Onlinuum"
+                       aria-label="About Onlinuum">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="28" height="28" class="icon icon-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
 
                         <span class="icon-bar-label type-label-caps">About</span>
@@ -798,7 +823,7 @@
                 <a href="blog/">Blog</a>
                 <span>/</span>
                 
-                <span>SEO Packages Compared — Essential, Strategic, and Managed | VIVIDIGIT</span>
+                <span>SEO Packages Compared — Essential, Strategic, and Managed | ONLINUUM</span>
             </nav>
             
 
@@ -810,7 +835,7 @@
     <a href="blog/?service=seo" class="tag tag-accent">SEO</a>
     
 
-    <h1 class="article-title">SEO Packages Compared — Essential, Strategic, and Managed | VIVIDIGIT</h1>
+    <h1 class="article-title">SEO Packages Compared — Essential, Strategic, and Managed | ONLINUUM</h1>
 
     <p class="article-meta">
         Dmitry Rasakhatsky
@@ -836,7 +861,7 @@
     <div class="article-content">
         <h1 id="seo-packages-compared-essential-strategic-and-managed">SEO Packages Compared: Essential, Strategic, and Managed</h1>
 <p>SEO pricing becomes difficult to compare when every provider uses the same words for different levels of work. A monthly fee may reserve a few advisory hours, a production team, or an undefined collection of activities. The price alone does not reveal who decides what happens next, who implements it, or how much can be completed at once.</p>
-<p>Vividigit's <a href="/services/seo/">SEO programs</a> use a different boundary: each 30-day cycle has an approved Cycle Plan made up of defined delivery batches. Essential, Strategic, and Managed set the available capacity, the number of concurrent workstreams, the implementation model, and the level of coordination. The plan then specifies the exact deliverables for that cycle.</p>
+<p>Onlinuum's <a href="/services/seo/">SEO programs</a> use a different boundary: each 30-day cycle has an approved Cycle Plan made up of defined delivery batches. Essential, Strategic, and Managed set the available capacity, the number of concurrent workstreams, the implementation model, and the level of coordination. The plan then specifies the exact deliverables for that cycle.</p>
 <p>This guide provides the full package comparison, including pricing, terms, the paid audit, multilingual add-ons, reporting, implementation responsibility, and the items that remain separately scoped.</p>
 <h2 id="seo-package-pricing-at-a-glance">SEO package pricing at a glance</h2>
 <table>
@@ -906,7 +931,7 @@
 <p>Instead, each cycle follows three boundaries:</p>
 <ol>
 <li>The SEO Audit establishes the baseline, risks, opportunities, and initial roadmap.</li>
-<li>Vividigit proposes the highest-priority delivery batches that fit the package capacity.</li>
+<li>Onlinuum proposes the highest-priority delivery batches that fit the package capacity.</li>
 <li>The client approves a Cycle Plan defining inputs, outputs, dependencies, acceptance criteria, and owners before delivery begins.</li>
 </ol>
 <p>A <strong>delivery batch</strong> is therefore a bounded, reviewable unit of work rather than a bundle of hours. It might cover a technical remediation specification, search-demand research and keyword-to-page mapping, an on-page optimization set, internal-link architecture, content briefs, measurement repair, or authority diagnosis and planning. Larger initiatives are split into multiple batches or scoped separately.</p>
@@ -1041,7 +1066,7 @@
 <p>The maximum batch count is a capacity boundary, not a promise that unrelated work will be added to fill space. Every batch still requires appropriate inputs, access, dependencies, and an agreed definition of completion.</p>
 <h2 id="essential-seo-focused-advisory-delivery">Essential SEO: focused advisory delivery</h2>
 <p><strong>Essential costs $1,990 per 30-day cycle</strong> and reserves one approved delivery batch in one active workstream. It is designed for a focused website with a clear priority and a team or developer able to implement production-ready recommendations.</p>
-<p>Essential uses the <strong>Advisory</strong> implementation model by default. Vividigit investigates the issue, makes the decisions explicit, and supplies implementation-ready recommendations, specifications, or tickets. The client's team deploys the changes. Vividigit reviews the agreed implementation within the boundary of the Cycle Plan.</p>
+<p>Essential uses the <strong>Advisory</strong> implementation model by default. Onlinuum investigates the issue, makes the decisions explicit, and supplies implementation-ready recommendations, specifications, or tickets. The client's team deploys the changes. Onlinuum reviews the agreed implementation within the boundary of the Cycle Plan.</p>
 <p>An Essential cycle includes:</p>
 <ul>
 <li>one approved delivery batch;</li>
@@ -1051,10 +1076,10 @@
 <li>a completion summary, key movement, and next recommendation.</li>
 </ul>
 <p>The initial program is three cycles, followed by cycle-to-cycle renewal.</p>
-<p>Essential is usually the clearest fit when a website has one dominant constraint, the internal team can act on precise instructions, and simultaneous technical, content, and authority initiatives are not required. It is not a good fit when multiple dependent workstreams must move together or when the client expects Vividigit to coordinate implementation across teams.</p>
+<p>Essential is usually the clearest fit when a website has one dominant constraint, the internal team can act on precise instructions, and simultaneous technical, content, and authority initiatives are not required. It is not a good fit when multiple dependent workstreams must move together or when the client expects Onlinuum to coordinate implementation across teams.</p>
 <h2 id="strategic-seo-coordinated-work-across-connected-priorities">Strategic SEO: coordinated work across connected priorities</h2>
 <p><strong>Strategic costs $2,990 per 30-day cycle</strong> and provides capacity for up to two approved delivery batches across up to two active workstreams. It is intended for growth sites where technical, architecture, on-page, content, or measurement decisions affect one another.</p>
-<p>Strategic uses the <strong>Assisted</strong> implementation model by default. Vividigit provides the strategy and production-ready outputs and may implement agreed CMS-safe SEO changes when access, permissions, and staging conditions allow. Engineering work remains separately scoped.</p>
+<p>Strategic uses the <strong>Assisted</strong> implementation model by default. Onlinuum provides the strategy and production-ready outputs and may implement agreed CMS-safe SEO changes when access, permissions, and staging conditions allow. Engineering work remains separately scoped.</p>
 <p>A Strategic cycle includes:</p>
 <ul>
 <li>up to two approved delivery batches;</li>
@@ -1067,7 +1092,7 @@
 <p>The initial program is three cycles, followed by cycle-to-cycle renewal.</p>
 <p>Strategic is the most balanced choice when a site needs connected work rather than a single isolated fix. One cycle might pair keyword-to-page architecture with priority-page optimization, or technical template decisions with internal-link planning. The important distinction is not simply “more tasks”; it is the capacity to coordinate decisions across workstreams.</p>
 <h2 id="managed-seo-portfolio-ownership-and-delivery-coordination">Managed SEO: portfolio ownership and delivery coordination</h2>
-<p><strong>Managed costs $4,990 per 30-day cycle</strong> and provides capacity for up to three approved delivery batches across up to three active workstreams. It is intended for complex websites, fast-moving teams, or organizations that want Vividigit to own SEO prioritization and delivery coordination.</p>
+<p><strong>Managed costs $4,990 per 30-day cycle</strong> and provides capacity for up to three approved delivery batches across up to three active workstreams. It is intended for complex websites, fast-moving teams, or organizations that want Onlinuum to own SEO prioritization and delivery coordination.</p>
 <p>The <strong>Managed</strong> implementation model adds rolling strategy, backlog ownership, dependency and risk tracking, agreed SEO-safe implementation, QA, and cross-team follow-through. Complex engineering, migrations, redesigns, infrastructure changes, and third-party production still require their own scope.</p>
 <p>A Managed cycle includes:</p>
 <ul>
@@ -1190,7 +1215,7 @@
 <p>Choose <strong>Essential</strong> when the audit identifies one clear priority, your team can deploy well-specified changes, and concentrating capacity in one workstream is more useful than parallel activity.</p>
 <p>Choose <strong>Strategic</strong> when two connected workstreams need to progress together, sequencing matters, and some CMS-safe implementation support will reduce the gap between recommendations and deployment.</p>
 <p>Choose <strong>Managed</strong> when the SEO portfolio spans multiple systems, teams, templates, releases, or markets and you need active backlog ownership, risk management, and delivery coordination.</p>
-<p>If the correct choice is not obvious, that is expected. The <a href="/scopes/seo-audit/">SEO Audit</a> exists to make the decision from evidence. You can also review the concise package overview on the <a href="/services/seo/">SEO Services page</a> and enquire about any package before the audit; Vividigit will confirm the appropriate route during qualification.</p>
+<p>If the correct choice is not obvious, that is expected. The <a href="/scopes/seo-audit/">SEO Audit</a> exists to make the decision from evidence. You can also review the concise package overview on the <a href="/services/seo/">SEO Services page</a> and enquire about any package before the audit; Onlinuum will confirm the appropriate route during qualification.</p>
 <h2 id="questions-to-ask-before-approving-any-seo-package">Questions to ask before approving any SEO package</h2>
 <p>Regardless of provider, a useful comparison should answer the following questions:</p>
 <ol>
@@ -1217,7 +1242,7 @@
     
     <div class="article-author">
         
-        <img src="_media/images/team/Dmitri-Rasakhatsky.jpg?v=a66e3b8f" alt="Dmitry Rasakhatsky" class="article-author-avatar article-author-photo" loading="lazy">
+        <img src="/_media/images/team/Dmitri-Rasakhatsky.jpg?v=da33a481" alt="Dmitry Rasakhatsky" class="article-author-avatar article-author-photo" loading="lazy">
         
         <div>
             
@@ -1301,7 +1326,11 @@
     var prevBtn = section.querySelector('.catalog-mini-prev');
     var nextBtn = section.querySelector('.catalog-mini-next');
     var LABELS = {};
-    var mediaHash = 'a66e3b8f';
+    var mediaHash = 'da33a481';
+    var STR = window.CMS_STRINGS || {};
+    var docLang = document.documentElement.lang || 'en';
+    var locale = docLang === 'en' ? 'en-US' : docLang;
+    var basePath = new URL(document.baseURI).pathname.replace(/\/$/, '');
 
     function mediaIconUrl(name) {
         var url = '/_media/icons/' + name + '.svg';
@@ -1352,10 +1381,10 @@
         if (!value) return '';
         var d = new Date(value);
         if (isNaN(d.getTime())) return String(value);
-        return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+        return d.toLocaleDateString(locale, { year: 'numeric', month: 'short', day: 'numeric' });
     }
-    function pluralize(count, singular, plural) {
-        return count + ' ' + (count === 1 ? singular : plural);
+    function pluralize(count, forms, fallback) {
+        return count + ' ' + window.cmsPlural(count, forms, fallback);
     }
     function isFeatured(item) {
         return !!(item && item.featured);
@@ -1375,7 +1404,7 @@
             return '#sidebar-contact';
         }
         var clean = normalized.replace(/^\.\//, '').replace(/^\/+/, '');
-        return clean ? ('/' + clean) : '/';
+        return clean ? (basePath + '/' + clean) : (basePath + '/');
     }
     function sortFeaturedFirst(items) {
         return items.slice().sort(function(a, b) {
@@ -1458,12 +1487,12 @@
         if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
         var price = formatCurrency(s.starting_price || s.from_price || s.price);
         var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(domainCount, 'domain', 'domains')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'scope', 'scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'expert', 'experts')) + '</span>');
-        if (industryCount > 1 || (industryCount === 1 && industryRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(industryCount, 'industry', 'industries')) + '</span>');
-        if (s.country_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.country_count, 'country', 'countries')) + '</span>');
-        if (s.language_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.language_count, 'language', 'languages')) + '</span>');
+        if (domainCount > 1) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(domainCount, STR.unit_domain, 'domain|domains')) + '</span>');
+        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, STR.unit_scope, 'scope|scopes')) + '</span>');
+        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, STR.unit_expert, 'expert|experts')) + '</span>');
+        if (industryCount > 1 || (industryCount === 1 && industryRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(industryCount, STR.unit_industry, 'industry|industries')) + '</span>');
+        if (s.country_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.country_count, STR.unit_country, 'country|countries')) + '</span>');
+        if (s.language_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.language_count, STR.unit_language, 'language|languages')) + '</span>');
         return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
             '<div class="service-card-header">' +
             '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
@@ -1472,8 +1501,8 @@
             (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
             (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
             '<div class="service-card-footer entity-card-footer">' +
-            (price ? '<span class="service-price entity-card-price">From ' + price + '</span>' : '<span></span>') +
-            '<span class="service-cta entity-card-cta">View Service</span></div></a>';
+            (price ? '<span class="service-price entity-card-price">' + window.cmsT('price_from', 'From') + ' ' + price + '</span>' : '<span></span>') +
+            '<span class="service-cta entity-card-cta">' + window.cmsT('action_view_service', 'View Service') + '</span></div></a>';
     }
 
     function renderDomainCard(s) {
@@ -1495,10 +1524,10 @@
         if (solutionCount === 1 && solutionRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-solutions"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("solutions", solutionRefs[0]) || toTitleCase(solutionRefs[0])) + '</span></div>');
         if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
         var metrics = [];
-        if (serviceCount > 1 || (serviceCount === 1 && serviceRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(serviceCount, 'service', 'services')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'scope', 'scopes')) + '</span>');
-        if (solutionCount > 1 || (solutionCount === 1 && solutionRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(solutionCount, 'solution', 'solutions')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'expert', 'experts')) + '</span>');
+        if (serviceCount > 1 || (serviceCount === 1 && serviceRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(serviceCount, STR.unit_service, 'service|services')) + '</span>');
+        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, STR.unit_scope, 'scope|scopes')) + '</span>');
+        if (solutionCount > 1 || (solutionCount === 1 && solutionRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(solutionCount, STR.unit_solution, 'solution|solutions')) + '</span>');
+        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, STR.unit_expert, 'expert|experts')) + '</span>');
         return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
             '<div class="service-card-header">' +
             '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
@@ -1506,7 +1535,7 @@
             '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
             (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
             (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
-            '<div class="service-card-footer entity-card-footer"><span></span><span class="service-cta entity-card-cta">Explore Domain</span></div></a>';
+            '<div class="service-card-footer entity-card-footer"><span></span><span class="service-cta entity-card-cta">' + window.cmsT('action_explore_domain', 'Explore Domain') + '</span></div></a>';
     }
 
     function renderSolutionCard(s) {
@@ -1559,26 +1588,26 @@
         }
         var exactHtml = exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '';
         var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(domainCount, 'domain', 'domains')) + '</span>');
-        if (serviceCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(serviceCount, 'service', 'services')) + '</span>');
-        if (scopeCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'scope', 'scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && !expertRefs.length)) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'expert', 'experts')) + '</span>');
-        if (s.case_count) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(s.case_count, 'case', 'cases')) + '</span>');
-        if (collection === 'languages' && marketCountryCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(marketCountryCount, 'market', 'markets')) + '</span>');
-        if (collection === 'countries' && significantLanguagesCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(significantLanguagesCount, 'language', 'languages')) + ' over 1%</span>');
+        if (domainCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(domainCount, STR.unit_domain, 'domain|domains')) + '</span>');
+        if (serviceCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(serviceCount, STR.unit_service, 'service|services')) + '</span>');
+        if (scopeCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(scopeCount, STR.unit_scope, 'scope|scopes')) + '</span>');
+        if (expertCount > 1 || (expertCount === 1 && !expertRefs.length)) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(expertCount, STR.unit_expert, 'expert|experts')) + '</span>');
+        if (s.case_count) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(s.case_count, STR.unit_case, 'case|cases')) + '</span>');
+        if (collection === 'languages' && marketCountryCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(marketCountryCount, STR.unit_market, 'market|markets')) + '</span>');
+        if (collection === 'countries' && significantLanguagesCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(significantLanguagesCount, STR.unit_language, 'language|languages')) + ' ' + window.cmsT('card_over_1pct', 'over 1%') + '</span>');
         var metricsHtml = metrics.length ? '<div class="dimension-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '';
         var highlightValue = '';
         var highlightLabel = '';
         if (collection === 'languages' && marketSpeakersDisplay) {
             highlightValue = marketSpeakersDisplay;
-            highlightLabel = 'Tracked speakers';
+            highlightLabel = window.cmsT('card_tracked_speakers', 'Tracked speakers');
         } else if (collection === 'countries' && s.population_total) {
             highlightValue = s.population_total;
-            highlightLabel = 'Market population';
+            highlightLabel = window.cmsT('card_market_population', 'Market population');
         }
         var footerClass = 'dimension-card-footer entity-card-footer' + (highlightValue ? ' dimension-card-footer-highlight' : '');
         var footerHtml = '<div class="' + footerClass + '">' +
-            (highlightValue ? '<div class="dimension-card-highlight case-result"><span class="result-value">' + esc(highlightValue) + '</span><span class="result-label">' + esc(highlightLabel) + '</span></div><span class="dimension-cta entity-card-cta">Explore</span>' : '<span></span><span class="dimension-cta entity-card-cta">Explore</span>') +
+            (highlightValue ? '<div class="dimension-card-highlight case-result"><span class="result-value">' + esc(highlightValue) + '</span><span class="result-label">' + esc(highlightLabel) + '</span></div><span class="dimension-cta entity-card-cta">' + window.cmsT('action_explore', 'Explore') + '</span>' : '<span></span><span class="dimension-cta entity-card-cta">' + window.cmsT('action_explore', 'Explore') + '</span>') +
             '</div>';
         return '<a href="' + url + '" class="dimension-card entity-card entity-card-padded">' +
             '<div class="dimension-card-header">' +
@@ -1752,7 +1781,7 @@
                 }
             })
             .catch(function() {
-                grid.innerHTML = '<div class="catalog-mini-empty">Could not load data.</div>';
+                grid.innerHTML = '<div class="catalog-mini-empty">' + window.cmsT('catalog_load_error', 'Could not load data.') + '</div>';
             });
     }
 
@@ -1838,7 +1867,7 @@
 <a href="/domains/search-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Search Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search-new.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search-new.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1876,7 +1905,7 @@
 <a href="/domains/web-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Web Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layers.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layers.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1940,14 +1969,14 @@
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Dima-Gerko.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Dima-Gerko.jpg?v=da33a481"
                  alt="Dima Gerko"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Dima-Gerko.jpg?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Dima-Gerko.jpg?v=da33a481'">
         </div>
         
     </div>
@@ -2038,14 +2067,14 @@
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Dmitri-Rasakhatsky.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Dmitri-Rasakhatsky.jpg?v=da33a481"
                  alt="Dmitry Rasakhatsky"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Dmitri-Rasakhatsky.jpg?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Dmitri-Rasakhatsky.jpg?v=da33a481'">
         </div>
         
     </div>
@@ -2130,14 +2159,14 @@
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Anastasia-Antaniuk.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Anastasia-Antaniuk.jpg?v=da33a481"
                  alt="Anastasiya Antoniuk"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Anastasia-Antaniuk.png?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Anastasia-Antaniuk.png?v=da33a481'">
         </div>
         
     </div>
@@ -2235,7 +2264,7 @@
 <a href="/solutions/global-seo" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Global SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2292,7 +2321,7 @@
 <a href="/solutions/international-seo" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">International SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2349,7 +2378,7 @@
 <a href="/solutions/multilingual-seo" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Multilingual SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2406,7 +2435,7 @@
 <a href="/solutions/seo-ecommerce" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">SEO for E-commerce</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2468,7 +2497,7 @@
 <a href="/services/seo" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2539,7 +2568,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">E-commerce</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/ecommerce.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/ecommerce.svg?v=da33a481')"></div>
         
     </div>
     
@@ -2595,7 +2624,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">SaaS</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/monitor.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/monitor.svg?v=da33a481')"></div>
         
     </div>
     
@@ -2651,7 +2680,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">Fintech</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/fintech.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/fintech.svg?v=da33a481')"></div>
         
     </div>
     
@@ -2707,7 +2736,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">Healthcare</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=da33a481')"></div>
         
     </div>
     
@@ -2763,7 +2792,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">Automotive</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/automotive.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/automotive.svg?v=da33a481')"></div>
         
     </div>
     
@@ -2819,7 +2848,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">Legal</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/legal.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/legal.svg?v=da33a481')"></div>
         
     </div>
     
@@ -2875,7 +2904,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">Manufacturing</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/manufacturing.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/manufacturing.svg?v=da33a481')"></div>
         
     </div>
     
@@ -4173,13 +4202,14 @@
                         <p class="footer-column-title">Legal operator</p>
                         <div class="footer-brand">
                             <div class="footer-logo">
-                                <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M39 40H33L21 8L12 32H6L9 24H3L0 16H6L9 24L15 8H21L18 0H24L39 40Z" fill="white"/>
+                                <svg viewBox="13 12 94 94" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                    <path d="M40 26 V72 A20 20 0 0 0 80 72 V54" stroke="white" stroke-width="14" stroke-linecap="round"/>
+                                    <circle cx="80" cy="28" r="8" fill="white"/>
                                 </svg>
                             </div>
                             <div class="footer-brand-copy">
-                                <p class="footer-company-name">Vividigit — vividigit.com</p>
-                                <p class="footer-brand-line">Operated by Dmitriy Gerko, Sole Trader (Portugal)</p>
+                                <p class="footer-company-name">Onlinuum — onlinuum.com</p>
+                                <p class="footer-brand-line">The Onlinuum brand is owned and operated by Vividigit Lda (Portugal)</p>
                                 <p class="footer-brand-note">NIF: 299863727</p>
                             </div>
                         </div>
@@ -4189,9 +4219,11 @@
                     <div class="footer-top-section footer-heritage">
                         <p class="footer-column-title">Background</p>
                         <div class="footer-heritage-logo">
-                            <img src="/_media/images/site/alconost-logo.svg?v=a66e3b8f" alt="Alconost Digital logo" loading="lazy" decoding="async" width="258" height="45">
+                            <img src="/_media/images/site/alconost-logo.svg?v=da33a481" alt="Alconost Digital logo" loading="lazy" decoding="async" width="258" height="45">
                         </div>
+                        
                         <p class="footer-brand-line">Former <a href="https://alconost.digital/en/" target="_blank" rel="noopener" class="footer-inline-link">Alconost Digital</a> team</p>
+                        
                         <p class="footer-brand-note">Working in multilingual digital services since 2008</p>
                     </div>
 
@@ -4216,7 +4248,7 @@
                             
                             <a href="https://clutch.co/profile/vividigit" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/clutch.svg?v=a66e3b8f" alt="Clutch logo" loading="lazy">
+                                    <img src="/_media/logos/clutch.svg?v=da33a481" alt="Clutch logo" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Clutch</span>
@@ -4229,7 +4261,7 @@
                             
                             <a href="https://www.google.com/maps" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/google-reviews.svg?v=a66e3b8f" alt="Google Reviews logo" loading="lazy">
+                                    <img src="/_media/logos/google-reviews.svg?v=da33a481" alt="Google Reviews logo" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Google Reviews</span>
@@ -4245,7 +4277,7 @@
                 </div>
 
                 <div class="footer-bottom">
-                    <p class="footer-text">&copy; 2026 Vividigit — vividigit.com</p>
+                    <p class="footer-text">&copy; 2026 Onlinuum — onlinuum.com</p>
                 </div>
             </footer>
         </main>
@@ -4306,6 +4338,7 @@
                         <p class="widget-text">Review everything you have added to the cart from any page, then continue to the full cart when you are ready.</p>
                     </div>
 
+                    
                     <div class="widget" id="cartItems" data-cart-scope="all" data-empty-msg="Your cart is empty. Add services, scopes, or solutions to start building your order.">
                         <p class="cart-empty-msg">Your cart is empty. Add services, scopes, or solutions to start building your order.</p>
                     </div>
@@ -4381,11 +4414,13 @@
     <div class="widget">
         <div class="widget-title">Contact Us</div>
         
+        
         <div class="form-group">
             
             <input type="text" class="form-input" placeholder="Your name" name="name">
             
         </div>
+        
         
         <div class="form-group">
             
@@ -4393,17 +4428,20 @@
             
         </div>
         
+        
         <div class="form-group">
             
             <input type="email" class="form-input" placeholder="Email address" name="email">
             
         </div>
         
+        
         <div class="form-group">
             
             <textarea class="form-input" rows="4" placeholder="Tell us about your project..." name="message"></textarea>
             
         </div>
+        
         
         <div class="form-group">
             <label class="sr-only" for="sidebarSource">How did you hear about us?</label>
@@ -4439,7 +4477,7 @@
                     data-error="Please confirm the privacy notice before sending your message."
                 >
                 <span class="legal-consent-copy">
-                    I have read the <a href="privacy/" class="legal-consent-link">Privacy Policy</a> and agree that Vividigit may process my details to respond to my request.
+                    I have read the <a href="privacy/" class="legal-consent-link">Privacy Policy</a> and agree that Onlinuum may process my details to respond to my request.
                 </span>
             </label>
         </div>
@@ -4477,7 +4515,7 @@
     </div>
 
     <!-- Site JavaScript -->
-    <script src="_assets/js/app-core.js?v=a6382adf" defer></script>
+    <script src="/_assets/js/app-core.js?v=43f5364d" defer></script>
     <!-- SVG templates for JS runtime use -->
     <div id="svg-templates" hidden>
         <span id="svg-theme-system"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="22" height="22" class="icon icon-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></span>
@@ -4486,8 +4524,8 @@
         <span id="svg-chevron-down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16" class="icon icon-chevron-down"><polyline points="6 9 12 15 18 9"/></svg></span>
     </div>
 
-    <script src="_assets/js/forms.js?v=c6eee7ef" defer></script>
-    <script src="_assets/js/ui.js?v=d99016a4" defer></script>
-    <script src="_assets/js/site.js?v=dca12656" defer></script>
+    <script src="/_assets/js/forms.js?v=13476383" defer></script>
+    <script src="/_assets/js/ui.js?v=25617ee5" defer></script>
+    <script src="/_assets/js/site.js?v=85861bf0" defer></script>
 </body>
 </html>

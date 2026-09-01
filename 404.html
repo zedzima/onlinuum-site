@@ -6,29 +6,34 @@
     <base href="/">
     
     
+    
+    
+    
         
     
-    <title>404 — Page Not Found — VIVIDIGIT</title>
+    <title>404 — Page Not Found — ONLINUUM</title>
     <meta name="description" content="The page you requested was not found.">
     <meta name="robots" content="noindex,follow">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://vividigit.com/404/">
+    <link rel="canonical" href="https://onlinuum.com/404/">
+
+    
 
     <!-- Open Graph -->
     
     <meta property="og:type" content="website">
     
-    <meta property="og:site_name" content="Vividigit">
+    <meta property="og:site_name" content="Onlinuum">
     <meta property="og:title" content="404 — Page Not Found">
     <meta property="og:description" content="The page you requested was not found.">
-    <meta property="og:url" content="https://vividigit.com/404/">
-    <meta property="og:image" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
-    <meta property="og:image:secure_url" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
+    <meta property="og:url" content="https://onlinuum.com/404/">
+    <meta property="og:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
+    <meta property="og:image:secure_url" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="VIVIDIGIT logo">
+    <meta property="og:image:alt" content="ONLINUUM logo">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -36,10 +41,10 @@
     <meta name="twitter:site" content="@vividigit">
     <meta name="twitter:title" content="404 — Page Not Found">
     <meta name="twitter:description" content="The page you requested was not found.">
-    <meta name="twitter:image" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
+    <meta name="twitter:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="_media/images/site/favicon.svg?v=a66e3b8f">
+    <link rel="icon" type="image/svg+xml" href="/_media/images/site/favicon.svg?v=da33a481">
 
     
     
@@ -47,7 +52,7 @@
     
 
     <!-- Fonts -->
-    <link rel="preload" href="_media/fonts/jetbrains-mono-latin.woff2?v=a66e3b8f" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/_media/fonts/jetbrains-mono-latin.woff2?v=da33a481" as="font" type="font/woff2" crossorigin>
     
 
     <script>
@@ -66,17 +71,36 @@
     </script>
 
     <!-- Styles -->
-    <link rel="preload" href="_assets/css/styles.css?v=5117b587" as="style">
-    <link rel="stylesheet" href="_assets/css/styles.css?v=5117b587">
+    
+    <link rel="preload" href="/_assets/css/styles.css?v=9b7530bf" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=9b7530bf">
     <script>
-    window.VividigitAssetHashes = {
-        cart: '6aa4cd7f',
-        media: 'a66e3b8f'
+    window.OnlinuumAssetHashes = {
+        cart: '15867eb7',
+        media: 'da33a481'
     };
     </script>
     <script>
-    window.VividigitDomainContext = (function(w) {
-        var storageKey = 'vividigit_selected_domain_v1';
+    // Per-language UI strings bridge for shared JS bundles. Empty for the
+    // default language — cmsT then always returns the English fallback.
+    window.CMS_STRINGS = {};
+    window.cmsT = function(key, fallback) {
+        return window.CMS_STRINGS[key] || fallback;
+    };
+    window.cmsPlural = function(count, forms, fallback) {
+        var n = Math.abs(parseInt(count, 10) || 0);
+        var parts = String(forms || fallback || '').split('|').map(function(p) { return p.trim(); }).filter(Boolean);
+        if (!parts.length) return '';
+        if (parts.length === 1) return parts[0];
+        if (parts.length === 2) return n === 1 ? parts[0] : parts[1];
+        if (n % 10 === 1 && n % 100 !== 11) return parts[0];
+        if (n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) return parts[1];
+        return parts[2];
+    };
+    </script>
+    <script>
+    window.OnlinuumDomainContext = (function(w) {
+        var storageKey = 'onlinuum_selected_domain_v1';
         var ttlMs = 12 * 60 * 60 * 1000;
 
         function parse(raw) {
@@ -162,8 +186,8 @@
             syncUrl: syncUrl
         };
     })(window);
-    window.VividigitFilterContext = (function(w) {
-        var storageKey = 'vividigit_selected_filters_v1';
+    window.OnlinuumFilterContext = (function(w) {
+        var storageKey = 'onlinuum_selected_filters_v1';
         var ttlMs = 12 * 60 * 60 * 1000;
 
         function parse(raw) {
@@ -261,14 +285,14 @@
     
     
     </script>
-    <script src="_assets/js/cards.js?v=1ffd1b23" defer></script>
+    <script src="/_assets/js/cards.js?v=036223b2" defer></script>
 
     <!-- Analytics (skip on block demo pages) -->
     
     <script>
     window.dataLayer = window.dataLayer || [];
-    window.VividigitConsent = (function(w) {
-        var storageKey = 'vividigit_cookie_consent_v1';
+    window.OnlinuumConsent = (function(w) {
+        var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
 
@@ -432,7 +456,7 @@
                 if (state && state.analytics) loadGtm();
             });
         }
-    })(window, document, 'dataLayer', 'GTM-WXWHHQXN', window.VividigitConsent);
+    })(window, document, 'dataLayer', 'GTM-WXWHHQXN', window.OnlinuumConsent);
     </script>
     
     
@@ -442,9 +466,9 @@
     {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "Vividigit",
-        "url": "https://vividigit.com",
-        "logo": "https://vividigit.com/_media/images/site/favicon.svg?v=a66e3b8f",
+        "name": "Onlinuum",
+        "url": "https://onlinuum.com",
+        "logo": "https://onlinuum.com/_media/images/site/favicon.svg?v=da33a481",
         "description": "Productized marketing services marketplace",
         "contactPoint": {
             "@type": "ContactPoint",
@@ -466,13 +490,13 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://vividigit.com/"
+                "item": "https://onlinuum.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "404",
-                "item": "https://vividigit.com/404/"
+                "item": "https://onlinuum.com/404/"
             }
         ]
     }
@@ -513,7 +537,8 @@
         </div>
 
         <a href="./" class="logo">
-            <img src="_media/images/site/logo-gradient.svg?v=a66e3b8f" alt="Vividigit" class="logo-text" width="156" height="30" decoding="async">
+            <img src="/_media/images/site/logo-white.svg?v=da33a481" alt="Onlinuum" class="logo-text logo-dark" width="159" height="30" decoding="async">
+            <img src="/_media/images/site/logo.svg?v=da33a481" alt="Onlinuum" class="logo-text logo-light" width="159" height="30" decoding="async">
         </a>
 
         <div class="header-right">
@@ -693,8 +718,8 @@
                     <a href="about/"
                        class="icon-bar-link "
                        data-nav-index="12"
-                       title="About Vividigit"
-                       aria-label="About Vividigit">
+                       title="About Onlinuum"
+                       aria-label="About Onlinuum">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="28" height="28" class="icon icon-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
 
                         <span class="icon-bar-label type-label-caps">About</span>
@@ -1014,13 +1039,14 @@
                         <p class="footer-column-title">Legal operator</p>
                         <div class="footer-brand">
                             <div class="footer-logo">
-                                <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M39 40H33L21 8L12 32H6L9 24H3L0 16H6L9 24L15 8H21L18 0H24L39 40Z" fill="white"/>
+                                <svg viewBox="13 12 94 94" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                    <path d="M40 26 V72 A20 20 0 0 0 80 72 V54" stroke="white" stroke-width="14" stroke-linecap="round"/>
+                                    <circle cx="80" cy="28" r="8" fill="white"/>
                                 </svg>
                             </div>
                             <div class="footer-brand-copy">
-                                <p class="footer-company-name">Vividigit — vividigit.com</p>
-                                <p class="footer-brand-line">Operated by Dmitriy Gerko, Sole Trader (Portugal)</p>
+                                <p class="footer-company-name">Onlinuum — onlinuum.com</p>
+                                <p class="footer-brand-line">The Onlinuum brand is owned and operated by Vividigit Lda (Portugal)</p>
                                 <p class="footer-brand-note">NIF: 299863727</p>
                             </div>
                         </div>
@@ -1030,9 +1056,11 @@
                     <div class="footer-top-section footer-heritage">
                         <p class="footer-column-title">Background</p>
                         <div class="footer-heritage-logo">
-                            <img src="/_media/images/site/alconost-logo.svg?v=a66e3b8f" alt="Alconost Digital logo" loading="lazy" decoding="async" width="258" height="45">
+                            <img src="/_media/images/site/alconost-logo.svg?v=da33a481" alt="Alconost Digital logo" loading="lazy" decoding="async" width="258" height="45">
                         </div>
+                        
                         <p class="footer-brand-line">Former <a href="https://alconost.digital/en/" target="_blank" rel="noopener" class="footer-inline-link">Alconost Digital</a> team</p>
+                        
                         <p class="footer-brand-note">Working in multilingual digital services since 2008</p>
                     </div>
 
@@ -1057,7 +1085,7 @@
                             
                             <a href="https://clutch.co/profile/vividigit" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/clutch.svg?v=a66e3b8f" alt="Clutch logo" loading="lazy">
+                                    <img src="/_media/logos/clutch.svg?v=da33a481" alt="Clutch logo" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Clutch</span>
@@ -1070,7 +1098,7 @@
                             
                             <a href="https://www.google.com/maps" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/google-reviews.svg?v=a66e3b8f" alt="Google Reviews logo" loading="lazy">
+                                    <img src="/_media/logos/google-reviews.svg?v=da33a481" alt="Google Reviews logo" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Google Reviews</span>
@@ -1086,7 +1114,7 @@
                 </div>
 
                 <div class="footer-bottom">
-                    <p class="footer-text">&copy; 2026 Vividigit — vividigit.com</p>
+                    <p class="footer-text">&copy; 2026 Onlinuum — onlinuum.com</p>
                 </div>
             </footer>
         </main>
@@ -1147,6 +1175,7 @@
                         <p class="widget-text">Review everything you have added to the cart from any page, then continue to the full cart when you are ready.</p>
                     </div>
 
+                    
                     <div class="widget" id="cartItems" data-cart-scope="all" data-empty-msg="Your cart is empty. Add services, scopes, or solutions to start building your order.">
                         <p class="cart-empty-msg">Your cart is empty. Add services, scopes, or solutions to start building your order.</p>
                     </div>
@@ -1198,11 +1227,13 @@
     <div class="widget">
         <div class="widget-title">Contact Us</div>
         
+        
         <div class="form-group">
             
             <input type="text" class="form-input" placeholder="Your name" name="name">
             
         </div>
+        
         
         <div class="form-group">
             
@@ -1210,17 +1241,20 @@
             
         </div>
         
+        
         <div class="form-group">
             
             <input type="email" class="form-input" placeholder="Email address" name="email">
             
         </div>
         
+        
         <div class="form-group">
             
             <textarea class="form-input" rows="4" placeholder="Tell us about your project..." name="message"></textarea>
             
         </div>
+        
         
         <div class="form-group">
             <label class="sr-only" for="sidebarSource">How did you hear about us?</label>
@@ -1256,7 +1290,7 @@
                     data-error="Please confirm the privacy notice before sending your message."
                 >
                 <span class="legal-consent-copy">
-                    I have read the <a href="privacy/" class="legal-consent-link">Privacy Policy</a> and agree that Vividigit may process my details to respond to my request.
+                    I have read the <a href="privacy/" class="legal-consent-link">Privacy Policy</a> and agree that Onlinuum may process my details to respond to my request.
                 </span>
             </label>
         </div>
@@ -1293,7 +1327,7 @@
     </div>
 
     <!-- Site JavaScript -->
-    <script src="_assets/js/app-core.js?v=a6382adf" defer></script>
+    <script src="/_assets/js/app-core.js?v=43f5364d" defer></script>
     <!-- SVG templates for JS runtime use -->
     <div id="svg-templates" hidden>
         <span id="svg-theme-system"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="22" height="22" class="icon icon-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></span>
@@ -1302,8 +1336,8 @@
         <span id="svg-chevron-down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16" class="icon icon-chevron-down"><polyline points="6 9 12 15 18 9"/></svg></span>
     </div>
 
-    <script src="_assets/js/forms.js?v=c6eee7ef" defer></script>
-    <script src="_assets/js/ui.js?v=d99016a4" defer></script>
-    <script src="_assets/js/site.js?v=dca12656" defer></script>
+    <script src="/_assets/js/forms.js?v=13476383" defer></script>
+    <script src="/_assets/js/ui.js?v=25617ee5" defer></script>
+    <script src="/_assets/js/site.js?v=85861bf0" defer></script>
 </body>
 </html>

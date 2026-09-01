@@ -3,8 +3,8 @@
  * Initializes the public-site modules in a fixed order.
  */
 (function() {
-    var app = window.VividigitApp = window.VividigitApp || {};
-    var assetHashes = window.VividigitAssetHashes || {};
+    var app = window.OnlinuumApp = window.OnlinuumApp || {};
+    var assetHashes = window.OnlinuumAssetHashes || {};
     var cartLoadCallbacks = [];
     var cartScriptRequested = false;
 
@@ -16,7 +16,7 @@
         if (!badge) return;
 
         try {
-            payload = JSON.parse(localStorage.getItem('vividigit_cart') || '{}');
+            payload = JSON.parse(localStorage.getItem('onlinuum_cart') || '{}');
             count = Object.keys((payload && payload.items) || {}).length;
         } catch (e) {
             count = 0;
@@ -54,7 +54,7 @@
         cartScriptRequested = true;
 
         var script = document.createElement('script');
-        script.src = '_assets/js/cart.js' + (assetHashes.cart ? '?v=' + assetHashes.cart : '');
+        script.src = '/_assets/js/cart.js' + (assetHashes.cart ? '?v=' + assetHashes.cart : '');
         script.defer = true;
         script.onload = function() {
             app.initCart?.();
@@ -69,7 +69,7 @@
     }
 
     function initConsentControls() {
-        var consent = window.VividigitConsent;
+        var consent = window.OnlinuumConsent;
         var banner = document.getElementById('cookieConsent');
         var prefs = document.getElementById('cookiePreferences');
         var settingsButtons = document.querySelectorAll('[data-cookie-open]');

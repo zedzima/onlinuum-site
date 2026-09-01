@@ -3,7 +3,9 @@
  * Contact flows, CTA routing, and enhanced selects.
  */
 (function() {
-    var app = window.VividigitApp = window.VividigitApp || {};
+    var app = window.OnlinuumApp = window.OnlinuumApp || {};
+    var cmsT = (typeof window !== 'undefined' && window.cmsT) ? window.cmsT : function (k, fb) { return fb; };
+    var cmsPlural = (typeof window !== 'undefined' && window.cmsPlural) ? window.cmsPlural : function (n, f, fb) { var p = String(fb || '').split('|'); return n === 1 ? p[0] : (p[1] || p[0]); };
 
     function initSidebarTabs() {
         document.querySelectorAll('.sidebar-tabs').forEach(function(tabs) {
@@ -244,7 +246,7 @@
 
             if (ctaAction === 'booking-disabled') {
                 e.preventDefault();
-                alert('Booking is not available yet.');
+                alert(cmsT('form_booking_unavailable', 'Booking is not available yet.'));
                 return;
             }
 
@@ -315,7 +317,7 @@
 
         canonicalHref = document.querySelector('link[rel="canonical"]')?.getAttribute('href') || '';
         pageUrl = canonicalHref.trim() || window.location.href;
-        pageTitle = document.title || 'VIVIDIGIT';
+        pageTitle = document.title || 'ONLINUUM';
         encodedUrl = encodeURIComponent(pageUrl);
         encodedTitle = encodeURIComponent(pageTitle);
 
@@ -329,14 +331,14 @@
             } else if (network === 'facebook' && btn.tagName === 'A') {
                 btn.href = 'https://www.facebook.com/sharer/sharer.php?u=' + encodedUrl;
             } else if (network === 'copy') {
-                var originalTitle = btn.getAttribute('title') || 'Copy Link';
-                var originalAria = btn.getAttribute('aria-label') || 'Copy Link';
+                var originalTitle = btn.getAttribute('title') || cmsT('ui_copy_link', 'Copy Link');
+                var originalAria = btn.getAttribute('aria-label') || cmsT('ui_copy_link', 'Copy Link');
 
                 btn.addEventListener('click', function() {
                     var markCopied = function() {
                         btn.classList.add('copied');
-                        btn.setAttribute('title', 'Copied');
-                        btn.setAttribute('aria-label', 'Copied');
+                        btn.setAttribute('title', cmsT('ui_copied', 'Copied'));
+                        btn.setAttribute('aria-label', cmsT('ui_copied', 'Copied'));
                         setTimeout(function() {
                             btn.classList.remove('copied');
                             btn.setAttribute('title', originalTitle);
@@ -346,10 +348,10 @@
 
                     if (navigator.clipboard && navigator.clipboard.writeText) {
                         navigator.clipboard.writeText(pageUrl).then(markCopied).catch(function() {
-                            window.prompt('Copy this link:', pageUrl);
+                            window.prompt(cmsT('ui_copy_link_prompt', 'Copy this link:'), pageUrl);
                         });
                     } else {
-                        window.prompt('Copy this link:', pageUrl);
+                        window.prompt(cmsT('ui_copy_link_prompt', 'Copy this link:'), pageUrl);
                     }
                 });
             }
@@ -473,7 +475,7 @@
 
                 label.textContent = hasValue
                     ? selected.textContent
-                    : (fallback ? fallback.textContent : 'Select');
+                    : (fallback ? fallback.textContent : cmsT('form_select_placeholder', 'Select'));
                 toggle.classList.toggle('is-placeholder', !hasValue);
 
                 menu.querySelectorAll('.source-select-option').forEach(function(optionBtn) {
@@ -585,10 +587,10 @@
         if (!submitBtn) return Promise.resolve(false);
 
         originalText = submitBtn.textContent;
-        submitBtn.textContent = 'Sending...';
+        submitBtn.textContent = cmsT('form_sending', 'Sending...');
         submitBtn.disabled = true;
         queryParams = new URLSearchParams(window.location.search);
-        consent = window.VividigitConsent;
+        consent = window.OnlinuumConsent;
         analyticsConsentState = consent && consent.hasChoice
             ? (consent.hasChoice() ? (consent.has('analytics') ? 'granted' : 'denied') : 'unset')
             : 'unavailable';
@@ -627,7 +629,7 @@
                     response: data
                 });
             } else {
-                submitBtn.textContent = 'Sent!';
+                submitBtn.textContent = cmsT('form_sent', 'Sent!');
                 setTimeout(function() {
                     submitBtn.textContent = originalText;
                     submitBtn.disabled = false;
@@ -637,7 +639,7 @@
             return true;
         })
         .catch(function() {
-            submitBtn.textContent = 'Error. Try again.';
+            submitBtn.textContent = cmsT('form_error_try_again', 'Error. Try again.');
             submitBtn.disabled = false;
             setTimeout(function() {
                 submitBtn.textContent = originalText;
@@ -666,7 +668,7 @@
                 e.preventDefault();
 
                 if (uncheckedLegal) {
-                    alert(uncheckedLegal.dataset.error || 'Please confirm the required legal notice.');
+                    alert(uncheckedLegal.dataset.error || cmsT('form_legal_required', 'Please confirm the required legal notice.'));
                     uncheckedLegal.focus();
                     return;
                 }
@@ -690,7 +692,7 @@
                 });
 
                 if (!hasEmail || !formData.email || !formData.email.includes('@')) {
-                    alert('Please enter a valid email address.');
+                    alert(cmsT('form_email_invalid', 'Please enter a valid email address.'));
                     return;
                 }
 
@@ -729,7 +731,7 @@
                         input.checked = false;
                     });
 
-                    submitBtn.textContent = 'Sent!';
+                    submitBtn.textContent = cmsT('form_sent', 'Sent!');
                     setTimeout(function() {
                         submitBtn.textContent = state.originalText;
                         submitBtn.disabled = false;

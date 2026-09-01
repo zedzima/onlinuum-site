@@ -3,13 +3,15 @@
  * Local cart state, sidebar order UI, and cart page rendering.
  */
 (function() {
-    var app = window.VividigitApp = window.VividigitApp || {};
+    var cmsT = (typeof window !== 'undefined' && window.cmsT) ? window.cmsT : function (k, fb) { return fb; };
+    var cmsPlural = (typeof window !== 'undefined' && window.cmsPlural) ? window.cmsPlural : function (n, f, fb) { var p = String(fb || '').split('|'); return n === 1 ? p[0] : (p[1] || p[0]); };
+    var app = window.OnlinuumApp = window.OnlinuumApp || {};
     var _billingPeriod = 'monthly';
     var _billingDiscount = 0;
 
     function getConfig() {
         return app.config || {
-            cartStorageKey: 'vividigit_cart',
+            cartStorageKey: 'onlinuum_cart',
             langPct: 0.6,
             countryPct: 0.4
         };
@@ -404,31 +406,31 @@
 
             if (item.custom) {
                 return {
-                    baseLabel: 'Custom',
-                    totalLabel: 'Custom',
+                    baseLabel: cmsT('cart_custom', 'Custom'),
+                    totalLabel: cmsT('cart_custom', 'Custom'),
                     detailLines: detailLines
                 };
             }
 
             if (isServiceCartItem(item)) {
                 if (item.payment === 'monthly') {
-                    suffix = '/mo';
-                    detailLines.push('Monthly subscription');
+                    suffix = cmsT('cart_per_mo', '/mo');
+                    detailLines.push(cmsT('cart_monthly_subscription', 'Monthly subscription'));
                 } else if (item.payment === 'yearly') {
-                    suffix = '/year';
-                    detailLines.push('Billed upfront · ' + formatMoney(this.getEquivalentMonthlyTotal(item)) + '/mo equivalent');
+                    suffix = cmsT('cart_per_year', '/year');
+                    detailLines.push(cmsT('cart_billed_upfront', 'Billed upfront') + ' · ' + formatMoney(this.getEquivalentMonthlyTotal(item)) + cmsT('cart_mo_equivalent', '/mo equivalent'));
                     if (this.getAnnualSavings(item) > 0) {
-                        detailLines.push('Save ' + formatMoney(this.getAnnualSavings(item)) + '/year');
+                        detailLines.push(cmsT('cart_save', 'Save') + ' ' + formatMoney(this.getAnnualSavings(item)) + cmsT('cart_per_year', '/year'));
                     }
                 } else {
-                    detailLines.push('One-time service engagement');
+                    detailLines.push(cmsT('cart_one_time_service', 'One-time service engagement'));
                 }
             } else if (itemType === 'Solution') {
-                detailLines.push('One-time solution audit');
+                detailLines.push(cmsT('cart_one_time_solution', 'One-time solution audit'));
             } else if (itemType === 'Scope') {
-                detailLines.push('One-time scope deliverable');
+                detailLines.push(cmsT('cart_one_time_scope', 'One-time scope deliverable'));
             } else {
-                detailLines.push('One-time deliverable');
+                detailLines.push(cmsT('cart_one_time_deliverable', 'One-time deliverable'));
             }
 
             return {
@@ -568,7 +570,7 @@
             if (!container) return;
 
             scope = container.dataset.cartScope || 'all';
-            emptyMessage = container.dataset.emptyMsg || 'Your cart is empty.';
+            emptyMessage = container.dataset.emptyMsg || cmsT('cart_empty', 'Your cart is empty.');
 
             for (var slug of Object.keys(this.items)) {
                 if (scope === 'current' && this.items[slug].page !== window.location.pathname) continue;
@@ -620,16 +622,16 @@
                         }).join('') +
                         '<div class="cart-line-controls">' +
                             '<div class="cart-line-row cart-line-row-payment">' +
-                                '<span class="cart-line-label">Payment</span>' +
+                                '<span class="cart-line-label">' + cmsT('cart_payment', 'Payment') + '</span>' +
                                 '<div class="cart-line-row-actions">' + paymentControl + '</div>' +
                             '</div>' +
-                            buildSidebarModifierControl(item, itemSlug, 'langCount', 'Additional Languages', perLang) +
-                            buildSidebarModifierControl(item, itemSlug, 'countryCount', 'Additional Countries', perCountry) +
+                            buildSidebarModifierControl(item, itemSlug, 'langCount', cmsT('cart_additional_languages', 'Additional Languages'), perLang) +
+                            buildSidebarModifierControl(item, itemSlug, 'countryCount', cmsT('cart_additional_countries', 'Additional Countries'), perCountry) +
                         '</div>' +
                     '</div>' +
                     '<div class="cart-item-actions">' +
                         '<span class="cart-item-price">' + pricingMeta.totalLabel + '</span>' +
-                        '<button class="cart-item-remove" data-slug="' + escapeHtml(itemSlug) + '" title="Remove">&times;</button>' +
+                        '<button class="cart-item-remove" data-slug="' + escapeHtml(itemSlug) + '" title="' + cmsT('cart_remove', 'Remove') + '">&times;</button>' +
                     '</div>' +
                 '</div>';
             }
@@ -669,28 +671,28 @@
             var summaryLines = [];
             var isMonthlyOnly = pageSummary.monthlyRecurring > 0 && pageSummary.monthlyRecurring === pageSummary.dueToday;
 
-            if (subtotalEl) subtotalEl.textContent = (hasCustom ? 'From ' : '') + formatMoney(subtotal);
+            if (subtotalEl) subtotalEl.textContent = (hasCustom ? cmsT('price_from', 'From') + ' ' : '') + formatMoney(subtotal);
             if (feesEl) feesEl.textContent = modifierTotal > 0 ? '+' + formatMoney(modifierTotal) : '$0';
-            if (subtotalLabelEl) subtotalLabelEl.textContent = isMonthlyOnly ? 'Base / mo' : (pageSummary.yearlyEquivalentMonthly > 0 && pageSummary.monthlyRecurring === 0 ? 'Base / year' : 'Base');
-            if (feesLabelEl) feesLabelEl.textContent = isMonthlyOnly ? 'Modifiers / mo' : (pageSummary.yearlyEquivalentMonthly > 0 && pageSummary.monthlyRecurring === 0 ? 'Modifiers / year' : 'Modifiers');
+            if (subtotalLabelEl) subtotalLabelEl.textContent = isMonthlyOnly ? cmsT('cart_base_per_mo', 'Base / mo') : (pageSummary.yearlyEquivalentMonthly > 0 && pageSummary.monthlyRecurring === 0 ? cmsT('cart_base_per_year', 'Base / year') : cmsT('cart_base', 'Base'));
+            if (feesLabelEl) feesLabelEl.textContent = isMonthlyOnly ? cmsT('cart_modifiers_per_mo', 'Modifiers / mo') : (pageSummary.yearlyEquivalentMonthly > 0 && pageSummary.monthlyRecurring === 0 ? cmsT('cart_modifiers_per_year', 'Modifiers / year') : cmsT('cart_modifiers', 'Modifiers'));
             if (totalEl) {
                 if (isMonthlyOnly) {
-                    totalEl.textContent = (hasCustom ? 'From ' : '') + formatMoney(pageSummary.monthlyRecurring) + '/mo';
+                    totalEl.textContent = (hasCustom ? cmsT('price_from', 'From') + ' ' : '') + formatMoney(pageSummary.monthlyRecurring) + cmsT('cart_per_mo', '/mo');
                 } else {
-                    totalEl.textContent = (hasCustom ? 'From ' : '') + formatMoney(pageSummary.dueToday);
+                    totalEl.textContent = (hasCustom ? cmsT('price_from', 'From') + ' ' : '') + formatMoney(pageSummary.dueToday);
                 }
             }
             if (totalLabelEl) {
-                totalLabelEl.textContent = isMonthlyOnly ? 'Monthly Total' : 'Due Today';
+                totalLabelEl.textContent = isMonthlyOnly ? cmsT('cart_monthly_total', 'Monthly Total') : cmsT('cart_due_today', 'Due Today');
             }
             if (pageSummary.monthlyRecurring > 0 && !isMonthlyOnly) {
-                summaryLines.push('<div class="cart-summary-line"><span>Monthly recurring</span><strong>' + formatMoney(pageSummary.monthlyRecurring) + '/mo</strong></div>');
+                summaryLines.push('<div class="cart-summary-line"><span>' + cmsT('cart_monthly_recurring', 'Monthly recurring') + '</span><strong>' + formatMoney(pageSummary.monthlyRecurring) + cmsT('cart_per_mo', '/mo') + '</strong></div>');
             }
             if (pageSummary.yearlyEquivalentMonthly > 0) {
-                summaryLines.push('<div class="cart-summary-line"><span>Equivalent monthly</span><strong>' + formatMoney(pageSummary.yearlyEquivalentMonthly) + '/mo</strong></div>');
+                summaryLines.push('<div class="cart-summary-line"><span>' + cmsT('cart_equivalent_monthly', 'Equivalent monthly') + '</span><strong>' + formatMoney(pageSummary.yearlyEquivalentMonthly) + cmsT('cart_per_mo', '/mo') + '</strong></div>');
             }
             if (pageSummary.yearlySavings > 0) {
-                summaryLines.push('<div class="cart-summary-line"><span>You save</span><strong>' + formatMoney(pageSummary.yearlySavings) + '/year</strong></div>');
+                summaryLines.push('<div class="cart-summary-line"><span>' + cmsT('cart_you_save', 'You save') + '</span><strong>' + formatMoney(pageSummary.yearlySavings) + cmsT('cart_per_year', '/year') + '</strong></div>');
             }
             if (summaryMetaEl) {
                 summaryMetaEl.innerHTML = summaryLines.join('');
@@ -754,19 +756,19 @@
         var html = '';
 
         if (!isServiceCartItem(item)) {
-            return '<span class="cart-payment-label">One-time</span>';
+            return '<span class="cart-payment-label">' + cmsT('cart_one_time', 'One-time') + '</span>';
         }
 
         if (billing.oneTime && !billing.monthly && !billing.yearly) {
-            return '<span class="cart-payment-label">One-time</span>';
+            return '<span class="cart-payment-label">' + cmsT('cart_one_time', 'One-time') + '</span>';
         }
 
         html += '<div class="cart-payment-tabs">';
         if (billing.monthly) {
-            html += '<button class="cart-payment-opt' + (item.payment === 'monthly' ? ' active' : '') + '" data-slug="' + safeSlug + '" data-val="monthly">Monthly</button>';
+            html += '<button class="cart-payment-opt' + (item.payment === 'monthly' ? ' active' : '') + '" data-slug="' + safeSlug + '" data-val="monthly">' + cmsT('cart_monthly', 'Monthly') + '</button>';
         }
         if (billing.yearly) {
-            html += '<button class="cart-payment-opt' + (item.payment === 'yearly' ? ' active' : '') + '" data-slug="' + safeSlug + '" data-val="yearly">Yearly</button>';
+            html += '<button class="cart-payment-opt' + (item.payment === 'yearly' ? ' active' : '') + '" data-slug="' + safeSlug + '" data-val="yearly">' + cmsT('cart_yearly', 'Yearly') + '</button>';
         }
         html += '</div>';
         return html;
@@ -1057,7 +1059,7 @@
             if (!isDisabled) return;
             e.preventDefault();
             if (!document.getElementById('cartPage')) {
-                alert('Please select services to build your order.');
+                alert(cmsT('cart_select_services_alert', 'Please select services to build your order.'));
             }
         });
     }
@@ -1095,10 +1097,10 @@
 
         function renderEmptyCartPage() {
             cartPage.innerHTML = '<div class="cart-page-empty">' +
-                '<p>Your cart is empty</p>' +
+                '<p>' + cmsT('cart_page_empty', 'Your cart is empty') + '</p>' +
                 '<div class="cart-actions" style="justify-content:center;">' +
-                    '<a href="services/" class="btn btn-primary">Browse Services</a>' +
-                    (cart._backup ? '<button class="btn btn-secondary" id="cartRestore">Restore Cart</button>' : '') +
+                    '<a href="services/" class="btn btn-primary">' + cmsT('cart_browse_services', 'Browse Services') + '</a>' +
+                    (cart._backup ? '<button class="btn btn-secondary" id="cartRestore">' + cmsT('cart_restore_cart', 'Restore Cart') + '</button>' : '') +
                 '</div>' +
             '</div>';
 
@@ -1109,12 +1111,12 @@
 
         function buildCartTable(keys) {
             var html = '<div class="cart-table-wrap"><table class="cart-table"><thead><tr>' +
-                '<th>Item</th>' +
-                '<th>Type</th>' +
-                '<th>Payment</th>' +
-                '<th>Additional Languages</th>' +
-                '<th>Additional Countries</th>' +
-                '<th class="text-right">Total</th>' +
+                '<th>' + cmsT('cart_item', 'Item') + '</th>' +
+                '<th>' + cmsT('cart_type', 'Type') + '</th>' +
+                '<th>' + cmsT('cart_payment', 'Payment') + '</th>' +
+                '<th>' + cmsT('cart_additional_languages', 'Additional Languages') + '</th>' +
+                '<th>' + cmsT('cart_additional_countries', 'Additional Countries') + '</th>' +
+                '<th class="text-right">' + cmsT('cart_total', 'Total') + '</th>' +
                 '<th></th>' +
             '</tr></thead><tbody>';
             var grandTotal = 0;
@@ -1135,7 +1137,7 @@
                 var tierStr;
                 var billing;
                 var pricingMeta;
-                var paymentCell = '<span class="cart-cell-main">One-time</span>';
+                var paymentCell = '<span class="cart-cell-main">' + cmsT('cart_one_time', 'One-time') + '</span>';
 
                 normalizeCartBilling(item);
                 if (item.custom) hasCustom = true;
@@ -1165,7 +1167,7 @@
                             return '<span class="cart-billing-note">' + line + '</span>';
                         }).join('') +
                     '</td>' +
-                    '<td class="cart-col-type"><span class="cart-cell-main">' + itemType + '</span></td>' +
+                    '<td class="cart-col-type"><span class="cart-cell-main">' + cmsT('cart_type_' + itemType.toLowerCase(), itemType) + '</span></td>' +
                     '<td class="cart-col-payment">' + paymentCell + '</td>' +
                     '<td>' +
                         '<div class="cart-inline-counter">' +
@@ -1201,47 +1203,47 @@
 
         function buildCartRequestForm() {
             return '<div class="cart-comment-section">' +
-                '<label class="cart-field-label" for="cartComment">Order Notes</label>' +
-                '<textarea class="cart-field-input" id="cartComment" placeholder="Add notes or special requests..." rows="3"></textarea>' +
+                '<label class="cart-field-label" for="cartComment">' + cmsT('cart_order_notes', 'Order Notes') + '</label>' +
+                '<textarea class="cart-field-input" id="cartComment" placeholder="' + cmsT('cart_notes_placeholder', 'Add notes or special requests...') + '" rows="3"></textarea>' +
             '</div>' +
             '<div class="cart-request-section">' +
                 '<div class="cart-request-fields">' +
-                    '<input type="text" class="cart-field-input" id="cartName" placeholder="Your name" />' +
-                    '<input type="email" class="cart-field-input" id="cartEmail" placeholder="Your email *" />' +
+                    '<input type="text" class="cart-field-input" id="cartName" placeholder="' + cmsT('form_placeholder_name', 'Your name') + '" />' +
+                    '<input type="email" class="cart-field-input" id="cartEmail" placeholder="' + cmsT('cart_your_email', 'Your email *') + '" />' +
                 '</div>' +
                 '<div class="cart-request-fields">' +
-                    '<input type="tel" class="cart-field-input" id="cartPhone" placeholder="Phone number" />' +
-                    '<label class="sr-only" for="cartSource">How did you hear about us?</label>' +
+                    '<input type="tel" class="cart-field-input" id="cartPhone" placeholder="' + cmsT('form_placeholder_phone', 'Phone number') + '" />' +
+                    '<label class="sr-only" for="cartSource">' + cmsT('form_source_label', 'How did you hear about us?') + '</label>' +
                     '<select class="cart-field-input" id="cartSource">' +
-                        '<option value="" disabled selected>How did you hear about us?</option>' +
-                        '<option value="search">Search engine</option>' +
-                        '<option value="social">Social media</option>' +
-                        '<option value="referral">Referral</option>' +
-                        '<option value="ad">Advertisement</option>' +
-                        '<option value="ai">Artificial Intelligence</option>' +
-                        '<option value="friends">Friends / Colleagues</option>' +
-                        '<option value="newsletter">Email Newsletter</option>' +
-                        '<option value="other">Other</option>' +
+                        '<option value="" disabled selected>' + cmsT('form_source_label', 'How did you hear about us?') + '</option>' +
+                        '<option value="search">' + cmsT('form_source_search', 'Search engine') + '</option>' +
+                        '<option value="social">' + cmsT('form_source_social', 'Social media') + '</option>' +
+                        '<option value="referral">' + cmsT('form_source_referral', 'Referral') + '</option>' +
+                        '<option value="ad">' + cmsT('form_source_ad', 'Advertisement') + '</option>' +
+                        '<option value="ai">' + cmsT('form_source_ai', 'Artificial Intelligence') + '</option>' +
+                        '<option value="friends">' + cmsT('form_source_friends', 'Friends / Colleagues') + '</option>' +
+                        '<option value="newsletter">' + cmsT('form_source_newsletter', 'Email Newsletter') + '</option>' +
+                        '<option value="other">' + cmsT('form_source_other', 'Other') + '</option>' +
                     '</select>' +
                 '</div>' +
                 '<label class="widget-checkbox legal-checkbox cart-legal-checkbox">' +
-                    '<input type="checkbox" id="cartLegalAck" data-error="Please confirm the Terms and Privacy Policy before sending your request." />' +
-                    '<span class="legal-consent-copy">I have read and agree to the <a href="terms/" class="legal-consent-link">Terms of Service</a> and <a href="privacy/" class="legal-consent-link">Privacy Policy</a>.</span>' +
+                    '<input type="checkbox" id="cartLegalAck" data-error="' + cmsT('cart_legal_error', 'Please confirm the Terms and Privacy Policy before sending your request.') + '" />' +
+                    '<span class="legal-consent-copy">' + cmsT('cart_legal_agree', 'I have read and agree to the') + ' <a href="terms/" class="legal-consent-link">' + cmsT('cart_terms_of_service', 'Terms of Service') + '</a> ' + cmsT('cart_and', 'and') + ' <a href="privacy/" class="legal-consent-link">' + cmsT('cart_privacy_policy', 'Privacy Policy') + '</a>.</span>' +
                 '</label>' +
                 '<div class="cart-actions">' +
-                    '<button class="btn btn-primary" id="cartSendRequest">Request Quote</button>' +
-                    '<button class="btn btn-secondary" id="cartPageClear">Clear Cart</button>' +
+                    '<button class="btn btn-primary" id="cartSendRequest">' + cmsT('cart_request_quote', 'Request Quote') + '</button>' +
+                    '<button class="btn btn-secondary" id="cartPageClear">' + cmsT('cart_clear_cart', 'Clear Cart') + '</button>' +
                 '</div>' +
             '</div>';
         }
 
         function renderCartSuccess() {
             cartPage.innerHTML = '<div class="cart-page-success">' +
-                '<h3>Request Sent!</h3>' +
-                '<p>We\'ll review your order and get back to you within 24 hours.</p>' +
+                '<h3>' + cmsT('cart_request_sent', 'Request Sent!') + '</h3>' +
+                '<p>' + cmsT('cart_success_message', 'We\'ll review your order and get back to you within 24 hours.') + '</p>' +
                 '<div class="cart-actions">' +
-                    '<a href="services/" class="btn btn-primary">Continue Shopping</a>' +
-                    '<button class="btn btn-secondary" id="cartSuccessClear">Clear Cart</button>' +
+                    '<a href="services/" class="btn btn-primary">' + cmsT('cart_continue_shopping', 'Continue Shopping') + '</a>' +
+                    '<button class="btn btn-secondary" id="cartSuccessClear">' + cmsT('cart_clear_cart', 'Clear Cart') + '</button>' +
                 '</div>' +
             '</div>';
 
@@ -1260,18 +1262,18 @@
             var btn = document.getElementById('cartSendRequest');
 
             if (!email || !email.includes('@')) {
-                alert('Please enter a valid email address.');
+                alert(cmsT('form_email_invalid', 'Please enter a valid email address.'));
                 return;
             }
 
             if (!legalAck || !legalAck.checked) {
-                alert((legalAck && legalAck.dataset.error) || 'Please confirm the required legal notice.');
+                alert((legalAck && legalAck.dataset.error) || cmsT('form_legal_required', 'Please confirm the required legal notice.'));
                 legalAck?.focus();
                 return;
             }
 
             app.submitWeb3Form?.({
-                subject: 'Order Request — ' + keys.length + ' items — Vividigit',
+                subject: 'Order Request — ' + keys.length + ' items — Onlinuum',
                 from_name: name,
                 replyto: email,
                 name: name,
@@ -1359,23 +1361,23 @@
             html = table.html;
             var isMonthlyOnly = table.summary.monthlyRecurring > 0 && table.summary.monthlyRecurring === table.summary.dueToday;
             if (table.summary.monthlyRecurring > 0 && !isMonthlyOnly) {
-                summaryLines.push('<div class="cart-summary-line"><span>Monthly recurring</span><strong>' + formatMoney(table.summary.monthlyRecurring) + '/mo</strong></div>');
+                summaryLines.push('<div class="cart-summary-line"><span>' + cmsT('cart_monthly_recurring', 'Monthly recurring') + '</span><strong>' + formatMoney(table.summary.monthlyRecurring) + cmsT('cart_per_mo', '/mo') + '</strong></div>');
             }
             if (table.summary.yearlyEquivalentMonthly > 0) {
-                summaryLines.push('<div class="cart-summary-line"><span>Equivalent monthly</span><strong>' + formatMoney(table.summary.yearlyEquivalentMonthly) + '/mo</strong></div>');
+                summaryLines.push('<div class="cart-summary-line"><span>' + cmsT('cart_equivalent_monthly', 'Equivalent monthly') + '</span><strong>' + formatMoney(table.summary.yearlyEquivalentMonthly) + cmsT('cart_per_mo', '/mo') + '</strong></div>');
             }
             if (table.summary.yearlySavings > 0) {
-                summaryLines.push('<div class="cart-summary-line"><span>You save</span><strong>' + formatMoney(table.summary.yearlySavings) + '/year</strong></div>');
+                summaryLines.push('<div class="cart-summary-line"><span>' + cmsT('cart_you_save', 'You save') + '</span><strong>' + formatMoney(table.summary.yearlySavings) + cmsT('cart_per_year', '/year') + '</strong></div>');
             }
-            primaryTotalLabel = isMonthlyOnly ? 'Monthly Total' : 'Due Today';
+            primaryTotalLabel = isMonthlyOnly ? cmsT('cart_monthly_total', 'Monthly Total') : cmsT('cart_due_today', 'Due Today');
             primaryTotalValue = isMonthlyOnly
-                ? formatMoney(table.summary.monthlyRecurring) + '/mo'
+                ? formatMoney(table.summary.monthlyRecurring) + cmsT('cart_per_mo', '/mo')
                 : formatMoney(table.summary.dueToday);
             html += '<div class="cart-totals">' +
                 '<div class="cart-totals-group">' +
                     (summaryLines.length ? '<div class="cart-page-summary cart-summary-items">' + summaryLines.join('') + '</div>' : '') +
                     '<div class="cart-total-panel">' +
-                        '<div class="cart-total-amount">' + (table.hasCustom ? 'From ' : '') + primaryTotalValue + '</div>' +
+                        '<div class="cart-total-amount">' + (table.hasCustom ? cmsT('price_from', 'From') + ' ' : '') + primaryTotalValue + '</div>' +
                         '<div class="cart-total-label">' + primaryTotalLabel + '</div>' +
                     '</div>' +
                 '</div>' +

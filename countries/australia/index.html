@@ -6,38 +6,43 @@
     <base href="/">
     
     
-    <title>Digital Marketing in Australia — Multilingual, International Agency | VIVIDIGIT</title>
+    
+    
+    
+    <title>Digital Marketing in Australia — Multilingual, International Agency | ONLINUUM</title>
     <meta name="description" content="Digital marketing in Australia for international companies reaching the Australian market. A multilingual, international marketing agency with productized services, outsourced native Australian English experts, and global growth across Sydney, Melbourne, Brisbane, Perth, and Adelaide.">
     
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://vividigit.com/countries/australia/">
+    <link rel="canonical" href="https://onlinuum.com/countries/australia/">
+
+    
 
     <!-- Open Graph -->
     
     <meta property="og:type" content="website">
     
-    <meta property="og:site_name" content="Vividigit">
-    <meta property="og:title" content="Digital Marketing in Australia — Multilingual, International Agency | VIVIDIGIT">
+    <meta property="og:site_name" content="Onlinuum">
+    <meta property="og:title" content="Digital Marketing in Australia — Multilingual, International Agency | ONLINUUM">
     <meta property="og:description" content="Digital marketing in Australia for international companies reaching the Australian market. A multilingual, international marketing agency with productized services, outsourced native Australian English experts, and global growth across Sydney, Melbourne, Brisbane, Perth, and Adelaide.">
-    <meta property="og:url" content="https://vividigit.com/countries/australia/">
-    <meta property="og:image" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
-    <meta property="og:image:secure_url" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
+    <meta property="og:url" content="https://onlinuum.com/countries/australia/">
+    <meta property="og:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
+    <meta property="og:image:secure_url" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="VIVIDIGIT logo">
+    <meta property="og:image:alt" content="ONLINUUM logo">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@vividigit">
-    <meta name="twitter:title" content="Digital Marketing in Australia — Multilingual, International Agency | VIVIDIGIT">
+    <meta name="twitter:title" content="Digital Marketing in Australia — Multilingual, International Agency | ONLINUUM">
     <meta name="twitter:description" content="Digital marketing in Australia for international companies reaching the Australian market. A multilingual, international marketing agency with productized services, outsourced native Australian English experts, and global growth across Sydney, Melbourne, Brisbane, Perth, and Adelaide.">
-    <meta name="twitter:image" content="https://vividigit.com/_media/images/site/og-default.png?v=a66e3b8f">
+    <meta name="twitter:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=da33a481">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="_media/images/site/favicon.svg?v=a66e3b8f">
+    <link rel="icon" type="image/svg+xml" href="/_media/images/site/favicon.svg?v=da33a481">
 
     
     
@@ -61,7 +66,7 @@
     
 
     <!-- Fonts -->
-    <link rel="preload" href="_media/fonts/jetbrains-mono-latin.woff2?v=a66e3b8f" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/_media/fonts/jetbrains-mono-latin.woff2?v=da33a481" as="font" type="font/woff2" crossorigin>
     
 
     <script>
@@ -80,17 +85,36 @@
     </script>
 
     <!-- Styles -->
-    <link rel="preload" href="_assets/css/styles.css?v=5117b587" as="style">
-    <link rel="stylesheet" href="_assets/css/styles.css?v=5117b587">
+    
+    <link rel="preload" href="/_assets/css/styles.css?v=9b7530bf" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=9b7530bf">
     <script>
-    window.VividigitAssetHashes = {
-        cart: '6aa4cd7f',
-        media: 'a66e3b8f'
+    window.OnlinuumAssetHashes = {
+        cart: '15867eb7',
+        media: 'da33a481'
     };
     </script>
     <script>
-    window.VividigitDomainContext = (function(w) {
-        var storageKey = 'vividigit_selected_domain_v1';
+    // Per-language UI strings bridge for shared JS bundles. Empty for the
+    // default language — cmsT then always returns the English fallback.
+    window.CMS_STRINGS = {};
+    window.cmsT = function(key, fallback) {
+        return window.CMS_STRINGS[key] || fallback;
+    };
+    window.cmsPlural = function(count, forms, fallback) {
+        var n = Math.abs(parseInt(count, 10) || 0);
+        var parts = String(forms || fallback || '').split('|').map(function(p) { return p.trim(); }).filter(Boolean);
+        if (!parts.length) return '';
+        if (parts.length === 1) return parts[0];
+        if (parts.length === 2) return n === 1 ? parts[0] : parts[1];
+        if (n % 10 === 1 && n % 100 !== 11) return parts[0];
+        if (n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) return parts[1];
+        return parts[2];
+    };
+    </script>
+    <script>
+    window.OnlinuumDomainContext = (function(w) {
+        var storageKey = 'onlinuum_selected_domain_v1';
         var ttlMs = 12 * 60 * 60 * 1000;
 
         function parse(raw) {
@@ -176,8 +200,8 @@
             syncUrl: syncUrl
         };
     })(window);
-    window.VividigitFilterContext = (function(w) {
-        var storageKey = 'vividigit_selected_filters_v1';
+    window.OnlinuumFilterContext = (function(w) {
+        var storageKey = 'onlinuum_selected_filters_v1';
         var ttlMs = 12 * 60 * 60 * 1000;
 
         function parse(raw) {
@@ -275,18 +299,18 @@
     
     
     try {
-        window.VividigitFilterContext.set('countries', ['australia']);
+        window.OnlinuumFilterContext.set('countries', ['australia']);
     } catch (e) {}
     
     </script>
-    <script src="_assets/js/cards.js?v=1ffd1b23" defer></script>
+    <script src="/_assets/js/cards.js?v=036223b2" defer></script>
 
     <!-- Analytics (skip on block demo pages) -->
     
     <script>
     window.dataLayer = window.dataLayer || [];
-    window.VividigitConsent = (function(w) {
-        var storageKey = 'vividigit_cookie_consent_v1';
+    window.OnlinuumConsent = (function(w) {
+        var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
 
@@ -450,7 +474,7 @@
                 if (state && state.analytics) loadGtm();
             });
         }
-    })(window, document, 'dataLayer', 'GTM-WXWHHQXN', window.VividigitConsent);
+    })(window, document, 'dataLayer', 'GTM-WXWHHQXN', window.OnlinuumConsent);
     </script>
     
     
@@ -460,9 +484,9 @@
     {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "Vividigit",
-        "url": "https://vividigit.com",
-        "logo": "https://vividigit.com/_media/images/site/favicon.svg?v=a66e3b8f",
+        "name": "Onlinuum",
+        "url": "https://onlinuum.com",
+        "logo": "https://onlinuum.com/_media/images/site/favicon.svg?v=da33a481",
         "description": "Productized marketing services marketplace",
         "contactPoint": {
             "@type": "ContactPoint",
@@ -484,19 +508,19 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://vividigit.com/"
+                "item": "https://onlinuum.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Countries",
-                "item": "https://vividigit.com/countries/"
+                "item": "https://onlinuum.com/countries/"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Australia",
-                "item": "https://vividigit.com/countries/australia/"
+                "item": "https://onlinuum.com/countries/australia/"
             }
         ]
     }
@@ -541,7 +565,7 @@
                 "name": "Do you work with international companies expanding into Australia?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes — that is our primary fit. Vividigit is an outsourced, productized marketing services agency for brands based outside Australia that need native Australian reach. Local Australian agencies serve Australian clients well; we serve international companies that need an expert, multilingual partner for the Australian market without setting up a Sydney or Melbourne office."
+                    "text": "Yes — that is our primary fit. Onlinuum is an outsourced, productized marketing services agency for brands based outside Australia that need native Australian reach. Local Australian agencies serve Australian clients well; we serve international companies that need an expert, multilingual partner for the Australian market without setting up a Sydney or Melbourne office."
                 }
             },
             
@@ -605,7 +629,8 @@
         </div>
 
         <a href="./" class="logo">
-            <img src="_media/images/site/logo-gradient.svg?v=a66e3b8f" alt="Vividigit" class="logo-text" width="156" height="30" decoding="async">
+            <img src="/_media/images/site/logo-white.svg?v=da33a481" alt="Onlinuum" class="logo-text logo-dark" width="159" height="30" decoding="async">
+            <img src="/_media/images/site/logo.svg?v=da33a481" alt="Onlinuum" class="logo-text logo-light" width="159" height="30" decoding="async">
         </a>
 
         <div class="header-right">
@@ -785,8 +810,8 @@
                     <a href="about/"
                        class="icon-bar-link "
                        data-nav-index="12"
-                       title="About Vividigit"
-                       aria-label="About Vividigit">
+                       title="About Onlinuum"
+                       aria-label="About Onlinuum">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="28" height="28" class="icon icon-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
 
                         <span class="icon-bar-label type-label-caps">About</span>
@@ -849,7 +874,7 @@
                 <a href="countries/">Countries</a>
                 <span>/</span>
                 
-                <span>Digital Marketing in Australia — Multilingual, International Agency | VIVIDIGIT</span>
+                <span>Digital Marketing in Australia — Multilingual, International Agency | ONLINUUM</span>
             </nav>
             
 
@@ -941,7 +966,7 @@
     <div class="hero-visual hero-entity-visual hero-entity-visual-flag" aria-hidden="true">
         
         <img
-            src="_media/flags/au.svg?v=a66e3b8f"
+            src="/_media/flags/au.svg?v=da33a481"
             class="hero-entity-flag-image"
             alt=""
             loading="eager"
@@ -1543,7 +1568,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                 <span class="faq-question-title">Do you work with international companies expanding into Australia?</span>
             </summary>
             <div class="faq-answer">
-                <p>Yes — that is our primary fit. Vividigit is an outsourced, productized marketing services agency for brands based outside Australia that need native Australian reach. Local Australian agencies serve Australian clients well; we serve international companies that need an expert, multilingual partner for the Australian market without setting up a Sydney or Melbourne office.</p>
+                <p>Yes — that is our primary fit. Onlinuum is an outsourced, productized marketing services agency for brands based outside Australia that need native Australian reach. Local Australian agencies serve Australian clients well; we serve international companies that need an expert, multilingual partner for the Australian market without setting up a Sydney or Melbourne office.</p>
             </div>
         </details>
         
@@ -1618,7 +1643,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/search-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Search Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search-new.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search-new.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1656,7 +1681,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/growth-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Growth Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/trending-up.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/trending-up.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1694,7 +1719,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/web-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Web Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layers.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layers.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1732,7 +1757,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/performance-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Performance Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/target.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/target.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1770,7 +1795,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/product-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Product Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/compass.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/compass.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1808,7 +1833,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/marketing-operations" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Marketing Operations</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1846,7 +1871,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/community-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Community Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/users.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/users.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1884,7 +1909,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/brand-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Brand Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/award.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/award.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1922,7 +1947,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/domains/app-marketing" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">App Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=da33a481')"></div>
     </div>
     
     
@@ -1999,7 +2024,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/ai-optimisation" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">AI Optimisation</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2073,7 +2098,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/technical-seo" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Technical SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2137,7 +2162,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/cross-market-setup" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">International SEO Setup</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2211,7 +2236,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/link-building" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Link Building</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/newspaper.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/newspaper.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2275,7 +2300,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/local-seo" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Local SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2349,7 +2374,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/on-page-seo" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">On-Page SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2413,7 +2438,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/seo-research" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">SEO Research</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2477,7 +2502,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/aso-optimization" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">ASO Optimization</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2555,7 +2580,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/aso-localization" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">ASO Localization</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2633,7 +2658,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/apple-search-ads" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Apple Search Ads</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2711,7 +2736,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/google-app-campaigns" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Google App Campaigns</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2789,7 +2814,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/paid-social-for-apps" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Paid Social for Apps</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2867,7 +2892,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/app-store-cro" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">App Store CRO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -2945,7 +2970,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/scopes/app-retention" class="scope-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">App Retention</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3027,14 +3052,14 @@ Expert digital marketing in Australia, delivered as a productized service — fr
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Dima-Gerko.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Dima-Gerko.jpg?v=da33a481"
                  alt="Dima Gerko"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Dima-Gerko.jpg?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Dima-Gerko.jpg?v=da33a481'">
         </div>
         
     </div>
@@ -3125,14 +3150,14 @@ Expert digital marketing in Australia, delivered as a productized service — fr
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Alena-Grakovich.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Alena-Grakovich.jpg?v=da33a481"
                  alt="Elena Grakovich"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Alena-Grakovich.jpg?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Alena-Grakovich.jpg?v=da33a481'">
         </div>
         
     </div>
@@ -3219,14 +3244,14 @@ Expert digital marketing in Australia, delivered as a productized service — fr
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Anastasia-Antaniuk.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Anastasia-Antaniuk.jpg?v=da33a481"
                  alt="Anastasiya Antoniuk"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Anastasia-Antaniuk.png?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Anastasia-Antaniuk.png?v=da33a481'">
         </div>
         
     </div>
@@ -3303,14 +3328,14 @@ Expert digital marketing in Australia, delivered as a productized service — fr
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Vitali-Bakun-2026.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Vitali-Bakun-2026.jpg?v=da33a481"
                  alt="Vitali Bakun"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Vitali-Bakun-2026.jpg?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Vitali-Bakun-2026.jpg?v=da33a481'">
         </div>
         
     </div>
@@ -3391,14 +3416,14 @@ Expert digital marketing in Australia, delivered as a productized service — fr
         </div>
         
         <div class="expert-avatar">
-            <img src="_media/images/team/cards/Dmitri-Rasakhatsky.jpg?v=a66e3b8f"
+            <img src="/_media/images/team/cards/Dmitri-Rasakhatsky.jpg?v=da33a481"
                  alt="Dmitry Rasakhatsky"
                  loading="lazy"
                  fetchpriority="low"
                  decoding="async"
                  width="56"
                  height="56"
-                 onerror="this.onerror=null;this.src='_media/images/team/Dmitri-Rasakhatsky.jpg?v=a66e3b8f'">
+                 onerror="this.onerror=null;this.src='/_media/images/team/Dmitri-Rasakhatsky.jpg?v=da33a481'">
         </div>
         
     </div>
@@ -3504,7 +3529,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/b2b-digital-marketing" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">B2B Digital Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3561,7 +3586,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/digital-marketing-consulting" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Digital Marketing Consulting</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/analytics.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/analytics.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3618,7 +3643,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/digital-marketing-strategy" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Digital Marketing Strategy</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3675,7 +3700,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/global-seo" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Global SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3732,7 +3757,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/international-marketing" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">International Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3789,7 +3814,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/international-seo" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">International SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3846,7 +3871,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/multilingual-seo" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Multilingual SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layout.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3903,7 +3928,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/ai-visibility" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">AI Visibility</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=da33a481')"></div>
     </div>
     
     
@@ -3972,7 +3997,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/outsource-digital-marketing" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Outsource Digital Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4029,7 +4054,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/solutions/seo-ecommerce" class="solution-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">SEO for E-commerce</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4096,7 +4121,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/aeo" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">AEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4144,7 +4169,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/aso" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">ASO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4192,7 +4217,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/orm" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">ORM</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4251,7 +4276,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/paid-social" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Paid Social</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4314,7 +4339,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/web-development" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Web Development</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4373,7 +4398,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/app-user-acquisition" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">App User Acquisition</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4421,7 +4446,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/app-conversion-retention" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">App Conversion &amp; Retention</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/settings.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4469,7 +4494,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/seo" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">SEO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4517,7 +4542,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/ppc" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">PPC</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/target.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/target.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4565,7 +4590,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/affiliate" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Affiliate</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/users.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/users.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4624,7 +4649,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/analytics" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Analytics &amp; Data</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/analytics.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/analytics.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4672,7 +4697,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/automation" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Marketing Automation</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/code.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/code.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4720,7 +4745,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/content" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Content Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/pen-tool.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4768,7 +4793,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/cro" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">CRO</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/chart.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/chart.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4827,7 +4852,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/email" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Email Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/mail.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/mail.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4886,7 +4911,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/marketplace-management" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Marketplace Management</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layers.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/layers.svg?v=da33a481')"></div>
     </div>
     
     
@@ -4953,7 +4978,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/pr" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Digital PR</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/newspaper.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/newspaper.svg?v=da33a481')"></div>
     </div>
     
     
@@ -5012,7 +5037,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/social-media" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Social Media</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/megaphone.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/megaphone.svg?v=da33a481')"></div>
     </div>
     
     
@@ -5060,7 +5085,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
 <a href="/services/video" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Video Marketing</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/video.svg?v=a66e3b8f')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/video.svg?v=da33a481')"></div>
     </div>
     
     
@@ -5142,7 +5167,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="dimension-card-header">
         <div class="entity-card-title">E-commerce</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/ecommerce.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/ecommerce.svg?v=da33a481')"></div>
         
     </div>
     
@@ -5198,7 +5223,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="dimension-card-header">
         <div class="entity-card-title">SaaS</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/monitor.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/monitor.svg?v=da33a481')"></div>
         
     </div>
     
@@ -5254,7 +5279,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="dimension-card-header">
         <div class="entity-card-title">Fintech</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/fintech.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/fintech.svg?v=da33a481')"></div>
         
     </div>
     
@@ -5310,7 +5335,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="dimension-card-header">
         <div class="entity-card-title">Healthcare</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=da33a481')"></div>
         
     </div>
     
@@ -5366,7 +5391,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="dimension-card-header">
         <div class="entity-card-title">Automotive</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/automotive.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/automotive.svg?v=da33a481')"></div>
         
     </div>
     
@@ -5422,7 +5447,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="dimension-card-header">
         <div class="entity-card-title">Legal</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/legal.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/legal.svg?v=da33a481')"></div>
         
     </div>
     
@@ -5478,7 +5503,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="dimension-card-header">
         <div class="entity-card-title">Manufacturing</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/manufacturing.svg?v=a66e3b8f')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/manufacturing.svg?v=da33a481')"></div>
         
     </div>
     
@@ -6015,13 +6040,14 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                         <p class="footer-column-title">Legal operator</p>
                         <div class="footer-brand">
                             <div class="footer-logo">
-                                <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M39 40H33L21 8L12 32H6L9 24H3L0 16H6L9 24L15 8H21L18 0H24L39 40Z" fill="white"/>
+                                <svg viewBox="13 12 94 94" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                    <path d="M40 26 V72 A20 20 0 0 0 80 72 V54" stroke="white" stroke-width="14" stroke-linecap="round"/>
+                                    <circle cx="80" cy="28" r="8" fill="white"/>
                                 </svg>
                             </div>
                             <div class="footer-brand-copy">
-                                <p class="footer-company-name">Vividigit — vividigit.com</p>
-                                <p class="footer-brand-line">Operated by Dmitriy Gerko, Sole Trader (Portugal)</p>
+                                <p class="footer-company-name">Onlinuum — onlinuum.com</p>
+                                <p class="footer-brand-line">The Onlinuum brand is owned and operated by Vividigit Lda (Portugal)</p>
                                 <p class="footer-brand-note">NIF: 299863727</p>
                             </div>
                         </div>
@@ -6031,9 +6057,11 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                     <div class="footer-top-section footer-heritage">
                         <p class="footer-column-title">Background</p>
                         <div class="footer-heritage-logo">
-                            <img src="/_media/images/site/alconost-logo.svg?v=a66e3b8f" alt="Alconost Digital logo" loading="lazy" decoding="async" width="258" height="45">
+                            <img src="/_media/images/site/alconost-logo.svg?v=da33a481" alt="Alconost Digital logo" loading="lazy" decoding="async" width="258" height="45">
                         </div>
+                        
                         <p class="footer-brand-line">Former <a href="https://alconost.digital/en/" target="_blank" rel="noopener" class="footer-inline-link">Alconost Digital</a> team</p>
+                        
                         <p class="footer-brand-note">Working in multilingual digital services since 2008</p>
                     </div>
 
@@ -6058,7 +6086,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                             
                             <a href="https://clutch.co/profile/vividigit" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/clutch.svg?v=a66e3b8f" alt="Clutch logo" loading="lazy">
+                                    <img src="/_media/logos/clutch.svg?v=da33a481" alt="Clutch logo" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Clutch</span>
@@ -6071,7 +6099,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                             
                             <a href="https://www.google.com/maps" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/google-reviews.svg?v=a66e3b8f" alt="Google Reviews logo" loading="lazy">
+                                    <img src="/_media/logos/google-reviews.svg?v=da33a481" alt="Google Reviews logo" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Google Reviews</span>
@@ -6087,7 +6115,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                 </div>
 
                 <div class="footer-bottom">
-                    <p class="footer-text">&copy; 2026 Vividigit — vividigit.com</p>
+                    <p class="footer-text">&copy; 2026 Onlinuum — onlinuum.com</p>
                 </div>
             </footer>
         </main>
@@ -6148,6 +6176,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                         <p class="widget-text">Review everything you have added to the cart from any page, then continue to the full cart when you are ready.</p>
                     </div>
 
+                    
                     <div class="widget" id="cartItems" data-cart-scope="all" data-empty-msg="Your cart is empty. Add services, scopes, or solutions to start building your order.">
                         <p class="cart-empty-msg">Your cart is empty. Add services, scopes, or solutions to start building your order.</p>
                     </div>
@@ -6197,11 +6226,13 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     <div class="widget">
         <div class="widget-title">Contact Us</div>
         
+        
         <div class="form-group">
             
             <input type="text" class="form-input" placeholder="Your name" name="name">
             
         </div>
+        
         
         <div class="form-group">
             
@@ -6209,17 +6240,20 @@ Expert digital marketing in Australia, delivered as a productized service — fr
             
         </div>
         
+        
         <div class="form-group">
             
             <input type="email" class="form-input" placeholder="Email address" name="email">
             
         </div>
         
+        
         <div class="form-group">
             
             <textarea class="form-input" rows="4" placeholder="Tell us about your project..." name="message"></textarea>
             
         </div>
+        
         
         <div class="form-group">
             <label class="sr-only" for="sidebarSource">How did you hear about us?</label>
@@ -6255,7 +6289,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
                     data-error="Please confirm the privacy notice before sending your message."
                 >
                 <span class="legal-consent-copy">
-                    I have read the <a href="privacy/" class="legal-consent-link">Privacy Policy</a> and agree that Vividigit may process my details to respond to my request.
+                    I have read the <a href="privacy/" class="legal-consent-link">Privacy Policy</a> and agree that Onlinuum may process my details to respond to my request.
                 </span>
             </label>
         </div>
@@ -6293,7 +6327,7 @@ Expert digital marketing in Australia, delivered as a productized service — fr
     </div>
 
     <!-- Site JavaScript -->
-    <script src="_assets/js/app-core.js?v=a6382adf" defer></script>
+    <script src="/_assets/js/app-core.js?v=43f5364d" defer></script>
     <!-- SVG templates for JS runtime use -->
     <div id="svg-templates" hidden>
         <span id="svg-theme-system"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="22" height="22" class="icon icon-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></span>
@@ -6302,8 +6336,8 @@ Expert digital marketing in Australia, delivered as a productized service — fr
         <span id="svg-chevron-down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16" class="icon icon-chevron-down"><polyline points="6 9 12 15 18 9"/></svg></span>
     </div>
 
-    <script src="_assets/js/forms.js?v=c6eee7ef" defer></script>
-    <script src="_assets/js/ui.js?v=d99016a4" defer></script>
-    <script src="_assets/js/site.js?v=dca12656" defer></script>
+    <script src="/_assets/js/forms.js?v=13476383" defer></script>
+    <script src="/_assets/js/ui.js?v=25617ee5" defer></script>
+    <script src="/_assets/js/site.js?v=85861bf0" defer></script>
 </body>
 </html>

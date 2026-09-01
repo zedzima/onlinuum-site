@@ -3,7 +3,7 @@
  * Shared configuration, analytics, and sidebar state.
  */
 (function() {
-    var app = window.VividigitApp = window.VividigitApp || {};
+    var app = window.OnlinuumApp = window.OnlinuumApp || {};
 
     function detectTrafficSource() {
         var params = new URLSearchParams(window.location.search);
@@ -53,7 +53,7 @@
         app.config = {
             web3formsKey: '419be280-f452-493c-9745-bd1daba07eb8',
             notifyEmail: 'mail@vividigit.com',
-            cartStorageKey: 'vividigit_cart',
+            cartStorageKey: 'onlinuum_cart',
             langPct: 0.6,
             countryPct: 0.4
         };

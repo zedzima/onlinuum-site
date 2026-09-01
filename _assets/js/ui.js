@@ -3,7 +3,9 @@
  * Theme, language, and simple interaction widgets.
  */
 (function() {
-    var app = window.VividigitApp = window.VividigitApp || {};
+    var app = window.OnlinuumApp = window.OnlinuumApp || {};
+    var cmsT = (typeof window !== 'undefined' && window.cmsT) ? window.cmsT : function (k, fb) { return fb; };
+    var cmsPlural = (typeof window !== 'undefined' && window.cmsPlural) ? window.cmsPlural : function (n, f, fb) { var p = String(fb || '').split('|'); return n === 1 ? p[0] : (p[1] || p[0]); };
 
     var themeIcons = {
         system: (document.getElementById('svg-theme-system') || {}).innerHTML || '',
@@ -164,14 +166,14 @@
                 if (expanded) {
                     grid.classList.remove('related-grid-expanded');
                     grid.classList.add('related-grid-collapsed');
-                    btn.textContent = 'Show all (' + grid.children.length + ')';
+                    btn.textContent = cmsT('ui_show_all', 'Show all') + ' (' + grid.children.length + ')';
                     btn.dataset.expanded = 'false';
                     return;
                 }
 
                 grid.classList.remove('related-grid-collapsed');
                 grid.classList.add('related-grid-expanded');
-                btn.textContent = 'Show less';
+                btn.textContent = cmsT('ui_show_less', 'Show less');
                 btn.dataset.expanded = 'true';
             });
         });
