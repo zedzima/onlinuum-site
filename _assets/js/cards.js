@@ -54,6 +54,7 @@
         }
 
         var clean = normalized.replace(/^\.\//, '').replace(/^\/+/, '');
+        if (clean && clean.slice(-1) !== '/' && clean.indexOf('?') === -1 && clean.split('/').pop().indexOf('.') === -1) clean += '/';
         return clean ? (basePath + '/' + clean) : (basePath + '/');
     }
 

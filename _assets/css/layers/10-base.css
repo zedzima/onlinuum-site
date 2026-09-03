@@ -163,7 +163,7 @@ a:hover { color: var(--accent-hover); }
 }
 
 .logo-text {
-    height: calc(28px * var(--scale));
+    height: calc(34px * var(--scale));
     width: auto;
 }
 
