@@ -167,11 +167,6 @@ a:hover { color: var(--accent-hover); }
     width: auto;
 }
 
-/* Logo theme switching */
-.logo-light { display: none; }
-.logo-dark { display: block; }
-[data-theme="light"] .logo-light { display: block; }
-[data-theme="light"] .logo-dark { display: none; }
 
 .header-btn {
     width: var(--btn-height);
