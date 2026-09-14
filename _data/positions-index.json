@@ -7,7 +7,7 @@
       "description": "Remote ASO specialist jobs at Onlinuum: own app store optimization, keep 40% revenue share, work across multiple languages. Apply today.",
       "menu": "ASO Specialist",
       "featured": false,
-      "expert_count": 1,
+      "expert_count": 2,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -58,7 +58,8 @@
           "paid-social-for-apps"
         ],
         "experts": [
-          "mariia-nedbaievska"
+          "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -135,7 +136,7 @@
       "description": "Remote PPC specialist jobs at Onlinuum: own paid search, Shopping, and YouTube Ads across 6 priority markets. Apply today.",
       "menu": "PPC Specialist",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -185,6 +186,9 @@
           "youtube-ads",
           "local-services-ads",
           "telegram-ads"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -450,6 +454,8 @@
     },
     "experts": {
       "mariia-nedbaievska": "Mariia Nedbaievska",
+      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },

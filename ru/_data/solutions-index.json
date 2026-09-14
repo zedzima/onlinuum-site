@@ -233,7 +233,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -276,7 +276,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "vitali-bakun",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "aldillah-melisa-febryana"
         ],
         "services": [
           "analytics",
@@ -360,7 +361,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2500.0,
-      "expert_count": 6,
+      "expert_count": 8,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -407,7 +408,9 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
-          "mariia-nedbaievska"
+          "aldillah-melisa-febryana",
+          "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui"
         ],
         "services": [
           "content",
@@ -592,7 +595,7 @@
       "scope": "cross-market-setup",
       "industry": "saas",
       "starting_price": 3000.0,
-      "expert_count": 7,
+      "expert_count": 10,
       "case_count": 2,
       "facets": {
         "domains": [
@@ -639,7 +642,10 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
+          "aldillah-melisa-febryana",
           "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
+          "rita-pavide",
           "valentina-soldatkina"
         ],
         "cases": [
@@ -827,7 +833,7 @@
       "scope": "technical-seo",
       "industry": "ecommerce",
       "starting_price": null,
-      "expert_count": 4,
+      "expert_count": 5,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -850,7 +856,8 @@
           "elena-grakovich",
           "anastasiya-antoniuk",
           "dima-gerko",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "rita-pavide"
         ],
         "services": [
           "web-development",
@@ -927,7 +934,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 7,
+      "expert_count": 10,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -971,7 +978,10 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
+          "aldillah-melisa-febryana",
           "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
+          "rita-pavide",
           "valentina-soldatkina"
         ],
         "services": [
@@ -1197,7 +1207,10 @@
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
+      "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "mariia-nedbaievska": "Мария Недбаевская",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
+      "rita-pavide": "Рита Павиде",
       "valentina-soldatkina": "Валентина Солдаткина"
     },
     "services": {

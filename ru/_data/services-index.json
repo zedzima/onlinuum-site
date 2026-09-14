@@ -149,7 +149,7 @@
       "menu": "Аналитика и данные",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 5,
+      "expert_count": 6,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 7,
@@ -173,7 +173,8 @@
           "dima-gerko",
           "vitali-bakun",
           "alaaddin-saracyakupoglu",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -234,7 +235,7 @@
       "menu": "Конверсия и удержание",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 2,
+      "expert_count": 3,
       "starting_price": 600.0,
       "from_price": 600.0,
       "industry_count": 4,
@@ -255,7 +256,8 @@
         ],
         "experts": [
           "mariia-nedbaievska",
-          "dima-gerko"
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -324,7 +326,7 @@
       "menu": "Привлечение пользователей",
       "featured": true,
       "scope_count": 3,
-      "expert_count": 2,
+      "expert_count": 3,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 4,
@@ -346,7 +348,8 @@
         ],
         "experts": [
           "mariia-nedbaievska",
-          "dima-gerko"
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -415,7 +418,7 @@
       "menu": "ASO",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 3,
+      "expert_count": 4,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 4,
@@ -437,7 +440,8 @@
         "experts": [
           "mariia-nedbaievska",
           "dima-gerko",
-          "anastasiya-antoniuk"
+          "anastasiya-antoniuk",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -574,7 +578,7 @@
       "menu": "Контент-маркетинг",
       "featured": false,
       "scope_count": 2,
-      "expert_count": 5,
+      "expert_count": 7,
       "starting_price": 600.0,
       "from_price": 600.0,
       "industry_count": 7,
@@ -604,7 +608,9 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "alaaddin-saracyakupoglu"
+          "alaaddin-saracyakupoglu",
+          "muhammad-hijazi-siddiqui",
+          "rita-pavide"
         ],
         "solutions": [
           "ai-visibility",
@@ -678,7 +684,7 @@
       "menu": "CRO",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 1,
+      "expert_count": 2,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 2,
@@ -698,7 +704,8 @@
           "web-marketing"
         ],
         "experts": [
-          "elena-grakovich"
+          "elena-grakovich",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "seo-ecommerce"
@@ -939,7 +946,7 @@
       "menu": "Таргетированная реклама",
       "featured": true,
       "scope_count": 1,
-      "expert_count": 2,
+      "expert_count": 4,
       "starting_price": 300.0,
       "from_price": 300.0,
       "industry_count": 3,
@@ -957,7 +964,9 @@
         ],
         "experts": [
           "elena-grakovich",
-          "vitali-bakun"
+          "vitali-bakun",
+          "aldillah-melisa-febryana",
+          "muhammad-hijazi-siddiqui"
         ],
         "industries": [
           "saas",
@@ -1010,7 +1019,7 @@
       "menu": "Контекстная реклама",
       "featured": true,
       "scope_count": 7,
-      "expert_count": 3,
+      "expert_count": 4,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 6,
@@ -1037,7 +1046,8 @@
         "experts": [
           "elena-grakovich",
           "dima-gerko",
-          "vitali-bakun"
+          "vitali-bakun",
+          "aldillah-melisa-febryana"
         ],
         "cases": [
           "alvadi",
@@ -1176,7 +1186,7 @@
       "menu": "SEO",
       "featured": true,
       "scope_count": 7,
-      "expert_count": 6,
+      "expert_count": 7,
       "starting_price": 1990.0,
       "from_price": 1990.0,
       "industry_count": 7,
@@ -1206,6 +1216,7 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "elena-grakovich",
+          "rita-pavide",
           "valentina-soldatkina"
         ],
         "cases": [
@@ -1291,7 +1302,7 @@
       "menu": "Социальные сети",
       "featured": false,
       "scope_count": 4,
-      "expert_count": 0,
+      "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 3,
@@ -1311,6 +1322,10 @@
           "telegram-channel-placements",
           "youtube-creator-collaborations",
           "youtube-creator-pilot"
+        ],
+        "experts": [
+          "muhammad-hijazi-siddiqui",
+          "rita-pavide"
         ],
         "industries": [
           "ecommerce",
@@ -1546,7 +1561,10 @@
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
       "mariia-nedbaievska": "Мария Недбаевская",
+      "rita-pavide": "Рита Павиде",
+      "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "valentina-soldatkina": "Валентина Солдаткина"
     },
     "solutions": {

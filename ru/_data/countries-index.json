@@ -15,7 +15,7 @@
       "dominant_language_code": "en",
       "scope_count": 14,
       "service_count": 19,
-      "expert_count": 5,
+      "expert_count": 7,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -51,7 +51,9 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "vitali-bakun",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "aldillah-melisa-febryana",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "ai-visibility",
@@ -323,7 +325,7 @@
       "dominant_language_code": "pt",
       "scope_count": 14,
       "service_count": 19,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -359,7 +361,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "vitali-bakun",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "ai-visibility",
@@ -427,7 +430,7 @@
       "dominant_language_code": "en",
       "scope_count": 19,
       "service_count": 19,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -468,7 +471,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "vitali-bakun",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "ai-visibility",
@@ -643,7 +647,7 @@
       "dominant_language_code": "en",
       "scope_count": 14,
       "service_count": 17,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 2,
       "solution_count": 10,
       "facets": {
@@ -680,7 +684,8 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
-          "alaaddin-saracyakupoglu"
+          "alaaddin-saracyakupoglu",
+          "rita-pavide"
         ],
         "cases": [
           "alvadi",
@@ -760,7 +765,7 @@
       "dominant_language_code": "fr",
       "scope_count": 22,
       "service_count": 10,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -803,7 +808,8 @@
           "elena-grakovich",
           "vitali-bakun",
           "anastasiya-antoniuk",
-          "dima-gerko"
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "ai-visibility",
@@ -874,7 +880,7 @@
       "dominant_language_code": "de",
       "scope_count": 29,
       "service_count": 17,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -927,6 +933,7 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
           "valentina-soldatkina"
         ],
         "cases": [
@@ -2259,7 +2266,7 @@
       "dominant_language_code": "en",
       "scope_count": 29,
       "service_count": 19,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -2313,6 +2320,7 @@
           "dima-gerko",
           "alaaddin-saracyakupoglu",
           "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -2393,7 +2401,7 @@
       "dominant_language_code": "en",
       "scope_count": 29,
       "service_count": 19,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -2447,6 +2455,7 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -2560,7 +2569,10 @@
       "dima-gerko": "Дима Герко",
       "vitali-bakun": "Виталий Бакун",
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
+      "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
+      "rita-pavide": "Рита Павиде",
       "mariia-nedbaievska": "Мария Недбаевская",
       "valentina-soldatkina": "Валентина Солдаткина"
     },

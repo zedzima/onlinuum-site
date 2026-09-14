@@ -141,7 +141,7 @@
       "icon": "ecommerce",
       "scope_count": 28,
       "service_count": 18,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 2,
       "solution_count": 10,
       "facets": {
@@ -193,6 +193,7 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
+          "aldillah-melisa-febryana",
           "mariia-nedbaievska"
         ],
         "cases": [
@@ -293,7 +294,7 @@
       "icon": "fintech",
       "scope_count": 22,
       "service_count": 12,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -338,7 +339,8 @@
           "vitali-bakun",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "mariia-nedbaievska"
+          "mariia-nedbaievska",
+          "rita-pavide"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -657,7 +659,7 @@
       "icon": "legal",
       "scope_count": 13,
       "service_count": 8,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -691,7 +693,8 @@
           "anastasiya-antoniuk",
           "elena-grakovich",
           "vitali-bakun",
-          "dima-gerko"
+          "dima-gerko",
+          "rita-pavide"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -987,7 +990,7 @@
       "icon": "shopping-bag",
       "scope_count": 20,
       "service_count": 11,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1029,7 +1032,8 @@
           "dmitriy-razakhatsky",
           "anastasiya-antoniuk",
           "elena-grakovich",
-          "vitali-bakun"
+          "vitali-bakun",
+          "aldillah-melisa-febryana"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1283,7 +1287,9 @@
       "vitali-bakun": "Vitali Bakun",
       "dima-gerko": "Dima Gerko",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "mariia-nedbaievska": "Mariia Nedbaievska",
+      "rita-pavide": "Rita Pavide",
       "valentina-soldatkina": "Valentina Soldatkina"
     },
     "cases": {

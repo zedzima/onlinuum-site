@@ -72,6 +72,65 @@
       }
     },
     {
+      "slug": "aldillah-melisa-febryana",
+      "url": "/team/aldillah-melisa-febryana",
+      "title": "Aldillah Melisa Febryana",
+      "description": "PPC strategist for Indonesia and APAC: Google and Meta Ads for ecommerce and lead generation, measured on sales and lead quality. Book a consultation.",
+      "role": "PPC Strategist",
+      "avatar": "_media/images/team/Aldillah-Melisa-Febryana.jpg",
+      "experience_value": "11+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia"
+      ],
+      "industries": [
+        "ecommerce",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail"
+        ],
+        "countries": [
+          "australia"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "anastasiya-antoniuk",
       "url": "/team/anastasiya-antoniuk",
       "title": "Anastasiya Antoniuk",
@@ -701,6 +760,135 @@
       }
     },
     {
+      "slug": "muhammad-hijazi-siddiqui",
+      "url": "/team/muhammad-hijazi-siddiqui",
+      "title": "Muhammad Hijazi Siddiqui",
+      "description": "Senior ASO and mobile growth specialist for game studios and app developers: keyword optimization, Google UAC, Meta creatives, lower CPI. Get in touch.",
+      "role": "Senior ASO & Mobile Growth Specialist",
+      "avatar": "_media/images/team/Muhammad-Hijazi-Siddiqui.jpg",
+      "experience_value": "7+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "brazil",
+        "canada",
+        "france",
+        "germany",
+        "uk",
+        "usa"
+      ],
+      "industries": [],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization",
+          "app-store-cro",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "app-conversion-retention",
+          "app-user-acquisition",
+          "aso",
+          "content",
+          "cro",
+          "paid-social",
+          "social-media"
+        ],
+        "countries": [
+          "australia",
+          "brazil",
+          "canada",
+          "france",
+          "germany",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "rita-pavide",
+      "url": "/team/rita-pavide",
+      "title": "Rita Pavide",
+      "description": "Trilingual copywriter, translator, and editor for crypto, fintech, and iGaming brands: articles, reviews, PR, newsletters, and MTPE. Get in touch.",
+      "role": "Copywriter, Translator, Editor",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "8+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "eu"
+      ],
+      "industries": [
+        "fintech",
+        "legal"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "on-page-seo"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "fintech",
+          "legal"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ]
+      }
+    },
+    {
       "slug": "valentina-soldatkina",
       "url": "/team/valentina-soldatkina",
       "title": "Valentina Soldatkina",
@@ -885,13 +1073,13 @@
     "domains": {
       "search-marketing": "Search Marketing",
       "web-marketing": "Web Marketing",
+      "performance-marketing": "Performance Marketing",
       "app-marketing": "App Marketing",
       "growth-marketing": "Growth Marketing",
       "product-marketing": "Product Marketing",
       "brand-marketing": "Brand Marketing",
       "community-marketing": "Community Marketing",
-      "marketing-operations": "Marketing Operations",
-      "performance-marketing": "Performance Marketing"
+      "marketing-operations": "Marketing Operations"
     },
     "scopes": {
       "ai-optimisation": "AI Optimisation",
@@ -900,6 +1088,10 @@
       "on-page-seo": "On-Page SEO",
       "seo-research": "SEO Research",
       "technical-seo": "Technical SEO",
+      "google-ads-search": "Google Ads Search",
+      "google-shopping": "Google Shopping",
+      "ppc-audit": "PPC Audit",
+      "youtube-ads": "YouTube Ads",
       "aso-localization": "ASO Localization",
       "aso-optimization": "ASO Optimization",
       "local-seo": "Local SEO",
@@ -912,24 +1104,20 @@
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns",
       "paid-social-for-apps": "Paid Social for Apps",
-      "ppc-audit": "PPC Audit",
-      "google-ads-search": "Google Ads Search",
-      "google-shopping": "Google Shopping",
       "local-services-ads": "Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
-      "remarketing-display": "Remarketing & Display",
-      "youtube-ads": "YouTube Ads"
+      "remarketing-display": "Remarketing & Display"
     },
     "solutions": {
       "b2b-digital-marketing": "B2B Digital Marketing",
       "global-seo": "Global SEO",
       "international-seo": "International SEO",
       "seo-ecommerce": "SEO for E-commerce",
+      "digital-marketing-consulting": "Digital Marketing Consulting",
       "digital-marketing-strategy": "Digital Marketing Strategy",
       "international-marketing": "International Marketing",
       "outsource-digital-marketing": "Outsource Digital Marketing",
       "ai-visibility": "AI Visibility",
-      "digital-marketing-consulting": "Digital Marketing Consulting",
       "multilingual-seo": "Multilingual SEO"
     },
     "services": {
@@ -937,29 +1125,30 @@
       "analytics": "Analytics & Data",
       "content": "Content Marketing",
       "seo": "SEO",
+      "paid-social": "Paid Social",
+      "ppc": "PPC",
       "aso": "ASO",
       "video": "Video Marketing",
       "automation": "Marketing Automation",
       "web-development": "Web Development",
-      "ppc": "PPC",
       "app-conversion-retention": "App Conversion & Retention",
       "app-user-acquisition": "App User Acquisition",
       "cro": "CRO",
       "email": "Email Marketing",
-      "paid-social": "Paid Social",
+      "social-media": "Social Media",
       "marketplace-management": "Marketplace Management"
     },
     "industries": {
       "ecommerce": "E-commerce",
       "saas": "SaaS",
+      "retail": "Retail",
       "automotive": "Automotive",
       "fintech": "Fintech",
       "healthcare": "Healthcare",
       "hospitality": "Hospitality",
       "legal": "Legal",
       "manufacturing": "Manufacturing",
-      "pharma": "Pharma & Life Sciences",
-      "retail": "Retail"
+      "pharma": "Pharma & Life Sciences"
     },
     "countries": {
       "eu": "European Union",
@@ -1003,6 +1192,7 @@
     },
     "positions": {
       "seo-expert": "SEO Expert",
+      "ppc-specialist": "PPC Specialist",
       "aso-specialist": "ASO Specialist"
     },
     "blog-posts": {

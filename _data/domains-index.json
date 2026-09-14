@@ -12,7 +12,7 @@
       "scope_count": 7,
       "solution_count": 5,
       "case_count": 0,
-      "expert_count": 3,
+      "expert_count": 4,
       "facets": {
         "scopes": [
           "aso-optimization",
@@ -26,7 +26,8 @@
         "experts": [
           "mariia-nedbaievska",
           "dima-gerko",
-          "anastasiya-antoniuk"
+          "anastasiya-antoniuk",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -104,7 +105,7 @@
       "scope_count": 9,
       "solution_count": 10,
       "case_count": 0,
-      "expert_count": 4,
+      "expert_count": 5,
       "facets": {
         "scopes": [
           "link-building",
@@ -121,7 +122,8 @@
           "elena-grakovich",
           "anastasiya-antoniuk",
           "dima-gerko",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "rita-pavide"
         ],
         "solutions": [
           "international-marketing",
@@ -208,7 +210,7 @@
       "scope_count": 8,
       "solution_count": 10,
       "case_count": 0,
-      "expert_count": 4,
+      "expert_count": 5,
       "facets": {
         "scopes": [
           "on-page-seo",
@@ -224,7 +226,8 @@
           "elena-grakovich",
           "anastasiya-antoniuk",
           "dima-gerko",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "rita-pavide"
         ],
         "solutions": [
           "ai-visibility",
@@ -308,7 +311,7 @@
       "scope_count": 2,
       "solution_count": 10,
       "case_count": 0,
-      "expert_count": 6,
+      "expert_count": 7,
       "facets": {
         "scopes": [
           "ai-optimisation",
@@ -320,6 +323,7 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
+          "muhammad-hijazi-siddiqui",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -484,7 +488,7 @@
       "scope_count": 10,
       "solution_count": 6,
       "case_count": 2,
-      "expert_count": 3,
+      "expert_count": 5,
       "facets": {
         "scopes": [
           "ppc-audit",
@@ -501,7 +505,9 @@
         "experts": [
           "elena-grakovich",
           "dima-gerko",
-          "vitali-bakun"
+          "vitali-bakun",
+          "aldillah-melisa-febryana",
+          "muhammad-hijazi-siddiqui"
         ],
         "cases": [
           "alvadi",
@@ -687,7 +693,7 @@
       "scope_count": 13,
       "solution_count": 10,
       "case_count": 2,
-      "expert_count": 8,
+      "expert_count": 11,
       "facets": {
         "scopes": [
           "technical-seo",
@@ -711,7 +717,10 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
+          "aldillah-melisa-febryana",
           "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
+          "rita-pavide",
           "valentina-soldatkina"
         ],
         "cases": [
@@ -954,10 +963,13 @@
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "dima-gerko": "Dima Gerko",
       "anastasiya-antoniuk": "Anastasiya Antoniuk",
+      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
       "elena-grakovich": "Elena Grakovich",
       "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
+      "rita-pavide": "Rita Pavide",
       "vitali-bakun": "Vitali Bakun",
       "valentina-soldatkina": "Valentina Soldatkina",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "solutions": {

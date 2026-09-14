@@ -7,7 +7,7 @@
       "description": "Удалённые вакансии ASO-специалиста в Onlinuum: ведите оптимизацию в сторах, 40% доли от выручки, работа на нескольких языках. Откликайтесь сегодня.",
       "menu": "ASO-специалист",
       "featured": false,
-      "expert_count": 1,
+      "expert_count": 2,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -58,7 +58,8 @@
           "paid-social-for-apps"
         ],
         "experts": [
-          "mariia-nedbaievska"
+          "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -135,7 +136,7 @@
       "description": "Удалённые вакансии PPC-специалиста в Onlinuum: платный поиск, Shopping и YouTube Ads на 6 приоритетных рынках. Откликайтесь сегодня.",
       "menu": "PPC-специалист",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -185,6 +186,9 @@
           "youtube-ads",
           "local-services-ads",
           "telegram-ads"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -450,6 +454,8 @@
     },
     "experts": {
       "mariia-nedbaievska": "Мария Недбаевская",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
+      "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу"
     },

@@ -72,6 +72,65 @@
       }
     },
     {
+      "slug": "aldillah-melisa-febryana",
+      "url": "/team/aldillah-melisa-febryana",
+      "title": "Алдиллах Мелиса Фебрияна",
+      "description": "PPC-стратег для Индонезии и APAC: Google Ads и Meta Ads для ecommerce и лидогенерации, с оценкой по продажам и качеству лидов. Записаться на консультацию.",
+      "role": "PPC-стратег",
+      "avatar": "_media/images/team/Aldillah-Melisa-Febryana.jpg",
+      "experience_value": "11+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia"
+      ],
+      "industries": [
+        "ecommerce",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail"
+        ],
+        "countries": [
+          "australia"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "anastasiya-antoniuk",
       "url": "/team/anastasiya-antoniuk",
       "title": "Анастасия Антонюк",
@@ -701,6 +760,135 @@
       }
     },
     {
+      "slug": "muhammad-hijazi-siddiqui",
+      "url": "/team/muhammad-hijazi-siddiqui",
+      "title": "Мухаммад Хиджази Сиддики",
+      "description": "Старший специалист по ASO и мобильному росту для игровых студий и разработчиков приложений: семантика, Google UAC, креативы Meta, снижение CPI.",
+      "role": "Старший специалист по ASO и мобильному росту",
+      "avatar": "_media/images/team/Muhammad-Hijazi-Siddiqui.jpg",
+      "experience_value": "7+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "brazil",
+        "canada",
+        "france",
+        "germany",
+        "uk",
+        "usa"
+      ],
+      "industries": [],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization",
+          "app-store-cro",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "app-conversion-retention",
+          "app-user-acquisition",
+          "aso",
+          "content",
+          "cro",
+          "paid-social",
+          "social-media"
+        ],
+        "countries": [
+          "australia",
+          "brazil",
+          "canada",
+          "france",
+          "germany",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "rita-pavide",
+      "url": "/team/rita-pavide",
+      "title": "Рита Павиде",
+      "description": "Трёхъязычный копирайтер, переводчик и редактор для крипто, финтеха и iGaming: статьи, обзоры, PR, рассылки и постредактура машинного перевода.",
+      "role": "Копирайтер, переводчик, редактор",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "8+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "eu"
+      ],
+      "industries": [
+        "fintech",
+        "legal"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "on-page-seo"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "fintech",
+          "legal"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ]
+      }
+    },
+    {
       "slug": "valentina-soldatkina",
       "url": "/team/valentina-soldatkina",
       "title": "Валентина Солдаткина",
@@ -885,13 +1073,13 @@
     "domains": {
       "search-marketing": "Поисковый маркетинг",
       "web-marketing": "Веб-маркетинг",
+      "performance-marketing": "Performance-маркетинг",
       "app-marketing": "Маркетинг приложений",
       "growth-marketing": "Growth-маркетинг",
       "product-marketing": "Продуктовый маркетинг",
       "brand-marketing": "Бренд-маркетинг",
       "community-marketing": "Комьюнити-маркетинг",
-      "marketing-operations": "Маркетинговые операции",
-      "performance-marketing": "Performance-маркетинг"
+      "marketing-operations": "Маркетинговые операции"
     },
     "scopes": {
       "ai-optimisation": "ИИ-оптимизация",
@@ -900,6 +1088,10 @@
       "on-page-seo": "Внутренняя оптимизация",
       "seo-research": "SEO-исследование",
       "technical-seo": "Технический SEO",
+      "google-ads-search": "Поиск в Google Ads",
+      "google-shopping": "Google Shopping",
+      "ppc-audit": "Аудит контекстной рекламы",
+      "youtube-ads": "Реклама на YouTube",
       "aso-localization": "ASO-локализация",
       "aso-optimization": "ASO-оптимизация",
       "local-seo": "Локальное SEO",
@@ -912,24 +1104,20 @@
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google UAC",
       "paid-social-for-apps": "Реклама в соцсетях",
-      "ppc-audit": "Аудит контекстной рекламы",
-      "google-ads-search": "Поиск в Google Ads",
-      "google-shopping": "Google Shopping",
       "local-services-ads": "Реклама Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
-      "remarketing-display": "Ремаркетинг и медийная реклама",
-      "youtube-ads": "Реклама на YouTube"
+      "remarketing-display": "Ремаркетинг и медийная реклама"
     },
     "solutions": {
       "b2b-digital-marketing": "B2B-маркетинг",
       "global-seo": "Глобальное SEO",
       "international-seo": "Международное SEO",
       "seo-ecommerce": "SEO для интернет-магазинов",
+      "digital-marketing-consulting": "Маркетинговый консалтинг",
       "digital-marketing-strategy": "Маркетинговая стратегия",
       "international-marketing": "Международный маркетинг",
       "outsource-digital-marketing": "Аутсорсинг маркетинга",
       "ai-visibility": "Видимость в нейросетях",
-      "digital-marketing-consulting": "Маркетинговый консалтинг",
       "multilingual-seo": "Мультиязычное SEO"
     },
     "services": {
@@ -937,29 +1125,30 @@
       "analytics": "Аналитика и данные",
       "content": "Контент-маркетинг",
       "seo": "SEO",
+      "paid-social": "Таргетированная реклама",
+      "ppc": "Контекстная реклама",
       "aso": "ASO",
       "video": "Видеомаркетинг",
       "automation": "Автоматизация маркетинга",
       "web-development": "Разработка сайтов",
-      "ppc": "Контекстная реклама",
       "app-conversion-retention": "Конверсия и удержание",
       "app-user-acquisition": "Привлечение пользователей",
       "cro": "CRO",
       "email": "Email-маркетинг",
-      "paid-social": "Таргетированная реклама",
+      "social-media": "Социальные сети",
       "marketplace-management": "Продвижение на маркетплейсах"
     },
     "industries": {
       "ecommerce": "Интернет-магазины",
       "saas": "SaaS",
+      "retail": "Ритейл",
       "automotive": "Автобизнес",
       "fintech": "Финтех",
       "healthcare": "Медицина",
       "hospitality": "Гостеприимство",
       "legal": "Юридические услуги",
       "manufacturing": "Промышленность",
-      "pharma": "Фарма и life sciences",
-      "retail": "Ритейл"
+      "pharma": "Фарма и life sciences"
     },
     "countries": {
       "eu": "Европейский союз",
@@ -1003,6 +1192,7 @@
     },
     "positions": {
       "seo-expert": "SEO-специалист",
+      "ppc-specialist": "PPC-специалист",
       "aso-specialist": "ASO-специалист"
     },
     "blog-posts": {

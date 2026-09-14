@@ -247,7 +247,7 @@
       "official_countries_count": 67,
       "scope_count": 29,
       "service_count": 19,
-      "expert_count": 8,
+      "expert_count": 11,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -300,7 +300,10 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
+          "aldillah-melisa-febryana",
           "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
+          "rita-pavide",
           "valentina-soldatkina"
         ],
         "cases": [
@@ -1102,7 +1105,7 @@
       "official_countries_count": 13,
       "scope_count": 19,
       "service_count": 9,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1143,6 +1146,7 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "mariia-nedbaievska",
+          "rita-pavide",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -1582,7 +1586,10 @@
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
       "dima-gerko": "Дима Герко",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
+      "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "mariia-nedbaievska": "Мария Недбаевская",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
+      "rita-pavide": "Рита Павиде",
       "valentina-soldatkina": "Валентина Солдаткина"
     },
     "solutions": {
