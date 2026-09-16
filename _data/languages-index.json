@@ -1,6 +1,94 @@
 {
   "languages": [
     {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "Arabic SEO and Content Marketing for Foreign Brands",
+      "description": "Arabic SEO, content and ad copy for Gulf, Levant and Maghreb audiences: standard Arabic, dialect and right-to-left delivery. Explore services.",
+      "menu": "Arabic",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307M",
+      "market_speakers_display": "307M",
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 14,
+      "service_count": 13,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "web-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "aso-localization",
+          "content-localization",
+          "cross-market-setup",
+          "google-ads-search",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "ppc-audit",
+          "remarketing-display",
+          "seo-audit",
+          "seo-research",
+          "technical-seo",
+          "transcreation"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "orm",
+          "paid-social",
+          "ppc",
+          "seo",
+          "social-media",
+          "web-development"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "retail",
+          "hospitality",
+          "automotive"
+        ],
+        "countries": [
+          "uae",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "chinese",
       "url": "/languages/chinese",
       "title": "Chinese-Language Marketing Services: Native Experts",
@@ -20,6 +108,9 @@
       "solution_count": 0,
       "facets": {
         "countries": [
+          "malaysia",
+          "singapore",
+          "thailand",
           "canada",
           "australia"
         ],
@@ -362,12 +453,14 @@
         ],
         "countries": [
           "usa",
+          "india",
           "uk",
           "germany",
           "canada",
           "france",
           "australia",
           "italy",
+          "thailand",
           "brazil",
           "mexico",
           "netherlands",
@@ -375,13 +468,18 @@
           "poland",
           "spain",
           "sweden",
+          "malaysia",
           "belgium",
           "austria",
+          "singapore",
           "greece",
           "ireland",
+          "new-zealand",
+          "uae",
           "switzerland",
           "czechia",
           "portugal",
+          "latvia",
           "eu"
         ],
         "blog-posts": [
@@ -773,6 +871,162 @@
       }
     },
     {
+      "slug": "hindi",
+      "url": "/languages/hindi",
+      "title": "Hindi Content Writing Services for B2B Brands",
+      "description": "Hindi content writing, copy and SEO for B2B brands reaching Hindi-speaking buyers. Fixed-price scopes, native review before publish. Explore services.",
+      "menu": "Hindi",
+      "featured": false,
+      "flag": "",
+      "code": "HI",
+      "native_speakers_l1": "582M",
+      "market_speakers_display": "582M",
+      "market_country_count": 4,
+      "official_countries_count": 4,
+      "scope_count": 8,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "growth-marketing"
+        ],
+        "scopes": [
+          "content-writing",
+          "copywriting",
+          "content-localization",
+          "transcreation",
+          "seo-research",
+          "on-page-seo",
+          "technical-seo",
+          "cross-market-setup"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo",
+          "international-seo",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "paid-social",
+          "social-media",
+          "analytics"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "retail"
+        ],
+        "countries": [
+          "india",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "indonesian",
+      "url": "/languages/indonesian",
+      "title": "Indonesian Digital Marketing: Native Bahasa Experts",
+      "description": "Indonesian digital marketing for brands entering Indonesia: native Bahasa Indonesia experts for SEO, PPC and content. Explore services.",
+      "menu": "Indonesian",
+      "featured": false,
+      "flag": "",
+      "code": "ID",
+      "native_speakers_l1": "181M",
+      "market_speakers_display": "181M",
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 13,
+      "service_count": 13,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "content-localization",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "orm",
+          "paid-social",
+          "social-media",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "saas",
+          "fintech",
+          "hospitality",
+          "manufacturing"
+        ],
+        "countries": [
+          "indonesia",
+          "netherlands"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "italian",
       "url": "/languages/italian",
       "title": "Italian-Language Marketing Services: Native Experts",
@@ -900,6 +1154,177 @@
       "facets": {
         "countries": [
           "japan"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "latvian",
+      "url": "/languages/latvian",
+      "title": "Latvian Localization: Native SEO, Content and Ad Copy",
+      "description": "Latvian localization, SEO and ad copy written by native Latvian specialists, not translated from English. Explore the fixed-price scopes.",
+      "menu": "Latvian",
+      "featured": false,
+      "flag": "",
+      "code": "LV",
+      "native_speakers_l1": "1.1M",
+      "market_speakers_display": "1.1M",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 1,
+      "case_count": 1,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "rita-pavide"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "legal",
+          "saas"
+        ],
+        "countries": [
+          "latvia"
+        ]
+      }
+    },
+    {
+      "slug": "malay",
+      "url": "/languages/malay",
+      "title": "Malay Translation Services & Bahasa Melayu Marketing",
+      "description": "Malay translation services for marketing, not documents: Bahasa Melayu copy, SEO and localization for brands selling into Malaysia. Explore services.",
+      "menu": "Malay",
+      "featured": false,
+      "flag": "",
+      "code": "MS",
+      "native_speakers_l1": "39.7M",
+      "market_speakers_display": "39.7M",
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 10,
+      "service_count": 9,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 7,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "content-localization",
+          "transcreation",
+          "content-writing",
+          "copywriting",
+          "seo-research",
+          "on-page-seo",
+          "technical-seo",
+          "cross-market-setup",
+          "google-ads-search",
+          "paid-social-for-apps"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo",
+          "international-seo",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "paid-social",
+          "social-media",
+          "marketplace-management",
+          "web-development",
+          "analytics",
+          "aeo"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "saas",
+          "fintech",
+          "hospitality"
+        ],
+        "countries": [
+          "malaysia",
+          "indonesia",
+          "singapore"
         ],
         "positions": [
           "seo-expert"
@@ -1220,6 +1645,7 @@
         "countries": [
           "poland",
           "germany",
+          "latvia",
           "eu"
         ],
         "blog-posts": [
@@ -1457,6 +1883,86 @@
       }
     },
     {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "Thai SEO & Localization: Native Thai Experts",
+      "description": "Thai SEO and Thai localization by native specialists: Thai-script keyword research, content and ad copy for brands selling into Thailand.",
+      "menu": "Thai",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 9,
+      "service_count": 12,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "paid-social",
+          "social-media",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "saas",
+          "automotive"
+        ],
+        "countries": [
+          "thailand"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "turkish",
       "url": "/languages/turkish",
       "title": "Turkish-Language Marketing Services: Native Experts",
@@ -1543,99 +2049,129 @@
           "seo-expert"
         ]
       }
+    },
+    {
+      "slug": "urdu",
+      "url": "/languages/urdu",
+      "title": "Urdu Translation Services & Native Marketing Team",
+      "description": "Urdu translation services for marketing, not documents: native Urdu copy, SEO and site localization for brands selling into Pakistan. Explore services.",
+      "menu": "Urdu",
+      "featured": false,
+      "flag": "",
+      "code": "UR",
+      "native_speakers_l1": "313M",
+      "market_speakers_display": "313M",
+      "market_country_count": 4,
+      "official_countries_count": 4,
+      "scope_count": 8,
+      "service_count": 8,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "growth-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "on-page-seo",
+          "technical-seo",
+          "cross-market-setup",
+          "aso-localization",
+          "aso-optimization",
+          "google-ads-search",
+          "paid-social-for-apps"
+        ],
+        "experts": [
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo",
+          "international-seo",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso",
+          "paid-social",
+          "app-user-acquisition",
+          "web-development",
+          "analytics"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "retail",
+          "saas"
+        ],
+        "countries": [
+          "india",
+          "uk",
+          "canada"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
     }
   ],
   "labels": {
-    "countries": {
-      "canada": "Canada",
-      "australia": "Australia",
-      "czechia": "Czechia",
-      "eu": "European Union",
-      "netherlands": "Netherlands",
-      "germany": "Germany",
-      "belgium": "Belgium",
-      "usa": "USA",
-      "uk": "United Kingdom",
-      "france": "France",
-      "italy": "Italy",
-      "brazil": "Brazil",
-      "mexico": "Mexico",
-      "turkey": "Turkey",
-      "poland": "Poland",
-      "spain": "Spain",
-      "sweden": "Sweden",
-      "austria": "Austria",
-      "greece": "Greece",
-      "ireland": "Ireland",
-      "switzerland": "Switzerland",
-      "portugal": "Portugal",
-      "japan": "Japan"
-    },
-    "positions": {
-      "seo-expert": "SEO Expert",
-      "aso-specialist": "ASO Specialist",
-      "ppc-specialist": "PPC Specialist"
-    },
     "domains": {
       "search-marketing": "Search Marketing",
       "growth-marketing": "Growth Marketing",
-      "web-marketing": "Web Marketing",
       "performance-marketing": "Performance Marketing",
+      "web-marketing": "Web Marketing",
       "product-marketing": "Product Marketing",
+      "brand-marketing": "Brand Marketing",
       "marketing-operations": "Marketing Operations",
       "community-marketing": "Community Marketing",
-      "brand-marketing": "Brand Marketing",
       "app-marketing": "App Marketing"
     },
     "scopes": {
       "ai-optimisation": "AI Optimisation",
-      "technical-seo": "Technical SEO",
+      "aso-localization": "ASO Localization",
+      "content-localization": "Content Localization",
       "cross-market-setup": "International SEO Setup",
+      "google-ads-search": "Google Ads Search",
       "link-building": "Link Building",
       "local-seo": "Local SEO",
       "on-page-seo": "On-Page SEO",
+      "ppc-audit": "PPC Audit",
+      "remarketing-display": "Remarketing & Display",
+      "seo-audit": "SEO Audit",
       "seo-research": "SEO Research",
+      "technical-seo": "Technical SEO",
+      "transcreation": "Transcreation",
       "aso-optimization": "ASO Optimization",
-      "aso-localization": "ASO Localization",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns",
       "paid-social-for-apps": "Paid Social for Apps",
       "app-store-cro": "App Store CRO",
       "app-retention": "App Retention",
-      "content-localization": "Content Localization",
       "content-rewriting": "Content Rewriting",
       "content-strategy": "Content Strategy",
       "content-writing": "Content Writing",
       "copywriting": "Copywriting",
-      "google-ads-search": "Google Ads Search",
       "google-shopping": "Google Shopping",
       "local-services-ads": "Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
-      "ppc-audit": "PPC Audit",
-      "remarketing-display": "Remarketing & Display",
-      "seo-audit": "SEO Audit",
       "telegram-ads": "Telegram Ads",
       "telegram-channel-placements": "Telegram Channel Placements",
-      "transcreation": "Transcreation",
       "video-content-production": "Video Content Production",
       "video-marketing-audit": "Video Marketing Audit",
       "youtube-ads": "YouTube Ads",
       "youtube-channel-management": "YouTube Channel Management",
       "youtube-creator-collaborations": "YouTube Creator Collaborations",
       "youtube-creator-pilot": "YouTube Creator Pilot"
-    },
-    "experts": {
-      "elena-grakovich": "Elena Grakovich",
-      "anastasiya-antoniuk": "Anastasiya Antoniuk",
-      "vitali-bakun": "Vitali Bakun",
-      "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
-      "dima-gerko": "Dima Gerko",
-      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
-      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
-      "mariia-nedbaievska": "Mariia Nedbaievska",
-      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
-      "rita-pavide": "Rita Pavide",
-      "valentina-soldatkina": "Valentina Soldatkina"
     },
     "solutions": {
       "ai-visibility": "AI Visibility",
@@ -1657,16 +2193,16 @@
       "cro": "CRO",
       "email": "Email Marketing",
       "marketplace-management": "Marketplace Management",
-      "pr": "Digital PR",
-      "social-media": "Social Media",
-      "aso": "ASO",
       "orm": "ORM",
       "paid-social": "Paid Social",
+      "ppc": "PPC",
+      "seo": "SEO",
+      "social-media": "Social Media",
       "web-development": "Web Development",
+      "pr": "Digital PR",
+      "aso": "ASO",
       "app-user-acquisition": "App User Acquisition",
       "app-conversion-retention": "App Conversion & Retention",
-      "seo": "SEO",
-      "ppc": "PPC",
       "affiliate": "Affiliate",
       "video": "Video Marketing"
     },
@@ -1674,17 +2210,69 @@
       "ecommerce": "E-commerce",
       "saas": "SaaS",
       "fintech": "Fintech",
-      "healthcare": "Healthcare",
+      "retail": "Retail",
+      "hospitality": "Hospitality",
       "automotive": "Automotive",
+      "healthcare": "Healthcare",
       "legal": "Legal",
       "manufacturing": "Manufacturing",
-      "hospitality": "Hospitality",
-      "pharma": "Pharma & Life Sciences",
-      "retail": "Retail"
+      "pharma": "Pharma & Life Sciences"
+    },
+    "countries": {
+      "uae": "UAE",
+      "canada": "Canada",
+      "malaysia": "Malaysia",
+      "singapore": "Singapore",
+      "thailand": "Thailand",
+      "australia": "Australia",
+      "czechia": "Czechia",
+      "eu": "European Union",
+      "netherlands": "Netherlands",
+      "germany": "Germany",
+      "belgium": "Belgium",
+      "usa": "USA",
+      "india": "India",
+      "uk": "United Kingdom",
+      "france": "France",
+      "italy": "Italy",
+      "brazil": "Brazil",
+      "mexico": "Mexico",
+      "turkey": "Turkey",
+      "poland": "Poland",
+      "spain": "Spain",
+      "sweden": "Sweden",
+      "austria": "Austria",
+      "greece": "Greece",
+      "ireland": "Ireland",
+      "new-zealand": "New Zealand",
+      "switzerland": "Switzerland",
+      "portugal": "Portugal",
+      "latvia": "Latvia",
+      "indonesia": "Indonesia",
+      "japan": "Japan"
+    },
+    "positions": {
+      "seo-expert": "SEO Expert",
+      "aso-specialist": "ASO Specialist",
+      "ppc-specialist": "PPC Specialist"
+    },
+    "experts": {
+      "elena-grakovich": "Elena Grakovich",
+      "anastasiya-antoniuk": "Anastasiya Antoniuk",
+      "vitali-bakun": "Vitali Bakun",
+      "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
+      "dima-gerko": "Dima Gerko",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "mariia-nedbaievska": "Mariia Nedbaievska",
+      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "rita-pavide": "Rita Pavide",
+      "valentina-soldatkina": "Valentina Soldatkina"
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",
-      "ecommerce-migration-2025": "E-commerce Migration"
+      "ecommerce-migration-2025": "E-commerce Migration",
+      "alvadi": "ALVADI"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "How AI Chooses Sources",

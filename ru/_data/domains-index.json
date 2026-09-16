@@ -66,13 +66,19 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "uae"
         ],
         "languages": [
           "english",
@@ -86,7 +92,9 @@
           "dutch",
           "greek",
           "italian",
-          "swedish"
+          "latvian",
+          "swedish",
+          "urdu"
         ],
         "positions": [
           "aso-specialist"
@@ -178,14 +186,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -195,11 +211,16 @@
           "polish",
           "portuguese",
           "russian",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
+          "thai",
           "turkish"
         ]
       }
@@ -284,13 +305,20 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand",
+          "uae"
         ],
         "languages": [
           "english",
@@ -304,6 +332,7 @@
           "dutch",
           "greek",
           "italian",
+          "latvian",
           "swedish"
         ]
       }
@@ -385,14 +414,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -402,12 +439,19 @@
           "russian",
           "polish",
           "portuguese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
-          "turkish"
+          "thai",
+          "turkish",
+          "urdu"
         ]
       }
     },
@@ -465,23 +509,35 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
           "german",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
+          "latvian",
           "swedish",
+          "thai",
           "turkish"
         ]
       }
@@ -568,26 +624,41 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
           "german",
           "french",
           "spanish",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
-          "turkish"
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "positions": [
           "ppc-specialist"
@@ -672,14 +743,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -689,11 +768,16 @@
           "polish",
           "portuguese",
           "russian",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
+          "thai",
           "turkish"
         ]
       }
@@ -798,14 +882,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -815,12 +907,19 @@
           "spanish",
           "polish",
           "portuguese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
-          "turkish"
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -921,14 +1020,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -938,12 +1045,19 @@
           "spanish",
           "polish",
           "portuguese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
-          "turkish"
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -1068,13 +1182,21 @@
       "czechia": "Чехия",
       "eu": "Европейский союз",
       "greece": "Греция",
+      "india": "Индия",
+      "indonesia": "Индонезия",
       "ireland": "Ирландия",
       "italy": "Италия",
       "japan": "Япония",
+      "latvia": "Латвия",
       "mexico": "Мексика",
       "netherlands": "Нидерланды",
+      "new-zealand": "Новая Зеландия",
+      "singapore": "Сингапур",
       "sweden": "Швеция",
       "switzerland": "Швейцария",
+      "uae": "ОАЭ",
+      "malaysia": "Малайзия",
+      "thailand": "Таиланд",
       "turkey": "Турция"
     },
     "languages": {
@@ -1089,8 +1211,15 @@
       "dutch": "Нидерландский",
       "greek": "Греческий",
       "italian": "Итальянский",
+      "latvian": "Латышский",
       "swedish": "Шведский",
-      "turkish": "Турецкий"
+      "urdu": "Урду",
+      "arabic": "Арабский",
+      "indonesian": "Индонезийский",
+      "malay": "Малайский",
+      "thai": "Тайский",
+      "turkish": "Турецкий",
+      "hindi": "Хинди"
     },
     "positions": {
       "aso-specialist": "ASO-специалист",

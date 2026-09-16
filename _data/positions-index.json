@@ -86,7 +86,8 @@
           "austria",
           "poland",
           "portugal",
-          "spain"
+          "spain",
+          "india"
         ],
         "languages": [
           "english",
@@ -95,7 +96,8 @@
           "russian",
           "spanish",
           "polish",
-          "portuguese"
+          "portuguese",
+          "urdu"
         ]
       },
       "services": [
@@ -214,13 +216,20 @@
           "germany",
           "france",
           "poland",
-          "spain"
+          "spain",
+          "india",
+          "indonesia",
+          "malaysia",
+          "singapore",
+          "thailand",
+          "uae"
         ],
         "languages": [
           "english",
           "german",
           "french",
-          "spanish"
+          "spanish",
+          "indonesian"
         ]
       },
       "services": [
@@ -356,14 +365,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -375,11 +392,15 @@
           "portuguese",
           "chinese",
           "japanese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
           "italian",
+          "malay",
           "swedish",
+          "thai",
           "turkish"
         ],
         "blog-posts": [
@@ -501,6 +522,12 @@
       "poland": "Poland",
       "portugal": "Portugal",
       "spain": "Spain",
+      "india": "India",
+      "indonesia": "Indonesia",
+      "malaysia": "Malaysia",
+      "singapore": "Singapore",
+      "thailand": "Thailand",
+      "uae": "UAE",
       "australia": "Australia",
       "belgium": "Belgium",
       "brazil": "Brazil",
@@ -511,8 +538,10 @@
       "ireland": "Ireland",
       "italy": "Italy",
       "japan": "Japan",
+      "latvia": "Latvia",
       "mexico": "Mexico",
       "netherlands": "Netherlands",
+      "new-zealand": "New Zealand",
       "sweden": "Sweden",
       "switzerland": "Switzerland",
       "turkey": "Turkey"
@@ -525,13 +554,19 @@
       "spanish": "Spanish",
       "polish": "Polish",
       "portuguese": "Portuguese",
+      "urdu": "Urdu",
+      "indonesian": "Indonesian",
       "chinese": "Chinese",
       "japanese": "Japanese",
+      "arabic": "Arabic",
       "czech": "Czech",
       "dutch": "Dutch",
       "greek": "Greek",
+      "hindi": "Hindi",
       "italian": "Italian",
+      "malay": "Malay",
       "swedish": "Swedish",
+      "thai": "Thai",
       "turkish": "Turkish"
     },
     "blog-posts": {

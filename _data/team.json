@@ -120,10 +120,16 @@
           "retail"
         ],
         "countries": [
-          "australia"
+          "australia",
+          "indonesia",
+          "malaysia",
+          "new-zealand",
+          "singapore",
+          "thailand"
         ],
         "languages": [
-          "english"
+          "english",
+          "indonesian"
         ],
         "positions": [
           "ppc-specialist"
@@ -238,13 +244,17 @@
           "france",
           "germany",
           "greece",
+          "india",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
           "poland",
           "portugal",
+          "singapore",
           "spain",
           "sweden",
           "switzerland"
@@ -401,14 +411,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -531,12 +549,16 @@
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
           "poland",
           "portugal",
+          "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "uae"
         ],
         "languages": [
           "english",
@@ -678,12 +700,16 @@
           "czechia",
           "eu",
           "greece",
+          "india",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
           "portugal",
+          "singapore",
           "spain",
           "sweden",
           "switzerland"
@@ -837,10 +863,14 @@
           "france",
           "germany",
           "uk",
-          "usa"
+          "usa",
+          "india",
+          "indonesia",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "urdu"
         ],
         "positions": [
           "aso-specialist"
@@ -901,11 +931,13 @@
           "legal"
         ],
         "countries": [
-          "eu"
+          "eu",
+          "latvia"
         ],
         "languages": [
           "english",
-          "russian"
+          "russian",
+          "latvian"
         ]
       }
     },
@@ -959,7 +991,8 @@
         "countries": [
           "germany",
           "uk",
-          "usa"
+          "usa",
+          "india"
         ],
         "languages": [
           "english",
@@ -1065,11 +1098,15 @@
           "eu",
           "france",
           "greece",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "spain",
           "sweden",
           "switzerland",
@@ -1183,6 +1220,11 @@
       "usa": "USA",
       "turkey": "Turkey",
       "australia": "Australia",
+      "indonesia": "Indonesia",
+      "malaysia": "Malaysia",
+      "new-zealand": "New Zealand",
+      "singapore": "Singapore",
+      "thailand": "Thailand",
       "austria": "Austria",
       "belgium": "Belgium",
       "brazil": "Brazil",
@@ -1191,20 +1233,24 @@
       "france": "France",
       "germany": "Germany",
       "greece": "Greece",
+      "india": "India",
       "ireland": "Ireland",
       "italy": "Italy",
       "japan": "Japan",
+      "latvia": "Latvia",
       "mexico": "Mexico",
       "netherlands": "Netherlands",
       "poland": "Poland",
       "portugal": "Portugal",
       "spain": "Spain",
       "sweden": "Sweden",
-      "switzerland": "Switzerland"
+      "switzerland": "Switzerland",
+      "uae": "UAE"
     },
     "languages": {
       "english": "English",
       "turkish": "Turkish",
+      "indonesian": "Indonesian",
       "russian": "Russian",
       "czech": "Czech",
       "dutch": "Dutch",
@@ -1215,7 +1261,9 @@
       "polish": "Polish",
       "portuguese": "Portuguese",
       "spanish": "Spanish",
-      "swedish": "Swedish"
+      "swedish": "Swedish",
+      "urdu": "Urdu",
+      "latvian": "Latvian"
     },
     "positions": {
       "seo-expert": "SEO Expert",

@@ -101,14 +101,19 @@
           "czechia",
           "eu",
           "greece",
+          "india",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -118,11 +123,14 @@
           "spanish",
           "polish",
           "portuguese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
           "italian",
+          "latvian",
           "swedish",
+          "thai",
           "turkish"
         ],
         "blog-posts": [
@@ -259,14 +267,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -276,12 +292,19 @@
           "spanish",
           "polish",
           "portuguese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
-          "turkish"
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -401,14 +424,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -418,12 +449,18 @@
           "spanish",
           "polish",
           "portuguese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
-          "turkish"
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -536,13 +573,18 @@
           "czechia",
           "eu",
           "greece",
+          "india",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "uae"
         ],
         "languages": [
           "english",
@@ -655,7 +697,11 @@
           "austria",
           "poland",
           "portugal",
-          "spain"
+          "spain",
+          "indonesia",
+          "malaysia",
+          "thailand",
+          "uae"
         ],
         "languages": [
           "english",
@@ -664,7 +710,11 @@
           "russian",
           "spanish",
           "polish",
-          "portuguese"
+          "portuguese",
+          "arabic",
+          "indonesian",
+          "malay",
+          "thai"
         ],
         "positions": [
           "seo-expert"
@@ -761,11 +811,15 @@
           "czechia",
           "eu",
           "greece",
+          "india",
           "ireland",
           "italy",
           "japan",
+          "latvia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -781,6 +835,7 @@
           "dutch",
           "greek",
           "italian",
+          "latvian",
           "swedish"
         ],
         "blog-posts": [
@@ -882,13 +937,20 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -902,6 +964,7 @@
           "czech",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "swedish",
           "turkish"
@@ -1104,8 +1167,13 @@
           "poland",
           "portugal",
           "spain",
+          "indonesia",
           "italy",
-          "turkey"
+          "malaysia",
+          "singapore",
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -1115,7 +1183,13 @@
           "spanish",
           "polish",
           "portuguese",
-          "turkish"
+          "arabic",
+          "hindi",
+          "indonesian",
+          "malay",
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "positions": [
           "seo-expert"
@@ -1241,14 +1315,22 @@
           "czechia",
           "eu",
           "greece",
+          "india",
+          "indonesia",
           "ireland",
           "italy",
           "japan",
+          "latvia",
+          "malaysia",
           "mexico",
           "netherlands",
+          "new-zealand",
+          "singapore",
           "sweden",
           "switzerland",
-          "turkey"
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
           "english",
@@ -1258,12 +1340,19 @@
           "spanish",
           "polish",
           "portuguese",
+          "arabic",
           "czech",
           "dutch",
           "greek",
+          "hindi",
+          "indonesian",
           "italian",
+          "latvian",
+          "malay",
           "swedish",
-          "turkish"
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -1393,14 +1482,22 @@
       "czechia": "Чехия",
       "eu": "Европейский союз",
       "greece": "Греция",
+      "india": "Индия",
       "ireland": "Ирландия",
       "italy": "Италия",
       "japan": "Япония",
+      "latvia": "Латвия",
       "mexico": "Мексика",
       "netherlands": "Нидерланды",
+      "new-zealand": "Новая Зеландия",
       "sweden": "Швеция",
       "switzerland": "Швейцария",
-      "turkey": "Турция"
+      "thailand": "Таиланд",
+      "turkey": "Турция",
+      "uae": "ОАЭ",
+      "indonesia": "Индонезия",
+      "malaysia": "Малайзия",
+      "singapore": "Сингапур"
     },
     "languages": {
       "english": "Английский",
@@ -1410,12 +1507,19 @@
       "spanish": "Испанский",
       "polish": "Польский",
       "portuguese": "Португальский",
+      "arabic": "Арабский",
       "czech": "Чешский",
       "dutch": "Нидерландский",
       "greek": "Греческий",
       "italian": "Итальянский",
+      "latvian": "Латышский",
       "swedish": "Шведский",
-      "turkish": "Турецкий"
+      "thai": "Тайский",
+      "turkish": "Турецкий",
+      "hindi": "Хинди",
+      "indonesian": "Индонезийский",
+      "malay": "Малайский",
+      "urdu": "Урду"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",

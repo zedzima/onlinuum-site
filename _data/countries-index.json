@@ -526,8 +526,11 @@
           "french",
           "spanish",
           "chinese",
+          "arabic",
+          "hindi",
           "italian",
-          "german"
+          "german",
+          "urdu"
         ],
         "positions": [
           "seo-expert"
@@ -1127,6 +1130,215 @@
       }
     },
     {
+      "slug": "india",
+      "url": "/countries/india",
+      "title": "India Market Entry Strategy for Foreign Brands",
+      "description": "India market entry strategy for companies selling into India: demand research, language decisions, fixed-price scopes and named experts. Book a call.",
+      "menu": "India",
+      "featured": false,
+      "flag": "🇮🇳",
+      "population_total": "1.41B",
+      "official_languages_count": 11,
+      "significant_languages_count": 11,
+      "dominant_language_name": "Hindi",
+      "dominant_language_code": "hi",
+      "scope_count": 19,
+      "service_count": 17,
+      "expert_count": 5,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "seo-audit",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads",
+          "aso-optimization",
+          "aso-localization",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "muhammad-hijazi-siddiqui",
+          "elena-grakovich",
+          "valentina-soldatkina",
+          "dima-gerko",
+          "anastasiya-antoniuk"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "hindi",
+          "english",
+          "urdu"
+        ],
+        "positions": [
+          "seo-expert",
+          "ppc-specialist",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "indonesia",
+      "url": "/countries/indonesia",
+      "title": "Digital Marketing Agency in Indonesia: Jakarta Team",
+      "description": "Digital marketing agency in Indonesia for international brands: Jakarta-based paid media, marketplace coverage, fixed-price scopes. Book a call.",
+      "menu": "Indonesia",
+      "featured": false,
+      "flag": "🇮🇩",
+      "population_total": "282M",
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "Indonesian",
+      "dominant_language_code": "id",
+      "scope_count": 13,
+      "service_count": 16,
+      "expert_count": 4,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "web-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "community-marketing",
+          "marketing-operations",
+          "app-marketing"
+        ],
+        "scopes": [
+          "cross-market-setup",
+          "seo-research",
+          "technical-seo",
+          "on-page-seo",
+          "local-seo",
+          "link-building",
+          "ai-optimisation",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads",
+          "aso-optimization"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "dima-gerko",
+          "vitali-bakun",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "paid-social",
+          "content",
+          "social-media",
+          "marketplace-management",
+          "cro",
+          "analytics",
+          "aeo",
+          "web-development",
+          "orm",
+          "email",
+          "automation",
+          "video",
+          "aso",
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fintech",
+          "saas",
+          "hospitality",
+          "manufacturing"
+        ],
+        "languages": [
+          "indonesian",
+          "malay"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "ireland",
       "url": "/countries/ireland",
       "title": "Digital Marketing Agency in Ireland",
@@ -1437,6 +1649,205 @@
       }
     },
     {
+      "slug": "latvia",
+      "url": "/countries/latvia",
+      "title": "SEO in Latvia: Digital Marketing for Foreign Brands",
+      "description": "SEO in Latvia for international companies entering the market: fixed-price scopes, native execution, no Riga office needed. Browse the services.",
+      "menu": "Latvia",
+      "featured": false,
+      "flag": "🇱🇻",
+      "population_total": "1.8M",
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "Latvian",
+      "dominant_language_code": "lv",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 6,
+      "case_count": 1,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "rita-pavide",
+          "dima-gerko",
+          "vitali-bakun",
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dmitriy-razakhatsky"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "healthcare"
+        ],
+        "languages": [
+          "latvian",
+          "english",
+          "russian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "malaysia",
+      "url": "/countries/malaysia",
+      "title": "Digital Marketing Agency in Malaysia",
+      "description": "Digital marketing agency in Malaysia for international brands: productized SEO, PPC and ecommerce work across Malay, English and Chinese search.",
+      "menu": "Malaysia",
+      "featured": false,
+      "flag": "🇲🇾",
+      "population_total": "34.6M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Malay",
+      "dominant_language_code": "ms",
+      "scope_count": 12,
+      "service_count": 13,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "orm",
+          "paid-social",
+          "social-media",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "saas",
+          "fintech",
+          "manufacturing",
+          "hospitality"
+        ],
+        "languages": [
+          "malay",
+          "english",
+          "chinese"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "mexico",
       "url": "/countries/mexico",
       "title": "Digital Marketing Agency in Mexico",
@@ -1638,7 +2049,112 @@
           "english",
           "german",
           "french",
+          "indonesian",
           "turkish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "new-zealand",
+      "url": "/countries/new-zealand",
+      "title": "Digital Marketing Agency in New Zealand",
+      "description": "Digital marketing agency in New Zealand for international brands: productized services, NZ-market execution from Auckland to Christchurch. Get started.",
+      "menu": "New Zealand",
+      "featured": false,
+      "flag": "🇳🇿",
+      "population_total": "5.16M",
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "English",
+      "dominant_language_code": "en",
+      "scope_count": 14,
+      "service_count": 19,
+      "expert_count": 6,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "vitali-bakun",
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "affiliate",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "video",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -1871,6 +2387,117 @@
         "positions": [
           "seo-expert",
           "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "singapore",
+      "url": "/countries/singapore",
+      "title": "Digital Marketing Agency in Singapore",
+      "description": "Digital marketing agency in Singapore for brands entering APAC: productized SEO, content and paid media, no local office needed. Book a consultation.",
+      "menu": "Singapore",
+      "featured": false,
+      "flag": "🇸🇬",
+      "population_total": "6.03M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "English",
+      "dominant_language_code": "en",
+      "scope_count": 18,
+      "service_count": 19,
+      "expert_count": 6,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "seo-audit",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "vitali-bakun",
+          "dmitriy-razakhatsky",
+          "aldillah-melisa-febryana"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "affiliate",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "video",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "legal",
+          "manufacturing",
+          "retail"
+        ],
+        "languages": [
+          "english",
+          "chinese",
+          "malay"
+        ],
+        "positions": [
+          "seo-expert",
+          "ppc-specialist"
         ]
       }
     },
@@ -2196,6 +2823,100 @@
       }
     },
     {
+      "slug": "thailand",
+      "url": "/countries/thailand",
+      "title": "Digital Marketing Agency in Thailand: Bangkok, LINE, Lazada",
+      "description": "Digital marketing agency in Thailand for international brands: Bangkok search, LINE OA and Lazada/Shopee coverage, PDPA-safe tracking. Get started.",
+      "menu": "Thailand",
+      "featured": false,
+      "flag": "🇹🇭",
+      "population_total": "69.9M",
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "Thai",
+      "dominant_language_code": "th",
+      "scope_count": 12,
+      "service_count": 13,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "orm",
+          "paid-social",
+          "social-media",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "saas",
+          "fintech",
+          "manufacturing",
+          "automotive"
+        ],
+        "languages": [
+          "thai",
+          "english",
+          "chinese"
+        ],
+        "positions": [
+          "seo-expert",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "turkey",
       "url": "/countries/turkey",
       "title": "Digital Marketing Agency in Turkey: Istanbul Team",
@@ -2280,6 +3001,108 @@
         ],
         "positions": [
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "uae",
+      "url": "/countries/uae",
+      "title": "Digital Marketing Agency in Dubai and the UAE",
+      "description": "Digital marketing agency in Dubai for international brands entering the UAE: Arabic and English execution, fixed-price scopes. Book a consultation.",
+      "menu": "UAE",
+      "featured": false,
+      "flag": "🇦🇪",
+      "population_total": "10M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Arabic",
+      "dominant_language_code": "ar",
+      "scope_count": 15,
+      "service_count": 17,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "seo-audit",
+          "seo-research",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "cross-market-setup",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "muhammad-hijazi-siddiqui",
+          "dima-gerko",
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "saas",
+          "fintech",
+          "hospitality",
+          "automotive",
+          "healthcare"
+        ],
+        "languages": [
+          "arabic",
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "ppc-specialist"
         ]
       }
     },
@@ -2411,7 +3234,8 @@
           "french",
           "german",
           "spanish",
-          "polish"
+          "polish",
+          "urdu"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -2680,13 +3504,20 @@
       "dutch": "Dutch",
       "portuguese": "Portuguese",
       "spanish": "Spanish",
+      "arabic": "Arabic",
+      "hindi": "Hindi",
+      "urdu": "Urdu",
       "czech": "Czech",
       "polish": "Polish",
       "russian": "Russian",
       "swedish": "Swedish",
       "greek": "Greek",
       "turkish": "Turkish",
-      "japanese": "Japanese"
+      "indonesian": "Indonesian",
+      "malay": "Malay",
+      "japanese": "Japanese",
+      "latvian": "Latvian",
+      "thai": "Thai"
     },
     "positions": {
       "seo-expert": "SEO Expert",
