@@ -89,7 +89,8 @@
       ],
       "industries": [
         "ecommerce",
-        "retail"
+        "retail",
+        "fmcg"
       ],
       "cases": [],
       "case_count": 0,
@@ -117,7 +118,8 @@
         ],
         "industries": [
           "ecommerce",
-          "retail"
+          "retail",
+          "fmcg"
         ],
         "countries": [
           "australia",
@@ -158,6 +160,7 @@
         "automotive",
         "ecommerce",
         "fintech",
+        "fmcg",
         "healthcare",
         "hospitality",
         "legal",
@@ -223,6 +226,7 @@
           "automotive",
           "ecommerce",
           "fintech",
+          "fmcg",
           "healthcare",
           "hospitality",
           "legal",
@@ -312,6 +316,8 @@
         "automotive",
         "legal",
         "manufacturing",
+        "fmcg",
+        "game-studios",
         "hospitality",
         "pharma",
         "retail"
@@ -391,6 +397,8 @@
           "automotive",
           "legal",
           "manufacturing",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -468,6 +476,8 @@
         "healthcare",
         "saas",
         "automotive",
+        "crypto",
+        "fmcg",
         "hospitality",
         "legal",
         "manufacturing",
@@ -526,6 +536,8 @@
           "healthcare",
           "saas",
           "automotive",
+          "crypto",
+          "fmcg",
           "hospitality",
           "legal",
           "manufacturing",
@@ -611,6 +623,8 @@
         "fintech",
         "saas",
         "automotive",
+        "crypto",
+        "fmcg",
         "healthcare",
         "hospitality",
         "legal",
@@ -679,6 +693,8 @@
           "fintech",
           "saas",
           "automotive",
+          "crypto",
+          "fmcg",
           "healthcare",
           "hospitality",
           "legal",
@@ -752,7 +768,8 @@
       "industries": [
         "saas",
         "fintech",
-        "ecommerce"
+        "ecommerce",
+        "game-studios"
       ],
       "cases": [],
       "case_count": 0,
@@ -784,7 +801,8 @@
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "game-studios"
         ],
         "countries": [
           "germany",
@@ -822,7 +840,9 @@
         "uk",
         "usa"
       ],
-      "industries": [],
+      "industries": [
+        "game-studios"
+      ],
       "cases": [],
       "case_count": 0,
       "article_count": 0,
@@ -856,6 +876,9 @@
           "paid-social",
           "social-media"
         ],
+        "industries": [
+          "game-studios"
+        ],
         "countries": [
           "australia",
           "brazil",
@@ -881,7 +904,7 @@
       "slug": "rita-pavide",
       "url": "/team/rita-pavide",
       "title": "Рита Павиде",
-      "description": "Трёхъязычный копирайтер, переводчик и редактор для крипто, финтеха и iGaming: статьи, обзоры, PR, рассылки и постредактура машинного перевода.",
+      "description": "Трёхъязычный копирайтер, переводчик и редактор для крипто, финтеха и необанкинга: статьи, обзоры, PR, рассылки и постредактура машинного перевода.",
       "role": "Копирайтер, переводчик, редактор",
       "avatar": "_media/illustrations/user-plus.svg",
       "experience_value": "8+",
@@ -896,7 +919,8 @@
       ],
       "industries": [
         "fintech",
-        "legal"
+        "legal",
+        "crypto"
       ],
       "cases": [],
       "case_count": 0,
@@ -928,7 +952,8 @@
         ],
         "industries": [
           "fintech",
-          "legal"
+          "legal",
+          "crypto"
         ],
         "countries": [
           "eu",
@@ -1026,6 +1051,7 @@
         "ecommerce",
         "automotive",
         "fintech",
+        "fmcg",
         "healthcare",
         "hospitality",
         "legal",
@@ -1078,6 +1104,7 @@
           "ecommerce",
           "automotive",
           "fintech",
+          "fmcg",
           "healthcare",
           "hospitality",
           "legal",
@@ -1206,13 +1233,16 @@
       "ecommerce": "Интернет-магазины",
       "saas": "SaaS",
       "retail": "Ритейл",
+      "fmcg": "FMCG",
       "automotive": "Автобизнес",
       "fintech": "Финтех",
       "healthcare": "Медицина",
       "hospitality": "Гостеприимство",
       "legal": "Юридические услуги",
       "manufacturing": "Промышленность",
-      "pharma": "Фарма и life sciences"
+      "pharma": "Фарма и life sciences",
+      "game-studios": "Игровые студии",
+      "crypto": "Криптовалюта"
     },
     "countries": {
       "eu": "Европейский союз",

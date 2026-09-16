@@ -145,6 +145,112 @@
       }
     },
     {
+      "slug": "crypto",
+      "url": "/industries/crypto",
+      "title": "Реклама криптовалюты: крипто-маркетинг для Web3",
+      "description": "Реклама криптовалюты для криптобирж, кошельков и Web3-продуктов за рубежом: допуск к площадкам, крипто-PR, комьюнити. Смотрите модули с ценами.",
+      "menu": "Криптовалюта",
+      "featured": false,
+      "icon": "crypto",
+      "scope_count": 20,
+      "service_count": 15,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 9,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "community-marketing",
+          "web-marketing",
+          "marketing-operations",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "seo-audit",
+          "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "ai-optimisation",
+          "cross-market-setup",
+          "google-ads-search",
+          "telegram-ads",
+          "telegram-channel-placements",
+          "youtube-creator-collaborations",
+          "youtube-channel-management",
+          "content-strategy",
+          "content-writing",
+          "content-localization",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "rita-pavide",
+          "elena-grakovich",
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility"
+        ],
+        "services": [
+          "seo",
+          "aeo",
+          "content",
+          "pr",
+          "orm",
+          "social-media",
+          "paid-social",
+          "ppc",
+          "email",
+          "affiliate",
+          "analytics",
+          "web-development",
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "switzerland",
+          "portugal",
+          "poland",
+          "turkey",
+          "uae",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "portuguese",
+          "polish",
+          "turkish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "ecommerce",
       "url": "/industries/ecommerce",
       "title": "Маркетинг для интернет-магазина и онлайн-ритейла",
@@ -469,6 +575,204 @@
         ],
         "positions": [
           "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "fmcg",
+      "url": "/industries/fmcg",
+      "title": "FMCG-маркетинг для брендов и производителей",
+      "description": "FMCG-маркетинг для владельцев брендов и производителей: цифровая полка, доля полки и спрос на нескольких рынках. Запросите бриф.",
+      "menu": "FMCG",
+      "featured": false,
+      "icon": "shopping-cart",
+      "scope_count": 12,
+      "service_count": 11,
+      "expert_count": 6,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "web-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "on-page-seo",
+          "technical-seo",
+          "link-building",
+          "ai-optimisation",
+          "cross-market-setup",
+          "google-shopping",
+          "google-ads-search",
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads",
+          "video-content-production"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "b2b-digital-marketing",
+          "seo-ecommerce",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "outsource-digital-marketing",
+          "ai-visibility"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "paid-social",
+          "social-media",
+          "content",
+          "marketplace-management",
+          "analytics",
+          "aeo",
+          "cro",
+          "video",
+          "automation"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "game-studios",
+      "url": "/industries/game-studios",
+      "title": "Реклама мобильных игр: агентство для игровых студий",
+      "description": "Реклама мобильных игр за рубежом: ASO, закупка трафика, CRO страницы в сторе и удержание. Снижаем CPI, растим ROAS. Запросите бриф по проекту.",
+      "menu": "Игровые студии",
+      "featured": false,
+      "icon": "gaming",
+      "scope_count": 14,
+      "service_count": 13,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 8,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing",
+          "growth-marketing",
+          "product-marketing",
+          "community-marketing",
+          "brand-marketing",
+          "search-marketing",
+          "web-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization",
+          "app-store-cro",
+          "app-retention",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-creator-collaborations",
+          "remarketing-display",
+          "seo-research",
+          "technical-seo",
+          "on-page-seo"
+        ],
+        "experts": [
+          "muhammad-hijazi-siddiqui",
+          "mariia-nedbaievska",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "international-seo",
+          "global-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "ai-visibility"
+        ],
+        "services": [
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "paid-social",
+          "ppc",
+          "video",
+          "social-media",
+          "analytics",
+          "content",
+          "pr",
+          "orm",
+          "automation",
+          "seo"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "japan",
+          "poland",
+          "turkey",
+          "sweden",
+          "brazil",
+          "canada",
+          "australia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "japanese",
+          "polish",
+          "turkish",
+          "spanish",
+          "portuguese",
+          "swedish",
+          "russian"
+        ],
+        "positions": [
           "aso-specialist",
           "ppc-specialist"
         ]
@@ -1407,14 +1711,14 @@
       "youtube-channel-management": "Ведение YouTube-канала",
       "youtube-creator-collaborations": "Реклама у блогеров на YouTube",
       "youtube-creator-pilot": "Пилот с блогерами на YouTube",
+      "content-writing": "Написание статей",
       "aso-optimization": "ASO-оптимизация",
       "aso-localization": "ASO-локализация",
       "apple-search-ads": "Apple Search Ads",
-      "google-app-campaigns": "Google UAC",
-      "paid-social-for-apps": "Реклама в соцсетях",
       "app-store-cro": "CRO страницы приложения",
       "app-retention": "Удержание в приложении",
-      "content-writing": "Написание статей"
+      "google-app-campaigns": "Google UAC",
+      "paid-social-for-apps": "Реклама в соцсетях"
     },
     "experts": {
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
@@ -1422,10 +1726,11 @@
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "dima-gerko": "Дима Герко",
+      "rita-pavide": "Рита Павиде",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "mariia-nedbaievska": "Мария Недбаевская",
-      "rita-pavide": "Рита Павиде",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
       "valentina-soldatkina": "Валентина Солдаткина"
     },
     "cases": {
@@ -1454,17 +1759,17 @@
       "web-development": "Разработка сайтов",
       "seo": "SEO",
       "ppc": "Контекстная реклама",
-      "automation": "Автоматизация маркетинга",
+      "pr": "PR-продвижение",
       "paid-social": "Таргетированная реклама",
+      "email": "Email-маркетинг",
+      "affiliate": "Партнёрский маркетинг",
       "aso": "ASO",
       "app-user-acquisition": "Привлечение пользователей",
       "app-conversion-retention": "Конверсия и удержание",
-      "affiliate": "Партнёрский маркетинг",
+      "automation": "Автоматизация маркетинга",
       "cro": "CRO",
-      "email": "Email-маркетинг",
       "marketplace-management": "Продвижение на маркетплейсах",
-      "video": "Видеомаркетинг",
-      "pr": "PR-продвижение"
+      "video": "Видеомаркетинг"
     },
     "countries": {
       "germany": "Германия",
@@ -1519,7 +1824,8 @@
       "hindi": "Хинди",
       "indonesian": "Индонезийский",
       "malay": "Малайский",
-      "urdu": "Урду"
+      "urdu": "Урду",
+      "japanese": "Японский"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",

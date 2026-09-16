@@ -46,6 +46,8 @@
           "fintech",
           "ecommerce",
           "healthcare",
+          "crypto",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -166,6 +168,9 @@
           "legal",
           "manufacturing",
           "ecommerce",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -285,6 +290,9 @@
           "fintech",
           "healthcare",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -394,6 +402,9 @@
           "healthcare",
           "automotive",
           "legal",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -494,6 +505,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -606,6 +620,9 @@
           "saas",
           "fintech",
           "healthcare",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -723,6 +740,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -862,6 +882,9 @@
           "saas",
           "fintech",
           "healthcare",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1000,6 +1023,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1159,12 +1185,15 @@
       "fintech": "Fintech",
       "ecommerce": "E-commerce",
       "healthcare": "Healthcare",
+      "crypto": "Crypto",
+      "game-studios": "Game Studios",
       "hospitality": "Hospitality",
       "pharma": "Pharma & Life Sciences",
       "retail": "Retail",
       "automotive": "Automotive",
       "legal": "Legal",
-      "manufacturing": "Manufacturing"
+      "manufacturing": "Manufacturing",
+      "fmcg": "FMCG & CPG"
     },
     "countries": {
       "usa": "USA",

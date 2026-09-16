@@ -447,6 +447,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -592,6 +595,9 @@
           "manufacturing",
           "fintech",
           "healthcare",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -738,6 +744,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1152,6 +1161,9 @@
       "case_count": 0,
       "solution_count": 0,
       "facets": {
+        "industries": [
+          "game-studios"
+        ],
         "countries": [
           "japan"
         ],
@@ -1416,6 +1428,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1521,6 +1536,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1638,6 +1656,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1754,6 +1775,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1871,7 +1895,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "game-studios"
         ],
         "countries": [
           "sweden",
@@ -2037,7 +2062,9 @@
           "fintech",
           "retail",
           "automotive",
-          "manufacturing"
+          "manufacturing",
+          "crypto",
+          "game-studios"
         ],
         "countries": [
           "turkey",
@@ -2216,6 +2243,9 @@
       "healthcare": "Healthcare",
       "legal": "Legal",
       "manufacturing": "Manufacturing",
+      "crypto": "Crypto",
+      "fmcg": "FMCG & CPG",
+      "game-studios": "Game Studios",
       "pharma": "Pharma & Life Sciences"
     },
     "countries": {

@@ -76,7 +76,8 @@
           "saas",
           "fintech",
           "ecommerce",
-          "healthcare"
+          "healthcare",
+          "game-studios"
         ],
         "countries": [
           "germany",
@@ -208,7 +209,9 @@
           "fintech",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "fmcg",
+          "game-studios"
         ],
         "countries": [
           "usa",
@@ -345,6 +348,8 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
           "hospitality",
           "pharma",
           "retail"
@@ -506,9 +511,12 @@
       "fintech": "Финтех",
       "ecommerce": "Интернет-магазины",
       "healthcare": "Медицина",
+      "game-studios": "Игровые студии",
       "automotive": "Автобизнес",
       "legal": "Юридические услуги",
       "manufacturing": "Промышленность",
+      "fmcg": "FMCG",
+      "crypto": "Криптовалюта",
       "hospitality": "Гостеприимство",
       "pharma": "Фарма и life sciences",
       "retail": "Ритейл"

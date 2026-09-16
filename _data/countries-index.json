@@ -95,7 +95,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "game-studios"
         ],
         "languages": [
           "english",
@@ -192,6 +193,7 @@
           "fintech",
           "healthcare",
           "legal",
+          "fmcg",
           "hospitality",
           "pharma",
           "retail"
@@ -409,7 +411,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "game-studios"
         ],
         "languages": [
           "portuguese",
@@ -519,7 +522,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "game-studios"
         ],
         "languages": [
           "english",
@@ -737,7 +741,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "crypto"
         ],
         "languages": [
           "english",
@@ -857,6 +862,8 @@
           "manufacturing",
           "fintech",
           "healthcare",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -998,6 +1005,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -1638,7 +1648,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "game-studios"
         ],
         "languages": [
           "japanese"
@@ -2260,6 +2271,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -2369,6 +2383,8 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
           "hospitality",
           "pharma",
           "retail"
@@ -2595,6 +2611,7 @@
           "automotive",
           "legal",
           "manufacturing",
+          "fmcg",
           "hospitality",
           "pharma",
           "retail"
@@ -2706,7 +2723,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "game-studios"
         ],
         "languages": [
           "swedish",
@@ -2808,7 +2826,8 @@
           "healthcare",
           "automotive",
           "legal",
-          "manufacturing"
+          "manufacturing",
+          "crypto"
         ],
         "languages": [
           "german",
@@ -2993,7 +3012,9 @@
           "fintech",
           "retail",
           "automotive",
-          "manufacturing"
+          "manufacturing",
+          "crypto",
+          "game-studios"
         ],
         "languages": [
           "turkish",
@@ -3094,7 +3115,8 @@
           "fintech",
           "hospitality",
           "automotive",
-          "healthcare"
+          "healthcare",
+          "crypto"
         ],
         "languages": [
           "arabic",
@@ -3225,6 +3247,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -3367,6 +3392,9 @@
           "automotive",
           "legal",
           "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
           "hospitality",
           "pharma",
           "retail"
@@ -3491,9 +3519,12 @@
       "automotive": "Automotive",
       "legal": "Legal",
       "manufacturing": "Manufacturing",
+      "game-studios": "Game Studios",
+      "fmcg": "FMCG & CPG",
       "hospitality": "Hospitality",
       "pharma": "Pharma & Life Sciences",
-      "retail": "Retail"
+      "retail": "Retail",
+      "crypto": "Crypto"
     },
     "languages": {
       "english": "English",
