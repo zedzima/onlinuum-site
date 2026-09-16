@@ -179,11 +179,17 @@
           "on-page-seo",
           "seo-research",
           "ai-optimisation",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "cross-market-setup",
           "link-building",
           "local-seo",
           "seo-audit",
           "technical-seo",
+          "transcreation",
           "video-content-production",
           "video-marketing-audit",
           "youtube-channel-management"
@@ -331,10 +337,13 @@
           "apple-search-ads",
           "aso-localization",
           "aso-optimization",
+          "content-localization",
+          "content-strategy",
           "google-app-campaigns",
           "paid-social-for-apps",
           "ppc-audit",
-          "seo-audit"
+          "seo-audit",
+          "transcreation"
         ],
         "cases": [
           "ecommerce-migration-2025",
@@ -605,12 +614,18 @@
           "cross-market-setup",
           "on-page-seo",
           "seo-research",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "google-ads-search",
           "google-shopping",
           "local-services-ads",
           "microsoft-ads",
           "ppc-audit",
           "remarketing-display",
+          "transcreation",
           "youtube-ads"
         ],
         "cases": [
@@ -863,7 +878,13 @@
           "search-marketing"
         ],
         "scopes": [
-          "on-page-seo"
+          "on-page-seo",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "transcreation"
         ],
         "solutions": [
           "international-marketing",
@@ -1094,8 +1115,14 @@
       "youtube-ads": "Реклама на YouTube",
       "aso-localization": "ASO-локализация",
       "aso-optimization": "ASO-оптимизация",
+      "content-localization": "Локализация контента",
+      "content-rewriting": "Обновление контента",
+      "content-strategy": "Контент-стратегия",
+      "content-writing": "Написание статей",
+      "copywriting": "Копирайтинг",
       "local-seo": "Локальное SEO",
       "seo-audit": "SEO-аудит",
+      "transcreation": "Транскреация",
       "video-content-production": "Видео продакшн",
       "video-marketing-audit": "Аудит видеомаркетинга",
       "youtube-channel-management": "Ведение YouTube-канала",

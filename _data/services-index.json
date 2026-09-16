@@ -7,7 +7,7 @@
       "description": "AI Engine Optimization services for ChatGPT, Perplexity, and Google AI Overviews: entity SEO and citation strategy. Audit from $500. See pricing.",
       "menu": "AEO",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 5,
       "expert_count": 4,
       "starting_price": 500.0,
       "from_price": 500.0,
@@ -27,7 +27,10 @@
         ],
         "scopes": [
           "ai-optimisation",
-          "seo-research"
+          "seo-research",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -573,11 +576,11 @@
     {
       "slug": "content",
       "url": "/services/content",
-      "title": "Multilingual Content Marketing Agency & Services",
-      "description": "Multilingual content marketing: native copywriters per language, SEO-led editorial strategy, one review workflow. Content audit from $600.",
+      "title": "Multilingual Content Marketing Services",
+      "description": "Content marketing agency for teams publishing in many languages: native writers, one editorial standard, six fixed-price scopes. Audit from $500.",
       "menu": "Content Marketing",
       "featured": false,
-      "scope_count": 2,
+      "scope_count": 8,
       "expert_count": 7,
       "starting_price": 600.0,
       "from_price": 600.0,
@@ -601,7 +604,13 @@
         ],
         "scopes": [
           "on-page-seo",
-          "seo-research"
+          "seo-research",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "content-rewriting",
+          "transcreation",
+          "content-localization"
         ],
         "experts": [
           "elena-grakovich",
@@ -683,7 +692,7 @@
       "description": "CRO analysis and conversion rate optimization: UX audits, funnel analysis and A/B testing, managed for revenue lift rather than test volume.",
       "menu": "CRO",
       "featured": false,
-      "scope_count": 0,
+      "scope_count": 1,
       "expert_count": 2,
       "starting_price": 500.0,
       "from_price": 500.0,
@@ -702,6 +711,9 @@
           "performance-marketing",
           "product-marketing",
           "web-marketing"
+        ],
+        "scopes": [
+          "copywriting"
         ],
         "experts": [
           "elena-grakovich",
@@ -753,7 +765,7 @@
       "description": "Email marketing services for e-commerce and SaaS: lifecycle sequences and deliverability fixes. Start with an Email Deliverability Audit from $400.",
       "menu": "Email Marketing",
       "featured": false,
-      "scope_count": 0,
+      "scope_count": 1,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -770,6 +782,9 @@
           "growth-marketing",
           "community-marketing",
           "marketing-operations"
+        ],
+        "scopes": [
+          "copywriting"
         ],
         "experts": [
           "elena-grakovich"
@@ -817,7 +832,7 @@
       "description": "Marketplace management for Amazon, eBay, and multi-channel stores: listing optimization, advertising, and inventory strategy. Get a marketplace audit.",
       "menu": "Marketplace Management",
       "featured": false,
-      "scope_count": 0,
+      "scope_count": 1,
       "expert_count": 1,
       "starting_price": 600.0,
       "from_price": 600.0,
@@ -830,6 +845,9 @@
       "facets": {
         "domains": [
           "performance-marketing"
+        ],
+        "scopes": [
+          "content-rewriting"
         ],
         "experts": [
           "vitali-bakun"
@@ -945,7 +963,7 @@
       "description": "Paid social advertising across Meta, LinkedIn, and TikTok, managed for ROAS with creative testing and cross-platform attribution. Book a consultation.",
       "menu": "Paid Social",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 4,
       "starting_price": 300.0,
       "from_price": 300.0,
@@ -960,7 +978,8 @@
           "performance-marketing"
         ],
         "scopes": [
-          "telegram-ads"
+          "telegram-ads",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -1018,7 +1037,7 @@
       "description": "PPC digital marketing for paid search, Shopping, and remarketing, with multilingual campaigns priced per market. Start with PPC Starter from $400/month.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 7,
+      "scope_count": 9,
       "expert_count": 4,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -1041,7 +1060,9 @@
           "google-shopping",
           "remarketing-display",
           "youtube-ads",
-          "local-services-ads"
+          "local-services-ads",
+          "copywriting",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -1185,7 +1206,7 @@
       "description": "Productized SEO services: technical, content and multilingual growth. Audit from $1,190, fixed-price delivery programs from $1,990 per cycle.",
       "menu": "SEO",
       "featured": true,
-      "scope_count": 7,
+      "scope_count": 12,
       "expert_count": 7,
       "starting_price": 1990.0,
       "from_price": 1990.0,
@@ -1208,7 +1229,12 @@
           "on-page-seo",
           "link-building",
           "local-seo",
-          "cross-market-setup"
+          "cross-market-setup",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -1301,7 +1327,7 @@
       "description": "Social media digital marketing managed for community growth and revenue: strategy, content, and influencer partnerships that convert, not vanity metrics.",
       "menu": "Social Media",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -1321,7 +1347,8 @@
           "telegram-ads",
           "telegram-channel-placements",
           "youtube-creator-collaborations",
-          "youtube-creator-pilot"
+          "youtube-creator-pilot",
+          "content-strategy"
         ],
         "experts": [
           "muhammad-hijazi-siddiqui",
@@ -1426,7 +1453,7 @@
       "description": "Web development for marketing teams: landing pages, CMS builds, and Core Web Vitals fixes. Sites built to load fast, rank, and convert.",
       "menu": "Web Development",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 2,
       "starting_price": 500.0,
       "from_price": 500.0,
@@ -1443,7 +1470,8 @@
           "search-marketing"
         ],
         "scopes": [
-          "technical-seo"
+          "technical-seo",
+          "content-localization"
         ],
         "experts": [
           "dima-gerko",
@@ -1526,6 +1554,9 @@
     "scopes": {
       "ai-optimisation": "AI Optimisation",
       "seo-research": "SEO Research",
+      "content-rewriting": "Content Rewriting",
+      "content-strategy": "Content Strategy",
+      "content-writing": "Content Writing",
       "app-store-cro": "App Store CRO",
       "app-retention": "App Retention",
       "apple-search-ads": "Apple Search Ads",
@@ -1534,6 +1565,9 @@
       "aso-optimization": "ASO Optimization",
       "aso-localization": "ASO Localization",
       "on-page-seo": "On-Page SEO",
+      "copywriting": "Copywriting",
+      "transcreation": "Transcreation",
+      "content-localization": "Content Localization",
       "telegram-ads": "Telegram Ads",
       "ppc-audit": "PPC Audit",
       "google-ads-search": "Google Ads Search",

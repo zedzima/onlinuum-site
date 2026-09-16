@@ -22,7 +22,8 @@
           "product-marketing"
         ],
         "scopes": [
-          "ai-optimisation"
+          "ai-optimisation",
+          "content-writing"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -129,6 +130,11 @@
           "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "google-ads-search",
           "local-services-ads",
           "microsoft-ads",
@@ -257,6 +263,7 @@
           "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
+          "content-strategy",
           "google-ads-search",
           "google-shopping",
           "local-services-ads",
@@ -386,6 +393,10 @@
           "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "google-ads-search",
           "google-shopping",
           "local-services-ads",
@@ -509,7 +520,11 @@
           "on-page-seo",
           "link-building",
           "ai-optimisation",
-          "seo-audit"
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "seo-audit",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -621,6 +636,11 @@
           "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "google-ads-search",
           "google-shopping",
           "local-services-ads",
@@ -629,6 +649,7 @@
           "remarketing-display",
           "telegram-ads",
           "telegram-channel-placements",
+          "transcreation",
           "video-content-production",
           "video-marketing-audit",
           "youtube-ads",
@@ -748,6 +769,7 @@
           "seo-research",
           "on-page-seo",
           "ai-optimisation",
+          "content-rewriting",
           "seo-audit"
         ],
         "experts": [
@@ -850,7 +872,12 @@
           "seo-research",
           "on-page-seo",
           "ai-optimisation",
-          "seo-audit"
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "copywriting",
+          "seo-audit",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -960,6 +987,11 @@
           "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "google-ads-search",
           "google-shopping",
           "local-services-ads",
@@ -1171,6 +1203,7 @@
     },
     "scopes": {
       "ai-optimisation": "AI Optimisation",
+      "content-writing": "Content Writing",
       "seo-research": "SEO Research",
       "technical-seo": "Technical SEO",
       "on-page-seo": "On-Page SEO",
@@ -1182,6 +1215,10 @@
       "paid-social-for-apps": "Paid Social for Apps",
       "app-store-cro": "App Store CRO",
       "app-retention": "App Retention",
+      "content-localization": "Content Localization",
+      "content-rewriting": "Content Rewriting",
+      "content-strategy": "Content Strategy",
+      "copywriting": "Copywriting",
       "google-ads-search": "Google Ads Search",
       "local-services-ads": "Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
@@ -1198,6 +1235,7 @@
       "google-shopping": "Google Shopping",
       "video-marketing-audit": "Video Marketing Audit",
       "cross-market-setup": "International SEO Setup",
+      "transcreation": "Transcreation",
       "local-seo": "Local SEO"
     },
     "experts": {

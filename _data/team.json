@@ -179,11 +179,17 @@
           "on-page-seo",
           "seo-research",
           "ai-optimisation",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "cross-market-setup",
           "link-building",
           "local-seo",
           "seo-audit",
           "technical-seo",
+          "transcreation",
           "video-content-production",
           "video-marketing-audit",
           "youtube-channel-management"
@@ -331,10 +337,13 @@
           "apple-search-ads",
           "aso-localization",
           "aso-optimization",
+          "content-localization",
+          "content-strategy",
           "google-app-campaigns",
           "paid-social-for-apps",
           "ppc-audit",
-          "seo-audit"
+          "seo-audit",
+          "transcreation"
         ],
         "cases": [
           "ecommerce-migration-2025",
@@ -605,12 +614,18 @@
           "cross-market-setup",
           "on-page-seo",
           "seo-research",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
           "google-ads-search",
           "google-shopping",
           "local-services-ads",
           "microsoft-ads",
           "ppc-audit",
           "remarketing-display",
+          "transcreation",
           "youtube-ads"
         ],
         "cases": [
@@ -863,7 +878,13 @@
           "search-marketing"
         ],
         "scopes": [
-          "on-page-seo"
+          "on-page-seo",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "transcreation"
         ],
         "solutions": [
           "international-marketing",
@@ -1094,8 +1115,14 @@
       "youtube-ads": "YouTube Ads",
       "aso-localization": "ASO Localization",
       "aso-optimization": "ASO Optimization",
+      "content-localization": "Content Localization",
+      "content-rewriting": "Content Rewriting",
+      "content-strategy": "Content Strategy",
+      "content-writing": "Content Writing",
+      "copywriting": "Copywriting",
       "local-seo": "Local SEO",
       "seo-audit": "SEO Audit",
+      "transcreation": "Transcreation",
       "video-content-production": "Video Content Production",
       "video-marketing-audit": "Video Marketing Audit",
       "youtube-channel-management": "YouTube Channel Management",

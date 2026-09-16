@@ -7,7 +7,7 @@
       "description": "Оптимизация под ИИ-поиск и голосовой поиск в ChatGPT, Perplexity и Google AI Overviews: разметка Schema.org и сигналы сущностей. Аудит от $500.",
       "menu": "AEO",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 5,
       "expert_count": 4,
       "starting_price": 500.0,
       "from_price": 500.0,
@@ -27,7 +27,10 @@
         ],
         "scopes": [
           "ai-optimisation",
-          "seo-research"
+          "seo-research",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -573,11 +576,11 @@
     {
       "slug": "content",
       "url": "/services/content",
-      "title": "Контент-маркетинг: услуги и SEO-копирайтинг",
-      "description": "Мультиязычный контент-маркетинг: авторы-носители языка, SEO-копирайтинг, единый редакционный стандарт. Контент-аудит от $600. Запросите расчёт.",
+      "title": "Услуги контент-маркетинга на зарубежных рынках",
+      "description": "Услуги контент-маркетинга на зарубежных рынках: авторы-носители языка, единый редакционный стандарт, продвижение сайта статьями. Аудит от $500.",
       "menu": "Контент-маркетинг",
       "featured": false,
-      "scope_count": 2,
+      "scope_count": 8,
       "expert_count": 7,
       "starting_price": 600.0,
       "from_price": 600.0,
@@ -601,7 +604,13 @@
         ],
         "scopes": [
           "on-page-seo",
-          "seo-research"
+          "seo-research",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "content-rewriting",
+          "transcreation",
+          "content-localization"
         ],
         "experts": [
           "elena-grakovich",
@@ -683,7 +692,7 @@
       "description": "CRO-анализ и юзабилити-аудит сайта: разбор воронки продаж, A/B-тесты и оптимизация конверсии: на рост выручки, а не на число тестов.",
       "menu": "CRO",
       "featured": false,
-      "scope_count": 0,
+      "scope_count": 1,
       "expert_count": 2,
       "starting_price": 500.0,
       "from_price": 500.0,
@@ -702,6 +711,9 @@
           "performance-marketing",
           "product-marketing",
           "web-marketing"
+        ],
+        "scopes": [
+          "copywriting"
         ],
         "experts": [
           "elena-grakovich",
@@ -753,7 +765,7 @@
       "description": "Услуги email- и CRM-маркетинга для e-commerce и SaaS: триггерные цепочки и доставляемость. Начните с аудита: от $400.",
       "menu": "Email-маркетинг",
       "featured": false,
-      "scope_count": 0,
+      "scope_count": 1,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -770,6 +782,9 @@
           "growth-marketing",
           "community-marketing",
           "marketing-operations"
+        ],
+        "scopes": [
+          "copywriting"
         ],
         "experts": [
           "elena-grakovich"
@@ -817,7 +832,7 @@
       "description": "Продвижение на маркетплейсах Amazon, eBay и в мультиканальных магазинах: карточки товара, реклама, работа с остатками. Закажите аудит.",
       "menu": "Продвижение на маркетплейсах",
       "featured": false,
-      "scope_count": 0,
+      "scope_count": 1,
       "expert_count": 1,
       "starting_price": 600.0,
       "from_price": 600.0,
@@ -830,6 +845,9 @@
       "facets": {
         "domains": [
           "performance-marketing"
+        ],
+        "scopes": [
+          "content-rewriting"
         ],
         "experts": [
           "vitali-bakun"
@@ -945,7 +963,7 @@
       "description": "Таргетированная реклама, которую ведут ради ROAS, а не ради лайков. Meta, LinkedIn, TikTok и Telegram Ads: тесты креативов, атрибуция, контроль.",
       "menu": "Таргетированная реклама",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 4,
       "starting_price": 300.0,
       "from_price": 300.0,
@@ -960,7 +978,8 @@
           "performance-marketing"
         ],
         "scopes": [
-          "telegram-ads"
+          "telegram-ads",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -1018,7 +1037,7 @@
       "description": "Ведение контекстной рекламы: поиск, Shopping, Microsoft Ads и ремаркетинг. Пакеты с фиксированной ценой для международных кампаний. Запросите расчёт.",
       "menu": "Контекстная реклама",
       "featured": true,
-      "scope_count": 7,
+      "scope_count": 9,
       "expert_count": 4,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -1041,7 +1060,9 @@
           "google-shopping",
           "remarketing-display",
           "youtube-ads",
-          "local-services-ads"
+          "local-services-ads",
+          "copywriting",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -1185,7 +1206,7 @@
       "description": "Продуктизированное продвижение сайта: техника, контент, мультиязычный рост. Аудит от $1 190, программы с фиксированной ценой от $1 990 за цикл.",
       "menu": "SEO",
       "featured": true,
-      "scope_count": 7,
+      "scope_count": 12,
       "expert_count": 7,
       "starting_price": 1990.0,
       "from_price": 1990.0,
@@ -1208,7 +1229,12 @@
           "on-page-seo",
           "link-building",
           "local-seo",
-          "cross-market-setup"
+          "cross-market-setup",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -1301,7 +1327,7 @@
       "description": "SMM-продвижение ради роста сообщества и выручки, а не метрик тщеславия. Стратегия, контент, ведение соцсетей, работа с блогерами и посевы в Telegram.",
       "menu": "Социальные сети",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -1321,7 +1347,8 @@
           "telegram-ads",
           "telegram-channel-placements",
           "youtube-creator-collaborations",
-          "youtube-creator-pilot"
+          "youtube-creator-pilot",
+          "content-strategy"
         ],
         "experts": [
           "muhammad-hijazi-siddiqui",
@@ -1426,7 +1453,7 @@
       "description": "Разработка сайтов для маркетинга: лендинги, сайты на CMS, оптимизация Core Web Vitals и структура под конверсию. Начните с аудита производительности.",
       "menu": "Разработка сайтов",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 2,
       "starting_price": 500.0,
       "from_price": 500.0,
@@ -1443,7 +1470,8 @@
           "search-marketing"
         ],
         "scopes": [
-          "technical-seo"
+          "technical-seo",
+          "content-localization"
         ],
         "experts": [
           "dima-gerko",
@@ -1526,6 +1554,9 @@
     "scopes": {
       "ai-optimisation": "ИИ-оптимизация",
       "seo-research": "SEO-исследование",
+      "content-rewriting": "Обновление контента",
+      "content-strategy": "Контент-стратегия",
+      "content-writing": "Написание статей",
       "app-store-cro": "CRO страницы приложения",
       "app-retention": "Удержание в приложении",
       "apple-search-ads": "Apple Search Ads",
@@ -1534,6 +1565,9 @@
       "aso-optimization": "ASO-оптимизация",
       "aso-localization": "ASO-локализация",
       "on-page-seo": "Внутренняя оптимизация",
+      "copywriting": "Копирайтинг",
+      "transcreation": "Транскреация",
+      "content-localization": "Локализация контента",
       "telegram-ads": "Реклама в Telegram",
       "ppc-audit": "Аудит контекстной рекламы",
       "google-ads-search": "Поиск в Google Ads",

@@ -43,7 +43,9 @@
           "search-marketing"
         ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "content-localization",
+          "transcreation"
         ],
         "experts": [
           "dima-gerko",
@@ -207,6 +209,8 @@
     },
     "scopes": {
       "google-ads-search": "Google Ads Search",
+      "content-localization": "Content Localization",
+      "transcreation": "Transcreation",
       "cross-market-setup": "International SEO Setup",
       "technical-seo": "Technical SEO"
     },

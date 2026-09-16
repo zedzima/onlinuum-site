@@ -536,6 +536,372 @@
       "article_count": 0
     },
     {
+      "slug": "content-localization",
+      "url": "/scopes/content-localization",
+      "title": "Translation and Localization Services for B2B Content",
+      "description": "Translation and localization services priced per target language: native linguists, MT post-editing, localization QA. Content translation from $600.",
+      "menu": "Content Localization",
+      "featured": true,
+      "from_price": 600,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "international-marketing",
+          "global-seo",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "web-development"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 0
+    },
+    {
+      "slug": "content-rewriting",
+      "url": "/scopes/content-rewriting",
+      "title": "Content Rewriting Services: Refresh, Edit and Repurpose",
+      "description": "Content rewriting services for pages you already published: website rewrites, blog refreshes, editing and repurposing. 5 pages from $700.",
+      "menu": "Content Rewriting",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 700,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 8,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "aeo",
+          "marketplace-management"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "legal",
+          "retail",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-strategy",
+      "url": "/scopes/content-strategy",
+      "title": "Content Strategy Services & Website Content Audit",
+      "description": "Content strategy services that start with a website content audit: 12-month editorial plan, priority topics, named owners. From $500. See pricing.",
+      "menu": "Content Strategy",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "rita-pavide",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "aeo",
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-writing",
+      "url": "/scopes/content-writing",
+      "title": "Content Writing Services: Blog Posts & Pillar Pages",
+      "description": "Content writing services priced per piece: blog posts, pillar pages, case studies, white papers. Blog Post Writing from $500. See task pricing.",
+      "menu": "Content Writing",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "aeo"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "legal",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "copywriting",
+      "url": "/scopes/copywriting",
+      "title": "Copywriting Services: Website, Sales Page & Email Copy",
+      "description": "Copywriting services for websites, sales pages, emails and ads. Fixed price per deliverable, native writers, one revision round. Website copy from $800.",
+      "menu": "Copywriting",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 250,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 8,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "email",
+          "ppc",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "legal",
+          "retail",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "cross-market-setup",
       "url": "/scopes/cross-market-setup",
       "title": "Hreflang & Geo-Targeting Setup for Multi-Market Sites",
@@ -1886,6 +2252,78 @@
       "article_count": 0
     },
     {
+      "slug": "transcreation",
+      "url": "/scopes/transcreation",
+      "title": "Transcreation Services for Ads, Slogans and Brand Copy",
+      "description": "Transcreation services for ads, slogans and brand copy: in-market writers re-create the message per target language. Adaptation review from $400.",
+      "menu": "Transcreation",
+      "featured": false,
+      "rating": 4.9,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 6,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo"
+        ],
+        "services": [
+          "content",
+          "ppc",
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "saas",
+          "fintech",
+          "automotive"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "spain",
+          "portugal",
+          "poland",
+          "austria"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "portuguese",
+          "polish",
+          "russian"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 0
+    },
+    {
       "slug": "video-content-production",
       "url": "/scopes/video-content-production",
       "title": "Video Content Production: Scripts & Editing",
@@ -2214,10 +2652,10 @@
       "web-marketing": "Web Marketing",
       "growth-marketing": "Growth Marketing",
       "app-marketing": "App Marketing",
-      "performance-marketing": "Performance Marketing",
-      "product-marketing": "Product Marketing",
       "brand-marketing": "Brand Marketing",
-      "community-marketing": "Community Marketing"
+      "product-marketing": "Product Marketing",
+      "community-marketing": "Community Marketing",
+      "performance-marketing": "Performance Marketing"
     },
     "experts": {
       "anastasiya-antoniuk": "Anastasiya Antoniuk",
@@ -2226,11 +2664,11 @@
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "rita-pavide": "Rita Pavide",
       "elena-grakovich": "Elena Grakovich",
       "valentina-soldatkina": "Valentina Soldatkina",
       "vitali-bakun": "Vitali Bakun",
-      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
-      "rita-pavide": "Rita Pavide"
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana"
     },
     "solutions": {
       "ai-visibility": "AI Visibility",
@@ -2249,13 +2687,16 @@
       "app-conversion-retention": "App Conversion & Retention",
       "app-user-acquisition": "App User Acquisition",
       "aso": "ASO",
+      "content": "Content Marketing",
       "seo": "SEO",
+      "web-development": "Web Development",
+      "marketplace-management": "Marketplace Management",
+      "social-media": "Social Media",
+      "cro": "CRO",
+      "email": "Email Marketing",
       "ppc": "PPC",
       "pr": "Digital PR",
-      "content": "Content Marketing",
-      "web-development": "Web Development",
       "paid-social": "Paid Social",
-      "social-media": "Social Media",
       "video": "Video Marketing"
     },
     "industries": {
@@ -2321,8 +2762,8 @@
       "ppc-specialist": "PPC Specialist"
     },
     "cases": {
-      "bamboo-ppc-landing-pages": "Bamboo Group",
       "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
       "ecommerce-migration-2025": "E-commerce Migration"
     }
   }
