@@ -733,6 +733,94 @@
       }
     },
     {
+      "slug": "cyprus",
+      "url": "/countries/cyprus",
+      "title": "Продвижение сайта на Кипре: digital-маркетинг",
+      "description": "Digital-маркетинг на Кипре для международных компаний: фиксированные модули, английский или греческий от носителей, без офиса в Лимасоле.",
+      "menu": "Кипр",
+      "featured": false,
+      "flag": "🇨🇾",
+      "population_total": "1.32 млн",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "греческий",
+      "dominant_language_code": "el",
+      "scope_count": 13,
+      "service_count": 12,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "google-ads-search",
+          "ppc-audit",
+          "remarketing-display",
+          "content-localization",
+          "transcreation",
+          "copywriting"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "orm",
+          "paid-social",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "legal",
+          "hospitality",
+          "retail"
+        ],
+        "languages": [
+          "greek",
+          "english",
+          "turkish",
+          "french"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "czechia",
       "url": "/countries/czechia",
       "title": "Продвижение сайта в Чехии: digital-маркетинг",
@@ -2637,6 +2725,101 @@
         ],
         "positions": [
           "ppc-specialist",
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "malta",
+      "url": "/countries/malta",
+      "title": "Продвижение сайта на Мальте: digital-маркетинг",
+      "description": "Digital-маркетинг на Мальте для выхода в ЕС: работа на английском, фиксированные модули, без локального офиса. Смотрите услуги.",
+      "menu": "Мальта",
+      "featured": false,
+      "flag": "🇲🇹",
+      "population_total": "470 тыс.",
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "английский",
+      "dominant_language_code": "en",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "fintech",
+          "saas",
+          "ecommerce",
+          "hospitality",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "french"
+        ],
+        "positions": [
           "seo-expert"
         ]
       }
@@ -4607,6 +4790,7 @@
       "arabic": "Арабский",
       "hindi": "Хинди",
       "urdu": "Урду",
+      "greek": "Греческий",
       "czech": "Чешский",
       "slovak": "Словацкий",
       "danish": "Датский",
@@ -4616,7 +4800,6 @@
       "polish": "Польский",
       "romanian": "Румынский",
       "hungarian": "Венгерский",
-      "greek": "Греческий",
       "indonesian": "Индонезийский",
       "malay": "Малайский",
       "japanese": "Японский",
