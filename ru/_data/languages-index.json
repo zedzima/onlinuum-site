@@ -89,6 +89,99 @@
       }
     },
     {
+      "slug": "bulgarian",
+      "url": "/languages/bulgarian",
+      "title": "Тексты на болгарском языке: локализация, SEO и реклама",
+      "description": "Тексты на болгарском языке, локализация, SEO и реклама: пишут носители на кириллице, а не перевод с английского. Модули с фиксированной ценой.",
+      "menu": "Болгарский",
+      "featured": false,
+      "flag": "",
+      "code": "BG",
+      "native_speakers_l1": "6.78 млн",
+      "market_speakers_display": "6.78 млн",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "hospitality",
+          "manufacturing",
+          "saas"
+        ],
+        "countries": [
+          "bulgaria",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "chinese",
       "url": "/languages/chinese",
       "title": "Маркетинг на китайском языке: эксперты-носители",
@@ -113,6 +206,96 @@
           "thailand",
           "canada",
           "australia"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "croatian",
+      "url": "/languages/croatian",
+      "title": "Маркетинг на хорватском языке: тексты, SEO, локализация",
+      "description": "Маркетинг на хорватском языке: тексты, SEO и локализация от носителей. Честно о том, что переносится из сербского, а что нет. Смотрите услуги.",
+      "menu": "Хорватский",
+      "featured": false,
+      "flag": "",
+      "code": "HR",
+      "native_speakers_l1": "5.5 млн",
+      "market_speakers_display": "5.5 млн",
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 11,
+      "service_count": 14,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "content-localization",
+          "transcreation",
+          "content-writing",
+          "copywriting",
+          "content-strategy",
+          "seo-research",
+          "on-page-seo",
+          "technical-seo",
+          "cross-market-setup",
+          "ai-optimisation",
+          "link-building"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "orm",
+          "paid-social",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "hospitality",
+          "ecommerce",
+          "retail",
+          "saas",
+          "fintech",
+          "healthcare",
+          "manufacturing"
+        ],
+        "countries": [
+          "croatia",
+          "slovenia",
+          "austria",
+          "eu"
         ],
         "positions": [
           "seo-expert"
@@ -213,6 +396,103 @@
         ],
         "countries": [
           "czechia",
+          "slovakia",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "danish",
+      "url": "/languages/danish",
+      "title": "Тексты на датском языке: локализация, SEO и реклама",
+      "description": "Тексты на датском языке, локализация, SEO и реклама от носителей. Плюс честный ответ, где в Дании хватает английского. Смотрите модули.",
+      "menu": "Датский",
+      "featured": false,
+      "flag": "",
+      "code": "DA",
+      "native_speakers_l1": "7.24 млн",
+      "market_speakers_display": "7.24 млн",
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "countries": [
+          "denmark",
+          "germany",
           "eu"
         ],
         "positions": [
@@ -474,15 +754,26 @@
           "malaysia",
           "belgium",
           "austria",
+          "romania",
           "singapore",
           "greece",
+          "denmark",
           "ireland",
           "new-zealand",
           "uae",
           "switzerland",
+          "finland",
           "czechia",
           "portugal",
+          "croatia",
+          "hungary",
+          "bulgaria",
+          "slovakia",
+          "slovenia",
+          "lithuania",
           "latvia",
+          "estonia",
+          "luxembourg",
           "eu"
         ],
         "blog-posts": [
@@ -494,6 +785,196 @@
           "seo-expert",
           "aso-specialist",
           "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "estonian",
+      "url": "/languages/estonian",
+      "title": "Тексты на эстонском языке: локализация, SEO и реклама",
+      "description": "Тексты на эстонском языке, локализация, SEO и реклама от носителей языка, а не перевод с английского. Смотрите модули с фиксированной ценой.",
+      "menu": "Эстонский",
+      "featured": false,
+      "flag": "",
+      "code": "ET",
+      "native_speakers_l1": "848 тыс.",
+      "market_speakers_display": "848 тыс.",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 1,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "legal",
+          "saas"
+        ],
+        "countries": [
+          "estonia"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "finnish",
+      "url": "/languages/finnish",
+      "title": "Тексты на финском языке: SEO, локализация, реклама",
+      "description": "Тексты на финском языке, локализация, SEO и реклама от носителей: исследование запросов сразу на финском, а не перевод с английского. Смотрите модули.",
+      "menu": "Финский",
+      "featured": false,
+      "flag": "",
+      "code": "FI",
+      "native_speakers_l1": "5.77 млн",
+      "market_speakers_display": "5.77 млн",
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "game-studios",
+          "manufacturing",
+          "saas"
+        ],
+        "countries": [
+          "finland",
+          "estonia",
+          "sweden",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -611,10 +1092,13 @@
           "belgium",
           "switzerland",
           "netherlands",
+          "romania",
           "portugal",
           "austria",
           "greece",
           "ireland",
+          "luxembourg",
+          "hungary",
           "eu"
         ],
         "blog-posts": [
@@ -759,11 +1243,19 @@
           "switzerland",
           "uk",
           "france",
+          "denmark",
           "belgium",
+          "hungary",
           "czechia",
+          "slovakia",
+          "finland",
           "italy",
+          "slovenia",
+          "bulgaria",
           "greece",
           "canada",
+          "luxembourg",
+          "lithuania",
           "eu"
         ],
         "blog-posts": [
@@ -939,6 +1431,102 @@
         "countries": [
           "india",
           "canada"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "hungarian",
+      "url": "/languages/hungarian",
+      "title": "Тексты на венгерском языке: локализация, SEO и реклама",
+      "description": "Тексты на венгерском языке, локализация, SEO и реклама от носителей языка, а не перевод с английского. Смотрите модули с фиксированной ценой.",
+      "menu": "Венгерский",
+      "featured": false,
+      "flag": "",
+      "code": "HU",
+      "native_speakers_l1": "12.1 млн",
+      "market_speakers_display": "12.1 млн",
+      "market_country_count": 5,
+      "official_countries_count": 5,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "legal",
+          "manufacturing",
+          "saas"
+        ],
+        "countries": [
+          "hungary",
+          "romania",
+          "slovakia",
+          "eu"
         ],
         "positions": [
           "seo-expert"
@@ -1135,6 +1723,7 @@
           "austria",
           "canada",
           "australia",
+          "croatia",
           "eu"
         ],
         "positions": [
@@ -1264,6 +1853,94 @@
         ],
         "countries": [
           "latvia"
+        ]
+      }
+    },
+    {
+      "slug": "lithuanian",
+      "url": "/languages/lithuanian",
+      "title": "Тексты на литовском языке: локализация, SEO и реклама",
+      "description": "Тексты на литовском языке, локализация, SEO и реклама от носителей языка, а не перевод с английского. Смотрите модули с фиксированной ценой.",
+      "menu": "Литовский",
+      "featured": false,
+      "flag": "",
+      "code": "LT",
+      "native_speakers_l1": "2.26 млн",
+      "market_speakers_display": "2.26 млн",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 12,
+      "service_count": 14,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "content-localization",
+          "transcreation",
+          "copywriting",
+          "content-writing",
+          "google-ads-search"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "orm",
+          "paid-social",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "fintech",
+          "saas",
+          "ecommerce",
+          "manufacturing",
+          "legal",
+          "healthcare"
+        ],
+        "countries": [
+          "lithuania"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -1548,6 +2225,7 @@
           "portugal",
           "france",
           "switzerland",
+          "luxembourg",
           "eu"
         ],
         "blog-posts": [
@@ -1558,6 +2236,101 @@
         "positions": [
           "seo-expert",
           "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "romanian",
+      "url": "/languages/romanian",
+      "title": "Тексты на румынском языке: локализация, SEO и реклама",
+      "description": "Тексты на румынском языке, локализация, SEO и реклама от носителей языка, а не перевод с английского. Смотрите модули с фиксированной ценой.",
+      "menu": "Румынский",
+      "featured": false,
+      "flag": "",
+      "code": "RO",
+      "native_speakers_l1": "16.8 млн",
+      "market_speakers_display": "16.8 млн",
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "countries": [
+          "romania",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -1666,7 +2439,10 @@
         "countries": [
           "poland",
           "germany",
+          "lithuania",
+          "bulgaria",
           "latvia",
+          "estonia",
           "eu"
         ],
         "blog-posts": [
@@ -1677,6 +2453,189 @@
         "positions": [
           "seo-expert",
           "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "slovak",
+      "url": "/languages/slovak",
+      "title": "Тексты на словацком языке: локализация, SEO и реклама",
+      "description": "Тексты на словацком языке, локализация, SEO и реклама: пишем на словацком, а не адаптируем чешские страницы. Модули с фиксированной ценой.",
+      "menu": "Словацкий",
+      "featured": false,
+      "flag": "",
+      "code": "SK",
+      "native_speakers_l1": "6.74 млн",
+      "market_speakers_display": "6.74 млн",
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech",
+          "legal"
+        ],
+        "countries": [
+          "slovakia",
+          "czechia",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "slovenian",
+      "url": "/languages/slovenian",
+      "title": "Тексты на словенском языке: локализация, SEO и реклама",
+      "description": "Тексты на словенском языке, локализация, SEO и реклама от носителей языка, а не машинный перевод. Смотрите модули с фиксированной ценой.",
+      "menu": "Словенский",
+      "featured": false,
+      "flag": "",
+      "code": "SL",
+      "native_speakers_l1": "1.83 млн",
+      "market_speakers_display": "1.83 млн",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 15,
+      "service_count": 14,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "seo-audit",
+          "content-localization",
+          "content-strategy",
+          "content-writing",
+          "content-rewriting",
+          "copywriting",
+          "transcreation",
+          "google-ads-search"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "orm",
+          "paid-social",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "manufacturing",
+          "pharma",
+          "saas"
+        ],
+        "countries": [
+          "slovenia"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -1789,6 +2748,7 @@
           "france",
           "uk",
           "germany",
+          "romania",
           "canada",
           "portugal",
           "eu"
@@ -1900,6 +2860,8 @@
         ],
         "countries": [
           "sweden",
+          "finland",
+          "denmark",
           "eu"
         ],
         "positions": [
@@ -2069,6 +3031,7 @@
         "countries": [
           "turkey",
           "germany",
+          "bulgaria",
           "netherlands",
           "greece"
         ],
@@ -2184,10 +3147,10 @@
       "paid-social-for-apps": "Реклама в соцсетях",
       "app-store-cro": "CRO страницы приложения",
       "app-retention": "Удержание в приложении",
-      "content-rewriting": "Обновление контента",
-      "content-strategy": "Контент-стратегия",
       "content-writing": "Написание статей",
       "copywriting": "Копирайтинг",
+      "content-strategy": "Контент-стратегия",
+      "content-rewriting": "Обновление контента",
       "google-shopping": "Google Shopping",
       "local-services-ads": "Реклама Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
@@ -2240,9 +3203,9 @@
       "retail": "Ритейл",
       "hospitality": "Гостеприимство",
       "automotive": "Автобизнес",
+      "manufacturing": "Промышленность",
       "healthcare": "Медицина",
       "legal": "Юридические услуги",
-      "manufacturing": "Промышленность",
       "crypto": "Криптовалюта",
       "fmcg": "FMCG",
       "game-studios": "Игровые студии",
@@ -2251,14 +3214,20 @@
     "countries": {
       "uae": "ОАЭ",
       "canada": "Канада",
+      "bulgaria": "Болгария",
+      "eu": "Европейский союз",
       "malaysia": "Малайзия",
       "singapore": "Сингапур",
       "thailand": "Таиланд",
       "australia": "Австралия",
+      "croatia": "Хорватия",
+      "slovenia": "Словения",
+      "austria": "Австрия",
       "czechia": "Чехия",
-      "eu": "Европейский союз",
-      "netherlands": "Нидерланды",
+      "slovakia": "Словакия",
+      "denmark": "Дания",
       "germany": "Германия",
+      "netherlands": "Нидерланды",
       "belgium": "Бельгия",
       "usa": "США",
       "india": "Индия",
@@ -2271,13 +3240,18 @@
       "poland": "Польша",
       "spain": "Испания",
       "sweden": "Швеция",
-      "austria": "Австрия",
+      "romania": "Румыния",
       "greece": "Греция",
       "ireland": "Ирландия",
       "new-zealand": "Новая Зеландия",
       "switzerland": "Швейцария",
+      "finland": "Финляндия",
       "portugal": "Португалия",
+      "hungary": "Венгрия",
+      "lithuania": "Литва",
       "latvia": "Латвия",
+      "estonia": "Эстония",
+      "luxembourg": "Люксембург",
       "indonesia": "Индонезия",
       "japan": "Япония"
     },
@@ -2301,8 +3275,8 @@
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",
-      "ecommerce-migration-2025": "Миграция e-commerce",
-      "alvadi": "ALVADI"
+      "alvadi": "ALVADI",
+      "ecommerce-migration-2025": "Миграция e-commerce"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",

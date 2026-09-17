@@ -202,7 +202,8 @@
           "german",
           "english",
           "french",
-          "italian"
+          "italian",
+          "croatian"
         ],
         "blog-posts": [
           "seo-packages-comparison"
@@ -424,6 +425,104 @@
       }
     },
     {
+      "slug": "bulgaria",
+      "url": "/countries/bulgaria",
+      "title": "Digital Marketing in Bulgaria for International Brands",
+      "description": "Digital marketing in Bulgaria for international companies: fixed-price scopes, native Bulgarian execution, no Sofia office needed. Browse the services.",
+      "menu": "Bulgaria",
+      "featured": false,
+      "flag": "🇧🇬",
+      "population_total": "6.78M",
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "Bulgarian",
+      "dominant_language_code": "bg",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing",
+          "automotive",
+          "retail",
+          "healthcare"
+        ],
+        "languages": [
+          "bulgarian",
+          "english",
+          "russian",
+          "turkish",
+          "german"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "canada",
       "url": "/countries/canada",
       "title": "Digital Marketing Agency in Canada",
@@ -542,6 +641,98 @@
       }
     },
     {
+      "slug": "croatia",
+      "url": "/countries/croatia",
+      "title": "Digital Marketing in Croatia for Foreign Brands",
+      "description": "Digital marketing in Croatia for international companies: fixed-price scopes, native execution, a market shaped by tourism. Browse the services.",
+      "menu": "Croatia",
+      "featured": false,
+      "flag": "🇭🇷",
+      "population_total": "4.15M",
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "Croatian",
+      "dominant_language_code": "hr",
+      "scope_count": 13,
+      "service_count": 14,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "content-localization",
+          "content-strategy",
+          "transcreation",
+          "google-ads-search",
+          "ppc-audit",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "orm",
+          "paid-social",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "hospitality",
+          "ecommerce",
+          "retail",
+          "saas",
+          "fintech",
+          "healthcare",
+          "manufacturing"
+        ],
+        "languages": [
+          "croatian",
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "czechia",
       "url": "/countries/czechia",
       "title": "Digital Marketing Agency in Czechia",
@@ -637,7 +828,205 @@
         "languages": [
           "czech",
           "english",
+          "slovak",
           "german"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "denmark",
+      "url": "/countries/denmark",
+      "title": "Marketing Agency in Denmark for International Brands",
+      "description": "Marketing agency work in Denmark for international companies: fixed-price scopes, Danish only where it pays, no Copenhagen office. Browse the services.",
+      "menu": "Denmark",
+      "featured": false,
+      "flag": "🇩🇰",
+      "population_total": "5.97M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Danish",
+      "dominant_language_code": "da",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "healthcare"
+        ],
+        "languages": [
+          "danish",
+          "english",
+          "german",
+          "swedish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "estonia",
+      "url": "/countries/estonia",
+      "title": "Digital Marketing Agency in Estonia for Foreign Brands",
+      "description": "Digital marketing agency work in Estonia for companies entering the market: fixed-price scopes, native execution, no Tallinn office. Browse the services.",
+      "menu": "Estonia",
+      "featured": false,
+      "flag": "🇪🇪",
+      "population_total": "1.19M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Estonian",
+      "dominant_language_code": "et",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 1,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "healthcare"
+        ],
+        "languages": [
+          "estonian",
+          "russian",
+          "english",
+          "finnish"
         ],
         "positions": [
           "seo-expert"
@@ -753,10 +1142,114 @@
           "polish",
           "dutch",
           "russian",
+          "romanian",
           "swedish",
           "czech",
+          "hungarian",
           "greek",
-          "portuguese"
+          "portuguese",
+          "danish",
+          "bulgarian",
+          "slovak",
+          "finnish",
+          "croatian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "finland",
+      "url": "/countries/finland",
+      "title": "Marketing Agency in Finland: Native Finnish Execution",
+      "description": "Marketing agency work for Finland, run from outside it: fixed-price scopes, keyword research done in Finnish, no Helsinki office. Browse the services.",
+      "menu": "Finland",
+      "featured": false,
+      "flag": "🇫🇮",
+      "population_total": "5.63M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Finnish",
+      "dominant_language_code": "fi",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing",
+          "game-studios",
+          "healthcare",
+          "retail"
+        ],
+        "languages": [
+          "finnish",
+          "english",
+          "swedish",
+          "german"
         ],
         "positions": [
           "seo-expert"
@@ -1020,7 +1513,8 @@
           "italian",
           "russian",
           "spanish",
-          "turkish"
+          "turkish",
+          "danish"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -1133,6 +1627,103 @@
           "french",
           "german",
           "turkish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "hungary",
+      "url": "/countries/hungary",
+      "title": "Marketing Agency in Hungary for Foreign Brands",
+      "description": "Marketing agency work in Hungary for international companies: fixed-price scopes, native Hungarian execution, no Budapest office. Browse the services.",
+      "menu": "Hungary",
+      "featured": false,
+      "flag": "🇭🇺",
+      "population_total": "9.86M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Hungarian",
+      "dominant_language_code": "hu",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "healthcare"
+        ],
+        "languages": [
+          "hungarian",
+          "english",
+          "german",
+          "french"
         ],
         "positions": [
           "seo-expert"
@@ -1760,6 +2351,198 @@
           "latvian",
           "english",
           "russian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "lithuania",
+      "url": "/countries/lithuania",
+      "title": "Digital Marketing Agency in Lithuania: EU Fintech Hub",
+      "description": "Digital marketing in Lithuania for international companies: EU fintech licensing hub, one Lithuanian keyword set, fixed-price scopes. See the services.",
+      "menu": "Lithuania",
+      "featured": false,
+      "flag": "🇱🇹",
+      "population_total": "2.63M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Lithuanian",
+      "dominant_language_code": "lt",
+      "scope_count": 12,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "content-localization",
+          "transcreation",
+          "google-ads-search",
+          "ppc-audit",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "fintech",
+          "saas",
+          "ecommerce",
+          "crypto",
+          "manufacturing",
+          "legal",
+          "healthcare"
+        ],
+        "languages": [
+          "lithuanian",
+          "russian",
+          "english",
+          "german"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "luxembourg",
+      "url": "/countries/luxembourg",
+      "title": "Marketing Agency in Luxembourg for Foreign Brands",
+      "description": "Marketing agency in Luxembourg for international companies: fixed-price scopes, French-led native execution, no local office. Browse the services.",
+      "menu": "Luxembourg",
+      "featured": false,
+      "flag": "🇱🇺",
+      "population_total": "671K",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "French",
+      "dominant_language_code": "fr",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "fintech",
+          "saas",
+          "legal",
+          "ecommerce",
+          "crypto",
+          "manufacturing",
+          "healthcare"
+        ],
+        "languages": [
+          "french",
+          "german",
+          "english",
+          "portuguese"
         ],
         "positions": [
           "seo-expert"
@@ -2407,6 +3190,96 @@
       }
     },
     {
+      "slug": "romania",
+      "url": "/countries/romania",
+      "title": "Digital Marketing in Romania for International Brands",
+      "description": "Digital marketing in Romania for companies entering an 18.1M EU market: fixed-price scopes, native Romanian execution, no Bucharest office. See services.",
+      "menu": "Romania",
+      "featured": false,
+      "flag": "🇷🇴",
+      "population_total": "18.1M",
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "Romanian",
+      "dominant_language_code": "ro",
+      "scope_count": 14,
+      "service_count": 12,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display",
+          "content-localization",
+          "transcreation",
+          "copywriting"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "orm",
+          "paid-social",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "retail",
+          "automotive",
+          "manufacturing"
+        ],
+        "languages": [
+          "romanian",
+          "english",
+          "french",
+          "spanish",
+          "hungarian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "singapore",
       "url": "/countries/singapore",
       "title": "Digital Marketing Agency in Singapore",
@@ -2514,6 +3387,197 @@
         "positions": [
           "seo-expert",
           "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "slovakia",
+      "url": "/countries/slovakia",
+      "title": "Digital Marketing in Slovakia for Foreign Brands",
+      "description": "Digital marketing in Slovakia for companies entering the market: fixed-price scopes, native execution, no Bratislava office. Browse the services.",
+      "menu": "Slovakia",
+      "featured": false,
+      "flag": "🇸🇰",
+      "population_total": "5.56M",
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "Slovak",
+      "dominant_language_code": "sk",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "content-localization",
+          "content-strategy",
+          "content-writing",
+          "transcreation",
+          "google-ads-search",
+          "ppc-audit",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "manufacturing",
+          "ecommerce",
+          "retail",
+          "saas",
+          "fintech",
+          "legal"
+        ],
+        "languages": [
+          "slovak",
+          "czech",
+          "english",
+          "german",
+          "hungarian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "slovenia",
+      "url": "/countries/slovenia",
+      "title": "Digital Marketing in Slovenia for International Brands",
+      "description": "Digital marketing in Slovenia for international companies: fixed-price scopes, native execution, a bridge market between Central Europe and the Adriatic.",
+      "menu": "Slovenia",
+      "featured": false,
+      "flag": "🇸🇮",
+      "population_total": "2.1M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Slovenian",
+      "dominant_language_code": "sl",
+      "scope_count": 15,
+      "service_count": 14,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "seo-audit",
+          "content-localization",
+          "content-strategy",
+          "content-writing",
+          "transcreation",
+          "google-ads-search",
+          "ppc-audit",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "orm",
+          "paid-social",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "manufacturing",
+          "automotive",
+          "pharma",
+          "ecommerce",
+          "saas",
+          "retail",
+          "healthcare"
+        ],
+        "languages": [
+          "slovenian",
+          "croatian",
+          "english",
+          "german"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -2728,7 +3792,8 @@
         ],
         "languages": [
           "swedish",
-          "english"
+          "english",
+          "finnish"
         ],
         "positions": [
           "seo-expert"
@@ -3454,13 +4519,13 @@
       "youtube-channel-management": "YouTube Channel Management",
       "youtube-creator-collaborations": "YouTube Creator Collaborations",
       "youtube-creator-pilot": "YouTube Creator Pilot",
-      "content-writing": "Content Writing",
       "google-ads-search": "Google Ads Search",
+      "ppc-audit": "PPC Audit",
+      "remarketing-display": "Remarketing & Display",
+      "content-writing": "Content Writing",
       "google-shopping": "Google Shopping",
       "local-services-ads": "Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
-      "ppc-audit": "PPC Audit",
-      "remarketing-display": "Remarketing & Display",
       "youtube-ads": "YouTube Ads",
       "telegram-ads": "Telegram Ads",
       "telegram-channel-placements": "Telegram Channel Placements"
@@ -3532,22 +4597,32 @@
       "italian": "Italian",
       "german": "German",
       "french": "French",
+      "croatian": "Croatian",
       "dutch": "Dutch",
       "portuguese": "Portuguese",
+      "bulgarian": "Bulgarian",
+      "russian": "Russian",
+      "turkish": "Turkish",
       "spanish": "Spanish",
       "arabic": "Arabic",
       "hindi": "Hindi",
       "urdu": "Urdu",
       "czech": "Czech",
-      "polish": "Polish",
-      "russian": "Russian",
+      "slovak": "Slovak",
+      "danish": "Danish",
       "swedish": "Swedish",
+      "estonian": "Estonian",
+      "finnish": "Finnish",
+      "polish": "Polish",
+      "romanian": "Romanian",
+      "hungarian": "Hungarian",
       "greek": "Greek",
-      "turkish": "Turkish",
       "indonesian": "Indonesian",
       "malay": "Malay",
       "japanese": "Japanese",
       "latvian": "Latvian",
+      "lithuanian": "Lithuanian",
+      "slovenian": "Slovenian",
       "thai": "Thai"
     },
     "positions": {

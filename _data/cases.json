@@ -14,7 +14,7 @@
       "service": "ppc",
       "industry": "automotive",
       "country": "eu",
-      "language": "latvian",
+      "language": "estonian",
       "results": [
         {
           "value": "2.4x",
@@ -63,9 +63,11 @@
         ],
         "countries": [
           "eu",
+          "estonia",
           "latvia"
         ],
         "languages": [
+          "estonian",
           "latvian"
         ]
       }
@@ -241,10 +243,12 @@
     },
     "countries": {
       "eu": "European Union",
+      "estonia": "Estonia",
       "latvia": "Latvia",
       "germany": "Germany"
     },
     "languages": {
+      "estonian": "Estonian",
       "latvian": "Latvian",
       "english": "English",
       "german": "German"
