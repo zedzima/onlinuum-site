@@ -420,7 +420,8 @@
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -1463,6 +1464,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1612,6 +1615,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -2232,7 +2237,9 @@
           "german"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -2334,7 +2341,8 @@
           "japanese"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -2924,7 +2932,8 @@
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -3030,7 +3039,9 @@
           "turkish"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -3258,6 +3269,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -3875,6 +3887,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -3979,7 +3993,8 @@
           "finnish"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -4269,7 +4284,8 @@
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -4372,7 +4388,9 @@
         ],
         "positions": [
           "seo-expert",
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -4517,6 +4535,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
           "ppc-specialist"
         ]
       }
@@ -4659,6 +4678,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
           "ppc-specialist"
         ]
       }
@@ -4811,6 +4831,8 @@
     "positions": {
       "seo-expert": "SEO-специалист",
       "aso-specialist": "ASO-специалист",
+      "marketing-consultant": "Консультант по маркетингу",
+      "business-development-manager": "Менеджер по развитию бизнеса",
       "ppc-specialist": "PPC-специалист"
     },
     "blog-posts": {

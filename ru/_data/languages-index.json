@@ -84,7 +84,9 @@
           "canada"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -599,7 +601,9 @@
           "eu"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -786,6 +790,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1113,6 +1119,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1270,6 +1278,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1733,7 +1743,9 @@
           "eu"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -1763,7 +1775,8 @@
           "japan"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -2130,7 +2143,8 @@
         ],
         "positions": [
           "seo-expert",
-          "aso-specialist"
+          "aso-specialist",
+          "marketing-consultant"
         ]
       }
     },
@@ -2241,7 +2255,8 @@
         ],
         "positions": [
           "seo-expert",
-          "aso-specialist"
+          "aso-specialist",
+          "marketing-consultant"
         ]
       }
     },
@@ -2767,6 +2782,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -2871,7 +2888,8 @@
           "eu"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -3043,7 +3061,8 @@
           "greece"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -3266,6 +3285,8 @@
     },
     "positions": {
       "seo-expert": "SEO-специалист",
+      "business-development-manager": "Менеджер по развитию бизнеса",
+      "marketing-consultant": "Консультант по маркетингу",
       "aso-specialist": "ASO-специалист",
       "ppc-specialist": "PPC-специалист"
     },

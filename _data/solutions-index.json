@@ -300,6 +300,8 @@
         ],
         "positions": [
           "seo-expert",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -467,6 +469,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -642,6 +646,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -791,7 +797,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -974,6 +981,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1118,7 +1127,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -1265,7 +1275,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -1441,6 +1452,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1761,6 +1774,8 @@
     },
     "positions": {
       "seo-expert": "SEO Expert",
+      "business-development-manager": "Business Development Manager",
+      "marketing-consultant": "Marketing Consultant",
       "ppc-specialist": "PPC Specialist",
       "aso-specialist": "ASO Specialist"
     },

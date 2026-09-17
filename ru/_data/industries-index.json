@@ -153,6 +153,7 @@
         ],
         "positions": [
           "seo-expert",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -458,6 +459,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -635,6 +638,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -984,7 +989,8 @@
         ],
         "positions": [
           "seo-expert",
-          "aso-specialist"
+          "aso-specialist",
+          "marketing-consultant"
         ]
       }
     },
@@ -1100,7 +1106,9 @@
           "thai"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -1242,6 +1250,7 @@
         ],
         "positions": [
           "seo-expert",
+          "business-development-manager",
           "ppc-specialist"
         ]
       }
@@ -1394,6 +1403,7 @@
         ],
         "positions": [
           "seo-expert",
+          "business-development-manager",
           "ppc-specialist"
         ]
       }
@@ -1620,7 +1630,8 @@
           "urdu"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     },
@@ -1813,6 +1824,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -2004,8 +2017,10 @@
     },
     "positions": {
       "seo-expert": "SEO-специалист",
+      "marketing-consultant": "Консультант по маркетингу",
       "ppc-specialist": "PPC-специалист",
-      "aso-specialist": "ASO-специалист"
+      "aso-specialist": "ASO-специалист",
+      "business-development-manager": "Менеджер по развитию бизнеса"
     }
   }
 }

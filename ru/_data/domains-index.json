@@ -268,6 +268,9 @@
           "swedish",
           "thai",
           "turkish"
+        ],
+        "positions": [
+          "business-development-manager"
         ]
       }
     },
@@ -546,6 +549,10 @@
           "thai",
           "turkish",
           "urdu"
+        ],
+        "positions": [
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -807,6 +814,7 @@
           "urdu"
         ],
         "positions": [
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1127,6 +1135,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -1289,7 +1298,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     }
@@ -1473,6 +1483,8 @@
     },
     "positions": {
       "aso-specialist": "ASO-специалист",
+      "business-development-manager": "Менеджер по развитию бизнеса",
+      "marketing-consultant": "Консультант по маркетингу",
       "ppc-specialist": "PPC-специалист",
       "seo-expert": "SEO-специалист"
     },

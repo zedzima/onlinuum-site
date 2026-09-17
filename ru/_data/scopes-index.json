@@ -565,7 +565,8 @@
           "urdu"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -766,6 +767,9 @@
           "lithuanian",
           "malay",
           "slovenian"
+        ],
+        "positions": [
+          "marketing-consultant"
         ]
       },
       "case_count": 1,
@@ -927,7 +931,8 @@
           "slovenian"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -1221,7 +1226,8 @@
           "seo-packages-comparison"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 1,
@@ -1749,7 +1755,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -2520,7 +2527,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -2724,7 +2732,8 @@
           "polish"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -2862,6 +2871,9 @@
           "lithuanian",
           "malay",
           "slovenian"
+        ],
+        "positions": [
+          "marketing-consultant"
         ]
       },
       "case_count": 1,
@@ -3354,6 +3366,7 @@
     "positions": {
       "seo-expert": "SEO-специалист",
       "aso-specialist": "ASO-специалист",
+      "marketing-consultant": "Консультант по маркетингу",
       "ppc-specialist": "PPC-специалист"
     },
     "cases": {

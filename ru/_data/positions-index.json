@@ -133,6 +133,288 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "Менеджер по развитию бизнеса",
+      "description": "Удалённая вакансия менеджера по развитию бизнеса: откройте рынок, который знаете, и получайте 10% от платежей приведённых клиентов первые 12 месяцев.",
+      "menu": "Менеджер по развитию бизнеса",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Мы открываем рынки, и за каждым нужно имя",
+        "badge_active": "Активно набираем, по одному менеджеру на рынок",
+        "apply_label": "Откликнуться / рассказать о себе",
+        "label_service": "Услуги, которые вы открываете",
+        "label_countries": "Рынки, которые закрываем первыми",
+        "label_languages": "Рабочие языки",
+        "label_industries": "Приоритетные отрасли",
+        "label_experience": "Уровень",
+        "label_engagement": "Формат сотрудничества",
+        "label_commitment": "Загрузка",
+        "engagement_type": "Проектная занятость / частичная занятость",
+        "working_hours": "10-20 часов в неделю, темп вы задаёте сами под свой рынок",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Германия",
+          "США",
+          "Великобритания",
+          "Франция",
+          "Испания"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "5+ лет в развитии бизнеса, партнёрствах или продажах на одном рынке, который вы знаете изнутри.",
+        "education_requirements": "без требований"
+      },
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "international-marketing",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content",
+          "paid-social",
+          "web-development"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech",
+          "manufacturing",
+          "hospitality",
+          "legal"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "arabic"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "Маркетолог для одного локального рынка",
+      "description": "Удалённые вакансии маркетолога в Onlinuum: ведите один рынок внутри сети из 44 стран, 40% доли от выручки. Откликайтесь сегодня.",
+      "menu": "Консультант по маркетингу",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Мы активно добавляем рыночных консультантов в сеть экспертов",
+        "badge_active": "Активно набираем на незакрытые рынки",
+        "apply_label": "Откликнуться / рассказать о себе",
+        "label_service": "Основная услуга",
+        "label_countries": "Приоритетные рынки",
+        "label_languages": "Рабочие языки",
+        "label_industries": "Приоритетные отрасли",
+        "label_experience": "Уровень",
+        "label_engagement": "Формат сотрудничества",
+        "label_commitment": "Загрузка",
+        "engagement_type": "Проектная занятость / частичная занятость",
+        "working_hours": "5-20 часов в неделю в зависимости от активных рынков и модулей",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Германия",
+          "Франция",
+          "Испания",
+          "Италия",
+          "Польша",
+          "Турция"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "5+ лет в маркетинге с реальной операционной глубиной хотя бы в одном страновом рынке.",
+        "education_requirements": "без требований"
+      },
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "search-marketing",
+          "performance-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "cross-market-setup",
+          "seo-research",
+          "local-seo",
+          "content-strategy",
+          "content-localization",
+          "transcreation",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "international-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content",
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "retail",
+          "hospitality",
+          "automotive"
+        ],
+        "countries": [
+          "germany",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "poland",
+          "sweden",
+          "turkey",
+          "brazil",
+          "mexico",
+          "japan",
+          "uae"
+        ],
+        "languages": [
+          "german",
+          "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "polish",
+          "swedish",
+          "turkish",
+          "portuguese",
+          "japanese",
+          "arabic",
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "Специалист по контекстной рекламе (PPC)",
@@ -474,6 +756,8 @@
     "domains": {
       "app-marketing": "Маркетинг приложений",
       "search-marketing": "Поисковый маркетинг",
+      "growth-marketing": "Growth-маркетинг",
+      "brand-marketing": "Бренд-маркетинг",
       "performance-marketing": "Performance-маркетинг",
       "web-marketing": "Веб-маркетинг"
     },
@@ -485,6 +769,13 @@
       "app-retention": "Удержание в приложении",
       "google-app-campaigns": "Google UAC",
       "paid-social-for-apps": "Реклама в соцсетях",
+      "cross-market-setup": "Настройка мультирегионального SEO",
+      "seo-research": "SEO-исследование",
+      "local-seo": "Локальное SEO",
+      "content-strategy": "Контент-стратегия",
+      "content-localization": "Локализация контента",
+      "transcreation": "Транскреация",
+      "telegram-ads": "Реклама в Telegram",
       "ppc-audit": "Аудит контекстной рекламы",
       "google-ads-search": "Поиск в Google Ads",
       "microsoft-ads": "Microsoft Ads",
@@ -492,15 +783,10 @@
       "remarketing-display": "Ремаркетинг и медийная реклама",
       "youtube-ads": "Реклама на YouTube",
       "local-services-ads": "Реклама Local Services Ads",
-      "telegram-ads": "Реклама в Telegram",
       "technical-seo": "Технический SEO",
-      "seo-research": "SEO-исследование",
       "on-page-seo": "Внутренняя оптимизация",
       "link-building": "Линкбилдинг",
-      "cross-market-setup": "Настройка мультирегионального SEO",
       "ai-optimisation": "ИИ-оптимизация",
-      "local-seo": "Локальное SEO",
-      "content-strategy": "Контент-стратегия",
       "seo-audit": "SEO-аудит"
     },
     "experts": {
@@ -526,8 +812,11 @@
       "aso": "ASO",
       "app-user-acquisition": "Привлечение пользователей",
       "app-conversion-retention": "Конверсия и удержание",
+      "seo": "SEO",
       "ppc": "Контекстная реклама",
-      "seo": "SEO"
+      "content": "Контент-маркетинг",
+      "paid-social": "Таргетированная реклама",
+      "web-development": "Разработка сайтов"
     },
     "industries": {
       "saas": "SaaS",
@@ -535,14 +824,14 @@
       "ecommerce": "Интернет-магазины",
       "healthcare": "Медицина",
       "game-studios": "Игровые студии",
-      "automotive": "Автобизнес",
-      "legal": "Юридические услуги",
       "manufacturing": "Промышленность",
+      "hospitality": "Гостеприимство",
+      "legal": "Юридические услуги",
+      "retail": "Ритейл",
+      "automotive": "Автобизнес",
       "fmcg": "FMCG",
       "crypto": "Криптовалюта",
-      "hospitality": "Гостеприимство",
-      "pharma": "Фарма и life sciences",
-      "retail": "Ритейл"
+      "pharma": "Фарма и life sciences"
     },
     "countries": {
       "germany": "Германия",
@@ -554,14 +843,20 @@
       "portugal": "Португалия",
       "spain": "Испания",
       "india": "Индия",
+      "italy": "Италия",
+      "netherlands": "Нидерланды",
+      "uae": "ОАЭ",
+      "sweden": "Швеция",
+      "turkey": "Турция",
+      "brazil": "Бразилия",
+      "mexico": "Мексика",
+      "japan": "Япония",
       "indonesia": "Индонезия",
       "malaysia": "Малайзия",
       "singapore": "Сингапур",
       "thailand": "Таиланд",
-      "uae": "ОАЭ",
       "australia": "Австралия",
       "belgium": "Бельгия",
-      "brazil": "Бразилия",
       "bulgaria": "Болгария",
       "canada": "Канада",
       "croatia": "Хорватия",
@@ -574,21 +869,15 @@
       "greece": "Греция",
       "hungary": "Венгрия",
       "ireland": "Ирландия",
-      "italy": "Италия",
-      "japan": "Япония",
       "latvia": "Латвия",
       "lithuania": "Литва",
       "luxembourg": "Люксембург",
       "malta": "Мальта",
-      "mexico": "Мексика",
-      "netherlands": "Нидерланды",
       "new-zealand": "Новая Зеландия",
       "romania": "Румыния",
       "slovakia": "Словакия",
       "slovenia": "Словения",
-      "sweden": "Швеция",
-      "switzerland": "Швейцария",
-      "turkey": "Турция"
+      "switzerland": "Швейцария"
     },
     "languages": {
       "english": "Английский",
@@ -599,29 +888,29 @@
       "polish": "Польский",
       "portuguese": "Португальский",
       "urdu": "Урду",
+      "italian": "Итальянский",
+      "dutch": "Нидерландский",
+      "arabic": "Арабский",
+      "swedish": "Шведский",
+      "turkish": "Турецкий",
+      "japanese": "Японский",
       "indonesian": "Индонезийский",
       "chinese": "Китайский",
-      "japanese": "Японский",
-      "arabic": "Арабский",
       "bulgarian": "Болгарский",
       "croatian": "Хорватский",
       "czech": "Чешский",
       "danish": "Датский",
-      "dutch": "Нидерландский",
       "estonian": "Эстонский",
       "finnish": "Финский",
       "greek": "Греческий",
       "hindi": "Хинди",
       "hungarian": "Венгерский",
-      "italian": "Итальянский",
       "lithuanian": "Литовский",
       "malay": "Малайский",
       "romanian": "Румынский",
       "slovak": "Словацкий",
       "slovenian": "Словенский",
-      "swedish": "Шведский",
-      "thai": "Тайский",
-      "turkish": "Турецкий"
+      "thai": "Тайский"
     },
     "blog-posts": {
       "seo-packages-comparison": "Сравнение SEO-пакетов"
