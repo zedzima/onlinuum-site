@@ -81,6 +81,7 @@
         ],
         "countries": [
           "uae",
+          "israel",
           "canada"
         ],
         "positions": [
@@ -203,6 +204,8 @@
       "solution_count": 0,
       "facets": {
         "countries": [
+          "china",
+          "taiwan",
           "malaysia",
           "singapore",
           "thailand",
@@ -756,6 +759,7 @@
           "poland",
           "spain",
           "sweden",
+          "israel",
           "malaysia",
           "belgium",
           "austria",
@@ -1389,6 +1393,33 @@
       }
     },
     {
+      "slug": "hebrew",
+      "url": "/languages/hebrew",
+      "title": "Hebrew-Language Marketing Services: Native Experts",
+      "description": "Hebrew-language marketing for brands entering Israel: native experts, right-to-left content, and Google-first search. Explore services.",
+      "menu": "Hebrew",
+      "featured": false,
+      "flag": "",
+      "code": "HE",
+      "native_speakers_l1": "9.4M",
+      "market_speakers_display": "9.4M",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "israel"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "hindi",
       "url": "/languages/hindi",
       "title": "Hindi Content Writing Services for B2B Brands",
@@ -1543,6 +1574,7 @@
           "hungary",
           "romania",
           "slovakia",
+          "israel",
           "eu"
         ],
         "positions": [
@@ -1779,6 +1811,33 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "korean",
+      "url": "/languages/korean",
+      "title": "Korean-Language Marketing Services: Native Experts",
+      "description": "Korean-language marketing for brands entering South Korea: native experts across Naver, Google, and KakaoTalk. Explore services.",
+      "menu": "Korean",
+      "featured": false,
+      "flag": "",
+      "code": "KO",
+      "native_speakers_l1": "52.1M",
+      "market_speakers_display": "52.1M",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "south-korea"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -2136,6 +2195,8 @@
         "countries": [
           "poland",
           "uk",
+          "ukraine",
+          "israel",
           "eu"
         ],
         "blog-posts": [
@@ -2350,6 +2411,7 @@
         ],
         "countries": [
           "romania",
+          "israel",
           "eu"
         ],
         "positions": [
@@ -2460,10 +2522,12 @@
           "retail"
         ],
         "countries": [
+          "ukraine",
           "poland",
           "germany",
           "lithuania",
           "bulgaria",
+          "israel",
           "latvia",
           "estonia",
           "eu"
@@ -3070,6 +3134,34 @@
       }
     },
     {
+      "slug": "ukrainian",
+      "url": "/languages/ukrainian",
+      "title": "Ukrainian-Language Marketing Services: Native Experts",
+      "description": "Ukrainian-language marketing for brands reaching Ukraine and the diaspora: native experts across Google, YouTube, and Telegram. Explore services.",
+      "menu": "Ukrainian",
+      "featured": false,
+      "flag": "",
+      "code": "UK",
+      "native_speakers_l1": "23.3M",
+      "market_speakers_display": "23.3M",
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "ukraine",
+          "slovakia"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "urdu",
       "url": "/languages/urdu",
       "title": "Urdu Translation Services & Native Marketing Team",
@@ -3242,9 +3334,12 @@
     },
     "countries": {
       "uae": "UAE",
+      "israel": "Israel",
       "canada": "Canada",
       "bulgaria": "Bulgaria",
       "eu": "European Union",
+      "china": "China",
+      "taiwan": "Taiwan",
       "malaysia": "Malaysia",
       "singapore": "Singapore",
       "thailand": "Thailand",
@@ -3284,7 +3379,9 @@
       "malta": "Malta",
       "luxembourg": "Luxembourg",
       "indonesia": "Indonesia",
-      "japan": "Japan"
+      "japan": "Japan",
+      "south-korea": "South Korea",
+      "ukraine": "Ukraine"
     },
     "positions": {
       "seo-expert": "SEO Expert",

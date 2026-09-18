@@ -1,0 +1,285 @@
+/* ==========================================================================
+   RTL (right-to-left) overrides
+   ==========================================================================
+   Applies only when the base layout emits <html dir="rtl"> for a language in
+   site.rtl_languages (ar, he). Every rule is scoped to [dir="rtl"], so LTR
+   output is byte-identical to a build without this layer. Flexbox and grid
+   mirror themselves; only physical-direction declarations need help here.
+   ========================================================================== */
+
+/* --- Text flow ----------------------------------------------------------- */
+
+[dir="rtl"] main,
+[dir="rtl"] .dropdown-option,
+[dir="rtl"] .site-lang-option,
+[dir="rtl"] .source-select-toggle,
+[dir="rtl"] .theme-text,
+[dir="rtl"] th,
+[dir="rtl"] td,
+[dir="rtl"] .article-content td,
+[dir="rtl"] .cart-table th,
+[dir="rtl"] .catalog-domain-chip,
+[dir="rtl"] .feature-cell,
+[dir="rtl"] .pillar-items,
+[dir="rtl"] .pricing-simple-meta,
+[dir="rtl"] .process-sidebar .process-btn,
+[dir="rtl"] .icon-bar-label,
+[dir="rtl"] .icon-bar-btn-label,
+[dir="rtl"] .hero-split .hero-content,
+[dir="rtl"] .dimension-card-highlight,
+[dir="rtl"] .dimension-card-highlight .result-label,
+[dir="rtl"] .expert-experience {
+    text-align: right;
+}
+
+[dir="rtl"] .cart-line-row-value,
+[dir="rtl"] .cart-total-value,
+[dir="rtl"] .cart-total-amount,
+[dir="rtl"] .cart-total-panel .cart-total-label,
+[dir="rtl"] .case-metric-value,
+[dir="rtl"] .market-stats-row-value,
+[dir="rtl"] .cart-table th.text-right,
+[dir="rtl"] .cart-table td.text-right,
+[dir="rtl"] .text-right {
+    text-align: left;
+}
+
+[dir="rtl"] .text-left {
+    text-align: right;
+}
+
+[dir="rtl"] .cart-total-label {
+    padding-right: 0;
+    padding-left: var(--space-sm);
+    text-align: right;
+}
+
+/* --- Lists and quotes ---------------------------------------------------- */
+
+[dir="rtl"] ul,
+[dir="rtl"] ol,
+[dir="rtl"] .article-content ol,
+[dir="rtl"] .columns-text ul,
+[dir="rtl"] .columns-text ol {
+    padding-left: 0;
+    padding-right: var(--space-lg);
+}
+
+[dir="rtl"] .faq-answer ul,
+[dir="rtl"] .faq-answer ol,
+[dir="rtl"] .nested-content ul,
+[dir="rtl"] .nested-content ol,
+[dir="rtl"] .text-body ul,
+[dir="rtl"] .text-body ol {
+    padding-left: 0;
+    padding-right: var(--space-xl);
+}
+
+[dir="rtl"] .article-content blockquote,
+[dir="rtl"] .text-body blockquote,
+[dir="rtl"] .text-style-preview-quote {
+    border-left: none;
+    border-right: 3px solid var(--accent);
+}
+
+[dir="rtl"] .text-body blockquote,
+[dir="rtl"] .text-style-preview-quote {
+    padding-left: 0;
+    padding-right: var(--space-lg);
+}
+
+[dir="rtl"] .typography-map-preview--quote {
+    border-left: none;
+    border-right: 2px solid var(--border);
+    padding-left: 0;
+    padding-right: var(--space-md);
+}
+
+[dir="rtl"] .nested-children {
+    border-left: none;
+    border-right: 1px dashed var(--border);
+}
+
+[dir="rtl"] .nested-children li {
+    border-left: none;
+    border-right: 3px solid var(--accent-soft-border);
+}
+
+/* --- Header, sidebars, main --------------------------------------------- */
+
+[dir="rtl"] .sidebar-nav {
+    left: auto;
+    right: 0;
+}
+
+[dir="rtl"] .icon-bar {
+    border-right: none;
+    border-left: 1px solid var(--border);
+}
+
+[dir="rtl"] .icon-bar-link.active::after {
+    right: auto;
+    left: calc(-1 * ((var(--icon-bar-width) - var(--icon-bar-link-width)) / 2));
+}
+
+[dir="rtl"] .sidebar-action {
+    right: auto;
+    left: 0;
+    border-left: none;
+    border-right: 1px solid var(--border);
+    transform: translateX(-100%);
+}
+
+[dir="rtl"] .sidebar-action.open {
+    transform: translateX(0);
+}
+
+[dir="rtl"] .floating-dropdown {
+    left: auto;
+    right: var(--icon-bar-width);
+    transform: translateX(8px);
+}
+
+[dir="rtl"] .floating-dropdown.open {
+    transform: translateX(0);
+}
+
+[dir="rtl"] .back-to-top {
+    right: auto;
+    left: var(--space-md);
+}
+
+[dir="rtl"] .cart-badge {
+    right: auto;
+    left: 4px;
+}
+
+@media (min-width: 801px) {
+    [dir="rtl"] .header-left {
+        margin-left: 0;
+        margin-right: calc(-1 * var(--space-md));
+    }
+
+    [dir="rtl"] .header-right {
+        margin-right: 0;
+        margin-left: calc(-1 * var(--space-md));
+    }
+
+    [dir="rtl"] main {
+        margin-left: 0;
+        margin-right: var(--icon-bar-width);
+    }
+}
+
+@media (min-width: 801px) and (max-width: 1599px) {
+    [dir="rtl"] .icon-bar-link.active::after {
+        right: auto;
+        left: calc(-1 * ((var(--icon-bar-width) - 78px) / 2));
+    }
+}
+
+@media (min-width: 1600px) {
+    [dir="rtl"] main {
+        margin-right: var(--icon-bar-width);
+        margin-left: var(--action-width);
+    }
+
+    [dir="rtl"] .back-to-top {
+        left: calc(var(--action-width) + var(--space-lg));
+    }
+
+    [dir="rtl"] .sidebar-action {
+        transform: translateX(0);
+    }
+}
+
+@media (max-width: 800px) {
+    [dir="rtl"] main {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    [dir="rtl"] .sidebar-nav {
+        transform: translateX(100%);
+    }
+
+    [dir="rtl"] .sidebar-nav.open {
+        transform: translateX(0);
+    }
+}
+
+/* --- Block-level chrome -------------------------------------------------- */
+
+[dir="rtl"] .sections-item {
+    padding-right: var(--space-lg);
+    padding-left: clamp(96px, 16vw, 196px);
+}
+
+[dir="rtl"] .sections-item-symbol,
+[dir="rtl"] .sections-item-icon {
+    right: auto;
+    left: clamp(20px, 3vw, 36px);
+}
+
+@media (max-width: 640px) {
+    [dir="rtl"] .sections-item {
+        padding-left: var(--space-lg);
+    }
+
+    [dir="rtl"] .sections-item-symbol,
+    [dir="rtl"] .sections-item-icon {
+        left: 50%;
+        right: auto;
+    }
+}
+
+[dir="rtl"] .pricing-badge {
+    right: auto;
+    left: var(--space-lg);
+}
+
+[dir="rtl"] .package-savings {
+    right: auto;
+    left: 0;
+}
+
+[dir="rtl"] .columns-item-mark,
+[dir="rtl"] .testimonial-rating,
+[dir="rtl"] .cookie-preferences-card {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+[dir="rtl"] .feature-tooltip {
+    margin-left: 0;
+    margin-right: var(--space-xs);
+}
+
+[dir="rtl"] .cart-delivery-opt:not(:last-child),
+[dir="rtl"] .cart-payment-opt:not(:last-child) {
+    border-right: none;
+    border-left: 1px solid var(--border);
+}
+
+[dir="rtl"] .process-sidebar .process-nav {
+    border-right: none;
+    border-left: 1px solid var(--border);
+}
+
+[dir="rtl"] .process-sidebar .process-btn {
+    border-right: none;
+    border-left: 2px solid transparent;
+    margin-right: 0;
+    margin-left: -1px;
+}
+
+[dir="rtl"] .task-picker-item.expanded .task-picker-details-inner {
+    padding-left: 0;
+    padding-right: calc(var(--space-lg) + 20px + var(--space-md));
+}
+
+@media (max-width: 768px) {
+    [dir="rtl"] .task-picker-item.expanded .task-picker-details-inner {
+        padding-right: var(--space-md);
+    }
+}

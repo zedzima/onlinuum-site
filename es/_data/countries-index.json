@@ -1,0 +1,191 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "Marketing Digital en Europa: SEM y SEO por Mercado",
+      "description": "Marketing digital en Europa: mercados del oeste, este, sur y norte. Equipos nativos por país, una estrategia conforme a la UE y un solo informe.",
+      "menu": "Unión Europea",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 M",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "inglés",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "spain",
+      "url": "/countries/spain",
+      "title": "Agencia de Marketing Digital en España",
+      "description": "Agencia de marketing digital en España para marcas internacionales: servicios productizados con expertos nativos de español de España. Empieza aquí.",
+      "menu": "España",
+      "featured": false,
+      "flag": "🇪🇸",
+      "population_total": "47.3 M",
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "español",
+      "dominant_language_code": "es",
+      "scope_count": 7,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "spanish",
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Marketing en buscadores",
+      "community-marketing": "Marketing de comunidad",
+      "app-marketing": "Marketing de apps"
+    },
+    "scopes": {
+      "technical-seo": "SEO técnico",
+      "seo-research": "Keyword research",
+      "aso-optimization": "Posicionamiento de apps",
+      "aso-localization": "Localización ASO",
+      "content-strategy": "Estrategia de contenidos",
+      "google-ads-search": "Búsqueda en Google Ads",
+      "ppc-audit": "Auditoría SEM"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consultoría de marketing digital",
+      "multilingual-seo": "SEO internacional"
+    },
+    "services": {
+      "content": "Marketing de contenidos",
+      "social-media": "Redes sociales",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "ecommerce": "Ecommerce",
+      "saas": "SaaS",
+      "fintech": "Sector fintech"
+    },
+    "languages": {
+      "english": "Inglés",
+      "spanish": "Español"
+    },
+    "positions": {
+      "seo-expert": "Especialista SEO",
+      "aso-specialist": "ASO manager",
+      "ppc-specialist": "Especialista SEM"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Cómo la IA elige sus fuentes",
+      "seo-packages-comparison": "Comparativa de paquetes SEO",
+      "why-seo-matters-in-2026": "Para qué sirve el SEO"
+    }
+  }
+}

@@ -55,9 +55,13 @@
         var dropdownRect;
         var top;
         var left;
+        var anchorLeft;
 
         dropdown.style.top = '0px';
         dropdown.style.left = '0px';
+        // RTL layouts anchor the dropdown with `right` in CSS; clear it so the
+        // inline `left` below is the only horizontal anchor (no stretched box).
+        dropdown.style.right = 'auto';
         dropdown.style.bottom = 'auto';
         dropdown.style.maxHeight = maxViewportHeight + 'px';
 
@@ -85,7 +89,9 @@
         }
 
         top = Math.max(viewportGap, Math.min(top, window.innerHeight - dropdownRect.height - viewportGap));
-        left = Math.max(viewportGap, Math.min(rect.left, window.innerWidth - naturalWidth - viewportGap));
+        // RTL: align the dropdown's trailing (right) edge with the trigger's.
+        anchorLeft = document.documentElement.dir === 'rtl' ? (rect.right - naturalWidth) : rect.left;
+        left = Math.max(viewportGap, Math.min(anchorLeft, window.innerWidth - naturalWidth - viewportGap));
 
         dropdown.style.left = left + 'px';
         dropdown.style.top = top + 'px';

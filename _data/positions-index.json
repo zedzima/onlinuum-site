@@ -651,6 +651,7 @@
           "brazil",
           "bulgaria",
           "canada",
+          "china",
           "croatia",
           "cyprus",
           "czechia",
@@ -663,6 +664,7 @@
           "india",
           "indonesia",
           "ireland",
+          "israel",
           "italy",
           "japan",
           "latvia",
@@ -677,11 +679,14 @@
           "singapore",
           "slovakia",
           "slovenia",
+          "south-korea",
           "sweden",
           "switzerland",
+          "taiwan",
           "thailand",
           "turkey",
-          "uae"
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
@@ -702,9 +707,11 @@
           "estonian",
           "finnish",
           "greek",
+          "hebrew",
           "hindi",
           "hungarian",
           "italian",
+          "korean",
           "lithuanian",
           "malay",
           "romanian",
@@ -712,7 +719,8 @@
           "slovenian",
           "swedish",
           "thai",
-          "turkish"
+          "turkish",
+          "ukrainian"
         ],
         "blog-posts": [
           "seo-packages-comparison"
@@ -861,6 +869,7 @@
       "belgium": "Belgium",
       "bulgaria": "Bulgaria",
       "canada": "Canada",
+      "china": "China",
       "croatia": "Croatia",
       "cyprus": "Cyprus",
       "czechia": "Czechia",
@@ -871,6 +880,7 @@
       "greece": "Greece",
       "hungary": "Hungary",
       "ireland": "Ireland",
+      "israel": "Israel",
       "latvia": "Latvia",
       "lithuania": "Lithuania",
       "luxembourg": "Luxembourg",
@@ -879,7 +889,10 @@
       "romania": "Romania",
       "slovakia": "Slovakia",
       "slovenia": "Slovenia",
-      "switzerland": "Switzerland"
+      "south-korea": "South Korea",
+      "switzerland": "Switzerland",
+      "taiwan": "Taiwan",
+      "ukraine": "Ukraine"
     },
     "languages": {
       "english": "English",
@@ -905,14 +918,17 @@
       "estonian": "Estonian",
       "finnish": "Finnish",
       "greek": "Greek",
+      "hebrew": "Hebrew",
       "hindi": "Hindi",
       "hungarian": "Hungarian",
+      "korean": "Korean",
       "lithuanian": "Lithuanian",
       "malay": "Malay",
       "romanian": "Romanian",
       "slovak": "Slovak",
       "slovenian": "Slovenian",
-      "thai": "Thai"
+      "thai": "Thai",
+      "ukrainian": "Ukrainian"
     },
     "blog-posts": {
       "seo-packages-comparison": "SEO Packages Compared"

@@ -1,0 +1,165 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "Consultoría de Marketing Digital con Expertos",
+      "description": "Consultoría de marketing digital para marcas internacionales y B2B: consultores senior, proyectos productizados y una hoja de ruta en 48 horas.",
+      "menu": "Consultoría de marketing digital",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "spain",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "SEO Internacional: Posicionamiento en 15+ Idiomas",
+      "description": "SEO internacional para marcas que atienden un mercado en varios idiomas: keyword research nativo, arquitectura hreflang y control de calidad.",
+      "menu": "SEO internacional",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "spain",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Marketing en buscadores",
+      "community-marketing": "Marketing de comunidad",
+      "app-marketing": "Marketing de apps"
+    },
+    "scopes": {
+      "seo-research": "Keyword research",
+      "technical-seo": "SEO técnico",
+      "aso-optimization": "Posicionamiento de apps",
+      "aso-localization": "Localización ASO",
+      "content-strategy": "Estrategia de contenidos",
+      "google-ads-search": "Búsqueda en Google Ads",
+      "ppc-audit": "Auditoría SEM",
+      "telegram-ads": "Telegram Ads"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "services": {
+      "content": "Marketing de contenidos",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "Ecommerce",
+      "fintech": "Sector fintech"
+    },
+    "countries": {
+      "spain": "España",
+      "eu": "Unión Europea"
+    },
+    "languages": {
+      "english": "Inglés",
+      "spanish": "Español"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Cómo la IA elige sus fuentes",
+      "seo-packages-comparison": "Comparativa de paquetes SEO",
+      "why-seo-matters-in-2026": "Para qué sirve el SEO"
+    },
+    "positions": {
+      "seo-expert": "Especialista SEO",
+      "aso-specialist": "ASO manager",
+      "ppc-specialist": "Especialista SEM"
+    }
+  }
+}

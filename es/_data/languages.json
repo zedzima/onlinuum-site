@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "english",
+    "url": "/languages/english",
+    "title": "Marketing en Inglés con Expertos Nativos",
+    "description": "Marketing en inglés para marcas que entran en Estados Unidos, Reino Unido y mercados globales: expertos nativos y entrega productizada.",
+    "lang": "es",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": null,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "language",
+    "reading_time": null
+  },
+  {
+    "slug": "spanish",
+    "url": "/languages/spanish",
+    "title": "Marketing en Español con Expertos Nativos",
+    "description": "Marketing en español para marcas que entran en España, Latinoamérica y el mercado hispano de EE. UU.: expertos nativos de cada variante.",
+    "lang": "es",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": null,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "language",
+    "reading_time": null
+  }
+]
