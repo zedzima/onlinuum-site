@@ -153,7 +153,7 @@
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
-      "industry_count": 1,
+      "industry_count": 2,
       "country_count": 2,
       "language_count": 1,
       "domains": [
@@ -323,7 +323,7 @@
       "expert_count": 3,
       "starting_price": 600.0,
       "from_price": 600.0,
-      "industry_count": 4,
+      "industry_count": 5,
       "country_count": 8,
       "language_count": 7,
       "domains": [
@@ -356,8 +356,8 @@
           "fintech",
           "ecommerce",
           "healthcare",
-          "crypto",
           "game-studios",
+          "crypto",
           "hospitality",
           "pharma",
           "retail"
@@ -438,7 +438,7 @@
       "expert_count": 3,
       "starting_price": 400.0,
       "from_price": 400.0,
-      "industry_count": 4,
+      "industry_count": 5,
       "country_count": 8,
       "language_count": 7,
       "domains": [
@@ -472,8 +472,8 @@
           "fintech",
           "ecommerce",
           "healthcare",
-          "crypto",
           "game-studios",
+          "crypto",
           "hospitality",
           "pharma",
           "retail"
@@ -556,7 +556,7 @@
       "expert_count": 4,
       "starting_price": 500.0,
       "from_price": 500.0,
-      "industry_count": 4,
+      "industry_count": 5,
       "country_count": 8,
       "language_count": 7,
       "domains": [
@@ -590,8 +590,8 @@
           "fintech",
           "ecommerce",
           "healthcare",
-          "crypto",
           "game-studios",
+          "crypto",
           "hospitality",
           "pharma",
           "retail"
@@ -1150,7 +1150,7 @@
       "expert_count": 1,
       "starting_price": 600.0,
       "from_price": 600.0,
-      "industry_count": 1,
+      "industry_count": 2,
       "country_count": 4,
       "language_count": 3,
       "domains": [
@@ -1619,7 +1619,7 @@
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
-      "industry_count": 5,
+      "industry_count": 7,
       "country_count": 3,
       "language_count": 2,
       "domains": [
@@ -1878,7 +1878,7 @@
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
-      "industry_count": 3,
+      "industry_count": 5,
       "country_count": 3,
       "language_count": 3,
       "domains": [
@@ -1906,8 +1906,8 @@
           "saas",
           "automotive",
           "crypto",
-          "fmcg",
           "game-studios",
+          "fmcg",
           "hospitality",
           "retail"
         ],
