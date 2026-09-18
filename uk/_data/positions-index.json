@@ -1,0 +1,353 @@
+{
+  "positions": [
+    {
+      "slug": "aso-specialist",
+      "url": "/positions/aso-specialist",
+      "title": "ASO спеціаліст",
+      "description": "Віддалена вакансія ASO спеціаліста: оптимізація сторінок у магазинах додатків, 40 % від виручки, робота кількома мовами. Подавайтеся сьогодні.",
+      "menu": "ASO спеціаліст",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Ми активно додаємо ASO спеціалістів до мережі експертів",
+        "badge_active": "Активно наймаємо на відкриті модулі",
+        "apply_label": "Подати заявку / представитися",
+        "label_service": "Основна послуга",
+        "label_countries": "Пріоритетні ринки",
+        "label_languages": "Робочі мови",
+        "label_industries": "Пріоритетні галузі",
+        "label_experience": "Рівень",
+        "label_engagement": "Формат співпраці",
+        "label_commitment": "Зайнятість",
+        "engagement_type": "Проєктно / часткова зайнятість",
+        "working_hours": "10-25 годин на тиждень залежно від активних модулів",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Німеччина",
+          "Велика Британія",
+          "США",
+          "Франція",
+          "Польща"
+        ],
+        "date_posted": "2026-04-08",
+        "direct_apply": true,
+        "identifier": "onlinuum-aso-specialist",
+        "experience_requirements": "Від 2 років практичної роботи в ASO: підбір ключових слів, оптимізація метаданих і A/B тестування.",
+        "education_requirements": "без вимог"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "aso",
+        "app-user-acquisition",
+        "app-conversion-retention"
+      ],
+      "scopes": [
+        "aso-optimization",
+        "aso-localization",
+        "app-store-cro",
+        "apple-search-ads"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "austria",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese"
+      ]
+    },
+    {
+      "slug": "ppc-specialist",
+      "url": "/positions/ppc-specialist",
+      "title": "PPC спеціаліст: вакансії",
+      "description": "Віддалені PPC вакансії в Onlinuum: пошукова реклама, Shopping і YouTube Ads на 6 пріоритетних ринках, 40 % від виручки. Подавайтеся сьогодні.",
+      "menu": "PPC спеціаліст",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Ми активно додаємо PPC спеціалістів до мережі експертів",
+        "badge_active": "Активно наймаємо на відкриті модулі",
+        "apply_label": "Подати заявку / представитися",
+        "label_service": "Основна послуга",
+        "label_countries": "Пріоритетні ринки",
+        "label_languages": "Робочі мови",
+        "label_industries": "Пріоритетні галузі",
+        "label_experience": "Рівень",
+        "label_engagement": "Формат співпраці",
+        "label_commitment": "Зайнятість",
+        "engagement_type": "Проєктно / часткова зайнятість",
+        "working_hours": "10-25 годин на тиждень залежно від активних модулів",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "США",
+          "Велика Британія",
+          "Німеччина",
+          "Франція",
+          "Польща"
+        ],
+        "date_posted": "2026-04-12",
+        "direct_apply": true,
+        "identifier": "onlinuum-ppc-specialist",
+        "experience_requirements": "Від 2 років практичного ведення PPC у Google Ads і щонайменше в одному додатковому модулі.",
+        "education_requirements": "без вимог"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "ppc"
+      ],
+      "scopes": [
+        "ppc-audit",
+        "google-ads-search",
+        "microsoft-ads",
+        "google-shopping",
+        "remarketing-display",
+        "youtube-ads",
+        "local-services-ads"
+      ],
+      "countries": [
+        "usa",
+        "uk",
+        "germany",
+        "france",
+        "poland",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish"
+      ]
+    },
+    {
+      "slug": "seo-expert",
+      "url": "/positions/seo-expert",
+      "title": "SEO спеціаліст: вакансії",
+      "description": "Віддалені SEO вакансії в Onlinuum: технічні аудити та on-page на реальних проєктах, 40 % від виручки замість ставки. Подавайтеся сьогодні.",
+      "menu": "SEO спеціаліст",
+      "featured": false,
+      "expert_count": 1,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Ми активно додаємо SEO спеціалістів до мережі експертів",
+        "badge_active": "Активно наймаємо на відкриті модулі",
+        "apply_label": "Подати заявку / представитися",
+        "label_service": "Основна послуга",
+        "label_countries": "Пріоритетні ринки",
+        "label_languages": "Робочі мови",
+        "label_industries": "Пріоритетні галузі",
+        "label_experience": "Рівень",
+        "label_engagement": "Формат співпраці",
+        "label_commitment": "Зайнятість",
+        "engagement_type": "Проєктно / часткова зайнятість",
+        "working_hours": "10-30 годин на тиждень залежно від активних модулів",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Німеччина",
+          "Австрія",
+          "Велика Британія",
+          "Франція",
+          "США"
+        ],
+        "date_posted": "2026-03-31",
+        "direct_apply": true,
+        "identifier": "onlinuum-seo-expert",
+        "experience_requirements": "Від 5 років практичної роботи в технічному, on-page або міжнародному SEO.",
+        "education_requirements": "без вимог"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "ukrainian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ]
+      },
+      "services": [
+        "seo"
+      ],
+      "scopes": [
+        "technical-seo",
+        "seo-research",
+        "on-page-seo",
+        "link-building",
+        "cross-market-setup",
+        "ai-optimisation",
+        "local-seo"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "uk",
+        "france",
+        "usa",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese",
+        "chinese",
+        "japanese"
+      ]
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Маркетинг додатків",
+      "search-marketing": "Пошуковий маркетинг"
+    },
+    "scopes": {
+      "aso-optimization": "ASO-оптимізація",
+      "aso-localization": "ASO-локалізація",
+      "ppc-audit": "Аудит Google Ads",
+      "google-ads-search": "Пошук у Google Ads",
+      "telegram-ads": "Реклама в Telegram",
+      "technical-seo": "Технічне SEO",
+      "seo-research": "SEO-дослідження",
+      "content-strategy": "Контент-стратегія"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "multilingual-seo": "Багатомовне SEO"
+    },
+    "services": {
+      "aso": "ASO",
+      "ppc": "PPC",
+      "seo": "SEO"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Фінтех",
+      "ecommerce": "Інтернет-магазини"
+    },
+    "languages": {
+      "english": "Англійська",
+      "ukrainian": "Українська"
+    },
+    "experts": {
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу"
+    },
+    "countries": {
+      "eu": "Європейський Союз",
+      "ukraine": "Україна"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "Порівняння пакетів SEO"
+    }
+  }
+}

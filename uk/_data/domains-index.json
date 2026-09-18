@@ -1,0 +1,210 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "Мобільний маркетинг: просування додатків",
+      "description": "Продуктизований мобільний маркетинг: ASO, user acquisition, конверсія сторінки в сторі та утримання для iOS і Android. Дивіться, що входить.",
+      "menu": "Маркетинг додатків",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "Інфлюенс маркетинг і робота зі спільнотою",
+      "description": "Інфлюенс маркетинг, контент, відео та email, які будують довіру, лояльність клієнтів і органічне зростання аудиторії. Дізнайтеся більше.",
+      "menu": "Ком’юніті-маркетинг",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "Пошукове просування: SEO, AEO та платний пошук",
+      "description": "Багатомовне пошукове просування: SEO, AEO та пошукова реклама. Ключові слова й оголошення рідною мовою для кожного ринку, спільний рівень вимірювання.",
+      "menu": "Пошуковий маркетинг",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "ASO-оптимізація",
+      "aso-localization": "ASO-локалізація",
+      "seo-research": "SEO-дослідження",
+      "content-strategy": "Контент-стратегія",
+      "technical-seo": "Технічне SEO",
+      "ppc-audit": "Аудит Google Ads",
+      "google-ads-search": "Пошук у Google Ads",
+      "content-writing": "Написання текстів"
+    },
+    "experts": {
+      "dima-gerko": "Діма Герко",
+      "vitali-bakun": "Віталій Бакун",
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "multilingual-seo": "Багатомовне SEO"
+    },
+    "services": {
+      "aso": "ASO",
+      "social-media": "Соціальні мережі",
+      "content": "Контент-маркетинг",
+      "seo": "SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Фінтех",
+      "ecommerce": "Інтернет-магазини"
+    },
+    "countries": {
+      "eu": "Європейський Союз",
+      "ukraine": "Україна"
+    },
+    "languages": {
+      "english": "Англійська"
+    },
+    "positions": {
+      "aso-specialist": "ASO спеціаліст",
+      "seo-expert": "SEO спеціаліст",
+      "ppc-specialist": "PPC спеціаліст"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "Міграція інтернет-магазину",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Як ШІ обирає джерела",
+      "seo-packages-comparison": "Порівняння пакетів SEO",
+      "why-seo-matters-in-2026": "Що таке SEO"
+    }
+  }
+}

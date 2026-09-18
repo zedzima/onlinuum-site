@@ -1,0 +1,170 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "Європейський ринок: маркетинг для експорту в ЄС",
+      "description": "Маркетинг у Європі: Західні, Східні, Південні та Північні ринки. Команди носіїв у кожній країні, одна стратегія за правилами ЄС, один звіт.",
+      "menu": "Європейський Союз",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 млн",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "англійська",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "ukraine",
+      "url": "/countries/ukraine",
+      "title": "Просування сайту Київ: маркетинг в Україні",
+      "description": "Маркетинг в Україні для міжнародних брендів: просування сайту в Києві, реклама і контент українською силами носіїв мови. Почати.",
+      "menu": "Україна",
+      "featured": false,
+      "flag": "🇺🇦",
+      "population_total": "35.7 млн",
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "українська",
+      "dominant_language_code": "uk",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "ukrainian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Пошуковий маркетинг",
+      "community-marketing": "Ком’юніті-маркетинг",
+      "app-marketing": "Маркетинг додатків"
+    },
+    "scopes": {
+      "technical-seo": "Технічне SEO",
+      "seo-research": "SEO-дослідження",
+      "aso-optimization": "ASO-оптимізація",
+      "aso-localization": "ASO-локалізація"
+    },
+    "experts": {
+      "dima-gerko": "Діма Герко",
+      "vitali-bakun": "Віталій Бакун",
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "multilingual-seo": "Багатомовне SEO"
+    },
+    "services": {
+      "content": "Контент-маркетинг",
+      "social-media": "Соціальні мережі",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "ecommerce": "Інтернет-магазини",
+      "saas": "SaaS",
+      "fintech": "Фінтех"
+    },
+    "languages": {
+      "english": "Англійська",
+      "ukrainian": "Українська"
+    },
+    "positions": {
+      "seo-expert": "SEO спеціаліст"
+    }
+  }
+}

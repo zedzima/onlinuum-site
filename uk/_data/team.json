@@ -1,0 +1,254 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "Алааддін Сараджякупоглу",
+      "description": "SEO фахівець на віддаленій роботі: 5+ років технічних аудитів, семантики та AEO/GEO для B2B, SaaS і електронної комерції. Напишіть Алааддіну.",
+      "role": "SEO фахівець",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "Діма Герко",
+      "description": "15+ років у digital маркетингу, SEO та локалізації. SEO консультант масштабованих багатомовних систем зростання. Сертифікований Google Partner.",
+      "role": "SEO консультант, архітектор глобального зростання",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "Віталій Бакун",
+      "description": "10+ років ведення платної реклами в Google Ads, Meta, LinkedIn і Bing. PPC спеціаліст: крос-платформна стратегія для B2B, SaaS і мобільних додатків.",
+      "role": "Спеціаліст з контекстної реклами та платних медіа",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Пошуковий маркетинг",
+      "community-marketing": "Ком’юніті-маркетинг",
+      "app-marketing": "Маркетинг додатків"
+    },
+    "scopes": {
+      "seo-research": "SEO-дослідження",
+      "technical-seo": "Технічне SEO",
+      "aso-localization": "ASO-локалізація",
+      "aso-optimization": "ASO-оптимізація",
+      "content-strategy": "Контент-стратегія",
+      "ppc-audit": "Аудит Google Ads",
+      "google-ads-search": "Пошук у Google Ads"
+    },
+    "services": {
+      "content": "Контент-маркетинг",
+      "seo": "SEO",
+      "ppc": "PPC",
+      "aso": "ASO"
+    },
+    "industries": {
+      "ecommerce": "Інтернет-магазини",
+      "saas": "SaaS",
+      "fintech": "Фінтех"
+    },
+    "countries": {
+      "eu": "Європейський Союз",
+      "ukraine": "Україна"
+    },
+    "languages": {
+      "english": "Англійська"
+    },
+    "positions": {
+      "seo-expert": "SEO спеціаліст"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "Міграція інтернет-магазину",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "multilingual-seo": "Багатомовне SEO"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Як ШІ обирає джерела",
+      "seo-packages-comparison": "Порівняння пакетів SEO",
+      "why-seo-matters-in-2026": "Що таке SEO"
+    }
+  }
+}

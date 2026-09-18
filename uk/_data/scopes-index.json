@@ -1,0 +1,461 @@
+{
+  "scopes": [
+    {
+      "slug": "aso-localization",
+      "url": "/scopes/aso-localization",
+      "title": "Локалізація ігор і додатків для нових ринків",
+      "description": "Локалізація ігор і додатків: підбір ключових слів рідною мовою та метадані для кожного ринку, без машинного перекладу. Від $300. Дивіться ціни.",
+      "menu": "ASO-локалізація",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "aso-optimization",
+      "url": "/scopes/aso-optimization",
+      "title": "App Store Optimization: оптимізація сторінки",
+      "description": "App Store Optimization: підбір ключових слів, метадані та аналіз конкурентів для iOS і Android. Від $300. Дивіться ціни.",
+      "menu": "ASO-оптимізація",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-strategy",
+      "url": "/scopes/content-strategy",
+      "title": "Контент-стратегія і контент план для сайту",
+      "description": "Контент-стратегія починається з аудиту контенту сайту: рішення для кожної сторінки, контент план на 12 місяців, відповідальні. Від $500.",
+      "menu": "Контент-стратегія",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-writing",
+      "url": "/scopes/content-writing",
+      "title": "SEO тексти та написання статей на замовлення",
+      "description": "SEO тексти з ціною за матеріал: статті в блог, опорні сторінки, кейси, white paper. Написання статей від $500 на місяць. Дивіться ціни.",
+      "menu": "Написання текстів",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "google-ads-search",
+      "url": "/scopes/google-ads-search",
+      "title": "Реклама в гугл: ведення пошукових кампаній",
+      "description": "Ведення пошукових кампаній Google Ads: структура, карта запитів, мінус-слова, тести оголошень і ставки. Від $400/міс. Дивіться ціни.",
+      "menu": "Пошук у Google Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "ppc-audit",
+      "url": "/scopes/ppc-audit",
+      "title": "Аудит Google Ads: пошук втрат бюджету",
+      "description": "Аудит Google Ads: розбір акаунта, аналіз злитого бюджету, перевірка відстеження конверсій і дорожня карта зростання. Від $300. Дивіться ціни.",
+      "menu": "Аудит Google Ads",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "seo-research",
+      "url": "/scopes/seo-research",
+      "title": "Семантичне ядро та аналіз конкурентів",
+      "description": "Семантичне ядро, прив’язка запитів до сторінок, аналіз конкурентів і перевірка пошукового попиту. Від $300. Дивіться ціни.",
+      "menu": "SEO-дослідження",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "technical-seo",
+      "url": "/scopes/technical-seo",
+      "title": "SEO аудит сайту: технічна оптимізація",
+      "description": "SEO аудит сайту: сканування, індексація, Core Web Vitals, мікророзмітка та підтримка міграцій. Технічний аудит від $500. Дивіться ціни.",
+      "menu": "Технічне SEO",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 2
+    },
+    {
+      "slug": "telegram-ads",
+      "url": "/scopes/telegram-ads",
+      "title": "Реклама в Телеграм: офіційні Telegram Ads",
+      "description": "Ведення офіційних Telegram Ads: таргетинг за контекстом каналів, супровід модерації та вимірювання з CRM. Від $400/міс. Дивіться ціни.",
+      "menu": "Реклама в Telegram",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 1,
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Маркетинг додатків",
+      "search-marketing": "Пошуковий маркетинг",
+      "community-marketing": "Ком’юніті-маркетинг"
+    },
+    "experts": {
+      "dima-gerko": "Діма Герко",
+      "vitali-bakun": "Віталій Бакун",
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "multilingual-seo": "Багатомовне SEO"
+    },
+    "services": {
+      "aso": "ASO",
+      "content": "Контент-маркетинг",
+      "seo": "SEO",
+      "social-media": "Соціальні мережі",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Фінтех",
+      "ecommerce": "Інтернет-магазини"
+    },
+    "countries": {
+      "eu": "Європейський Союз",
+      "ukraine": "Україна"
+    },
+    "languages": {
+      "english": "Англійська"
+    },
+    "positions": {
+      "aso-specialist": "ASO спеціаліст",
+      "seo-expert": "SEO спеціаліст",
+      "ppc-specialist": "PPC спеціаліст"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "ecommerce-migration-2025": "Міграція інтернет-магазину"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "Порівняння пакетів SEO",
+      "why-seo-matters-in-2026": "Що таке SEO"
+    }
+  }
+}

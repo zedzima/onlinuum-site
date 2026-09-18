@@ -1,0 +1,260 @@
+{
+  "industries": [
+    {
+      "slug": "ecommerce",
+      "url": "/industries/ecommerce",
+      "title": "Просування інтернет магазину: SEO і реклама",
+      "description": "Просування інтернет магазину для роздрібних брендів: SEO, товарні фіди, кампанії Shopping і багатомовне виконання. Дивіться, як це працює.",
+      "menu": "Інтернет-магазини",
+      "featured": false,
+      "icon": "ecommerce",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "fintech",
+      "url": "/industries/fintech",
+      "title": "Фінансовий маркетинг: реклама фінансових послуг",
+      "description": "Фінансовий маркетинг для необанків, платіжних сервісів та іншуртеху: SEO, PR і багатомовне зростання за правилами регуляторів.",
+      "menu": "Фінтех",
+      "featured": false,
+      "icon": "fintech",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "saas",
+      "url": "/industries/saas",
+      "title": "SaaS маркетинг: лідогенерація для B2B",
+      "description": "SaaS маркетинг для B2B-продуктів: SEO, лідогенерація та багатомовні кампанії, які знижують CAC і нарощують MRR. Залиште заявку.",
+      "menu": "SaaS",
+      "featured": false,
+      "icon": "monitor",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "ukraine"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Пошуковий маркетинг",
+      "community-marketing": "Ком’юніті-маркетинг",
+      "app-marketing": "Маркетинг додатків"
+    },
+    "scopes": {
+      "seo-research": "SEO-дослідження",
+      "technical-seo": "Технічне SEO",
+      "aso-optimization": "ASO-оптимізація",
+      "aso-localization": "ASO-локалізація",
+      "content-strategy": "Контент-стратегія",
+      "content-writing": "Написання текстів",
+      "google-ads-search": "Пошук у Google Ads",
+      "ppc-audit": "Аудит Google Ads",
+      "telegram-ads": "Реклама в Telegram"
+    },
+    "experts": {
+      "dima-gerko": "Діма Герко",
+      "vitali-bakun": "Віталій Бакун",
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "Міграція інтернет-магазину",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "multilingual-seo": "Багатомовне SEO"
+    },
+    "services": {
+      "content": "Контент-маркетинг",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "PPC",
+      "social-media": "Соціальні мережі"
+    },
+    "countries": {
+      "eu": "Європейський Союз",
+      "ukraine": "Україна"
+    },
+    "languages": {
+      "english": "Англійська"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Як ШІ обирає джерела",
+      "seo-packages-comparison": "Порівняння пакетів SEO",
+      "why-seo-matters-in-2026": "Що таке SEO"
+    },
+    "positions": {
+      "seo-expert": "SEO спеціаліст",
+      "aso-specialist": "ASO спеціаліст",
+      "ppc-specialist": "PPC спеціаліст"
+    }
+  }
+}
