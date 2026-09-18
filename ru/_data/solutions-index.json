@@ -10,7 +10,7 @@
       "scope": "ai-optimisation",
       "industry": "ecommerce",
       "starting_price": 500.0,
-      "expert_count": 3,
+      "expert_count": 4,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -28,7 +28,8 @@
         "experts": [
           "anastasiya-antoniuk",
           "dima-gerko",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "gael-balouek"
         ],
         "services": [
           "aeo",
@@ -316,7 +317,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -361,7 +362,8 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
-          "aldillah-melisa-febryana"
+          "aldillah-melisa-febryana",
+          "gael-balouek"
         ],
         "services": [
           "analytics",
@@ -997,7 +999,7 @@
       "scope": "technical-seo",
       "industry": "ecommerce",
       "starting_price": null,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -1023,6 +1025,7 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
+          "gael-balouek",
           "valentina-soldatkina"
         ],
         "services": [
@@ -1142,7 +1145,7 @@
       "scope": "technical-seo",
       "industry": "ecommerce",
       "starting_price": null,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -1171,6 +1174,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "gael-balouek",
           "rita-pavide"
         ],
         "services": [
@@ -1468,7 +1472,7 @@
       "scope": "seo-audit",
       "industry": "ecommerce",
       "starting_price": 1990.0,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 1,
       "facets": {
         "domains": [
@@ -1490,7 +1494,8 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
-          "alaaddin-saracyakupoglu"
+          "alaaddin-saracyakupoglu",
+          "gael-balouek"
         ],
         "cases": [
           "ecommerce-migration-2025"
@@ -1651,6 +1656,7 @@
       "anastasiya-antoniuk": "Анастасия Антонюк",
       "dima-gerko": "Дима Герко",
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
+      "gael-balouek": "Гаэль Балуэк",
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",

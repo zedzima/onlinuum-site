@@ -10,7 +10,7 @@
       "rating": 4.9,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -25,6 +25,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "gael-balouek",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -1100,7 +1101,7 @@
       "rating": 4.9,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1114,6 +1115,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "gael-balouek",
           "alaaddin-saracyakupoglu",
           "elena-grakovich",
           "valentina-soldatkina"
@@ -1891,7 +1893,7 @@
       "rating": 4.9,
       "from_price": 250,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1909,6 +1911,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "gael-balouek",
           "alaaddin-saracyakupoglu",
           "rita-pavide"
         ],
@@ -2306,7 +2309,7 @@
       "featured": true,
       "from_price": 1190,
       "delivery": "one-time",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2319,7 +2322,8 @@
         "experts": [
           "anastasiya-antoniuk",
           "dima-gerko",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "gael-balouek"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -2392,7 +2396,7 @@
       "rating": 4.9,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2411,6 +2415,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "gael-balouek",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
         ],
@@ -2544,7 +2549,7 @@
       "rating": 4.9,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2558,6 +2563,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "gael-balouek",
           "alaaddin-saracyakupoglu"
         ],
         "cases": [
@@ -3227,6 +3233,7 @@
       "anastasiya-antoniuk": "Анастасия Антонюк",
       "dima-gerko": "Дима Герко",
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
+      "gael-balouek": "Гаэль Балуэк",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "mariia-nedbaievska": "Мария Недбаевская",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",

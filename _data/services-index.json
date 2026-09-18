@@ -8,7 +8,7 @@
       "menu": "AEO",
       "featured": true,
       "scope_count": 5,
-      "expert_count": 4,
+      "expert_count": 5,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 7,
@@ -36,7 +36,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "alaaddin-saracyakupoglu"
+          "alaaddin-saracyakupoglu",
+          "gael-balouek"
         ],
         "solutions": [
           "ai-visibility",
@@ -193,7 +194,7 @@
       "menu": "Analytics & Data",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 6,
+      "expert_count": 7,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 7,
@@ -218,6 +219,7 @@
           "vitali-bakun",
           "alaaddin-saracyakupoglu",
           "dmitriy-razakhatsky",
+          "gael-balouek",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -935,7 +937,7 @@
       "menu": "CRO",
       "featured": false,
       "scope_count": 1,
-      "expert_count": 2,
+      "expert_count": 3,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 2,
@@ -959,6 +961,7 @@
         ],
         "experts": [
           "elena-grakovich",
+          "gael-balouek",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -1711,7 +1714,7 @@
       "menu": "SEO",
       "featured": true,
       "scope_count": 12,
-      "expert_count": 7,
+      "expert_count": 8,
       "starting_price": 1990.0,
       "from_price": 1990.0,
       "industry_count": 7,
@@ -1746,6 +1749,7 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "elena-grakovich",
+          "gael-balouek",
           "rita-pavide",
           "valentina-soldatkina"
         ],
@@ -2224,6 +2228,7 @@
       "dima-gerko": "Dima Gerko",
       "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "gael-balouek": "Gael Balouek",
       "elena-grakovich": "Elena Grakovich",
       "vitali-bakun": "Vitali Bakun",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
