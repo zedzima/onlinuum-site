@@ -188,8 +188,15 @@
 
     function mediaUrl(path) {
         var value = String(path || '');
+        if (!value || value.indexOf('_media/') === -1) return value;
+        // Shared media is copied once, to the site root. Translated pages carry
+        // <base href="/<lang>/">, so a path without a leading slash resolves under
+        // the language directory and 404s. Anchor every media path to the root.
+        if (!/^(?:https?:)?\/\//i.test(value) && !/^data:/i.test(value)) {
+            value = '/' + value.replace(/^\.\//, '').replace(/^\/+/, '');
+        }
         var version = mediaVersion();
-        if (!value || !version || value.indexOf('_media/') === -1) return value;
+        if (!version) return value;
         if (/[?&]v=/.test(value)) {
             return value.replace(/([?&])v=[^&#]*/g, '$1v=' + version);
         }
