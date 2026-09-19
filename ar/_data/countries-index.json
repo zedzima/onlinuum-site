@@ -1,0 +1,176 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "السوق الأوروبي: سيو وPPC بلغات كل دولة",
+      "description": "تسويق رقمي عبر أوروبا: الغرب والشرق والجنوب والشمال. فرق أصلية لكل دولة، واستراتيجية واحدة متوافقة مع أنظمة الاتحاد، وتقرير واحد.",
+      "menu": "الاتحاد الأوروبي",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 مليون",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "الإنجليزية",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "uae",
+      "url": "/countries/uae",
+      "title": "شركات التسويق في دبي والإمارات",
+      "description": "شركات التسويق في دبي للعلامات الدولية الداخلة إلى الإمارات: تنفيذ بالعربية والإنجليزية ونطاقات بسعر ثابت. احجزوا استشارة.",
+      "menu": "الإمارات",
+      "featured": false,
+      "flag": "🇦🇪",
+      "population_total": "10 مليون",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "العربية",
+      "dominant_language_code": "ar",
+      "scope_count": 6,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "ppc-audit",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "arabic",
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "التسويق عبر محركات البحث",
+      "community-marketing": "التسويق المجتمعي",
+      "app-marketing": "تسويق التطبيقات"
+    },
+    "scopes": {
+      "technical-seo": "السيو التقني",
+      "seo-research": "أبحاث السيو",
+      "aso-optimization": "تحسين ASO",
+      "aso-localization": "توطين ASO",
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "ppc-audit": "تدقيق PPC"
+    },
+    "experts": {
+      "dima-gerko": "ديما غيركو",
+      "vitali-bakun": "فيتالي باكون",
+      "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "multilingual-seo": "multilingual SEO"
+    },
+    "services": {
+      "content": "التسويق بالمحتوى",
+      "social-media": "وسائل التواصل الاجتماعي",
+      "aso": "تحسين متجر التطبيقات ASO",
+      "seo": "سيو SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "ecommerce": "التجارة الإلكترونية",
+      "saas": "SaaS",
+      "fintech": "التكنولوجيا المالية"
+    },
+    "languages": {
+      "english": "الإنجليزية",
+      "arabic": "العربية"
+    },
+    "positions": {
+      "seo-expert": "خبير SEO",
+      "ppc-specialist": "متخصص PPC"
+    }
+  }
+}

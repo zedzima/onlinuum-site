@@ -1,0 +1,473 @@
+{
+  "scopes": [
+    {
+      "slug": "aso-localization",
+      "url": "/scopes/aso-localization",
+      "title": "ASO Localization: ترجمة التطبيقات لكل سوق",
+      "description": "خدمات ASO Localization: ترجمة التطبيقات وبيانات المتجر ببحث كلمات بلغة كل سوق، بلا ترجمة آلية، من $300. اطلعوا على الأسعار.",
+      "menu": "توطين ASO",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "aso-optimization",
+      "url": "/scopes/aso-optimization",
+      "title": "ASO Optimization: الكلمات المفتاحية وبيانات التطبيق",
+      "description": "خدمات ASO Optimization: اختيار الكلمات المفتاحية وبيانات المتجر وتحليل المنافسين لرفع ترتيب التطبيق على iOS وAndroid، من $300.",
+      "menu": "تحسين ASO",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-strategy",
+      "url": "/scopes/content-strategy",
+      "title": "استراتيجية المحتوى وتدقيق محتوى الموقع",
+      "description": "استراتيجية المحتوى تبدأ بتدقيق محتوى الموقع: خطة تحريرية لـ12 شهرًا، وموضوعات ذات أولوية، ومسؤول بالاسم لكل بند. من $500. اطلعوا على الأسعار.",
+      "menu": "استراتيجية المحتوى",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-writing",
+      "url": "/scopes/content-writing",
+      "title": "كتابة المحتوى: مقالات المدونة والصفحات المحورية",
+      "description": "كتابة المحتوى بسعر لكل قطعة: مقالات مدونة وصفحات محورية ودراسات حالة وأوراق بيضاء. كتابة مقالات المدونة من $500. اطلعوا على أسعار المهام.",
+      "menu": "كتابة المحتوى",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "google-ads-search",
+      "url": "/scopes/google-ads-search",
+      "title": "إدارة إعلانات جوجل: حملات البحث المدفوعة",
+      "description": "إدارة إعلانات جوجل في البحث: بناء الحملات وخريطة الكلمات المفتاحية وضبط الكلمات السلبية وتحسين المزايدة. من $400 شهريًا. اطلعوا على الأسعار.",
+      "menu": "إعلانات جوجل للبحث",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "ppc-audit",
+      "url": "/scopes/ppc-audit",
+      "title": "PPC Audit: مراجعة الإنفاق والتتبع وفرص النمو",
+      "description": "PPC audit: مراجعة الحساب وتحليل الإنفاق المهدور والتحقق من التتبع وخارطة طريق للنمو، من $300. اطلعوا على الأسعار.",
+      "menu": "تدقيق PPC",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "seo-research",
+      "url": "/scopes/seo-research",
+      "title": "اختيار الكلمات المفتاحية واستراتيجية الطلب",
+      "description": "خدمات أبحاث السيو: اختيار الكلمات المفتاحية وربطها بالصفحات، وتحليل المنافسين، والتحقق من الطلب، من $300. اطلعوا على الأسعار.",
+      "menu": "أبحاث السيو",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "technical-seo",
+      "url": "/scopes/technical-seo",
+      "title": "السيو التقني: الفحص الفني وCore Web Vitals",
+      "description": "خدمات السيو التقني: الزحف والفهرسة وCore Web Vitals وschema markup ودعم ترحيل الموقع. فحص فني من $500. اطلعوا على الأسعار.",
+      "menu": "السيو التقني",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 2
+    },
+    {
+      "slug": "telegram-ads",
+      "url": "/scopes/telegram-ads",
+      "title": "Telegram Ads: الرسائل الممولة وإدارة الحملات",
+      "description": "إدارة telegram ads الرسمية: استهداف حسب سياق القنوات، ودعم في المراجعة، وقياس متصل بـCRM. من $400 شهريًا. اطلعوا على الأسعار.",
+      "menu": "إعلانات تليجرام",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 1,
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "تسويق التطبيقات",
+      "search-marketing": "التسويق عبر محركات البحث",
+      "community-marketing": "التسويق المجتمعي"
+    },
+    "experts": {
+      "dima-gerko": "ديما غيركو",
+      "vitali-bakun": "فيتالي باكون",
+      "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "multilingual-seo": "multilingual SEO"
+    },
+    "services": {
+      "aso": "تحسين متجر التطبيقات ASO",
+      "content": "التسويق بالمحتوى",
+      "seo": "سيو SEO",
+      "social-media": "وسائل التواصل الاجتماعي",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "التكنولوجيا المالية",
+      "ecommerce": "التجارة الإلكترونية"
+    },
+    "countries": {
+      "eu": "الاتحاد الأوروبي",
+      "uae": "الإمارات"
+    },
+    "languages": {
+      "english": "الإنجليزية",
+      "arabic": "العربية"
+    },
+    "positions": {
+      "aso-specialist": "متخصص ASO",
+      "seo-expert": "خبير SEO",
+      "ppc-specialist": "متخصص PPC"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "ecommerce-migration-2025": "ترحيل متجر إلكتروني"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "مقارنة باقات السيو",
+      "why-seo-matters-in-2026": "أهمية السيو في 2026"
+    }
+  }
+}

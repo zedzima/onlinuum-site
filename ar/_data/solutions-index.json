@@ -1,0 +1,165 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "استشارات تسويق رقمي من خبراء دون تكاليف ثابتة",
+      "description": "استشارات تسويق رقمي للعلامات الدولية وشركات B2B: مستشارون كبار، ومشاريع ذات نطاق محدد، وخارطة طريق خلال 48 ساعة. اطلبوا موجزا.",
+      "menu": "استشارات التسويق الرقمي",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "multilingual seo: خدمات SEO بأكثر من 15 لغة",
+      "description": "multilingual seo للعلامات التي تخدم سوقا واحدة بلغات كثيرة: بحث أصيل عن الكلمات المفتاحية، وبنية hreflang سليمة، وضبط جودة لكل لغة.",
+      "menu": "multilingual SEO",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "التسويق عبر محركات البحث",
+      "community-marketing": "التسويق المجتمعي",
+      "app-marketing": "تسويق التطبيقات"
+    },
+    "scopes": {
+      "seo-research": "أبحاث السيو",
+      "technical-seo": "السيو التقني",
+      "aso-optimization": "تحسين ASO",
+      "aso-localization": "توطين ASO",
+      "content-strategy": "استراتيجية المحتوى",
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "ppc-audit": "تدقيق PPC",
+      "telegram-ads": "إعلانات تليجرام"
+    },
+    "experts": {
+      "dima-gerko": "ديما غيركو",
+      "vitali-bakun": "فيتالي باكون"
+    },
+    "services": {
+      "content": "التسويق بالمحتوى",
+      "aso": "تحسين متجر التطبيقات ASO",
+      "seo": "سيو SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "التجارة الإلكترونية",
+      "fintech": "التكنولوجيا المالية"
+    },
+    "countries": {
+      "eu": "الاتحاد الأوروبي",
+      "uae": "الإمارات"
+    },
+    "languages": {
+      "english": "الإنجليزية",
+      "arabic": "العربية"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
+      "seo-packages-comparison": "مقارنة باقات السيو",
+      "why-seo-matters-in-2026": "أهمية السيو في 2026"
+    },
+    "positions": {
+      "seo-expert": "خبير SEO",
+      "aso-specialist": "متخصص ASO",
+      "ppc-specialist": "متخصص PPC"
+    }
+  }
+}

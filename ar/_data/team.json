@@ -1,0 +1,253 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "علاء الدين ساراتشياكوبوغلو",
+      "description": "خبير سيو عن بعد بخبرة 5+ سنوات في التدقيق التقني واختيار الكلمات المفتاحية و AEO/GEO لشركات B2B و SaaS والتجارة الإلكترونية.",
+      "role": "خبير سيو",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "ديما غيركو",
+      "description": "أكثر من 15 سنة في التسويق الرقمي والسيو وتوطين المحتوى. يصمم أنظمة نمو متعددة اللغات للعلامات الدولية. شريك معتمد لدى Google.",
+      "role": "استراتيجي تسويق ونمو عالمي",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "فيتالي باكون",
+      "description": "أكثر من 10 سنوات في إدارة الإعلانات الممولة عبر Google Ads و Meta و LinkedIn و Bing: استراتيجية PPC عبر المنصات لقطاعات B2B و SaaS والتطبيقات.",
+      "role": "خبير إعلانات جوجل والإعلانات الممولة",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "التسويق عبر محركات البحث",
+      "community-marketing": "التسويق المجتمعي",
+      "app-marketing": "تسويق التطبيقات"
+    },
+    "scopes": {
+      "seo-research": "أبحاث السيو",
+      "technical-seo": "السيو التقني",
+      "aso-localization": "توطين ASO",
+      "aso-optimization": "تحسين ASO",
+      "content-strategy": "استراتيجية المحتوى",
+      "ppc-audit": "تدقيق PPC",
+      "google-ads-search": "إعلانات جوجل للبحث"
+    },
+    "services": {
+      "content": "التسويق بالمحتوى",
+      "seo": "سيو SEO",
+      "ppc": "PPC",
+      "aso": "تحسين متجر التطبيقات ASO"
+    },
+    "industries": {
+      "ecommerce": "التجارة الإلكترونية",
+      "saas": "SaaS",
+      "fintech": "التكنولوجيا المالية"
+    },
+    "countries": {
+      "eu": "الاتحاد الأوروبي",
+      "uae": "الإمارات"
+    },
+    "languages": {
+      "english": "الإنجليزية"
+    },
+    "positions": {
+      "seo-expert": "خبير SEO"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "ترحيل متجر إلكتروني",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "multilingual-seo": "multilingual SEO"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
+      "seo-packages-comparison": "مقارنة باقات السيو",
+      "why-seo-matters-in-2026": "أهمية السيو في 2026"
+    }
+  }
+}

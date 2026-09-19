@@ -1,0 +1,203 @@
+{
+  "cases": [
+    {
+      "slug": "alvadi",
+      "url": "/cases/alvadi",
+      "title": "تسويق قطع غيار السيارات: نتائج إعلانات جوجل",
+      "card_title": "توسيع إعلانات جوجل بخمس لغات",
+      "description": "كيف وسّعت ALVADI حملات جوجل بخمس لغات في تجارة قطع غيار السيارات، لتصل إلى 2.4x في الإيرادات و2.2x في معدل التحويل.",
+      "menu": "ALVADI",
+      "featured": true,
+      "client": "ALVADI",
+      "image": "/_media/logos/alvadi.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "ecommerce",
+      "country": "eu",
+      "language": "",
+      "results": [
+        {
+          "value": "2.4x",
+          "label": "إيرادات إعلانات جوجل"
+        },
+        {
+          "value": "12",
+          "label": "شهرًا للمقارنة"
+        },
+        {
+          "value": "5",
+          "label": "لغات للحملات"
+        }
+      ],
+      "primary_result": {
+        "value": "2.4x",
+        "label": "إيرادات إعلانات جوجل"
+      },
+      "timeline": {
+        "value": "12",
+        "label": "شهرًا للمقارنة"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ]
+      }
+    },
+    {
+      "slug": "bamboo-ppc-landing-pages",
+      "url": "/cases/bamboo-ppc-landing-pages",
+      "title": "صفحة هبوط للإعلانات: نتائج عملاء B2B",
+      "card_title": "صفحات هبوط ديناميكية لحملات PPC",
+      "description": "كيف أطلقت Bamboo Group صفحات هبوط لعرض B2B متخصص، فبلغت معدل تحويل 4.22% وتكلفة تحويل $9.89 خلال أيام. اقرأوا دراسة الحالة.",
+      "menu": "Bamboo Group",
+      "featured": true,
+      "client": "Bamboo Group",
+      "image": "/_media/logos/bamboo-group.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "saas",
+      "country": "eu",
+      "language": "english",
+      "results": [
+        {
+          "value": "4.22%",
+          "label": "معدل التحويل الإجمالي"
+        },
+        {
+          "value": "يومان",
+          "label": "حتى أول التحويلات"
+        },
+        {
+          "value": "52",
+          "label": "صفحة هبوط بُنيت"
+        }
+      ],
+      "primary_result": {
+        "value": "4.22%",
+        "label": "معدل التحويل الإجمالي"
+      },
+      "timeline": {
+        "value": "يومان",
+        "label": "حتى أول التحويلات"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "ecommerce-migration-2025",
+      "url": "/cases/ecommerce-migration-2025",
+      "title": "زيادة زيارات الموقع 120% بعد ترحيل المتجر",
+      "card_title": "زيادة زيارات الموقع بعد ترحيل منصة المتجر",
+      "description": "كيف استعدنا 120% من الزيارات العضوية بعد ترحيل منصة التجارة الإلكترونية، عبر تدقيق تقني وخريطة إعادة توجيه. اقرأوا دراسة الحالة.",
+      "menu": "ترحيل متجر إلكتروني",
+      "featured": false,
+      "client": "متجر أزياء للتجزئة — ألمانيا",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "ecommerce",
+      "country": "germany",
+      "language": "german",
+      "results": [
+        {
+          "value": "120%",
+          "label": "استعادة الزيارات"
+        },
+        {
+          "value": "3 أشهر",
+          "label": "المدة الزمنية"
+        },
+        {
+          "value": "15,000",
+          "label": "رابط أُعيد توجيهه"
+        }
+      ],
+      "primary_result": {
+        "value": "120%",
+        "label": "استعادة الزيارات"
+      },
+      "timeline": {
+        "value": "3 أشهر",
+        "label": "المدة الزمنية"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "التسويق عبر محركات البحث"
+    },
+    "scopes": {
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "technical-seo": "السيو التقني"
+    },
+    "experts": {
+      "dima-gerko": "ديما غيركو",
+      "vitali-bakun": "فيتالي باكون"
+    },
+    "services": {
+      "ppc": "PPC",
+      "seo": "سيو SEO"
+    },
+    "industries": {
+      "ecommerce": "التجارة الإلكترونية",
+      "saas": "SaaS"
+    },
+    "countries": {
+      "eu": "الاتحاد الأوروبي"
+    },
+    "languages": {
+      "english": "الإنجليزية"
+    }
+  }
+}

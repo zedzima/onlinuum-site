@@ -1,0 +1,264 @@
+{
+  "industries": [
+    {
+      "slug": "ecommerce",
+      "url": "/industries/ecommerce",
+      "title": "تسويق المتاجر الإلكترونية: SEO وإعلانات مدفوعة",
+      "description": "وكالة تسويق المتاجر الإلكترونية للمتاجر وعلامات التجزئة: SEO وحملات Google Shopping وتنفيذ متعدد اللغات. تعرفوا على طريقة العمل.",
+      "menu": "التجارة الإلكترونية",
+      "featured": false,
+      "icon": "ecommerce",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "fintech",
+      "url": "/industries/fintech",
+      "title": "fintech marketing: SEO وعلاقات عامة ونمو",
+      "description": "وكالة fintech marketing للبنوك الرقمية والمدفوعات والتأمين التقني: SEO يراعي الامتثال، وعلاقات عامة، ونمو متعدد اللغات.",
+      "menu": "التكنولوجيا المالية",
+      "featured": false,
+      "icon": "fintech",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "saas",
+      "url": "/industries/saas",
+      "title": "التسويق B2B لشركات SaaS",
+      "description": "وكالة تسويق رقمي لبرمجيات B2B: SEO وتوليد الطلب وحملات متعددة اللغات تخفض CAC وتنمي MRR. اطلبوا موجزا.",
+      "menu": "SaaS",
+      "featured": false,
+      "icon": "monitor",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "التسويق عبر محركات البحث",
+      "community-marketing": "التسويق المجتمعي",
+      "app-marketing": "تسويق التطبيقات"
+    },
+    "scopes": {
+      "seo-research": "أبحاث السيو",
+      "technical-seo": "السيو التقني",
+      "aso-optimization": "تحسين ASO",
+      "aso-localization": "توطين ASO",
+      "content-strategy": "استراتيجية المحتوى",
+      "content-writing": "كتابة المحتوى",
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "ppc-audit": "تدقيق PPC",
+      "telegram-ads": "إعلانات تليجرام"
+    },
+    "experts": {
+      "dima-gerko": "ديما غيركو",
+      "vitali-bakun": "فيتالي باكون",
+      "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "ترحيل متجر إلكتروني",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "multilingual-seo": "multilingual SEO"
+    },
+    "services": {
+      "content": "التسويق بالمحتوى",
+      "aso": "تحسين متجر التطبيقات ASO",
+      "seo": "سيو SEO",
+      "ppc": "PPC",
+      "social-media": "وسائل التواصل الاجتماعي"
+    },
+    "countries": {
+      "eu": "الاتحاد الأوروبي",
+      "uae": "الإمارات"
+    },
+    "languages": {
+      "english": "الإنجليزية",
+      "arabic": "العربية"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
+      "seo-packages-comparison": "مقارنة باقات السيو",
+      "why-seo-matters-in-2026": "أهمية السيو في 2026"
+    },
+    "positions": {
+      "seo-expert": "خبير SEO",
+      "aso-specialist": "متخصص ASO",
+      "ppc-specialist": "متخصص PPC"
+    }
+  }
+}

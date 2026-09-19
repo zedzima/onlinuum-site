@@ -1,0 +1,212 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "تسويق التطبيقات: ASO واكتساب المستخدمين",
+      "description": "خدمات تسويق التطبيقات بنطاق محدد: ASO، واكتساب مستخدمين مدفوع، وتحسين صفحة المتجر، والاحتفاظ على iOS و Android بلغات متعددة. اطلعوا على التفاصيل.",
+      "menu": "تسويق التطبيقات",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "التسويق المجتمعي: بناء المجتمع وولاء العملاء",
+      "description": "خدمات التسويق المجتمعي عبر السوشيال ميديا والمحتوى والبريد الإلكتروني: ثقة تكتسب ونمو عضوي لجمهور يبقى ويتفاعل. اعرفوا المزيد.",
+      "menu": "التسويق المجتمعي",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "التسويق عبر محركات البحث: SEO و SEM والبحث المدفوع",
+      "description": "التسويق عبر محركات البحث بلغات متعددة: SEO و AEO و SEM وإعلانات البحث. اختيار كلمات مفتاحية ونصوص إعلانية بلغة كل سوق، وطبقة قياس واحدة للجميع.",
+      "menu": "التسويق عبر محركات البحث",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "تحسين ASO",
+      "aso-localization": "توطين ASO",
+      "seo-research": "أبحاث السيو",
+      "content-strategy": "استراتيجية المحتوى",
+      "technical-seo": "السيو التقني",
+      "ppc-audit": "تدقيق PPC",
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "content-writing": "كتابة المحتوى"
+    },
+    "experts": {
+      "dima-gerko": "ديما غيركو",
+      "vitali-bakun": "فيتالي باكون",
+      "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "multilingual-seo": "multilingual SEO"
+    },
+    "services": {
+      "aso": "تحسين متجر التطبيقات ASO",
+      "social-media": "وسائل التواصل الاجتماعي",
+      "content": "التسويق بالمحتوى",
+      "seo": "سيو SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "التكنولوجيا المالية",
+      "ecommerce": "التجارة الإلكترونية"
+    },
+    "countries": {
+      "eu": "الاتحاد الأوروبي",
+      "uae": "الإمارات"
+    },
+    "languages": {
+      "english": "الإنجليزية",
+      "arabic": "العربية"
+    },
+    "positions": {
+      "aso-specialist": "متخصص ASO",
+      "seo-expert": "خبير SEO",
+      "ppc-specialist": "متخصص PPC"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "ترحيل متجر إلكتروني",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
+      "seo-packages-comparison": "مقارنة باقات السيو",
+      "why-seo-matters-in-2026": "أهمية السيو في 2026"
+    }
+  }
+}

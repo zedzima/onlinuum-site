@@ -1,0 +1,187 @@
+{
+  "languages": [
+    {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "سيو عربي وتسويق بالمحتوى للعلامات الأجنبية",
+      "description": "سيو عربي ومحتوى ونصوص إعلانية لجمهور الخليج والشام والمغرب: عربية فصحى ولهجات وتسليم يدعم الاتجاه من اليمين. استكشفوا الخدمات.",
+      "menu": "العربية",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307 مليون",
+      "market_speakers_display": "307 مليون",
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 5,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-localization",
+          "google-ads-search",
+          "ppc-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "uae"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "كتابة محتوى بالإنجليزية بأيدي متحدثين أصليين",
+      "description": "تسويق بالإنجليزية للعلامات الداخلة إلى أسواق أمريكا وبريطانيا والعالم: خبراء ناطقون أصليون وخدمات ذات نطاق محدد. استكشفوا الخدمات.",
+      "menu": "الإنجليزية",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67 مليار",
+      "market_speakers_display": "1.67 مليار",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "uae",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "التسويق عبر محركات البحث",
+      "community-marketing": "التسويق المجتمعي",
+      "app-marketing": "تسويق التطبيقات"
+    },
+    "scopes": {
+      "aso-localization": "توطين ASO",
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "ppc-audit": "تدقيق PPC",
+      "seo-research": "أبحاث السيو",
+      "technical-seo": "السيو التقني",
+      "aso-optimization": "تحسين ASO",
+      "content-strategy": "استراتيجية المحتوى",
+      "content-writing": "كتابة المحتوى",
+      "telegram-ads": "إعلانات تليجرام"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "multilingual-seo": "multilingual SEO"
+    },
+    "services": {
+      "content": "التسويق بالمحتوى",
+      "ppc": "PPC",
+      "seo": "سيو SEO",
+      "social-media": "وسائل التواصل الاجتماعي",
+      "aso": "تحسين متجر التطبيقات ASO"
+    },
+    "industries": {
+      "ecommerce": "التجارة الإلكترونية",
+      "saas": "SaaS",
+      "fintech": "التكنولوجيا المالية"
+    },
+    "countries": {
+      "uae": "الإمارات",
+      "eu": "الاتحاد الأوروبي"
+    },
+    "positions": {
+      "seo-expert": "خبير SEO",
+      "aso-specialist": "متخصص ASO",
+      "ppc-specialist": "متخصص PPC"
+    },
+    "experts": {
+      "dima-gerko": "ديما غيركو",
+      "vitali-bakun": "فيتالي باكون",
+      "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
+      "seo-packages-comparison": "مقارنة باقات السيو",
+      "why-seo-matters-in-2026": "أهمية السيو في 2026"
+    }
+  }
+}
