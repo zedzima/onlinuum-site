@@ -1,0 +1,172 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "Europese Markt Betreden: SEO en SEA per Land",
+      "description": "Online marketing voor de Europese markt: West, Oost, Zuid en Noord. Native uitvoering per land, één EU-conform kader, één rapportage.",
+      "menu": "Europese Unie",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 mln",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "Engels",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "netherlands",
+      "url": "/countries/netherlands",
+      "title": "Online Marketing Bureau Nederland: Meertalig Team",
+      "description": "Online marketing bureau Nederland voor internationale merken: vaste dienstpakketten met Nederlandse specialisten. Plan een gesprek.",
+      "menu": "Nederland",
+      "featured": false,
+      "flag": "🇳🇱",
+      "population_total": "17.8 mln",
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "Nederlands",
+      "dominant_language_code": "nl",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "dutch",
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Zoekmachinemarketing",
+      "community-marketing": "Community marketing",
+      "app-marketing": "App marketing"
+    },
+    "scopes": {
+      "technical-seo": "Technische SEO",
+      "seo-research": "Zoekwoordenonderzoek",
+      "aso-optimization": "ASO-optimalisatie",
+      "aso-localization": "App vertalen"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Online marketing advies",
+      "multilingual-seo": "Meertalige SEO"
+    },
+    "services": {
+      "content": "Contentmarketing",
+      "social-media": "Social media",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "SEA"
+    },
+    "industries": {
+      "ecommerce": "Webshops",
+      "saas": "SaaS",
+      "fintech": "Fintechbedrijven"
+    },
+    "languages": {
+      "english": "Engels",
+      "dutch": "Nederlands"
+    },
+    "positions": {
+      "seo-expert": "SEO-specialist"
+    }
+  }
+}

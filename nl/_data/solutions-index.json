@@ -1,0 +1,165 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "Online Marketing Consultant: Senior Advies",
+      "description": "Online marketing advies voor internationale en B2B-merken: senior consultants, vaste opdrachten en binnen 48 uur een routekaart. Vraag een briefing aan.",
+      "menu": "Online marketing advies",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "Internationale SEO in 15+ Talen: Meertalige SEO",
+      "description": "Internationale SEO voor merken die één markt in meerdere talen bedienen: zoekwoordenonderzoek door moedertaalsprekers, hreflang en kwaliteitscontrole.",
+      "menu": "Meertalige SEO",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Zoekmachinemarketing",
+      "community-marketing": "Community marketing",
+      "app-marketing": "App marketing"
+    },
+    "scopes": {
+      "seo-research": "Zoekwoordenonderzoek",
+      "technical-seo": "Technische SEO",
+      "aso-optimization": "ASO-optimalisatie",
+      "aso-localization": "App vertalen",
+      "content-strategy": "Contentstrategie",
+      "google-ads-search": "Google Ads-zoekcampagnes",
+      "ppc-audit": "SEA-audit",
+      "telegram-ads": "Telegram Ads-beheer"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "services": {
+      "content": "Contentmarketing",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "SEA"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "Webshops",
+      "fintech": "Fintechbedrijven"
+    },
+    "countries": {
+      "eu": "Europese Unie",
+      "netherlands": "Nederland"
+    },
+    "languages": {
+      "english": "Engels",
+      "dutch": "Nederlands"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Hoe AI bronnen kiest",
+      "seo-packages-comparison": "SEO-pakketten vergeleken",
+      "why-seo-matters-in-2026": "Waarom SEO belangrijk is in 2026"
+    },
+    "positions": {
+      "seo-expert": "SEO-specialist",
+      "aso-specialist": "ASO-specialist",
+      "ppc-specialist": "SEA-specialist"
+    }
+  }
+}

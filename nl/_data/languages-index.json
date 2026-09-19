@@ -1,0 +1,193 @@
+{
+  "languages": [
+    {
+      "slug": "dutch",
+      "url": "/languages/dutch",
+      "title": "Nederlandse Tekstschrijver en SEO voor Nederland",
+      "description": "Marketing in het Nederlands voor merken die de Nederlandse markt en Vlaanderen betreden: Nederlandse tekstschrijvers, vaste dienstpakketten.",
+      "menu": "Nederlands",
+      "featured": false,
+      "flag": "",
+      "code": "NL",
+      "native_speakers_l1": "31.9 mln",
+      "market_speakers_display": "31.9 mln",
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "netherlands",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "Engelse Tekstschrijver en Engelstalige Marketing",
+      "description": "Engelstalige marketing voor merken die de VS, het VK en wereldwijde markten betreden: Engelse tekstschrijvers en vaste dienstpakketten.",
+      "menu": "Engels",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67 mld",
+      "market_speakers_display": "1.67 mld",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "netherlands",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Zoekmachinemarketing",
+      "community-marketing": "Community marketing",
+      "app-marketing": "App marketing"
+    },
+    "scopes": {
+      "technical-seo": "Technische SEO",
+      "seo-research": "Zoekwoordenonderzoek",
+      "aso-optimization": "ASO-optimalisatie",
+      "aso-localization": "App vertalen",
+      "content-strategy": "Contentstrategie",
+      "content-writing": "Teksten schrijven",
+      "google-ads-search": "Google Ads-zoekcampagnes",
+      "ppc-audit": "SEA-audit",
+      "telegram-ads": "Telegram Ads-beheer"
+    },
+    "experts": {
+      "vitali-bakun": "Vitali Bakun",
+      "dima-gerko": "Dima Gerko",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Online marketing advies",
+      "multilingual-seo": "Meertalige SEO"
+    },
+    "services": {
+      "content": "Contentmarketing",
+      "social-media": "Social media",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "SEA"
+    },
+    "industries": {
+      "ecommerce": "Webshops",
+      "saas": "SaaS",
+      "fintech": "Fintechbedrijven"
+    },
+    "countries": {
+      "netherlands": "Nederland",
+      "eu": "Europese Unie"
+    },
+    "positions": {
+      "seo-expert": "SEO-specialist",
+      "aso-specialist": "ASO-specialist",
+      "ppc-specialist": "SEA-specialist"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Hoe AI bronnen kiest",
+      "seo-packages-comparison": "SEO-pakketten vergeleken",
+      "why-seo-matters-in-2026": "Waarom SEO belangrijk is in 2026"
+    }
+  }
+}

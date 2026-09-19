@@ -1,0 +1,256 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "Alaaddin Saracyakupoglu",
+      "description": "Remote SEO-expert met 5+ jaar in technische audits, zoekwoordenonderzoek en AEO/GEO voor B2B/SaaS en webshops. Neem contact op voor een projectmatch.",
+      "role": "SEO-expert",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "Dima Gerko",
+      "description": "15+ jaar in online marketing, SEO en lokalisatie. Bouwt schaalbare meertalige groeisystemen voor internationale merken. Gecertificeerd Google Partner.",
+      "role": "Architect van wereldwijde groei",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "netherlands"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "Vitali Bakun",
+      "description": "Google Ads-specialist met 10+ jaar ervaring in Google Ads, Meta, LinkedIn en Bing: SEA- en PPC-strategie voor B2B, SaaS en mobiele apps.",
+      "role": "Google Ads- en SEA-specialist",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Zoekmachinemarketing",
+      "community-marketing": "Community marketing",
+      "app-marketing": "App marketing"
+    },
+    "scopes": {
+      "seo-research": "Zoekwoordenonderzoek",
+      "technical-seo": "Technische SEO",
+      "aso-localization": "App vertalen",
+      "aso-optimization": "ASO-optimalisatie",
+      "content-strategy": "Contentstrategie",
+      "ppc-audit": "SEA-audit",
+      "google-ads-search": "Google Ads-zoekcampagnes"
+    },
+    "services": {
+      "content": "Contentmarketing",
+      "seo": "SEO",
+      "ppc": "SEA",
+      "aso": "ASO"
+    },
+    "industries": {
+      "ecommerce": "Webshops",
+      "saas": "SaaS",
+      "fintech": "Fintechbedrijven"
+    },
+    "countries": {
+      "eu": "Europese Unie",
+      "netherlands": "Nederland"
+    },
+    "languages": {
+      "english": "Engels",
+      "dutch": "Nederlands"
+    },
+    "positions": {
+      "seo-expert": "SEO-specialist"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "E-commercemigratie",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Online marketing advies",
+      "multilingual-seo": "Meertalige SEO"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Hoe AI bronnen kiest",
+      "seo-packages-comparison": "SEO-pakketten vergeleken",
+      "why-seo-matters-in-2026": "Waarom SEO belangrijk is in 2026"
+    }
+  }
+}

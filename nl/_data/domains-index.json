@@ -1,0 +1,214 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "App Marketing: ASO, Gebruikers en Retentie",
+      "description": "Vaste pakketten voor mobile app marketing: app store optimalisatie, betaalde app promotie, store-CRO en retentie voor iOS en Android, in meerdere talen.",
+      "menu": "App marketing",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "Community Marketing en Communitymanagement",
+      "description": "Community marketing via social media, content, video en e-mail: vertrouwen verdienen en een publiek opbouwen dat blijft, meedoet en koopt.",
+      "menu": "Community marketing",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "Zoekmachinemarketing: SEA en SEO in 15+ Talen",
+      "description": "Meertalige zoekmachinemarketing over SEO, AEO, SEM en SEA. Zoekwoordenonderzoek en advertentieteksten per taal, één meetlaag voor alle markten.",
+      "menu": "Zoekmachinemarketing",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "ASO-optimalisatie",
+      "aso-localization": "App vertalen",
+      "seo-research": "Zoekwoordenonderzoek",
+      "content-strategy": "Contentstrategie",
+      "technical-seo": "Technische SEO",
+      "ppc-audit": "SEA-audit",
+      "google-ads-search": "Google Ads-zoekcampagnes",
+      "content-writing": "Teksten schrijven"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Online marketing advies",
+      "multilingual-seo": "Meertalige SEO"
+    },
+    "services": {
+      "aso": "ASO",
+      "social-media": "Social media",
+      "content": "Contentmarketing",
+      "seo": "SEO",
+      "ppc": "SEA"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Fintechbedrijven",
+      "ecommerce": "Webshops"
+    },
+    "countries": {
+      "eu": "Europese Unie",
+      "netherlands": "Nederland"
+    },
+    "languages": {
+      "english": "Engels",
+      "dutch": "Nederlands"
+    },
+    "positions": {
+      "aso-specialist": "ASO-specialist",
+      "seo-expert": "SEO-specialist",
+      "ppc-specialist": "SEA-specialist"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "E-commercemigratie",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Hoe AI bronnen kiest",
+      "seo-packages-comparison": "SEO-pakketten vergeleken",
+      "why-seo-matters-in-2026": "Waarom SEO belangrijk is in 2026"
+    }
+  }
+}

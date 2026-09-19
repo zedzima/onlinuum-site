@@ -1,0 +1,203 @@
+{
+  "cases": [
+    {
+      "slug": "alvadi",
+      "url": "/cases/alvadi",
+      "title": "Google Ads Case: Internationale Auto-onderdelenshop",
+      "card_title": "Meertalige Google Ads op schaal",
+      "description": "Hoe ALVADI Google Ads opschaalde naar vijf talen voor een internationale webshop in auto-onderdelen: 2,4x omzet en 2,2x conversieratio. Lees de case.",
+      "menu": "ALVADI",
+      "featured": true,
+      "client": "ALVADI",
+      "image": "/_media/logos/alvadi.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "ecommerce",
+      "country": "eu",
+      "language": "",
+      "results": [
+        {
+          "value": "2,4x",
+          "label": "Omzet uit Google Ads"
+        },
+        {
+          "value": "12",
+          "label": "Vergeleken maanden"
+        },
+        {
+          "value": "5",
+          "label": "Campagnetalen"
+        }
+      ],
+      "primary_result": {
+        "value": "2,4x",
+        "label": "Omzet uit Google Ads"
+      },
+      "timeline": {
+        "value": "12",
+        "label": "Vergeleken maanden"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ]
+      }
+    },
+    {
+      "slug": "bamboo-ppc-landing-pages",
+      "url": "/cases/bamboo-ppc-landing-pages",
+      "title": "Landingspagina Optimalisatie: B2B Leads via Ads",
+      "card_title": "Dynamische landingspagina's voor SEA",
+      "description": "Hoe Bamboo Group landingspagina's lanceerde voor een smal B2B-aanbod en binnen dagen 4,22% conversie en $ 9,89 CPA haalde. Lees de case.",
+      "menu": "Bamboo Group",
+      "featured": true,
+      "client": "Bamboo Group",
+      "image": "/_media/logos/bamboo-group.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "saas",
+      "country": "eu",
+      "language": "english",
+      "results": [
+        {
+          "value": "4,22%",
+          "label": "Totale conversieratio"
+        },
+        {
+          "value": "2 dagen",
+          "label": "Tot de eerste conversies"
+        },
+        {
+          "value": "52",
+          "label": "Gebouwde landingspagina's"
+        }
+      ],
+      "primary_result": {
+        "value": "4,22%",
+        "label": "Totale conversieratio"
+      },
+      "timeline": {
+        "value": "2 dagen",
+        "label": "Tot de eerste conversies"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "ecommerce-migration-2025",
+      "url": "/cases/ecommerce-migration-2025",
+      "title": "SEO Migratie Case: 120% Verkeersherstel",
+      "card_title": "SEO-migratie van een e-commerceplatform",
+      "description": "Hoe we na een website migratie van een e-commerceplatform 120% van het organische verkeer herstelden met een technische SEO-audit en een redirectplan.",
+      "menu": "E-commercemigratie",
+      "featured": false,
+      "client": "Moderetailer — Duitsland",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "ecommerce",
+      "country": "germany",
+      "language": "german",
+      "results": [
+        {
+          "value": "120%",
+          "label": "Verkeersherstel"
+        },
+        {
+          "value": "3 maanden",
+          "label": "Doorlooptijd"
+        },
+        {
+          "value": "15.000",
+          "label": "Omgeleide URL's"
+        }
+      ],
+      "primary_result": {
+        "value": "120%",
+        "label": "Verkeersherstel"
+      },
+      "timeline": {
+        "value": "3 maanden",
+        "label": "Doorlooptijd"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Zoekmachinemarketing"
+    },
+    "scopes": {
+      "google-ads-search": "Google Ads-zoekcampagnes",
+      "technical-seo": "Technische SEO"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "services": {
+      "ppc": "SEA",
+      "seo": "SEO"
+    },
+    "industries": {
+      "ecommerce": "Webshops",
+      "saas": "SaaS"
+    },
+    "countries": {
+      "eu": "Europese Unie"
+    },
+    "languages": {
+      "english": "Engels"
+    }
+  }
+}
