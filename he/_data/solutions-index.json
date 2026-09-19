@@ -1,0 +1,162 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "ייעוץ שיווק דיגיטלי: יועצים בכירים",
+      "description": "ייעוץ שיווק דיגיטלי למותגים בינלאומיים ו-B2B: יועצים בכירים, פרויקטים מוצריים ומפת דרכים תוך 48 שעות. בקשו בריף.",
+      "menu": "ייעוץ שיווק דיגיטלי",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "קידום אתרים בינלאומי ורב לשוני ב-15 שפות",
+      "description": "קידום אתרים בינלאומי למותגים שמשרתים שוק אחד בכמה שפות: מחקר מילות מפתח מקורי, ארכיטקטורת hreflang ובקרת איכות.",
+      "menu": "קידום אתרים בינלאומי",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "שיווק במנועי חיפוש",
+      "community-marketing": "ניהול קהילה",
+      "app-marketing": "שיווק אפליקציות"
+    },
+    "scopes": {
+      "seo-research": "מחקר SEO",
+      "technical-seo": "קידום אתרים טכני",
+      "aso-optimization": "אופטימיזציית ASO",
+      "aso-localization": "לוקליזציית ASO",
+      "content-strategy": "אסטרטגיית תוכן",
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "ppc-audit": "אודיט PPC",
+      "telegram-ads": "פרסום בטלגרם"
+    },
+    "experts": {
+      "dima-gerko": "דימה גרקו",
+      "vitali-bakun": "ויטלי בקון"
+    },
+    "services": {
+      "content": "שיווק תוכן",
+      "aso": "ASO",
+      "seo": "קידום אתרים",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "מסחר אלקטרוני",
+      "fintech": "פינטק"
+    },
+    "countries": {
+      "eu": "האיחוד האירופי",
+      "israel": "ישראל"
+    },
+    "languages": {
+      "english": "אנגלית"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "איך AI בוחר מקורות",
+      "seo-packages-comparison": "השוואת חבילות SEO",
+      "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
+    },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים",
+      "aso-specialist": "מומחה ASO",
+      "ppc-specialist": "מנהל קמפיינים PPC"
+    }
+  }
+}

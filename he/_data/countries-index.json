@@ -1,0 +1,171 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "יצוא לאירופה: שיווק דיגיטלי בכל מדינה",
+      "description": "יצוא לאירופה בליווי שיווקי: מערב, מזרח, דרום וצפון היבשת. צוותים ילידיים בכל מדינה, אסטרטגיה אחת שעומדת בכללי האיחוד ודוח אחד.",
+      "menu": "האיחוד האירופי",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 מיליון",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "אנגלית",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "israel",
+      "url": "/countries/israel",
+      "title": "חברות שיווק דיגיטלי בישראל: עברית ואנגלית",
+      "description": "חברות שיווק דיגיטלי בישראל למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים לעברית. בואו נתחיל.",
+      "menu": "ישראל",
+      "featured": false,
+      "flag": "🇮🇱",
+      "population_total": "9.4 מיליון",
+      "official_languages_count": 7,
+      "significant_languages_count": 7,
+      "dominant_language_name": "עברית",
+      "dominant_language_code": "he",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "hebrew",
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "שיווק במנועי חיפוש",
+      "community-marketing": "ניהול קהילה",
+      "app-marketing": "שיווק אפליקציות"
+    },
+    "scopes": {
+      "technical-seo": "קידום אתרים טכני",
+      "seo-research": "מחקר SEO",
+      "aso-optimization": "אופטימיזציית ASO",
+      "aso-localization": "לוקליזציית ASO"
+    },
+    "experts": {
+      "dima-gerko": "דימה גרקו",
+      "vitali-bakun": "ויטלי בקון",
+      "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
+    },
+    "services": {
+      "content": "שיווק תוכן",
+      "social-media": "רשתות חברתיות",
+      "aso": "ASO",
+      "seo": "קידום אתרים",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "ecommerce": "מסחר אלקטרוני",
+      "saas": "SaaS",
+      "fintech": "פינטק"
+    },
+    "languages": {
+      "english": "אנגלית",
+      "hebrew": "עברית"
+    },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים"
+    }
+  }
+}

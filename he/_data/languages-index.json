@@ -1,0 +1,162 @@
+{
+  "languages": [
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "קידום אתרים באנגלית עם מומחים ילידיים",
+      "description": "שיווק באנגלית לחברות שנכנסות לשווקים בארצות הברית, בבריטניה ובעולם: מומחים ילידיים ושירותים מוצריים. גלו את השירותים.",
+      "menu": "אנגלית",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67 מיליארד",
+      "market_speakers_display": "1.67 מיליארד",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "hebrew",
+      "url": "/languages/hebrew",
+      "title": "קידום אתרים בעברית ושיווק לשוק הישראלי",
+      "description": "שיווק בעברית למותגים בינלאומיים שנכנסים לישראל: מומחים ילידיים, תוכן מימין לשמאל וחיפוש שמתחיל בגוגל. גלו את השירותים.",
+      "menu": "עברית",
+      "featured": false,
+      "flag": "",
+      "code": "HE",
+      "native_speakers_l1": "9.4 מיליון",
+      "market_speakers_display": "9.4 מיליון",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "israel"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "שיווק במנועי חיפוש",
+      "community-marketing": "ניהול קהילה",
+      "app-marketing": "שיווק אפליקציות"
+    },
+    "scopes": {
+      "technical-seo": "קידום אתרים טכני",
+      "seo-research": "מחקר SEO",
+      "aso-optimization": "אופטימיזציית ASO",
+      "aso-localization": "לוקליזציית ASO",
+      "content-strategy": "אסטרטגיית תוכן",
+      "content-writing": "כתיבת תוכן",
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "ppc-audit": "אודיט PPC",
+      "telegram-ads": "פרסום בטלגרם"
+    },
+    "experts": {
+      "dima-gerko": "דימה גרקו",
+      "vitali-bakun": "ויטלי בקון",
+      "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
+    },
+    "services": {
+      "content": "שיווק תוכן",
+      "social-media": "רשתות חברתיות",
+      "aso": "ASO",
+      "seo": "קידום אתרים",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "ecommerce": "מסחר אלקטרוני",
+      "saas": "SaaS",
+      "fintech": "פינטק"
+    },
+    "countries": {
+      "israel": "ישראל",
+      "eu": "האיחוד האירופי"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "איך AI בוחר מקורות",
+      "seo-packages-comparison": "השוואת חבילות SEO",
+      "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
+    },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים",
+      "aso-specialist": "מומחה ASO",
+      "ppc-specialist": "מנהל קמפיינים PPC"
+    }
+  }
+}

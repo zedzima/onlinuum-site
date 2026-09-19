@@ -1,0 +1,461 @@
+{
+  "scopes": [
+    {
+      "slug": "aso-localization",
+      "url": "/scopes/aso-localization",
+      "title": "תרגום אפליקציות: מטאדאטה ילידית לכל שוק",
+      "description": "שירותי תרגום אפליקציות ולוקליזציית ASO: מחקר מילות חיפוש ומטאדאטה בשפת כל שוק, בלי תרגום מכונה, החל מ-$300. ראו מחירים.",
+      "menu": "לוקליזציית ASO",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "aso-optimization",
+      "url": "/scopes/aso-optimization",
+      "title": "ASO Optimization: מילות מפתח ומטאדאטה",
+      "description": "שירותי ASO optimization: מחקר מילות חיפוש, מטאדאטה וניתוח מתחרים ל-iOS ול-Android, החל מ-$300. ראו מחירים.",
+      "menu": "אופטימיזציית ASO",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-strategy",
+      "url": "/scopes/content-strategy",
+      "title": "אסטרטגיית תוכן וביקורת תוכן לאתר",
+      "description": "שירותי אסטרטגיית תוכן שמתחילים בביקורת תוכן לאתר: תוכנית עריכה ל-12 חודשים, נושאים בעדיפות ואחראי בשמו לכל משבצת. החל מ-$500.",
+      "menu": "אסטרטגיית תוכן",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-writing",
+      "url": "/scopes/content-writing",
+      "title": "כתיבת תוכן: פוסטים לבלוג ועמודי עוגן",
+      "description": "שירותי כתיבת תוכן בתמחור ליחידה: פוסטים לבלוג, עמודי עוגן, קייס סטאדי וניירות עמדה. כתיבת פוסטים החל מ-$500. ראו מחירון משימות.",
+      "menu": "כתיבת תוכן",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "google-ads-search",
+      "url": "/scopes/google-ads-search",
+      "title": "ניהול קמפיינים בגוגל: קמפיין חיפוש",
+      "description": "ניהול קמפיינים בגוגל: בניית קמפיין חיפוש, מיפוי מילות מפתח, ניהול מילים שליליות ואופטימיזציית הצעות מחיר. החל מ-$400 לחודש. ראו מחירים.",
+      "menu": "קמפיין חיפוש בגוגל",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "ppc-audit",
+      "url": "/scopes/ppc-audit",
+      "title": "Google Ads Audit: בדיקת תקציב, מעקב וצמיחה",
+      "description": "PPC Audit: בדיקת חשבון, איתור בזבוז תקציב, אימות מעקב המרות ומפת דרכים לצמיחה, החל מ-$300. ראו מחירים.",
+      "menu": "אודיט PPC",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "seo-research",
+      "url": "/scopes/seo-research",
+      "title": "מחקר מילות מפתח ואסטרטגיית ביקוש",
+      "description": "שירותי מחקר SEO: מיפוי מילות מפתח לעמודים, ניתוח מתחרים ואימות ביקוש, החל מ-$300. ראו מחירים.",
+      "menu": "מחקר SEO",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "technical-seo",
+      "url": "/scopes/technical-seo",
+      "title": "קידום אתרים טכני ובדיקת תקינות לאתר",
+      "description": "שירותי קידום אתרים טכני: סריקה, אינדוקס, Core Web Vitals, נתונים מובנים וליווי מיגרציה. בדיקת תקינות טכנית מ-$500. ראו מחירים.",
+      "menu": "קידום אתרים טכני",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 2
+    },
+    {
+      "slug": "telegram-ads",
+      "url": "/scopes/telegram-ads",
+      "title": "פרסום בטלגרם: הודעות ממומנות רשמיות",
+      "description": "ניהול Telegram Ads רשמי: טירגוט לפי הקשר הערוץ, ליווי מודרציה ומדידה שמחוברת ל-CRM. החל מ-$400 לחודש. ראו מחירים.",
+      "menu": "פרסום בטלגרם",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 1,
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "שיווק אפליקציות",
+      "search-marketing": "שיווק במנועי חיפוש",
+      "community-marketing": "ניהול קהילה"
+    },
+    "experts": {
+      "dima-gerko": "דימה גרקו",
+      "vitali-bakun": "ויטלי בקון",
+      "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
+    },
+    "services": {
+      "aso": "ASO",
+      "content": "שיווק תוכן",
+      "seo": "קידום אתרים",
+      "social-media": "רשתות חברתיות",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "פינטק",
+      "ecommerce": "מסחר אלקטרוני"
+    },
+    "countries": {
+      "eu": "האיחוד האירופי",
+      "israel": "ישראל"
+    },
+    "languages": {
+      "english": "אנגלית"
+    },
+    "positions": {
+      "aso-specialist": "מומחה ASO",
+      "seo-expert": "מומחה קידום אתרים",
+      "ppc-specialist": "מנהל קמפיינים PPC"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "ecommerce-migration-2025": "העברת חנות וירטואלית"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "השוואת חבילות SEO",
+      "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
+    }
+  }
+}

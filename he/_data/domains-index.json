@@ -1,0 +1,210 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "שיווק אפליקציות: ASO, רכישת משתמשים ושימור",
+      "description": "שירותי שיווק אפליקציות מוצריים: ASO, user acquisition ממומן, CRO בדף החנות ושימור ל-iOS ול-Android בכמה שפות. ראו מה כלול.",
+      "menu": "שיווק אפליקציות",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "ניהול קהילה ושיווק ברשתות חברתיות",
+      "description": "שירותי ניהול קהילה שנבנים על סושיאל מדיה, תוכן, וידאו ודיוור: אמון, מומחיות גלויה וצמיחה אורגנית של קהל שנשאר. דברו איתנו.",
+      "menu": "ניהול קהילה",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "שיווק במנועי חיפוש: SEO, SEM ופרסום ממומן",
+      "description": "שיווק במנועי חיפוש רב לשוני: SEO, AEO, SEM ופרסום ממומן. מחקר מילות מפתח וקופי מודעות בשפת השוק, עם שכבת מדידה אחת לכל השווקים.",
+      "menu": "שיווק במנועי חיפוש",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "אופטימיזציית ASO",
+      "aso-localization": "לוקליזציית ASO",
+      "seo-research": "מחקר SEO",
+      "content-strategy": "אסטרטגיית תוכן",
+      "technical-seo": "קידום אתרים טכני",
+      "ppc-audit": "אודיט PPC",
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "content-writing": "כתיבת תוכן"
+    },
+    "experts": {
+      "dima-gerko": "דימה גרקו",
+      "vitali-bakun": "ויטלי בקון",
+      "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
+    },
+    "services": {
+      "aso": "ASO",
+      "social-media": "רשתות חברתיות",
+      "content": "שיווק תוכן",
+      "seo": "קידום אתרים",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "פינטק",
+      "ecommerce": "מסחר אלקטרוני"
+    },
+    "countries": {
+      "eu": "האיחוד האירופי",
+      "israel": "ישראל"
+    },
+    "languages": {
+      "english": "אנגלית"
+    },
+    "positions": {
+      "aso-specialist": "מומחה ASO",
+      "seo-expert": "מומחה קידום אתרים",
+      "ppc-specialist": "מנהל קמפיינים PPC"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "העברת חנות וירטואלית",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "איך AI בוחר מקורות",
+      "seo-packages-comparison": "השוואת חבילות SEO",
+      "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
+    }
+  }
+}

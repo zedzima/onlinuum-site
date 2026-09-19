@@ -1,0 +1,254 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "אלאאדין סרצ'יאקופולו",
+      "description": "מומחה קידום אתרים מרחוק עם 5+ שנות ניסיון באודיט טכני, מחקר מילות מפתח ו-AEO/GEO למותגי B2B/SaaS ומסחר אלקטרוני. דברו איתו על התאמה.",
+      "role": "מומחה קידום אתרים",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "דימה גרקו",
+      "description": "15+ שנים בשיווק דיגיטלי, SEO ולוקליזציה. בונה מערכות צמיחה רב לשוניות למותגים בינלאומיים. Certified Google Partner.",
+      "role": "יועץ שיווק בינלאומי",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "ויטלי בקון",
+      "description": "יותר מ-10 שנים של ניהול פרסום ממומן ב-Google Ads, Meta, LinkedIn ו-Bing: אסטרטגיית PPC חוצת פלטפורמות ל-B2B, SaaS ואפליקציות.",
+      "role": "מומחה גוגל אדס ומדיה ממומנת",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "שיווק במנועי חיפוש",
+      "community-marketing": "ניהול קהילה",
+      "app-marketing": "שיווק אפליקציות"
+    },
+    "scopes": {
+      "seo-research": "מחקר SEO",
+      "technical-seo": "קידום אתרים טכני",
+      "aso-localization": "לוקליזציית ASO",
+      "aso-optimization": "אופטימיזציית ASO",
+      "content-strategy": "אסטרטגיית תוכן",
+      "ppc-audit": "אודיט PPC",
+      "google-ads-search": "קמפיין חיפוש בגוגל"
+    },
+    "services": {
+      "content": "שיווק תוכן",
+      "seo": "קידום אתרים",
+      "ppc": "PPC",
+      "aso": "ASO"
+    },
+    "industries": {
+      "ecommerce": "מסחר אלקטרוני",
+      "saas": "SaaS",
+      "fintech": "פינטק"
+    },
+    "countries": {
+      "eu": "האיחוד האירופי",
+      "israel": "ישראל"
+    },
+    "languages": {
+      "english": "אנגלית"
+    },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "העברת חנות וירטואלית",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "איך AI בוחר מקורות",
+      "seo-packages-comparison": "השוואת חבילות SEO",
+      "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
+    }
+  }
+}

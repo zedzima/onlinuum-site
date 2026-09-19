@@ -1,0 +1,260 @@
+{
+  "industries": [
+    {
+      "slug": "ecommerce",
+      "url": "/industries/ecommerce",
+      "title": "קידום חנות וירטואלית ואתרי מסחר",
+      "description": "קידום חנות וירטואלית ואתרי מסחר: SEO בקנה מידה של קטלוג, קמפיינים ב-Google Shopping וביצוע רב לשוני עם משמעת מרווחים. ראו איך זה עובד.",
+      "menu": "מסחר אלקטרוני",
+      "featured": false,
+      "icon": "ecommerce",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "fintech",
+      "url": "/industries/fintech",
+      "title": "שיווק פיננסי לפינטק: SEO, יחסי ציבור וצמיחה",
+      "description": "שיווק פיננסי לנאובנקים, לתשלומים ולאינשורטק: SEO שמתחיל בציות, יחסי ציבור וצמיחה רב לשונית. גלו את המודולים המוצריים.",
+      "menu": "פינטק",
+      "featured": false,
+      "icon": "fintech",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "saas",
+      "url": "/industries/saas",
+      "title": "שיווק דיגיטלי B2B לחברות SaaS",
+      "description": "שיווק דיגיטלי B2B לחברות SaaS: SEO, יצירת ביקוש וקמפיינים רב לשוניים שמורידים CAC ומגדילים MRR. בקשו בריף.",
+      "menu": "SaaS",
+      "featured": false,
+      "icon": "monitor",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "שיווק במנועי חיפוש",
+      "community-marketing": "ניהול קהילה",
+      "app-marketing": "שיווק אפליקציות"
+    },
+    "scopes": {
+      "seo-research": "מחקר SEO",
+      "technical-seo": "קידום אתרים טכני",
+      "aso-optimization": "אופטימיזציית ASO",
+      "aso-localization": "לוקליזציית ASO",
+      "content-strategy": "אסטרטגיית תוכן",
+      "content-writing": "כתיבת תוכן",
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "ppc-audit": "אודיט PPC",
+      "telegram-ads": "פרסום בטלגרם"
+    },
+    "experts": {
+      "dima-gerko": "דימה גרקו",
+      "vitali-bakun": "ויטלי בקון",
+      "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "העברת חנות וירטואלית",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
+    },
+    "services": {
+      "content": "שיווק תוכן",
+      "aso": "ASO",
+      "seo": "קידום אתרים",
+      "ppc": "PPC",
+      "social-media": "רשתות חברתיות"
+    },
+    "countries": {
+      "eu": "האיחוד האירופי",
+      "israel": "ישראל"
+    },
+    "languages": {
+      "english": "אנגלית"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "איך AI בוחר מקורות",
+      "seo-packages-comparison": "השוואת חבילות SEO",
+      "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
+    },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים",
+      "aso-specialist": "מומחה ASO",
+      "ppc-specialist": "מנהל קמפיינים PPC"
+    }
+  }
+}
