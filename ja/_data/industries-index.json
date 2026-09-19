@@ -1,0 +1,260 @@
+{
+  "industries": [
+    {
+      "slug": "ecommerce",
+      "url": "/industries/ecommerce",
+      "title": "ECマーケティング｜ECサイトのSEOと集客を多言語で",
+      "description": "ECサイトと小売ブランドのためのECマーケティング代行。SEO、ショッピング広告、多言語での実行までをパッケージ化してご提供します。",
+      "menu": "EC",
+      "featured": false,
+      "icon": "ecommerce",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "fintech",
+      "url": "/industries/fintech",
+      "title": "金融マーケティング｜フィンテック企業のSEOと広告運用",
+      "description": "ネオバンク、決済、保険テック向けの金融マーケティング代行。規制を前提にしたSEO、PR、多言語での集客をパッケージ化してご提供します。",
+      "menu": "フィンテック",
+      "featured": false,
+      "icon": "fintech",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "saas",
+      "url": "/industries/saas",
+      "title": "SaaSマーケティング｜BtoBのリード獲得までを設計する支援",
+      "description": "BtoBソフトウェアのためのSaaSマーケティング代行。SEO、需要創出、多言語の施策でCACを下げMRRを伸ばします。まずはご相談ください。",
+      "menu": "SaaS",
+      "featured": false,
+      "icon": "monitor",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "検索マーケティング",
+      "community-marketing": "コミュニティマーケティング",
+      "app-marketing": "アプリマーケティング"
+    },
+    "scopes": {
+      "seo-research": "キーワード選定",
+      "technical-seo": "テクニカルSEO",
+      "aso-optimization": "ASO対策",
+      "aso-localization": "アプリの多言語対応",
+      "content-strategy": "コンテンツ戦略",
+      "content-writing": "記事作成代行",
+      "google-ads-search": "Google広告・検索広告",
+      "ppc-audit": "広告アカウント診断",
+      "telegram-ads": "Telegram Ads"
+    },
+    "experts": {
+      "dima-gerko": "ディマ・ゲルコ",
+      "vitali-bakun": "ヴィタリー・バクン",
+      "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "ECサイトリニューアル",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "マーケティングコンサルティング",
+      "multilingual-seo": "多言語SEO"
+    },
+    "services": {
+      "content": "コンテンツマーケティング",
+      "aso": "ASO対策",
+      "seo": "SEO対策",
+      "ppc": "リスティング広告",
+      "social-media": "SNS運用代行"
+    },
+    "countries": {
+      "eu": "欧州連合",
+      "japan": "日本"
+    },
+    "languages": {
+      "english": "英語"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AIが引用先を選ぶ基準",
+      "seo-packages-comparison": "SEO対策の費用比較",
+      "why-seo-matters-in-2026": "2026年のSEOの必要性"
+    },
+    "positions": {
+      "seo-expert": "SEO担当",
+      "aso-specialist": "ASO担当",
+      "ppc-specialist": "広告運用担当"
+    }
+  }
+}

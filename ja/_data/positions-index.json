@@ -1,0 +1,353 @@
+{
+  "positions": [
+    {
+      "slug": "aso-specialist",
+      "url": "/positions/aso-specialist",
+      "title": "ASO担当のアプリマーケター",
+      "description": "OnlinuumのASO担当募集。アプリストア最適化を担当し、レベニューシェア40%、複数言語の案件に関われるフルリモートのポジションです。",
+      "menu": "ASO担当",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "ASO担当をネットワークに積極的に迎えています",
+        "badge_active": "稼働中のメニューで積極採用中",
+        "apply_label": "応募する／自己紹介を送る",
+        "label_service": "中心となるサービス",
+        "label_countries": "優先市場",
+        "label_languages": "業務で使う言語",
+        "label_industries": "優先業界",
+        "label_experience": "経験レベル",
+        "label_engagement": "契約形態",
+        "label_commitment": "稼働時間",
+        "engagement_type": "案件単位／パートタイム",
+        "working_hours": "稼働中のメニューに応じて週10〜25時間",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "ドイツ",
+          "英国",
+          "米国",
+          "フランス",
+          "ポーランド"
+        ],
+        "date_posted": "2026-04-08",
+        "direct_apply": true,
+        "identifier": "onlinuum-aso-specialist",
+        "experience_requirements": "キーワード選定、メタデータ最適化、A/Bテストにわたる2年以上のASOの実務経験。",
+        "education_requirements": "学歴の要件はありません"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "aso",
+        "app-user-acquisition",
+        "app-conversion-retention"
+      ],
+      "scopes": [
+        "aso-optimization",
+        "aso-localization",
+        "app-store-cro",
+        "apple-search-ads"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "austria",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese"
+      ]
+    },
+    {
+      "slug": "ppc-specialist",
+      "url": "/positions/ppc-specialist",
+      "title": "広告運用担当の求人",
+      "description": "Onlinuumの広告運用担当募集。6つの優先市場でリスティング広告、ショッピング広告、YouTube広告を担当するフルリモートの業務委託です。",
+      "menu": "広告運用担当",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "広告運用担当をネットワークに積極的に迎えています",
+        "badge_active": "稼働中のメニューで積極採用中",
+        "apply_label": "応募する／自己紹介を送る",
+        "label_service": "中心となるサービス",
+        "label_countries": "優先市場",
+        "label_languages": "業務で使う言語",
+        "label_industries": "優先業界",
+        "label_experience": "経験レベル",
+        "label_engagement": "契約形態",
+        "label_commitment": "稼働時間",
+        "engagement_type": "案件単位／パートタイム",
+        "working_hours": "稼働中のメニューに応じて週10〜25時間",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "米国",
+          "英国",
+          "ドイツ",
+          "フランス",
+          "ポーランド"
+        ],
+        "date_posted": "2026-04-12",
+        "direct_apply": true,
+        "identifier": "onlinuum-ppc-specialist",
+        "experience_requirements": "Google広告に加えて少なくとも1つのメニューを含む、2年以上のPPC運用の実務経験。",
+        "education_requirements": "学歴の要件はありません"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "ppc"
+      ],
+      "scopes": [
+        "ppc-audit",
+        "google-ads-search",
+        "microsoft-ads",
+        "google-shopping",
+        "remarketing-display",
+        "youtube-ads",
+        "local-services-ads"
+      ],
+      "countries": [
+        "usa",
+        "uk",
+        "germany",
+        "france",
+        "poland",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish"
+      ]
+    },
+    {
+      "slug": "seo-expert",
+      "url": "/positions/seo-expert",
+      "title": "SEOコンサルタントの求人",
+      "description": "OnlinuumのSEO担当募集。テクニカル診断と内部対策を任され、レベニューシェア40%を受け取るフルリモートの業務委託です。",
+      "menu": "SEO担当",
+      "featured": false,
+      "expert_count": 1,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "SEO担当をネットワークに積極的に迎えています",
+        "badge_active": "稼働中のメニューで積極採用中",
+        "apply_label": "応募する／自己紹介を送る",
+        "label_service": "中心となるサービス",
+        "label_countries": "優先市場",
+        "label_languages": "業務で使う言語",
+        "label_industries": "優先業界",
+        "label_experience": "経験レベル",
+        "label_engagement": "契約形態",
+        "label_commitment": "稼働時間",
+        "engagement_type": "案件単位／パートタイム",
+        "working_hours": "稼働中のメニューに応じて週10〜30時間",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "ドイツ",
+          "オーストリア",
+          "英国",
+          "フランス",
+          "米国"
+        ],
+        "date_posted": "2026-03-31",
+        "direct_apply": true,
+        "identifier": "onlinuum-seo-expert",
+        "experience_requirements": "テクニカル、内部対策、海外向け検索のいずれかを含む5年以上のSEOの実務経験。",
+        "education_requirements": "学歴の要件はありません"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english",
+          "japanese"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ]
+      },
+      "services": [
+        "seo"
+      ],
+      "scopes": [
+        "technical-seo",
+        "seo-research",
+        "on-page-seo",
+        "link-building",
+        "cross-market-setup",
+        "ai-optimisation",
+        "local-seo"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "uk",
+        "france",
+        "usa",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese",
+        "chinese",
+        "japanese"
+      ]
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "アプリマーケティング",
+      "search-marketing": "検索マーケティング"
+    },
+    "scopes": {
+      "aso-optimization": "ASO対策",
+      "aso-localization": "アプリの多言語対応",
+      "ppc-audit": "広告アカウント診断",
+      "google-ads-search": "Google広告・検索広告",
+      "telegram-ads": "Telegram Ads",
+      "technical-seo": "テクニカルSEO",
+      "seo-research": "キーワード選定",
+      "content-strategy": "コンテンツ戦略"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "マーケティングコンサルティング",
+      "multilingual-seo": "多言語SEO"
+    },
+    "services": {
+      "aso": "ASO対策",
+      "ppc": "リスティング広告",
+      "seo": "SEO対策"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "フィンテック",
+      "ecommerce": "EC"
+    },
+    "languages": {
+      "english": "英語",
+      "japanese": "日本語"
+    },
+    "experts": {
+      "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
+    },
+    "countries": {
+      "eu": "欧州連合",
+      "japan": "日本"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "SEO対策の費用比較"
+    }
+  }
+}

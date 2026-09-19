@@ -1,0 +1,161 @@
+{
+  "languages": [
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "英語マーケティング｜ネイティブによる英語SEOとコンテンツ",
+      "description": "米国・英国をはじめ英語圏の市場へ広げる企業のための英語マーケティング。ネイティブが英語SEO対策とコンテンツを担当します。",
+      "menu": "英語",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67十億",
+      "market_speakers_display": "1.67十億",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "japanese",
+      "url": "/languages/japanese",
+      "title": "日本語ローカライズ｜ネイティブが担う日本語SEOと執筆",
+      "description": "日本市場に参入する海外企業のための日本語マーケティング。Yahoo! JAPAN、Google、LINEを日本語ネイティブの専門家が担当します。",
+      "menu": "日本語",
+      "featured": false,
+      "flag": "",
+      "code": "JA",
+      "native_speakers_l1": "117百万",
+      "market_speakers_display": "117百万",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "japan"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "検索マーケティング",
+      "community-marketing": "コミュニティマーケティング",
+      "app-marketing": "アプリマーケティング"
+    },
+    "scopes": {
+      "technical-seo": "テクニカルSEO",
+      "seo-research": "キーワード選定",
+      "aso-optimization": "ASO対策",
+      "aso-localization": "アプリの多言語対応",
+      "content-strategy": "コンテンツ戦略",
+      "content-writing": "記事作成代行",
+      "google-ads-search": "Google広告・検索広告",
+      "ppc-audit": "広告アカウント診断",
+      "telegram-ads": "Telegram Ads"
+    },
+    "experts": {
+      "dima-gerko": "ディマ・ゲルコ",
+      "vitali-bakun": "ヴィタリー・バクン",
+      "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "マーケティングコンサルティング",
+      "multilingual-seo": "多言語SEO"
+    },
+    "services": {
+      "content": "コンテンツマーケティング",
+      "social-media": "SNS運用代行",
+      "aso": "ASO対策",
+      "seo": "SEO対策",
+      "ppc": "リスティング広告"
+    },
+    "industries": {
+      "ecommerce": "EC",
+      "saas": "SaaS",
+      "fintech": "フィンテック"
+    },
+    "countries": {
+      "eu": "欧州連合",
+      "japan": "日本"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AIが引用先を選ぶ基準",
+      "seo-packages-comparison": "SEO対策の費用比較",
+      "why-seo-matters-in-2026": "2026年のSEOの必要性"
+    },
+    "positions": {
+      "seo-expert": "SEO担当",
+      "aso-specialist": "ASO担当",
+      "ppc-specialist": "広告運用担当"
+    }
+  }
+}

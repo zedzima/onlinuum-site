@@ -1,0 +1,210 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "アプリマーケティング｜ASO・集客・継続率を一体で設計",
+      "description": "パッケージ化されたアプリマーケティング。ASO対策、インストール広告、ストアページ改善、継続率向上をiOSとAndroidの多言語で一体運用します。",
+      "menu": "アプリマーケティング",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "コミュニティマーケティング｜ファンを育てるSNS運用",
+      "description": "SNS、コンテンツ、メールで信頼を集め、ファンコミュニティを育てるコミュニティマーケティング。広告に頼らない自然な集客の土台をつくります。",
+      "menu": "コミュニティマーケティング",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "SEMとは｜多言語の検索広告とSEOを一体で運用",
+      "description": "SEO、AEO、SEM、検索広告を買い手の言語ごとに組み立てる多言語の検索マーケティング。市場ごとのキーワード選定と広告文、測定は1つの基盤にまとめます。",
+      "menu": "検索マーケティング",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "ASO対策",
+      "aso-localization": "アプリの多言語対応",
+      "seo-research": "キーワード選定",
+      "content-strategy": "コンテンツ戦略",
+      "technical-seo": "テクニカルSEO",
+      "ppc-audit": "広告アカウント診断",
+      "google-ads-search": "Google広告・検索広告",
+      "content-writing": "記事作成代行"
+    },
+    "experts": {
+      "dima-gerko": "ディマ・ゲルコ",
+      "vitali-bakun": "ヴィタリー・バクン",
+      "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "マーケティングコンサルティング",
+      "multilingual-seo": "多言語SEO"
+    },
+    "services": {
+      "aso": "ASO対策",
+      "social-media": "SNS運用代行",
+      "content": "コンテンツマーケティング",
+      "seo": "SEO対策",
+      "ppc": "リスティング広告"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "フィンテック",
+      "ecommerce": "EC"
+    },
+    "countries": {
+      "eu": "欧州連合",
+      "japan": "日本"
+    },
+    "languages": {
+      "english": "英語"
+    },
+    "positions": {
+      "aso-specialist": "ASO担当",
+      "seo-expert": "SEO担当",
+      "ppc-specialist": "広告運用担当"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "ECサイトリニューアル",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AIが引用先を選ぶ基準",
+      "seo-packages-comparison": "SEO対策の費用比較",
+      "why-seo-matters-in-2026": "2026年のSEOの必要性"
+    }
+  }
+}

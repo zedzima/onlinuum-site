@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "how-ai-chooses-sources",
+    "url": "/blog/how-ai-chooses-sources",
+    "title": "LLMOとは：AIが引用するサイトを選ぶ基準",
+    "description": "ChatGPT、Perplexity、AI Overviewsが一部の情報源だけを引用し、ほかを無視する理由を、実測した引用パターンと自社サイトで直すべき点とともに解説します。",
+    "lang": "ja",
+    "category": "aeo",
+    "service": "aeo",
+    "tags": [
+      "AI",
+      "LLM Citations",
+      "GEO",
+      "Content Strategy"
+    ],
+    "price": null,
+    "featured": true,
+    "date": "2025-01-06",
+    "author": "dima-gerko",
+    "type": "research",
+    "reading_time": 1,
+    "scope": "ai-optimisation",
+    "industry": "ecommerce",
+    "country": "germany",
+    "language": "english",
+    "scopes": [
+      "ai-optimisation"
+    ],
+    "industries": [
+      "ecommerce",
+      "saas",
+      "fintech",
+      "healthcare",
+      "legal",
+      "automotive",
+      "manufacturing"
+    ],
+    "countries": [
+      "germany",
+      "usa",
+      "uk",
+      "poland",
+      "spain",
+      "portugal"
+    ],
+    "languages": [
+      "english",
+      "german",
+      "french",
+      "russian",
+      "polish",
+      "portuguese",
+      "spanish"
+    ]
+  },
+  {
+    "slug": "seo-packages-comparison",
+    "url": "/blog/seo-packages-comparison",
+    "title": "SEO対策の費用を比較：3つのプランと料金相場",
+    "description": "Managed・Strategic・EssentialのSEO対策プランを比較します。月額料金、対応できる作業量、実装の担当、レポート、診断の階層、そして対象外までまとめました。",
+    "lang": "ja",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "SEO Pricing",
+      "SEO Packages",
+      "International SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2026-07-16",
+    "author": "dmitriy-razakhatsky",
+    "type": "guide",
+    "reading_time": 3,
+    "scope": "seo-audit",
+    "industry": "ecommerce",
+    "country": "germany",
+    "language": "english",
+    "scopes": [
+      "seo-audit",
+      "technical-seo",
+      "seo-research",
+      "on-page-seo",
+      "link-building",
+      "cross-market-setup"
+    ],
+    "industries": [
+      "ecommerce",
+      "saas",
+      "fintech",
+      "healthcare",
+      "automotive",
+      "legal",
+      "manufacturing"
+    ],
+    "countries": [
+      "germany",
+      "usa",
+      "uk",
+      "france",
+      "austria",
+      "poland",
+      "portugal",
+      "spain"
+    ],
+    "languages": [
+      "english",
+      "german",
+      "french",
+      "spanish",
+      "russian",
+      "polish",
+      "portuguese"
+    ]
+  },
+  {
+    "slug": "why-seo-matters-in-2026",
+    "url": "/blog/why-seo-matters-in-2026",
+    "title": "SEOとは何か：2026年にSEO施策が効果を持つ理由",
+    "description": "役割とビジネスモデルによってSEOの効果への期待がどう変わるのか、いまなぜそれが重要なのか、今後何が変わりうるのか、そしてそれぞれにどんな制約があるのかを整理します。",
+    "lang": "ja",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "AEO",
+      "GEO"
+    ],
+    "price": null,
+    "featured": true,
+    "date": "2026-03-18",
+    "author": "dmitriy-razakhatsky",
+    "type": "guide",
+    "reading_time": 1,
+    "scope": "technical-seo",
+    "industry": "ecommerce",
+    "country": "germany",
+    "language": "english",
+    "scopes": [
+      "technical-seo",
+      "on-page-seo",
+      "ai-optimisation",
+      "seo-research",
+      "local-seo"
+    ],
+    "industries": [
+      "ecommerce",
+      "saas",
+      "fintech",
+      "automotive",
+      "manufacturing",
+      "legal"
+    ],
+    "countries": [
+      "germany",
+      "usa",
+      "portugal",
+      "poland",
+      "spain"
+    ],
+    "languages": [
+      "english",
+      "german",
+      "russian",
+      "french",
+      "polish",
+      "portuguese",
+      "spanish"
+    ]
+  }
+]

@@ -1,0 +1,254 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "アラアッディン・サラジュヤクプオール",
+      "description": "テクニカル診断、キーワード選定、AEO/GEO対策を5年以上担当するフルリモートのSEO専門家。BtoB、SaaS、EC向けの海外SEOをご相談ください。",
+      "role": "海外SEOコンサルタント",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "ディマ・ゲルコ",
+      "description": "デジタルマーケティング、SEO、ローカライズに15年以上。海外ブランド向けに拡張できる多言語グロースの仕組みを設計します。Google Partner認定。",
+      "role": "グローバルマーケティング責任者",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "ヴィタリー・バクン",
+      "description": "Google広告、Meta、LinkedIn、Bingで10年以上。BtoB、SaaS、モバイルアプリ向けにプラットフォームを横断したリスティング広告の設計と運用を担当します。",
+      "role": "広告運用コンサルタント｜リスティング広告と運用型広告の専門家",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "検索マーケティング",
+      "community-marketing": "コミュニティマーケティング",
+      "app-marketing": "アプリマーケティング"
+    },
+    "scopes": {
+      "seo-research": "キーワード選定",
+      "technical-seo": "テクニカルSEO",
+      "aso-localization": "アプリの多言語対応",
+      "aso-optimization": "ASO対策",
+      "content-strategy": "コンテンツ戦略",
+      "ppc-audit": "広告アカウント診断",
+      "google-ads-search": "Google広告・検索広告"
+    },
+    "services": {
+      "content": "コンテンツマーケティング",
+      "seo": "SEO対策",
+      "ppc": "リスティング広告",
+      "aso": "ASO対策"
+    },
+    "industries": {
+      "ecommerce": "EC",
+      "saas": "SaaS",
+      "fintech": "フィンテック"
+    },
+    "countries": {
+      "eu": "欧州連合",
+      "japan": "日本"
+    },
+    "languages": {
+      "english": "英語"
+    },
+    "positions": {
+      "seo-expert": "SEO担当"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "ECサイトリニューアル",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "マーケティングコンサルティング",
+      "multilingual-seo": "多言語SEO"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AIが引用先を選ぶ基準",
+      "seo-packages-comparison": "SEO対策の費用比較",
+      "why-seo-matters-in-2026": "2026年のSEOの必要性"
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "cases": [
+    {
+      "slug": "alvadi",
+      "url": "/cases/alvadi",
+      "title": "Google広告の事例｜自動車ECの越境広告で成果を伸ばす",
+      "card_title": "多言語Google広告の拡大",
+      "description": "ALVADIが自動車ECのGoogle広告を5言語へ拡大し、売上2.4倍・転換率2.2倍を達成した事例です。越境ECの広告運用をどう組み立てたかをご覧ください。",
+      "menu": "ALVADI",
+      "featured": true,
+      "client": "ALVADI",
+      "image": "/_media/logos/alvadi.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "ecommerce",
+      "country": "eu",
+      "language": "",
+      "results": [
+        {
+          "value": "2.4倍",
+          "label": "Google広告の売上"
+        },
+        {
+          "value": "12",
+          "label": "比較した月数"
+        },
+        {
+          "value": "5",
+          "label": "キャンペーンの言語数"
+        }
+      ],
+      "primary_result": {
+        "value": "2.4倍",
+        "label": "Google広告の売上"
+      },
+      "timeline": {
+        "value": "12",
+        "label": "比較した月数"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ]
+      }
+    },
+    {
+      "slug": "bamboo-ppc-landing-pages",
+      "url": "/cases/bamboo-ppc-landing-pages",
+      "title": "リスティング広告のLP最適化｜BtoBのリード獲得を伸ばす",
+      "card_title": "動的に生成する広告LP",
+      "description": "Bamboo Groupが絞り込んだBtoBの提供内容で広告LPを立ち上げ、数日で転換率4.22%・獲得単価$9.89を達成した事例です。ランディングページ改善の考え方をご覧ください。",
+      "menu": "Bamboo Group",
+      "featured": true,
+      "client": "Bamboo Group",
+      "image": "/_media/logos/bamboo-group.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "saas",
+      "country": "eu",
+      "language": "english",
+      "results": [
+        {
+          "value": "4.22%",
+          "label": "全体の転換率"
+        },
+        {
+          "value": "2日",
+          "label": "初回転換までの日数"
+        },
+        {
+          "value": "52",
+          "label": "制作したLP数"
+        }
+      ],
+      "primary_result": {
+        "value": "4.22%",
+        "label": "全体の転換率"
+      },
+      "timeline": {
+        "value": "2日",
+        "label": "初回転換までの日数"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "ecommerce-migration-2025",
+      "url": "/cases/ecommerce-migration-2025",
+      "title": "サイトリニューアルとSEO｜移行後に流入を120%回復した事例",
+      "card_title": "ECサイトリニューアルとSEO移行",
+      "description": "ECサイトリニューアル後に失った検索流入を、テクニカルSEOの診断とリダイレクト設計で120%まで回復させた事例です。サイト移転やドメイン変更の注意点もご確認ください。",
+      "menu": "ECサイトリニューアル",
+      "featured": false,
+      "client": "ファッション小売企業・ドイツ",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "ecommerce",
+      "country": "germany",
+      "language": "german",
+      "results": [
+        {
+          "value": "120%",
+          "label": "流入の回復率"
+        },
+        {
+          "value": "3か月",
+          "label": "期間"
+        },
+        {
+          "value": "15,000",
+          "label": "リダイレクトしたURL"
+        }
+      ],
+      "primary_result": {
+        "value": "120%",
+        "label": "流入の回復率"
+      },
+      "timeline": {
+        "value": "3か月",
+        "label": "期間"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "検索マーケティング"
+    },
+    "scopes": {
+      "google-ads-search": "Google広告・検索広告",
+      "technical-seo": "テクニカルSEO"
+    },
+    "experts": {
+      "dima-gerko": "ディマ・ゲルコ",
+      "vitali-bakun": "ヴィタリー・バクン"
+    },
+    "services": {
+      "ppc": "リスティング広告",
+      "seo": "SEO対策"
+    },
+    "industries": {
+      "ecommerce": "EC",
+      "saas": "SaaS"
+    },
+    "countries": {
+      "eu": "欧州連合"
+    },
+    "languages": {
+      "english": "英語"
+    }
+  }
+}

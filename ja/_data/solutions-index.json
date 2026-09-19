@@ -1,0 +1,162 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "マーケティングコンサルティング｜実務まで担う外部CMO",
+      "description": "海外展開とBtoBのためのマーケティングコンサルティング。実務経験のあるコンサルタントが、固定料金のご支援で48時間以内に方針を提示します。",
+      "menu": "マーケティングコンサルティング",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "多言語SEO｜15言語で海外SEOとhreflangを一括設計",
+      "description": "複数言語で運営するサイトのための多言語SEO。ネイティブによるキーワード選定、hreflang設計、言語ごとの品質管理まで。海外SEO対策を一気通貫でご支援します。",
+      "menu": "多言語SEO",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "検索マーケティング",
+      "community-marketing": "コミュニティマーケティング",
+      "app-marketing": "アプリマーケティング"
+    },
+    "scopes": {
+      "seo-research": "キーワード選定",
+      "technical-seo": "テクニカルSEO",
+      "aso-optimization": "ASO対策",
+      "aso-localization": "アプリの多言語対応",
+      "content-strategy": "コンテンツ戦略",
+      "google-ads-search": "Google広告・検索広告",
+      "ppc-audit": "広告アカウント診断",
+      "telegram-ads": "Telegram Ads"
+    },
+    "experts": {
+      "dima-gerko": "ディマ・ゲルコ",
+      "vitali-bakun": "ヴィタリー・バクン"
+    },
+    "services": {
+      "content": "コンテンツマーケティング",
+      "aso": "ASO対策",
+      "seo": "SEO対策",
+      "ppc": "リスティング広告"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "EC",
+      "fintech": "フィンテック"
+    },
+    "countries": {
+      "eu": "欧州連合",
+      "japan": "日本"
+    },
+    "languages": {
+      "english": "英語"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AIが引用先を選ぶ基準",
+      "seo-packages-comparison": "SEO対策の費用比較",
+      "why-seo-matters-in-2026": "2026年のSEOの必要性"
+    },
+    "positions": {
+      "seo-expert": "SEO担当",
+      "aso-specialist": "ASO担当",
+      "ppc-specialist": "広告運用担当"
+    }
+  }
+}

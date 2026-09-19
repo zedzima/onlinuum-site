@@ -1,0 +1,170 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "ヨーロッパ市場のデジタルマーケティング｜欧州進出を支援",
+      "description": "西欧、東欧、南欧、北欧をまたぐヨーロッパのデジタルマーケティング。市場ごとにネイティブのチーム、EU共通の戦略、レポートは1本にまとめます。",
+      "menu": "欧州連合",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452百万",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "英語",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "japan",
+      "url": "/countries/japan",
+      "title": "日本市場のマーケティング｜日本進出とインバウンド集客を支援",
+      "description": "海外ブランドの日本進出を支援するマーケティング会社。日本語ネイティブの担当者が、固定料金のメニューでインバウンド集客までを実行します。",
+      "menu": "日本",
+      "featured": false,
+      "flag": "🇯🇵",
+      "population_total": "123百万",
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "日本語",
+      "dominant_language_code": "ja",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "japanese"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "検索マーケティング",
+      "community-marketing": "コミュニティマーケティング",
+      "app-marketing": "アプリマーケティング"
+    },
+    "scopes": {
+      "technical-seo": "テクニカルSEO",
+      "seo-research": "キーワード選定",
+      "aso-optimization": "ASO対策",
+      "aso-localization": "アプリの多言語対応"
+    },
+    "experts": {
+      "dima-gerko": "ディマ・ゲルコ",
+      "vitali-bakun": "ヴィタリー・バクン",
+      "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "マーケティングコンサルティング",
+      "multilingual-seo": "多言語SEO"
+    },
+    "services": {
+      "content": "コンテンツマーケティング",
+      "social-media": "SNS運用代行",
+      "aso": "ASO対策",
+      "seo": "SEO対策",
+      "ppc": "リスティング広告"
+    },
+    "industries": {
+      "ecommerce": "EC",
+      "saas": "SaaS",
+      "fintech": "フィンテック"
+    },
+    "languages": {
+      "english": "英語",
+      "japanese": "日本語"
+    },
+    "positions": {
+      "seo-expert": "SEO担当"
+    }
+  }
+}
