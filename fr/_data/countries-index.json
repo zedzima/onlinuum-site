@@ -1,0 +1,189 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "Marketing Digital en Europe : SEO et SEA",
+      "description": "Marketing digital en Europe de l'Ouest, de l'Est, du Sud et dans les pays nordiques : des équipes natives par marché, un cadre commun, un seul reporting.",
+      "menu": "Union européenne",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 M",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "anglais",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "france",
+      "url": "/countries/france",
+      "title": "Agence Marketing Digital en France et à Paris",
+      "description": "Agence marketing digital pour le marché français : des services packagés portés par des experts natifs, à Paris comme en région. Commencez ici.",
+      "menu": "France",
+      "featured": false,
+      "flag": "🇫🇷",
+      "population_total": "68.4 M",
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "français",
+      "dominant_language_code": "fr",
+      "scope_count": 8,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "french",
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Search marketing",
+      "community-marketing": "Community marketing",
+      "app-marketing": "Marketing mobile"
+    },
+    "scopes": {
+      "technical-seo": "SEO technique",
+      "seo-research": "Recherche SEO",
+      "aso-optimization": "Classement App Store",
+      "aso-localization": "Localisation d'application",
+      "content-strategy": "Stratégie de contenu",
+      "content-writing": "Rédaction web",
+      "google-ads-search": "Campagnes Google Ads",
+      "ppc-audit": "Audit SEA"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Conseil en marketing digital",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "content": "Content marketing",
+      "social-media": "Réseaux sociaux",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "SEA"
+    },
+    "industries": {
+      "ecommerce": "E-commerce et retail",
+      "saas": "Éditeurs SaaS",
+      "fintech": "Fintech et banque"
+    },
+    "languages": {
+      "english": "Anglais",
+      "french": "Français"
+    },
+    "positions": {
+      "seo-expert": "Consultant SEO",
+      "aso-specialist": "Spécialiste ASO",
+      "ppc-specialist": "Spécialiste SEA"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "Comparatif des offres SEO"
+    }
+  }
+}

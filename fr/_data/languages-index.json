@@ -1,0 +1,203 @@
+{
+  "languages": [
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "Marketing et Rédaction en Anglais : Experts Natifs",
+      "description": "Marketing en anglais pour les marques qui visent les marchés américain, britannique et mondiaux : experts natifs, livraison packagée.",
+      "menu": "Anglais",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67 Md",
+      "market_speakers_display": "1.67 Md",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "france",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "french",
+      "url": "/languages/french",
+      "title": "Marketing en Français : Experts Natifs",
+      "description": "Marketing en français pour les marques qui visent la France et le monde francophone : experts natifs, livraison packagée. Découvrez nos services.",
+      "menu": "Français",
+      "featured": false,
+      "flag": "",
+      "code": "FR",
+      "native_speakers_l1": "267 M",
+      "market_speakers_display": "267 M",
+      "market_country_count": 25,
+      "official_countries_count": 25,
+      "scope_count": 8,
+      "service_count": 4,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "france",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Search marketing",
+      "community-marketing": "Community marketing",
+      "app-marketing": "Marketing mobile"
+    },
+    "scopes": {
+      "technical-seo": "SEO technique",
+      "seo-research": "Recherche SEO",
+      "aso-optimization": "Classement App Store",
+      "aso-localization": "Localisation d'application",
+      "content-strategy": "Stratégie de contenu",
+      "content-writing": "Rédaction web",
+      "google-ads-search": "Campagnes Google Ads",
+      "ppc-audit": "Audit SEA",
+      "telegram-ads": "Publicité Telegram"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Conseil en marketing digital",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "content": "Content marketing",
+      "social-media": "Réseaux sociaux",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "SEA"
+    },
+    "industries": {
+      "ecommerce": "E-commerce et retail",
+      "saas": "Éditeurs SaaS",
+      "fintech": "Fintech et banque"
+    },
+    "countries": {
+      "france": "France",
+      "eu": "Union européenne"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Comment l'IA choisit ses sources",
+      "seo-packages-comparison": "Comparatif des offres SEO",
+      "why-seo-matters-in-2026": "Pourquoi le SEO compte en 2026"
+    },
+    "positions": {
+      "seo-expert": "Consultant SEO",
+      "aso-specialist": "Spécialiste ASO",
+      "ppc-specialist": "Spécialiste SEA"
+    }
+  }
+}

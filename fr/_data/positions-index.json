@@ -1,0 +1,361 @@
+{
+  "positions": [
+    {
+      "slug": "aso-specialist",
+      "url": "/positions/aso-specialist",
+      "title": "Spécialiste ASO",
+      "description": "Emploi ASO en remote chez Onlinuum : portez l'app store optimization, gardez 40 % des revenus, travaillez en plusieurs langues. Postulez aujourd'hui.",
+      "menu": "Spécialiste ASO",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Nous intégrons activement des spécialistes ASO au réseau",
+        "badge_active": "Recrutement actif sur des packs en cours",
+        "apply_label": "Postuler / se présenter",
+        "label_service": "Service principal",
+        "label_countries": "Marchés prioritaires",
+        "label_languages": "Langues de travail",
+        "label_industries": "Secteurs prioritaires",
+        "label_experience": "Séniorité",
+        "label_engagement": "Type de mission",
+        "label_commitment": "Disponibilité",
+        "engagement_type": "À la mission / temps partiel",
+        "working_hours": "10 à 25 heures par semaine selon les packs actifs",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Allemagne",
+          "Royaume-Uni",
+          "États-Unis",
+          "France",
+          "Pologne"
+        ],
+        "date_posted": "2026-04-08",
+        "direct_apply": true,
+        "identifier": "onlinuum-aso-specialist",
+        "experience_requirements": "Au moins 2 ans de pratique ASO en recherche de mots-clés, optimisation des métadonnées et tests A/B.",
+        "education_requirements": "aucune exigence"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "france"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ]
+      },
+      "services": [
+        "aso",
+        "app-user-acquisition",
+        "app-conversion-retention"
+      ],
+      "scopes": [
+        "aso-optimization",
+        "aso-localization",
+        "app-store-cro",
+        "apple-search-ads"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "austria",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese"
+      ]
+    },
+    {
+      "slug": "ppc-specialist",
+      "url": "/positions/ppc-specialist",
+      "title": "Spécialiste SEA",
+      "description": "Emploi SEA en remote chez Onlinuum : portez le référencement payant, Google Shopping et YouTube Ads sur 6 marchés prioritaires. Postulez aujourd'hui.",
+      "menu": "Spécialiste SEA",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Nous intégrons activement des spécialistes SEA au réseau",
+        "badge_active": "Recrutement actif sur des packs en cours",
+        "apply_label": "Postuler / se présenter",
+        "label_service": "Service principal",
+        "label_countries": "Marchés prioritaires",
+        "label_languages": "Langues de travail",
+        "label_industries": "Secteurs prioritaires",
+        "label_experience": "Séniorité",
+        "label_engagement": "Type de mission",
+        "label_commitment": "Disponibilité",
+        "engagement_type": "À la mission / temps partiel",
+        "working_hours": "10 à 25 heures par semaine selon les packs actifs",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "États-Unis",
+          "Royaume-Uni",
+          "Allemagne",
+          "France",
+          "Pologne"
+        ],
+        "date_posted": "2026-04-12",
+        "direct_apply": true,
+        "identifier": "onlinuum-ppc-specialist",
+        "experience_requirements": "Au moins 2 ans de gestion SEA en pratique sur Google Ads et au moins un pack supplémentaire.",
+        "education_requirements": "aucune exigence"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "france"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ]
+      },
+      "services": [
+        "ppc"
+      ],
+      "scopes": [
+        "ppc-audit",
+        "google-ads-search",
+        "microsoft-ads",
+        "google-shopping",
+        "remarketing-display",
+        "youtube-ads",
+        "local-services-ads"
+      ],
+      "countries": [
+        "usa",
+        "uk",
+        "germany",
+        "france",
+        "poland",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish"
+      ]
+    },
+    {
+      "slug": "seo-expert",
+      "url": "/positions/seo-expert",
+      "title": "Consultant SEO",
+      "description": "Emploi SEO en remote chez Onlinuum : portez les audits techniques et l'exécution on-page, gardez 40 % des revenus. Postulez dès aujourd'hui.",
+      "menu": "Consultant SEO",
+      "featured": false,
+      "expert_count": 1,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Nous intégrons activement des consultants SEO au réseau",
+        "badge_active": "Recrutement SEO actif sur des packs en cours",
+        "apply_label": "Postuler / se présenter",
+        "label_service": "Service principal",
+        "label_countries": "Marchés prioritaires",
+        "label_languages": "Langues de travail",
+        "label_industries": "Secteurs prioritaires",
+        "label_experience": "Séniorité",
+        "label_engagement": "Type de mission",
+        "label_commitment": "Disponibilité",
+        "engagement_type": "À la mission / temps partiel",
+        "working_hours": "10 à 30 heures par semaine selon les packs actifs",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Allemagne",
+          "Autriche",
+          "Royaume-Uni",
+          "France",
+          "États-Unis"
+        ],
+        "date_posted": "2026-03-31",
+        "direct_apply": true,
+        "identifier": "onlinuum-seo-expert",
+        "experience_requirements": "Au moins 5 ans de pratique SEO sur des packs techniques, on-page ou de référencement international.",
+        "education_requirements": "aucune exigence"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "france",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ]
+      },
+      "services": [
+        "seo"
+      ],
+      "scopes": [
+        "technical-seo",
+        "seo-research",
+        "on-page-seo",
+        "link-building",
+        "cross-market-setup",
+        "ai-optimisation",
+        "local-seo"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "uk",
+        "france",
+        "usa",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese",
+        "chinese",
+        "japanese"
+      ]
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Marketing mobile",
+      "search-marketing": "Search marketing"
+    },
+    "scopes": {
+      "aso-optimization": "Classement App Store",
+      "aso-localization": "Localisation d'application",
+      "ppc-audit": "Audit SEA",
+      "google-ads-search": "Campagnes Google Ads",
+      "telegram-ads": "Publicité Telegram",
+      "technical-seo": "SEO technique",
+      "seo-research": "Recherche SEO",
+      "content-strategy": "Stratégie de contenu"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Conseil en marketing digital",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "aso": "ASO",
+      "ppc": "SEA",
+      "seo": "SEO"
+    },
+    "industries": {
+      "saas": "Éditeurs SaaS",
+      "fintech": "Fintech et banque",
+      "ecommerce": "E-commerce et retail"
+    },
+    "countries": {
+      "france": "France",
+      "eu": "Union européenne"
+    },
+    "languages": {
+      "english": "Anglais",
+      "french": "Français"
+    },
+    "experts": {
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "Comparatif des offres SEO"
+    }
+  }
+}
