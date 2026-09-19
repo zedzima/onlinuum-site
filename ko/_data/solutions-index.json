@@ -1,0 +1,162 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "마케팅 컨설팅: 시니어 전문가, 고정 비용",
+      "description": "해외 진출 기업과 B2B 브랜드를 위한 디지털 마케팅 컨설팅입니다. 시니어 컨설턴트가 상품화된 프로젝트로 48시간 안에 범위를 확정합니다.",
+      "menu": "디지털 마케팅 컨설팅",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "해외 SEO: 15개 이상 언어의 다국어 검색 최적화",
+      "description": "여러 언어로 운영하는 브랜드를 위한 해외 SEO입니다. 원어민 키워드 분석, hreflang 구조 설계, 언어별 품질 검수로 다국어 홈페이지의 검색 노출을 되살립니다.",
+      "menu": "다국어 SEO",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "검색엔진 마케팅",
+      "community-marketing": "커뮤니티 마케팅",
+      "app-marketing": "앱 마케팅"
+    },
+    "scopes": {
+      "seo-research": "SEO 키워드 분석",
+      "technical-seo": "테크니컬 SEO",
+      "aso-optimization": "ASO 최적화",
+      "aso-localization": "ASO 현지화",
+      "content-strategy": "콘텐츠 기획",
+      "google-ads-search": "구글 검색광고",
+      "ppc-audit": "광고 성과 분석",
+      "telegram-ads": "텔레그램 광고"
+    },
+    "experts": {
+      "dima-gerko": "디마 게르코",
+      "vitali-bakun": "비탈리 바쿤"
+    },
+    "services": {
+      "content": "콘텐츠 마케팅",
+      "aso": "ASO 최적화",
+      "seo": "SEO 대행",
+      "ppc": "검색광고"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "이커머스",
+      "fintech": "핀테크"
+    },
+    "countries": {
+      "eu": "유럽연합",
+      "south-korea": "대한민국"
+    },
+    "languages": {
+      "english": "영어"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
+      "seo-packages-comparison": "SEO 패키지 비교",
+      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    },
+    "positions": {
+      "seo-expert": "SEO 채용",
+      "aso-specialist": "ASO 전문가",
+      "ppc-specialist": "퍼포먼스 마케터"
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "유럽 마케팅: EU 시장 진출을 위한 PPC와 SEO",
+      "description": "서유럽·동유럽·남유럽·북유럽을 아우르는 유럽 마케팅. 국가마다 원어민 팀이 실행하고, EU 준법 전략과 리포트는 하나로 묶습니다.",
+      "menu": "유럽연합",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 M",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "영어",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "south-korea",
+      "url": "/countries/south-korea",
+      "title": "네이버 마케팅: 한국 진출을 위한 네이버와 구글",
+      "description": "한국 시장에 진출하는 해외 브랜드를 위한 디지털 마케팅 대행. 한국어 원어민 전문가가 상품화된 서비스로 실행합니다.",
+      "menu": "대한민국",
+      "featured": false,
+      "flag": "🇰🇷",
+      "population_total": "52.1 M",
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "한국어",
+      "dominant_language_code": "ko",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "korean"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "검색엔진 마케팅",
+      "community-marketing": "커뮤니티 마케팅",
+      "app-marketing": "앱 마케팅"
+    },
+    "scopes": {
+      "technical-seo": "테크니컬 SEO",
+      "seo-research": "SEO 키워드 분석",
+      "aso-optimization": "ASO 최적화",
+      "aso-localization": "ASO 현지화"
+    },
+    "experts": {
+      "dima-gerko": "디마 게르코",
+      "vitali-bakun": "비탈리 바쿤",
+      "alaaddin-saracyakupoglu": "알라딘 사라차쿠포글루"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
+      "multilingual-seo": "다국어 SEO"
+    },
+    "services": {
+      "content": "콘텐츠 마케팅",
+      "social-media": "SNS 마케팅",
+      "aso": "ASO 최적화",
+      "seo": "SEO 대행",
+      "ppc": "검색광고"
+    },
+    "industries": {
+      "ecommerce": "이커머스",
+      "saas": "SaaS",
+      "fintech": "핀테크"
+    },
+    "languages": {
+      "english": "영어",
+      "korean": "한국어"
+    },
+    "positions": {
+      "seo-expert": "SEO 채용"
+    }
+  }
+}

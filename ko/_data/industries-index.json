@@ -1,0 +1,260 @@
+{
+  "industries": [
+    {
+      "slug": "ecommerce",
+      "url": "/industries/ecommerce",
+      "title": "이커머스 마케팅: 쇼핑몰 SEO와 구글 쇼핑 광고",
+      "description": "쇼핑몰과 리테일 브랜드를 위한 이커머스 마케팅 대행사. 이커머스 SEO, 쇼핑 광고, 다국어 실행을 한 체계로 운영합니다.",
+      "menu": "이커머스",
+      "featured": false,
+      "icon": "ecommerce",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "fintech",
+      "url": "/industries/fintech",
+      "title": "핀테크 마케팅: 금융 광고와 규제 대응 SEO",
+      "description": "네오뱅크, 결제, 인슈어테크를 위한 핀테크 마케팅 대행사. 규제를 먼저 고려한 SEO와 PR, 다국어 성장 실행을 제공합니다.",
+      "menu": "핀테크",
+      "featured": false,
+      "icon": "fintech",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "saas",
+      "url": "/industries/saas",
+      "title": "SaaS 마케팅: B2B 수요 창출과 CAC 절감",
+      "description": "B2B 소프트웨어를 위한 SaaS 마케팅 대행사. SEO와 수요 창출, 다국어 캠페인으로 CAC를 낮추고 MRR을 키웁니다.",
+      "menu": "SaaS",
+      "featured": false,
+      "icon": "monitor",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "검색엔진 마케팅",
+      "community-marketing": "커뮤니티 마케팅",
+      "app-marketing": "앱 마케팅"
+    },
+    "scopes": {
+      "seo-research": "SEO 키워드 분석",
+      "technical-seo": "테크니컬 SEO",
+      "aso-optimization": "ASO 최적화",
+      "aso-localization": "ASO 현지화",
+      "content-strategy": "콘텐츠 기획",
+      "content-writing": "블로그 대행",
+      "google-ads-search": "구글 검색광고",
+      "ppc-audit": "광고 성과 분석",
+      "telegram-ads": "텔레그램 광고"
+    },
+    "experts": {
+      "dima-gerko": "디마 게르코",
+      "vitali-bakun": "비탈리 바쿤",
+      "alaaddin-saracyakupoglu": "알라딘 사라차쿠포글루"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "이커머스 플랫폼 이전",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
+      "multilingual-seo": "다국어 SEO"
+    },
+    "services": {
+      "content": "콘텐츠 마케팅",
+      "aso": "ASO 최적화",
+      "seo": "SEO 대행",
+      "ppc": "검색광고",
+      "social-media": "SNS 마케팅"
+    },
+    "countries": {
+      "eu": "유럽연합",
+      "south-korea": "대한민국"
+    },
+    "languages": {
+      "english": "영어"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
+      "seo-packages-comparison": "SEO 패키지 비교",
+      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    },
+    "positions": {
+      "seo-expert": "SEO 채용",
+      "aso-specialist": "ASO 전문가",
+      "ppc-specialist": "퍼포먼스 마케터"
+    }
+  }
+}

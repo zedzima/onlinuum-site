@@ -1,0 +1,210 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "앱 마케팅: ASO, UA, 리텐션까지 한 번에",
+      "description": "상품화된 앱 마케팅 서비스입니다. iOS와 안드로이드에서 ASO, 유료 사용자 획득, 스토어 CRO, 리텐션을 여러 언어로 운영합니다. 포함 범위를 확인해 보십시오.",
+      "menu": "앱 마케팅",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "커뮤니티 마케팅: 소셜과 콘텐츠로 만드는 팬덤",
+      "description": "SNS, 콘텐츠, 영상, 이메일을 하나로 묶는 커뮤니티 마케팅 서비스입니다. 관심을 사는 대신 신뢰를 쌓아 브랜드 커뮤니티와 자연 유입을 키웁니다.",
+      "menu": "커뮤니티 마케팅",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "검색엔진 마케팅(SEM): 다국어 검색 광고와 SEO",
+      "description": "다국어 검색엔진 마케팅을 SEO, AEO, SEM, 검색광고로 함께 운영합니다. 언어별 원어민 키워드 분석과 광고 문안, 모든 시장을 하나로 보는 측정 체계를 제공합니다.",
+      "menu": "검색엔진 마케팅",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "ASO 최적화",
+      "aso-localization": "ASO 현지화",
+      "seo-research": "SEO 키워드 분석",
+      "content-strategy": "콘텐츠 기획",
+      "technical-seo": "테크니컬 SEO",
+      "ppc-audit": "광고 성과 분석",
+      "google-ads-search": "구글 검색광고",
+      "content-writing": "블로그 대행"
+    },
+    "experts": {
+      "dima-gerko": "디마 게르코",
+      "vitali-bakun": "비탈리 바쿤",
+      "alaaddin-saracyakupoglu": "알라딘 사라차쿠포글루"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
+      "multilingual-seo": "다국어 SEO"
+    },
+    "services": {
+      "aso": "ASO 최적화",
+      "social-media": "SNS 마케팅",
+      "content": "콘텐츠 마케팅",
+      "seo": "SEO 대행",
+      "ppc": "검색광고"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "핀테크",
+      "ecommerce": "이커머스"
+    },
+    "countries": {
+      "eu": "유럽연합",
+      "south-korea": "대한민국"
+    },
+    "languages": {
+      "english": "영어"
+    },
+    "positions": {
+      "aso-specialist": "ASO 전문가",
+      "seo-expert": "SEO 채용",
+      "ppc-specialist": "퍼포먼스 마케터"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "이커머스 플랫폼 이전",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
+      "seo-packages-comparison": "SEO 패키지 비교",
+      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    }
+  }
+}

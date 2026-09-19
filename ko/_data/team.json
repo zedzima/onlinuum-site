@@ -1,0 +1,254 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "알라딘 사라차쿠포글루",
+      "description": "테크니컬 점검, 키워드 분석, AEO/GEO를 5년 넘게 다룬 원격 SEO 전문가. B2B/SaaS와 이커머스 브랜드를 위한 SEO 컨설팅을 문의해 보십시오.",
+      "role": "SEO 전문가",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "디마 게르코",
+      "description": "디지털 마케팅과 SEO, 현지화 15년 경력. 해외 브랜드를 위한 확장 가능한 다국어 성장 체계를 설계하는 그로스 마케터. 공인 Google Partner입니다.",
+      "role": "글로벌 그로스 마케터",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "비탈리 바쿤",
+      "description": "구글애즈, Meta, LinkedIn, Bing에서 10년 넘게 유료 광고를 운영해 온 퍼포먼스 마케터. B2B, SaaS, 모바일 앱을 위한 플랫폼 전반의 PPC 전략을 담당합니다.",
+      "role": "구글 광고 전문가 · 퍼포먼스 마케터",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "검색엔진 마케팅",
+      "community-marketing": "커뮤니티 마케팅",
+      "app-marketing": "앱 마케팅"
+    },
+    "scopes": {
+      "seo-research": "SEO 키워드 분석",
+      "technical-seo": "테크니컬 SEO",
+      "aso-localization": "ASO 현지화",
+      "aso-optimization": "ASO 최적화",
+      "content-strategy": "콘텐츠 기획",
+      "ppc-audit": "광고 성과 분석",
+      "google-ads-search": "구글 검색광고"
+    },
+    "services": {
+      "content": "콘텐츠 마케팅",
+      "seo": "SEO 대행",
+      "ppc": "검색광고",
+      "aso": "ASO 최적화"
+    },
+    "industries": {
+      "ecommerce": "이커머스",
+      "saas": "SaaS",
+      "fintech": "핀테크"
+    },
+    "countries": {
+      "eu": "유럽연합",
+      "south-korea": "대한민국"
+    },
+    "languages": {
+      "english": "영어"
+    },
+    "positions": {
+      "seo-expert": "SEO 채용"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "이커머스 플랫폼 이전",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
+      "multilingual-seo": "다국어 SEO"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
+      "seo-packages-comparison": "SEO 패키지 비교",
+      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    }
+  }
+}

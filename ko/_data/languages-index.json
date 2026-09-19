@@ -1,0 +1,161 @@
+{
+  "languages": [
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "미국 마케팅: 영문 사이트와 영어 광고 운영",
+      "description": "미국과 영국, 영어권 시장에 진출하는 브랜드를 위한 영어 마케팅. 영어 원어민 전문가가 상품화된 방식으로 실행합니다.",
+      "menu": "영어",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67 B",
+      "market_speakers_display": "1.67 B",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "korean",
+      "url": "/languages/korean",
+      "title": "네이버 SEO: 한국어 원어민이 만드는 상위노출",
+      "description": "한국 시장에 진출하는 브랜드를 위한 한국어 마케팅. 네이버와 구글, 카카오톡을 원어민 전문가가 함께 다룹니다.",
+      "menu": "한국어",
+      "featured": false,
+      "flag": "",
+      "code": "KO",
+      "native_speakers_l1": "52.1 M",
+      "market_speakers_display": "52.1 M",
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "south-korea"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "검색엔진 마케팅",
+      "community-marketing": "커뮤니티 마케팅",
+      "app-marketing": "앱 마케팅"
+    },
+    "scopes": {
+      "technical-seo": "테크니컬 SEO",
+      "seo-research": "SEO 키워드 분석",
+      "aso-optimization": "ASO 최적화",
+      "aso-localization": "ASO 현지화",
+      "content-strategy": "콘텐츠 기획",
+      "content-writing": "블로그 대행",
+      "google-ads-search": "구글 검색광고",
+      "ppc-audit": "광고 성과 분석",
+      "telegram-ads": "텔레그램 광고"
+    },
+    "experts": {
+      "dima-gerko": "디마 게르코",
+      "vitali-bakun": "비탈리 바쿤",
+      "alaaddin-saracyakupoglu": "알라딘 사라차쿠포글루"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
+      "multilingual-seo": "다국어 SEO"
+    },
+    "services": {
+      "content": "콘텐츠 마케팅",
+      "social-media": "SNS 마케팅",
+      "aso": "ASO 최적화",
+      "seo": "SEO 대행",
+      "ppc": "검색광고"
+    },
+    "industries": {
+      "ecommerce": "이커머스",
+      "saas": "SaaS",
+      "fintech": "핀테크"
+    },
+    "countries": {
+      "eu": "유럽연합",
+      "south-korea": "대한민국"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
+      "seo-packages-comparison": "SEO 패키지 비교",
+      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    },
+    "positions": {
+      "seo-expert": "SEO 채용",
+      "aso-specialist": "ASO 전문가",
+      "ppc-specialist": "퍼포먼스 마케터"
+    }
+  }
+}

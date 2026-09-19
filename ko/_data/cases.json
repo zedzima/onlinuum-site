@@ -1,0 +1,203 @@
+{
+  "cases": [
+    {
+      "slug": "alvadi",
+      "url": "/cases/alvadi",
+      "title": "자동차 부품 쇼핑몰 구글 광고 사례: 매출 2.4배",
+      "card_title": "다국어 구글 광고 확장",
+      "description": "ALVADI가 5개 언어로 구글 광고를 확장해 매출 2.4배, 전환율 2.2배를 기록한 자동차 부품 쇼핑몰 구글 광고 성공사례입니다.",
+      "menu": "ALVADI",
+      "featured": true,
+      "client": "ALVADI",
+      "image": "/_media/logos/alvadi.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "ecommerce",
+      "country": "eu",
+      "language": "",
+      "results": [
+        {
+          "value": "2.4배",
+          "label": "구글 광고 매출"
+        },
+        {
+          "value": "12",
+          "label": "비교 개월 수"
+        },
+        {
+          "value": "5",
+          "label": "캠페인 언어"
+        }
+      ],
+      "primary_result": {
+        "value": "2.4배",
+        "label": "구글 광고 매출"
+      },
+      "timeline": {
+        "value": "12",
+        "label": "비교 개월 수"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ]
+      }
+    },
+    {
+      "slug": "bamboo-ppc-landing-pages",
+      "url": "/cases/bamboo-ppc-landing-pages",
+      "title": "광고 랜딩페이지 사례: B2B 리드 전환율 4.22%",
+      "card_title": "동적 광고 랜딩페이지",
+      "description": "Bamboo Group이 좁은 B2B 오퍼를 위해 광고 랜딩페이지 52개를 만들어 전환율 4.22%, 전환당 비용 $9.89를 기록한 사례입니다.",
+      "menu": "Bamboo Group",
+      "featured": true,
+      "client": "Bamboo Group",
+      "image": "/_media/logos/bamboo-group.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "saas",
+      "country": "eu",
+      "language": "english",
+      "results": [
+        {
+          "value": "4.22%",
+          "label": "총 전환율"
+        },
+        {
+          "value": "2일",
+          "label": "첫 전환까지"
+        },
+        {
+          "value": "52",
+          "label": "제작한 랜딩페이지"
+        }
+      ],
+      "primary_result": {
+        "value": "4.22%",
+        "label": "총 전환율"
+      },
+      "timeline": {
+        "value": "2일",
+        "label": "첫 전환까지"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "ecommerce-migration-2025",
+      "url": "/cases/ecommerce-migration-2025",
+      "title": "홈페이지 리뉴얼 SEO 사례: 트래픽 120% 회복",
+      "card_title": "이커머스 플랫폼 이전과 홈페이지 리뉴얼",
+      "description": "이커머스 플랫폼 이전 후 기술 점검과 리다이렉션 매핑으로 자연 검색 트래픽을 120% 회복한 홈페이지 리뉴얼 SEO 사례입니다. 3개월의 작업 과정을 확인해 보세요.",
+      "menu": "이커머스 플랫폼 이전",
+      "featured": false,
+      "client": "패션 리테일 기업 · 독일",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "ecommerce",
+      "country": "germany",
+      "language": "german",
+      "results": [
+        {
+          "value": "120%",
+          "label": "트래픽 회복"
+        },
+        {
+          "value": "3개월",
+          "label": "작업 기간"
+        },
+        {
+          "value": "15,000",
+          "label": "리다이렉트한 URL"
+        }
+      ],
+      "primary_result": {
+        "value": "120%",
+        "label": "트래픽 회복"
+      },
+      "timeline": {
+        "value": "3개월",
+        "label": "작업 기간"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "검색엔진 마케팅"
+    },
+    "scopes": {
+      "google-ads-search": "구글 검색광고",
+      "technical-seo": "테크니컬 SEO"
+    },
+    "experts": {
+      "dima-gerko": "디마 게르코",
+      "vitali-bakun": "비탈리 바쿤"
+    },
+    "services": {
+      "ppc": "검색광고",
+      "seo": "SEO 대행"
+    },
+    "industries": {
+      "ecommerce": "이커머스",
+      "saas": "SaaS"
+    },
+    "countries": {
+      "eu": "유럽연합"
+    },
+    "languages": {
+      "english": "영어"
+    }
+  }
+}
