@@ -1,0 +1,360 @@
+{
+  "positions": [
+    {
+      "slug": "aso-specialist",
+      "url": "/positions/aso-specialist",
+      "title": "Specjalista ASO (App Store Optimization)",
+      "description": "Praca ASO w Onlinuum: optymalizacja w App Store i Google Play, 40% udziału w przychodzie, wiele języków. Zdalnie, projektowo. Zgłoś się dziś.",
+      "menu": "Specjalista ASO",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Aktywnie dołączamy specjalistów ASO do sieci",
+        "badge_active": "Aktywnie rekrutujemy do żywych pakietów",
+        "apply_label": "Zgłoś się / przedstaw się",
+        "label_service": "Usługa podstawowa",
+        "label_countries": "Rynki priorytetowe",
+        "label_languages": "Języki robocze",
+        "label_industries": "Branże priorytetowe",
+        "label_experience": "Poziom doświadczenia",
+        "label_engagement": "Forma współpracy",
+        "label_commitment": "Wymiar czasu",
+        "engagement_type": "Projektowo / część etatu",
+        "working_hours": "10-25 godzin tygodniowo w zależności od aktywnych pakietów",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Niemcy",
+          "Wielka Brytania",
+          "Stany Zjednoczone",
+          "Francja",
+          "Polska"
+        ],
+        "date_posted": "2026-04-08",
+        "direct_apply": true,
+        "identifier": "onlinuum-aso-specialist",
+        "experience_requirements": "Minimum 2 lata praktycznej pracy w ASO: analiza słów kluczowych, optymalizacja metadanych i testy A/B.",
+        "education_requirements": "brak wymagań"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "polish"
+        ]
+      },
+      "services": [
+        "aso",
+        "app-user-acquisition",
+        "app-conversion-retention"
+      ],
+      "scopes": [
+        "aso-optimization",
+        "aso-localization",
+        "app-store-cro",
+        "apple-search-ads"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "austria",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese"
+      ]
+    },
+    {
+      "slug": "ppc-specialist",
+      "url": "/positions/ppc-specialist",
+      "title": "Specjalista Google Ads (PPC)",
+      "description": "Praca zdalna dla specjalisty Google Ads w Onlinuum: reklama w wyszukiwarce, Shopping i YouTube Ads na 6 rynkach. Zgłoś się dziś.",
+      "menu": "Specjalista Google Ads",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Aktywnie dołączamy specjalistów PPC do sieci",
+        "badge_active": "Aktywnie rekrutujemy do żywych pakietów",
+        "apply_label": "Zgłoś się / przedstaw się",
+        "label_service": "Usługa podstawowa",
+        "label_countries": "Rynki priorytetowe",
+        "label_languages": "Języki robocze",
+        "label_industries": "Branże priorytetowe",
+        "label_experience": "Poziom doświadczenia",
+        "label_engagement": "Forma współpracy",
+        "label_commitment": "Wymiar czasu",
+        "engagement_type": "Projektowo / część etatu",
+        "working_hours": "10-25 godzin tygodniowo w zależności od aktywnych pakietów",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Stany Zjednoczone",
+          "Wielka Brytania",
+          "Niemcy",
+          "Francja",
+          "Polska"
+        ],
+        "date_posted": "2026-04-12",
+        "direct_apply": true,
+        "identifier": "onlinuum-ppc-specialist",
+        "experience_requirements": "Minimum 2 lata praktycznego prowadzenia kampanii PPC w Google Ads oraz co najmniej jeden dodatkowy pakiet.",
+        "education_requirements": "brak wymagań"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "ppc"
+      ],
+      "scopes": [
+        "ppc-audit",
+        "google-ads-search",
+        "microsoft-ads",
+        "google-shopping",
+        "remarketing-display",
+        "youtube-ads",
+        "local-services-ads"
+      ],
+      "countries": [
+        "usa",
+        "uk",
+        "germany",
+        "france",
+        "poland",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish"
+      ]
+    },
+    {
+      "slug": "seo-expert",
+      "url": "/positions/seo-expert",
+      "title": "Specjalista SEO",
+      "description": "Praca zdalna SEO w Onlinuum: audyty techniczne i optymalizacja on-page, 40% udziału w przychodzie. Zgłoś się dziś.",
+      "menu": "Specjalista SEO",
+      "featured": false,
+      "expert_count": 1,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Aktywnie dołączamy specjalistów SEO do sieci",
+        "badge_active": "Aktywnie rekrutujemy do żywych pakietów",
+        "apply_label": "Zgłoś się / przedstaw się",
+        "label_service": "Usługa podstawowa",
+        "label_countries": "Rynki priorytetowe",
+        "label_languages": "Języki robocze",
+        "label_industries": "Branże priorytetowe",
+        "label_experience": "Poziom doświadczenia",
+        "label_engagement": "Forma współpracy",
+        "label_commitment": "Wymiar czasu",
+        "engagement_type": "Projektowo / część etatu",
+        "working_hours": "10-30 godzin tygodniowo w zależności od aktywnych pakietów",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Niemcy",
+          "Austria",
+          "Wielka Brytania",
+          "Francja",
+          "Stany Zjednoczone"
+        ],
+        "date_posted": "2026-03-31",
+        "direct_apply": true,
+        "identifier": "onlinuum-seo-expert",
+        "experience_requirements": "Minimum 5 lat praktycznej pracy w SEO: pakiety techniczne, on-page lub wyszukiwanie międzynarodowe.",
+        "education_requirements": "brak wymagań"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "polish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ]
+      },
+      "services": [
+        "seo"
+      ],
+      "scopes": [
+        "technical-seo",
+        "seo-research",
+        "on-page-seo",
+        "link-building",
+        "cross-market-setup",
+        "ai-optimisation",
+        "local-seo"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "uk",
+        "france",
+        "usa",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese",
+        "chinese",
+        "japanese"
+      ]
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Marketing aplikacji",
+      "search-marketing": "Marketing w wyszukiwarkach"
+    },
+    "scopes": {
+      "aso-optimization": "Optymalizacja aplikacji",
+      "aso-localization": "Lokalizacja aplikacji",
+      "ppc-audit": "Audyt Google Ads",
+      "google-ads-search": "Reklama w Google",
+      "telegram-ads": "Reklama na Telegramie",
+      "technical-seo": "SEO techniczne",
+      "seo-research": "Analiza SEO",
+      "content-strategy": "Strategia treści"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Doradztwo marketingowe",
+      "multilingual-seo": "Pozycjonowanie zagraniczne"
+    },
+    "services": {
+      "aso": "ASO aplikacji",
+      "ppc": "Google Ads",
+      "seo": "Pozycjonowanie"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Fintech i usługi finansowe",
+      "ecommerce": "Sklepy internetowe"
+    },
+    "countries": {
+      "poland": "Polska",
+      "eu": "Unia Europejska"
+    },
+    "languages": {
+      "english": "Angielski",
+      "polish": "Polski"
+    },
+    "experts": {
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "Porównanie pakietów SEO"
+    }
+  }
+}

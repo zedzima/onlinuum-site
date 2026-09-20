@@ -1,0 +1,203 @@
+{
+  "cases": [
+    {
+      "slug": "alvadi",
+      "url": "/cases/alvadi",
+      "title": "Kampanie Google Ads: 2,4x przychodu, 5 języków",
+      "card_title": "Wielojęzyczne Google Ads na skalę",
+      "description": "Jak ALVADI skalowało Google Ads w pięciu językach w motoryzacyjnym e-commerce i osiągnęło 2,4x przychodu oraz 2,2x konwersji. Zobacz case study.",
+      "menu": "ALVADI",
+      "featured": true,
+      "client": "ALVADI",
+      "image": "/_media/logos/alvadi.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "ecommerce",
+      "country": "eu",
+      "language": "",
+      "results": [
+        {
+          "value": "2,4x",
+          "label": "Przychód z Google Ads"
+        },
+        {
+          "value": "12",
+          "label": "Porównanych miesięcy"
+        },
+        {
+          "value": "5",
+          "label": "Języków kampanii"
+        }
+      ],
+      "primary_result": {
+        "value": "2,4x",
+        "label": "Przychód z Google Ads"
+      },
+      "timeline": {
+        "value": "12",
+        "label": "Porównanych miesięcy"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ]
+      }
+    },
+    {
+      "slug": "bamboo-ppc-landing-pages",
+      "url": "/cases/bamboo-ppc-landing-pages",
+      "title": "Landing page do Google Ads: 4,22% konwersji w B2B",
+      "card_title": "Dynamiczne landing page w PPC",
+      "description": "Jak Bamboo Group uruchomiło landing page do Google Ads dla wąskiej oferty B2B i w kilka dni osiągnęło 4,22% konwersji przy CPA 9,89 USD.",
+      "menu": "Bamboo Group",
+      "featured": true,
+      "client": "Bamboo Group",
+      "image": "/_media/logos/bamboo-group.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "saas",
+      "country": "eu",
+      "language": "english",
+      "results": [
+        {
+          "value": "4,22%",
+          "label": "Łączny współczynnik konwersji"
+        },
+        {
+          "value": "2 dni",
+          "label": "Do pierwszych konwersji"
+        },
+        {
+          "value": "52",
+          "label": "Zbudowanych landing page"
+        }
+      ],
+      "primary_result": {
+        "value": "4,22%",
+        "label": "Łączny współczynnik konwersji"
+      },
+      "timeline": {
+        "value": "2 dni",
+        "label": "Do pierwszych konwersji"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "ecommerce-migration-2025",
+      "url": "/cases/ecommerce-migration-2025",
+      "title": "Migracja sklepu: 120% odzyskanego ruchu organicznego",
+      "card_title": "Migracja sklepu internetowego",
+      "description": "Jak odzyskaliśmy 120% ruchu organicznego po migracji sklepu internetowego dzięki audytowi SEO technicznemu i mapie przekierowań 301. Zobacz case study.",
+      "menu": "Migracja e-commerce",
+      "featured": false,
+      "client": "Sieć odzieżowa — Niemcy",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "ecommerce",
+      "country": "germany",
+      "language": "german",
+      "results": [
+        {
+          "value": "120%",
+          "label": "Odzyskanego ruchu"
+        },
+        {
+          "value": "3 miesiące",
+          "label": "Czas realizacji"
+        },
+        {
+          "value": "15 000",
+          "label": "Przekierowanych URL-i"
+        }
+      ],
+      "primary_result": {
+        "value": "120%",
+        "label": "Odzyskanego ruchu"
+      },
+      "timeline": {
+        "value": "3 miesiące",
+        "label": "Czas realizacji"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Marketing w wyszukiwarkach"
+    },
+    "scopes": {
+      "google-ads-search": "Reklama w Google",
+      "technical-seo": "SEO techniczne"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "services": {
+      "ppc": "Google Ads",
+      "seo": "Pozycjonowanie"
+    },
+    "industries": {
+      "ecommerce": "Sklepy internetowe",
+      "saas": "SaaS"
+    },
+    "countries": {
+      "eu": "Unia Europejska"
+    },
+    "languages": {
+      "english": "Angielski"
+    }
+  }
+}
