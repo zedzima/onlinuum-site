@@ -1,0 +1,256 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "Alaaddin Saracyakupoglu",
+      "description": "Consultor SEO remoto com mais de 5 anos em auditorias técnicas, palavras-chave e AEO/GEO para marcas B2B/SaaS e de e-commerce. Fale com o Alaaddin.",
+      "role": "Consultor SEO",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "Dima Gerko",
+      "description": "Mais de 15 anos em marketing digital, SEO e localização. Desenha sistemas de crescimento multilingues para marcas internacionais. Google Partner.",
+      "role": "Consultor SEO internacional e arquiteto de crescimento global",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "portugal",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "portuguese"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "Vitali Bakun",
+      "description": "Mais de 10 anos a gerir publicidade paga no Google Ads, Meta, LinkedIn e Bing: estratégia PPC multiplataforma para B2B, SaaS e apps móveis.",
+      "role": "Especialista em Google Ads e publicidade paga",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "portugal",
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Marketing nos motores de busca",
+      "community-marketing": "Marketing de comunidade",
+      "app-marketing": "Marketing mobile"
+    },
+    "scopes": {
+      "seo-research": "Pesquisa SEO",
+      "technical-seo": "SEO técnico",
+      "aso-localization": "Localização de software",
+      "aso-optimization": "ASO para lojas de apps",
+      "content-strategy": "Estratégia de conteúdos",
+      "ppc-audit": "Auditoria Google Ads",
+      "google-ads-search": "Google Ads de pesquisa"
+    },
+    "services": {
+      "content": "Marketing de conteúdos",
+      "seo": "Serviços de SEO",
+      "ppc": "Google Ads",
+      "aso": "ASO para apps"
+    },
+    "industries": {
+      "ecommerce": "Comércio eletrónico",
+      "saas": "SaaS",
+      "fintech": "Setor fintech"
+    },
+    "countries": {
+      "eu": "União Europeia",
+      "portugal": "Portugal"
+    },
+    "languages": {
+      "english": "Inglês",
+      "portuguese": "Português"
+    },
+    "positions": {
+      "seo-expert": "Especialista de SEO"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "Migração e-commerce",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consultoria de marketing digital",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Como a IA escolhe fontes",
+      "seo-packages-comparison": "Comparação de planos de SEO",
+      "why-seo-matters-in-2026": "A importância do SEO em 2026"
+    }
+  }
+}

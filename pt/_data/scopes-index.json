@@ -1,0 +1,470 @@
+{
+  "scopes": [
+    {
+      "slug": "aso-localization",
+      "url": "/scopes/aso-localization",
+      "title": "Localização de Software e Tradução de Apps",
+      "description": "Localização de software para lojas de apps: palavras-chave e metadados nativos por mercado, sem tradução automática, desde $300. Veja os preços.",
+      "menu": "Localização de software",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "portugal",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "portuguese"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "aso-optimization",
+      "url": "/scopes/aso-optimization",
+      "title": "ASO Google Play e App Store: Otimização",
+      "description": "ASO para a Google Play e a App Store: palavras-chave, metadados e análise de concorrentes em iOS e Android, desde $300. Veja os preços.",
+      "menu": "ASO para lojas de apps",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "portugal",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "portuguese"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-strategy",
+      "url": "/scopes/content-strategy",
+      "title": "Estratégia de Conteúdos e Plano Editorial",
+      "description": "Estratégia de conteúdos que começa por uma auditoria de site: plano editorial a 12 meses, tópicos prioritários e responsáveis. Desde $500. Ver preços.",
+      "menu": "Estratégia de conteúdos",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "portugal"
+        ],
+        "languages": [
+          "english",
+          "portuguese"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-writing",
+      "url": "/scopes/content-writing",
+      "title": "Redação de Conteúdos SEO em Vários Idiomas",
+      "description": "Redação de conteúdos com preço por peça: artigos de blogue, páginas pilar, casos de estudo e white papers. Artigos desde $500. Ver preços por tarefa.",
+      "menu": "Redação de conteúdos",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "google-ads-search",
+      "url": "/scopes/google-ads-search",
+      "title": "Campanhas Google Ads de Pesquisa",
+      "description": "Gestão de campanhas Google Ads de pesquisa: estrutura, mapa de palavras-chave, controlo de exclusões e otimização de licitações. Desde $400/mês.",
+      "menu": "Google Ads de pesquisa",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "ppc-audit",
+      "url": "/scopes/ppc-audit",
+      "title": "Auditoria Google Ads a Campanhas Ativas",
+      "description": "Auditoria Google Ads: revisão da conta, análise do gasto desperdiçado, validação da medição e roteiro de crescimento, desde $300. Ver preços.",
+      "menu": "Auditoria Google Ads",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "seo-research",
+      "url": "/scopes/seo-research",
+      "title": "Pesquisa de Palavras-Chave e Concorrência",
+      "description": "Pesquisa de palavras-chave, análise de concorrentes e validação de procura, com mapa de palavras-chave por página desde $300. Veja os preços.",
+      "menu": "Pesquisa SEO",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "portugal",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "portuguese"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "technical-seo",
+      "url": "/scopes/technical-seo",
+      "title": "SEO Técnico: Velocidade, Dados e Indexação",
+      "description": "Serviços de SEO técnico: rastreio, indexação, Core Web Vitals, dados estruturados e migrações. Diagnóstico desde $500. Veja os preços.",
+      "menu": "SEO técnico",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "portugal",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "portuguese"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 2
+    },
+    {
+      "slug": "telegram-ads",
+      "url": "/scopes/telegram-ads",
+      "title": "Telegram Ads: Campanhas para Audiências",
+      "description": "Gestão de Telegram Ads oficial: segmentação pelo contexto dos canais, apoio na moderação e medição ligada ao CRM. Desde $400/mês. Ver preços.",
+      "menu": "Telegram Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 1,
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Marketing mobile",
+      "search-marketing": "Marketing nos motores de busca",
+      "community-marketing": "Marketing de comunidade"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consultoria de marketing digital",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "aso": "ASO para apps",
+      "content": "Marketing de conteúdos",
+      "seo": "Serviços de SEO",
+      "social-media": "Redes sociais",
+      "ppc": "Google Ads"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Setor fintech",
+      "ecommerce": "Comércio eletrónico"
+    },
+    "countries": {
+      "portugal": "Portugal",
+      "eu": "União Europeia"
+    },
+    "languages": {
+      "english": "Inglês",
+      "portuguese": "Português"
+    },
+    "positions": {
+      "aso-specialist": "ASO specialist",
+      "seo-expert": "Especialista de SEO",
+      "ppc-specialist": "Gestor de tráfego"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "ecommerce-migration-2025": "Migração e-commerce"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "Comparação de planos de SEO",
+      "why-seo-matters-in-2026": "A importância do SEO em 2026"
+    }
+  }
+}

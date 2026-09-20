@@ -1,0 +1,184 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "Marketing Digital na Europa: Entrar na UE",
+      "description": "Marketing digital em toda a Europa: mercados ocidentais, de leste, do sul e nórdicos. Equipas nativas por país, uma estratégia, um relatório.",
+      "menu": "União Europeia",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 M",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "inglês",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "portuguese"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "portugal",
+      "url": "/countries/portugal",
+      "title": "Agência de Marketing Digital Portugal",
+      "description": "Marketing digital e PR digital em Portugal: especialistas nativos de português europeu, alcance lusófono e pacotes com preço fixo.",
+      "menu": "Portugal",
+      "featured": false,
+      "flag": "🇵🇹",
+      "population_total": "10.2 M",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "português",
+      "dominant_language_code": "pt",
+      "scope_count": 5,
+      "service_count": 3,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "portuguese",
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Marketing nos motores de busca",
+      "community-marketing": "Marketing de comunidade",
+      "app-marketing": "Marketing mobile"
+    },
+    "scopes": {
+      "technical-seo": "SEO técnico",
+      "seo-research": "Pesquisa SEO",
+      "aso-optimization": "ASO para lojas de apps",
+      "aso-localization": "Localização de software",
+      "content-strategy": "Estratégia de conteúdos"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consultoria de marketing digital",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "content": "Marketing de conteúdos",
+      "social-media": "Redes sociais",
+      "aso": "ASO para apps",
+      "seo": "Serviços de SEO",
+      "ppc": "Google Ads"
+    },
+    "industries": {
+      "ecommerce": "Comércio eletrónico",
+      "saas": "SaaS",
+      "fintech": "Setor fintech"
+    },
+    "languages": {
+      "english": "Inglês",
+      "portuguese": "Português"
+    },
+    "positions": {
+      "seo-expert": "Especialista de SEO",
+      "aso-specialist": "ASO specialist"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Como a IA escolhe fontes",
+      "seo-packages-comparison": "Comparação de planos de SEO",
+      "why-seo-matters-in-2026": "A importância do SEO em 2026"
+    }
+  }
+}
