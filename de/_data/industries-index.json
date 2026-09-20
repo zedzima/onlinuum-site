@@ -1,0 +1,264 @@
+{
+  "industries": [
+    {
+      "slug": "ecommerce",
+      "url": "/industries/ecommerce",
+      "title": "E-Commerce Agentur: Marketing für Online-Shops",
+      "description": "E-Commerce Agentur für Online-Shops und Handelsmarken: SEO, Shopping-Kampagnen und mehrsprachige Umsetzung. So arbeiten wir.",
+      "menu": "E-Commerce",
+      "featured": false,
+      "icon": "ecommerce",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "germany",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "fintech",
+      "url": "/industries/fintech",
+      "title": "Fintech Marketing: SEO und Ads für Finanzanbieter",
+      "description": "Fintech Marketing für Neobanken, Payment und Insurtech: SEO, PR und mehrsprachiges Wachstum, regelkonform ab dem ersten Entwurf.",
+      "menu": "Fintech und Banken",
+      "featured": false,
+      "icon": "fintech",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "germany",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "saas",
+      "url": "/industries/saas",
+      "title": "SaaS Marketing Agentur für B2B-Software",
+      "description": "SaaS Marketing Agentur für B2B-Software: SEO, Nachfragegenerierung und mehrsprachige Kampagnen, die CAC senken und MRR steigern.",
+      "menu": "SaaS",
+      "featured": false,
+      "icon": "monitor",
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc",
+          "social-media"
+        ],
+        "countries": [
+          "germany",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Suchmaschinenmarketing",
+      "community-marketing": "Community-Marketing",
+      "app-marketing": "App-Marketing"
+    },
+    "scopes": {
+      "seo-research": "SEO-Recherche",
+      "technical-seo": "Technisches SEO",
+      "aso-optimization": "ASO-Optimierung",
+      "aso-localization": "App-Lokalisierung",
+      "content-strategy": "Content-Strategie",
+      "content-writing": "Texterstellung",
+      "google-ads-search": "Google Ads Suchkampagnen",
+      "ppc-audit": "Google Ads Audit",
+      "telegram-ads": "Telegram-Werbung"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "E-Commerce-Relaunch",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Online-Marketing-Beratung",
+      "multilingual-seo": "Mehrsprachige SEO"
+    },
+    "services": {
+      "content": "Content-Marketing",
+      "aso": "App-Store-Optimierung",
+      "seo": "SEO-Leistungen",
+      "ppc": "Google Ads",
+      "social-media": "Social Media Betreuung"
+    },
+    "countries": {
+      "germany": "Deutschland",
+      "eu": "Europäische Union"
+    },
+    "languages": {
+      "english": "Englisch",
+      "german": "Deutsch"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Wie KI Quellen wählt",
+      "seo-packages-comparison": "SEO-Pakete im Vergleich",
+      "why-seo-matters-in-2026": "Warum SEO 2026 wichtig ist"
+    },
+    "positions": {
+      "seo-expert": "SEO Manager",
+      "aso-specialist": "ASO Manager",
+      "ppc-specialist": "SEA Manager"
+    }
+  }
+}

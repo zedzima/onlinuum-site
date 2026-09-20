@@ -1,0 +1,165 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "Online Marketing Beratung: Strategie vor Umsetzung",
+      "description": "Online-Marketing-Beratung für internationale und B2B-Marken: erfahrene Berater, fester Leistungsumfang, Roadmap in 48 Stunden. Briefing anfordern.",
+      "menu": "Online-Marketing-Beratung",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "germany",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "Internationale SEO Agentur für mehrsprachige Websites",
+      "description": "Mehrsprachige Suchmaschinenoptimierung für Marken mit vielen Sprachversionen: native Keyword-Recherche, hreflang-Architektur, Qualitätsprüfung.",
+      "menu": "Mehrsprachige SEO",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "germany",
+          "eu"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Suchmaschinenmarketing",
+      "community-marketing": "Community-Marketing",
+      "app-marketing": "App-Marketing"
+    },
+    "scopes": {
+      "seo-research": "SEO-Recherche",
+      "technical-seo": "Technisches SEO",
+      "aso-optimization": "ASO-Optimierung",
+      "aso-localization": "App-Lokalisierung",
+      "content-strategy": "Content-Strategie",
+      "google-ads-search": "Google Ads Suchkampagnen",
+      "ppc-audit": "Google Ads Audit",
+      "telegram-ads": "Telegram-Werbung"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "services": {
+      "content": "Content-Marketing",
+      "aso": "App-Store-Optimierung",
+      "seo": "SEO-Leistungen",
+      "ppc": "Google Ads"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "E-Commerce",
+      "fintech": "Fintech und Banken"
+    },
+    "countries": {
+      "germany": "Deutschland",
+      "eu": "Europäische Union"
+    },
+    "languages": {
+      "english": "Englisch",
+      "german": "Deutsch"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Wie KI Quellen wählt",
+      "seo-packages-comparison": "SEO-Pakete im Vergleich",
+      "why-seo-matters-in-2026": "Warum SEO 2026 wichtig ist"
+    },
+    "positions": {
+      "seo-expert": "SEO Manager",
+      "aso-specialist": "ASO Manager",
+      "ppc-specialist": "SEA Manager"
+    }
+  }
+}
