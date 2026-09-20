@@ -1,0 +1,203 @@
+{
+  "cases": [
+    {
+      "slug": "alvadi",
+      "url": "/cases/alvadi",
+      "title": "Oto Yedek Parça Pazarlama: ALVADI Google Ads",
+      "card_title": "Çok Dilli Google Ads Ölçeklemesi",
+      "description": "ALVADI, oto yedek parça e-ticaretinde Google Ads'i beş dilde ölçekleyerek 2,4 kat gelire ve 2,2 kat dönüşüm oranına ulaştı. Vakayı okuyun.",
+      "menu": "ALVADI",
+      "featured": true,
+      "client": "ALVADI",
+      "image": "/_media/logos/alvadi.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "ecommerce",
+      "country": "eu",
+      "language": "",
+      "results": [
+        {
+          "value": "2,4x",
+          "label": "Google Ads geliri"
+        },
+        {
+          "value": "12",
+          "label": "Karşılaştırılan ay"
+        },
+        {
+          "value": "5",
+          "label": "Kampanya dili"
+        }
+      ],
+      "primary_result": {
+        "value": "2,4x",
+        "label": "Google Ads geliri"
+      },
+      "timeline": {
+        "value": "12",
+        "label": "Karşılaştırılan ay"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ]
+      }
+    },
+    {
+      "slug": "bamboo-ppc-landing-pages",
+      "url": "/cases/bamboo-ppc-landing-pages",
+      "title": "Açılış Sayfası Vaka Çalışması: B2B Müşteri Adayı",
+      "card_title": "Dinamik Açılış Sayfası Sistemi",
+      "description": "Bamboo Group, dar bir B2B teklif için açılış sayfaları kurdu ve günler içinde %4,22 dönüşüm oranı ile 9,89 $ maliyete ulaştı. Vakayı okuyun.",
+      "menu": "Bamboo Group",
+      "featured": true,
+      "client": "Bamboo Group",
+      "image": "/_media/logos/bamboo-group.svg",
+      "image_mode": "logo",
+      "service": "ppc",
+      "industry": "saas",
+      "country": "eu",
+      "language": "english",
+      "results": [
+        {
+          "value": "%4,22",
+          "label": "Toplam dönüşüm oranı"
+        },
+        {
+          "value": "2 gün",
+          "label": "İlk dönüşümlere kadar"
+        },
+        {
+          "value": "52",
+          "label": "Kurulan açılış sayfası"
+        }
+      ],
+      "primary_result": {
+        "value": "%4,22",
+        "label": "Toplam dönüşüm oranı"
+      },
+      "timeline": {
+        "value": "2 gün",
+        "label": "İlk dönüşümlere kadar"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "ecommerce-migration-2025",
+      "url": "/cases/ecommerce-migration-2025",
+      "title": "Site Taşıma Sonrası %120 Trafik Toparlanması",
+      "card_title": "E-ticaret Platformunda Site Taşıma",
+      "description": "Bir e-ticaret platformu taşımasından sonra organik trafiği teknik SEO analizi ve 301 yönlendirme haritasıyla %120 toparladık. Vakayı okuyun.",
+      "menu": "E-ticaret Site Taşıma",
+      "featured": false,
+      "client": "Moda perakendecisi, Almanya",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "ecommerce",
+      "country": "germany",
+      "language": "german",
+      "results": [
+        {
+          "value": "%120",
+          "label": "Trafik toparlanması"
+        },
+        {
+          "value": "3 ay",
+          "label": "Süre"
+        },
+        {
+          "value": "15.000",
+          "label": "Yönlendirilen URL"
+        }
+      ],
+      "primary_result": {
+        "value": "%120",
+        "label": "Trafik toparlanması"
+      },
+      "timeline": {
+        "value": "3 ay",
+        "label": "Süre"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Arama Motoru Pazarlaması"
+    },
+    "scopes": {
+      "google-ads-search": "Google Ads Arama Ağı",
+      "technical-seo": "Teknik SEO"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "services": {
+      "ppc": "Performans Pazarlama",
+      "seo": "SEO Hizmeti"
+    },
+    "industries": {
+      "ecommerce": "E-ticaret",
+      "saas": "SaaS"
+    },
+    "countries": {
+      "eu": "Avrupa Birliği"
+    },
+    "languages": {
+      "english": "İngilizce"
+    }
+  }
+}

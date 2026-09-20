@@ -1,0 +1,256 @@
+{
+  "experts": [
+    {
+      "slug": "alaaddin-saracyakupoglu",
+      "url": "/team/alaaddin-saracyakupoglu",
+      "title": "Alaaddin Saracyakupoglu",
+      "description": "5+ yıllık teknik analiz, anahtar kelime araştırması ve yapay zekâ araması deneyimiyle uzaktan çalışan SEO uzmanı. B2B/SaaS ve e-ticaret markaları için.",
+      "role": "SEO Uzmanı",
+      "avatar": "_media/images/team/Alaaddin-Saracyakupoglu.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "eu",
+        "uk",
+        "usa",
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "dima-gerko",
+      "url": "/team/dima-gerko",
+      "title": "Dima Gerko",
+      "description": "15+ yıldır dijital pazarlama, SEO ve yerelleştirme. Global markalar için ölçeklenebilir çok dilli büyüme sistemleri kuran uluslararası pazarlama uzmanı.",
+      "role": "Uluslararası Pazarlama Uzmanı",
+      "avatar": "_media/images/team/Dima-Gerko.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": true,
+      "languages": [
+        "english",
+        "russian",
+        "portuguese"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "usa",
+        "uk",
+        "france",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "industries": [
+        "ecommerce",
+        "saas",
+        "fintech"
+      ],
+      "cases": [
+        "ecommerce-migration-2025",
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-localization",
+          "aso-optimization",
+          "content-strategy",
+          "ppc-audit"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc",
+          "aso"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "vitali-bakun",
+      "url": "/team/vitali-bakun",
+      "title": "Vitali Bakun",
+      "description": "10+ yıldır Google Ads, Meta, LinkedIn ve Bing'de ücretli reklam yönetimi. B2B, SaaS ve mobil uygulamalar için platformlar arası Google Ads uzmanı.",
+      "role": "Google Ads Uzmanı, Ücretli Medya Yönetimi",
+      "avatar": "_media/images/team/Vitali-Bakun-2026.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "portugal",
+        "poland"
+      ],
+      "industries": [
+        "saas",
+        "ecommerce",
+        "fintech"
+      ],
+      "cases": [
+        "alvadi"
+      ],
+      "case_count": 2,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Arama Motoru Pazarlaması",
+      "community-marketing": "Topluluk Pazarlaması",
+      "app-marketing": "Mobil Uygulama Pazarlama"
+    },
+    "scopes": {
+      "seo-research": "SEO Araştırması",
+      "technical-seo": "Teknik SEO",
+      "aso-localization": "ASO Yerelleştirme",
+      "aso-optimization": "ASO Çalışması",
+      "content-strategy": "İçerik Stratejisi",
+      "ppc-audit": "Reklam Analizi",
+      "google-ads-search": "Google Ads Arama Ağı"
+    },
+    "services": {
+      "content": "İçerik Pazarlama",
+      "seo": "SEO Hizmeti",
+      "ppc": "Performans Pazarlama",
+      "aso": "ASO Hizmeti"
+    },
+    "industries": {
+      "ecommerce": "E-ticaret",
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık"
+    },
+    "countries": {
+      "eu": "Avrupa Birliği",
+      "turkey": "Türkiye"
+    },
+    "languages": {
+      "english": "İngilizce",
+      "turkish": "Türkçe"
+    },
+    "positions": {
+      "seo-expert": "SEO Uzmanı"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "E-ticaret Site Taşıma",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",
+      "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    }
+  }
+}

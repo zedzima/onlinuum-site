@@ -1,0 +1,188 @@
+{
+  "languages": [
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "İngilizce SEO ve İçerik: Anadili İngilizce Uzmanlar",
+      "description": "ABD, Birleşik Krallık ve global pazarlara açılan markalar için İngilizce SEO, içerik ve reklam metni. Anadil uzmanlar, paketlenmiş teslimat.",
+      "menu": "İngilizce",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67 mr",
+      "market_speakers_display": "1.67 mr",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "turkey",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "turkish",
+      "url": "/languages/turkish",
+      "title": "Türkiye Pazarı için Türkçe Pazarlama Hizmetleri",
+      "description": "Türkiye pazarına ve Türkçe konuşan kitlelere açılan markalar için anadil düzeyinde Türkçe pazarlama. Hizmetleri inceleyin.",
+      "menu": "Türkçe",
+      "featured": false,
+      "flag": "",
+      "code": "TR",
+      "native_speakers_l1": "81.7 mn",
+      "market_speakers_display": "81.7 mn",
+      "market_country_count": 6,
+      "official_countries_count": 6,
+      "scope_count": 4,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Arama Motoru Pazarlaması",
+      "community-marketing": "Topluluk Pazarlaması",
+      "app-marketing": "Mobil Uygulama Pazarlama"
+    },
+    "scopes": {
+      "technical-seo": "Teknik SEO",
+      "seo-research": "SEO Araştırması",
+      "aso-optimization": "ASO Çalışması",
+      "aso-localization": "ASO Yerelleştirme",
+      "content-strategy": "İçerik Stratejisi",
+      "content-writing": "İçerik Yazarlığı",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "ppc-audit": "Reklam Analizi",
+      "telegram-ads": "Telegram Reklamları"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "services": {
+      "content": "İçerik Pazarlama",
+      "social-media": "Sosyal Medya",
+      "aso": "ASO Hizmeti",
+      "seo": "SEO Hizmeti",
+      "ppc": "Performans Pazarlama"
+    },
+    "industries": {
+      "ecommerce": "E-ticaret",
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık"
+    },
+    "countries": {
+      "turkey": "Türkiye",
+      "eu": "Avrupa Birliği"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",
+      "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    },
+    "positions": {
+      "seo-expert": "SEO Uzmanı",
+      "aso-specialist": "ASO Uzmanı",
+      "ppc-specialist": "Google Ads Uzmanı"
+    }
+  }
+}

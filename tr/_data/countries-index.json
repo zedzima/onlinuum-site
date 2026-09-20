@@ -1,0 +1,171 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "Avrupa Reklam Ajansı: 27 Pazar, Tek Program",
+      "description": "Avrupa genelinde dijital pazarlama: Batı, Doğu, Güney ve Kuzey pazarları. Ülke başına anadil ekipler, tek AB uyum çerçevesi, tek rapor.",
+      "menu": "Avrupa Birliği",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 mn",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "İngilizce",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "turkey",
+      "url": "/countries/turkey",
+      "title": "İstanbul Dijital Pazarlama Ajansı: Yerel Ekip",
+      "description": "Türkiye'de uluslararası şirketler için dijital pazarlama. İstanbul'da anadili Türkçe uzmanlar, yerel platform kapsamı, sabit fiyatlı paketler.",
+      "menu": "Türkiye",
+      "featured": false,
+      "flag": "🇹🇷",
+      "population_total": "84.1 mn",
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "Türkçe",
+      "dominant_language_code": "tr",
+      "scope_count": 5,
+      "service_count": 3,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "turkish",
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Arama Motoru Pazarlaması",
+      "community-marketing": "Topluluk Pazarlaması",
+      "app-marketing": "Mobil Uygulama Pazarlama"
+    },
+    "scopes": {
+      "technical-seo": "Teknik SEO",
+      "seo-research": "SEO Araştırması",
+      "aso-optimization": "ASO Çalışması",
+      "aso-localization": "ASO Yerelleştirme",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "ppc-audit": "Reklam Analizi",
+      "telegram-ads": "Telegram Reklamları"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "services": {
+      "content": "İçerik Pazarlama",
+      "social-media": "Sosyal Medya",
+      "aso": "ASO Hizmeti",
+      "seo": "SEO Hizmeti",
+      "ppc": "Performans Pazarlama"
+    },
+    "industries": {
+      "ecommerce": "E-ticaret",
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık"
+    },
+    "languages": {
+      "english": "İngilizce",
+      "turkish": "Türkçe"
+    },
+    "positions": {
+      "seo-expert": "SEO Uzmanı"
+    }
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "scopes": [
+    {
+      "slug": "aso-localization",
+      "url": "/scopes/aso-localization",
+      "title": "Yerelleştirme Hizmeti: Pazara Özel Uygulama Metni",
+      "description": "Uygulama mağazası yerelleştirme hizmeti: pazar bazında ana dilde anahtar kelime araştırması ve metadata, makine çevirisi yok, 300 $'dan başlar.",
+      "menu": "ASO Yerelleştirme",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "aso-optimization",
+      "url": "/scopes/aso-optimization",
+      "title": "ASO Çalışması: Anahtar Kelime ve Metadata",
+      "description": "ASO çalışması: iOS ve Android için anahtar kelime araştırması, metadata ve rakip analizi, 300 $'dan başlar. ASO analizi fiyatlarını görün.",
+      "menu": "ASO Çalışması",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-strategy",
+      "url": "/scopes/content-strategy",
+      "title": "İçerik Stratejisi ve Web Sitesi İçerik Denetimi",
+      "description": "İçerik stratejisi hizmeti web sitesi içerik denetimiyle başlar: 12 aylık içerik takvimi, öncelikli konular, isimli sorumlular. 500 $'dan başlar.",
+      "menu": "İçerik Stratejisi",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "content-writing",
+      "url": "/scopes/content-writing",
+      "title": "İçerik Yazarlığı: Blog, Makale ve Rehber İçerik",
+      "description": "Parça başına fiyatlı içerik yazarlığı: blog yazıları, pillar sayfalar, vaka çalışmaları, teknik dokümanlar. Blog yazarlığı aylık 500 $'dan başlar.",
+      "menu": "İçerik Yazarlığı",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "google-ads-search",
+      "url": "/scopes/google-ads-search",
+      "title": "Google Ads Yönetimi: Arama Ağı Kampanyaları",
+      "description": "Google Ads yönetimi: kampanya kurulumu, anahtar kelime haritası, negatif yönetimi ve teklif optimizasyonu. Aylık 400 $'dan başlar.",
+      "menu": "Google Ads Arama Ağı",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "ppc-audit",
+      "url": "/scopes/ppc-audit",
+      "title": "Google Reklam Analizi: Bütçe, İzleme, Büyüme",
+      "description": "Google reklam analizi: hesap incelemesi, boşa giden bütçe tespiti, izleme doğrulaması ve büyüme yol haritası. 300 $'dan başlar.",
+      "menu": "Reklam Analizi",
+      "featured": true,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "seo-research",
+      "url": "/scopes/seo-research",
+      "title": "Anahtar Kelime Araştırması ve SEO Analizi",
+      "description": "Anahtar kelime araştırması ve SEO analizi: sorgu-sayfa mimarisi, rakip analizi ve talep doğrulama. 300 $'dan başlar. Fiyatları görün.",
+      "menu": "SEO Araştırması",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 300,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "technical-seo",
+      "url": "/scopes/technical-seo",
+      "title": "Teknik SEO Hizmeti ve Site Sağlığı Kontrolü",
+      "description": "Teknik SEO hizmeti: tarama, indeksleme, Core Web Vitals, schema markup ve site taşıma desteği. Teknik SEO analizi 500 $'dan başlar. Fiyatları görün.",
+      "menu": "Teknik SEO",
+      "featured": true,
+      "rating": 4.9,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 2
+    },
+    {
+      "slug": "telegram-ads",
+      "url": "/scopes/telegram-ads",
+      "title": "Telegram Reklam Verme: Sponsorlu Mesaj Yönetimi",
+      "description": "Resmî Telegram Ads yönetimi: kanal bağlamına göre hedefleme, moderasyon desteği ve CRM'e bağlı ölçüm. Aylık 400 $'dan başlar.",
+      "menu": "Telegram Reklamları",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 1,
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Mobil Uygulama Pazarlama",
+      "search-marketing": "Arama Motoru Pazarlaması",
+      "community-marketing": "Topluluk Pazarlaması"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "services": {
+      "aso": "ASO Hizmeti",
+      "content": "İçerik Pazarlama",
+      "seo": "SEO Hizmeti",
+      "social-media": "Sosyal Medya",
+      "ppc": "Performans Pazarlama"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık",
+      "ecommerce": "E-ticaret"
+    },
+    "countries": {
+      "eu": "Avrupa Birliği",
+      "turkey": "Türkiye"
+    },
+    "languages": {
+      "english": "İngilizce",
+      "turkish": "Türkçe"
+    },
+    "positions": {
+      "aso-specialist": "ASO Uzmanı",
+      "seo-expert": "SEO Uzmanı",
+      "ppc-specialist": "Google Ads Uzmanı"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "ecommerce-migration-2025": "E-ticaret Site Taşıma"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    }
+  }
+}

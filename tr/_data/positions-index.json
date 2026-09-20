@@ -1,0 +1,353 @@
+{
+  "positions": [
+    {
+      "slug": "aso-specialist",
+      "url": "/positions/aso-specialist",
+      "title": "ASO Uzmanı",
+      "description": "Onlinuum'da uzaktan ASO uzmanı pozisyonları: App Store optimizasyonunun sahibi olun, %40 gelir payı alın, birçok dilde çalışın. Bugün başvurun.",
+      "menu": "ASO Uzmanı",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "ASO uzmanlarını aktif olarak ağımıza katıyoruz",
+        "badge_active": "Açık paketler için işe alım sürüyor",
+        "apply_label": "Başvurun / Kendinizi Tanıtın",
+        "label_service": "Temel hizmet",
+        "label_countries": "Öncelikli pazarlar",
+        "label_languages": "Çalışma dilleri",
+        "label_industries": "Öncelikli sektörler",
+        "label_experience": "Kıdem",
+        "label_engagement": "Çalışma biçimi",
+        "label_commitment": "Zaman taahhüdü",
+        "engagement_type": "Proje bazlı / yarı zamanlı",
+        "working_hours": "Aktif paketlere göre haftada 10-25 saat",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Almanya",
+          "Birleşik Krallık",
+          "Amerika Birleşik Devletleri",
+          "Fransa",
+          "Polonya"
+        ],
+        "date_posted": "2026-04-08",
+        "direct_apply": true,
+        "identifier": "onlinuum-aso-specialist",
+        "experience_requirements": "Anahtar kelime araştırması, metadata optimizasyonu ve A/B testleri genelinde 2+ yıl uygulamalı ASO deneyimi.",
+        "education_requirements": "şart değil"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "aso",
+        "app-user-acquisition",
+        "app-conversion-retention"
+      ],
+      "scopes": [
+        "aso-optimization",
+        "aso-localization",
+        "app-store-cro",
+        "apple-search-ads"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "austria",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese"
+      ]
+    },
+    {
+      "slug": "ppc-specialist",
+      "url": "/positions/ppc-specialist",
+      "title": "Google Ads İş İlanları",
+      "description": "Onlinuum'da uzaktan google ads iş ilanları: 6 öncelikli pazarda arama ağı, Alışveriş ve YouTube reklamlarının sahibi olun. Bugün başvurun.",
+      "menu": "Google Ads Uzmanı",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Reklam uzmanlarını aktif olarak ağımıza katıyoruz",
+        "badge_active": "Açık paketler için işe alım sürüyor",
+        "apply_label": "Başvurun / Kendinizi Tanıtın",
+        "label_service": "Temel hizmet",
+        "label_countries": "Öncelikli pazarlar",
+        "label_languages": "Çalışma dilleri",
+        "label_industries": "Öncelikli sektörler",
+        "label_experience": "Kıdem",
+        "label_engagement": "Çalışma biçimi",
+        "label_commitment": "Zaman taahhüdü",
+        "engagement_type": "Proje bazlı / yarı zamanlı",
+        "working_hours": "Aktif paketlere göre haftada 10-25 saat",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Amerika Birleşik Devletleri",
+          "Birleşik Krallık",
+          "Almanya",
+          "Fransa",
+          "Polonya"
+        ],
+        "date_posted": "2026-04-12",
+        "direct_apply": true,
+        "identifier": "onlinuum-ppc-specialist",
+        "experience_requirements": "Google Ads ve en az bir ek paket genelinde 2+ yıl uygulamalı reklam yönetimi deneyimi.",
+        "education_requirements": "şart değil"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "ppc"
+      ],
+      "scopes": [
+        "ppc-audit",
+        "google-ads-search",
+        "microsoft-ads",
+        "google-shopping",
+        "remarketing-display",
+        "youtube-ads",
+        "local-services-ads"
+      ],
+      "countries": [
+        "usa",
+        "uk",
+        "germany",
+        "france",
+        "poland",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish"
+      ]
+    },
+    {
+      "slug": "seo-expert",
+      "url": "/positions/seo-expert",
+      "title": "SEO Uzmanı İş İlanları",
+      "description": "Onlinuum'da uzaktan seo uzmanı iş ilanları: teknik analizin ve sayfa içi uygulamanın sahibi olun, %40 gelir payı alın. Bugün başvurun.",
+      "menu": "SEO Uzmanı",
+      "featured": false,
+      "expert_count": 1,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "SEO uzmanlarını aktif olarak ağımıza katıyoruz",
+        "badge_active": "Açık paketler için işe alım sürüyor",
+        "apply_label": "Başvurun / Kendinizi Tanıtın",
+        "label_service": "Temel hizmet",
+        "label_countries": "Öncelikli pazarlar",
+        "label_languages": "Çalışma dilleri",
+        "label_industries": "Öncelikli sektörler",
+        "label_experience": "Kıdem",
+        "label_engagement": "Çalışma biçimi",
+        "label_commitment": "Zaman taahhüdü",
+        "engagement_type": "Proje bazlı / yarı zamanlı",
+        "working_hours": "Aktif paketlere göre haftada 10-30 saat",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Almanya",
+          "Avusturya",
+          "Birleşik Krallık",
+          "Fransa",
+          "Amerika Birleşik Devletleri"
+        ],
+        "date_posted": "2026-03-31",
+        "direct_apply": true,
+        "identifier": "onlinuum-seo-expert",
+        "experience_requirements": "Teknik, sayfa içi veya uluslararası arama paketleri genelinde 5+ yıl uygulamalı SEO deneyimi.",
+        "education_requirements": "şart değil"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ]
+      },
+      "services": [
+        "seo"
+      ],
+      "scopes": [
+        "technical-seo",
+        "seo-research",
+        "on-page-seo",
+        "link-building",
+        "cross-market-setup",
+        "ai-optimisation",
+        "local-seo"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "uk",
+        "france",
+        "usa",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese",
+        "chinese",
+        "japanese"
+      ]
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Mobil Uygulama Pazarlama",
+      "search-marketing": "Arama Motoru Pazarlaması"
+    },
+    "scopes": {
+      "aso-optimization": "ASO Çalışması",
+      "aso-localization": "ASO Yerelleştirme",
+      "ppc-audit": "Reklam Analizi",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "telegram-ads": "Telegram Reklamları",
+      "technical-seo": "Teknik SEO",
+      "seo-research": "SEO Araştırması",
+      "content-strategy": "İçerik Stratejisi"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "services": {
+      "aso": "ASO Hizmeti",
+      "ppc": "Performans Pazarlama",
+      "seo": "SEO Hizmeti"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık",
+      "ecommerce": "E-ticaret"
+    },
+    "languages": {
+      "english": "İngilizce",
+      "turkish": "Türkçe"
+    },
+    "experts": {
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "countries": {
+      "eu": "Avrupa Birliği",
+      "turkey": "Türkiye"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "SEO paketleri karşılaştırması"
+    }
+  }
+}

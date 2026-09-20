@@ -1,0 +1,165 @@
+{
+  "solutions": [
+    {
+      "slug": "digital-marketing-consulting",
+      "url": "/solutions/digital-marketing-consulting",
+      "title": "Dijital Pazarlama Danışmanlığı ile Başlayın",
+      "description": "Uluslararası ve B2B markalar için dijital pazarlama danışmanlığı: kıdemli danışmanlar, paketlenmiş projeler ve 48 saatte yol haritası. Brief isteyin.",
+      "menu": "Dijital Pazarlama Danışmanlığı",
+      "featured": true,
+      "scope": "seo-research",
+      "industry": "saas",
+      "starting_price": 2000.0,
+      "expert_count": 2,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "multilingual-seo",
+      "url": "/solutions/multilingual-seo",
+      "title": "Uluslararası SEO Danışmanlığı: Çok Dilli Siteler",
+      "description": "Tek pazarda birden çok dile hitap eden markalar için uluslararası SEO: yerel anahtar kelime araştırması, hreflang mimarisi ve kalite kontrolü.",
+      "menu": "Uluslararası SEO",
+      "featured": true,
+      "scope": "technical-seo",
+      "industry": "ecommerce",
+      "starting_price": null,
+      "expert_count": 1,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Arama Motoru Pazarlaması",
+      "community-marketing": "Topluluk Pazarlaması",
+      "app-marketing": "Mobil Uygulama Pazarlama"
+    },
+    "scopes": {
+      "seo-research": "SEO Araştırması",
+      "technical-seo": "Teknik SEO",
+      "aso-optimization": "ASO Çalışması",
+      "aso-localization": "ASO Yerelleştirme",
+      "content-strategy": "İçerik Stratejisi",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "ppc-audit": "Reklam Analizi",
+      "telegram-ads": "Telegram Reklamları"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "services": {
+      "content": "İçerik Pazarlama",
+      "aso": "ASO Hizmeti",
+      "seo": "SEO Hizmeti",
+      "ppc": "Performans Pazarlama"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "ecommerce": "E-ticaret",
+      "fintech": "Fintech ve Bankacılık"
+    },
+    "countries": {
+      "eu": "Avrupa Birliği",
+      "turkey": "Türkiye"
+    },
+    "languages": {
+      "english": "İngilizce",
+      "turkish": "Türkçe"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",
+      "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    },
+    "positions": {
+      "seo-expert": "SEO Uzmanı",
+      "aso-specialist": "ASO Uzmanı",
+      "ppc-specialist": "Google Ads Uzmanı"
+    }
+  }
+}

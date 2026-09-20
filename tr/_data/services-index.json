@@ -1,0 +1,308 @@
+{
+  "services": [
+    {
+      "slug": "aso",
+      "url": "/services/aso",
+      "title": "ASO Hizmeti: App Store Optimizasyonu",
+      "description": "iOS ve Android için ASO hizmeti: anahtar kelime araştırması, metadata optimizasyonu ve A/B testi. Fiyatları görün, ana pazarınızdan başlayın.",
+      "menu": "ASO Hizmeti",
+      "featured": true,
+      "scope_count": 2,
+      "expert_count": 1,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "search-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "content",
+      "url": "/services/content",
+      "title": "İçerik Pazarlama Ajansı: 15+ Dilde İçerik",
+      "description": "Çok dilde yayın yapan ekipler için içerik pazarlama ajansı: anadili konuşan yazarlar, tek editoryal standart, altı sabit fiyatlı paket. Denetim 500 $'dan.",
+      "menu": "İçerik Pazarlama",
+      "featured": false,
+      "scope_count": 3,
+      "expert_count": 2,
+      "starting_price": 600.0,
+      "from_price": 600.0,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "search-marketing",
+        "community-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ]
+      }
+    },
+    {
+      "slug": "ppc",
+      "url": "/services/ppc",
+      "title": "Performans Pazarlama Ajansı: 15+ Dilde Reklam",
+      "description": "Arama, Shopping ve yeniden pazarlama için dijital reklam yönetimi. Pazara göre fiyatlanan kampanyalar. Starter planı aylık 400 $'dan başlar.",
+      "menu": "Performans Pazarlama",
+      "featured": true,
+      "scope_count": 2,
+      "expert_count": 2,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "domains": [
+        "search-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "seo",
+      "url": "/services/seo",
+      "title": "SEO Ajansı: Sabit Fiyatlı SEO Programları",
+      "description": "Paketlenmiş SEO hizmeti: teknik, içerik ve çok dilli büyüme. 1.190 $'dan analiz, döngü başına 1.990 $'dan sabit fiyatlı teslim programları.",
+      "menu": "SEO Hizmeti",
+      "featured": true,
+      "scope_count": 4,
+      "expert_count": 2,
+      "starting_price": 1990.0,
+      "from_price": 1990.0,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "search-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "social-media",
+      "url": "/services/social-media",
+      "title": "Sosyal Medya Ajansı: 15+ Dilde SMM Yönetimi",
+      "description": "Gelire odaklı sosyal medya yönetimi: strateji, içerik, topluluk yönetimi ve influencer iş birlikleri. Gösteriş metrikleri değil, ölçülebilir sonuç.",
+      "menu": "Sosyal Medya",
+      "featured": false,
+      "scope_count": 2,
+      "expert_count": 0,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 3,
+      "language_count": 3,
+      "domains": [
+        "community-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "scopes": [
+          "telegram-ads",
+          "content-strategy"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Mobil Uygulama Pazarlama",
+      "search-marketing": "Arama Motoru Pazarlaması",
+      "community-marketing": "Topluluk Pazarlaması"
+    },
+    "scopes": {
+      "aso-optimization": "ASO Çalışması",
+      "aso-localization": "ASO Yerelleştirme",
+      "seo-research": "SEO Araştırması",
+      "content-strategy": "İçerik Stratejisi",
+      "content-writing": "İçerik Yazarlığı",
+      "ppc-audit": "Reklam Analizi",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "technical-seo": "Teknik SEO",
+      "telegram-ads": "Telegram Reklamları"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "vitali-bakun": "Vitali Bakun"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık",
+      "ecommerce": "E-ticaret"
+    },
+    "countries": {
+      "eu": "Avrupa Birliği",
+      "turkey": "Türkiye"
+    },
+    "languages": {
+      "english": "İngilizce",
+      "turkish": "Türkçe"
+    },
+    "positions": {
+      "aso-specialist": "ASO Uzmanı",
+      "ppc-specialist": "Google Ads Uzmanı",
+      "seo-expert": "SEO Uzmanı"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "ecommerce-migration-2025": "E-ticaret Site Taşıma"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    }
+  }
+}

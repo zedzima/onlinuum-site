@@ -1,0 +1,210 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "Mobil Uygulama Pazarlama: ASO Stratejisi ve Gelir",
+      "description": "Paketlenmiş mobil uygulama pazarlama hizmetleri: ASO çalışması, ücretli kullanıcı kazanımı, mağaza dönüşümü ve elde tutma. Neler dâhil, görün.",
+      "menu": "Mobil Uygulama Pazarlama",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "Topluluk Yönetimi ve Topluluk Pazarlaması",
+      "description": "Sosyal medya, içerik ve e-posta üzerine kurulu topluluk yönetimi hizmetleri: güven kazanın, sadık ve organik bir kitle büyütün. Ayrıntıları görün.",
+      "menu": "Topluluk Pazarlaması",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "Arama Motoru Reklamcılığı ve SEM Hizmetleri",
+      "description": "Çok dilli arama motoru reklamcılığı: SEO, SEM ve ücretli arama tek sistemde. Her dilde yerel anahtar kelime araştırması, tek ölçüm katmanı.",
+      "menu": "Arama Motoru Pazarlaması",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "ASO Çalışması",
+      "aso-localization": "ASO Yerelleştirme",
+      "seo-research": "SEO Araştırması",
+      "content-strategy": "İçerik Stratejisi",
+      "technical-seo": "Teknik SEO",
+      "ppc-audit": "Reklam Analizi",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "content-writing": "İçerik Yazarlığı"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "services": {
+      "aso": "ASO Hizmeti",
+      "social-media": "Sosyal Medya",
+      "content": "İçerik Pazarlama",
+      "seo": "SEO Hizmeti",
+      "ppc": "Performans Pazarlama"
+    },
+    "industries": {
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık",
+      "ecommerce": "E-ticaret"
+    },
+    "countries": {
+      "eu": "Avrupa Birliği",
+      "turkey": "Türkiye"
+    },
+    "languages": {
+      "english": "İngilizce",
+      "turkish": "Türkçe"
+    },
+    "positions": {
+      "aso-specialist": "ASO Uzmanı",
+      "seo-expert": "SEO Uzmanı",
+      "ppc-specialist": "Google Ads Uzmanı"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "E-ticaret Site Taşıma",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",
+      "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    }
+  }
+}
