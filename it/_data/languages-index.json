@@ -1,0 +1,199 @@
+{
+  "languages": [
+    {
+      "slug": "english",
+      "url": "/languages/english",
+      "title": "Contenuti e SEO in Inglese per Mercati Esteri",
+      "description": "Contenuti in inglese per chi entra nei mercati statunitense, britannico e globali: esperti madrelingua e servizi a catalogo. Scopri i servizi.",
+      "menu": "Inglese",
+      "featured": false,
+      "flag": "",
+      "code": "EN",
+      "native_speakers_l1": "1.67 mld",
+      "market_speakers_display": "1.67 mld",
+      "market_country_count": 69,
+      "official_countries_count": 69,
+      "scope_count": 9,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "italy",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "italian",
+      "url": "/languages/italian",
+      "title": "Testi e SEO in Italiano Scritti da Madrelingua",
+      "description": "Testi in italiano per i marchi che entrano in Italia e nei mercati italofoni: autori madrelingua e servizi a catalogo. Scopri i servizi.",
+      "menu": "Italiano",
+      "featured": false,
+      "flag": "",
+      "code": "IT",
+      "native_speakers_l1": "68.5 mln",
+      "market_speakers_display": "68.5 mln",
+      "market_country_count": 9,
+      "official_countries_count": 9,
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "italy",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Search marketing",
+      "community-marketing": "Marketing della community",
+      "app-marketing": "Marketing per app"
+    },
+    "scopes": {
+      "technical-seo": "SEO tecnica",
+      "seo-research": "Ricerca SEO",
+      "aso-optimization": "Ottimizzazione ASO",
+      "aso-localization": "Localizzazione ASO",
+      "content-strategy": "Content strategy",
+      "content-writing": "Creazione contenuti",
+      "google-ads-search": "Campagne Google Ads",
+      "ppc-audit": "Audit PPC",
+      "telegram-ads": "Campagne Telegram Ads"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consulenza marketing",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "content": "Content marketing",
+      "social-media": "Social media",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "ecommerce": "Ecommerce",
+      "saas": "SaaS e software",
+      "fintech": "Fintech e finanza"
+    },
+    "countries": {
+      "italy": "Italia",
+      "eu": "Unione Europea"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Come le AI scelgono le fonti",
+      "seo-packages-comparison": "Prezzi SEO a confronto",
+      "why-seo-matters-in-2026": "A cosa serve la SEO nel 2026"
+    },
+    "positions": {
+      "seo-expert": "Esperto SEO",
+      "aso-specialist": "Specialista ASO",
+      "business-development-manager": "Business development manager",
+      "marketing-consultant": "Consulente marketing",
+      "ppc-specialist": "Google Ads specialist"
+    }
+  }
+}

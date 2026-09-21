@@ -1,0 +1,176 @@
+{
+  "countries": [
+    {
+      "slug": "eu",
+      "url": "/countries/eu",
+      "title": "Marketing nel Mercato Europeo: SEO e PPC nell'UE",
+      "description": "Marketing digitale in tutta Europa: mercati occidentali, orientali, meridionali e nordici. Team nativi per paese, una strategia UE, un solo report.",
+      "menu": "Unione Europea",
+      "featured": false,
+      "flag": "🇪🇺",
+      "population_total": "452 mln",
+      "official_languages_count": 20,
+      "significant_languages_count": 20,
+      "dominant_language_name": "inglese",
+      "dominant_language_code": "en",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 3,
+      "case_count": 2,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "italy",
+      "url": "/countries/italy",
+      "title": "Marketing Digitale per il Mercato Italiano",
+      "description": "Servizi di web marketing per il mercato italiano. Specialisti madrelingua, esperienza nel retail e nella finanza, pacchetti a prezzo fisso.",
+      "menu": "Italia",
+      "featured": false,
+      "flag": "🇮🇹",
+      "population_total": "61 mln",
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "italiano",
+      "dominant_language_code": "it",
+      "scope_count": 4,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "italian",
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "domains": {
+      "search-marketing": "Search marketing",
+      "community-marketing": "Marketing della community",
+      "app-marketing": "Marketing per app"
+    },
+    "scopes": {
+      "technical-seo": "SEO tecnica",
+      "seo-research": "Ricerca SEO",
+      "aso-optimization": "Ottimizzazione ASO",
+      "aso-localization": "Localizzazione ASO"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consulenza marketing",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "content": "Content marketing",
+      "social-media": "Social media",
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "ecommerce": "Ecommerce",
+      "saas": "SaaS e software",
+      "fintech": "Fintech e finanza"
+    },
+    "languages": {
+      "english": "Inglese",
+      "italian": "Italiano"
+    },
+    "positions": {
+      "seo-expert": "Esperto SEO",
+      "business-development-manager": "Business development manager",
+      "marketing-consultant": "Consulente marketing"
+    }
+  }
+}

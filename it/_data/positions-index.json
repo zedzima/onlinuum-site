@@ -1,0 +1,572 @@
+{
+  "positions": [
+    {
+      "slug": "aso-specialist",
+      "url": "/positions/aso-specialist",
+      "title": "Specialista ASO",
+      "description": "Lavoro ASO da remoto in Onlinuum: gestisci l'ottimizzazione delle schede negli app store, tieni il 40% dei ricavi, lavori su più lingue. Candidati oggi.",
+      "menu": "Specialista ASO",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Stiamo inserendo attivamente specialisti ASO nella rete",
+        "badge_active": "Selezione aperta su pacchetti attivi",
+        "apply_label": "Candidati / presentati",
+        "label_service": "Servizio principale",
+        "label_countries": "Mercati prioritari",
+        "label_languages": "Lingue di lavoro",
+        "label_industries": "Settori prioritari",
+        "label_experience": "Livello di seniority",
+        "label_engagement": "Collaborazione",
+        "label_commitment": "Impegno",
+        "engagement_type": "A progetto / part-time",
+        "working_hours": "10-25 ore a settimana in base ai pacchetti attivi",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Germania",
+          "Regno Unito",
+          "Stati Uniti",
+          "Francia",
+          "Polonia"
+        ],
+        "date_posted": "2026-04-08",
+        "direct_apply": true,
+        "identifier": "onlinuum-aso-specialist",
+        "experience_requirements": "Almeno 2 anni di lavoro ASO sul campo tra ricerca parole chiave, ottimizzazione dei metadati e test A/B.",
+        "education_requirements": "nessun requisito"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "aso",
+        "app-user-acquisition",
+        "app-conversion-retention"
+      ],
+      "scopes": [
+        "aso-optimization",
+        "aso-localization",
+        "app-store-cro",
+        "apple-search-ads"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "austria",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese"
+      ]
+    },
+    {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "Business development manager",
+      "description": "Lavoro da remoto come business development manager: apri il mercato che conosci e tieni il 10% di quanto i clienti che porti pagano nei primi 12 mesi.",
+      "menu": "Business development manager",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Stiamo aprendo mercati e ci serve un nome dietro a ciascuno",
+        "badge_active": "Selezione aperta, un manager per mercato",
+        "apply_label": "Candidati / presentati",
+        "label_service": "Servizi che apri",
+        "label_countries": "Mercati che vogliamo coprire per primi",
+        "label_languages": "Lingue di lavoro",
+        "label_industries": "Settori prioritari",
+        "label_experience": "Livello di seniority",
+        "label_engagement": "Collaborazione",
+        "label_commitment": "Impegno",
+        "engagement_type": "A progetto / part-time",
+        "working_hours": "10-20 ore a settimana, con un ritmo che decidi tu intorno al mercato che stai aprendo",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Germania",
+          "Stati Uniti",
+          "Regno Unito",
+          "Francia",
+          "Spagna"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "Almeno 5 anni di sviluppo commerciale, partnership o vendita dentro un mercato che conosci dall'interno.",
+        "education_requirements": "nessun requisito"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "italy"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "Consulente marketing per un singolo mercato locale",
+      "description": "Lavoro da consulente marketing freelance in Onlinuum: presidia un mercato dentro una rete di 44 paesi e tieni il 40% dei ricavi. Candidati oggi.",
+      "menu": "Consulente marketing",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Stiamo inserendo attivamente consulenti di mercato nella rete",
+        "badge_active": "Selezione aperta sui mercati ancora scoperti",
+        "apply_label": "Candidati / presentati",
+        "label_service": "Servizio principale",
+        "label_countries": "Mercati prioritari",
+        "label_languages": "Lingue di lavoro",
+        "label_industries": "Settori prioritari",
+        "label_experience": "Livello di seniority",
+        "label_engagement": "Collaborazione",
+        "label_commitment": "Impegno",
+        "engagement_type": "A progetto / part-time",
+        "working_hours": "5-20 ore a settimana in base ai mercati e ai pacchetti attivi",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Germania",
+          "Francia",
+          "Spagna",
+          "Italia",
+          "Polonia",
+          "Turchia"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "Almeno 5 anni di lavoro nel marketing con profondità operativa reale in almeno un mercato nazionale.",
+        "education_requirements": "nessun requisito"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "italy"
+        ],
+        "languages": [
+          "italian",
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
+      "slug": "ppc-specialist",
+      "url": "/positions/ppc-specialist",
+      "title": "Google Ads specialist",
+      "description": "Lavoro PPC da remoto in Onlinuum: gestisci search a pagamento, Shopping e YouTube Ads su 6 mercati prioritari. Candidati oggi.",
+      "menu": "Google Ads specialist",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Stiamo inserendo attivamente specialisti PPC nella rete",
+        "badge_active": "Selezione aperta su pacchetti attivi",
+        "apply_label": "Candidati / presentati",
+        "label_service": "Servizio principale",
+        "label_countries": "Mercati prioritari",
+        "label_languages": "Lingue di lavoro",
+        "label_industries": "Settori prioritari",
+        "label_experience": "Livello di seniority",
+        "label_engagement": "Collaborazione",
+        "label_commitment": "Impegno",
+        "engagement_type": "A progetto / part-time",
+        "working_hours": "10-25 ore a settimana in base ai pacchetti attivi",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Stati Uniti",
+          "Regno Unito",
+          "Germania",
+          "Francia",
+          "Polonia"
+        ],
+        "date_posted": "2026-04-12",
+        "direct_apply": true,
+        "identifier": "onlinuum-ppc-specialist",
+        "experience_requirements": "Almeno 2 anni di gestione PPC sul campo su Google Ads e su almeno un altro pacchetto.",
+        "education_requirements": "nessun requisito"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "ppc"
+      ],
+      "scopes": [
+        "ppc-audit",
+        "google-ads-search",
+        "microsoft-ads",
+        "google-shopping",
+        "remarketing-display",
+        "youtube-ads",
+        "local-services-ads"
+      ],
+      "countries": [
+        "usa",
+        "uk",
+        "germany",
+        "france",
+        "poland",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish"
+      ]
+    },
+    {
+      "slug": "seo-expert",
+      "url": "/positions/seo-expert",
+      "title": "Esperto SEO",
+      "description": "Lavoro SEO da remoto in Onlinuum: gestisci audit tecnici ed esecuzione on-page e tieni il 40% dei ricavi che generi. Candidati oggi.",
+      "menu": "Esperto SEO",
+      "featured": false,
+      "expert_count": 1,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Stiamo inserendo attivamente esperti SEO nella rete",
+        "badge_active": "Selezione aperta su pacchetti attivi",
+        "apply_label": "Candidati / presentati",
+        "label_service": "Servizio principale",
+        "label_countries": "Mercati prioritari",
+        "label_languages": "Lingue di lavoro",
+        "label_industries": "Settori prioritari",
+        "label_experience": "Livello di seniority",
+        "label_engagement": "Collaborazione",
+        "label_commitment": "Impegno",
+        "engagement_type": "A progetto / part-time",
+        "working_hours": "10-30 ore a settimana in base ai pacchetti attivi",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Germania",
+          "Austria",
+          "Regno Unito",
+          "Francia",
+          "Stati Uniti"
+        ],
+        "date_posted": "2026-03-31",
+        "direct_apply": true,
+        "identifier": "onlinuum-seo-expert",
+        "experience_requirements": "Almeno 5 anni di lavoro SEO sul campo su pacchetti tecnici, on-page o di ricerca organica internazionale.",
+        "education_requirements": "nessun requisito"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "italy"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ]
+      },
+      "services": [
+        "seo"
+      ],
+      "scopes": [
+        "technical-seo",
+        "seo-research",
+        "on-page-seo",
+        "link-building",
+        "cross-market-setup",
+        "ai-optimisation",
+        "local-seo"
+      ],
+      "countries": [
+        "germany",
+        "austria",
+        "uk",
+        "france",
+        "usa",
+        "poland",
+        "portugal",
+        "spain"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "russian",
+        "spanish",
+        "polish",
+        "portuguese",
+        "chinese",
+        "japanese"
+      ]
+    }
+  ],
+  "labels": {
+    "domains": {
+      "app-marketing": "Marketing per app",
+      "search-marketing": "Search marketing"
+    },
+    "scopes": {
+      "aso-optimization": "Ottimizzazione ASO",
+      "aso-localization": "Localizzazione ASO",
+      "seo-research": "Ricerca SEO",
+      "content-strategy": "Content strategy",
+      "telegram-ads": "Campagne Telegram Ads",
+      "ppc-audit": "Audit PPC",
+      "google-ads-search": "Campagne Google Ads",
+      "technical-seo": "SEO tecnica"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consulenza marketing",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "aso": "ASO",
+      "seo": "SEO",
+      "ppc": "PPC",
+      "content": "Content marketing"
+    },
+    "industries": {
+      "saas": "SaaS e software",
+      "fintech": "Fintech e finanza",
+      "ecommerce": "Ecommerce"
+    },
+    "languages": {
+      "english": "Inglese",
+      "italian": "Italiano"
+    },
+    "countries": {
+      "italy": "Italia",
+      "eu": "Unione Europea"
+    },
+    "experts": {
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "blog-posts": {
+      "seo-packages-comparison": "Prezzi SEO a confronto"
+    }
+  }
+}

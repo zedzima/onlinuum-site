@@ -1,0 +1,216 @@
+{
+  "domains": [
+    {
+      "slug": "app-marketing",
+      "url": "/domains/app-marketing",
+      "title": "Mobile e App Marketing per la Crescita dell'App",
+      "description": "Servizi di mobile marketing a catalogo: ASO, acquisizione utenti a pagamento, CRO della scheda e retention per iOS e Android, in più lingue.",
+      "menu": "Marketing per app",
+      "featured": true,
+      "icon": "smartphone",
+      "service_count": 1,
+      "scope_count": 2,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "aso-optimization",
+          "aso-localization"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "aso"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "italy"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "community-marketing",
+      "url": "/domains/community-marketing",
+      "title": "Community Marketing e Gestione della Community",
+      "description": "Servizi di community marketing e community management su social media, contenuti ed email: fiducia guadagnata e un pubblico organico che resta.",
+      "menu": "Marketing della community",
+      "featured": true,
+      "icon": "users",
+      "service_count": 2,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "italy"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ]
+      }
+    },
+    {
+      "slug": "search-marketing",
+      "url": "/domains/search-marketing",
+      "title": "Search Engine Marketing Multilingue (SEM)",
+      "description": "Search engine marketing multilingue tra SEO, AEO, SEM e advertising online. Ricerca parole chiave e annunci nativi per lingua, una sola misurazione.",
+      "menu": "Search marketing",
+      "featured": true,
+      "icon": "search-new",
+      "service_count": 4,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 2,
+      "expert_count": 3,
+      "facets": {
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "ppc-audit",
+          "google-ads-search",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "cases": [
+          "ecommerce-migration-2025",
+          "alvadi"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu",
+          "italy"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "scopes": {
+      "aso-optimization": "Ottimizzazione ASO",
+      "aso-localization": "Localizzazione ASO",
+      "seo-research": "Ricerca SEO",
+      "content-strategy": "Content strategy",
+      "technical-seo": "SEO tecnica",
+      "ppc-audit": "Audit PPC",
+      "google-ads-search": "Campagne Google Ads",
+      "content-writing": "Creazione contenuti"
+    },
+    "experts": {
+      "dima-gerko": "Dima Gerko",
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consulenza marketing",
+      "multilingual-seo": "SEO multilingue"
+    },
+    "services": {
+      "aso": "ASO",
+      "social-media": "Social media",
+      "content": "Content marketing",
+      "seo": "SEO",
+      "ppc": "PPC"
+    },
+    "industries": {
+      "saas": "SaaS e software",
+      "fintech": "Fintech e finanza",
+      "ecommerce": "Ecommerce"
+    },
+    "countries": {
+      "eu": "Unione Europea",
+      "italy": "Italia"
+    },
+    "languages": {
+      "english": "Inglese",
+      "italian": "Italiano"
+    },
+    "positions": {
+      "aso-specialist": "Specialista ASO",
+      "seo-expert": "Esperto SEO",
+      "marketing-consultant": "Consulente marketing",
+      "ppc-specialist": "Google Ads specialist"
+    },
+    "cases": {
+      "ecommerce-migration-2025": "Migrazione ecommerce",
+      "alvadi": "ALVADI"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Come le AI scelgono le fonti",
+      "seo-packages-comparison": "Prezzi SEO a confronto",
+      "why-seo-matters-in-2026": "A cosa serve la SEO nel 2026"
+    }
+  }
+}
