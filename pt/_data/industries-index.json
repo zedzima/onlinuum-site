@@ -66,6 +66,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
           "ppc-specialist"
         ]
       }
@@ -130,6 +131,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
           "ppc-specialist"
         ]
       }
@@ -199,6 +201,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
           "ppc-specialist"
         ]
       }
@@ -258,6 +261,7 @@
     "positions": {
       "seo-expert": "Especialista de SEO",
       "aso-specialist": "ASO specialist",
+      "business-development-manager": "Business Developer",
       "ppc-specialist": "Gestor de tráfego"
     }
   }

@@ -70,6 +70,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -155,6 +157,8 @@
     "positions": {
       "seo-expert": "SEO 채용",
       "aso-specialist": "ASO 전문가",
+      "business-development-manager": "사업개발 매니저",
+      "marketing-consultant": "마케팅 컨설턴트",
       "ppc-specialist": "퍼포먼스 마케터"
     }
   }

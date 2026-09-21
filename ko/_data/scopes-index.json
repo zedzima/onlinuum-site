@@ -40,7 +40,8 @@
           "english"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -132,7 +133,8 @@
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -310,7 +312,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -402,7 +405,8 @@
           "english"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -445,6 +449,7 @@
     },
     "positions": {
       "aso-specialist": "ASO 전문가",
+      "marketing-consultant": "마케팅 컨설턴트",
       "seo-expert": "SEO 채용",
       "ppc-specialist": "퍼포먼스 마케터"
     },

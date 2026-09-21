@@ -103,6 +103,97 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "Business developer para um mercado",
+      "description": "Emprego business developer remoto: abra um mercado que conhece e fique com 10 % do que os clientes que traz pagam nos primeiros 12 meses.",
+      "menu": "Business Developer",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Estamos a abrir mercados e cada um precisa de um nome",
+        "badge_active": "A recrutar ativamente, um gestor por mercado",
+        "apply_label": "Candidatar-me / Apresentar-me",
+        "label_service": "Serviços que vai abrir",
+        "label_countries": "Mercados a cobrir primeiro",
+        "label_languages": "Idiomas de trabalho",
+        "label_industries": "Setores prioritários",
+        "label_experience": "Senioridade",
+        "label_engagement": "Formato de colaboração",
+        "label_commitment": "Regime de trabalho",
+        "engagement_type": "Por projeto / tempo parcial",
+        "working_hours": "10 a 20 horas por semana, ao ritmo que definir para o mercado que está a abrir",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Alemanha",
+          "Estados Unidos",
+          "Reino Unido",
+          "França",
+          "Espanha"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "5 ou mais anos em desenvolvimento de negócio, parcerias ou vendas num mercado que conhece por dentro.",
+        "education_requirements": "sem requisitos"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "Gestor de tráfego",
@@ -331,8 +422,9 @@
     },
     "services": {
       "aso": "ASO para apps",
+      "seo": "Serviços de SEO",
       "ppc": "Google Ads",
-      "seo": "Serviços de SEO"
+      "content": "Marketing de conteúdos"
     },
     "industries": {
       "saas": "SaaS",

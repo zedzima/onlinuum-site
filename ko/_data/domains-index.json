@@ -148,6 +148,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -195,6 +196,7 @@
     "positions": {
       "aso-specialist": "ASO 전문가",
       "seo-expert": "SEO 채용",
+      "marketing-consultant": "마케팅 컨설턴트",
       "ppc-specialist": "퍼포먼스 마케터"
     },
     "cases": {

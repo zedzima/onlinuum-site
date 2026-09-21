@@ -71,6 +71,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -124,7 +126,8 @@
           "turkey"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     }
@@ -182,6 +185,8 @@
     "positions": {
       "seo-expert": "SEO Uzmanı",
       "aso-specialist": "ASO Uzmanı",
+      "business-development-manager": "İş Geliştirme Yöneticisi",
+      "marketing-consultant": "Pazarlama Danışmanı",
       "ppc-specialist": "Google Ads Uzmanı"
     }
   }

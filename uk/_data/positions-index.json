@@ -99,6 +99,216 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "Менеджер з розвитку бізнесу",
+      "description": "Віддалена вакансія менеджера з розвитку бізнесу: відкрийте ринок, який знаєте, і отримуйте 10 % від платежів приведених клієнтів за перші 12 місяців.",
+      "menu": "Менеджер з розвитку бізнесу",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Ми відкриваємо ринки, і за кожним має стояти ім’я",
+        "badge_active": "Активно наймаємо, по одному менеджеру на ринок",
+        "apply_label": "Подати заявку / представитися",
+        "label_service": "Послуги, які ви відкриваєте",
+        "label_countries": "Ринки, які закриваємо першими",
+        "label_languages": "Робочі мови",
+        "label_industries": "Пріоритетні галузі",
+        "label_experience": "Рівень",
+        "label_engagement": "Формат співпраці",
+        "label_commitment": "Зайнятість",
+        "engagement_type": "Проєктно / часткова зайнятість",
+        "working_hours": "10-20 годин на тиждень, темп задаєте ви самі під ринок, який відкриваєте",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Німеччина",
+          "США",
+          "Велика Британія",
+          "Франція",
+          "Іспанія"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "Від 5 років у розвитку бізнесу, партнерствах або продажах на одному ринку, який ви знаєте зсередини.",
+        "education_requirements": "без вимог"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "Консультант з маркетингу для одного локального ринку",
+      "description": "Віддалена робота консультантом з маркетингу в Onlinuum: власний ринок у мережі з 44 країн і 40 % від виручки. Подавайтеся сьогодні.",
+      "menu": "Консультант з маркетингу",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Ми активно додаємо ринкових консультантів до мережі експертів",
+        "badge_active": "Активно наймаємо на незакриті ринки",
+        "apply_label": "Подати заявку / представитися",
+        "label_service": "Основна послуга",
+        "label_countries": "Пріоритетні ринки",
+        "label_languages": "Робочі мови",
+        "label_industries": "Пріоритетні галузі",
+        "label_experience": "Рівень",
+        "label_engagement": "Формат співпраці",
+        "label_commitment": "Зайнятість",
+        "engagement_type": "Проєктно / часткова зайнятість",
+        "working_hours": "5-20 годин на тиждень залежно від активних ринків і модулів",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Німеччина",
+          "Франція",
+          "Іспанія",
+          "Італія",
+          "Польща",
+          "Туреччина"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "Від 5 років роботи в маркетингу з реальною операційною глибиною щонайменше на одному країновому ринку.",
+        "education_requirements": "без вимог"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "PPC спеціаліст: вакансії",
@@ -314,12 +524,12 @@
     "scopes": {
       "aso-optimization": "ASO-оптимізація",
       "aso-localization": "ASO-локалізація",
+      "seo-research": "SEO-дослідження",
+      "content-strategy": "Контент-стратегія",
+      "telegram-ads": "Реклама в Telegram",
       "ppc-audit": "Аудит Google Ads",
       "google-ads-search": "Пошук у Google Ads",
-      "telegram-ads": "Реклама в Telegram",
-      "technical-seo": "Технічне SEO",
-      "seo-research": "SEO-дослідження",
-      "content-strategy": "Контент-стратегія"
+      "technical-seo": "Технічне SEO"
     },
     "solutions": {
       "digital-marketing-consulting": "Маркетинговий консалтинг",
@@ -327,8 +537,9 @@
     },
     "services": {
       "aso": "ASO",
+      "seo": "SEO",
       "ppc": "PPC",
-      "seo": "SEO"
+      "content": "Контент-маркетинг"
     },
     "industries": {
       "saas": "SaaS",

@@ -47,7 +47,8 @@
           "dutch"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "business-development-manager"
         ]
       }
     },
@@ -98,6 +99,9 @@
         "languages": [
           "english",
           "dutch"
+        ],
+        "positions": [
+          "business-development-manager"
         ]
       }
     },
@@ -151,7 +155,8 @@
           "dutch"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager"
         ]
       }
     },
@@ -211,7 +216,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager"
         ]
       }
     },
@@ -296,6 +302,7 @@
     },
     "positions": {
       "aso-specialist": "ASO-specialist",
+      "business-development-manager": "Business development manager",
       "ppc-specialist": "SEA-specialist",
       "seo-expert": "SEO-specialist"
     },

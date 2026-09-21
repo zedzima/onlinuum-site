@@ -46,7 +46,9 @@
           "english"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -97,6 +99,10 @@
         "languages": [
           "english",
           "arabic"
+        ],
+        "positions": [
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -150,7 +156,9 @@
           "arabic"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -210,7 +218,9 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -295,6 +305,8 @@
     },
     "positions": {
       "aso-specialist": "متخصص ASO",
+      "business-development-manager": "مدير تطوير الأعمال",
+      "marketing-consultant": "مستشار تسويق",
       "ppc-specialist": "متخصص PPC",
       "seo-expert": "خبير SEO"
     },

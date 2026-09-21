@@ -147,6 +147,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -195,6 +196,7 @@
     "positions": {
       "aso-specialist": "ASO Uzmanı",
       "seo-expert": "SEO Uzmanı",
+      "marketing-consultant": "Pazarlama Danışmanı",
       "ppc-specialist": "Google Ads Uzmanı"
     },
     "cases": {

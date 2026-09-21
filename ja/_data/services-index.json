@@ -46,7 +46,9 @@
           "english"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -96,6 +98,10 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -148,7 +154,9 @@
           "english"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -207,7 +215,9 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -290,6 +300,8 @@
     },
     "positions": {
       "aso-specialist": "ASO担当",
+      "business-development-manager": "事業開発マネージャー",
+      "marketing-consultant": "マーケティングコンサルタント",
       "ppc-specialist": "広告運用担当",
       "seo-expert": "SEO担当"
     },

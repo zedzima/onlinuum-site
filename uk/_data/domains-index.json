@@ -148,6 +148,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -195,6 +196,7 @@
     "positions": {
       "aso-specialist": "ASO спеціаліст",
       "seo-expert": "SEO спеціаліст",
+      "marketing-consultant": "Консультант з маркетингу",
       "ppc-specialist": "PPC спеціаліст"
     },
     "cases": {

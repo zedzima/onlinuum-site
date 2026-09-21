@@ -117,7 +117,8 @@
           "japanese"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     }
@@ -164,7 +165,8 @@
       "japanese": "日本語"
     },
     "positions": {
-      "seo-expert": "SEO担当"
+      "seo-expert": "SEO担当",
+      "marketing-consultant": "マーケティングコンサルタント"
     }
   }
 }

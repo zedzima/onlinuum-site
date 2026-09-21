@@ -120,7 +120,9 @@
         ],
         "positions": [
           "seo-expert",
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     }
@@ -170,7 +172,9 @@
     },
     "positions": {
       "seo-expert": "خبير SEO",
-      "ppc-specialist": "متخصص PPC"
+      "ppc-specialist": "متخصص PPC",
+      "business-development-manager": "مدير تطوير الأعمال",
+      "marketing-consultant": "مستشار تسويق"
     }
   }
 }

@@ -115,7 +115,8 @@
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     }
@@ -165,7 +166,8 @@
       "turkish": "Türkçe"
     },
     "positions": {
-      "seo-expert": "SEO Uzmanı"
+      "seo-expert": "SEO Uzmanı",
+      "marketing-consultant": "Pazarlama Danışmanı"
     }
   }
 }

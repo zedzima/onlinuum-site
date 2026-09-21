@@ -47,7 +47,8 @@
           "portuguese"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "business-development-manager"
         ]
       }
     },
@@ -98,6 +99,9 @@
         "languages": [
           "english",
           "portuguese"
+        ],
+        "positions": [
+          "business-development-manager"
         ]
       }
     },
@@ -149,7 +153,8 @@
           "english"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager"
         ]
       }
     },
@@ -209,7 +214,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager"
         ]
       }
     },
@@ -292,6 +298,7 @@
     },
     "positions": {
       "aso-specialist": "ASO specialist",
+      "business-development-manager": "Business Developer",
       "ppc-specialist": "Gestor de tráfego",
       "seo-expert": "Especialista de SEO"
     },

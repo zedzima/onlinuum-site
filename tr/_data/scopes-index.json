@@ -39,7 +39,8 @@
           "english"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -130,7 +131,8 @@
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -317,7 +319,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -413,7 +416,8 @@
           "english"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -457,6 +461,7 @@
     },
     "positions": {
       "aso-specialist": "ASO Uzmanı",
+      "marketing-consultant": "Pazarlama Danışmanı",
       "seo-expert": "SEO Uzmanı",
       "ppc-specialist": "Google Ads Uzmanı"
     },

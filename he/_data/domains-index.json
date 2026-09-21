@@ -148,6 +148,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -195,6 +196,7 @@
     "positions": {
       "aso-specialist": "מומחה ASO",
       "seo-expert": "מומחה קידום אתרים",
+      "marketing-consultant": "יועץ שיווק",
       "ppc-specialist": "מנהל קמפיינים PPC"
     },
     "cases": {

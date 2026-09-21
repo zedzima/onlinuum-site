@@ -103,6 +103,224 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "Business Development Manager en remoto",
+      "description": "Business development manager en remoto: abre el mercado que ya conoces y quédate el 10 % de lo que pagan tus clientes en sus 12 primeros meses.",
+      "menu": "Responsable de desarrollo de negocio",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Estamos abriendo mercados y necesitamos un nombre detrás de cada uno",
+        "badge_active": "Contratando: un responsable por mercado",
+        "apply_label": "Enviar candidatura / presentarte",
+        "label_service": "Servicios que abres",
+        "label_countries": "Mercados que queremos cubrir primero",
+        "label_languages": "Idiomas de trabajo",
+        "label_industries": "Sectores prioritarios",
+        "label_experience": "Nivel",
+        "label_engagement": "Formato de colaboración",
+        "label_commitment": "Dedicación",
+        "engagement_type": "Por proyecto / tiempo parcial",
+        "working_hours": "10-20 horas por semana, al ritmo que marque el mercado que estás abriendo",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Alemania",
+          "Estados Unidos",
+          "Reino Unido",
+          "Francia",
+          "España"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "Más de 5 años en desarrollo de negocio, alianzas o ventas dentro de un mercado que conoces desde dentro.",
+        "education_requirements": "sin requisitos"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "Consultor de marketing para un mercado local",
+      "description": "Trabajo de consultor de marketing en remoto en Onlinuum: cubre un mercado dentro de una red de 44 países y quédate el 40 % de los ingresos.",
+      "menu": "Consultor de marketing",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Estamos incorporando consultores de mercado a la red",
+        "badge_active": "Contratando para mercados sin cubrir",
+        "apply_label": "Enviar candidatura / presentarte",
+        "label_service": "Servicio principal",
+        "label_countries": "Mercados prioritarios",
+        "label_languages": "Idiomas de trabajo",
+        "label_industries": "Sectores prioritarios",
+        "label_experience": "Nivel",
+        "label_engagement": "Formato de colaboración",
+        "label_commitment": "Dedicación",
+        "engagement_type": "Por proyecto / tiempo parcial",
+        "working_hours": "5-20 horas por semana según los mercados y los planes activos",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Alemania",
+          "Francia",
+          "España",
+          "Italia",
+          "Polonia",
+          "Turquía"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "Más de 5 años de trabajo en marketing con profundidad operativa real en al menos un mercado nacional.",
+        "education_requirements": "sin requisitos"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "spain"
+        ],
+        "languages": [
+          "spanish",
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "Trabajo SEM y PPC",
@@ -322,12 +540,12 @@
     "scopes": {
       "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
+      "seo-research": "Keyword research",
+      "content-strategy": "Estrategia de contenidos",
+      "telegram-ads": "Telegram Ads",
       "ppc-audit": "Auditoría SEM",
       "google-ads-search": "Búsqueda en Google Ads",
-      "telegram-ads": "Telegram Ads",
-      "technical-seo": "SEO técnico",
-      "seo-research": "Keyword research",
-      "content-strategy": "Estrategia de contenidos"
+      "technical-seo": "SEO técnico"
     },
     "solutions": {
       "digital-marketing-consulting": "Consultoría de marketing digital",
@@ -335,8 +553,9 @@
     },
     "services": {
       "aso": "ASO",
+      "seo": "SEO",
       "ppc": "PPC",
-      "seo": "SEO"
+      "content": "Marketing de contenidos"
     },
     "industries": {
       "saas": "SaaS",

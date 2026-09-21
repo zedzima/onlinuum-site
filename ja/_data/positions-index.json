@@ -99,6 +99,220 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "事業開発マネージャーの求人",
+      "description": "Onlinuumの事業開発 求人。ご自身が知り尽くした1つの市場を開き、連れてきたクライアントが最初の12か月に支払う額の10%を受け取ります。固定給のないフルリモートの業務委託です。",
+      "menu": "事業開発マネージャー",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "市場を開いていく段階です。それぞれに名前のある担当者が必要です",
+        "badge_active": "1市場につき1名、積極採用中",
+        "apply_label": "応募する／自己紹介を送る",
+        "label_service": "開拓するサービス",
+        "label_countries": "先にカバーしたい市場",
+        "label_languages": "業務で使う言語",
+        "label_industries": "優先業界",
+        "label_experience": "経験レベル",
+        "label_engagement": "契約形態",
+        "label_commitment": "稼働時間",
+        "engagement_type": "案件単位／パートタイム",
+        "working_hours": "週10〜20時間。開拓する市場に合わせてご自身でペースを決められます",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "ドイツ",
+          "米国",
+          "英国",
+          "フランス",
+          "スペイン"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "内側から知っている1つの市場での事業開発、アライアンス、または営業の5年以上の経験。",
+        "education_requirements": "学歴の要件はありません"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "1つの市場を担当するマーケティングコンサルタントの求人",
+      "description": "Onlinuumのマーケティングコンサルタント 求人。44か国のネットワークの中で1つの市場を担当し、レベニューシェア40%を受け取るフルリモートの業務委託です。固定給はありません。",
+      "menu": "マーケティングコンサルタント",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "市場担当のコンサルタントをネットワークに積極的に迎えています",
+        "badge_active": "まだ担当者のいない市場で積極採用中",
+        "apply_label": "応募する／自己紹介を送る",
+        "label_service": "中心となるサービス",
+        "label_countries": "優先市場",
+        "label_languages": "業務で使う言語",
+        "label_industries": "優先業界",
+        "label_experience": "経験レベル",
+        "label_engagement": "契約形態",
+        "label_commitment": "稼働時間",
+        "engagement_type": "案件単位／パートタイム",
+        "working_hours": "担当市場と稼働中のメニューに応じて週5〜20時間",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "ドイツ",
+          "フランス",
+          "スペイン",
+          "イタリア",
+          "ポーランド",
+          "トルコ"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "少なくとも1つの国の市場で実際に手を動かしてきた、5年以上のマーケティングの実務経験。",
+        "education_requirements": "学歴の要件はありません"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "japan"
+        ],
+        "languages": [
+          "japanese",
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "広告運用担当の求人",
@@ -314,12 +528,12 @@
     "scopes": {
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
+      "seo-research": "キーワード選定",
+      "content-strategy": "コンテンツ戦略",
+      "telegram-ads": "Telegram Ads",
       "ppc-audit": "広告アカウント診断",
       "google-ads-search": "Google広告・検索広告",
-      "telegram-ads": "Telegram Ads",
-      "technical-seo": "テクニカルSEO",
-      "seo-research": "キーワード選定",
-      "content-strategy": "コンテンツ戦略"
+      "technical-seo": "テクニカルSEO"
     },
     "solutions": {
       "digital-marketing-consulting": "マーケティングコンサルティング",
@@ -327,8 +541,9 @@
     },
     "services": {
       "aso": "ASO対策",
+      "seo": "SEO対策",
       "ppc": "リスティング広告",
-      "seo": "SEO対策"
+      "content": "コンテンツマーケティング"
     },
     "industries": {
       "saas": "SaaS",
@@ -339,12 +554,12 @@
       "english": "英語",
       "japanese": "日本語"
     },
+    "countries": {
+      "japan": "日本",
+      "eu": "欧州連合"
+    },
     "experts": {
       "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
-    },
-    "countries": {
-      "eu": "欧州連合",
-      "japan": "日本"
     },
     "blog-posts": {
       "seo-packages-comparison": "SEO対策の費用比較"

@@ -48,7 +48,9 @@
           "uae"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -123,6 +125,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -167,6 +171,8 @@
     },
     "positions": {
       "seo-expert": "خبير SEO",
+      "business-development-manager": "مدير تطوير الأعمال",
+      "marketing-consultant": "مستشار تسويق",
       "aso-specialist": "متخصص ASO",
       "ppc-specialist": "متخصص PPC"
     },

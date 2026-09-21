@@ -47,7 +47,9 @@
           "french"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -98,6 +100,10 @@
         "languages": [
           "english",
           "french"
+        ],
+        "positions": [
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -151,7 +157,9 @@
           "french"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -211,7 +219,9 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -294,6 +304,8 @@
     },
     "positions": {
       "aso-specialist": "Spécialiste ASO",
+      "business-development-manager": "Business developer",
+      "marketing-consultant": "Consultant marketing",
       "ppc-specialist": "Spécialiste SEA",
       "seo-expert": "Consultant SEO"
     },

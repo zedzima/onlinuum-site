@@ -103,6 +103,97 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "Praca: Business Development Manager",
+      "description": "Praca business development manager zdalnie: otwiera się jeden znany rynek i zatrzymuje 10% tego, co przyprowadzeni klienci zapłacą przez 12 miesięcy.",
+      "menu": "Business development manager",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Otwieramy rynki i przy każdym potrzebne jest nazwisko",
+        "badge_active": "Aktywnie rekrutujemy, jeden manager na rynek",
+        "apply_label": "Zgłoś się / przedstaw się",
+        "label_service": "Usługi, które się otwiera",
+        "label_countries": "Rynki, które chcemy pokryć najpierw",
+        "label_languages": "Języki robocze",
+        "label_industries": "Branże priorytetowe",
+        "label_experience": "Poziom doświadczenia",
+        "label_engagement": "Forma współpracy",
+        "label_commitment": "Wymiar czasu",
+        "engagement_type": "Projektowo / część etatu",
+        "working_hours": "10-20 godzin tygodniowo, tempo wyznacza rynek, który się otwiera",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Niemcy",
+          "Stany Zjednoczone",
+          "Wielka Brytania",
+          "Francja",
+          "Hiszpania"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "Minimum 5 lat w rozwoju biznesu, partnerstwach lub sprzedaży na jednym rynku znanym od środka.",
+        "education_requirements": "brak wymagań"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "Specjalista Google Ads (PPC)",
@@ -334,8 +425,9 @@
     },
     "services": {
       "aso": "ASO aplikacji",
+      "seo": "Pozycjonowanie",
       "ppc": "Google Ads",
-      "seo": "Pozycjonowanie"
+      "content": "Content marketing"
     },
     "industries": {
       "saas": "SaaS",

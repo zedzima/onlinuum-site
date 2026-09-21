@@ -47,7 +47,8 @@
           "polish"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "business-development-manager"
         ]
       }
     },
@@ -98,6 +99,9 @@
         "languages": [
           "english",
           "polish"
+        ],
+        "positions": [
+          "business-development-manager"
         ]
       }
     },
@@ -150,7 +154,8 @@
           "english"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager"
         ]
       }
     },
@@ -210,7 +215,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager"
         ]
       }
     },
@@ -293,6 +299,7 @@
     },
     "positions": {
       "aso-specialist": "Specjalista ASO",
+      "business-development-manager": "Business development manager",
       "ppc-specialist": "Specjalista Google Ads",
       "seo-expert": "Specjalista SEO"
     },

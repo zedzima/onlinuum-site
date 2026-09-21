@@ -70,6 +70,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -155,6 +157,8 @@
     "positions": {
       "seo-expert": "SEO спеціаліст",
       "aso-specialist": "ASO спеціаліст",
+      "business-development-manager": "Менеджер з розвитку бізнесу",
+      "marketing-consultant": "Консультант з маркетингу",
       "ppc-specialist": "PPC спеціаліст"
     }
   }

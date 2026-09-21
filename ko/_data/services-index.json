@@ -46,7 +46,9 @@
           "english"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -96,6 +98,10 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -148,7 +154,9 @@
           "english"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -207,7 +215,9 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -290,6 +300,8 @@
     },
     "positions": {
       "aso-specialist": "ASO 전문가",
+      "business-development-manager": "사업개발 매니저",
+      "marketing-consultant": "마케팅 컨설턴트",
       "ppc-specialist": "퍼포먼스 마케터",
       "seo-expert": "SEO 채용"
     },

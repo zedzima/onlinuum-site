@@ -99,6 +99,101 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "Business development manager",
+      "description": "Business development manager vacature, volledig remote: open de markt die je kent en houd 10% van wat je klanten in 12 maanden betalen.",
+      "menu": "Business development manager",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "We openen markten en zoeken bij elke markt een naam",
+        "badge_active": "Actief aan het werven, een manager per markt",
+        "apply_label": "Solliciteer / stel jezelf voor",
+        "label_service": "Diensten die je opent",
+        "label_countries": "Markten die we als eerste gedekt willen hebben",
+        "label_languages": "Werktalen",
+        "label_industries": "Prioriteitsbranches",
+        "label_experience": "Senioriteit",
+        "label_engagement": "Soort opdracht",
+        "label_commitment": "Beschikbaarheid",
+        "engagement_type": "Op projectbasis / in deeltijd",
+        "working_hours": "10 tot 20 uur per week, in je eigen tempo rond de markt die je opent",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Duitsland",
+          "Verenigde Staten",
+          "Verenigd Koninkrijk",
+          "Frankrijk",
+          "Spanje"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "Minimaal 5 jaar in business development, partnerschappen of sales binnen een markt die je van binnenuit kent.",
+        "education_requirements": "geen vereisten"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "SEA-specialist",
@@ -327,8 +422,9 @@
     },
     "services": {
       "aso": "ASO",
+      "seo": "SEO",
       "ppc": "SEA",
-      "seo": "SEO"
+      "content": "Contentmarketing"
     },
     "industries": {
       "saas": "SaaS",
@@ -339,12 +435,12 @@
       "english": "Engels",
       "dutch": "Nederlands"
     },
+    "countries": {
+      "netherlands": "Nederland",
+      "eu": "Europese Unie"
+    },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
-    },
-    "countries": {
-      "eu": "Europese Unie",
-      "netherlands": "Nederland"
     },
     "blog-posts": {
       "seo-packages-comparison": "SEO-pakketten vergeleken"

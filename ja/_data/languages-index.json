@@ -70,6 +70,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -97,7 +99,8 @@
           "japan"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     }
@@ -155,6 +158,8 @@
     "positions": {
       "seo-expert": "SEO担当",
       "aso-specialist": "ASO担当",
+      "business-development-manager": "事業開発マネージャー",
+      "marketing-consultant": "マーケティングコンサルタント",
       "ppc-specialist": "広告運用担当"
     }
   }

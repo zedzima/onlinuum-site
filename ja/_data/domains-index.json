@@ -148,6 +148,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -195,6 +196,7 @@
     "positions": {
       "aso-specialist": "ASO担当",
       "seo-expert": "SEO担当",
+      "marketing-consultant": "マーケティングコンサルタント",
       "ppc-specialist": "広告運用担当"
     },
     "cases": {

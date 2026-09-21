@@ -56,6 +56,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -105,7 +107,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     }
@@ -156,6 +159,8 @@
     "positions": {
       "seo-expert": "מומחה קידום אתרים",
       "aso-specialist": "מומחה ASO",
+      "business-development-manager": "מנהל פיתוח עסקי",
+      "marketing-consultant": "יועץ שיווק",
       "ppc-specialist": "מנהל קמפיינים PPC"
     }
   }

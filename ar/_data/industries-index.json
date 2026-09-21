@@ -66,6 +66,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -130,6 +132,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -199,6 +203,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -258,6 +264,8 @@
     "positions": {
       "seo-expert": "خبير SEO",
       "aso-specialist": "متخصص ASO",
+      "business-development-manager": "مدير تطوير الأعمال",
+      "marketing-consultant": "مستشار تسويق",
       "ppc-specialist": "متخصص PPC"
     }
   }

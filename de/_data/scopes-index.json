@@ -41,7 +41,8 @@
           "german"
         ],
         "positions": [
-          "aso-specialist"
+          "aso-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -138,7 +139,8 @@
           "german"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -329,7 +331,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -426,7 +429,8 @@
           "german"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "marketing-consultant"
         ]
       },
       "case_count": 0,
@@ -470,6 +474,7 @@
     },
     "positions": {
       "aso-specialist": "ASO Manager",
+      "marketing-consultant": "Marketingberater",
       "seo-expert": "SEO Manager",
       "ppc-specialist": "SEA Manager"
     },

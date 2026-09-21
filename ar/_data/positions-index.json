@@ -99,6 +99,224 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "وظائف Business Development Manager",
+      "description": "Business Development Manager Jobs عن بعد: افتحوا سوقا تعرفونه من الداخل، واحتفظوا بـ10% مما يدفعه العملاء الذين تجلبونهم في أول 12 شهرا.",
+      "menu": "مدير تطوير الأعمال",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "نفتح أسواقا جديدة ونحتاج إلى اسم خلف كل سوق",
+        "badge_active": "توظيف نشط، مدير واحد لكل سوق",
+        "apply_label": "تقدموا أو عرفونا بأنفسكم",
+        "label_service": "الخدمات التي تفتحون أبوابها",
+        "label_countries": "الأسواق التي نريد تغطيتها أولا",
+        "label_languages": "لغات العمل",
+        "label_industries": "القطاعات ذات الأولوية",
+        "label_experience": "المستوى",
+        "label_engagement": "شكل التعاون",
+        "label_commitment": "الالتزام",
+        "engagement_type": "قائم على المشاريع / بدوام جزئي",
+        "working_hours": "10-20 ساعة أسبوعيا، بإيقاع تحددونه أنتم حسب السوق الذي تفتحونه",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "ألمانيا",
+          "الولايات المتحدة",
+          "المملكة المتحدة",
+          "فرنسا",
+          "إسبانيا"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "5 سنوات أو أكثر في تطوير الأعمال أو الشراكات أو المبيعات داخل سوق واحد تعرفونه من الداخل.",
+        "education_requirements": "لا توجد متطلبات"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "وظائف Marketing Consultant لسوق محلي واحد",
+      "description": "Marketing Consultant Jobs عن بعد في Onlinuum: تملكوا سوقا واحدا داخل شبكة من 44 دولة، واحتفظوا بـ40% من الإيرادات. تقدموا اليوم.",
+      "menu": "مستشار تسويق",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "نضيف حاليا مستشاري أسواق إلى الشبكة",
+        "badge_active": "توظيف نشط لأسواق غير مغطاة",
+        "apply_label": "تقدموا أو عرفونا بأنفسكم",
+        "label_service": "الخدمة الأساسية",
+        "label_countries": "الأسواق ذات الأولوية",
+        "label_languages": "لغات العمل",
+        "label_industries": "القطاعات ذات الأولوية",
+        "label_experience": "المستوى",
+        "label_engagement": "شكل التعاون",
+        "label_commitment": "الالتزام",
+        "engagement_type": "قائم على المشاريع / بدوام جزئي",
+        "working_hours": "5-20 ساعة أسبوعيا حسب الأسواق والنطاقات النشطة",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "ألمانيا",
+          "فرنسا",
+          "إسبانيا",
+          "إيطاليا",
+          "بولندا",
+          "تركيا"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "5 سنوات أو أكثر من العمل التسويقي مع عمق تشغيلي حقيقي في سوق دولة واحدة على الأقل.",
+        "education_requirements": "لا توجد متطلبات"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "uae"
+        ],
+        "languages": [
+          "arabic",
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "وظائف PPC Specialist",
@@ -317,12 +535,12 @@
     "scopes": {
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
+      "seo-research": "أبحاث السيو",
+      "content-strategy": "استراتيجية المحتوى",
+      "telegram-ads": "إعلانات تليجرام",
       "ppc-audit": "تدقيق PPC",
       "google-ads-search": "إعلانات جوجل للبحث",
-      "telegram-ads": "إعلانات تليجرام",
-      "technical-seo": "السيو التقني",
-      "seo-research": "أبحاث السيو",
-      "content-strategy": "استراتيجية المحتوى"
+      "technical-seo": "السيو التقني"
     },
     "solutions": {
       "digital-marketing-consulting": "استشارات التسويق الرقمي",
@@ -330,8 +548,9 @@
     },
     "services": {
       "aso": "تحسين متجر التطبيقات ASO",
+      "seo": "سيو SEO",
       "ppc": "PPC",
-      "seo": "سيو SEO"
+      "content": "التسويق بالمحتوى"
     },
     "industries": {
       "saas": "SaaS",

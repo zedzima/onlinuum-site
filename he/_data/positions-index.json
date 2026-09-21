@@ -99,6 +99,216 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "דרושים מנהל פיתוח עסקי",
+      "description": "דרושים פיתוח עסקי לעבודה מרחוק: פתחו שוק אחד שאתם מכירים וקבלו 10% מכל מה שהלקוחות שהבאתם משלמים ב-12 החודשים הראשונים.",
+      "menu": "מנהל פיתוח עסקי",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "אנחנו פותחים שווקים וצריך שם מאחורי כל אחד מהם",
+        "badge_active": "מגייסים עכשיו, מנהל אחד לכל שוק",
+        "apply_label": "הגישו מועמדות",
+        "label_service": "השירותים שאתם פותחים",
+        "label_countries": "השווקים שנרצה לכסות ראשונים",
+        "label_languages": "שפות עבודה",
+        "label_industries": "תעשיות עדיפות",
+        "label_experience": "ותק",
+        "label_engagement": "מתכונת עבודה",
+        "label_commitment": "היקף משרה",
+        "engagement_type": "לפי פרויקט / משרה חלקית",
+        "working_hours": "10-20 שעות בשבוע, בקצב שאתם קובעים סביב השוק שאתם פותחים",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "גרמניה",
+          "ארצות הברית",
+          "בריטניה",
+          "צרפת",
+          "ספרד"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "5 שנים ומעלה בפיתוח עסקי, בשותפויות או במכירות בתוך שוק אחד שאתם מכירים מבפנים.",
+        "education_requirements": "ללא דרישות"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "יועץ שיווק לשוק מקומי אחד",
+      "description": "משרות שיווק מרחוק ב-Onlinuum: יועץ שיווק שמנהל שוק אחד בתוך רשת של 44 מדינות ומקבל 40% מההכנסות. הגישו מועמדות היום.",
+      "menu": "יועץ שיווק",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "אנחנו מוסיפים יועצי שוק לרשת באופן פעיל",
+        "badge_active": "מגייסים עכשיו לשווקים שאינם מכוסים",
+        "apply_label": "הגישו מועמדות",
+        "label_service": "שירות ליבה",
+        "label_countries": "שווקי עדיפות",
+        "label_languages": "שפות עבודה",
+        "label_industries": "תעשיות עדיפות",
+        "label_experience": "ותק",
+        "label_engagement": "מתכונת עבודה",
+        "label_commitment": "היקף משרה",
+        "engagement_type": "לפי פרויקט / משרה חלקית",
+        "working_hours": "5-20 שעות בשבוע, תלוי בשווקים ובהיקפים הפעילים",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "גרמניה",
+          "צרפת",
+          "ספרד",
+          "איטליה",
+          "פולין",
+          "טורקיה"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "5 שנים ומעלה של עבודת שיווק עם עומק תפעולי אמיתי בשוק מדינה אחד לפחות.",
+        "education_requirements": "ללא דרישות"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "דרושים מנהלי קמפיינים PPC",
@@ -314,12 +524,12 @@
     "scopes": {
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
+      "seo-research": "מחקר SEO",
+      "content-strategy": "אסטרטגיית תוכן",
+      "telegram-ads": "פרסום בטלגרם",
       "ppc-audit": "אודיט PPC",
       "google-ads-search": "קמפיין חיפוש בגוגל",
-      "telegram-ads": "פרסום בטלגרם",
-      "technical-seo": "קידום אתרים טכני",
-      "seo-research": "מחקר SEO",
-      "content-strategy": "אסטרטגיית תוכן"
+      "technical-seo": "קידום אתרים טכני"
     },
     "solutions": {
       "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
@@ -327,8 +537,9 @@
     },
     "services": {
       "aso": "ASO",
+      "seo": "קידום אתרים",
       "ppc": "PPC",
-      "seo": "קידום אתרים"
+      "content": "שיווק תוכן"
     },
     "industries": {
       "saas": "SaaS",

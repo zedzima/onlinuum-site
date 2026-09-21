@@ -99,6 +99,216 @@
       ]
     },
     {
+      "slug": "business-development-manager",
+      "url": "/positions/business-development-manager",
+      "title": "사업개발 채용",
+      "description": "Onlinuum 원격 사업개발 채용. 잘 아는 시장 하나를 직접 열고, 데려오신 고객사가 첫 12개월 동안 결제한 금액의 10%를 받으십시오.",
+      "menu": "사업개발 매니저",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "시장을 열고 있으며, 각 시장마다 이름이 필요합니다",
+        "badge_active": "시장별 1명, 적극 채용 중",
+        "apply_label": "지원 / 자기소개 보내기",
+        "label_service": "개척할 서비스",
+        "label_countries": "먼저 확보할 시장",
+        "label_languages": "업무 언어",
+        "label_industries": "우선 산업",
+        "label_experience": "경력 수준",
+        "label_engagement": "협업 형태",
+        "label_commitment": "투입 시간",
+        "engagement_type": "프로젝트 단위 / 파트타임",
+        "working_hours": "주 10~20시간, 개척하시는 시장에 맞춰 본인이 속도를 정합니다",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "독일",
+          "미국",
+          "영국",
+          "프랑스",
+          "스페인"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-business-development-manager",
+        "experience_requirements": "내부까지 아는 하나의 시장에서 쌓은 사업개발, 제휴 또는 영업 경력 5년 이상.",
+        "education_requirements": "학력 요건 없음"
+      },
+      "facets": {
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social",
+        "web-development"
+      ],
+      "scopes": [],
+      "countries": [
+        "germany",
+        "usa",
+        "uk",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "uae"
+      ],
+      "languages": [
+        "english",
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "arabic"
+      ]
+    },
+    {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "한 시장을 맡는 마케팅 프리랜서",
+      "description": "Onlinuum의 원격 마케팅 프리랜서 포지션. 44개국 네트워크 안에서 시장 하나를 맡고 수익 40%를 배분받습니다. 지금 지원하십시오.",
+      "menu": "마케팅 컨설턴트",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "시장 컨설턴트를 네트워크에 적극적으로 영입하고 있습니다",
+        "badge_active": "담당자가 없는 시장 채용 진행 중",
+        "apply_label": "지원 / 자기소개 보내기",
+        "label_service": "핵심 서비스",
+        "label_countries": "우선 시장",
+        "label_languages": "업무 언어",
+        "label_industries": "우선 산업",
+        "label_experience": "경력 수준",
+        "label_engagement": "협업 형태",
+        "label_commitment": "투입 시간",
+        "engagement_type": "프로젝트 단위 / 파트타임",
+        "working_hours": "담당 시장과 활성 모듈에 따라 주 5~20시간",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "독일",
+          "프랑스",
+          "스페인",
+          "이탈리아",
+          "폴란드",
+          "튀르키예"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "최소 한 개 국가 시장에서 실제 운영 깊이를 갖춘 5년 이상의 마케팅 실무 경력.",
+        "education_requirements": "학력 요건 없음"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "퍼포먼스 마케터 채용",
@@ -314,12 +524,12 @@
     "scopes": {
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
+      "seo-research": "SEO 키워드 분석",
+      "content-strategy": "콘텐츠 기획",
+      "telegram-ads": "텔레그램 광고",
       "ppc-audit": "광고 성과 분석",
       "google-ads-search": "구글 검색광고",
-      "telegram-ads": "텔레그램 광고",
-      "technical-seo": "테크니컬 SEO",
-      "seo-research": "SEO 키워드 분석",
-      "content-strategy": "콘텐츠 기획"
+      "technical-seo": "테크니컬 SEO"
     },
     "solutions": {
       "digital-marketing-consulting": "디지털 마케팅 컨설팅",
@@ -327,8 +537,9 @@
     },
     "services": {
       "aso": "ASO 최적화",
+      "seo": "SEO 대행",
       "ppc": "검색광고",
-      "seo": "SEO 대행"
+      "content": "콘텐츠 마케팅"
     },
     "industries": {
       "saas": "SaaS",
