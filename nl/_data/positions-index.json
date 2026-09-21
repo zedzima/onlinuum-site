@@ -194,6 +194,129 @@
       ]
     },
     {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "Marketing consultant voor een lokale markt",
+      "description": "Marketing consultant vacature bij Onlinuum: remote, op projectbasis, een markt die je echt kent, en 40% omzetdeling. Reageer vandaag nog.",
+      "menu": "Marketing consultant",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "We nemen actief marktconsultants op in het netwerk",
+        "badge_active": "Actief aan het werven voor markten zonder dekking",
+        "apply_label": "Solliciteer / stel jezelf voor",
+        "label_service": "Kerndienst",
+        "label_countries": "Prioriteitsmarkten",
+        "label_languages": "Werktalen",
+        "label_industries": "Prioriteitsbranches",
+        "label_experience": "Senioriteit",
+        "label_engagement": "Soort opdracht",
+        "label_commitment": "Beschikbaarheid",
+        "engagement_type": "Op projectbasis / in deeltijd",
+        "working_hours": "5 tot 20 uur per week, afhankelijk van je actieve markten en pakketten",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Duitsland",
+          "Frankrijk",
+          "Spanje",
+          "Italië",
+          "Polen",
+          "Turkije"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "Minimaal 5 jaar marketingwerk met echte operationele diepgang in minstens één landenmarkt.",
+        "education_requirements": "geen vereisten"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "netherlands"
+        ],
+        "languages": [
+          "dutch",
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "SEA-specialist",
@@ -409,12 +532,12 @@
     "scopes": {
       "aso-optimization": "ASO-optimalisatie",
       "aso-localization": "App vertalen",
+      "seo-research": "Zoekwoordenonderzoek",
+      "content-strategy": "Contentstrategie",
+      "telegram-ads": "Telegram Ads-beheer",
       "ppc-audit": "SEA-audit",
       "google-ads-search": "Google Ads-zoekcampagnes",
-      "telegram-ads": "Telegram Ads-beheer",
-      "technical-seo": "Technische SEO",
-      "seo-research": "Zoekwoordenonderzoek",
-      "content-strategy": "Contentstrategie"
+      "technical-seo": "Technische SEO"
     },
     "solutions": {
       "digital-marketing-consulting": "Online marketing advies",

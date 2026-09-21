@@ -58,6 +58,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -108,7 +109,8 @@
           "why-seo-matters-in-2026"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "marketing-consultant"
         ]
       }
     }
@@ -161,6 +163,7 @@
       "seo-expert": "Specjalista SEO",
       "aso-specialist": "Specjalista ASO",
       "business-development-manager": "Business development manager",
+      "marketing-consultant": "Doradca marketingowy",
       "ppc-specialist": "Specjalista Google Ads"
     }
   }

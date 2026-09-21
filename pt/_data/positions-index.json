@@ -194,6 +194,126 @@
       ]
     },
     {
+      "slug": "marketing-consultant",
+      "url": "/positions/marketing-consultant",
+      "title": "Consultor de marketing para um mercado local",
+      "description": "Emprego de consultor de marketing remoto na Onlinuum: assuma um mercado dentro de uma rede de 44 países e fique com 40 % da receita.",
+      "menu": "Consultor de Marketing",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "senior",
+        "heading_active": "Estamos a acrescentar ativamente consultores de mercado à rede",
+        "badge_active": "A recrutar ativamente para mercados por cobrir",
+        "apply_label": "Candidatar-me / Apresentar-me",
+        "label_service": "Serviço principal",
+        "label_countries": "Mercados prioritários",
+        "label_languages": "Idiomas de trabalho",
+        "label_industries": "Setores prioritários",
+        "label_experience": "Senioridade",
+        "label_engagement": "Formato de colaboração",
+        "label_commitment": "Regime de trabalho",
+        "engagement_type": "Por projeto / tempo parcial",
+        "working_hours": "5 a 20 horas por semana, consoante os mercados e os pacotes ativos",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Alemanha",
+          "França",
+          "Espanha",
+          "Itália",
+          "Polónia",
+          "Turquia"
+        ],
+        "date_posted": "2026-09-17",
+        "direct_apply": true,
+        "identifier": "onlinuum-marketing-consultant",
+        "experience_requirements": "5 ou mais anos de trabalho em marketing, com profundidade operacional real em pelo menos um mercado nacional.",
+        "education_requirements": "sem requisitos"
+      },
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "aso-localization",
+          "telegram-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "aso",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "portuguese",
+          "english"
+        ]
+      },
+      "services": [
+        "seo",
+        "ppc",
+        "aso",
+        "content",
+        "paid-social"
+      ],
+      "scopes": [
+        "cross-market-setup",
+        "seo-research",
+        "local-seo",
+        "content-strategy",
+        "content-localization",
+        "transcreation",
+        "aso-localization",
+        "telegram-ads"
+      ],
+      "countries": [
+        "germany",
+        "france",
+        "spain",
+        "italy",
+        "netherlands",
+        "poland",
+        "sweden",
+        "turkey",
+        "brazil",
+        "mexico",
+        "japan",
+        "uae"
+      ],
+      "languages": [
+        "german",
+        "french",
+        "spanish",
+        "italian",
+        "dutch",
+        "polish",
+        "swedish",
+        "turkish",
+        "portuguese",
+        "japanese",
+        "arabic",
+        "english"
+      ]
+    },
+    {
       "slug": "ppc-specialist",
       "url": "/positions/ppc-specialist",
       "title": "Gestor de tráfego",
@@ -409,12 +529,12 @@
     "scopes": {
       "aso-optimization": "ASO para lojas de apps",
       "aso-localization": "Localização de software",
+      "seo-research": "Pesquisa SEO",
+      "content-strategy": "Estratégia de conteúdos",
+      "telegram-ads": "Telegram Ads",
       "ppc-audit": "Auditoria Google Ads",
       "google-ads-search": "Google Ads de pesquisa",
-      "telegram-ads": "Telegram Ads",
-      "technical-seo": "SEO técnico",
-      "seo-research": "Pesquisa SEO",
-      "content-strategy": "Estratégia de conteúdos"
+      "technical-seo": "SEO técnico"
     },
     "solutions": {
       "digital-marketing-consulting": "Consultoria de marketing digital",

@@ -67,6 +67,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -132,6 +133,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -202,6 +204,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -262,6 +265,7 @@
       "seo-expert": "Especialista de SEO",
       "aso-specialist": "ASO specialist",
       "business-development-manager": "Business Developer",
+      "marketing-consultant": "Consultor de Marketing",
       "ppc-specialist": "Gestor de tráfego"
     }
   }

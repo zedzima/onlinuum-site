@@ -55,7 +55,8 @@
         ],
         "positions": [
           "seo-expert",
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -131,6 +132,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -181,6 +183,7 @@
     "positions": {
       "seo-expert": "SEO-specialist",
       "business-development-manager": "Business development manager",
+      "marketing-consultant": "Marketing consultant",
       "aso-specialist": "ASO-specialist",
       "ppc-specialist": "SEA-specialist"
     },

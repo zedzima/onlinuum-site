@@ -48,7 +48,8 @@
         ],
         "positions": [
           "aso-specialist",
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -101,7 +102,8 @@
           "polish"
         ],
         "positions": [
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -155,7 +157,8 @@
         ],
         "positions": [
           "ppc-specialist",
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -216,7 +219,8 @@
         ],
         "positions": [
           "seo-expert",
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -300,6 +304,7 @@
     "positions": {
       "aso-specialist": "Specjalista ASO",
       "business-development-manager": "Business development manager",
+      "marketing-consultant": "Doradca marketingowy",
       "ppc-specialist": "Specjalista Google Ads",
       "seo-expert": "Specjalista SEO"
     },

@@ -129,6 +129,7 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -182,6 +183,7 @@
     "positions": {
       "seo-expert": "Specjalista SEO",
       "aso-specialist": "Specjalista ASO",
+      "marketing-consultant": "Doradca marketingowy",
       "ppc-specialist": "Specjalista Google Ads"
     },
     "blog-posts": {

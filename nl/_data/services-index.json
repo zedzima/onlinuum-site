@@ -48,7 +48,8 @@
         ],
         "positions": [
           "aso-specialist",
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -101,7 +102,8 @@
           "dutch"
         ],
         "positions": [
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -156,7 +158,8 @@
         ],
         "positions": [
           "ppc-specialist",
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -217,7 +220,8 @@
         ],
         "positions": [
           "seo-expert",
-          "business-development-manager"
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -303,6 +307,7 @@
     "positions": {
       "aso-specialist": "ASO-specialist",
       "business-development-manager": "Business development manager",
+      "marketing-consultant": "Marketing consultant",
       "ppc-specialist": "SEA-specialist",
       "seo-expert": "SEO-specialist"
     },

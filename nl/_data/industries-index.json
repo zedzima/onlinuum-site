@@ -67,6 +67,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -132,6 +133,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -202,6 +204,7 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
+          "marketing-consultant",
           "ppc-specialist"
         ]
       }
@@ -262,6 +265,7 @@
       "seo-expert": "SEO-specialist",
       "aso-specialist": "ASO-specialist",
       "business-development-manager": "Business development manager",
+      "marketing-consultant": "Marketing consultant",
       "ppc-specialist": "SEA-specialist"
     }
   }
