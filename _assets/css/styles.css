@@ -1034,7 +1034,7 @@ svg.illustration [stroke="#6E7872" i] { stroke: var(--ill-line); }
         display: block;
         font-size: 0.6875rem;
         line-height: 1.05;
-        text-align: left;
+        text-align: start;
         white-space: normal;
         max-width: 82px;
         overflow: hidden;
@@ -1225,11 +1225,12 @@ body.sidebar-nav-split .sidebar-nav[data-panel="selectors"] .icon-bar-btn {
     width: 100%;
     max-width: 84px;
     height: auto;
-    padding: var(--space-sm) 0;
+    padding: var(--space-sm) var(--space-xs);
 }
 
 body.sidebar-nav-split .sidebar-nav[data-panel="selectors"] .icon-bar-btn-label {
     display: block;
+    line-height: 1.3;
 }
 
 @media (min-width: 801px) and (max-width: 1599px) {
@@ -1302,7 +1303,7 @@ body.sidebar-nav-split .sidebar-nav[data-panel="selectors"] .icon-bar-btn-label 
         display: block;
         font-size: 0.56rem;
         line-height: 1.05;
-        text-align: left;
+        text-align: start;
         white-space: normal;
         max-width: 78px;
         overflow: hidden;
@@ -6637,12 +6638,10 @@ a.cards-link:hover {
         align-items: center;
     }
 
-    .feature-reversed {
-        direction: rtl;
-    }
-
-    .feature-reversed > * {
-        direction: ltr;
+    /* Reversed rows put the visual first. Grid order follows the writing direction,
+       so RTL pages mirror the zigzag without touching the text direction. */
+    .feature-reversed > .feature-visual {
+        order: -1;
     }
 
     .feature-icon {
@@ -6798,7 +6797,6 @@ a.cards-link:hover {
         .feature-item,
         .feature-reversed {
             grid-template-columns: 1fr;
-            direction: ltr;
             gap: var(--space-xs);
         }
 
@@ -10073,8 +10071,6 @@ a.cards-link:hover {
 [dir="rtl"] .pillar-items,
 [dir="rtl"] .pricing-simple-meta,
 [dir="rtl"] .process-sidebar .process-btn,
-[dir="rtl"] .icon-bar-label,
-[dir="rtl"] .icon-bar-btn-label,
 [dir="rtl"] .hero-split .hero-content,
 [dir="rtl"] .dimension-card-highlight,
 [dir="rtl"] .dimension-card-highlight .result-label,

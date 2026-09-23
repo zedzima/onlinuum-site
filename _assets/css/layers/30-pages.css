@@ -2958,12 +2958,10 @@ a.cards-link:hover {
         align-items: center;
     }
 
-    .feature-reversed {
-        direction: rtl;
-    }
-
-    .feature-reversed > * {
-        direction: ltr;
+    /* Reversed rows put the visual first. Grid order follows the writing direction,
+       so RTL pages mirror the zigzag without touching the text direction. */
+    .feature-reversed > .feature-visual {
+        order: -1;
     }
 
     .feature-icon {
@@ -3119,7 +3117,6 @@ a.cards-link:hover {
         .feature-item,
         .feature-reversed {
             grid-template-columns: 1fr;
-            direction: ltr;
             gap: var(--space-xs);
         }
 
