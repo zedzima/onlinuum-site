@@ -389,15 +389,9 @@
     font-weight: 700;
     line-height: 0.9;
     letter-spacing: -0.04em;
-    background-image: var(--accent-gradient);
-    background-size: 100% 100%;
-    background-position: 0 0;
-    background-repeat: no-repeat;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
     opacity: 1;
     filter: none;
+    color: var(--accent);
 }
 
 .sections-item-icon svg {
@@ -737,8 +731,8 @@
     font-size: var(--font-size-ui);
     font-weight: 600;
     color: var(--text-primary);
-    background: color-mix(in srgb, var(--accent-end) 14%, white);
-    border: 1px solid color-mix(in srgb, var(--accent-end) 22%, var(--border));
+    background: var(--accent-subtle-bg);
+    border: 1px solid var(--accent-subtle-border);
 }
 
 .case-metric-bars {
@@ -871,11 +865,8 @@
     font-size: 0.8rem;
     font-weight: 700;
     letter-spacing: 0.05em;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
     border-color: var(--accent);
+    color: var(--accent);
 }
 
 .cards-value-item {
@@ -891,10 +882,7 @@
     font-weight: 700;
     line-height: 0.92;
     letter-spacing: -0.04em;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--accent);
 }
 
 .cards-item p {
@@ -1358,11 +1346,8 @@ a.cards-link:hover {
 .cart-total-amount {
     font-size: 1.5rem;
     font-weight: 700;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
     text-align: right;
+    color: var(--accent);
 }
 .cart-total-panel .cart-total-label {
     font-size: var(--font-size-caption);
@@ -1896,7 +1881,7 @@ a.cards-link:hover {
     transform: none;
 }
 .case-image-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: var(--accent-tint-gradient); }
-.case-image-placeholder span { font-size: 4rem; font-weight: 700; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; opacity: 0.5; }
+.case-image-placeholder span { font-size: 4rem; font-weight: 700; color: var(--accent); opacity: 0.5; }
 .case-content { display: flex; flex-direction: column; gap: var(--space-sm); padding: var(--space-md) var(--space-lg) var(--space-lg); }
 .case-content .entity-card-title,
 .case-content .entity-card-copy { margin: 0 0 calc(var(--type-body-gap) - var(--space-sm)); }
@@ -1912,15 +1897,12 @@ a.cards-link:hover {
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.2;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
     text-transform: none;
+    color: var(--accent);
 }
 .case-card-footer { margin-top: auto; align-items: flex-end; }
 .case-result { display: flex; flex-direction: column; }
-.result-value { font-size: var(--font-size-h3); font-weight: 700; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1.2; }
+.result-value { font-size: var(--font-size-h3); font-weight: 700; color: var(--accent); line-height: 1.2; }
 .result-label { font-size: var(--font-size-caption); color: var(--text-muted); margin-top: 2px; }
 /* === Service Card === */
 .service-card-header,
@@ -1953,8 +1935,7 @@ a.cards-link:hover {
 .dimension-card-badge { font-size: 1.4rem; }
 .dimension-card-badge.code {
     font-size: 0.75rem; font-weight: 700; letter-spacing: 0.05em;
-    background: var(--accent-gradient); -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; background-clip: text;
+    color: var(--accent);
 }
 .dimension-card-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: var(--space-md); }
 .dimension-card-footer-highlight { align-items: flex-end; }
@@ -2020,10 +2001,7 @@ a.cards-link:hover {
     font-size: var(--font-size-h3);
     font-weight: 700;
     line-height: 1.1;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--accent);
 }
 
 .market-stat-label {
@@ -2107,7 +2085,7 @@ a.cards-link:hover {
     padding: 0 10px;
     border-radius: var(--radius-md);
     border: 1px solid var(--border);
-    background: var(--bg-surface);
+    background: var(--bg-card);
     font-size: 1rem;
     font-weight: 700;
 }
@@ -2730,14 +2708,11 @@ a.cards-link:hover {
     }
 
     .cta-default h2 {
-        background: var(--accent-gradient);
-        -webkit-background-clip: text;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: var(--accent);
     }
 
     .cta-gradient {
-        background: var(--accent-gradient);
+        background: var(--brand-gradient);
         color: var(--text-inverse);
     }
 
@@ -2782,7 +2757,7 @@ a.cards-link:hover {
     .cta-gradient .btn-primary,
     .hero-gradient .btn-primary {
         background: var(--surface-inverse);
-        color: var(--brand-purple);
+        color: var(--brand-primary);
     }
 
     .cta-gradient .btn-primary {
@@ -2792,7 +2767,7 @@ a.cards-link:hover {
     .cta-gradient .btn-primary:hover,
     .hero-gradient .btn-primary:hover {
         background: var(--surface-inverse-soft);
-        color: var(--brand-purple);
+        color: var(--brand-primary);
         border-color: var(--surface-inverse-soft);
     }
 
@@ -3114,11 +3089,8 @@ a.cards-link:hover {
     .feature-visual-icon {
         font-size: 4rem;
         font-weight: 700;
-        background: var(--accent-gradient);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
         opacity: 0.8;
+        color: var(--accent);
     }
 
     .features-footer {
@@ -3259,7 +3231,7 @@ a.cards-link:hover {
         justify-content: center;
         padding: clamp(1rem, 3vw, 2rem);
         background:
-            linear-gradient(145deg, var(--bg-card), var(--bg-secondary));
+            linear-gradient(145deg, var(--bg-card), var(--bg-tertiary));
         border: 1px solid var(--border);
         border-radius: var(--radius-md);
         box-shadow: var(--shadow-lg);
@@ -3324,7 +3296,7 @@ a.cards-link:hover {
     /* Style 2: Gradient background */
     .hero-gradient {
         text-align: center;
-        background: var(--accent-gradient);
+        background: var(--brand-gradient);
         color: var(--text-inverse);
         padding: var(--space-3xl);
         border-radius: var(--radius-xl);
@@ -3355,7 +3327,7 @@ a.cards-link:hover {
     /* On clean hero and default CTA: bright purple icons */
     .hero-clean .hero-scatter-icon,
     .cta-default .hero-scatter-icon {
-        color: var(--brand-purple);
+        color: var(--brand-primary);
         opacity: 0.7;
     }
 
@@ -3431,10 +3403,7 @@ a.cards-link:hover {
     }
 
     .hero-gradient .text-gradient {
-        background: var(--surface-inverse);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
+        color: var(--surface-inverse);
     }
 
     .hero-gradient .hero-subtitle,
@@ -3462,10 +3431,7 @@ a.cards-link:hover {
     }
 
     .hero-gradient .hero-stat-value {
-        background: var(--surface-inverse);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
+        color: var(--surface-inverse);
     }
 
     .hero-gradient .hero-stat-label {
@@ -3548,11 +3514,8 @@ a.cards-link:hover {
     .hero-visual-icon {
         font-size: 6rem;
         font-weight: 700;
-        background: var(--accent-gradient);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
         opacity: 0.6;
+        color: var(--accent);
     }
 
     /* Expert photo in hero */
@@ -3784,8 +3747,15 @@ a.cards-link:hover {
     100% { transform: translateX(-50%); }
 }
 
-.logos-marquee:hover .logos-track {
+.logos-marquee:hover .logos-track,
+.logos-marquee:focus-within .logos-track {
     animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .logos-marquee .logos-track {
+        animation: none;
+    }
 }
 
 /* Responsive */
@@ -4048,14 +4018,8 @@ a.cards-link:hover {
     line-height: 1;
     letter-spacing: -0.04em;
     text-align: center;
-    background-image: var(--accent-gradient);
-    background-size: 100% 100%;
-    background-position: 0 0;
-    background-repeat: no-repeat;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
     opacity: 1;
+    color: var(--accent);
 }
 
 .pillar-card h3 {
@@ -6004,10 +5968,7 @@ a.cards-link:hover {
 .trust-value {
     font-size: var(--font-size-display);
     font-weight: 700;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--accent);
 }
 
 .trust-label {
@@ -6394,3 +6355,17 @@ a.cards-link:hover {
 .sitemap-section ul a:hover {
     color: var(--accent);
 }
+
+/* Big figures never break across lines (compact values use Latin K/M/B in every language) */
+.hero-stat-value,
+.market-stat-value,
+.market-stats-row-value,
+.case-metric-value,
+.case-metrics-summary-value,
+.metric-value,
+.result-value,
+.trust-value,
+.cards-value {
+    white-space: nowrap;
+}
+

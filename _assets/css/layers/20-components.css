@@ -15,7 +15,7 @@
 }
 
 .card-gradient {
-    background: var(--accent-gradient);
+    background: var(--brand-gradient);
     border-color: transparent;
 }
 

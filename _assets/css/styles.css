@@ -270,57 +270,67 @@
     }
 }
 
-/* Brand Colors (from logo) */
+/* Brand colours: deep forest green, used flat. The violet-to-magenta gradient
+   identity was retired in 2026-09 because it read as AI-generated. Brand and
+   accent tokens live per theme because the accent is light on dark. */
 :root {
-    --brand-purple: #5A24F2;
-    --brand-gradient: linear-gradient(135deg, #5A24F2 0%, #A530E8 100%);
     --color-star: #f59e0b;
 }
 
-/* Light Theme - Cool gray with purple accent */
+/* Light theme - warm paper with forest green ink */
 [data-theme="light"] {
-    --bg-main: #ffffff;
-    --bg-tertiary: #ebebed;
+    --bg-main: #F5F3EC;
+    --bg-tertiary: #DEDACD;
     /* Two neutral surface tones */
-    --bg-card: #f5f5f7;
-    /* Borders - subtle cool gray */
-    --border: rgba(0, 0, 0, 0.08);
-    --border-light: rgba(0, 0, 0, 0.05);
-    --border-strong: rgba(0, 0, 0, 0.12);
-    /* Text - cool gray tones */
-    --text-primary: #1a1a1d;
-    --text-secondary: #4a4a50;
-    --text-muted: #7a7a82;
-    --text-inverse: #ffffff;
+    --bg-card: #ECE9DF;
+    /* Borders - forest ink at low alpha */
+    --border: rgba(20, 32, 26, 0.10);
+    --border-light: rgba(20, 32, 26, 0.06);
+    --border-strong: rgba(20, 32, 26, 0.16);
+    /* Text */
+    --text-primary: #14201A;
+    --text-secondary: #404B45;
+    --text-muted: #5F6862;
+    /* Text, surfaces and borders placed on the brand colour */
+    --text-inverse: #FFFFFF;
     --text-inverse-soft: rgba(255, 255, 255, 0.9);
     --text-inverse-subtle: rgba(255, 255, 255, 0.85);
     --text-inverse-muted: rgba(255, 255, 255, 0.8);
     --text-inverse-faint: rgba(255, 255, 255, 0.7);
     --text-inverse-dim: rgba(255, 255, 255, 0.6);
-    --surface-inverse: #ffffff;
+    --surface-inverse: #FFFFFF;
     --surface-inverse-soft: rgba(255, 255, 255, 0.9);
     --surface-inverse-tint: rgba(255, 255, 255, 0.2);
     --surface-inverse-ghost: rgba(255, 255, 255, 0.1);
     --border-inverse: rgba(255, 255, 255, 0.3);
     --border-inverse-soft: rgba(255, 255, 255, 0.2);
     --border-inverse-strong: rgba(255, 255, 255, 0.5);
-    /* Accent - brand purple */
-    --accent: #5A24F2;
-    --accent-secondary: #A530E8;
-    --accent-hover: #4a1ed9;
-    --accent-gradient: linear-gradient(135deg, #5A24F2 0%, #A530E8 100%);
-    --accent-subtle-bg: rgba(99, 102, 241, 0.15);
-    --accent-subtle-border: rgba(99, 102, 241, 0.3);
-    --accent-soft-bg: rgba(99, 102, 241, 0.12);
-    --accent-soft-border: rgba(99, 102, 241, 0.32);
-    --accent-chip-bg: rgba(99, 102, 241, 0.12);
-    --accent-chip-border: rgba(99, 102, 241, 0.28);
-    --accent-tint-gradient-soft: linear-gradient(135deg, rgba(124, 58, 237, 0.06) 0%, rgba(192, 38, 211, 0.06) 100%);
-    --accent-tint-gradient: linear-gradient(135deg, rgba(124, 58, 237, 0.1) 0%, rgba(192, 38, 211, 0.1) 100%);
-    --accent-tint-gradient-medium: linear-gradient(135deg, rgba(124, 58, 237, 0.12) 0%, rgba(192, 38, 211, 0.12) 100%);
-    --accent-tint-border: rgba(124, 58, 237, 0.3);
-    --accent-panel-gradient: linear-gradient(135deg, rgba(168, 85, 247, 0.15) 0%, rgba(99, 102, 241, 0.1) 100%);
-    --accent-panel-border: rgba(168, 85, 247, 0.3);
+    /* Accent - forest green, flat (no gradients) */
+    --brand-primary: #1D5C43;
+    --brand-gradient: linear-gradient(135deg, #1D5C43 0%, #1D5C43 100%);
+    --accent: #1D5C43;
+    --accent-secondary: #1D5C43;
+    --accent-hover: #154833;
+    --accent-gradient: linear-gradient(135deg, #1D5C43 0%, #1D5C43 100%);
+    --accent-start: #1D5C43;
+    --accent-end: #1D5C43;
+    --accent-subtle-bg: rgba(29, 92, 67, 0.12);
+    --accent-subtle-border: rgba(29, 92, 67, 0.28);
+    --accent-soft-bg: rgba(29, 92, 67, 0.1);
+    --accent-soft-border: rgba(29, 92, 67, 0.3);
+    --accent-chip-bg: rgba(29, 92, 67, 0.1);
+    --accent-chip-border: rgba(29, 92, 67, 0.26);
+    --accent-tint-gradient-soft: linear-gradient(135deg, rgba(29, 92, 67, 0.05) 0%, rgba(29, 92, 67, 0.05) 100%);
+    --accent-tint-gradient: linear-gradient(135deg, rgba(29, 92, 67, 0.08) 0%, rgba(29, 92, 67, 0.08) 100%);
+    --accent-tint-gradient-medium: linear-gradient(135deg, rgba(29, 92, 67, 0.1) 0%, rgba(29, 92, 67, 0.1) 100%);
+    --accent-tint-border: rgba(29, 92, 67, 0.28);
+    --accent-panel-gradient: linear-gradient(135deg, rgba(29, 92, 67, 0.1) 0%, rgba(29, 92, 67, 0.1) 100%);
+    --accent-panel-border: rgba(29, 92, 67, 0.28);
+    /* Illustration inks: fills a/b/c and one mid-tone line that reads on both themes */
+    --ill-a: #1D5C43;
+    --ill-b: #C39033;
+    --ill-c: #AFCDBB;
+    --ill-line: #6E7872;
     --success: #16a34a;
     --success-badge-bg: #dcfce7;
     --success-badge-border: #86efac;
@@ -332,64 +342,75 @@
     --warning-surface: rgba(234, 179, 8, 0.04);
     --warning-surface-border: rgba(234, 179, 8, 0.2);
     --danger: #ef4444;
-    /* Shadows - cooler, subtle */
-    --shadow-sm: 0 1px 6px rgba(90, 36, 242, 0.06);
-    --shadow: 0 2px 12px rgba(90, 36, 242, 0.04);
-    --shadow-md: 0 4px 16px rgba(90, 36, 242, 0.08);
-    --shadow-lg: 0 8px 32px rgba(90, 36, 242, 0.08);
+    /* Shadows - neutral forest ink */
+    --shadow-sm: 0 1px 6px rgba(20, 32, 26, 0.06);
+    --shadow: 0 2px 12px rgba(20, 32, 26, 0.05);
+    --shadow-md: 0 4px 16px rgba(20, 32, 26, 0.08);
+    --shadow-lg: 0 8px 32px rgba(20, 32, 26, 0.08);
     --shadow-popover-down: 0 8px 32px rgba(0, 0, 0, 0.4);
     --shadow-popover-up: 0 -8px 32px rgba(0, 0, 0, 0.4);
-    --shadow-glass: 0 0 0 0.5px rgba(0, 0, 0, 0.06), 0 2px 16px rgba(90, 36, 242, 0.05);
-    --bg-elevated: rgba(0, 0, 0, 0.05);
+    --shadow-glass: 0 0 0 0.5px rgba(20, 32, 26, 0.06), 0 2px 16px rgba(20, 32, 26, 0.05);
+    --bg-elevated: rgba(20, 32, 26, 0.05);
     --overlay: rgba(0, 0, 0, 0.5);
-    --focus-ring: 0 0 0 3px rgba(99, 102, 241, 0.1);
-    --border-hover: rgba(90, 36, 242, 0.25);
+    --focus-ring: 0 0 0 3px rgba(29, 92, 67, 0.28);
+    --border-hover: rgba(29, 92, 67, 0.35);
 }
 
-/* Dark Theme - iOS 26 Style */
+/* Dark theme - forest night; the accent turns light, so text on it turns dark */
 [data-theme="dark"] {
-    --bg-main: #0d0d0f;
-    --bg-tertiary: #24242c;
+    --bg-main: #0E1411;
+    --bg-tertiary: #1F2A24;
     /* Two neutral surface tones */
-    --bg-card: #18181c;
-    /* iOS 26 style borders */
-    --border: rgba(255, 255, 255, 0.08);
-    --border-light: rgba(255, 255, 255, 0.05);
-    --border-strong: rgba(255, 255, 255, 0.12);
+    --bg-card: #151D19;
+    /* Borders */
+    --border: rgba(229, 236, 231, 0.09);
+    --border-light: rgba(229, 236, 231, 0.06);
+    --border-strong: rgba(229, 236, 231, 0.14);
     /* Text */
-    --text-primary: #e4e4e8;
-    --text-secondary: #a1a1a6;
-    --text-muted: #6e6e73;
-    --text-inverse: #ffffff;
-    --text-inverse-soft: rgba(255, 255, 255, 0.9);
-    --text-inverse-subtle: rgba(255, 255, 255, 0.85);
-    --text-inverse-muted: rgba(255, 255, 255, 0.8);
-    --text-inverse-faint: rgba(255, 255, 255, 0.7);
-    --text-inverse-dim: rgba(255, 255, 255, 0.6);
-    --surface-inverse: #ffffff;
-    --surface-inverse-soft: rgba(255, 255, 255, 0.9);
-    --surface-inverse-tint: rgba(255, 255, 255, 0.2);
-    --surface-inverse-ghost: rgba(255, 255, 255, 0.1);
-    --border-inverse: rgba(255, 255, 255, 0.3);
-    --border-inverse-soft: rgba(255, 255, 255, 0.2);
-    --border-inverse-strong: rgba(255, 255, 255, 0.5);
-    /* Accent - brand gradient (brighter for dark) */
-    --accent: #7c4dff;
-    --accent-secondary: #b366f9;
-    --accent-hover: #9d7aff;
-    --accent-gradient: linear-gradient(135deg, #7c4dff 0%, #b366f9 100%);
-    --accent-subtle-bg: rgba(124, 77, 255, 0.16);
-    --accent-subtle-border: rgba(124, 77, 255, 0.34);
-    --accent-soft-bg: rgba(124, 77, 255, 0.14);
-    --accent-soft-border: rgba(124, 77, 255, 0.38);
-    --accent-chip-bg: rgba(124, 77, 255, 0.16);
-    --accent-chip-border: rgba(124, 77, 255, 0.36);
-    --accent-tint-gradient-soft: linear-gradient(135deg, rgba(124, 58, 237, 0.1) 0%, rgba(192, 38, 211, 0.1) 100%);
-    --accent-tint-gradient: linear-gradient(135deg, rgba(124, 58, 237, 0.18) 0%, rgba(192, 38, 211, 0.18) 100%);
-    --accent-tint-gradient-medium: linear-gradient(135deg, rgba(124, 58, 237, 0.2) 0%, rgba(192, 38, 211, 0.2) 100%);
-    --accent-tint-border: rgba(124, 77, 255, 0.42);
-    --accent-panel-gradient: linear-gradient(135deg, rgba(168, 85, 247, 0.22) 0%, rgba(124, 77, 255, 0.16) 100%);
-    --accent-panel-border: rgba(124, 77, 255, 0.44);
+    --text-primary: #E5ECE7;
+    --text-secondary: #A5B2AA;
+    --text-muted: #7F8C84;
+    /* Text, surfaces and borders placed on the brand colour */
+    --text-inverse: #07140E;
+    --text-inverse-soft: rgba(7, 20, 14, 0.9);
+    --text-inverse-subtle: rgba(7, 20, 14, 0.85);
+    --text-inverse-muted: rgba(7, 20, 14, 0.8);
+    --text-inverse-faint: rgba(7, 20, 14, 0.7);
+    --text-inverse-dim: rgba(7, 20, 14, 0.6);
+    --surface-inverse: #07140E;
+    --surface-inverse-soft: rgba(7, 20, 14, 0.9);
+    --surface-inverse-tint: rgba(7, 20, 14, 0.2);
+    --surface-inverse-ghost: rgba(7, 20, 14, 0.1);
+    --border-inverse: rgba(7, 20, 14, 0.3);
+    --border-inverse-soft: rgba(7, 20, 14, 0.2);
+    --border-inverse-strong: rgba(7, 20, 14, 0.5);
+    /* Accent - forest green, flat (no gradients) */
+    /* Brand surfaces stay deep forest; only the interactive accent turns light */
+    --brand-primary: #1D5C43;
+    --brand-gradient: linear-gradient(135deg, #1D5C43 0%, #1D5C43 100%);
+    --accent: #66C99B;
+    --accent-secondary: #66C99B;
+    --accent-hover: #86D7B1;
+    --accent-gradient: linear-gradient(135deg, #66C99B 0%, #66C99B 100%);
+    --accent-start: #66C99B;
+    --accent-end: #66C99B;
+    --accent-subtle-bg: rgba(102, 201, 155, 0.16);
+    --accent-subtle-border: rgba(102, 201, 155, 0.34);
+    --accent-soft-bg: rgba(102, 201, 155, 0.14);
+    --accent-soft-border: rgba(102, 201, 155, 0.38);
+    --accent-chip-bg: rgba(102, 201, 155, 0.16);
+    --accent-chip-border: rgba(102, 201, 155, 0.36);
+    --accent-tint-gradient-soft: linear-gradient(135deg, rgba(102, 201, 155, 0.1) 0%, rgba(102, 201, 155, 0.1) 100%);
+    --accent-tint-gradient: linear-gradient(135deg, rgba(102, 201, 155, 0.16) 0%, rgba(102, 201, 155, 0.16) 100%);
+    --accent-tint-gradient-medium: linear-gradient(135deg, rgba(102, 201, 155, 0.2) 0%, rgba(102, 201, 155, 0.2) 100%);
+    --accent-tint-border: rgba(102, 201, 155, 0.42);
+    --accent-panel-gradient: linear-gradient(135deg, rgba(102, 201, 155, 0.18) 0%, rgba(102, 201, 155, 0.18) 100%);
+    --accent-panel-border: rgba(102, 201, 155, 0.44);
+    /* Illustration inks */
+    --ill-a: #66C99B;
+    --ill-b: #D6A548;
+    --ill-c: #3E9C74;
+    --ill-line: #6E7872;
     --success: #4ade80;
     --success-badge-bg: rgba(34, 197, 94, 0.22);
     --success-badge-border: rgba(74, 222, 128, 0.38);
@@ -411,8 +432,26 @@
     --shadow-glass: 0 0 0 0.5px rgba(255, 255, 255, 0.1), 0 2px 16px rgba(0, 0, 0, 0.3);
     --bg-elevated: rgba(255, 255, 255, 0.08);
     --overlay: rgba(0, 0, 0, 0.62);
-    --focus-ring: 0 0 0 3px rgba(124, 77, 255, 0.24);
-    --border-hover: rgba(124, 77, 255, 0.4);
+    --focus-ring: 0 0 0 3px rgba(102, 201, 155, 0.28);
+    --border-hover: rgba(102, 201, 155, 0.4);
+}
+
+/* Brand surfaces (footer, gradient hero/CTA, gradient cards) keep the deep forest
+   colour in the dark theme, so the ink placed on them flips back to light. */
+[data-theme="dark"] :is(.global-footer, .cta-gradient, .hero-gradient, .card-gradient) {
+    --text-inverse: #F1F5F2;
+    --text-inverse-soft: rgba(241, 245, 242, 0.9);
+    --text-inverse-subtle: rgba(241, 245, 242, 0.85);
+    --text-inverse-muted: rgba(241, 245, 242, 0.8);
+    --text-inverse-faint: rgba(241, 245, 242, 0.7);
+    --text-inverse-dim: rgba(241, 245, 242, 0.6);
+    --surface-inverse: #F1F5F2;
+    --surface-inverse-soft: rgba(241, 245, 242, 0.9);
+    --surface-inverse-tint: rgba(241, 245, 242, 0.2);
+    --surface-inverse-ghost: rgba(241, 245, 242, 0.1);
+    --border-inverse: rgba(241, 245, 242, 0.3);
+    --border-inverse-soft: rgba(241, 245, 242, 0.2);
+    --border-inverse-strong: rgba(241, 245, 242, 0.5);
 }
 
 /* ==========================================================================
@@ -525,12 +564,27 @@ samp {
 a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-hover); }
 
-/* Text gradient for brand highlights */
+/* Browser text selection in the brand colour */
+::selection {
+    background: var(--accent-subtle-bg);
+    color: var(--text-primary);
+}
+
+/* Illustration SVGs ship with fixed fills (three purples plus a dark line);
+   map them to theme inks so they follow the palette and read on both themes.
+   Drop shadows (#000 at low opacity) stay black on purpose. */
+svg.illustration [fill="#7C3AED" i] { fill: var(--ill-a); }
+svg.illustration [fill="#A855F7" i] { fill: var(--ill-b); }
+svg.illustration [fill="#C026D3" i] { fill: var(--ill-c); }
+svg.illustration [fill="#2E2D2D" i] { fill: var(--ill-line); }
+svg.illustration [stroke="#7C3AED" i] { stroke: var(--ill-a); }
+svg.illustration [stroke="#A855F7" i] { stroke: var(--ill-b); }
+svg.illustration [stroke="#C026D3" i] { stroke: var(--ill-c); }
+svg.illustration [stroke="#2E2D2D" i] { stroke: var(--ill-line); }
+
+/* Brand highlight text: flat accent (emphasis comes from colour and weight, not a gradient) */
 .text-gradient, .brand-gradient {
-    background: var(--brand-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--accent);
 }
 
 /* ==========================================================================
@@ -583,6 +637,7 @@ a:hover { color: var(--accent-hover); }
 .logo-text {
     height: calc(34px * var(--scale));
     width: auto;
+    color: var(--accent);
 }
 
 
@@ -901,7 +956,7 @@ a:hover { color: var(--accent-hover); }
     }
 
     .icon-bar-label {
-        font-size: 0.58rem;
+        font-size: 0.6875rem;
         letter-spacing: 0.04em;
     }
 }
@@ -934,7 +989,7 @@ a:hover { color: var(--accent-hover); }
     .icon-bar-label,
     .icon-bar-btn-label {
         display: block;
-        font-size: 0.58rem;
+        font-size: 0.6875rem;
         line-height: 1.05;
         text-align: left;
         white-space: normal;
@@ -1925,8 +1980,6 @@ main {
 
 .glass {
     background: var(--bg-card);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
     padding: var(--space-md);
@@ -1955,7 +2008,7 @@ main {
 }
 
 .card-gradient {
-    background: var(--accent-gradient);
+    background: var(--brand-gradient);
     border-color: transparent;
 }
 
@@ -3972,15 +4025,9 @@ main h2:first-child { margin-top: 0; }
     font-weight: 700;
     line-height: 0.9;
     letter-spacing: -0.04em;
-    background-image: var(--accent-gradient);
-    background-size: 100% 100%;
-    background-position: 0 0;
-    background-repeat: no-repeat;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
     opacity: 1;
     filter: none;
+    color: var(--accent);
 }
 
 .sections-item-icon svg {
@@ -4320,8 +4367,8 @@ main h2:first-child { margin-top: 0; }
     font-size: var(--font-size-ui);
     font-weight: 600;
     color: var(--text-primary);
-    background: color-mix(in srgb, var(--accent-end) 14%, white);
-    border: 1px solid color-mix(in srgb, var(--accent-end) 22%, var(--border));
+    background: var(--accent-subtle-bg);
+    border: 1px solid var(--accent-subtle-border);
 }
 
 .case-metric-bars {
@@ -4454,11 +4501,8 @@ main h2:first-child { margin-top: 0; }
     font-size: 0.8rem;
     font-weight: 700;
     letter-spacing: 0.05em;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
     border-color: var(--accent);
+    color: var(--accent);
 }
 
 .cards-value-item {
@@ -4474,10 +4518,7 @@ main h2:first-child { margin-top: 0; }
     font-weight: 700;
     line-height: 0.92;
     letter-spacing: -0.04em;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--accent);
 }
 
 .cards-item p {
@@ -4941,11 +4982,8 @@ a.cards-link:hover {
 .cart-total-amount {
     font-size: 1.5rem;
     font-weight: 700;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
     text-align: right;
+    color: var(--accent);
 }
 .cart-total-panel .cart-total-label {
     font-size: var(--font-size-caption);
@@ -5479,7 +5517,7 @@ a.cards-link:hover {
     transform: none;
 }
 .case-image-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: var(--accent-tint-gradient); }
-.case-image-placeholder span { font-size: 4rem; font-weight: 700; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; opacity: 0.5; }
+.case-image-placeholder span { font-size: 4rem; font-weight: 700; color: var(--accent); opacity: 0.5; }
 .case-content { display: flex; flex-direction: column; gap: var(--space-sm); padding: var(--space-md) var(--space-lg) var(--space-lg); }
 .case-content .entity-card-title,
 .case-content .entity-card-copy { margin: 0 0 calc(var(--type-body-gap) - var(--space-sm)); }
@@ -5495,15 +5533,12 @@ a.cards-link:hover {
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.2;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
     text-transform: none;
+    color: var(--accent);
 }
 .case-card-footer { margin-top: auto; align-items: flex-end; }
 .case-result { display: flex; flex-direction: column; }
-.result-value { font-size: var(--font-size-h3); font-weight: 700; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1.2; }
+.result-value { font-size: var(--font-size-h3); font-weight: 700; color: var(--accent); line-height: 1.2; }
 .result-label { font-size: var(--font-size-caption); color: var(--text-muted); margin-top: 2px; }
 /* === Service Card === */
 .service-card-header,
@@ -5536,8 +5571,7 @@ a.cards-link:hover {
 .dimension-card-badge { font-size: 1.4rem; }
 .dimension-card-badge.code {
     font-size: 0.75rem; font-weight: 700; letter-spacing: 0.05em;
-    background: var(--accent-gradient); -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; background-clip: text;
+    color: var(--accent);
 }
 .dimension-card-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: var(--space-md); }
 .dimension-card-footer-highlight { align-items: flex-end; }
@@ -5603,10 +5637,7 @@ a.cards-link:hover {
     font-size: var(--font-size-h3);
     font-weight: 700;
     line-height: 1.1;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--accent);
 }
 
 .market-stat-label {
@@ -5690,7 +5721,7 @@ a.cards-link:hover {
     padding: 0 10px;
     border-radius: var(--radius-md);
     border: 1px solid var(--border);
-    background: var(--bg-surface);
+    background: var(--bg-card);
     font-size: 1rem;
     font-weight: 700;
 }
@@ -6313,14 +6344,11 @@ a.cards-link:hover {
     }
 
     .cta-default h2 {
-        background: var(--accent-gradient);
-        -webkit-background-clip: text;
-        background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: var(--accent);
     }
 
     .cta-gradient {
-        background: var(--accent-gradient);
+        background: var(--brand-gradient);
         color: var(--text-inverse);
     }
 
@@ -6365,7 +6393,7 @@ a.cards-link:hover {
     .cta-gradient .btn-primary,
     .hero-gradient .btn-primary {
         background: var(--surface-inverse);
-        color: var(--brand-purple);
+        color: var(--brand-primary);
     }
 
     .cta-gradient .btn-primary {
@@ -6375,7 +6403,7 @@ a.cards-link:hover {
     .cta-gradient .btn-primary:hover,
     .hero-gradient .btn-primary:hover {
         background: var(--surface-inverse-soft);
-        color: var(--brand-purple);
+        color: var(--brand-primary);
         border-color: var(--surface-inverse-soft);
     }
 
@@ -6697,11 +6725,8 @@ a.cards-link:hover {
     .feature-visual-icon {
         font-size: 4rem;
         font-weight: 700;
-        background: var(--accent-gradient);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
         opacity: 0.8;
+        color: var(--accent);
     }
 
     .features-footer {
@@ -6842,7 +6867,7 @@ a.cards-link:hover {
         justify-content: center;
         padding: clamp(1rem, 3vw, 2rem);
         background:
-            linear-gradient(145deg, var(--bg-card), var(--bg-secondary));
+            linear-gradient(145deg, var(--bg-card), var(--bg-tertiary));
         border: 1px solid var(--border);
         border-radius: var(--radius-md);
         box-shadow: var(--shadow-lg);
@@ -6907,7 +6932,7 @@ a.cards-link:hover {
     /* Style 2: Gradient background */
     .hero-gradient {
         text-align: center;
-        background: var(--accent-gradient);
+        background: var(--brand-gradient);
         color: var(--text-inverse);
         padding: var(--space-3xl);
         border-radius: var(--radius-xl);
@@ -6938,7 +6963,7 @@ a.cards-link:hover {
     /* On clean hero and default CTA: bright purple icons */
     .hero-clean .hero-scatter-icon,
     .cta-default .hero-scatter-icon {
-        color: var(--brand-purple);
+        color: var(--brand-primary);
         opacity: 0.7;
     }
 
@@ -7014,10 +7039,7 @@ a.cards-link:hover {
     }
 
     .hero-gradient .text-gradient {
-        background: var(--surface-inverse);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
+        color: var(--surface-inverse);
     }
 
     .hero-gradient .hero-subtitle,
@@ -7045,10 +7067,7 @@ a.cards-link:hover {
     }
 
     .hero-gradient .hero-stat-value {
-        background: var(--surface-inverse);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
+        color: var(--surface-inverse);
     }
 
     .hero-gradient .hero-stat-label {
@@ -7131,11 +7150,8 @@ a.cards-link:hover {
     .hero-visual-icon {
         font-size: 6rem;
         font-weight: 700;
-        background: var(--accent-gradient);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
         opacity: 0.6;
+        color: var(--accent);
     }
 
     /* Expert photo in hero */
@@ -7367,8 +7383,15 @@ a.cards-link:hover {
     100% { transform: translateX(-50%); }
 }
 
-.logos-marquee:hover .logos-track {
+.logos-marquee:hover .logos-track,
+.logos-marquee:focus-within .logos-track {
     animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .logos-marquee .logos-track {
+        animation: none;
+    }
 }
 
 /* Responsive */
@@ -7631,14 +7654,8 @@ a.cards-link:hover {
     line-height: 1;
     letter-spacing: -0.04em;
     text-align: center;
-    background-image: var(--accent-gradient);
-    background-size: 100% 100%;
-    background-position: 0 0;
-    background-repeat: no-repeat;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
     opacity: 1;
+    color: var(--accent);
 }
 
 .pillar-card h3 {
@@ -9587,10 +9604,7 @@ a.cards-link:hover {
 .trust-value {
     font-size: var(--font-size-display);
     font-weight: 700;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--accent);
 }
 
 .trust-label {
@@ -9977,6 +9991,20 @@ a.cards-link:hover {
 .sitemap-section ul a:hover {
     color: var(--accent);
 }
+
+/* Big figures never break across lines (compact values use Latin K/M/B in every language) */
+.hero-stat-value,
+.market-stat-value,
+.market-stats-row-value,
+.case-metric-value,
+.case-metrics-summary-value,
+.metric-value,
+.result-value,
+.trust-value,
+.cards-value {
+    white-space: nowrap;
+}
+
 /* ==========================================================================
    RTL (right-to-left) overrides
    ==========================================================================
