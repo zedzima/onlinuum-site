@@ -78,6 +78,7 @@
         var acceptBtn = document.getElementById('cookieAcceptBtn');
         var manageBtn = document.getElementById('cookieManageBtn');
         var prefsSaveBtn = document.getElementById('cookiePrefsSaveBtn');
+        var prefsAcceptBtn = document.getElementById('cookiePrefsAcceptBtn');
         var prefsCloseBtn = document.getElementById('cookiePrefsClose');
 
         if (!consent || !banner || !prefs) return;
@@ -96,12 +97,10 @@
         function syncConsentUi() {
             var state = consent.getState();
             var hasChoice = consent.hasChoice();
-            var analyticsEnabled = typeof consent.allowsAnalytics === 'function'
-                ? consent.allowsAnalytics()
-                : !!(state && state.analytics);
 
+            // Toggles show the visitor's own choice: both stay unticked until they accept or save.
             if (analyticsToggle) {
-                analyticsToggle.checked = analyticsEnabled;
+                analyticsToggle.checked = !!(state && state.analytics);
             }
             if (marketingToggle) {
                 marketingToggle.checked = !!(state && state.marketing);
@@ -110,10 +109,12 @@
             banner.classList.toggle('hidden', hasChoice);
         }
 
-        acceptBtn?.addEventListener('click', function() {
-            consent.acceptAll();
-            closePrefs();
-            syncConsentUi();
+        [acceptBtn, prefsAcceptBtn].forEach(function(button) {
+            button?.addEventListener('click', function() {
+                consent.acceptAll();
+                closePrefs();
+                syncConsentUi();
+            });
         });
 
         manageBtn?.addEventListener('click', function() {

@@ -358,11 +358,35 @@
             }
         }
 
+        function gtag() { w.dataLayer.push(arguments); }
+
+        // Analytics loads before any choice, so a refusal must also stop tags already running on
+        // this page (Google tags honour consent updates) and drop the identifiers they have set.
+        function applyToTags(current) {
+            var ads = current.marketing ? 'granted' : 'denied';
+            gtag('consent', 'update', {
+                analytics_storage: current.analytics ? 'granted' : 'denied',
+                ad_storage: ads,
+                ad_user_data: ads,
+                ad_personalization: ads
+            });
+            if (current.analytics) return;
+            var host = w.location.hostname.replace(/^www\./, '');
+            document.cookie.split(';').forEach(function(pair) {
+                var name = pair.split('=')[0].trim();
+                if (!/^_g(a|id|at)/.test(name)) return;
+                ['', '; domain=' + host, '; domain=.' + host].forEach(function(domain) {
+                    document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + domain;
+                });
+            });
+        }
+
         function persist(nextState) {
             state = normalize(nextState);
             try {
                 w.localStorage.setItem(storageKey, JSON.stringify(state));
             } catch (e) {}
+            applyToTags(state);
             listeners.slice().forEach(function(listener) {
                 try {
                     listener(state);
@@ -386,7 +410,7 @@
                 return !!(state && state[category]);
             },
             save: function(nextState) { return persist(nextState); },
-            acceptAll: function() { return persist({ analytics: true, marketing: false }); },
+            acceptAll: function() { return persist({ analytics: true, marketing: true }); },
             rejectNonEssential: function() { return persist({ analytics: false, marketing: false }); },
             clear: function() {
                 state = null;
@@ -6413,13 +6437,13 @@ Expert digital marketing in Brazil, delivered as a productized service, from mar
                 <div class="cookie-consent-copy">
                     <p class="cookie-consent-title">Cookie settings</p>
                     <p class="cookie-consent-text">
-                        We use essential storage for cart and site functionality. Use Recommended Settings to keep analytics on for site measurement, or manage preferences manually.
+                        We use essential storage for the cart and site functionality, and analytics to understand how the site is used. Press Accept to allow everything, or choose what to allow under Manage.
                         See our <a href="privacy/" class="legal-consent-link">Privacy Policy</a>.
                     </p>
                 </div>
                 <div class="cookie-consent-actions">
                     <button type="button" class="btn btn-secondary" id="cookieManageBtn">Manage</button>
-                    <button type="button" class="btn btn-primary" id="cookieAcceptBtn">Got it</button>
+                    <button type="button" class="btn btn-primary" id="cookieAcceptBtn">Accept</button>
                 </div>
             </div>
         </div>
@@ -6431,7 +6455,7 @@ Expert digital marketing in Brazil, delivered as a productized service, from mar
                     <button type="button" class="cookie-preferences-close" id="cookiePrefsClose" aria-label="Close cookie settings">&times;</button>
                 </div>
                 <p class="cookie-consent-text">
-                    Essential storage stays on because the site and order cart depend on it. Analytics is on by default and can be turned off here for future visits. Marketing stays off unless you explicitly enable it.
+                    Essential storage stays on because the site and order cart depend on it. Tick what you allow and save, or accept everything.
                 </p>
                 <div class="cookie-pref-list">
                     <label class="widget-checkbox legal-checkbox cookie-pref-row">
@@ -6448,7 +6472,8 @@ Expert digital marketing in Brazil, delivered as a productized service, from mar
                     </label>
                 </div>
                 <div class="cookie-consent-actions">
-                    <button type="button" class="btn btn-primary" id="cookiePrefsSaveBtn">Save Preferences</button>
+                    <button type="button" class="btn btn-secondary" id="cookiePrefsSaveBtn">Save Preferences</button>
+                    <button type="button" class="btn btn-primary" id="cookiePrefsAcceptBtn">Accept</button>
                 </div>
             </div>
         </div>
@@ -6625,6 +6650,6 @@ Expert digital marketing in Brazil, delivered as a productized service, from mar
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=85861bf0" defer></script>
+    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
 </body>
 </html>
