@@ -7,47 +7,47 @@
   <!-- Chart background shadow -->
   <rect x="68" y="68" width="270" height="260" rx="8" fill="#000" opacity="0.07" transform="translate(3,3)"/>
   <!-- Chart background -->
-  <rect x="65" y="65" width="270" height="260" rx="8" stroke="#2E2D2D" stroke-width="3" fill="white" fill-opacity="0.3"/>
+  <rect x="65" y="65" width="270" height="260" rx="8" stroke="#6E7872" stroke-width="3" fill="white" fill-opacity="0.3"/>
 
   <!-- Grid lines -->
-  <line x1="95" y1="125" x2="310" y2="125" stroke="#2E2D2D" stroke-width="1" opacity="0.08"/>
-  <line x1="95" y1="175" x2="310" y2="175" stroke="#2E2D2D" stroke-width="1" opacity="0.08"/>
-  <line x1="95" y1="225" x2="310" y2="225" stroke="#2E2D2D" stroke-width="1" opacity="0.08"/>
-  <line x1="95" y1="275" x2="310" y2="275" stroke="#2E2D2D" stroke-width="1" opacity="0.08"/>
+  <line x1="95" y1="125" x2="310" y2="125" stroke="#6E7872" stroke-width="1" opacity="0.08"/>
+  <line x1="95" y1="175" x2="310" y2="175" stroke="#6E7872" stroke-width="1" opacity="0.08"/>
+  <line x1="95" y1="225" x2="310" y2="225" stroke="#6E7872" stroke-width="1" opacity="0.08"/>
+  <line x1="95" y1="275" x2="310" y2="275" stroke="#6E7872" stroke-width="1" opacity="0.08"/>
 
   <!-- Axis -->
-  <line x1="95" y1="85" x2="95" y2="300" stroke="#2E2D2D" stroke-width="2" opacity="0.3"/>
-  <line x1="95" y1="300" x2="310" y2="300" stroke="#2E2D2D" stroke-width="2" opacity="0.3"/>
+  <line x1="95" y1="85" x2="95" y2="300" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+  <line x1="95" y1="300" x2="310" y2="300" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
 
   <!-- Bars -->
-  <rect x="115" y="220" width="28" height="80" rx="3" fill="#7C3AED" fill-opacity="0.2" stroke="#2E2D2D" stroke-width="2"/>
-  <rect x="158" y="180" width="28" height="120" rx="3" fill="#7C3AED" fill-opacity="0.2" stroke="#2E2D2D" stroke-width="2"/>
-  <rect x="201" y="150" width="28" height="150" rx="3" fill="#A855F7" fill-opacity="0.2" stroke="#2E2D2D" stroke-width="2"/>
-  <rect x="244" y="195" width="28" height="105" rx="3" fill="#C026D3" fill-opacity="0.15" stroke="#2E2D2D" stroke-width="2"/>
-  <rect x="287" y="120" width="28" height="180" rx="3" fill="#7C3AED" fill-opacity="0.25" stroke="#2E2D2D" stroke-width="2"/>
+  <rect x="115" y="220" width="28" height="80" rx="3" fill="#1D5C43" fill-opacity="0.2" stroke="#6E7872" stroke-width="2"/>
+  <rect x="158" y="180" width="28" height="120" rx="3" fill="#1D5C43" fill-opacity="0.2" stroke="#6E7872" stroke-width="2"/>
+  <rect x="201" y="150" width="28" height="150" rx="3" fill="#C39033" fill-opacity="0.2" stroke="#6E7872" stroke-width="2"/>
+  <rect x="244" y="195" width="28" height="105" rx="3" fill="#AFCDBB" fill-opacity="0.15" stroke="#6E7872" stroke-width="2"/>
+  <rect x="287" y="120" width="28" height="180" rx="3" fill="#1D5C43" fill-opacity="0.25" stroke="#6E7872" stroke-width="2"/>
 
   <!-- Trend line -->
-  <polyline points="129,215 172,175 215,145 258,190 301,115" stroke="#2E2D2D" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+  <polyline points="129,215 172,175 215,145 258,190 301,115" stroke="#6E7872" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
   <!-- Trend dots -->
-  <circle cx="129" cy="215" r="4" fill="#7C3AED" opacity="0.4" stroke="#2E2D2D" stroke-width="1.5"/>
-  <circle cx="215" cy="145" r="4" fill="#A855F7" opacity="0.4" stroke="#2E2D2D" stroke-width="1.5"/>
-  <circle cx="301" cy="115" r="4" fill="#7C3AED" opacity="0.5" stroke="#2E2D2D" stroke-width="1.5"/>
+  <circle cx="129" cy="215" r="4" fill="#1D5C43" opacity="0.4" stroke="#6E7872" stroke-width="1.5"/>
+  <circle cx="215" cy="145" r="4" fill="#C39033" opacity="0.4" stroke="#6E7872" stroke-width="1.5"/>
+  <circle cx="301" cy="115" r="4" fill="#1D5C43" opacity="0.5" stroke="#6E7872" stroke-width="1.5"/>
 
   <!-- Plus badge (top right, growth indicator) -->
   <circle cx="350" cy="80" r="18" fill="#000" opacity="0.07" transform="translate(2,2)"/>
-  <circle cx="348" cy="78" r="18" stroke="#2E2D2D" stroke-width="2" fill="#7C3AED" fill-opacity="0.12"/>
-  <line x1="340" y1="78" x2="356" y2="78" stroke="#2E2D2D" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
-  <line x1="348" y1="70" x2="348" y2="86" stroke="#2E2D2D" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="348" cy="78" r="18" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.12"/>
+  <line x1="340" y1="78" x2="356" y2="78" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
+  <line x1="348" y1="70" x2="348" y2="86" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
 
   <!-- Minus badge (bottom left, decline indicator) -->
   <circle cx="48" cy="320" r="14" fill="#000" opacity="0.07" transform="translate(2,2)"/>
-  <circle cx="46" cy="318" r="14" stroke="#2E2D2D" stroke-width="1.5" fill="#C026D3" fill-opacity="0.10"/>
-  <line x1="38" y1="318" x2="54" y2="318" stroke="#2E2D2D" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+  <circle cx="46" cy="318" r="14" stroke="#6E7872" stroke-width="1.5" fill="#AFCDBB" fill-opacity="0.10"/>
+  <line x1="38" y1="318" x2="54" y2="318" stroke="#6E7872" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
 
   <!-- Decorative dots -->
-  <circle cx="40" cy="100" r="3" fill="#7C3AED" opacity="0.22"/>
-  <circle cx="370" cy="250" r="2.5" fill="#A855F7" opacity="0.2"/>
-  <circle cx="370" cy="340" r="2" fill="#C026D3" opacity="0.18"/>
-  <line x1="350" y1="360" x2="370" y2="360" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
-  <line x1="30" y1="200" x2="48" y2="200" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+  <circle cx="40" cy="100" r="3" fill="#1D5C43" opacity="0.22"/>
+  <circle cx="370" cy="250" r="2.5" fill="#C39033" opacity="0.2"/>
+  <circle cx="370" cy="340" r="2" fill="#AFCDBB" opacity="0.18"/>
+  <line x1="350" y1="360" x2="370" y2="360" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+  <line x1="30" y1="200" x2="48" y2="200" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
 </svg>

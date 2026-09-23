@@ -113,17 +113,17 @@ a:hover { color: var(--accent-hover); }
     color: var(--text-primary);
 }
 
-/* Illustration SVGs ship with fixed fills (three purples plus a dark line);
-   map them to theme inks so they follow the palette and read on both themes.
+/* Illustration SVGs ship with fixed light-theme inks (forest, brass, sage and a
+   mid-tone line); map them to theme tokens so the dark theme swaps its own inks.
    Drop shadows (#000 at low opacity) stay black on purpose. */
-svg.illustration [fill="#7C3AED" i] { fill: var(--ill-a); }
-svg.illustration [fill="#A855F7" i] { fill: var(--ill-b); }
-svg.illustration [fill="#C026D3" i] { fill: var(--ill-c); }
-svg.illustration [fill="#2E2D2D" i] { fill: var(--ill-line); }
-svg.illustration [stroke="#7C3AED" i] { stroke: var(--ill-a); }
-svg.illustration [stroke="#A855F7" i] { stroke: var(--ill-b); }
-svg.illustration [stroke="#C026D3" i] { stroke: var(--ill-c); }
-svg.illustration [stroke="#2E2D2D" i] { stroke: var(--ill-line); }
+svg.illustration [fill="#1D5C43" i] { fill: var(--ill-a); }
+svg.illustration [fill="#C39033" i] { fill: var(--ill-b); }
+svg.illustration [fill="#AFCDBB" i] { fill: var(--ill-c); }
+svg.illustration [fill="#6E7872" i] { fill: var(--ill-line); }
+svg.illustration [stroke="#1D5C43" i] { stroke: var(--ill-a); }
+svg.illustration [stroke="#C39033" i] { stroke: var(--ill-b); }
+svg.illustration [stroke="#AFCDBB" i] { stroke: var(--ill-c); }
+svg.illustration [stroke="#6E7872" i] { stroke: var(--ill-line); }
 
 /* Brand highlight text: flat accent (emphasis comes from colour and weight, not a gradient) */
 .text-gradient, .brand-gradient {

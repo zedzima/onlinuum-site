@@ -2,100 +2,100 @@
   <!-- Scales of justice - pillar shadow -->
   <line x1="203" y1="103" x2="203" y2="303" stroke="#000" stroke-width="5" opacity="0.08"/>
   <!-- Scales pillar -->
-  <line x1="200" y1="100" x2="200" y2="300" stroke="#2E2D2D" stroke-width="4"/>
+  <line x1="200" y1="100" x2="200" y2="300" stroke="#6E7872" stroke-width="4"/>
   <!-- Pillar base -->
-  <path d="M165 295 L235 295 L240 310 L160 310 Z" stroke="#2E2D2D" stroke-width="3" fill="#7C3AED" fill-opacity="0.12"/>
+  <path d="M165 295 L235 295 L240 310 L160 310 Z" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.12"/>
   <!-- Base bottom -->
-  <line x1="155" y1="310" x2="245" y2="310" stroke="#2E2D2D" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="155" y1="310" x2="245" y2="310" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
   <!-- Beam shadow -->
   <line x1="103" y1="103" x2="303" y2="103" stroke="#000" stroke-width="5" opacity="0.08"/>
   <!-- Balance beam -->
-  <line x1="100" y1="100" x2="300" y2="100" stroke="#2E2D2D" stroke-width="4" stroke-linecap="round"/>
+  <line x1="100" y1="100" x2="300" y2="100" stroke="#6E7872" stroke-width="4" stroke-linecap="round"/>
   <!-- Center ornament -->
-  <circle cx="200" cy="100" r="8" stroke="#2E2D2D" stroke-width="3" fill="#A855F7" fill-opacity="0.15"/>
-  <circle cx="200" cy="100" r="3" fill="#2E2D2D" opacity="0.3"/>
+  <circle cx="200" cy="100" r="8" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.15"/>
+  <circle cx="200" cy="100" r="3" fill="#6E7872" opacity="0.3"/>
   <!-- Left chain -->
-  <line x1="100" y1="100" x2="100" y2="140" stroke="#2E2D2D" stroke-width="2.5"/>
-  <line x1="100" y1="108" x2="100" y2="115" stroke="#2E2D2D" stroke-width="3" opacity="0.5"/>
-  <line x1="100" y1="122" x2="100" y2="129" stroke="#2E2D2D" stroke-width="3" opacity="0.5"/>
+  <line x1="100" y1="100" x2="100" y2="140" stroke="#6E7872" stroke-width="2.5"/>
+  <line x1="100" y1="108" x2="100" y2="115" stroke="#6E7872" stroke-width="3" opacity="0.5"/>
+  <line x1="100" y1="122" x2="100" y2="129" stroke="#6E7872" stroke-width="3" opacity="0.5"/>
   <!-- Left pan shadow -->
   <path d="M63 143 Q63 153 100 160 Q137 153 137 143 L130 143 Q130 148 100 153 Q70 148 70 143 Z" fill="#000" opacity="0.08" transform="translate(3,3)"/>
   <!-- Left pan -->
-  <path d="M60 140 Q60 150 97 157 Q134 150 134 140 Z" stroke="#2E2D2D" stroke-width="3" fill="#7C3AED" fill-opacity="0.14"/>
+  <path d="M60 140 Q60 150 97 157 Q134 150 134 140 Z" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.14"/>
   <!-- Left pan chains -->
-  <line x1="68" y1="140" x2="100" y2="100" stroke="#2E2D2D" stroke-width="1.5" opacity="0.3"/>
-  <line x1="128" y1="140" x2="100" y2="100" stroke="#2E2D2D" stroke-width="1.5" opacity="0.3"/>
+  <line x1="68" y1="140" x2="100" y2="100" stroke="#6E7872" stroke-width="1.5" opacity="0.3"/>
+  <line x1="128" y1="140" x2="100" y2="100" stroke="#6E7872" stroke-width="1.5" opacity="0.3"/>
   <!-- Right chain -->
-  <line x1="300" y1="100" x2="300" y2="140" stroke="#2E2D2D" stroke-width="2.5"/>
-  <line x1="300" y1="108" x2="300" y2="115" stroke="#2E2D2D" stroke-width="3" opacity="0.5"/>
-  <line x1="300" y1="122" x2="300" y2="129" stroke="#2E2D2D" stroke-width="3" opacity="0.5"/>
+  <line x1="300" y1="100" x2="300" y2="140" stroke="#6E7872" stroke-width="2.5"/>
+  <line x1="300" y1="108" x2="300" y2="115" stroke="#6E7872" stroke-width="3" opacity="0.5"/>
+  <line x1="300" y1="122" x2="300" y2="129" stroke="#6E7872" stroke-width="3" opacity="0.5"/>
   <!-- Right pan shadow -->
   <path d="M263 143" fill="#000" opacity="0.08" transform="translate(3,3)"/>
   <!-- Right pan -->
-  <path d="M260 140 Q260 150 297 157 Q334 150 334 140 Z" stroke="#2E2D2D" stroke-width="3" fill="#C026D3" fill-opacity="0.12"/>
+  <path d="M260 140 Q260 150 297 157 Q334 150 334 140 Z" stroke="#6E7872" stroke-width="3" fill="#AFCDBB" fill-opacity="0.12"/>
   <!-- Right pan chains -->
-  <line x1="268" y1="140" x2="300" y2="100" stroke="#2E2D2D" stroke-width="1.5" opacity="0.3"/>
-  <line x1="328" y1="140" x2="300" y2="100" stroke="#2E2D2D" stroke-width="1.5" opacity="0.3"/>
+  <line x1="268" y1="140" x2="300" y2="100" stroke="#6E7872" stroke-width="1.5" opacity="0.3"/>
+  <line x1="328" y1="140" x2="300" y2="100" stroke="#6E7872" stroke-width="1.5" opacity="0.3"/>
   <!-- Gavel shadow -->
   <rect x="283" y="218" width="75" height="24" rx="12" fill="#000" opacity="0.08" transform="rotate(-35 320 230) translate(3,3)"/>
   <!-- Gavel head -->
-  <rect x="280" y="215" width="75" height="24" rx="12" stroke="#2E2D2D" stroke-width="3" fill="#A855F7" fill-opacity="0.15" transform="rotate(-35 318 227)"/>
+  <rect x="280" y="215" width="75" height="24" rx="12" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.15" transform="rotate(-35 318 227)"/>
   <!-- Gavel head band -->
-  <line x1="308" y1="215" x2="308" y2="239" stroke="#2E2D2D" stroke-width="2" opacity="0.25" transform="rotate(-35 308 227)"/>
-  <line x1="330" y1="215" x2="330" y2="239" stroke="#2E2D2D" stroke-width="2" opacity="0.25" transform="rotate(-35 330 227)"/>
+  <line x1="308" y1="215" x2="308" y2="239" stroke="#6E7872" stroke-width="2" opacity="0.25" transform="rotate(-35 308 227)"/>
+  <line x1="330" y1="215" x2="330" y2="239" stroke="#6E7872" stroke-width="2" opacity="0.25" transform="rotate(-35 330 227)"/>
   <!-- Gavel handle -->
-  <line x1="318" y1="240" x2="298" y2="295" stroke="#2E2D2D" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="318" y1="240" x2="298" y2="295" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
   <!-- Gavel sound block -->
-  <ellipse cx="340" cy="310" rx="25" ry="8" stroke="#2E2D2D" stroke-width="2.5" fill="#7C3AED" fill-opacity="0.10"/>
-  <ellipse cx="340" cy="305" rx="25" ry="8" stroke="#2E2D2D" stroke-width="2" fill="#2E2D2D" fill-opacity="0.06"/>
+  <ellipse cx="340" cy="310" rx="25" ry="8" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.10"/>
+  <ellipse cx="340" cy="305" rx="25" ry="8" stroke="#6E7872" stroke-width="2" fill="#6E7872" fill-opacity="0.06"/>
   <!-- Person head -->
-  <circle cx="60" cy="206" r="16" stroke="#2E2D2D" stroke-width="2.5" fill="#A855F7" fill-opacity="0.16"/>
+  <circle cx="60" cy="206" r="16" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.16"/>
   <!-- Person body (professional attire) -->
-  <path d="M34 298 Q34 268 44 256 Q51 248 60 246 Q69 248 76 256 Q86 268 86 298 L82 304 L38 304 Z" stroke="#2E2D2D" stroke-width="2.5" fill="#A855F7" fill-opacity="0.14" stroke-linejoin="round"/>
+  <path d="M34 298 Q34 268 44 256 Q51 248 60 246 Q69 248 76 256 Q86 268 86 298 L82 304 L38 304 Z" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.14" stroke-linejoin="round"/>
   <!-- Collar/tie detail -->
-  <path d="M53 254 L60 266 L67 254" stroke="#2E2D2D" stroke-width="1.3" fill="none" opacity="0.2"/>
-  <line x1="60" y1="266" x2="60" y2="294" stroke="#2E2D2D" stroke-width="1.3" opacity="0.16"/>
+  <path d="M53 254 L60 266 L67 254" stroke="#6E7872" stroke-width="1.3" fill="none" opacity="0.2"/>
+  <line x1="60" y1="266" x2="60" y2="294" stroke="#6E7872" stroke-width="1.3" opacity="0.16"/>
   <!-- Shoulder pads (suit) -->
-  <path d="M36 266 Q34 260 39 256 Q44 252 48 254" stroke="#2E2D2D" stroke-width="1.8" fill="none" opacity="0.2"/>
-  <path d="M84 266 Q86 260 81 256 Q76 252 72 254" stroke="#2E2D2D" stroke-width="1.8" fill="none" opacity="0.2"/>
+  <path d="M36 266 Q34 260 39 256 Q44 252 48 254" stroke="#6E7872" stroke-width="1.8" fill="none" opacity="0.2"/>
+  <path d="M84 266 Q86 260 81 256 Q76 252 72 254" stroke="#6E7872" stroke-width="1.8" fill="none" opacity="0.2"/>
   <!-- Document/contract shadow -->
   <rect x="53" y="323" width="50" height="62" rx="3" fill="#000" opacity="0.08" transform="translate(3,3)"/>
   <!-- Document/contract -->
-  <rect x="50" y="320" width="50" height="62" rx="3" stroke="#2E2D2D" stroke-width="2.5" fill="#C026D3" fill-opacity="0.12"/>
+  <rect x="50" y="320" width="50" height="62" rx="3" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.12"/>
   <!-- Document lines -->
-  <line x1="58" y1="335" x2="90" y2="335" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.35"/>
-  <line x1="58" y1="344" x2="88" y2="344" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
-  <line x1="58" y1="353" x2="82" y2="353" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
-  <line x1="58" y1="362" x2="85" y2="362" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
+  <line x1="58" y1="335" x2="90" y2="335" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.35"/>
+  <line x1="58" y1="344" x2="88" y2="344" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
+  <line x1="58" y1="353" x2="82" y2="353" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
+  <line x1="58" y1="362" x2="85" y2="362" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
   <!-- Signature line -->
-  <line x1="60" y1="372" x2="90" y2="372" stroke="#2E2D2D" stroke-width="1" opacity="0.3"/>
-  <path d="M65 370 Q70 366 75 370 Q78 372 82 368" stroke="#2E2D2D" stroke-width="1.5" fill="none" opacity="0.35" stroke-linecap="round"/>
+  <line x1="60" y1="372" x2="90" y2="372" stroke="#6E7872" stroke-width="1" opacity="0.3"/>
+  <path d="M65 370 Q70 366 75 370 Q78 372 82 368" stroke="#6E7872" stroke-width="1.5" fill="none" opacity="0.35" stroke-linecap="round"/>
   <!-- Seal/stamp -->
-  <circle cx="140" cy="360" r="16" stroke="#2E2D2D" stroke-width="2.5" fill="#7C3AED" fill-opacity="0.14"/>
-  <circle cx="140" cy="360" r="10" stroke="#2E2D2D" stroke-width="1.5" fill="none" opacity="0.25"/>
-  <circle cx="140" cy="360" r="4" fill="#2E2D2D" opacity="0.2"/>
+  <circle cx="140" cy="360" r="16" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.14"/>
+  <circle cx="140" cy="360" r="10" stroke="#6E7872" stroke-width="1.5" fill="none" opacity="0.25"/>
+  <circle cx="140" cy="360" r="4" fill="#6E7872" opacity="0.2"/>
   <!-- Small stars around seal -->
-  <circle cx="130" cy="348" r="1.5" fill="#2E2D2D" opacity="0.2"/>
-  <circle cx="150" cy="348" r="1.5" fill="#2E2D2D" opacity="0.2"/>
-  <circle cx="130" cy="372" r="1.5" fill="#2E2D2D" opacity="0.2"/>
-  <circle cx="150" cy="372" r="1.5" fill="#2E2D2D" opacity="0.2"/>
+  <circle cx="130" cy="348" r="1.5" fill="#6E7872" opacity="0.2"/>
+  <circle cx="150" cy="348" r="1.5" fill="#6E7872" opacity="0.2"/>
+  <circle cx="130" cy="372" r="1.5" fill="#6E7872" opacity="0.2"/>
+  <circle cx="150" cy="372" r="1.5" fill="#6E7872" opacity="0.2"/>
   <!-- Small law book -->
-  <rect x="200" y="340" width="38" height="48" rx="4" stroke="#2E2D2D" stroke-width="2.5" fill="#A855F7" fill-opacity="0.14"/>
+  <rect x="200" y="340" width="38" height="48" rx="4" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.14"/>
   <!-- Book spine -->
-  <line x1="206" y1="343" x2="206" y2="385" stroke="#2E2D2D" stroke-width="2" opacity="0.3"/>
+  <line x1="206" y1="343" x2="206" y2="385" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
   <!-- Book text lines -->
-  <line x1="212" y1="355" x2="230" y2="355" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
-  <line x1="212" y1="363" x2="228" y2="363" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
-  <line x1="212" y1="371" x2="225" y2="371" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
+  <line x1="212" y1="355" x2="230" y2="355" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
+  <line x1="212" y1="363" x2="228" y2="363" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
+  <line x1="212" y1="371" x2="225" y2="371" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
   <!-- Book symbol (section sign) -->
-  <text x="215" y="352" font-family="Arial, sans-serif" font-size="10" fill="#2E2D2D" opacity="0.3">§</text>
+  <text x="215" y="352" font-family="Arial, sans-serif" font-size="10" fill="#6E7872" opacity="0.3">§</text>
   <!-- Decorative dots -->
-  <circle cx="150" cy="55" r="2.5" fill="#7C3AED" opacity="0.3"/>
-  <circle cx="250" cy="55" r="2" fill="#A855F7" opacity="0.25"/>
-  <circle cx="365" cy="180" r="2.5" fill="#C026D3" opacity="0.25"/>
-  <circle cx="370" cy="350" r="2" fill="#7C3AED" opacity="0.25"/>
+  <circle cx="150" cy="55" r="2.5" fill="#1D5C43" opacity="0.3"/>
+  <circle cx="250" cy="55" r="2" fill="#C39033" opacity="0.25"/>
+  <circle cx="365" cy="180" r="2.5" fill="#AFCDBB" opacity="0.25"/>
+  <circle cx="370" cy="350" r="2" fill="#1D5C43" opacity="0.25"/>
   <!-- Decorative lines -->
-  <line x1="345" y1="60" x2="365" y2="60" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.15"/>
-  <line x1="350" y1="68" x2="375" y2="68" stroke="#2E2D2D" stroke-width="1" stroke-linecap="round" opacity="0.1"/>
-  <line x1="280" y1="370" x2="300" y2="370" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+  <line x1="345" y1="60" x2="365" y2="60" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.15"/>
+  <line x1="350" y1="68" x2="375" y2="68" stroke="#6E7872" stroke-width="1" stroke-linecap="round" opacity="0.1"/>
+  <line x1="280" y1="370" x2="300" y2="370" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
 </svg>

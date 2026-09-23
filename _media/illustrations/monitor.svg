@@ -2,63 +2,63 @@
   <!-- Monitor shadow -->
   <rect x="63" y="57" width="276" height="190" rx="12" fill="#000" opacity="0.08"/>
   <!-- Monitor body -->
-  <rect x="60" y="54" width="276" height="190" rx="12" stroke="#2E2D2D" stroke-width="3.5" fill="#7C3AED" fill-opacity="0.1"/>
+  <rect x="60" y="54" width="276" height="190" rx="12" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.1"/>
   <!-- Screen area -->
-  <rect x="76" y="70" width="244" height="158" rx="8" stroke="#2E2D2D" stroke-width="2" fill="white" fill-opacity="0.42"/>
+  <rect x="76" y="70" width="244" height="158" rx="8" stroke="#6E7872" stroke-width="2" fill="white" fill-opacity="0.42"/>
 
   <!-- Sidebar -->
-  <rect x="88" y="84" width="46" height="130" rx="4" stroke="#2E2D2D" stroke-width="1.5" fill="#A855F7" fill-opacity="0.14"/>
-  <rect x="96" y="96" width="26" height="6" rx="2" fill="#2E2D2D" opacity="0.24"/>
-  <rect x="96" y="110" width="32" height="6" rx="2" fill="#7C3AED" opacity="0.34"/>
-  <rect x="96" y="124" width="22" height="6" rx="2" fill="#2E2D2D" opacity="0.16"/>
-  <rect x="96" y="138" width="28" height="6" rx="2" fill="#2E2D2D" opacity="0.16"/>
+  <rect x="88" y="84" width="46" height="130" rx="4" stroke="#6E7872" stroke-width="1.5" fill="#C39033" fill-opacity="0.14"/>
+  <rect x="96" y="96" width="26" height="6" rx="2" fill="#6E7872" opacity="0.24"/>
+  <rect x="96" y="110" width="32" height="6" rx="2" fill="#1D5C43" opacity="0.34"/>
+  <rect x="96" y="124" width="22" height="6" rx="2" fill="#6E7872" opacity="0.16"/>
+  <rect x="96" y="138" width="28" height="6" rx="2" fill="#6E7872" opacity="0.16"/>
 
   <!-- Header panel -->
-  <rect x="146" y="84" width="160" height="26" rx="4" stroke="#2E2D2D" stroke-width="1.5" fill="#C026D3" fill-opacity="0.08"/>
-  <rect x="158" y="93" width="62" height="5" rx="2" fill="#2E2D2D" opacity="0.24"/>
-  <circle cx="292" cy="97" r="6" stroke="#2E2D2D" stroke-width="1.5" fill="#7C3AED" fill-opacity="0.18"/>
+  <rect x="146" y="84" width="160" height="26" rx="4" stroke="#6E7872" stroke-width="1.5" fill="#AFCDBB" fill-opacity="0.08"/>
+  <rect x="158" y="93" width="62" height="5" rx="2" fill="#6E7872" opacity="0.24"/>
+  <circle cx="292" cy="97" r="6" stroke="#6E7872" stroke-width="1.5" fill="#1D5C43" fill-opacity="0.18"/>
 
   <!-- Cards -->
-  <rect x="146" y="120" width="74" height="52" rx="5" stroke="#2E2D2D" stroke-width="1.5" fill="#7C3AED" fill-opacity="0.12"/>
-  <rect x="156" y="132" width="34" height="5" rx="2" fill="#2E2D2D" opacity="0.24"/>
-  <rect x="156" y="144" width="46" height="8" rx="2" fill="#7C3AED" opacity="0.28"/>
-  <rect x="158" y="156" width="6" height="8" rx="1" fill="#7C3AED" opacity="0.4"/>
-  <rect x="168" y="152" width="6" height="12" rx="1" fill="#A855F7" opacity="0.4"/>
-  <rect x="178" y="154" width="6" height="10" rx="1" fill="#7C3AED" opacity="0.4"/>
+  <rect x="146" y="120" width="74" height="52" rx="5" stroke="#6E7872" stroke-width="1.5" fill="#1D5C43" fill-opacity="0.12"/>
+  <rect x="156" y="132" width="34" height="5" rx="2" fill="#6E7872" opacity="0.24"/>
+  <rect x="156" y="144" width="46" height="8" rx="2" fill="#1D5C43" opacity="0.28"/>
+  <rect x="158" y="156" width="6" height="8" rx="1" fill="#1D5C43" opacity="0.4"/>
+  <rect x="168" y="152" width="6" height="12" rx="1" fill="#C39033" opacity="0.4"/>
+  <rect x="178" y="154" width="6" height="10" rx="1" fill="#1D5C43" opacity="0.4"/>
 
-  <rect x="232" y="120" width="74" height="52" rx="5" stroke="#2E2D2D" stroke-width="1.5" fill="#A855F7" fill-opacity="0.1"/>
-  <rect x="242" y="132" width="36" height="5" rx="2" fill="#2E2D2D" opacity="0.24"/>
-  <polyline points="244,158 254,150 266,154 278,144 292,138" stroke="#2E2D2D" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="232" y="120" width="74" height="52" rx="5" stroke="#6E7872" stroke-width="1.5" fill="#C39033" fill-opacity="0.1"/>
+  <rect x="242" y="132" width="36" height="5" rx="2" fill="#6E7872" opacity="0.24"/>
+  <polyline points="244,158 254,150 266,154 278,144 292,138" stroke="#6E7872" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 
-  <rect x="146" y="180" width="160" height="34" rx="5" stroke="#2E2D2D" stroke-width="1.5" fill="#C026D3" fill-opacity="0.08"/>
-  <rect x="158" y="190" width="72" height="5" rx="2" fill="#2E2D2D" opacity="0.2"/>
-  <rect x="158" y="201" width="126" height="5" rx="2" fill="#2E2D2D" opacity="0.14"/>
+  <rect x="146" y="180" width="160" height="34" rx="5" stroke="#6E7872" stroke-width="1.5" fill="#AFCDBB" fill-opacity="0.08"/>
+  <rect x="158" y="190" width="72" height="5" rx="2" fill="#6E7872" opacity="0.2"/>
+  <rect x="158" y="201" width="126" height="5" rx="2" fill="#6E7872" opacity="0.14"/>
 
   <!-- Stand -->
-  <rect x="176" y="244" width="44" height="22" rx="3" stroke="#2E2D2D" stroke-width="3" fill="#2E2D2D" fill-opacity="0.06"/>
-  <ellipse cx="198" cy="270" rx="52" ry="8" stroke="#2E2D2D" stroke-width="3" fill="#2E2D2D" fill-opacity="0.05"/>
+  <rect x="176" y="244" width="44" height="22" rx="3" stroke="#6E7872" stroke-width="3" fill="#6E7872" fill-opacity="0.06"/>
+  <ellipse cx="198" cy="270" rx="52" ry="8" stroke="#6E7872" stroke-width="3" fill="#6E7872" fill-opacity="0.05"/>
 
   <!-- Sticky note -->
-  <rect x="348" y="78" width="34" height="34" rx="4" stroke="#2E2D2D" stroke-width="2" fill="#7C3AED" fill-opacity="0.14" transform="rotate(4 365 95)"/>
-  <line x1="354" y1="90" x2="374" y2="90" stroke="#2E2D2D" stroke-width="1.5" opacity="0.26" transform="rotate(4 365 95)"/>
-  <line x1="354" y1="100" x2="370" y2="100" stroke="#2E2D2D" stroke-width="1.5" opacity="0.2" transform="rotate(4 365 95)"/>
+  <rect x="348" y="78" width="34" height="34" rx="4" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.14" transform="rotate(4 365 95)"/>
+  <line x1="354" y1="90" x2="374" y2="90" stroke="#6E7872" stroke-width="1.5" opacity="0.26" transform="rotate(4 365 95)"/>
+  <line x1="354" y1="100" x2="370" y2="100" stroke="#6E7872" stroke-width="1.5" opacity="0.2" transform="rotate(4 365 95)"/>
 
   <!-- Coffee cup shadow -->
   <ellipse cx="88" cy="320" rx="34" ry="8" fill="#000" opacity="0.06"/>
   <!-- Coffee cup -->
-  <path d="M56 278 L60 318 Q60 328 72 328 L104 328 Q116 328 116 318 L120 278 Z" stroke="#2E2D2D" stroke-width="2.5" fill="#A855F7" fill-opacity="0.12"/>
+  <path d="M56 278 L60 318 Q60 328 72 328 L104 328 Q116 328 116 318 L120 278 Z" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.12"/>
   <!-- Cup handle -->
-  <path d="M120 288 C134 288 140 298 136 310 L116 310" stroke="#2E2D2D" stroke-width="2.5" fill="none"/>
+  <path d="M120 288 C134 288 140 298 136 310 L116 310" stroke="#6E7872" stroke-width="2.5" fill="none"/>
   <!-- Steam -->
-  <path d="M76 270 C76 262 84 262 84 252" stroke="#2E2D2D" stroke-width="1.5" fill="none" opacity="0.25" stroke-linecap="round"/>
-  <path d="M94 268 C94 260 102 260 102 250" stroke="#2E2D2D" stroke-width="1.5" fill="none" opacity="0.25" stroke-linecap="round"/>
+  <path d="M76 270 C76 262 84 262 84 252" stroke="#6E7872" stroke-width="1.5" fill="none" opacity="0.25" stroke-linecap="round"/>
+  <path d="M94 268 C94 260 102 260 102 250" stroke="#6E7872" stroke-width="1.5" fill="none" opacity="0.25" stroke-linecap="round"/>
 
   <!-- Decorative dots -->
-  <circle cx="30" cy="96" r="3" fill="#7C3AED" opacity="0.24"/>
-  <circle cx="24" cy="134" r="2.5" fill="#A855F7" opacity="0.2"/>
-  <circle cx="348" cy="320" r="2.5" fill="#C026D3" opacity="0.2"/>
-  <circle cx="36" cy="330" r="2" fill="#7C3AED" opacity="0.18"/>
+  <circle cx="30" cy="96" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="24" cy="134" r="2.5" fill="#C39033" opacity="0.2"/>
+  <circle cx="348" cy="320" r="2.5" fill="#AFCDBB" opacity="0.2"/>
+  <circle cx="36" cy="330" r="2" fill="#1D5C43" opacity="0.18"/>
   <!-- Decorative lines -->
-  <line x1="16" y1="190" x2="38" y2="190" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
-  <line x1="322" y1="336" x2="344" y2="336" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+  <line x1="16" y1="190" x2="38" y2="190" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+  <line x1="322" y1="336" x2="344" y2="336" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
 </svg>

@@ -56,8 +56,6 @@
 
 /* --- Lists and quotes ---------------------------------------------------- */
 
-[dir="rtl"] ul,
-[dir="rtl"] ol,
 [dir="rtl"] .article-content ol,
 [dir="rtl"] .columns-text ul,
 [dir="rtl"] .columns-text ol {
@@ -98,6 +96,11 @@
 [dir="rtl"] .nested-children {
     border-left: none;
     border-right: 1px dashed var(--border);
+}
+
+/* Logo marquee: the loop translates by -50%, which only works on a left-to-right track */
+[dir="rtl"] .logos-marquee .logos-container {
+    direction: ltr;
 }
 
 /* --- Header, sidebars, main --------------------------------------------- */

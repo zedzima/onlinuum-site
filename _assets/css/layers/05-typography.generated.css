@@ -1,7 +1,7 @@
 /* Auto-generated from sites/onlinuum/typography.yml. Do not edit by hand. */
 
 :root {
-    --font-catalog-jetbrains-mono: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
+    --font-catalog-jetbrains-mono: 'JetBrains Mono', 'Onlinuum Arabic', 'Onlinuum Hebrew', 'SF Mono', 'Fira Code', monospace;
 
     --typo-display-font-family: var(--font-catalog-jetbrains-mono);
     --typo-display-size-desktop: 49px;

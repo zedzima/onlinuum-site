@@ -147,9 +147,52 @@
     unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 
+/* Arabic and Hebrew: JetBrains Mono has no glyphs for these scripts, so browsers fell back to
+   the system Courier New at the same pixel size, where they read visibly smaller than the Latin
+   text. Same face, scaled only for these ranges; Latin on RTL pages keeps JetBrains Mono. */
+@font-face {
+    font-family: 'Onlinuum Arabic';
+    font-style: normal;
+    font-weight: 100 599;
+    font-display: swap;
+    src: local('Courier New'), local('CourierNewPSMT');
+    size-adjust: 125%;
+    unicode-range: U+0600-06FF, U+0750-077F, U+0870-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: 'Onlinuum Arabic';
+    font-style: normal;
+    font-weight: 600 900;
+    font-display: swap;
+    src: local('Courier New Bold'), local('CourierNewPS-BoldMT');
+    size-adjust: 125%;
+    unicode-range: U+0600-06FF, U+0750-077F, U+0870-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: 'Onlinuum Hebrew';
+    font-style: normal;
+    font-weight: 100 599;
+    font-display: swap;
+    src: local('Courier New'), local('CourierNewPSMT');
+    size-adjust: 115%;
+    unicode-range: U+0590-05FF, U+FB1D-FB4F;
+}
+
+@font-face {
+    font-family: 'Onlinuum Hebrew';
+    font-style: normal;
+    font-weight: 600 900;
+    font-display: swap;
+    src: local('Courier New Bold'), local('CourierNewPS-BoldMT');
+    size-adjust: 115%;
+    unicode-range: U+0590-05FF, U+FB1D-FB4F;
+}
+
 :root {
     /* Font */
-    --font-mono: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
+    --font-mono: 'JetBrains Mono', 'Onlinuum Arabic', 'Onlinuum Hebrew', 'SF Mono', 'Fira Code', monospace;
 
     /* Base scale factor - increases on wide screens */
     --scale: 1;

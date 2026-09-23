@@ -973,7 +973,7 @@ p:last-child { margin-bottom: 0; }
 
 ul, ol {
     margin: var(--type-body-gap) 0;
-    padding-left: var(--space-lg);
+    padding-inline-start: var(--space-lg);
     color: var(--text-primary);
 }
 

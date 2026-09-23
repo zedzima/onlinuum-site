@@ -6063,7 +6063,7 @@ a.cards-link:hover {
    ================================================================ */
 
 .sidebar-toc .toc { list-style: none; padding: 0; margin: 0; }
-            .sidebar-toc .toc ul { list-style: none; padding: 0 0 0 0.75rem; margin: 0; }
+            .sidebar-toc .toc ul { list-style: none; padding: 0; padding-inline-start: 0.75rem; margin: 0; }
             .sidebar-toc .toc li { margin-bottom: 0.125rem; }
             .sidebar-toc .toc a {
                 color: var(--text-muted);

@@ -2,47 +2,47 @@
   <!-- Nib shadow -->
   <path d="M205 63 L296 154 L205 334 L114 154 Z" fill="#000" opacity="0.08" transform="translate(3,3)"/>
   <!-- Pen nib -->
-  <path d="M202 60 L293 151 L202 331 L111 151 Z" stroke="#2E2D2D" stroke-width="3.5" fill="#7C3AED" fill-opacity="0.12" stroke-linejoin="round"/>
+  <path d="M202 60 L293 151 L202 331 L111 151 Z" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.12" stroke-linejoin="round"/>
   <!-- Nib face -->
-  <path d="M202 96 L254 148 L202 280 L150 148 Z" stroke="#2E2D2D" stroke-width="2.5" fill="white" fill-opacity="0.38" stroke-linejoin="round"/>
+  <path d="M202 96 L254 148 L202 280 L150 148 Z" stroke="#6E7872" stroke-width="2.5" fill="white" fill-opacity="0.38" stroke-linejoin="round"/>
   <!-- Nib slit -->
-  <line x1="202" y1="122" x2="202" y2="264" stroke="#2E2D2D" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="202" y1="122" x2="202" y2="264" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round"/>
   <!-- Breather hole -->
-  <circle cx="202" cy="178" r="10" stroke="#2E2D2D" stroke-width="2" fill="#C026D3" fill-opacity="0.12"/>
+  <circle cx="202" cy="178" r="10" stroke="#6E7872" stroke-width="2" fill="#AFCDBB" fill-opacity="0.12"/>
   <!-- Nib shoulders -->
-  <path d="M170 126 Q186 140 202 140 Q218 140 234 126" stroke="#2E2D2D" stroke-width="1.8" fill="none" opacity="0.18"/>
+  <path d="M170 126 Q186 140 202 140 Q218 140 234 126" stroke="#6E7872" stroke-width="1.8" fill="none" opacity="0.18"/>
 
   <!-- Bezier path -->
-  <path d="M68 290 C112 214 156 228 206 194 C254 160 288 148 334 92" stroke="#7C3AED" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M68 290 C112 214 156 228 206 194 C254 160 288 148 334 92" stroke="#1D5C43" stroke-width="3.5" fill="none" stroke-linecap="round"/>
   <!-- Handle guides -->
-  <line x1="72" y1="290" x2="118" y2="214" stroke="#A855F7" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.35"/>
-  <line x1="334" y1="92" x2="286" y2="150" stroke="#A855F7" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.35"/>
+  <line x1="72" y1="290" x2="118" y2="214" stroke="#C39033" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.35"/>
+  <line x1="334" y1="92" x2="286" y2="150" stroke="#C39033" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.35"/>
   <!-- Nodes -->
-  <rect x="62" y="284" width="14" height="14" rx="2" stroke="#2E2D2D" stroke-width="2.5" fill="#7C3AED" fill-opacity="0.18"/>
-  <rect x="199" y="187" width="14" height="14" rx="2" stroke="#2E2D2D" stroke-width="2.5" fill="#A855F7" fill-opacity="0.18"/>
-  <rect x="327" y="85" width="14" height="14" rx="2" stroke="#2E2D2D" stroke-width="2.5" fill="#C026D3" fill-opacity="0.18"/>
-  <circle cx="118" cy="214" r="6" stroke="#2E2D2D" stroke-width="2" fill="white" fill-opacity="0.4"/>
-  <circle cx="286" cy="150" r="6" stroke="#2E2D2D" stroke-width="2" fill="white" fill-opacity="0.4"/>
+  <rect x="62" y="284" width="14" height="14" rx="2" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.18"/>
+  <rect x="199" y="187" width="14" height="14" rx="2" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.18"/>
+  <rect x="327" y="85" width="14" height="14" rx="2" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.18"/>
+  <circle cx="118" cy="214" r="6" stroke="#6E7872" stroke-width="2" fill="white" fill-opacity="0.4"/>
+  <circle cx="286" cy="150" r="6" stroke="#6E7872" stroke-width="2" fill="white" fill-opacity="0.4"/>
 
   <!-- Palette card -->
   <rect x="40" y="88" width="74" height="52" rx="8" fill="#000" opacity="0.08" transform="translate(3,3)"/>
-  <rect x="37" y="85" width="74" height="52" rx="8" stroke="#2E2D2D" stroke-width="2" fill="#A855F7" fill-opacity="0.12"/>
-  <circle cx="54" cy="102" r="6" fill="#7C3AED" opacity="0.35"/>
-  <circle cx="74" cy="102" r="6" fill="#A855F7" opacity="0.35"/>
-  <circle cx="94" cy="102" r="6" fill="#C026D3" opacity="0.35"/>
-  <line x1="48" y1="122" x2="98" y2="122" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
+  <rect x="37" y="85" width="74" height="52" rx="8" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.12"/>
+  <circle cx="54" cy="102" r="6" fill="#1D5C43" opacity="0.35"/>
+  <circle cx="74" cy="102" r="6" fill="#C39033" opacity="0.35"/>
+  <circle cx="94" cy="102" r="6" fill="#AFCDBB" opacity="0.35"/>
+  <line x1="48" y1="122" x2="98" y2="122" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
 
   <!-- Small precision badge -->
-  <circle cx="314" cy="288" r="22" stroke="#2E2D2D" stroke-width="2" fill="#C026D3" fill-opacity="0.1"/>
-  <path d="M302 292 Q314 278 326 292" stroke="#2E2D2D" stroke-width="2" fill="none" stroke-linecap="round"/>
-  <circle cx="314" cy="278" r="4" fill="#2E2D2D" opacity="0.25"/>
+  <circle cx="314" cy="288" r="22" stroke="#6E7872" stroke-width="2" fill="#AFCDBB" fill-opacity="0.1"/>
+  <path d="M302 292 Q314 278 326 292" stroke="#6E7872" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="314" cy="278" r="4" fill="#6E7872" opacity="0.25"/>
 
   <!-- Decorative dots -->
-  <circle cx="350" cy="54" r="3" fill="#7C3AED" opacity="0.24"/>
-  <circle cx="366" cy="72" r="2.5" fill="#A855F7" opacity="0.22"/>
-  <circle cx="42" cy="236" r="2.5" fill="#C026D3" opacity="0.2"/>
-  <circle cx="338" cy="350" r="2" fill="#7C3AED" opacity="0.18"/>
+  <circle cx="350" cy="54" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="366" cy="72" r="2.5" fill="#C39033" opacity="0.22"/>
+  <circle cx="42" cy="236" r="2.5" fill="#AFCDBB" opacity="0.2"/>
+  <circle cx="338" cy="350" r="2" fill="#1D5C43" opacity="0.18"/>
   <!-- Decorative lines -->
-  <line x1="318" y1="332" x2="342" y2="332" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
-  <line x1="24" y1="320" x2="42" y2="320" stroke="#2E2D2D" stroke-width="1.5" stroke-linecap="round" opacity="0.1"/>
+  <line x1="318" y1="332" x2="342" y2="332" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+  <line x1="24" y1="320" x2="42" y2="320" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.1"/>
 </svg>
