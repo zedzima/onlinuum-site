@@ -98,7 +98,7 @@
       "service_count": 4,
       "scope_count": 6,
       "solution_count": 2,
-      "case_count": 2,
+      "case_count": 1,
       "expert_count": 3,
       "facets": {
         "scopes": [
@@ -115,7 +115,6 @@
           "alaaddin-saracyakupoglu"
         ],
         "cases": [
-          "ecommerce-migration-2025",
           "alvadi"
         ],
         "solutions": [
@@ -200,7 +199,6 @@
       "ppc-specialist": "퍼포먼스 마케터"
     },
     "cases": {
-      "ecommerce-migration-2025": "이커머스 플랫폼 이전",
       "alvadi": "ALVADI"
     },
     "blog-posts": {

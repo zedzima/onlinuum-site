@@ -2631,9 +2631,6 @@
           "gael-balouek",
           "alaaddin-saracyakupoglu"
         ],
-        "cases": [
-          "ecommerce-migration-2025"
-        ],
         "solutions": [
           "b2b-digital-marketing",
           "digital-marketing-consulting",
@@ -2754,7 +2751,7 @@
           "seo-expert"
         ]
       },
-      "case_count": 1,
+      "case_count": 0,
       "article_count": 2
     },
     {
@@ -3453,8 +3450,7 @@
     },
     "cases": {
       "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group",
-      "ecommerce-migration-2025": "E-commerce Migration"
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

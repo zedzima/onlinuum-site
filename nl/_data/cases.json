@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "SEO Migratie Case: 120% Verkeersherstel",
-      "card_title": "SEO-migratie van een e-commerceplatform",
-      "description": "Hoe we na een website migratie van een e-commerceplatform 120% van het organische verkeer herstelden met een technische SEO-audit en een redirectplan.",
-      "menu": "E-commercemigratie",
-      "featured": false,
-      "client": "Moderetailer — Duitsland",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "Verkeersherstel"
-        },
-        {
-          "value": "3 maanden",
-          "label": "Doorlooptijd"
-        },
-        {
-          "value": "15.000",
-          "label": "Omgeleide URL's"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "Verkeersherstel"
-      },
-      "timeline": {
-        "value": "3 maanden",
-        "label": "Doorlooptijd"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "Zoekmachinemarketing"
     },
     "scopes": {
-      "google-ads-search": "Google Ads-zoekcampagnes",
-      "technical-seo": "Technische SEO"
+      "google-ads-search": "Google Ads-zoekcampagnes"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun"
     },
     "services": {
-      "ppc": "SEA",
-      "seo": "SEO"
+      "ppc": "SEA"
     },
     "industries": {
       "ecommerce": "Webshops",

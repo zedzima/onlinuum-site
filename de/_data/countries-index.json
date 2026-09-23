@@ -80,7 +80,7 @@
       "scope_count": 9,
       "service_count": 5,
       "expert_count": 2,
-      "case_count": 1,
+      "case_count": 0,
       "solution_count": 2,
       "facets": {
         "domains": [
@@ -102,9 +102,6 @@
         "experts": [
           "dima-gerko",
           "vitali-bakun"
-        ],
-        "cases": [
-          "ecommerce-migration-2025"
         ],
         "solutions": [
           "digital-marketing-consulting",
@@ -165,8 +162,7 @@
     },
     "cases": {
       "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group",
-      "ecommerce-migration-2025": "E-Commerce-Relaunch"
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
       "digital-marketing-consulting": "Online-Marketing-Beratung",

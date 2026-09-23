@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "Міграція магазину: 301 редирект без втрат",
-      "card_title": "Міграція магазину: 301 редирект",
-      "description": "Як ми повернули 120 % органічного трафіку після міграції інтернет-магазину: технічний аудит і карта 301 редиректів. Читайте кейс.",
-      "menu": "Міграція інтернет-магазину",
-      "featured": false,
-      "client": "Fashion-рітейлер — Німеччина",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "Відновлення трафіку"
-        },
-        {
-          "value": "3 місяці",
-          "label": "Термін"
-        },
-        {
-          "value": "15 000",
-          "label": "URL з редиректами"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "Відновлення трафіку"
-      },
-      "timeline": {
-        "value": "3 місяці",
-        "label": "Термін"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "Пошуковий маркетинг"
     },
     "scopes": {
-      "google-ads-search": "Пошук у Google Ads",
-      "technical-seo": "Технічне SEO"
+      "google-ads-search": "Пошук у Google Ads"
     },
     "experts": {
       "dima-gerko": "Діма Герко",
       "vitali-bakun": "Віталій Бакун"
     },
     "services": {
-      "ppc": "PPC",
-      "seo": "SEO"
+      "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "Інтернет-магазини",

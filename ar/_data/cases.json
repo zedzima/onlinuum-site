@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "زيادة زيارات الموقع 120% بعد ترحيل المتجر",
-      "card_title": "زيادة زيارات الموقع بعد ترحيل منصة المتجر",
-      "description": "كيف استعدنا 120% من الزيارات العضوية بعد ترحيل منصة التجارة الإلكترونية، عبر تدقيق تقني وخريطة إعادة توجيه. اقرأوا دراسة الحالة.",
-      "menu": "ترحيل متجر إلكتروني",
-      "featured": false,
-      "client": "متجر أزياء للتجزئة — ألمانيا",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "استعادة الزيارات"
-        },
-        {
-          "value": "3 أشهر",
-          "label": "المدة الزمنية"
-        },
-        {
-          "value": "15,000",
-          "label": "رابط أُعيد توجيهه"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "استعادة الزيارات"
-      },
-      "timeline": {
-        "value": "3 أشهر",
-        "label": "المدة الزمنية"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "التسويق عبر محركات البحث"
     },
     "scopes": {
-      "google-ads-search": "إعلانات جوجل للبحث",
-      "technical-seo": "السيو التقني"
+      "google-ads-search": "إعلانات جوجل للبحث"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
       "vitali-bakun": "فيتالي باكون"
     },
     "services": {
-      "ppc": "PPC",
-      "seo": "سيو SEO"
+      "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "التجارة الإلكترونية",

@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "サイトリニューアルとSEO｜移行後に流入を120%回復した事例",
-      "card_title": "ECサイトリニューアルとSEO移行",
-      "description": "ECサイトリニューアル後に失った検索流入を、テクニカルSEOの診断とリダイレクト設計で120%まで回復させた事例です。サイト移転やドメイン変更の注意点もご確認ください。",
-      "menu": "ECサイトリニューアル",
-      "featured": false,
-      "client": "ファッション小売企業・ドイツ",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "流入の回復率"
-        },
-        {
-          "value": "3か月",
-          "label": "期間"
-        },
-        {
-          "value": "15,000",
-          "label": "リダイレクトしたURL"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "流入の回復率"
-      },
-      "timeline": {
-        "value": "3か月",
-        "label": "期間"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "検索マーケティング"
     },
     "scopes": {
-      "google-ads-search": "Google広告・検索広告",
-      "technical-seo": "テクニカルSEO"
+      "google-ads-search": "Google広告・検索広告"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
       "vitali-bakun": "ヴィタリー・バクン"
     },
     "services": {
-      "ppc": "リスティング広告",
-      "seo": "SEO対策"
+      "ppc": "リスティング広告"
     },
     "industries": {
       "ecommerce": "EC",

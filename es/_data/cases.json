@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "Migración Web: Caso de Recuperación del 120%",
-      "card_title": "Migración web de plataforma ecommerce",
-      "description": "Cómo recuperamos el 120 % del tráfico orgánico tras una migración web de plataforma ecommerce, con auditoría de SEO técnico y mapa de redirecciones.",
-      "menu": "Migración ecommerce",
-      "featured": false,
-      "client": "Minorista de moda, Alemania",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120 %",
-          "label": "Recuperación de tráfico"
-        },
-        {
-          "value": "3 meses",
-          "label": "Plazo"
-        },
-        {
-          "value": "15.000",
-          "label": "URL redirigidas"
-        }
-      ],
-      "primary_result": {
-        "value": "120 %",
-        "label": "Recuperación de tráfico"
-      },
-      "timeline": {
-        "value": "3 meses",
-        "label": "Plazo"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "Marketing en buscadores"
     },
     "scopes": {
-      "google-ads-search": "Búsqueda en Google Ads",
-      "technical-seo": "SEO técnico"
+      "google-ads-search": "Búsqueda en Google Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun"
     },
     "services": {
-      "ppc": "PPC",
-      "seo": "SEO"
+      "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "Ecommerce",

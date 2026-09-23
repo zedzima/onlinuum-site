@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "הפניות 301 והעברת אתר: שחזור 120% מהתנועה",
-      "card_title": "העברת פלטפורמת מסחר והפניות 301",
-      "description": "איך שחזרנו 120% מהתנועה האורגנית אחרי העברת חנות וירטואלית לפלטפורמה חדשה, עם אודיט SEO טכני ומיפוי הפניות 301. קראו את הקייס.",
-      "menu": "העברת חנות וירטואלית",
-      "featured": false,
-      "client": "קמעונאית אופנה — גרמניה",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "שחזור תנועה"
-        },
-        {
-          "value": "3 חודשים",
-          "label": "משך הפרויקט"
-        },
-        {
-          "value": "15,000",
-          "label": "כתובות שהופנו"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "שחזור תנועה"
-      },
-      "timeline": {
-        "value": "3 חודשים",
-        "label": "משך הפרויקט"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "שיווק במנועי חיפוש"
     },
     "scopes": {
-      "google-ads-search": "קמפיין חיפוש בגוגל",
-      "technical-seo": "קידום אתרים טכני"
+      "google-ads-search": "קמפיין חיפוש בגוגל"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
       "vitali-bakun": "ויטלי בקון"
     },
     "services": {
-      "ppc": "PPC",
-      "seo": "קידום אתרים"
+      "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "מסחר אלקטרוני",

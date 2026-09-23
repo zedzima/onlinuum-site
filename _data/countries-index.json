@@ -1589,7 +1589,7 @@
       "scope_count": 35,
       "service_count": 17,
       "expert_count": 8,
-      "case_count": 1,
+      "case_count": 0,
       "solution_count": 10,
       "facets": {
         "domains": [
@@ -1649,9 +1649,6 @@
           "mariia-nedbaievska",
           "muhammad-hijazi-siddiqui",
           "valentina-soldatkina"
-        ],
-        "cases": [
-          "ecommerce-migration-2025"
         ],
         "solutions": [
           "ai-visibility",
@@ -5365,8 +5362,7 @@
     },
     "cases": {
       "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group",
-      "ecommerce-migration-2025": "E-commerce Migration"
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

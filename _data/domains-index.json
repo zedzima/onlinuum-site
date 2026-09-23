@@ -1008,7 +1008,7 @@
       "service_count": 6,
       "scope_count": 19,
       "solution_count": 10,
-      "case_count": 2,
+      "case_count": 1,
       "expert_count": 12,
       "facets": {
         "scopes": [
@@ -1047,7 +1047,6 @@
           "valentina-soldatkina"
         ],
         "cases": [
-          "ecommerce-migration-2025",
           "alvadi"
         ],
         "solutions": [
@@ -1543,8 +1542,7 @@
     },
     "cases": {
       "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group",
-      "ecommerce-migration-2025": "E-commerce Migration"
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "How AI Chooses Sources",

@@ -328,10 +328,9 @@
         "retail"
       ],
       "cases": [
-        "ecommerce-migration-2025",
         "alvadi"
       ],
-      "case_count": 2,
+      "case_count": 1,
       "article_count": 3,
       "facets": {
         "domains": [
@@ -367,7 +366,6 @@
           "transcreation"
         ],
         "cases": [
-          "ecommerce-migration-2025",
           "alvadi"
         ],
         "solutions": [
@@ -494,10 +492,8 @@
         "pharma",
         "retail"
       ],
-      "cases": [
-        "ecommerce-migration-2025"
-      ],
-      "case_count": 1,
+      "cases": [],
+      "case_count": 0,
       "article_count": 2,
       "facets": {
         "domains": [
@@ -517,9 +513,6 @@
           "link-building",
           "local-seo",
           "seo-audit"
-        ],
-        "cases": [
-          "ecommerce-migration-2025"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1414,7 +1407,6 @@
       "why-seo-matters-in-2026": "Why SEO Matters In 2026"
     },
     "cases": {
-      "ecommerce-migration-2025": "E-commerce Migration",
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
     }

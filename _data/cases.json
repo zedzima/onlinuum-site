@@ -140,71 +140,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "Ecommerce Migration Case Study: 120% Traffic Recovery",
-      "card_title": "E-commerce Platform Migration",
-      "description": "How we recovered 120% of organic traffic after an e-commerce platform migration, using a technical SEO audit and redirect mapping. Read the case study.",
-      "menu": "E-commerce Migration",
-      "featured": false,
-      "client": "Fashion Retailer — Germany",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "Traffic recovery"
-        },
-        {
-          "value": "3 months",
-          "label": "Timeline"
-        },
-        {
-          "value": "15,000",
-          "label": "URLs redirected"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "Traffic recovery"
-      },
-      "timeline": {
-        "value": "3 months",
-        "label": "Timeline"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko",
-          "dmitriy-razakhatsky"
-        ],
-        "solutions": [
-          "seo-ecommerce"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ],
-        "countries": [
-          "germany"
-        ],
-        "languages": [
-          "german"
-        ]
-      }
     }
   ],
   "labels": {
@@ -217,24 +152,20 @@
       "google-ads-search": "Google Ads Search",
       "content-localization": "Content Localization",
       "transcreation": "Transcreation",
-      "cross-market-setup": "International SEO Setup",
-      "technical-seo": "Technical SEO"
+      "cross-market-setup": "International SEO Setup"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun",
-      "elena-grakovich": "Elena Grakovich",
-      "dmitriy-razakhatsky": "Dmitry Rasakhatsky"
+      "elena-grakovich": "Elena Grakovich"
     },
     "solutions": {
       "international-marketing": "International Marketing",
-      "b2b-digital-marketing": "B2B Digital Marketing",
-      "seo-ecommerce": "SEO for E-commerce"
+      "b2b-digital-marketing": "B2B Digital Marketing"
     },
     "services": {
       "ppc": "PPC",
-      "web-development": "Web Development",
-      "seo": "SEO"
+      "web-development": "Web Development"
     },
     "industries": {
       "automotive": "Automotive",
@@ -244,14 +175,12 @@
     "countries": {
       "eu": "European Union",
       "estonia": "Estonia",
-      "latvia": "Latvia",
-      "germany": "Germany"
+      "latvia": "Latvia"
     },
     "languages": {
       "estonian": "Estonian",
       "latvian": "Latvian",
-      "english": "English",
-      "german": "German"
+      "english": "English"
     }
   }
 }

@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "Migrazione SEO di un Ecommerce senza Cali",
-      "card_title": "Migrazione SEO di una piattaforma ecommerce",
-      "description": "Come abbiamo recuperato il 120% del traffico organico dopo la migrazione di un sito ecommerce, con audit di SEO tecnica e mappa dei redirect 301.",
-      "menu": "Migrazione ecommerce",
-      "featured": false,
-      "client": "Retailer di moda — Germania",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "Traffico recuperato"
-        },
-        {
-          "value": "3 mesi",
-          "label": "Tempi"
-        },
-        {
-          "value": "15.000",
-          "label": "URL reindirizzati"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "Traffico recuperato"
-      },
-      "timeline": {
-        "value": "3 mesi",
-        "label": "Tempi"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "Search marketing"
     },
     "scopes": {
-      "google-ads-search": "Campagne Google Ads",
-      "technical-seo": "SEO tecnica"
+      "google-ads-search": "Campagne Google Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun"
     },
     "services": {
-      "ppc": "PPC",
-      "seo": "SEO"
+      "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "Ecommerce",

@@ -342,9 +342,6 @@
           "dima-gerko",
           "alaaddin-saracyakupoglu"
         ],
-        "cases": [
-          "ecommerce-migration-2025"
-        ],
         "solutions": [
           "digital-marketing-consulting",
           "multilingual-seo"
@@ -372,7 +369,7 @@
           "seo-expert"
         ]
       },
-      "case_count": 1,
+      "case_count": 0,
       "article_count": 2
     },
     {
@@ -455,8 +452,7 @@
     },
     "cases": {
       "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group",
-      "ecommerce-migration-2025": "이커머스 플랫폼 이전"
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "seo-packages-comparison": "SEO 패키지 비교",

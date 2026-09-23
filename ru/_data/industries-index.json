@@ -277,7 +277,7 @@
       "scope_count": 34,
       "service_count": 18,
       "expert_count": 9,
-      "case_count": 2,
+      "case_count": 1,
       "solution_count": 10,
       "facets": {
         "domains": [
@@ -339,7 +339,6 @@
           "mariia-nedbaievska"
         ],
         "cases": [
-          "ecommerce-migration-2025",
           "alvadi"
         ],
         "solutions": [
@@ -1899,7 +1898,6 @@
     },
     "cases": {
       "alvadi": "ALVADI",
-      "ecommerce-migration-2025": "Миграция e-commerce",
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {

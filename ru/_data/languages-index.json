@@ -1143,7 +1143,7 @@
       "scope_count": 34,
       "service_count": 17,
       "expert_count": 5,
-      "case_count": 1,
+      "case_count": 0,
       "solution_count": 10,
       "facets": {
         "domains": [
@@ -1199,9 +1199,6 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "valentina-soldatkina"
-        ],
-        "cases": [
-          "ecommerce-migration-2025"
         ],
         "solutions": [
           "ai-visibility",
@@ -3309,8 +3306,7 @@
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",
-      "alvadi": "ALVADI",
-      "ecommerce-migration-2025": "Миграция e-commerce"
+      "alvadi": "ALVADI"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",

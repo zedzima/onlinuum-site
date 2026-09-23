@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "홈페이지 리뉴얼 SEO 사례: 트래픽 120% 회복",
-      "card_title": "이커머스 플랫폼 이전과 홈페이지 리뉴얼",
-      "description": "이커머스 플랫폼 이전 후 기술 점검과 리다이렉션 매핑으로 자연 검색 트래픽을 120% 회복한 홈페이지 리뉴얼 SEO 사례입니다. 3개월의 작업 과정을 확인해 보세요.",
-      "menu": "이커머스 플랫폼 이전",
-      "featured": false,
-      "client": "패션 리테일 기업 · 독일",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "트래픽 회복"
-        },
-        {
-          "value": "3개월",
-          "label": "작업 기간"
-        },
-        {
-          "value": "15,000",
-          "label": "리다이렉트한 URL"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "트래픽 회복"
-      },
-      "timeline": {
-        "value": "3개월",
-        "label": "작업 기간"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "검색엔진 마케팅"
     },
     "scopes": {
-      "google-ads-search": "구글 검색광고",
-      "technical-seo": "테크니컬 SEO"
+      "google-ads-search": "구글 검색광고"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
       "vitali-bakun": "비탈리 바쿤"
     },
     "services": {
-      "ppc": "검색광고",
-      "seo": "SEO 대행"
+      "ppc": "검색광고"
     },
     "industries": {
       "ecommerce": "이커머스",

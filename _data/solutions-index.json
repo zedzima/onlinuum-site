@@ -1518,7 +1518,7 @@
       "industry": "ecommerce",
       "starting_price": 1990.0,
       "expert_count": 7,
-      "case_count": 1,
+      "case_count": 0,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1541,9 +1541,6 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "gael-balouek"
-        ],
-        "cases": [
-          "ecommerce-migration-2025"
         ],
         "services": [
           "content",
@@ -1842,8 +1839,7 @@
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",
-      "alvadi": "ALVADI",
-      "ecommerce-migration-2025": "E-commerce Migration"
+      "alvadi": "ALVADI"
     }
   }
 }

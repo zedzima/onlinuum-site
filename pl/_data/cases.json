@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "Migracja sklepu: 120% odzyskanego ruchu organicznego",
-      "card_title": "Migracja sklepu internetowego",
-      "description": "Jak odzyskaliśmy 120% ruchu organicznego po migracji sklepu internetowego dzięki audytowi SEO technicznemu i mapie przekierowań 301. Zobacz case study.",
-      "menu": "Migracja e-commerce",
-      "featured": false,
-      "client": "Sieć odzieżowa — Niemcy",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "Odzyskanego ruchu"
-        },
-        {
-          "value": "3 miesiące",
-          "label": "Czas realizacji"
-        },
-        {
-          "value": "15 000",
-          "label": "Przekierowanych URL-i"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "Odzyskanego ruchu"
-      },
-      "timeline": {
-        "value": "3 miesiące",
-        "label": "Czas realizacji"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "Marketing w wyszukiwarkach"
     },
     "scopes": {
-      "google-ads-search": "Reklama w Google",
-      "technical-seo": "SEO techniczne"
+      "google-ads-search": "Reklama w Google"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun"
     },
     "services": {
-      "ppc": "Google Ads",
-      "seo": "Pozycjonowanie"
+      "ppc": "Google Ads"
     },
     "industries": {
       "ecommerce": "Sklepy internetowe",

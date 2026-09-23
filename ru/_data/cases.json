@@ -140,71 +140,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "Кейс миграции e-commerce: возврат 120% трафика",
-      "card_title": "Миграция e-commerce-платформы",
-      "description": "Как мы вернули 120% органического трафика после миграции e-commerce-платформы: технический SEO-аудит и карта редиректов. Читайте кейс.",
-      "menu": "Миграция e-commerce",
-      "featured": false,
-      "client": "Ритейлер одежды — Германия",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120%",
-          "label": "Восстановление трафика"
-        },
-        {
-          "value": "3 месяца",
-          "label": "Срок"
-        },
-        {
-          "value": "15 000",
-          "label": "URL с редиректами"
-        }
-      ],
-      "primary_result": {
-        "value": "120%",
-        "label": "Восстановление трафика"
-      },
-      "timeline": {
-        "value": "3 месяца",
-        "label": "Срок"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko",
-          "dmitriy-razakhatsky"
-        ],
-        "solutions": [
-          "seo-ecommerce"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ],
-        "countries": [
-          "germany"
-        ],
-        "languages": [
-          "german"
-        ]
-      }
     }
   ],
   "labels": {
@@ -217,24 +152,20 @@
       "google-ads-search": "Поиск в Google Ads",
       "content-localization": "Локализация контента",
       "transcreation": "Транскреация",
-      "cross-market-setup": "Настройка мультирегионального SEO",
-      "technical-seo": "Технический SEO"
+      "cross-market-setup": "Настройка мультирегионального SEO"
     },
     "experts": {
       "dima-gerko": "Дима Герко",
       "vitali-bakun": "Виталий Бакун",
-      "elena-grakovich": "Елена Гракович",
-      "dmitriy-razakhatsky": "Дмитрий Разахацкий"
+      "elena-grakovich": "Елена Гракович"
     },
     "solutions": {
       "international-marketing": "Международный маркетинг",
-      "b2b-digital-marketing": "B2B-маркетинг",
-      "seo-ecommerce": "SEO для интернет-магазинов"
+      "b2b-digital-marketing": "B2B-маркетинг"
     },
     "services": {
       "ppc": "Контекстная реклама",
-      "web-development": "Разработка сайтов",
-      "seo": "SEO"
+      "web-development": "Разработка сайтов"
     },
     "industries": {
       "automotive": "Автобизнес",
@@ -244,14 +175,12 @@
     "countries": {
       "eu": "Европейский союз",
       "estonia": "Эстония",
-      "latvia": "Латвия",
-      "germany": "Германия"
+      "latvia": "Латвия"
     },
     "languages": {
       "estonian": "Эстонский",
       "latvian": "Латышский",
-      "english": "Английский",
-      "german": "Немецкий"
+      "english": "Английский"
     }
   }
 }

@@ -116,61 +116,6 @@
           "english"
         ]
       }
-    },
-    {
-      "slug": "ecommerce-migration-2025",
-      "url": "/cases/ecommerce-migration-2025",
-      "title": "Migration SEO E-commerce : 120 % de Trafic Repris",
-      "card_title": "Migration de plateforme e-commerce",
-      "description": "Comment nous avons récupéré 120 % du trafic organique après une migration site e-commerce, avec audit SEO technique et plan de redirections.",
-      "menu": "Migration e-commerce",
-      "featured": false,
-      "client": "Enseigne de mode, Allemagne",
-      "image": "_media/illustrations/bar-chart.svg",
-      "image_mode": "contain",
-      "service": "seo",
-      "industry": "ecommerce",
-      "country": "germany",
-      "language": "german",
-      "results": [
-        {
-          "value": "120 %",
-          "label": "Trafic récupéré"
-        },
-        {
-          "value": "3 mois",
-          "label": "Délai"
-        },
-        {
-          "value": "15 000",
-          "label": "URL redirigées"
-        }
-      ],
-      "primary_result": {
-        "value": "120 %",
-        "label": "Trafic récupéré"
-      },
-      "timeline": {
-        "value": "3 mois",
-        "label": "Délai"
-      },
-      "facets": {
-        "domains": [
-          "search-marketing"
-        ],
-        "scopes": [
-          "technical-seo"
-        ],
-        "experts": [
-          "dima-gerko"
-        ],
-        "services": [
-          "seo"
-        ],
-        "industries": [
-          "ecommerce"
-        ]
-      }
     }
   ],
   "labels": {
@@ -178,16 +123,14 @@
       "search-marketing": "Search marketing"
     },
     "scopes": {
-      "google-ads-search": "Campagnes Google Ads",
-      "technical-seo": "SEO technique"
+      "google-ads-search": "Campagnes Google Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun"
     },
     "services": {
-      "ppc": "SEA",
-      "seo": "SEO"
+      "ppc": "SEA"
     },
     "industries": {
       "ecommerce": "E-commerce et retail",
