@@ -100,11 +100,6 @@
     border-right: 1px dashed var(--border);
 }
 
-[dir="rtl"] .nested-children li {
-    border-left: none;
-    border-right: 3px solid var(--accent-soft-border);
-}
-
 /* --- Header, sidebars, main --------------------------------------------- */
 
 [dir="rtl"] .sidebar-nav {

@@ -210,6 +210,7 @@
 
     /* Unified typography styles */
     --type-body-line: 1.7;
+    --measure-prose: 65ch;                                     /* max line length for prose and subtitles */
     --type-body-gap: var(--space-md);
     --type-body-item-gap: var(--space-sm);
     --type-heading-gap: calc(18px * var(--scale));

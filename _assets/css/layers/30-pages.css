@@ -3976,7 +3976,6 @@ a.cards-link:hover {
     padding: var(--space-sm) var(--space-md);
     background: var(--bg-card);
     border: 1px solid var(--border);
-    border-left: 3px solid var(--accent-soft-border);
     border-radius: var(--radius-md);
     font-size: var(--font-size-body);
 }
@@ -6244,6 +6243,33 @@ a.cards-link:hover {
     font-weight: var(--type-subtitle-weight);
     line-height: var(--type-subtitle-line);
     margin-bottom: var(--space-xl);
+}
+
+/* Readable measure. :where() keeps specificity at zero, so block-specific
+   max-widths defined above still win. Auto inline margins re-center the
+   capped box in centered contexts and are a no-op on uncapped blocks. */
+:where(
+    .block-subtitle,
+    .cards-subtitle,
+    .columns-subtitle,
+    .sections-subtitle,
+    .process-subtitle,
+    .cta-subtitle,
+    .sections-text,
+    .columns-note-text,
+    .faq-answer p,
+    .comparison-conclusion p
+) {
+    max-width: var(--measure-prose);
+}
+
+.text-center > p,
+.text-centered > p,
+.pillars-header > p,
+.comparison-conclusion > p,
+.cta-inner > p,
+.logos-title {
+    margin-inline: auto;
 }
 
 /* Unified technical text style */
