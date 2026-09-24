@@ -337,7 +337,7 @@
     } catch (e) {}
     
     </script>
-    <script src="/_assets/js/cards.js?v=545a6761" defer></script>
+    <script src="/_assets/js/cards.js?v=7170ebef" defer></script>
 
     <!-- Analytics (skip on block demo pages) -->
     
@@ -3025,20 +3025,11 @@
             </div>
             
             <div class="block">
-                <!-- Catalog Mini Block: Simplified entity grid with dimension filtering -->
-<!-- Supports: standard (relationships-based), dimension/value filter, siblings_by, reverse_filter -->
-
-
-
-
-    
-
-
-
-
-    
-    
-
+                <!-- Catalog Mini Block: compact entity carousel.
+     Supports: standard (relationships-based), dimension/value filter, siblings_by, reverse_filter.
+     The entries are resolved and rendered at build time (core/src/catalog_ssr.py reproduces the
+     filter modes; inject_catalog_mini_modes() pre-resolves siblings_by / reverse_filter into
+     data.resolved_slugs). The script below only drives the prev/next buttons. -->
 
 
 
@@ -3377,7 +3368,6 @@
 
 
 
-
 <a href="/ru/team/dima-gerko/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -3405,32 +3395,32 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Austria">🇦🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Австрия">🇦🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
         </div>
         
@@ -3475,7 +3465,6 @@
 
 
 
-
 <a href="/ru/team/elena-grakovich/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -3503,28 +3492,28 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
         </div>
         
@@ -3724,7 +3713,6 @@
 
 
 
-
 <a href="/ru/industries/ecommerce/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Интернет-магазины</div>
@@ -3757,7 +3745,6 @@
             
             
                 
-
 
 
 
@@ -3836,7 +3823,6 @@
 
 
 
-
 <a href="/ru/industries/fmcg/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">FMCG</div>
@@ -3892,7 +3878,6 @@
 
 
 
-
 <a href="/ru/industries/game-studios/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Игровые студии</div>
@@ -3925,7 +3910,6 @@
             
             
                 
-
 
 
 
@@ -4021,7 +4005,6 @@
 
 
 
-
     
     
 
@@ -4060,7 +4043,6 @@
             
             
                 
-
 
 
 
@@ -4145,7 +4127,6 @@
 
 
 
-
     
     
 
@@ -4184,7 +4165,6 @@
             
             
                 
-
 
 
 
@@ -4269,7 +4249,6 @@
 
 
 
-
     
     
 
@@ -4308,7 +4287,6 @@
             
             
                 
-
 
 
 
@@ -4393,7 +4371,6 @@
 
 
 
-
     
     
 
@@ -4432,7 +4409,6 @@
             
             
                 
-
 
 
 
@@ -4517,7 +4493,6 @@
 
 
 
-
     
     
 
@@ -4556,7 +4531,6 @@
             
             
                 
-
 
 
 
@@ -4641,7 +4615,6 @@
 
 
 
-
     
     
 
@@ -4680,7 +4653,6 @@
             
             
                 
-
 
 
 
@@ -4765,7 +4737,6 @@
 
 
 
-
     
     
 
@@ -4804,7 +4775,6 @@
             
             
                 
-
 
 
 
@@ -4889,7 +4859,6 @@
 
 
 
-
     
     
 
@@ -4928,7 +4897,6 @@
             
             
                 
-
 
 
 
@@ -5013,7 +4981,6 @@
 
 
 
-
     
     
 
@@ -5052,7 +5019,6 @@
             
             
                 
-
 
 
 
@@ -5137,7 +5103,6 @@
 
 
 
-
     
     
 
@@ -5176,7 +5141,6 @@
             
             
                 
-
 
 
 
@@ -5261,7 +5225,6 @@
 
 
 
-
     
     
 
@@ -5300,7 +5263,6 @@
             
             
                 
-
 
 
 
@@ -5385,7 +5347,6 @@
 
 
 
-
     
     
 
@@ -5424,7 +5385,6 @@
             
             
                 
-
 
 
 
@@ -5509,7 +5469,6 @@
 
 
 
-
     
     
 
@@ -5548,7 +5507,6 @@
             
             
                 
-
 
 
 
@@ -5633,7 +5591,6 @@
 
 
 
-
     
     
 
@@ -5672,7 +5629,6 @@
             
             
                 
-
 
 
 
@@ -5757,7 +5713,6 @@
 
 
 
-
     
     
 
@@ -5796,7 +5751,6 @@
             
             
                 
-
 
 
 
@@ -5881,7 +5835,6 @@
 
 
 
-
     
     
 
@@ -5920,7 +5873,6 @@
             
             
                 
-
 
 
 
@@ -6005,7 +5957,6 @@
 
 
 
-
     
     
 
@@ -6044,7 +5995,6 @@
             
             
                 
-
 
 
 
@@ -6129,7 +6079,6 @@
 
 
 
-
     
     
 
@@ -6168,7 +6117,6 @@
             
             
                 
-
 
 
 
@@ -6253,7 +6201,6 @@
 
 
 
-
     
     
 
@@ -6315,7 +6262,6 @@
 
 
 
-
     
     
 
@@ -6354,7 +6300,6 @@
             
             
                 
-
 
 
 
@@ -6456,7 +6401,6 @@
 
 
 
-
     
     
 
@@ -6495,7 +6439,6 @@
             
             
                 
-
 
 
 
@@ -6580,7 +6523,6 @@
 
 
 
-
     
     
 
@@ -6619,7 +6561,6 @@
             
             
                 
-
 
 
 
@@ -6704,7 +6645,6 @@
 
 
 
-
     
     
 
@@ -6743,7 +6683,6 @@
             
             
                 
-
 
 
 
@@ -6828,7 +6767,6 @@
 
 
 
-
     
     
 
@@ -6867,7 +6805,6 @@
             
             
                 
-
 
 
 
@@ -6952,7 +6889,6 @@
 
 
 
-
     
     
 
@@ -6991,7 +6927,6 @@
             
             
                 
-
 
 
 
@@ -7076,7 +7011,6 @@
 
 
 
-
     
     
 
@@ -7138,7 +7072,6 @@
 
 
 
-
     
     
 
@@ -7177,7 +7110,6 @@
             
             
                 
-
 
 
 
@@ -7273,7 +7205,6 @@
 
 
 
-
     
     
 
@@ -7312,7 +7243,6 @@
             
             
                 
-
 
 
 
@@ -7408,7 +7338,6 @@
 
 
 
-
     
     
 
@@ -7447,7 +7376,6 @@
             
             
                 
-
 
 
 
@@ -7532,7 +7460,6 @@
 
 
 
-
     
     
 
@@ -7571,7 +7498,6 @@
             
             
                 
-
 
 
 
@@ -7656,7 +7582,6 @@
 
 
 
-
     
     
 
@@ -7718,7 +7643,6 @@
 
 
 
-
     
     
 
@@ -7757,7 +7681,6 @@
             
             
                 
-
 
 
 

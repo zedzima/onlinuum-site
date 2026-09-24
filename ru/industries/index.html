@@ -349,7 +349,7 @@
     
     
     </script>
-    <script src="/_assets/js/cards.js?v=545a6761" defer></script>
+    <script src="/_assets/js/cards.js?v=7170ebef" defer></script>
 
     <!-- Analytics (skip on block demo pages) -->
     
@@ -1481,7 +1481,10 @@
             </div>
             
             <div class="block">
-                <!-- Universal Catalog Block: Filterable entity grid -->
+                <!-- Universal Catalog Block: filterable entity grid.
+     Cards are rendered at build time (core/src/catalog_ssr.py) from the same index data
+     _data/*.json holds, so the page links to every entry in plain HTML. The script below
+     only filters, sorts and paginates the cards it finds in the grid. -->
 
 
 
@@ -1498,6 +1501,8 @@
     
         
     
+
+
 
 
 
@@ -1797,7 +1802,7 @@
 
     <div class="catalog-toolbar">
         <div class="catalog-count">
-            <span class="catalog-count-num">0</span> отраслей
+            <span class="catalog-count-num">13</span> отраслей
         </div>
         <div class="catalog-sort">
             
@@ -1806,11 +1811,729 @@
         </div>
     </div>
 
-    <div class="catalog-grid entity-card-grid catalog-count-1">
-        <div class="catalog-loading">Загрузка...</div>
+    <div class="catalog-grid entity-card-grid">
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/automotive/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Автобизнес</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/automotive.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Продвижение автосервиса, автосалонов и брендов автозапчастей: локальное SEO, performance-маркетинг и мультиязычное исполнение. Начните с брифа.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">8 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">8 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">27 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">5 экспертов</span>
+        <span class="dimension-meta-item entity-card-stat">1 кейс</span>
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/crypto/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Криптовалюта</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/crypto.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Реклама криптовалюты для криптобирж, кошельков и Web3-продуктов за рубежом: допуск к площадкам, крипто-PR, комьюнити. Смотрите модули с ценами.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">15 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">20 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">3 эксперта</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/ecommerce/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Интернет-магазины</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/ecommerce.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Маркетинг для интернет-магазина и розничных брендов: SEO каталога, Google Shopping, аналитика по марже и мультиязычное исполнение.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">18 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">34 модуля</span>
+        <span class="dimension-meta-item entity-card-stat">9 экспертов</span>
+        <span class="dimension-meta-item entity-card-stat">1 кейс</span>
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/fintech/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Финтех</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/fintech.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Реклама финансовых услуг и маркетинг для финтеха: SEO, PR и мультиязычный рост для необанков, платежей и иншуртеха с учётом регуляторики.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">12 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">28 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">8 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/fmcg/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">FMCG</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/shopping-cart.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">FMCG-маркетинг для владельцев брендов и производителей: цифровая витрина, share of shelf и спрос на нескольких рынках. Запросите бриф.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">8 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">11 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">12 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">6 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/game-studios/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Игровые студии</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/gaming.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Реклама мобильных игр за рубежом: ASO, закупка трафика, CRO страницы в сторе и удержание. Снижаем CPI, растим ROAS. Запросите бриф по проекту.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">13 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">14 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">3 эксперта</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/healthcare/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Медицина</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Продвижение клиники и медицинский маркетинг для больниц и health-tech: SEO по стандартам YMYL и привлечение пациентов на разных языках.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">11 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">23 модуля</span>
+        <span class="dimension-meta-item entity-card-stat">6 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/hospitality/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Гостеприимство</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/hospitality.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Продвижение сайта гостиницы и отеля: SEO, PPC и мультиязычные кампании, которые приносят прямые брони. Запросите бриф.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">11 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">22 модуля</span>
+        <span class="dimension-meta-item entity-card-stat">5 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/legal/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Юридические услуги</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/legal.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Продвижение сайта юридической фирмы, юридических услуг и legal-tech компаний: SEO, PPC, контент и репутация с учётом рекламных правил юрисдикций.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">8 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">8 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">18 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">6 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/manufacturing/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Промышленность</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/manufacturing.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Промышленный маркетинг для производителей и B2B: SEO, контент и генерация спроса под экспортные продажи. Запросите бриф.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">8 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">7 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">18 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">5 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/pharma/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Фарма и life sciences</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Фармацевтический маркетинг для фармы и life sciences: SEO и контент в рамках регуляторики на мультиязычных рынках. Запросите бриф.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">11 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">13 модулей</span>
+        <span class="dimension-meta-item entity-card-stat">5 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/retail/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">Ритейл</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/shopping-bag.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">Ритейл-маркетинг для розничных сетей и магазинов: SEO, PPC и товарные фиды, которые приносят выручку. Запросите бриф.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">11 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">23 модуля</span>
+        <span class="dimension-meta-item entity-card-stat">6 экспертов</span>
+        
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/industries/saas/" class="dimension-card entity-card entity-card-padded">
+    <div class="dimension-card-header">
+        <div class="entity-card-title">SaaS</div>
+        
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/monitor.svg?v=5bf4bc0c')"></div>
+        
+    </div>
+    
+    <p class="entity-card-copy">SaaS-маркетинг и продвижение IT-компании: SEO, генерация спроса и мультиязычные кампании, которые снижают CAC и растят MRR.</p>
+    
+    
+    
+    <div class="dimension-card-meta entity-card-meta-row">
+        <span class="dimension-meta-item entity-card-stat">9 направлений</span>
+        <span class="dimension-meta-item entity-card-stat">17 услуг</span>
+        <span class="dimension-meta-item entity-card-stat">33 модуля</span>
+        <span class="dimension-meta-item entity-card-stat">8 экспертов</span>
+        <span class="dimension-meta-item entity-card-stat">1 кейс</span>
+        
+        
+    </div>
+    
+    <div class="dimension-card-footer entity-card-footer">
+        
+        <span></span>
+        <span class="dimension-cta entity-card-cta">Смотреть</span>
+        
+    </div>
+</a>
+        
+        
     </div>
 
     <nav class="catalog-pagination hidden" aria-label="Страницы каталога"></nav>
+    <script type="application/json" data-catalog-items>[{"case_count": 1, "expert_count": 5, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison", "why-seo-matters-in-2026"], "cases": ["alvadi"], "countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "australia", "belgium", "brazil", "bulgaria", "canada", "czechia", "denmark", "estonia", "eu", "greece", "hungary", "india", "ireland", "italy", "japan", "latvia", "mexico", "netherlands", "new-zealand", "romania", "slovakia", "slovenia", "sweden", "switzerland", "thailand", "turkey", "uae"], "domains": ["search-marketing", "performance-marketing", "brand-marketing", "web-marketing", "community-marketing", "product-marketing", "growth-marketing", "marketing-operations"], "experts": ["dmitriy-razakhatsky", "anastasiya-antoniuk", "elena-grakovich", "vitali-bakun", "dima-gerko"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "arabic", "czech", "danish", "dutch", "estonian", "greek", "hungarian", "italian", "latvian", "romanian", "slovak", "slovenian", "swedish", "thai", "turkish"], "positions": ["seo-expert", "marketing-consultant", "ppc-specialist"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "local-seo", "ai-optimisation", "cross-market-setup", "content-localization", "content-rewriting", "content-strategy", "copywriting", "google-ads-search", "google-shopping", "local-services-ads", "microsoft-ads", "ppc-audit", "remarketing-display", "seo-audit", "telegram-ads", "telegram-channel-placements", "transcreation", "video-content-production", "video-marketing-audit", "youtube-ads", "youtube-channel-management", "youtube-creator-collaborations", "youtube-creator-pilot"], "services": ["content", "analytics", "social-media", "orm", "aeo", "web-development", "seo", "ppc"], "solutions": ["digital-marketing-strategy", "b2b-digital-marketing", "international-marketing", "seo-ecommerce", "international-seo", "multilingual-seo", "global-seo", "digital-marketing-consulting", "outsource-digital-marketing", "ai-visibility"]}, "featured": false, "scope_count": 27, "service_count": 8, "slug": "automotive", "solution_count": 10, "title": "\u041f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0430\u0432\u0442\u043e\u0441\u0435\u0440\u0432\u0438\u0441\u0430 \u0438 \u0440\u0435\u043a\u043b\u0430\u043c\u0430 \u0430\u0432\u0442\u043e\u0441\u0430\u043b\u043e\u043d\u0430"}, {"case_count": 0, "expert_count": 3, "facets": {"countries": ["usa", "uk", "germany", "switzerland", "portugal", "poland", "turkey", "uae", "eu", "lithuania", "luxembourg"], "domains": ["search-marketing", "growth-marketing", "performance-marketing", "brand-marketing", "product-marketing", "community-marketing", "web-marketing", "marketing-operations", "app-marketing"], "experts": ["rita-pavide", "elena-grakovich", "dmitriy-razakhatsky"], "languages": ["english", "german", "french", "russian", "spanish", "portuguese", "polish", "turkish"], "positions": ["seo-expert"], "scopes": ["seo-research", "seo-audit", "technical-seo", "on-page-seo", "link-building", "ai-optimisation", "cross-market-setup", "google-ads-search", "telegram-ads", "telegram-channel-placements", "youtube-creator-collaborations", "youtube-channel-management", "content-strategy", "content-writing", "content-localization", "aso-optimization", "aso-localization", "apple-search-ads", "app-store-cro", "app-retention"], "services": ["seo", "aeo", "content", "pr", "orm", "social-media", "paid-social", "ppc", "email", "affiliate", "analytics", "web-development", "aso", "app-user-acquisition", "app-conversion-retention"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility"]}, "featured": false, "scope_count": 20, "service_count": 15, "slug": "crypto", "solution_count": 9, "title": "\u0420\u0435\u043a\u043b\u0430\u043c\u0430 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u044b: \u043a\u0440\u0438\u043f\u0442\u043e-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0434\u043b\u044f Web3"}, {"case_count": 1, "expert_count": 9, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison", "why-seo-matters-in-2026"], "cases": ["alvadi"], "countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "australia", "belgium", "brazil", "bulgaria", "canada", "croatia", "cyprus", "czechia", "denmark", "estonia", "eu", "finland", "greece", "hungary", "india", "indonesia", "ireland", "italy", "japan", "latvia", "lithuania", "luxembourg", "malaysia", "malta", "mexico", "netherlands", "new-zealand", "romania", "singapore", "slovakia", "slovenia", "sweden", "switzerland", "thailand", "turkey", "uae"], "domains": ["search-marketing", "growth-marketing", "performance-marketing", "brand-marketing", "web-marketing", "product-marketing", "community-marketing", "marketing-operations", "app-marketing"], "experts": ["anastasiya-antoniuk", "elena-grakovich", "dima-gerko", "vitali-bakun", "dmitriy-razakhatsky", "alaaddin-saracyakupoglu", "aldillah-melisa-febryana", "gael-balouek", "mariia-nedbaievska"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "arabic", "bulgarian", "croatian", "czech", "danish", "dutch", "estonian", "finnish", "greek", "hindi", "hungarian", "indonesian", "italian", "latvian", "lithuanian", "malay", "romanian", "slovak", "slovenian", "swedish", "thai", "turkish", "urdu"], "positions": ["seo-expert", "aso-specialist", "business-development-manager", "marketing-consultant", "ppc-specialist"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "local-seo", "ai-optimisation", "cross-market-setup", "aso-optimization", "aso-localization", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "app-store-cro", "app-retention", "content-localization", "content-rewriting", "content-strategy", "content-writing", "copywriting", "google-ads-search", "google-shopping", "microsoft-ads", "ppc-audit", "remarketing-display", "seo-audit", "telegram-ads", "telegram-channel-placements", "transcreation", "video-content-production", "video-marketing-audit", "youtube-ads", "youtube-channel-management", "youtube-creator-collaborations", "youtube-creator-pilot"], "services": ["content", "analytics", "automation", "aeo", "paid-social", "orm", "web-development", "aso", "app-user-acquisition", "app-conversion-retention", "seo", "ppc", "affiliate", "cro", "email", "marketplace-management", "social-media", "video"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "seo-ecommerce", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility"]}, "featured": false, "scope_count": 34, "service_count": 18, "slug": "ecommerce", "solution_count": 10, "title": "\u041c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0434\u043b\u044f \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 \u0438 \u043e\u043d\u043b\u0430\u0439\u043d-\u0440\u0438\u0442\u0435\u0439\u043b\u0430"}, {"case_count": 0, "expert_count": 8, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison", "why-seo-matters-in-2026"], "countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "australia", "belgium", "brazil", "bulgaria", "canada", "croatia", "cyprus", "czechia", "denmark", "estonia", "eu", "finland", "greece", "hungary", "india", "indonesia", "ireland", "italy", "japan", "latvia", "lithuania", "luxembourg", "malaysia", "malta", "mexico", "netherlands", "new-zealand", "romania", "singapore", "slovakia", "sweden", "switzerland", "thailand", "turkey", "uae"], "domains": ["search-marketing", "growth-marketing", "performance-marketing", "brand-marketing", "web-marketing", "product-marketing", "community-marketing", "marketing-operations", "app-marketing"], "experts": ["anastasiya-antoniuk", "elena-grakovich", "vitali-bakun", "dima-gerko", "dmitriy-razakhatsky", "gael-balouek", "mariia-nedbaievska", "rita-pavide"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "arabic", "bulgarian", "croatian", "czech", "danish", "dutch", "estonian", "finnish", "greek", "hindi", "hungarian", "indonesian", "italian", "latvian", "lithuanian", "malay", "romanian", "slovak", "swedish", "turkish", "urdu"], "positions": ["seo-expert", "aso-specialist", "business-development-manager", "marketing-consultant", "ppc-specialist"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "ai-optimisation", "local-seo", "cross-market-setup", "aso-optimization", "aso-localization", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "app-store-cro", "app-retention", "content-localization", "content-rewriting", "content-strategy", "content-writing", "copywriting", "google-ads-search", "microsoft-ads", "ppc-audit", "remarketing-display", "seo-audit", "telegram-ads", "telegram-channel-placements", "transcreation", "youtube-ads"], "services": ["content", "analytics", "pr", "orm", "aeo", "paid-social", "web-development", "aso", "app-user-acquisition", "app-conversion-retention", "seo", "ppc"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility", "seo-ecommerce"]}, "featured": false, "scope_count": 28, "service_count": 12, "slug": "fintech", "solution_count": 10, "title": "\u0420\u0435\u043a\u043b\u0430\u043c\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0445 \u0443\u0441\u043b\u0443\u0433 \u0438 \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0434\u043b\u044f \u0444\u0438\u043d\u0442\u0435\u0445\u0430"}, {"case_count": 0, "expert_count": 6, "facets": {"countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain"], "domains": ["search-marketing", "performance-marketing", "brand-marketing", "product-marketing", "growth-marketing", "community-marketing", "web-marketing", "marketing-operations"], "experts": ["aldillah-melisa-febryana", "anastasiya-antoniuk", "elena-grakovich", "dima-gerko", "dmitriy-razakhatsky", "vitali-bakun"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese"], "positions": ["ppc-specialist", "seo-expert"], "scopes": ["seo-research", "on-page-seo", "technical-seo", "link-building", "ai-optimisation", "cross-market-setup", "google-shopping", "google-ads-search", "ppc-audit", "remarketing-display", "youtube-ads", "video-content-production"], "services": ["seo", "ppc", "paid-social", "social-media", "content", "marketplace-management", "analytics", "aeo", "cro", "video", "automation"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "seo-ecommerce", "international-marketing", "international-seo", "multilingual-seo", "global-seo", "outsource-digital-marketing", "ai-visibility"]}, "featured": false, "scope_count": 12, "service_count": 11, "slug": "fmcg", "solution_count": 10, "title": "FMCG-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0434\u043b\u044f \u0431\u0440\u0435\u043d\u0434\u043e\u0432 \u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439"}, {"case_count": 0, "expert_count": 3, "facets": {"countries": ["usa", "uk", "germany", "france", "japan", "poland", "turkey", "sweden", "brazil", "canada", "australia", "finland"], "domains": ["app-marketing", "performance-marketing", "growth-marketing", "product-marketing", "community-marketing", "brand-marketing", "search-marketing", "web-marketing", "marketing-operations"], "experts": ["muhammad-hijazi-siddiqui", "mariia-nedbaievska", "dima-gerko"], "languages": ["english", "german", "french", "japanese", "polish", "turkish", "spanish", "portuguese", "swedish", "russian", "finnish"], "positions": ["aso-specialist", "ppc-specialist"], "scopes": ["aso-optimization", "aso-localization", "app-store-cro", "app-retention", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "video-content-production", "youtube-ads", "youtube-creator-collaborations", "remarketing-display", "seo-research", "technical-seo", "on-page-seo"], "services": ["aso", "app-user-acquisition", "app-conversion-retention", "paid-social", "ppc", "video", "social-media", "analytics", "content", "pr", "orm", "automation", "seo"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "international-marketing", "international-seo", "global-seo", "multilingual-seo", "outsource-digital-marketing", "ai-visibility"]}, "featured": false, "scope_count": 14, "service_count": 13, "slug": "game-studios", "solution_count": 8, "title": "\u0420\u0435\u043a\u043b\u0430\u043c\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0438\u0433\u0440: \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0438\u0433\u0440\u043e\u0432\u044b\u0445 \u0441\u0442\u0443\u0434\u0438\u0439"}, {"case_count": 0, "expert_count": 6, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison"], "countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "australia", "belgium", "brazil", "bulgaria", "canada", "croatia", "czechia", "denmark", "estonia", "eu", "finland", "greece", "hungary", "india", "ireland", "italy", "japan", "latvia", "lithuania", "luxembourg", "mexico", "netherlands", "new-zealand", "singapore", "slovenia", "sweden", "switzerland", "uae"], "domains": ["search-marketing", "growth-marketing", "performance-marketing", "brand-marketing", "web-marketing", "product-marketing", "community-marketing", "marketing-operations", "app-marketing"], "experts": ["dmitriy-razakhatsky", "elena-grakovich", "vitali-bakun", "anastasiya-antoniuk", "dima-gerko", "valentina-soldatkina"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "croatian", "czech", "danish", "dutch", "greek", "italian", "lithuanian", "romanian", "swedish"], "positions": ["seo-expert", "aso-specialist", "marketing-consultant"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "local-seo", "ai-optimisation", "cross-market-setup", "aso-optimization", "aso-localization", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "app-store-cro", "app-retention", "content-localization", "content-rewriting", "content-strategy", "copywriting", "google-shopping", "local-services-ads", "seo-audit", "telegram-channel-placements", "youtube-ads"], "services": ["ppc", "content", "analytics", "pr", "orm", "aeo", "web-development", "aso", "app-user-acquisition", "app-conversion-retention", "seo"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility", "seo-ecommerce"]}, "featured": false, "scope_count": 23, "service_count": 11, "slug": "healthcare", "solution_count": 10, "title": "\u041f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043a\u043b\u0438\u043d\u0438\u043a\u0438, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0438 SEO"}, {"case_count": 0, "expert_count": 5, "facets": {"countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "croatia", "cyprus", "indonesia", "malaysia", "malta", "thailand", "uae"], "domains": ["search-marketing", "performance-marketing", "brand-marketing", "web-marketing", "product-marketing", "growth-marketing", "community-marketing", "marketing-operations", "app-marketing"], "experts": ["dima-gerko", "dmitriy-razakhatsky", "anastasiya-antoniuk", "elena-grakovich", "vitali-bakun"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "arabic", "bulgarian", "croatian", "indonesian", "malay", "thai"], "positions": ["seo-expert", "business-development-manager", "marketing-consultant"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "local-seo", "ai-optimisation", "cross-market-setup", "aso-optimization", "aso-localization", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "app-store-cro", "app-retention", "telegram-ads", "telegram-channel-placements", "transcreation", "video-content-production", "video-marketing-audit", "youtube-channel-management", "youtube-creator-collaborations", "youtube-creator-pilot"], "services": ["seo", "ppc", "content", "analytics", "social-media", "paid-social", "orm", "aeo", "aso", "app-user-acquisition", "app-conversion-retention"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility"]}, "featured": false, "scope_count": 22, "service_count": 11, "slug": "hospitality", "solution_count": 8, "title": "\u041f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 \u0433\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u044b \u0438 \u043e\u0442\u0435\u043b\u044f: \u043f\u0440\u044f\u043c\u044b\u0435 \u0431\u0440\u043e\u043d\u0438"}, {"case_count": 0, "expert_count": 6, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison", "why-seo-matters-in-2026"], "countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "australia", "belgium", "brazil", "canada", "cyprus", "czechia", "denmark", "estonia", "eu", "greece", "hungary", "india", "ireland", "italy", "japan", "latvia", "lithuania", "luxembourg", "malta", "mexico", "netherlands", "new-zealand", "singapore", "slovakia", "sweden", "switzerland"], "domains": ["search-marketing", "performance-marketing", "community-marketing", "web-marketing", "product-marketing", "brand-marketing", "growth-marketing", "marketing-operations"], "experts": ["dmitriy-razakhatsky", "anastasiya-antoniuk", "elena-grakovich", "vitali-bakun", "dima-gerko", "rita-pavide"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "czech", "danish", "dutch", "estonian", "greek", "hungarian", "italian", "latvian", "lithuanian", "romanian", "slovak", "swedish"], "positions": ["seo-expert", "business-development-manager", "ppc-specialist"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "local-seo", "ai-optimisation", "cross-market-setup", "content-localization", "content-rewriting", "content-strategy", "content-writing", "copywriting", "google-ads-search", "local-services-ads", "microsoft-ads", "ppc-audit", "remarketing-display", "seo-audit"], "services": ["content", "analytics", "pr", "orm", "aeo", "web-development", "seo", "ppc"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "seo-ecommerce", "international-seo", "multilingual-seo", "global-seo", "international-marketing", "outsource-digital-marketing", "ai-visibility"]}, "featured": false, "scope_count": 18, "service_count": 8, "slug": "legal", "solution_count": 10, "title": "\u041f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0443\u0441\u043b\u0443\u0433 \u0438 \u0441\u0430\u0439\u0442\u0430 \u044e\u0440\u0444\u0438\u0440\u043c\u044b"}, {"case_count": 0, "expert_count": 5, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison", "why-seo-matters-in-2026"], "countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "australia", "belgium", "brazil", "bulgaria", "canada", "croatia", "czechia", "denmark", "estonia", "eu", "finland", "greece", "hungary", "india", "indonesia", "ireland", "italy", "japan", "latvia", "lithuania", "luxembourg", "malaysia", "malta", "mexico", "netherlands", "new-zealand", "romania", "singapore", "slovakia", "slovenia", "sweden", "switzerland", "thailand", "turkey"], "domains": ["search-marketing", "growth-marketing", "performance-marketing", "web-marketing", "community-marketing", "product-marketing", "brand-marketing", "marketing-operations"], "experts": ["dmitriy-razakhatsky", "anastasiya-antoniuk", "elena-grakovich", "vitali-bakun", "dima-gerko"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "bulgarian", "croatian", "czech", "danish", "dutch", "finnish", "greek", "hungarian", "indonesian", "italian", "lithuanian", "romanian", "slovak", "slovenian", "swedish", "turkish"], "positions": ["seo-expert", "business-development-manager", "ppc-specialist"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "cross-market-setup", "ai-optimisation", "local-seo", "content-localization", "content-rewriting", "content-strategy", "content-writing", "copywriting", "google-ads-search", "google-shopping", "local-services-ads", "microsoft-ads", "ppc-audit", "seo-audit"], "services": ["content", "analytics", "pr", "aeo", "web-development", "seo", "ppc"], "solutions": ["digital-marketing-strategy", "b2b-digital-marketing", "outsource-digital-marketing", "international-marketing", "seo-ecommerce", "international-seo", "multilingual-seo", "global-seo", "digital-marketing-consulting", "ai-visibility"]}, "featured": false, "scope_count": 18, "service_count": 7, "slug": "manufacturing", "solution_count": 10, "title": "\u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0439 \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f"}, {"case_count": 0, "expert_count": 5, "facets": {"countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "slovenia"], "domains": ["search-marketing", "performance-marketing", "brand-marketing", "web-marketing", "product-marketing", "growth-marketing", "community-marketing", "marketing-operations", "app-marketing"], "experts": ["dima-gerko", "dmitriy-razakhatsky", "anastasiya-antoniuk", "elena-grakovich", "vitali-bakun"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "slovenian"], "positions": ["seo-expert"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "ai-optimisation", "cross-market-setup", "aso-optimization", "aso-localization", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "app-store-cro", "app-retention"], "services": ["seo", "ppc", "content", "analytics", "pr", "orm", "aeo", "web-development", "aso", "app-user-acquisition", "app-conversion-retention"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility"]}, "featured": false, "scope_count": 13, "service_count": 11, "slug": "pharma", "solution_count": 9, "title": "\u0424\u0430\u0440\u043c\u0430\u0446\u0435\u0432\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0434\u043b\u044f \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u0435\u043c\u044b\u0445 \u0440\u044b\u043d\u043a\u043e\u0432"}, {"case_count": 0, "expert_count": 6, "facets": {"countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "bulgaria", "croatia", "cyprus", "finland", "indonesia", "italy", "malaysia", "romania", "singapore", "slovakia", "slovenia", "thailand", "turkey", "uae"], "domains": ["search-marketing", "performance-marketing", "brand-marketing", "web-marketing", "product-marketing", "growth-marketing", "community-marketing", "marketing-operations", "app-marketing"], "experts": ["dima-gerko", "dmitriy-razakhatsky", "anastasiya-antoniuk", "elena-grakovich", "vitali-bakun", "aldillah-melisa-febryana"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "arabic", "croatian", "hindi", "indonesian", "malay", "thai", "turkish", "urdu"], "positions": ["seo-expert", "marketing-consultant"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "local-seo", "ai-optimisation", "cross-market-setup", "aso-optimization", "aso-localization", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "app-store-cro", "app-retention", "content-rewriting", "copywriting", "telegram-channel-placements", "transcreation", "video-content-production", "video-marketing-audit", "youtube-channel-management", "youtube-creator-collaborations", "youtube-creator-pilot"], "services": ["seo", "ppc", "content", "analytics", "social-media", "paid-social", "automation", "aeo", "aso", "app-user-acquisition", "app-conversion-retention"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "seo-ecommerce", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility"]}, "featured": false, "scope_count": 23, "service_count": 11, "slug": "retail", "solution_count": 10, "title": "\u0420\u0438\u0442\u0435\u0439\u043b-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433: \u0440\u043e\u0441\u0442 \u043e\u043d\u043b\u0430\u0439\u043d \u0438 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430\u0445"}, {"case_count": 1, "expert_count": 8, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison", "why-seo-matters-in-2026"], "cases": ["bamboo-ppc-landing-pages"], "countries": ["germany", "usa", "uk", "france", "austria", "poland", "portugal", "spain", "australia", "belgium", "brazil", "bulgaria", "canada", "croatia", "cyprus", "czechia", "denmark", "estonia", "eu", "finland", "greece", "hungary", "india", "indonesia", "ireland", "italy", "japan", "latvia", "lithuania", "luxembourg", "malaysia", "malta", "mexico", "netherlands", "new-zealand", "romania", "singapore", "slovakia", "slovenia", "sweden", "switzerland", "thailand", "turkey", "uae"], "domains": ["search-marketing", "growth-marketing", "performance-marketing", "brand-marketing", "web-marketing", "product-marketing", "community-marketing", "marketing-operations", "app-marketing"], "experts": ["elena-grakovich", "anastasiya-antoniuk", "dima-gerko", "vitali-bakun", "dmitriy-razakhatsky", "alaaddin-saracyakupoglu", "gael-balouek", "mariia-nedbaievska"], "languages": ["english", "german", "french", "russian", "spanish", "polish", "portuguese", "arabic", "bulgarian", "croatian", "czech", "danish", "dutch", "estonian", "finnish", "greek", "hindi", "hungarian", "indonesian", "italian", "latvian", "lithuanian", "malay", "romanian", "slovak", "slovenian", "swedish", "thai", "turkish", "urdu"], "positions": ["seo-expert", "aso-specialist", "business-development-manager", "marketing-consultant", "ppc-specialist"], "scopes": ["seo-research", "technical-seo", "on-page-seo", "link-building", "ai-optimisation", "local-seo", "cross-market-setup", "aso-optimization", "aso-localization", "apple-search-ads", "google-app-campaigns", "paid-social-for-apps", "app-store-cro", "app-retention", "content-localization", "content-rewriting", "content-strategy", "content-writing", "copywriting", "google-ads-search", "microsoft-ads", "ppc-audit", "remarketing-display", "seo-audit", "telegram-ads", "telegram-channel-placements", "transcreation", "video-content-production", "video-marketing-audit", "youtube-ads", "youtube-channel-management", "youtube-creator-collaborations", "youtube-creator-pilot"], "services": ["content", "analytics", "automation", "aeo", "paid-social", "orm", "web-development", "aso", "app-user-acquisition", "app-conversion-retention", "seo", "ppc", "cro", "email", "pr", "social-media", "video"], "solutions": ["digital-marketing-strategy", "digital-marketing-consulting", "b2b-digital-marketing", "international-marketing", "outsource-digital-marketing", "international-seo", "multilingual-seo", "global-seo", "ai-visibility", "seo-ecommerce"]}, "featured": false, "scope_count": 33, "service_count": 17, "slug": "saas", "solution_count": 10, "title": "\u041f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0438 SaaS-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0434\u043b\u044f B2B"}]</script>
 </section>
 
 <script>
@@ -1821,12 +2544,11 @@
     var paginationEl = section.querySelector('.catalog-pagination');
     var countEl = section.querySelector('.catalog-count-num');
     var sortEl = section.querySelector('.catalog-sort-select');
-    var mediaHash = '5bf4bc0c';
+    var dataEl = section.querySelector('script[data-catalog-items]');
 
     var allItems = [];
     var renderedItems = [];
     var currentPage = 1;
-    var LABELS = {};
     var guidedDomainCatalog = section.dataset.guidedDomain === 'true';
     var filterControls = section.querySelector('[data-filter-controls]');
     var domainContext = section.querySelector('[data-domain-context]');
@@ -1848,76 +2570,43 @@
         availableDomains[chip.dataset.domainValue] = chip.textContent.trim();
     });
 
-    function mediaIconUrl(name) {
-        var url = '/_media/icons/' + name + '.svg';
-        return mediaHash ? url + '?v=' + mediaHash : url;
+    /* ===== Cards: rendered at build time, in the order the inline data lists them ===== */
+    try {
+        allItems = JSON.parse(dataEl ? dataEl.textContent : '[]');
+    } catch (error) {
+        allItems = [];
+    }
+    if (!Array.isArray(allItems)) allItems = [];
+    var builtCards = Array.from(grid.children).filter(function(node) {
+        return node.classList.contains('entity-card');
+    });
+    allItems = allItems.map(function(item, index) {
+        item.__catalogIndex = index;
+        item.__html = builtCards[index] ? builtCards[index].outerHTML : '';
+        return item;
+    });
+
+    function renderCard(item) {
+        return item.__html;
     }
 
-    /* ===== Source configs ===== */
-    var SOURCES = {
-        scopes: {
-            url: '_data/scopes-index.json',
-            dataKey: 'scopes',
-            sortOptions: [['popular', window.cmsT('sort_popular', 'Popular')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        experts: {
-            url: '_data/team.json',
-            dataKey: 'experts',
-            sortOptions: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        team: {
-            url: '_data/team.json',
-            dataKey: 'experts',
-            sortOptions: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        cases: {
-            url: '_data/cases.json',
-            dataKey: 'cases',
-            sortOptions: [['default', window.cmsT('sort_newest', 'Newest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        blog: {
-            url: '_data/blog.json',
-            dataKey: null,
-            sortOptions: [['newest', window.cmsT('sort_newest', 'Newest First')], ['oldest', window.cmsT('sort_oldest', 'Oldest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        domains: {
-            url: '_data/domains-index.json',
-            dataKey: 'domains',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['services', window.cmsT('sort_most_services', 'Most Services')]]
-        },
-        services: {
-            url: '_data/services-index.json',
-            dataKey: 'services',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        solutions: {
-            url: '_data/solutions-index.json',
-            dataKey: 'solutions',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['price', window.cmsT('sort_lowest_price', 'Lowest Price')]]
-        },
-        industries: {
-            url: '_data/industries-index.json',
-            dataKey: 'industries',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        countries: {
-            url: '_data/countries-index.json',
-            dataKey: 'countries',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        languages: {
-            url: '_data/languages-index.json',
-            dataKey: 'languages',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        positions: {
-            url: '_data/positions-index.json',
-            dataKey: 'positions',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['experts', window.cmsT('sort_most_experts', 'Most Experts')]]
-        }
+    /* ===== Sort options per source ===== */
+    var SORT_OPTIONS = {
+        scopes: [['popular', window.cmsT('sort_popular', 'Popular')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        experts: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        team: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        cases: [['default', window.cmsT('sort_newest', 'Newest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        blog: [['newest', window.cmsT('sort_newest', 'Newest First')], ['oldest', window.cmsT('sort_oldest', 'Oldest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        domains: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['services', window.cmsT('sort_most_services', 'Most Services')]],
+        services: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        solutions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['price', window.cmsT('sort_lowest_price', 'Lowest Price')]],
+        industries: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        countries: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        languages: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        positions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['experts', window.cmsT('sort_most_experts', 'Most Experts')]]
     };
 
-    var cfg = SOURCES[source] || SOURCES.scopes;
+    var sortOptions = SORT_OPTIONS[source] || SORT_OPTIONS.scopes;
 
     /* Auto-detect filters from DOM */
     var filterEls = section.querySelectorAll('[data-filter]');
@@ -2039,59 +2728,14 @@
         });
     }
 
-    /* ===== Display maps (visual-only, not data) ===== */
-    var langCodeMap = { 'english': 'EN', 'german': 'DE', 'french': 'FR', 'spanish': 'ES', 'russian': 'RU', 'chinese': 'ZH', 'japanese': 'JA', 'italian': 'IT', 'portuguese': 'PT' };
-    var countryFlagMap = { 'usa': '🇺🇸', 'uk': '🇬🇧', 'germany': '🇩🇪', 'austria': '🇦🇹', 'france': '🇫🇷', 'spain': '🇪🇸', 'italy': '🇮🇹', 'canada': '🇨🇦', 'china': '🇨🇳', 'japan': '🇯🇵', 'russia': '🇷🇺' };
-    var serviceIconMap = { 'seo': 'search', 'aeo': 'lightning', 'aso': 'smartphone', 'digital-marketing': 'globe', 'content': 'pen-tool', 'social-media': 'megaphone', 'paid-social': 'megaphone', 'ppc': 'target', 'email': 'mail', 'analytics': 'analytics', 'cro': 'chart', 'video': 'video', 'pr': 'newspaper', 'orm': 'shield', 'automation': 'code', 'marketplace-management': 'layers', 'affiliate': 'users', 'app-marketing': 'smartphone', 'web-development': 'layout' };
-    var serviceLabelMap = { 'digital-marketing': 'Digital Marketing', 'seo': 'SEO', 'aeo': 'AEO', 'aso': 'ASO', 'content': 'Content', 'ppc': 'PPC', 'analytics': 'Analytics', 'social-media': 'Social Media', 'paid-social': 'Paid Social', 'email': 'Email', 'cro': 'CRO', 'video': 'Video', 'pr': 'PR', 'orm': 'Online Reputation Management', 'automation': 'Automation', 'marketplace-management': 'Marketplace Management', 'affiliate': 'Affiliate', 'app-marketing': 'App Marketing', 'web-development': 'Web Development' };
-    var scopeLabelMap = { 'technical-seo': 'Technical SEO', 'ai-optimisation': 'AI Optimization', 'content-strategy': 'Content Strategy', 'ppc-management': 'PPC Management', 'analytics-setup': 'Analytics', 'localization': 'Localization' };
-
-    function label(dimension, slug) {
-        return ((window.CMS_ENTITY_LABELS || {})[dimension] || {})[slug] || (LABELS[dimension] || {})[slug] || slug;
-    }
-
     function esc(str) { var d = document.createElement('div'); d.textContent = str || ''; return d.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;'); }
     function toTitleCase(text) {
         return String(text || '')
             .replace(/[-_]+/g, ' ')
             .replace(/\b\w/g, function(ch) { return ch.toUpperCase(); });
     }
-    function formatAuthorName(author) {
-        if (!author) return '';
-        return toTitleCase(author);
-    }
-    function formatDate(value) {
-        if (!value) return '';
-        var d = new Date(value);
-        if (isNaN(d.getTime())) return String(value);
-        var docLang = document.documentElement.lang || 'en';
-        var locale = docLang === 'en' ? 'en-US' : docLang;
-        return d.toLocaleDateString(locale, { year: 'numeric', month: 'short', day: 'numeric' });
-    }
-    function pluralize(count, unitKey, fallbackForms) {
-        return count + ' ' + window.cmsPlural(count, (window.CMS_STRINGS || {})[unitKey], fallbackForms);
-    }
     function isFeatured(item) {
         return !!(item && item.featured);
-    }
-    function formatCurrency(value) {
-        var n = Number(value);
-        if (!isFinite(n) || n <= 0) return '';
-        return '$' + Math.round(n);
-    }
-    function normalizeCardUrl(value, fallback) {
-        var href = value === undefined || value === null || value === '' ? (fallback || '#') : String(value).trim();
-        if (!href) href = fallback || '#';
-        if (/^(https?:\/\/|mailto:|tel:|#)/i.test(href)) return href;
-        var normalized = href.replace(/\\/g, '/');
-        var comparable = normalized.replace(/^\.\//, '').replace(/^\/+/, '').toLowerCase();
-        if (comparable === 'contact' || comparable.indexOf('contact/') === 0 || comparable.indexOf('contact?') === 0) {
-            return '#sidebar-contact';
-        }
-        var clean = normalized.replace(/^\.\//, '').replace(/^\/+/, '');
-        var basePath = new URL(document.baseURI).pathname.replace(/\/$/, '');
-        if (clean && clean.slice(-1) !== '/' && clean.indexOf('?') === -1 && clean.split('/').pop().indexOf('.') === -1) clean += '/';
-        return clean ? (basePath + '/' + clean) : (basePath + '/');
     }
     function compareFeatured(a, b) {
         return Number(isFeatured(b)) - Number(isFeatured(a));
@@ -2121,220 +2765,8 @@
         return String(a[key] || '').localeCompare(String(b[key] || ''));
     }
 
-    /* ===== Card renderers ===== */
-    function renderScopeCard(s) {
-        return window.CMSCards.renderScopeCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            domainLabel: function(slug) { return label('domains', slug) || toTitleCase(slug); },
-            serviceIconMap: serviceIconMap
-        });
-    }
-
-    function renderExpertCard(s) {
-        return window.CMSCards.renderExpertCard(s, {
-            langCodeMap: langCodeMap,
-            countryFlagMap: countryFlagMap,
-            countryLabel: function(slug) { return label('countries', slug); },
-            languageLabel: function(slug) { return label('languages', slug); },
-            industryLabel: function(slug) { return label('industries', slug); },
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); }
-        });
-    }
-
-    function renderCaseCard(s) {
-        return window.CMSCards.renderCaseCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            countryLabel: function(slug) { return label('countries', slug) || toTitleCase(slug); },
-            countryFlagMap: countryFlagMap,
-            languageLabel: function(slug) { return label('languages', slug) || toTitleCase(slug); },
-            langCodeMap: langCodeMap
-        });
-    }
-
-    function renderBlogCard(s) {
-        return window.CMSCards.renderBlogCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            scopeLabel: function(slug) { return label('scopes', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            countryLabel: function(slug) { return label('countries', slug) || toTitleCase(slug); },
-            countryFlagMap: countryFlagMap,
-            languageLabel: function(slug) { return label('languages', slug) || toTitleCase(slug); },
-            langCodeMap: langCodeMap
-        });
-    }
-
-    function renderServiceCard(s) {
-        var url = normalizeCardUrl(s.url || ('/services/' + s.slug), '#');
-        var iconName = serviceIconMap[s.slug] || 'settings';
-        var iconHtml = '<div class="service-card-icon" style="--icon-url: url(' + mediaIconUrl(iconName) + ')"></div>';
-        var facets = s.facets || {};
-        var domains = Array.isArray(s.domains) ? s.domains : (Array.isArray(facets.domains) ? facets.domains : []);
-        var domainCount = domains.length;
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var industryRefs = Array.isArray(s.industries) ? s.industries : (Array.isArray(facets.industries) ? facets.industries : []);
-        var industryCount = Number(s.industry_count || industryRefs.length || 0);
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        var exactRows = [];
-        if (domainCount === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-domains"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("domains", domains[0]) || toTitleCase(domains[0])) + '</span></div>');
-        if (scopeCount === 1 && scopeRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        if (industryCount === 1 && industryRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-industries"><span class="entity-chip entity-chip-label entity-chip-compact">' + esc(label("industries", industryRefs[0]) || toTitleCase(industryRefs[0])) + '</span></div>');
-        if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        var price = formatCurrency(s.starting_price || s.from_price || s.price);
-        var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(domainCount, 'unit_domain', 'domain|domains')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'unit_scope', 'scope|scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'unit_expert', 'expert|experts')) + '</span>');
-        if (industryCount > 1 || (industryCount === 1 && industryRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(industryCount, 'unit_industry', 'industry|industries')) + '</span>');
-        if (s.country_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.country_count, 'unit_country', 'country|countries')) + '</span>');
-        if (s.language_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.language_count, 'unit_language', 'language|languages')) + '</span>');
-        return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
-            '<div class="service-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            iconHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
-            (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
-            '<div class="service-card-footer entity-card-footer">' +
-            (price ? '<span class="service-price entity-card-price">' + esc(window.cmsT('price_from', 'From')) + ' ' + price + '</span>' : '<span></span>') +
-            '<span class="service-cta entity-card-cta">' + esc(window.cmsT('action_view_service', 'View Service')) + '</span></div></a>';
-    }
-
-    function renderDomainCard(s) {
-        var url = normalizeCardUrl(s.url || ('/domains/' + s.slug), '#');
-        var iconName = s.icon || 'compass';
-        var iconHtml = '<div class="service-card-icon" style="--icon-url: url(' + mediaIconUrl(iconName) + ')"></div>';
-        var facets = s.facets || {};
-        var serviceRefs = Array.isArray(s.services) ? s.services : (Array.isArray(facets.services) ? facets.services : []);
-        var serviceCount = Number(s.service_count || serviceRefs.length || 0);
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var solutionRefs = Array.isArray(s.solutions) ? s.solutions : (Array.isArray(facets.solutions) ? facets.solutions : []);
-        var solutionCount = Number(s.solution_count || solutionRefs.length || 0);
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        var exactRows = [];
-        if (serviceCount === 1 && serviceRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-services"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(serviceLabelMap[serviceRefs[0]] || label("services", serviceRefs[0]) || toTitleCase(serviceRefs[0])) + '</span></div>');
-        if (scopeCount === 1 && scopeRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        if (solutionCount === 1 && solutionRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-solutions"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("solutions", solutionRefs[0]) || toTitleCase(solutionRefs[0])) + '</span></div>');
-        if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        var metrics = [];
-        if (serviceCount > 1 || (serviceCount === 1 && serviceRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(serviceCount, 'unit_service', 'service|services')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'unit_scope', 'scope|scopes')) + '</span>');
-        if (solutionCount > 1 || (solutionCount === 1 && solutionRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(solutionCount, 'unit_solution', 'solution|solutions')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'unit_expert', 'expert|experts')) + '</span>');
-        return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
-            '<div class="service-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            iconHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
-            (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
-            '<div class="service-card-footer entity-card-footer">' +
-            '<span></span><span class="service-cta entity-card-cta">' + esc(window.cmsT('action_explore_domain', 'Explore Domain')) + '</span></div></a>';
-    }
-
-    function renderSolutionCard(s) {
-        return window.CMSCards.renderSolutionCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            domainLabel: function(slug) { return label('domains', slug) || toTitleCase(slug); },
-            scopeLabel: function(slug) { return label('scopes', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            expertLabel: function(slug) { return label('experts', slug) || toTitleCase(slug); },
-            serviceIconMap: serviceIconMap
-        });
-    }
-
-    function renderDimensionCard(s, collection) {
-        var url = normalizeCardUrl(s.url || ('/' + collection + '/' + s.slug), '#');
-        var facets = s.facets || {};
-        var domains = Array.isArray(s.domains) ? s.domains : (Array.isArray(facets.domains) ? facets.domains : []);
-        var domainCount = domains.length;
-        var serviceRefs = Array.isArray(s.services) ? s.services : (Array.isArray(facets.services) ? facets.services : []);
-        if (!serviceRefs.length && s.service) serviceRefs = [s.service];
-        var serviceCount = Number(s.service_count || serviceRefs.length || 0);
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        if (!scopeRefs.length && s.scope) scopeRefs = [s.scope];
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var marketSpeakersDisplay = s.market_speakers_display || s.native_speakers_l1 || '';
-        var marketCountryCount = Number(s.market_country_count || s.official_countries_count || 0);
-        var significantLanguagesCount = Number(s.significant_languages_count || s.official_languages_count || 0);
-        var badgeHtml = '';
-        if (s.icon) {
-            badgeHtml = '<div class="dimension-card-badge icon" style="--icon-url: url(' + mediaIconUrl(s.icon) + ')"></div>';
-        } else if (s.flag) {
-            badgeHtml = '<div class="dimension-card-badge">' + s.flag + '</div>';
-        } else if (s.code) {
-            badgeHtml = '<div class="dimension-card-badge code">' + esc(s.code) + '</div>';
-        }
-        var exactRows = [];
-        if (domainCount === 1) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-domains"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("domains", domains[0]) || toTitleCase(domains[0])) + '</span></div>');
-        }
-        if (serviceCount === 1 && serviceRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-services"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(serviceLabelMap[serviceRefs[0]] || label("services", serviceRefs[0]) || toTitleCase(serviceRefs[0])) + '</span></div>');
-        }
-        if (scopeCount === 1 && scopeRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(scopeLabelMap[scopeRefs[0]] || label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        }
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        if (expertCount === 1 && expertRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        }
-        var exactHtml = exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '';
-        var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(domainCount, 'unit_domain', 'domain|domains')) + '</span>');
-        if (serviceCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(serviceCount, 'unit_service', 'service|services')) + '</span>');
-        if (scopeCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'unit_scope', 'scope|scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && !expertRefs.length)) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'unit_expert', 'expert|experts')) + '</span>');
-        if (s.case_count) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(s.case_count, 'unit_case', 'case|cases')) + '</span>');
-        if (collection === 'languages' && marketCountryCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(marketCountryCount, 'unit_market', 'market|markets')) + '</span>');
-        if (collection === 'countries' && significantLanguagesCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(significantLanguagesCount, 'unit_language', 'language|languages')) + ' ' + esc(window.cmsT('card_over_1pct', 'over 1%')) + '</span>');
-        var metricsHtml = metrics.length ? '<div class="dimension-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '';
-        var highlightValue = '';
-        var highlightLabel = '';
-        if (collection === 'languages' && marketSpeakersDisplay) {
-            highlightValue = marketSpeakersDisplay;
-            highlightLabel = window.cmsT('card_tracked_speakers', 'Tracked speakers');
-        } else if (collection === 'countries' && s.population_total) {
-            highlightValue = s.population_total;
-            highlightLabel = window.cmsT('card_market_population', 'Market population');
-        }
-        var footerClass = 'dimension-card-footer entity-card-footer' + (highlightValue ? ' dimension-card-footer-highlight' : '');
-        var footerHtml = '<div class="' + footerClass + '">' +
-            (highlightValue ? '<div class="dimension-card-highlight case-result"><span class="result-value">' + esc(highlightValue) + '</span><span class="result-label">' + esc(highlightLabel) + '</span></div><span class="dimension-cta entity-card-cta">' + esc(window.cmsT('action_explore', 'Explore')) + '</span>' : '<span></span><span class="dimension-cta entity-card-cta">' + esc(window.cmsT('action_explore', 'Explore')) + '</span>') +
-            '</div>';
-        return '<a href="' + url + '" class="dimension-card entity-card entity-card-padded">' +
-            '<div class="dimension-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            badgeHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            exactHtml +
-            metricsHtml + footerHtml + '</a>';
-    }
-
-    var RENDERERS = {
-        scopes: renderScopeCard, experts: renderExpertCard, team: renderExpertCard, cases: renderCaseCard, blog: renderBlogCard,
-        domains: renderDomainCard,
-        services: renderServiceCard, solutions: renderSolutionCard,
-        industries: function(s) { return renderDimensionCard(s, 'industries'); },
-        countries: function(s) { return renderDimensionCard(s, 'countries'); },
-        languages: function(s) { return renderDimensionCard(s, 'languages'); },
-        positions: function(s) { return window.CMSCards.renderPositionCard(s, {
-            countryFlagMap: countryFlagMap,
-            countryLabel: function(slug) { return label('countries', slug); },
-            languageLabel: function(slug) { return label('languages', slug); },
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            expertLabel: function(slug) { return label('experts', slug) || toTitleCase(slug); }
-        }); }
-    };
-
     /* ===== Init sort dropdown ===== */
-    cfg.sortOptions.forEach(function(opt) {
+    sortOptions.forEach(function(opt) {
         var o = document.createElement('option');
         o.value = opt[0]; o.textContent = opt[1];
         sortEl.appendChild(o);
@@ -2417,7 +2849,6 @@
 
     /* ===== Shared logic ===== */
     function renderGrid(items, preservePage) {
-        var render = RENDERERS[source] || RENDERERS.scopes;
         renderedItems = items.slice();
         if (!preservePage) currentPage = 1;
 
@@ -2434,7 +2865,7 @@
             var startIndex = (currentPage - 1) * pagination.pageSize;
             var pageItems = renderedItems.slice(startIndex, startIndex + pagination.pageSize);
             syncCatalogGridCount(pageItems.length);
-            grid.innerHTML = pageItems.map(render).join('');
+            grid.innerHTML = pageItems.map(renderCard).join('');
             trimOverflowTags();
             renderPagination(pagination.totalPages);
         }
@@ -2528,22 +2959,7 @@
         restorePersistedFilters();
         syncDomainUi();
 
-        fetch(cfg.url)
-            .then(function(res) { return res.ok ? res.json() : Promise.reject(); })
-            .then(function(data) {
-                LABELS = data.labels || {};
-                allItems = cfg.dataKey ? (data[cfg.dataKey] || []) : (Array.isArray(data) ? data : []);
-                allItems = allItems.map(function(item, index) {
-                    item.__catalogIndex = index;
-                    return item;
-                });
-                renderGrid(applyFilters());
-            })
-            .catch(function() {
-                syncCatalogGridCount(0);
-                grid.innerHTML = '<div class="catalog-empty">' + esc(window.cmsT('catalog_load_error', 'Could not load data.')) + '</div>';
-                renderPagination(1);
-            });
+        renderGrid(applyFilters());
 
         sortEl.addEventListener('change', function() {
             renderGrid(applyFilters());
@@ -2660,8 +3076,10 @@
         });
     }
 
-    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
-    else init();
+    // The cards, the inline data and the domain/filter context bridges (defined in the
+    // page head) are all parsed by the time this script runs, so the first page is
+    // laid out before first paint instead of after a data fetch.
+    init();
 })();
 </script>
             </div>

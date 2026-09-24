@@ -367,7 +367,7 @@
     
     
     </script>
-    <script src="/_assets/js/cards.js?v=545a6761" defer></script>
+    <script src="/_assets/js/cards.js?v=7170ebef" defer></script>
 
     <!-- Analytics (skip on block demo pages) -->
     
@@ -2571,33 +2571,18 @@
             </div>
             
             <div class="block">
-                <!-- Catalog Mini Block: Simplified entity grid with dimension filtering -->
-<!-- Supports: standard (relationships-based), dimension/value filter, siblings_by, reverse_filter -->
-
-
-
-
-    
-
-
-
-
-    
-    
+                <!-- Catalog Mini Block: compact entity carousel.
+     Supports: standard (relationships-based), dimension/value filter, siblings_by, reverse_filter.
+     The entries are resolved and rendered at build time (core/src/catalog_ssr.py reproduces the
+     filter modes; inject_catalog_mini_modes() pre-resolves siblings_by / reverse_filter into
+     data.resolved_slugs). The script below only drives the prev/next buttons. -->
 
 
 
 
 
 
-
-<section class="catalog-mini-block"
-    data-source="services"
-    data-page-type="domain"
-    data-dimension="domains"
-    data-value="search-marketing"
-    data-related-slugs="aeo,content,aso,web-development,seo,ppc"
-    data-limit="4">
+<section class="catalog-mini-block" data-source="services">
 
     <div class="catalog-mini-header">
         <div class="catalog-mini-header-text">
@@ -2612,7 +2597,197 @@
     </div>
 
     <div class="catalog-mini-grid entity-card-grid">
-        <div class="catalog-mini-loading">Загрузка...</div>
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/services/aeo/" class="service-card entity-card entity-card-padded">
+    <div class="service-card-header">
+        <div class="entity-card-title">AEO</div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/lightning.svg?v=5bf4bc0c')"></div>
+    </div>
+    
+    <p class="entity-card-copy">Оптимизация под ИИ-поиск и голосовой поиск в ChatGPT, Perplexity и Google AI Overviews: разметка Schema.org и сигналы сущностей. Аудит от $500.</p>
+    
+    
+    
+    <div class="service-card-meta entity-card-meta-row">
+        <span class="service-meta-item entity-card-stat">3 направления</span>
+        <span class="service-meta-item entity-card-stat">5 модулей</span>
+        <span class="service-meta-item entity-card-stat">5 экспертов</span>
+        <span class="service-meta-item entity-card-stat">7 отраслей</span>
+        <span class="service-meta-item entity-card-stat">8 стран</span>
+        <span class="service-meta-item entity-card-stat">7 языков</span>
+    </div>
+    
+    <div class="service-card-footer entity-card-footer">
+        
+        <span class="service-price entity-card-price">От $500</span>
+        
+        <span class="service-cta entity-card-cta">Смотреть услугу</span>
+    </div>
+</a>
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/services/aso/" class="service-card entity-card entity-card-padded">
+    <div class="service-card-header">
+        <div class="entity-card-title">ASO</div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=5bf4bc0c')"></div>
+    </div>
+    
+    <p class="entity-card-copy">ASO-оптимизация приложений для iOS и Android: сбор семантики, метаданные, A/B-тесты. Смотрите цены на услуги ASO.</p>
+    
+    
+    
+    <div class="service-card-meta entity-card-meta-row">
+        <span class="service-meta-item entity-card-stat">2 направления</span>
+        <span class="service-meta-item entity-card-stat">2 модуля</span>
+        <span class="service-meta-item entity-card-stat">4 эксперта</span>
+        <span class="service-meta-item entity-card-stat">5 отраслей</span>
+        <span class="service-meta-item entity-card-stat">8 стран</span>
+        <span class="service-meta-item entity-card-stat">7 языков</span>
+    </div>
+    
+    <div class="service-card-footer entity-card-footer">
+        
+        <span class="service-price entity-card-price">От $500</span>
+        
+        <span class="service-cta entity-card-cta">Смотреть услугу</span>
+    </div>
+</a>
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/services/ppc/" class="service-card entity-card entity-card-padded">
+    <div class="service-card-header">
+        <div class="entity-card-title">Контекстная реклама</div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/target.svg?v=5bf4bc0c')"></div>
+    </div>
+    
+    <p class="entity-card-copy">Ведение контекстной рекламы: поиск, Shopping, Microsoft Ads и ремаркетинг. Пакеты с фиксированной ценой для международных кампаний. Запросите расчёт.</p>
+    
+    
+    
+    <div class="service-card-meta entity-card-meta-row">
+        <span class="service-meta-item entity-card-stat">2 направления</span>
+        <span class="service-meta-item entity-card-stat">9 модулей</span>
+        <span class="service-meta-item entity-card-stat">4 эксперта</span>
+        <span class="service-meta-item entity-card-stat">6 отраслей</span>
+        <span class="service-meta-item entity-card-stat">6 стран</span>
+        <span class="service-meta-item entity-card-stat">4 языка</span>
+    </div>
+    
+    <div class="service-card-footer entity-card-footer">
+        
+        <span class="service-price entity-card-price">От $400</span>
+        
+        <span class="service-cta entity-card-cta">Смотреть услугу</span>
+    </div>
+</a>
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/ru/services/seo/" class="service-card entity-card entity-card-padded">
+    <div class="service-card-header">
+        <div class="entity-card-title">SEO</div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search.svg?v=5bf4bc0c')"></div>
+    </div>
+    
+    <p class="entity-card-copy">Продуктизированное продвижение сайта: техника, контент, мультиязычный рост. Аудит от $1 190, программы с фиксированной ценой от $1 990 за цикл.</p>
+    
+    
+    
+    <div class="service-card-meta entity-card-meta-row">
+        <span class="service-meta-item entity-card-stat">2 направления</span>
+        <span class="service-meta-item entity-card-stat">12 модулей</span>
+        <span class="service-meta-item entity-card-stat">8 экспертов</span>
+        <span class="service-meta-item entity-card-stat">7 отраслей</span>
+        <span class="service-meta-item entity-card-stat">8 стран</span>
+        <span class="service-meta-item entity-card-stat">7 языков</span>
+    </div>
+    
+    <div class="service-card-footer entity-card-footer">
+        
+        <span class="service-price entity-card-price">От $1,990</span>
+        
+        <span class="service-cta entity-card-cta">Смотреть услугу</span>
+    </div>
+</a>
+        
     </div>
 
     
@@ -2625,484 +2800,46 @@
 <script>
 (function() {
     var section = document.currentScript.previousElementSibling;
-    var source = section.dataset.source || 'scopes';
-    var pageType = section.dataset.pageType || '';
-    var dimension = section.dataset.dimension || '';
-    var value = section.dataset.value || '';
-    var relatedSlugs = (section.dataset.relatedSlugs || '')
-        .split(',')
-        .map(function(slug) { return slug.trim(); })
-        .filter(Boolean);
-    var limit = parseInt(section.dataset.limit) || 0;
-    var effectiveLimit = (!dimension && !value && (pageType === 'domain' || pageType === 'service' || pageType === 'solution'))
-        ? 0
-        : limit;
     var grid = section.querySelector('.catalog-mini-grid');
     var prevBtn = section.querySelector('.catalog-mini-prev');
     var nextBtn = section.querySelector('.catalog-mini-next');
-    var LABELS = {};
-    var mediaHash = '5bf4bc0c';
-    var STR = window.CMS_STRINGS || {};
-    var docLang = document.documentElement.lang || 'en';
-    var locale = docLang === 'en' ? 'en-US' : docLang;
-    var basePath = new URL(document.baseURI).pathname.replace(/\/$/, '');
+    if (!grid || !prevBtn || !nextBtn) return;
 
-    function mediaIconUrl(name) {
-        var url = '/_media/icons/' + name + '.svg';
-        return mediaHash ? url + '?v=' + mediaHash : url;
-    }
-
-    /* ===== Source configs ===== */
-    var SOURCES = {
-        scopes:     { url: '_data/scopes-index.json', dataKey: 'scopes' },
-        experts:    { url: '_data/team.json', dataKey: 'experts' },
-        team:       { url: '_data/team.json', dataKey: 'experts' },
-        cases:      { url: '_data/cases.json', dataKey: 'cases' },
-        blog:       { url: '_data/blog.json', dataKey: null },
-        domains:    { url: '_data/domains-index.json', dataKey: 'domains' },
-        services:   { url: '_data/services-index.json', dataKey: 'services' },
-        solutions:  { url: '_data/solutions-index.json', dataKey: 'solutions' },
-        industries: { url: '_data/industries-index.json', dataKey: 'industries' },
-        countries:  { url: '_data/countries-index.json', dataKey: 'countries' },
-        languages:  { url: '_data/languages-index.json', dataKey: 'languages' },
-        positions:  { url: '_data/positions-index.json', dataKey: 'positions' }
-    };
-
-    var cfg = SOURCES[source] || SOURCES.scopes;
-
-    /* ===== Display maps ===== */
-    var langCodeMap = { 'english': 'EN', 'german': 'DE', 'french': 'FR', 'spanish': 'ES', 'russian': 'RU', 'chinese': 'ZH', 'japanese': 'JA', 'italian': 'IT', 'portuguese': 'PT' };
-    var countryFlagMap = { 'usa': '🇺🇸', 'uk': '🇬🇧', 'germany': '🇩🇪', 'austria': '🇦🇹', 'france': '🇫🇷', 'spain': '🇪🇸', 'italy': '🇮🇹', 'canada': '🇨🇦', 'china': '🇨🇳', 'japan': '🇯🇵', 'russia': '🇷🇺' };
-    var serviceLabelMap = { 'digital-marketing': 'Digital Marketing', 'seo': 'SEO', 'aeo': 'AEO', 'aso': 'ASO', 'content': 'Content', 'ppc': 'PPC', 'analytics': 'Analytics', 'social-media': 'Social Media', 'paid-social': 'Paid Social', 'email': 'Email', 'cro': 'CRO', 'video': 'Video', 'pr': 'PR', 'orm': 'Online Reputation Management', 'automation': 'Automation', 'marketplace-management': 'Marketplace Management', 'affiliate': 'Affiliate', 'app-marketing': 'App Marketing', 'web-development': 'Web Development' };
-    var industryLabelMap = { 'ecommerce': 'E-commerce', 'saas': 'SaaS', 'fintech': 'Fintech', 'healthcare': 'Healthcare', 'education': 'Education', 'realestate': 'Real Estate', 'travel': 'Travel' };
-    var scopeLabelMap = { 'technical-seo': 'Technical SEO', 'ai-optimisation': 'AI Optimization', 'content-strategy': 'Content Strategy', 'ppc-management': 'PPC Management', 'analytics-setup': 'Analytics', 'localization': 'Localization' };
-    var countryLabelMap = { 'germany': 'Germany', 'austria': 'Austria', 'usa': 'USA', 'uk': 'UK', 'france': 'France', 'spain': 'Spain' };
-    var serviceIconMap = { 'seo': 'search', 'aeo': 'lightning', 'aso': 'smartphone', 'digital-marketing': 'globe', 'content': 'pen-tool', 'social-media': 'megaphone', 'paid-social': 'megaphone', 'ppc': 'target', 'email': 'mail', 'analytics': 'analytics', 'cro': 'chart', 'video': 'video', 'pr': 'newspaper', 'orm': 'shield', 'automation': 'code', 'marketplace-management': 'layers', 'affiliate': 'users', 'app-marketing': 'smartphone', 'web-development': 'layout' };
-
-    function esc(str) { var d = document.createElement('div'); d.textContent = str || ''; return d.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;'); }
-    function label(dimension, slug) {
-        return ((window.CMS_ENTITY_LABELS || {})[dimension] || {})[slug] || (LABELS[dimension] || {})[slug] || slug;
-    }
-    function toTitleCase(text) {
-        return String(text || '')
-            .replace(/[-_]+/g, ' ')
-            .replace(/\b\w/g, function(ch) { return ch.toUpperCase(); });
-    }
-    function formatAuthorName(author) {
-        if (!author) return '';
-        return toTitleCase(author);
-    }
-    function formatDate(value) {
-        if (!value) return '';
-        var d = new Date(value);
-        if (isNaN(d.getTime())) return String(value);
-        return d.toLocaleDateString(locale, { year: 'numeric', month: 'short', day: 'numeric' });
-    }
-    function pluralize(count, forms, fallback) {
-        return count + ' ' + window.cmsPlural(count, forms, fallback);
-    }
-    function isFeatured(item) {
-        return !!(item && item.featured);
-    }
-    function formatCurrency(value) {
-        var n = Number(value);
-        if (!isFinite(n) || n <= 0) return '';
-        return '$' + Math.round(n);
-    }
-    function normalizeCardUrl(value, fallback) {
-        var href = value === undefined || value === null || value === '' ? (fallback || '#') : String(value).trim();
-        if (!href) href = fallback || '#';
-        if (/^(https?:\/\/|mailto:|tel:|#)/i.test(href)) return href;
-        var normalized = href.replace(/\\/g, '/');
-        var comparable = normalized.replace(/^\.\//, '').replace(/^\/+/, '').toLowerCase();
-        if (comparable === 'contact' || comparable.indexOf('contact/') === 0 || comparable.indexOf('contact?') === 0) {
-            return '#sidebar-contact';
-        }
-        var clean = normalized.replace(/^\.\//, '').replace(/^\/+/, '');
-        if (clean && clean.slice(-1) !== '/' && clean.indexOf('?') === -1 && clean.split('/').pop().indexOf('.') === -1) clean += '/';
-        return clean ? (basePath + '/' + clean) : (basePath + '/');
-    }
-    function sortFeaturedFirst(items) {
-        return items.slice().sort(function(a, b) {
-            var featuredCompare = Number(isFeatured(b)) - Number(isFeatured(a));
-            if (featuredCompare !== 0) return featuredCompare;
-            return (a.__catalogMiniIndex || 0) - (b.__catalogMiniIndex || 0);
-        });
-    }
-    function sortByRelationshipOrder(items) {
-        if (!relatedSlugs.length || dimension || value) return sortFeaturedFirst(items);
-        return items.slice().sort(function(a, b) {
-            return (a.__catalogMiniRelationshipIndex || 0) - (b.__catalogMiniRelationshipIndex || 0);
-        });
-    }
-    function resolveLabel(map, slug) {
-        if (!slug) return '';
-        return map[slug] || toTitleCase(slug);
-    }
-
-    /* ===== Card renderers ===== */
-    function renderScopeCard(s) {
-        return window.CMSCards.renderScopeCard(s, {
-            serviceLabel: serviceLabelMap,
-            domainLabel: function(slug) { return label('domains', slug) || toTitleCase(slug); },
-            serviceIconMap: serviceIconMap
-        });
-    }
-
-    function renderExpertCard(s) {
-        return window.CMSCards.renderExpertCard(s, {
-            langCodeMap: langCodeMap,
-            countryFlagMap: countryFlagMap,
-            countryLabel: countryLabelMap,
-            languageLabel: function(slug) { return toTitleCase(slug); },
-            industryLabel: industryLabelMap,
-            serviceLabel: serviceLabelMap
-        });
-    }
-
-    function renderCaseCard(s) {
-        return window.CMSCards.renderCaseCard(s, {
-            serviceLabel: serviceLabelMap,
-            industryLabel: industryLabelMap,
-            countryLabel: countryLabelMap,
-            countryFlagMap: countryFlagMap,
-            languageLabel: function(slug) { return toTitleCase(slug); },
-            langCodeMap: langCodeMap
-        });
-    }
-
-    function renderBlogCard(s) {
-        return window.CMSCards.renderBlogCard(s, {
-            serviceLabel: serviceLabelMap,
-            scopeLabel: scopeLabelMap,
-            industryLabel: industryLabelMap,
-            countryLabel: countryLabelMap,
-            countryFlagMap: countryFlagMap,
-            languageLabel: function(slug) { return toTitleCase(slug); },
-            langCodeMap: langCodeMap
-        });
-    }
-
-    function renderServiceCard(s) {
-        var url = normalizeCardUrl(s.url || ('/services/' + s.slug), '#');
-        var iconName = serviceIconMap[s.slug] || 'settings';
-        var iconHtml = '<div class="service-card-icon" style="--icon-url: url(' + mediaIconUrl(iconName) + ')"></div>';
-        var facets = s.facets || {};
-        var domains = Array.isArray(s.domains) ? s.domains : (Array.isArray(facets.domains) ? facets.domains : []);
-        var domainCount = domains.length;
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var industryRefs = Array.isArray(s.industries) ? s.industries : (Array.isArray(facets.industries) ? facets.industries : []);
-        var industryCount = Number(s.industry_count || industryRefs.length || 0);
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        var exactRows = [];
-        if (domainCount === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-domains"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("domains", domains[0]) || toTitleCase(domains[0])) + '</span></div>');
-        if (scopeCount === 1 && scopeRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        if (industryCount === 1 && industryRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-industries"><span class="entity-chip entity-chip-label entity-chip-compact">' + esc(label("industries", industryRefs[0]) || toTitleCase(industryRefs[0])) + '</span></div>');
-        if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        var price = formatCurrency(s.starting_price || s.from_price || s.price);
-        var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(domainCount, STR.unit_domain, 'domain|domains')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, STR.unit_scope, 'scope|scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, STR.unit_expert, 'expert|experts')) + '</span>');
-        if (industryCount > 1 || (industryCount === 1 && industryRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(industryCount, STR.unit_industry, 'industry|industries')) + '</span>');
-        if (s.country_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.country_count, STR.unit_country, 'country|countries')) + '</span>');
-        if (s.language_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.language_count, STR.unit_language, 'language|languages')) + '</span>');
-        return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
-            '<div class="service-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            iconHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
-            (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
-            '<div class="service-card-footer entity-card-footer">' +
-            (price ? '<span class="service-price entity-card-price">' + window.cmsT('price_from', 'From') + ' ' + price + '</span>' : '<span></span>') +
-            '<span class="service-cta entity-card-cta">' + window.cmsT('action_view_service', 'View Service') + '</span></div></a>';
-    }
-
-    function renderDomainCard(s) {
-        var url = normalizeCardUrl(s.url || ('/domains/' + s.slug), '#');
-        var iconName = s.icon || 'compass';
-        var iconHtml = '<div class="service-card-icon" style="--icon-url: url(' + mediaIconUrl(iconName) + ')"></div>';
-        var facets = s.facets || {};
-        var serviceRefs = Array.isArray(s.services) ? s.services : (Array.isArray(facets.services) ? facets.services : []);
-        var serviceCount = Number(s.service_count || serviceRefs.length || 0);
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var solutionRefs = Array.isArray(s.solutions) ? s.solutions : (Array.isArray(facets.solutions) ? facets.solutions : []);
-        var solutionCount = Number(s.solution_count || solutionRefs.length || 0);
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        var exactRows = [];
-        if (serviceCount === 1 && serviceRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-services"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(serviceLabelMap[serviceRefs[0]] || label("services", serviceRefs[0]) || toTitleCase(serviceRefs[0])) + '</span></div>');
-        if (scopeCount === 1 && scopeRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        if (solutionCount === 1 && solutionRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-solutions"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("solutions", solutionRefs[0]) || toTitleCase(solutionRefs[0])) + '</span></div>');
-        if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        var metrics = [];
-        if (serviceCount > 1 || (serviceCount === 1 && serviceRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(serviceCount, STR.unit_service, 'service|services')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, STR.unit_scope, 'scope|scopes')) + '</span>');
-        if (solutionCount > 1 || (solutionCount === 1 && solutionRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(solutionCount, STR.unit_solution, 'solution|solutions')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, STR.unit_expert, 'expert|experts')) + '</span>');
-        return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
-            '<div class="service-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            iconHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
-            (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
-            '<div class="service-card-footer entity-card-footer"><span></span><span class="service-cta entity-card-cta">' + window.cmsT('action_explore_domain', 'Explore Domain') + '</span></div></a>';
-    }
-
-    function renderSolutionCard(s) {
-        return window.CMSCards.renderSolutionCard(s, {
-            serviceLabel: serviceLabelMap,
-            domainLabel: function(slug) { return label('domains', slug) || toTitleCase(slug); },
-            scopeLabel: scopeLabelMap,
-            industryLabel: industryLabelMap,
-            expertLabel: function(slug) { return label('experts', slug) || toTitleCase(slug); },
-            serviceIconMap: serviceIconMap
-        });
-    }
-
-    function renderDimensionCard(s, collection) {
-        var url = normalizeCardUrl(s.url || ('/' + collection + '/' + s.slug), '#');
-        var facets = s.facets || {};
-        var domains = Array.isArray(s.domains) ? s.domains : (Array.isArray(facets.domains) ? facets.domains : []);
-        var domainCount = domains.length;
-        var serviceRefs = Array.isArray(s.services) ? s.services : (Array.isArray(facets.services) ? facets.services : []);
-        if (!serviceRefs.length && s.service) serviceRefs = [s.service];
-        var serviceCount = Number(s.service_count || serviceRefs.length || 0);
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        if (!scopeRefs.length && s.scope) scopeRefs = [s.scope];
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var marketSpeakersDisplay = s.market_speakers_display || s.native_speakers_l1 || '';
-        var marketCountryCount = Number(s.market_country_count || s.official_countries_count || 0);
-        var significantLanguagesCount = Number(s.significant_languages_count || s.official_languages_count || 0);
-        var badgeHtml = '';
-        if (s.icon) {
-            badgeHtml = '<div class="dimension-card-badge icon" style="--icon-url: url(' + mediaIconUrl(s.icon) + ')"></div>';
-        } else if (s.flag) {
-            badgeHtml = '<div class="dimension-card-badge">' + s.flag + '</div>';
-        } else if (s.code) {
-            badgeHtml = '<div class="dimension-card-badge code">' + esc(s.code) + '</div>';
-        }
-        var exactRows = [];
-        if (domainCount === 1) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-domains"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("domains", domains[0]) || toTitleCase(domains[0])) + '</span></div>');
-        }
-        if (serviceCount === 1 && serviceRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-services"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(serviceLabelMap[serviceRefs[0]] || label("services", serviceRefs[0]) || toTitleCase(serviceRefs[0])) + '</span></div>');
-        }
-        if (scopeCount === 1 && scopeRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(scopeLabelMap[scopeRefs[0]] || label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        }
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        if (expertCount === 1 && expertRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        }
-        var exactHtml = exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '';
-        var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(domainCount, STR.unit_domain, 'domain|domains')) + '</span>');
-        if (serviceCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(serviceCount, STR.unit_service, 'service|services')) + '</span>');
-        if (scopeCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(scopeCount, STR.unit_scope, 'scope|scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && !expertRefs.length)) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(expertCount, STR.unit_expert, 'expert|experts')) + '</span>');
-        if (s.case_count) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(s.case_count, STR.unit_case, 'case|cases')) + '</span>');
-        if (collection === 'languages' && marketCountryCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(marketCountryCount, STR.unit_market, 'market|markets')) + '</span>');
-        if (collection === 'countries' && significantLanguagesCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(significantLanguagesCount, STR.unit_language, 'language|languages')) + ' ' + window.cmsT('card_over_1pct', 'over 1%') + '</span>');
-        var metricsHtml = metrics.length ? '<div class="dimension-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '';
-        var highlightValue = '';
-        var highlightLabel = '';
-        if (collection === 'languages' && marketSpeakersDisplay) {
-            highlightValue = marketSpeakersDisplay;
-            highlightLabel = window.cmsT('card_tracked_speakers', 'Tracked speakers');
-        } else if (collection === 'countries' && s.population_total) {
-            highlightValue = s.population_total;
-            highlightLabel = window.cmsT('card_market_population', 'Market population');
-        }
-        var footerClass = 'dimension-card-footer entity-card-footer' + (highlightValue ? ' dimension-card-footer-highlight' : '');
-        var footerHtml = '<div class="' + footerClass + '">' +
-            (highlightValue ? '<div class="dimension-card-highlight case-result"><span class="result-value">' + esc(highlightValue) + '</span><span class="result-label">' + esc(highlightLabel) + '</span></div><span class="dimension-cta entity-card-cta">' + window.cmsT('action_explore', 'Explore') + '</span>' : '<span></span><span class="dimension-cta entity-card-cta">' + window.cmsT('action_explore', 'Explore') + '</span>') +
-            '</div>';
-        return '<a href="' + url + '" class="dimension-card entity-card entity-card-padded">' +
-            '<div class="dimension-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            badgeHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            exactHtml +
-            metricsHtml + footerHtml + '</a>';
-    }
-
-    var RENDERERS = {
-        scopes: renderScopeCard,
-        experts: renderExpertCard,
-        team: renderExpertCard,
-        cases: renderCaseCard,
-        blog: renderBlogCard,
-        domains: renderDomainCard,
-        services: renderServiceCard,
-        solutions: renderSolutionCard,
-        industries: function(s) { return renderDimensionCard(s, 'industries'); },
-        countries: function(s) { return renderDimensionCard(s, 'countries'); },
-        languages: function(s) { return renderDimensionCard(s, 'languages'); },
-        positions: function(s) { return window.CMSCards.renderPositionCard(s, {
-            countryFlagMap: countryFlagMap,
-            countryLabel: countryLabelMap,
-            languageLabel: function(slug) { return toTitleCase(slug); },
-            serviceLabel: serviceLabelMap,
-            industryLabel: industryLabelMap,
-            expertLabel: function(slug) { return label('experts', slug) || toTitleCase(slug); }
-        }); }
-    };
-
-    /* ===== Overflow trim for single-line tag rows ===== */
-    function trimOverflowTags() {
-        if (window.CMSCards && typeof window.CMSCards.fitExactChipRows === 'function') {
-            window.CMSCards.fitExactChipRows(grid);
-        }
-    }
-
-    /* ===== Filtering & rendering ===== */
-    function filterByDimension(items) {
-        if (!dimension || !value) return items;
-
-        return items.filter(function(item) {
-            var facets = item.facets || {};
-            /* For scopes: dimension fields are at item level (from relationships) */
-            if (source === 'scopes') {
-                var vals = item[dimension] || facets[dimension] || [];
-                if (!Array.isArray(vals)) vals = [vals];
-                return vals.indexOf(value) !== -1;
-            }
-            /* For cases: industry/country/language are scalars */
-            if (source === 'cases' && (dimension === 'industry' || dimension === 'country' || dimension === 'language')) {
-                return item[dimension] === value;
-            }
-            /* For solutions: scope/industry are scalars */
-            if (source === 'solutions' && (dimension === 'scope' || dimension === 'industry')) {
-                return item[dimension] === value;
-            }
-            /* For team, blog, etc: dimension is an array field */
-            var fieldVals = item[dimension] || facets[dimension] || [];
-            if (!Array.isArray(fieldVals)) fieldVals = [fieldVals];
-            return fieldVals.indexOf(value) !== -1;
-        });
-    }
-    function filterByRelationships(items) {
-        if (dimension || value || !relatedSlugs.length) return items;
-        return items.filter(function(item) {
-            return relatedSlugs.indexOf(item.slug) !== -1;
-        });
-    }
-
-    function normalizeScopes(data) {
-        return (data.scopes || []).filter(function(s){ return s.slug; }).map(function(s) {
-            var facets = s.facets || {};
+    function scrollToAdjacentCard(direction) {
+        var gridRect = grid.getBoundingClientRect();
+        var gridStyle = window.getComputedStyle(grid);
+        var paddingStart = parseFloat(gridStyle.paddingLeft) || 0;
+        var items = Array.from(grid.children).map(function(item) {
             return {
-                slug: s.slug,
-                url: s.url,
-                title: s.title,
-                menu: s.menu,
-                description: s.description,
-                featured: !!s.featured,
-                facets: facets,
-                services: facets.services || s.services || [],
-                industries: facets.industries || s.industries || [],
-                languages: facets.languages || s.languages || [],
-                countries: facets.countries || s.countries || [],
-                expert_count: s.expert_count || 0,
-                industry_count: s.industry_count || 0,
-                country_count: s.country_count || 0,
-                language_count: s.language_count || 0,
-                task_count: s.task_count || 0,
-                delivery: s.delivery || '',
-                rating: s.rating || 0,
-                price: s.from_price || s.price || 0,
-                from_price: s.from_price || s.price || 0
+                snap: Math.max(
+                    0,
+                    item.getBoundingClientRect().left - gridRect.left + grid.scrollLeft - paddingStart
+                )
             };
         });
-    }
+        if (!items.length) return;
 
-    function init() {
-        function scrollToAdjacentCard(direction) {
-            if (!grid) return;
-            var gridRect = grid.getBoundingClientRect();
-            var gridStyle = window.getComputedStyle(grid);
-            var paddingStart = parseFloat(gridStyle.paddingLeft) || 0;
-            var items = Array.from(grid.children).filter(function(item) {
-                return !item.classList.contains('catalog-mini-loading') &&
-                    !item.classList.contains('catalog-mini-empty');
-            }).map(function(item) {
-                return {
-                    snap: Math.max(
-                        0,
-                        item.getBoundingClientRect().left - gridRect.left + grid.scrollLeft - paddingStart
-                    )
-                };
-            });
-            if (!items.length) return;
+        var current = grid.scrollLeft;
+        var threshold = 4;
+        var target = null;
 
-            var current = grid.scrollLeft;
-            var threshold = 4;
-            var target = null;
-
-            if (direction > 0) {
-                target = items.find(function(item) { return item.snap > current + threshold; });
-                if (!target) target = items[items.length - 1];
-            } else {
-                target = items.slice().reverse().find(function(item) { return item.snap < current - threshold; });
-                if (!target) target = items[0];
-            }
-
-            grid.scrollTo({ left: target.snap, behavior: 'smooth' });
+        if (direction > 0) {
+            target = items.find(function(item) { return item.snap > current + threshold; });
+            if (!target) target = items[items.length - 1];
+        } else {
+            target = items.slice().reverse().find(function(item) { return item.snap < current - threshold; });
+            if (!target) target = items[0];
         }
 
-        if (prevBtn && nextBtn) {
-            prevBtn.addEventListener('click', function() {
-                scrollToAdjacentCard(-1);
-            });
-            nextBtn.addEventListener('click', function() {
-                scrollToAdjacentCard(1);
-            });
-        }
-
-        fetch(cfg.url)
-            .then(function(res) { return res.ok ? res.json() : Promise.reject(); })
-            .then(function(data) {
-                LABELS = data.labels || {};
-                var items;
-                if (source === 'scopes') {
-                    items = normalizeScopes(data);
-                } else {
-                    items = cfg.dataKey ? (data[cfg.dataKey] || []) : (Array.isArray(data) ? data : []);
-                }
-
-                items = items.map(function(item, index) {
-                    item.__catalogMiniIndex = index;
-                    item.__catalogMiniRelationshipIndex = relatedSlugs.length ? relatedSlugs.indexOf(item.slug) : index;
-                    return item;
-                });
-                items = filterByDimension(items);
-                items = filterByRelationships(items);
-                items = sortByRelationshipOrder(items);
-                if (effectiveLimit > 0) items = items.slice(0, effectiveLimit);
-
-                var render = RENDERERS[source] || RENDERERS.scopes;
-                if (items.length === 0) {
-                    section.hidden = true;
-                } else {
-                    grid.innerHTML = items.map(render).join('');
-                    trimOverflowTags();
-                }
-            })
-            .catch(function() {
-                grid.innerHTML = '<div class="catalog-mini-empty">' + window.cmsT('catalog_load_error', 'Could not load data.') + '</div>';
-            });
+        grid.scrollTo({ left: target.snap, behavior: 'smooth' });
     }
 
-    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
-    else init();
+    prevBtn.addEventListener('click', function() {
+        scrollToAdjacentCard(-1);
+    });
+    nextBtn.addEventListener('click', function() {
+        scrollToAdjacentCard(1);
+    });
 })();
 </script>
 
@@ -6433,9 +6170,6 @@
 
 
 
-
-
-
 <a href="/ru/cases/alvadi/" class="case-card entity-card">
     <div class="case-image case-image-logo">
         
@@ -6473,7 +6207,7 @@
             
             
             <div class="entity-card-exact-row case-tag-row case-tag-row-locales">
-                <span class="case-tag entity-chip entity-chip-soft entity-chip-flag" title="Европейский союз">Eu</span>
+                <span class="case-tag entity-chip entity-chip-soft entity-chip-flag" title="Европейский союз">🇪🇺</span>
                 
             </div>
             
@@ -6529,7 +6263,6 @@
 
 
 
-
 <a href="/ru/team/dima-gerko/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -6557,32 +6290,32 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Austria">🇦🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Австрия">🇦🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
         </div>
         
@@ -6627,7 +6360,6 @@
 
 
 
-
 <a href="/ru/team/elena-grakovich/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -6655,28 +6387,28 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
         </div>
         
@@ -6721,7 +6453,6 @@
 
 
 
-
 <a href="/ru/team/anastasiya-antoniuk/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -6749,18 +6480,18 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
         </div>
         
@@ -6805,7 +6536,6 @@
 
 
 
-
 <a href="/ru/team/vitali-bakun/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -6833,22 +6563,22 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
         </div>
         
@@ -6893,7 +6623,6 @@
 
 
 
-
 <a href="/ru/team/dmitriy-razakhatsky/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -6921,26 +6650,26 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
         </div>
         
@@ -6985,7 +6714,6 @@
 
 
 
-
 <a href="/ru/team/alaaddin-saracyakupoglu/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -7013,22 +6741,22 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="EU">EU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Европейский союз">🇪🇺</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Turkey">🇹🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Турция">🇹🇷</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Turkish">TU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Турецкий">TR</span>
             
         </div>
         
@@ -7073,7 +6801,6 @@
 
 
 
-
 <a href="/ru/team/aldillah-melisa-febryana/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -7101,14 +6828,14 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Australia">🇦🇺</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Австралия">🇦🇺</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
         </div>
         
@@ -7153,7 +6880,6 @@
 
 
 
-
 <a href="/ru/team/gael-balouek/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -7181,26 +6907,26 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Canada">🇨🇦</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Канада">🇨🇦</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
         </div>
         
@@ -7245,7 +6971,6 @@
 
 
 
-
 <a href="/ru/team/mariia-nedbaievska/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -7273,20 +6998,20 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
         </div>
         
@@ -7331,7 +7056,6 @@
 
 
 
-
 <a href="/ru/team/muhammad-hijazi-siddiqui/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -7363,26 +7087,26 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Australia">🇦🇺</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Австралия">🇦🇺</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Brazil">🇧🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Бразилия">🇧🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Canada">🇨🇦</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Канада">🇨🇦</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
         </div>
         
@@ -7425,7 +7149,6 @@
 
 
 
-
 <a href="/ru/team/rita-pavide/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -7447,16 +7170,16 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="EU">EU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Европейский союз">🇪🇺</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
         </div>
         
@@ -7501,7 +7224,6 @@
 
 
 
-
 <a href="/ru/team/valentina-soldatkina/" class="expert-card entity-card entity-card-padded">
     <div class="expert-card-top">
         <div class="expert-info">
@@ -7537,22 +7259,22 @@
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row expert-tag-row expert-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
         </div>
         
@@ -7604,7 +7326,6 @@
 
 
 
-
 <a href="/ru/positions/seo-expert/" class="position-card entity-card entity-card-padded">
     
     <div class="position-hiring-badge position-hiring-active">Активный найм</div>
@@ -7623,44 +7344,44 @@
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Austria">🇦🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Австрия">🇦🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Chinese">ZH</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Китайский">ZH</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Japanese">JA</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Японский">JA</span>
             
         </div>
         
@@ -7669,8 +7390,8 @@
     
     <div class="position-tag-row position-tag-row-metrics entity-card-meta-row">
         
-        <span class="entity-card-stat">2 эксперта</span>
         <span class="entity-card-stat">9 отраслей</span>
+        <span class="entity-card-stat">2 эксперта</span>
     </div>
     
     <div class="position-card-footer entity-card-footer entity-card-footer-end">
@@ -7683,7 +7404,6 @@
             
             
                 
-
 
 
 
@@ -7711,40 +7431,40 @@
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Austria">🇦🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Австрия">🇦🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
         </div>
         
@@ -7753,8 +7473,8 @@
     
     <div class="position-tag-row position-tag-row-metrics entity-card-meta-row">
         <span class="entity-card-stat">3 услуги</span>
-        
         <span class="entity-card-stat">5 отраслей</span>
+        
     </div>
     
     <div class="position-card-footer entity-card-footer entity-card-footer-end">
@@ -7767,7 +7487,6 @@
             
             
                 
-
 
 
 
@@ -7795,58 +7514,58 @@
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Italy">🇮🇹</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Италия">🇮🇹</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Netherlands">🇳🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Нидерланды">🇳🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Sweden">🇸🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Швеция">🇸🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Turkey">🇹🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Турция">🇹🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Brazil">🇧🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Бразилия">🇧🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Mexico">🇲🇽</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Мексика">🇲🇽</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Japan">🇯🇵</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Япония">🇯🇵</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UAE">🇦🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="ОАЭ">🇦🇪</span>
             
         </div>
         
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Italian">IT</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Итальянский">IT</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Dutch">DU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Нидерландский">NL</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Swedish">SW</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Шведский">SV</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Turkish">TU</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Турецкий">TR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Japanese">JA</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Японский">JA</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Arabic">AR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Арабский">AR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
         </div>
         
@@ -7855,8 +7574,8 @@
     
     <div class="position-tag-row position-tag-row-metrics entity-card-meta-row">
         <span class="entity-card-stat">5 услуг</span>
-        
         <span class="entity-card-stat">7 отраслей</span>
+        
     </div>
     
     <div class="position-card-footer entity-card-footer entity-card-footer-end">
@@ -7869,7 +7588,6 @@
             
             
                 
-
 
 
 
@@ -7901,30 +7619,30 @@
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-countries">
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row position-tag-row position-tag-row-languages">
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
         </div>
         
@@ -7933,8 +7651,8 @@
     
     <div class="position-tag-row position-tag-row-metrics entity-card-meta-row">
         
-        
         <span class="entity-card-stat">8 отраслей</span>
+        
     </div>
     
     <div class="position-card-footer entity-card-footer entity-card-footer-end">
@@ -7964,7 +7682,6 @@
             
             
                 
-
 
 
 
@@ -8043,7 +7760,6 @@
 
 
 
-
 <a href="/ru/industries/legal/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Юридические услуги</div>
@@ -8076,7 +7792,6 @@
             
             
                 
-
 
 
 
@@ -8155,7 +7870,6 @@
 
 
 
-
 <a href="/ru/industries/ecommerce/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Интернет-магазины</div>
@@ -8188,7 +7902,6 @@
             
             
                 
-
 
 
 
@@ -8267,7 +7980,6 @@
 
 
 
-
 <a href="/ru/industries/fintech/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Финтех</div>
@@ -8300,7 +8012,6 @@
             
             
                 
-
 
 
 
@@ -8379,7 +8090,6 @@
 
 
 
-
 <a href="/ru/industries/crypto/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Криптовалюта</div>
@@ -8412,7 +8122,6 @@
             
             
                 
-
 
 
 
@@ -8491,7 +8200,6 @@
 
 
 
-
 <a href="/ru/industries/game-studios/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Игровые студии</div>
@@ -8524,7 +8232,6 @@
             
             
                 
-
 
 
 
@@ -8603,7 +8310,6 @@
 
 
 
-
 <a href="/ru/industries/pharma/" class="dimension-card entity-card entity-card-padded">
     <div class="dimension-card-header">
         <div class="entity-card-title">Фарма и life sciences</div>
@@ -8636,7 +8342,6 @@
             
             
                 
-
 
 
 
@@ -8732,7 +8437,6 @@
 
 
 
-
     
     
 
@@ -8771,7 +8475,6 @@
             
             
                 
-
 
 
 
@@ -8856,7 +8559,6 @@
 
 
 
-
     
     
 
@@ -8895,7 +8597,6 @@
             
             
                 
-
 
 
 
@@ -8980,7 +8681,6 @@
 
 
 
-
     
     
 
@@ -9019,7 +8719,6 @@
             
             
                 
-
 
 
 
@@ -9104,7 +8803,6 @@
 
 
 
-
     
     
 
@@ -9143,7 +8841,6 @@
             
             
                 
-
 
 
 
@@ -9228,7 +8925,6 @@
 
 
 
-
     
     
 
@@ -9267,7 +8963,6 @@
             
             
                 
-
 
 
 
@@ -9352,7 +9047,6 @@
 
 
 
-
     
     
 
@@ -9391,7 +9085,6 @@
             
             
                 
-
 
 
 
@@ -9476,7 +9169,6 @@
 
 
 
-
     
     
 
@@ -9515,7 +9207,6 @@
             
             
                 
-
 
 
 
@@ -9600,7 +9291,6 @@
 
 
 
-
     
     
 
@@ -9639,7 +9329,6 @@
             
             
                 
-
 
 
 
@@ -9724,7 +9413,6 @@
 
 
 
-
     
     
 
@@ -9763,7 +9451,6 @@
             
             
                 
-
 
 
 
@@ -9848,7 +9535,6 @@
 
 
 
-
     
     
 
@@ -9887,7 +9573,6 @@
             
             
                 
-
 
 
 
@@ -9972,7 +9657,6 @@
 
 
 
-
     
     
 
@@ -10011,7 +9695,6 @@
             
             
                 
-
 
 
 
@@ -10096,7 +9779,6 @@
 
 
 
-
     
     
 
@@ -10135,7 +9817,6 @@
             
             
                 
-
 
 
 
@@ -10220,7 +9901,6 @@
 
 
 
-
     
     
 
@@ -10259,7 +9939,6 @@
             
             
                 
-
 
 
 
@@ -10344,7 +10023,6 @@
 
 
 
-
     
     
 
@@ -10383,7 +10061,6 @@
             
             
                 
-
 
 
 
@@ -10468,7 +10145,6 @@
 
 
 
-
     
     
 
@@ -10507,7 +10183,6 @@
             
             
                 
-
 
 
 
@@ -10592,7 +10267,6 @@
 
 
 
-
     
     
 
@@ -10631,7 +10305,6 @@
             
             
                 
-
 
 
 
@@ -10716,7 +10389,6 @@
 
 
 
-
     
     
 
@@ -10755,7 +10427,6 @@
             
             
                 
-
 
 
 
@@ -10840,7 +10511,6 @@
 
 
 
-
     
     
 
@@ -10879,7 +10549,6 @@
             
             
                 
-
 
 
 
@@ -10964,7 +10633,6 @@
 
 
 
-
     
     
 
@@ -11003,7 +10671,6 @@
             
             
                 
-
 
 
 
@@ -11088,7 +10755,6 @@
 
 
 
-
     
     
 
@@ -11127,7 +10793,6 @@
             
             
                 
-
 
 
 
@@ -11212,7 +10877,6 @@
 
 
 
-
     
     
 
@@ -11251,7 +10915,6 @@
             
             
                 
-
 
 
 
@@ -11336,7 +10999,6 @@
 
 
 
-
     
     
 
@@ -11375,7 +11037,6 @@
             
             
                 
-
 
 
 
@@ -11477,7 +11138,6 @@
 
 
 
-
     
     
 
@@ -11516,7 +11176,6 @@
             
             
                 
-
 
 
 
@@ -11601,7 +11260,6 @@
 
 
 
-
     
     
 
@@ -11640,7 +11298,6 @@
             
             
                 
-
 
 
 
@@ -11725,7 +11382,6 @@
 
 
 
-
     
     
 
@@ -11764,7 +11420,6 @@
             
             
                 
-
 
 
 
@@ -11849,7 +11504,6 @@
 
 
 
-
     
     
 
@@ -11888,7 +11542,6 @@
             
             
                 
-
 
 
 
@@ -11973,7 +11626,6 @@
 
 
 
-
     
     
 
@@ -12012,7 +11664,6 @@
             
             
                 
-
 
 
 
@@ -12097,7 +11748,6 @@
 
 
 
-
     
     
 
@@ -12136,7 +11786,6 @@
             
             
                 
-
 
 
 
@@ -12221,7 +11870,6 @@
 
 
 
-
     
     
 
@@ -12260,7 +11908,6 @@
             
             
                 
-
 
 
 
@@ -12345,7 +11992,6 @@
 
 
 
-
     
     
 
@@ -12384,7 +12030,6 @@
             
             
                 
-
 
 
 
@@ -12469,7 +12114,6 @@
 
 
 
-
     
     
 
@@ -12531,7 +12175,6 @@
 
 
 
-
     
     
 
@@ -12570,7 +12213,6 @@
             
             
                 
-
 
 
 
@@ -12666,7 +12308,6 @@
 
 
 
-
     
     
 
@@ -12705,7 +12346,6 @@
             
             
                 
-
 
 
 
@@ -12801,7 +12441,6 @@
 
 
 
-
     
     
 
@@ -12840,7 +12479,6 @@
             
             
                 
-
 
 
 
@@ -12925,7 +12563,6 @@
 
 
 
-
     
     
 
@@ -12964,7 +12601,6 @@
             
             
                 
-
 
 
 
@@ -13049,7 +12685,6 @@
 
 
 
-
     
     
 
@@ -13088,7 +12723,6 @@
             
             
                 
-
 
 
 
@@ -13173,7 +12807,6 @@
 
 
 
-
     
     
 
@@ -13212,7 +12845,6 @@
             
             
                 
-
 
 
 
@@ -13285,7 +12917,6 @@
             
             
                 
-
 
 
 
@@ -13396,7 +13027,6 @@
 
 
 
-
 <a href="/ru/blog/how-ai-chooses-sources/" class="blog-card entity-card entity-card-padded">
     
     <div class="blog-card-tags">
@@ -13405,7 +13035,7 @@
     
     <div class="blog-card-title entity-card-title">Как ИИ выбирает источники</div>
     <div class="blog-card-meta type-meta">
-        <span>2025-01-06</span>
+        <span><time datetime="2025-01-06">2025-01-06</time></span>
         <span>Автор: Дима Герко</span>
     </div>
     
@@ -13421,36 +13051,36 @@
         
         <div class="entity-card-exact-row blog-card-chip-row blog-card-chip-row-countries">
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
         </div>
         
         
         <div class="entity-card-exact-row blog-card-chip-row blog-card-chip-row-languages">
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
         </div>
         
@@ -13499,7 +13129,6 @@
 
 
 
-
 <a href="/ru/blog/why-seo-matters-in-2026/" class="blog-card entity-card entity-card-padded">
     
     <div class="blog-card-tags">
@@ -13508,7 +13137,7 @@
     
     <div class="blog-card-title entity-card-title">Почему SEO важно в 2026</div>
     <div class="blog-card-meta type-meta">
-        <span>2026-03-18</span>
+        <span><time datetime="2026-03-18">2026-03-18</time></span>
         <span>Автор: Дмитрий Разахацкий</span>
     </div>
     
@@ -13524,34 +13153,34 @@
         
         <div class="entity-card-exact-row blog-card-chip-row blog-card-chip-row-countries">
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row blog-card-chip-row blog-card-chip-row-languages">
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
         </div>
         
@@ -13600,7 +13229,6 @@
 
 
 
-
 <a href="/ru/blog/seo-packages-comparison/" class="blog-card entity-card entity-card-padded">
     
     <div class="blog-card-tags">
@@ -13609,7 +13237,7 @@
     
     <div class="blog-card-title entity-card-title">Сравнение SEO-пакетов</div>
     <div class="blog-card-meta type-meta">
-        <span>2026-07-16</span>
+        <span><time datetime="2026-07-16">2026-07-16</time></span>
         <span>Автор: Дмитрий Разахацкий</span>
     </div>
     
@@ -13625,40 +13253,40 @@
         
         <div class="entity-card-exact-row blog-card-chip-row blog-card-chip-row-countries">
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Germany">🇩🇪</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Германия">🇩🇪</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="USA">🇺🇸</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="США">🇺🇸</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="UK">🇬🇧</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Великобритания">🇬🇧</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="France">🇫🇷</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Франция">🇫🇷</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Austria">🇦🇹</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Австрия">🇦🇹</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Poland">🇵🇱</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Польша">🇵🇱</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Portugal">🇵🇹</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Португалия">🇵🇹</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Spain">🇪🇸</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-flag" title="Испания">🇪🇸</span>
             
         </div>
         
         
         <div class="entity-card-exact-row blog-card-chip-row blog-card-chip-row-languages">
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="English">EN</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Английский">EN</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="German">DE</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Немецкий">DE</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="French">FR</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Французский">FR</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Spanish">ES</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Испанский">ES</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Russian">RU</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Русский">RU</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Polish">PO</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Польский">PL</span>
             
-            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Portuguese">PT</span>
+            <span class="blog-chip entity-chip entity-chip-soft entity-chip-code" title="Португальский">PT</span>
             
         </div>
         

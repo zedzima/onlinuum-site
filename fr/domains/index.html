@@ -353,7 +353,7 @@
     
     
     </script>
-    <script src="/_assets/js/cards.js?v=545a6761" defer></script>
+    <script src="/_assets/js/cards.js?v=7170ebef" defer></script>
 
     <!-- Analytics (skip on block demo pages) -->
     
@@ -1538,7 +1538,12 @@
             </div>
             
             <div class="block">
-                <!-- Universal Catalog Block: Filterable entity grid -->
+                <!-- Universal Catalog Block: filterable entity grid.
+     Cards are rendered at build time (core/src/catalog_ssr.py) from the same index data
+     _data/*.json holds, so the page links to every entry in plain HTML. The script below
+     only filters, sorts and paginates the cards it finds in the grid. -->
+
+
 
 
 
@@ -1564,7 +1569,7 @@
 
     <div class="catalog-toolbar">
         <div class="catalog-count">
-            <span class="catalog-count-num">0</span> leviers
+            <span class="catalog-count-num">3</span> leviers
         </div>
         <div class="catalog-sort">
             
@@ -1573,11 +1578,158 @@
         </div>
     </div>
 
-    <div class="catalog-grid entity-card-grid catalog-count-1">
-        <div class="catalog-loading">Chargement…</div>
+    <div class="catalog-grid entity-card-grid">
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/fr/domains/search-marketing/" class="service-card entity-card entity-card-padded">
+    <div class="service-card-header">
+        <div class="entity-card-title">Search marketing</div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/search-new.svg?v=5bf4bc0c')"></div>
+    </div>
+    
+    <p class="entity-card-copy">Search marketing multilingue en SEO, AEO, SEM et SEA. Recherche de mots-clés et annonces natives par langue, une seule couche de mesure pour tous.</p>
+    
+    
+    
+    <div class="service-card-meta entity-card-meta-row">
+        <span class="service-meta-item entity-card-stat">4 services</span>
+        <span class="service-meta-item entity-card-stat">6 packs</span>
+        <span class="service-meta-item entity-card-stat">2 solutions</span>
+        <span class="service-meta-item entity-card-stat">3 experts</span>
+    </div>
+    
+    <div class="service-card-footer entity-card-footer">
+        <span></span>
+        <span class="service-cta entity-card-cta">Voir le levier</span>
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/fr/domains/app-marketing/" class="service-card entity-card entity-card-padded">
+    <div class="service-card-header">
+        <div class="entity-card-title">Marketing mobile</div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/smartphone.svg?v=5bf4bc0c')"></div>
+    </div>
+    
+    <p class="entity-card-copy">Marketing mobile packagé : ASO, acquisition payante, CRO de la fiche et rétention sur iOS et Android, en plusieurs langues. Voir ce qui est inclus.</p>
+    
+    
+    <div class="entity-card-exact-chips">
+        
+        <div class="entity-card-exact-row service-chip-row service-chip-row-services">
+            <span class="entity-chip entity-chip-label entity-chip-wide">ASO</span>
+        </div>
+        
+        
+        
+        <div class="entity-card-exact-row service-chip-row service-chip-row-solutions">
+            <span class="entity-chip entity-chip-label entity-chip-wide">Conseil en marketing digital</span>
+        </div>
+        
+        
+        <div class="entity-card-exact-row service-chip-row service-chip-row-experts">
+            <span class="entity-chip entity-chip-label entity-chip-wide">Dima Gerko</span>
+        </div>
+        
+    </div>
+    
+    
+    <div class="service-card-meta entity-card-meta-row">
+        
+        <span class="service-meta-item entity-card-stat">2 packs</span>
+        
+        
+    </div>
+    
+    <div class="service-card-footer entity-card-footer">
+        <span></span>
+        <span class="service-cta entity-card-cta">Voir le levier</span>
+    </div>
+</a>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/fr/domains/community-marketing/" class="service-card entity-card entity-card-padded">
+    <div class="service-card-header">
+        <div class="entity-card-title">Community marketing</div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/users.svg?v=5bf4bc0c')"></div>
+    </div>
+    
+    <p class="entity-card-copy">Community management, contenu, vidéo et e-mail pour gagner la confiance et faire grandir une audience fidèle, de façon organique.</p>
+    
+    
+    <div class="entity-card-exact-chips">
+        
+        
+        
+        
+        <div class="entity-card-exact-row service-chip-row service-chip-row-experts">
+            <span class="entity-chip entity-chip-label entity-chip-wide">Dima Gerko</span>
+        </div>
+        
+    </div>
+    
+    
+    <div class="service-card-meta entity-card-meta-row">
+        <span class="service-meta-item entity-card-stat">2 services</span>
+        <span class="service-meta-item entity-card-stat">2 packs</span>
+        <span class="service-meta-item entity-card-stat">2 solutions</span>
+        
+    </div>
+    
+    <div class="service-card-footer entity-card-footer">
+        <span></span>
+        <span class="service-cta entity-card-cta">Voir le levier</span>
+    </div>
+</a>
+        
+        
     </div>
 
     <nav class="catalog-pagination hidden" aria-label="Pages du catalogue"></nav>
+    <script type="application/json" data-catalog-items>[{"case_count": 1, "expert_count": 3, "facets": {"blog-posts": ["how-ai-chooses-sources", "seo-packages-comparison", "why-seo-matters-in-2026"], "cases": ["alvadi"], "countries": ["france", "eu"], "experts": ["dima-gerko", "vitali-bakun", "alaaddin-saracyakupoglu"], "industries": ["ecommerce", "saas", "fintech"], "languages": ["english", "french"], "positions": ["seo-expert", "aso-specialist", "marketing-consultant", "ppc-specialist"], "scopes": ["technical-seo", "seo-research", "ppc-audit", "google-ads-search", "content-strategy", "content-writing"], "services": ["content", "aso", "seo", "ppc"], "solutions": ["digital-marketing-consulting", "multilingual-seo"]}, "featured": true, "scope_count": 6, "service_count": 4, "slug": "search-marketing", "solution_count": 2, "title": "Agence SEM : R\u00e9f\u00e9rencement Naturel et Payant"}, {"case_count": 0, "expert_count": 1, "facets": {"countries": ["france", "eu"], "experts": ["dima-gerko"], "industries": ["saas", "fintech", "ecommerce"], "languages": ["english", "french"], "positions": ["aso-specialist"], "scopes": ["aso-optimization", "aso-localization"], "services": ["aso"], "solutions": ["digital-marketing-consulting"]}, "featured": true, "scope_count": 2, "service_count": 1, "slug": "app-marketing", "solution_count": 1, "title": "Marketing Mobile\u202f: Acquisition et ASO"}, {"case_count": 0, "expert_count": 1, "facets": {"countries": ["france", "eu"], "experts": ["dima-gerko"], "industries": ["ecommerce", "saas", "fintech"], "languages": ["english", "french"], "scopes": ["seo-research", "content-strategy"], "services": ["social-media", "content"], "solutions": ["digital-marketing-consulting", "multilingual-seo"]}, "featured": true, "scope_count": 2, "service_count": 2, "slug": "community-marketing", "solution_count": 2, "title": "Community Management et Marketing Communautaire"}]</script>
 </section>
 
 <script>
@@ -1588,12 +1740,11 @@
     var paginationEl = section.querySelector('.catalog-pagination');
     var countEl = section.querySelector('.catalog-count-num');
     var sortEl = section.querySelector('.catalog-sort-select');
-    var mediaHash = '5bf4bc0c';
+    var dataEl = section.querySelector('script[data-catalog-items]');
 
     var allItems = [];
     var renderedItems = [];
     var currentPage = 1;
-    var LABELS = {};
     var guidedDomainCatalog = section.dataset.guidedDomain === 'true';
     var filterControls = section.querySelector('[data-filter-controls]');
     var domainContext = section.querySelector('[data-domain-context]');
@@ -1615,76 +1766,43 @@
         availableDomains[chip.dataset.domainValue] = chip.textContent.trim();
     });
 
-    function mediaIconUrl(name) {
-        var url = '/_media/icons/' + name + '.svg';
-        return mediaHash ? url + '?v=' + mediaHash : url;
+    /* ===== Cards: rendered at build time, in the order the inline data lists them ===== */
+    try {
+        allItems = JSON.parse(dataEl ? dataEl.textContent : '[]');
+    } catch (error) {
+        allItems = [];
+    }
+    if (!Array.isArray(allItems)) allItems = [];
+    var builtCards = Array.from(grid.children).filter(function(node) {
+        return node.classList.contains('entity-card');
+    });
+    allItems = allItems.map(function(item, index) {
+        item.__catalogIndex = index;
+        item.__html = builtCards[index] ? builtCards[index].outerHTML : '';
+        return item;
+    });
+
+    function renderCard(item) {
+        return item.__html;
     }
 
-    /* ===== Source configs ===== */
-    var SOURCES = {
-        scopes: {
-            url: '_data/scopes-index.json',
-            dataKey: 'scopes',
-            sortOptions: [['popular', window.cmsT('sort_popular', 'Popular')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        experts: {
-            url: '_data/team.json',
-            dataKey: 'experts',
-            sortOptions: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        team: {
-            url: '_data/team.json',
-            dataKey: 'experts',
-            sortOptions: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        cases: {
-            url: '_data/cases.json',
-            dataKey: 'cases',
-            sortOptions: [['default', window.cmsT('sort_newest', 'Newest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        blog: {
-            url: '_data/blog.json',
-            dataKey: null,
-            sortOptions: [['newest', window.cmsT('sort_newest', 'Newest First')], ['oldest', window.cmsT('sort_oldest', 'Oldest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]]
-        },
-        domains: {
-            url: '_data/domains-index.json',
-            dataKey: 'domains',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['services', window.cmsT('sort_most_services', 'Most Services')]]
-        },
-        services: {
-            url: '_data/services-index.json',
-            dataKey: 'services',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        solutions: {
-            url: '_data/solutions-index.json',
-            dataKey: 'solutions',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['price', window.cmsT('sort_lowest_price', 'Lowest Price')]]
-        },
-        industries: {
-            url: '_data/industries-index.json',
-            dataKey: 'industries',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        countries: {
-            url: '_data/countries-index.json',
-            dataKey: 'countries',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        languages: {
-            url: '_data/languages-index.json',
-            dataKey: 'languages',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]]
-        },
-        positions: {
-            url: '_data/positions-index.json',
-            dataKey: 'positions',
-            sortOptions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['experts', window.cmsT('sort_most_experts', 'Most Experts')]]
-        }
+    /* ===== Sort options per source ===== */
+    var SORT_OPTIONS = {
+        scopes: [['popular', window.cmsT('sort_popular', 'Popular')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        experts: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        team: [['projects', window.cmsT('sort_most_projects', 'Most Projects')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        cases: [['default', window.cmsT('sort_newest', 'Newest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        blog: [['newest', window.cmsT('sort_newest', 'Newest First')], ['oldest', window.cmsT('sort_oldest', 'Oldest First')], ['name', window.cmsT('sort_name_az', 'A-Z')]],
+        domains: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['services', window.cmsT('sort_most_services', 'Most Services')]],
+        services: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        solutions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['price', window.cmsT('sort_lowest_price', 'Lowest Price')]],
+        industries: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        countries: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        languages: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['scopes', window.cmsT('sort_most_scopes', 'Most Scopes')]],
+        positions: [['default', window.cmsT('sort_default', 'Default')], ['name', window.cmsT('sort_name_az', 'A-Z')], ['experts', window.cmsT('sort_most_experts', 'Most Experts')]]
     };
 
-    var cfg = SOURCES[source] || SOURCES.scopes;
+    var sortOptions = SORT_OPTIONS[source] || SORT_OPTIONS.scopes;
 
     /* Auto-detect filters from DOM */
     var filterEls = section.querySelectorAll('[data-filter]');
@@ -1806,59 +1924,14 @@
         });
     }
 
-    /* ===== Display maps (visual-only, not data) ===== */
-    var langCodeMap = { 'english': 'EN', 'german': 'DE', 'french': 'FR', 'spanish': 'ES', 'russian': 'RU', 'chinese': 'ZH', 'japanese': 'JA', 'italian': 'IT', 'portuguese': 'PT' };
-    var countryFlagMap = { 'usa': '🇺🇸', 'uk': '🇬🇧', 'germany': '🇩🇪', 'austria': '🇦🇹', 'france': '🇫🇷', 'spain': '🇪🇸', 'italy': '🇮🇹', 'canada': '🇨🇦', 'china': '🇨🇳', 'japan': '🇯🇵', 'russia': '🇷🇺' };
-    var serviceIconMap = { 'seo': 'search', 'aeo': 'lightning', 'aso': 'smartphone', 'digital-marketing': 'globe', 'content': 'pen-tool', 'social-media': 'megaphone', 'paid-social': 'megaphone', 'ppc': 'target', 'email': 'mail', 'analytics': 'analytics', 'cro': 'chart', 'video': 'video', 'pr': 'newspaper', 'orm': 'shield', 'automation': 'code', 'marketplace-management': 'layers', 'affiliate': 'users', 'app-marketing': 'smartphone', 'web-development': 'layout' };
-    var serviceLabelMap = { 'digital-marketing': 'Digital Marketing', 'seo': 'SEO', 'aeo': 'AEO', 'aso': 'ASO', 'content': 'Content', 'ppc': 'PPC', 'analytics': 'Analytics', 'social-media': 'Social Media', 'paid-social': 'Paid Social', 'email': 'Email', 'cro': 'CRO', 'video': 'Video', 'pr': 'PR', 'orm': 'Online Reputation Management', 'automation': 'Automation', 'marketplace-management': 'Marketplace Management', 'affiliate': 'Affiliate', 'app-marketing': 'App Marketing', 'web-development': 'Web Development' };
-    var scopeLabelMap = { 'technical-seo': 'Technical SEO', 'ai-optimisation': 'AI Optimization', 'content-strategy': 'Content Strategy', 'ppc-management': 'PPC Management', 'analytics-setup': 'Analytics', 'localization': 'Localization' };
-
-    function label(dimension, slug) {
-        return ((window.CMS_ENTITY_LABELS || {})[dimension] || {})[slug] || (LABELS[dimension] || {})[slug] || slug;
-    }
-
     function esc(str) { var d = document.createElement('div'); d.textContent = str || ''; return d.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;'); }
     function toTitleCase(text) {
         return String(text || '')
             .replace(/[-_]+/g, ' ')
             .replace(/\b\w/g, function(ch) { return ch.toUpperCase(); });
     }
-    function formatAuthorName(author) {
-        if (!author) return '';
-        return toTitleCase(author);
-    }
-    function formatDate(value) {
-        if (!value) return '';
-        var d = new Date(value);
-        if (isNaN(d.getTime())) return String(value);
-        var docLang = document.documentElement.lang || 'en';
-        var locale = docLang === 'en' ? 'en-US' : docLang;
-        return d.toLocaleDateString(locale, { year: 'numeric', month: 'short', day: 'numeric' });
-    }
-    function pluralize(count, unitKey, fallbackForms) {
-        return count + ' ' + window.cmsPlural(count, (window.CMS_STRINGS || {})[unitKey], fallbackForms);
-    }
     function isFeatured(item) {
         return !!(item && item.featured);
-    }
-    function formatCurrency(value) {
-        var n = Number(value);
-        if (!isFinite(n) || n <= 0) return '';
-        return '$' + Math.round(n);
-    }
-    function normalizeCardUrl(value, fallback) {
-        var href = value === undefined || value === null || value === '' ? (fallback || '#') : String(value).trim();
-        if (!href) href = fallback || '#';
-        if (/^(https?:\/\/|mailto:|tel:|#)/i.test(href)) return href;
-        var normalized = href.replace(/\\/g, '/');
-        var comparable = normalized.replace(/^\.\//, '').replace(/^\/+/, '').toLowerCase();
-        if (comparable === 'contact' || comparable.indexOf('contact/') === 0 || comparable.indexOf('contact?') === 0) {
-            return '#sidebar-contact';
-        }
-        var clean = normalized.replace(/^\.\//, '').replace(/^\/+/, '');
-        var basePath = new URL(document.baseURI).pathname.replace(/\/$/, '');
-        if (clean && clean.slice(-1) !== '/' && clean.indexOf('?') === -1 && clean.split('/').pop().indexOf('.') === -1) clean += '/';
-        return clean ? (basePath + '/' + clean) : (basePath + '/');
     }
     function compareFeatured(a, b) {
         return Number(isFeatured(b)) - Number(isFeatured(a));
@@ -1888,220 +1961,8 @@
         return String(a[key] || '').localeCompare(String(b[key] || ''));
     }
 
-    /* ===== Card renderers ===== */
-    function renderScopeCard(s) {
-        return window.CMSCards.renderScopeCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            domainLabel: function(slug) { return label('domains', slug) || toTitleCase(slug); },
-            serviceIconMap: serviceIconMap
-        });
-    }
-
-    function renderExpertCard(s) {
-        return window.CMSCards.renderExpertCard(s, {
-            langCodeMap: langCodeMap,
-            countryFlagMap: countryFlagMap,
-            countryLabel: function(slug) { return label('countries', slug); },
-            languageLabel: function(slug) { return label('languages', slug); },
-            industryLabel: function(slug) { return label('industries', slug); },
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); }
-        });
-    }
-
-    function renderCaseCard(s) {
-        return window.CMSCards.renderCaseCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            countryLabel: function(slug) { return label('countries', slug) || toTitleCase(slug); },
-            countryFlagMap: countryFlagMap,
-            languageLabel: function(slug) { return label('languages', slug) || toTitleCase(slug); },
-            langCodeMap: langCodeMap
-        });
-    }
-
-    function renderBlogCard(s) {
-        return window.CMSCards.renderBlogCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            scopeLabel: function(slug) { return label('scopes', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            countryLabel: function(slug) { return label('countries', slug) || toTitleCase(slug); },
-            countryFlagMap: countryFlagMap,
-            languageLabel: function(slug) { return label('languages', slug) || toTitleCase(slug); },
-            langCodeMap: langCodeMap
-        });
-    }
-
-    function renderServiceCard(s) {
-        var url = normalizeCardUrl(s.url || ('/services/' + s.slug), '#');
-        var iconName = serviceIconMap[s.slug] || 'settings';
-        var iconHtml = '<div class="service-card-icon" style="--icon-url: url(' + mediaIconUrl(iconName) + ')"></div>';
-        var facets = s.facets || {};
-        var domains = Array.isArray(s.domains) ? s.domains : (Array.isArray(facets.domains) ? facets.domains : []);
-        var domainCount = domains.length;
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var industryRefs = Array.isArray(s.industries) ? s.industries : (Array.isArray(facets.industries) ? facets.industries : []);
-        var industryCount = Number(s.industry_count || industryRefs.length || 0);
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        var exactRows = [];
-        if (domainCount === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-domains"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("domains", domains[0]) || toTitleCase(domains[0])) + '</span></div>');
-        if (scopeCount === 1 && scopeRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        if (industryCount === 1 && industryRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-industries"><span class="entity-chip entity-chip-label entity-chip-compact">' + esc(label("industries", industryRefs[0]) || toTitleCase(industryRefs[0])) + '</span></div>');
-        if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        var price = formatCurrency(s.starting_price || s.from_price || s.price);
-        var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(domainCount, 'unit_domain', 'domain|domains')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'unit_scope', 'scope|scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'unit_expert', 'expert|experts')) + '</span>');
-        if (industryCount > 1 || (industryCount === 1 && industryRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(industryCount, 'unit_industry', 'industry|industries')) + '</span>');
-        if (s.country_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.country_count, 'unit_country', 'country|countries')) + '</span>');
-        if (s.language_count) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(s.language_count, 'unit_language', 'language|languages')) + '</span>');
-        return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
-            '<div class="service-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            iconHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
-            (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
-            '<div class="service-card-footer entity-card-footer">' +
-            (price ? '<span class="service-price entity-card-price">' + esc(window.cmsT('price_from', 'From')) + ' ' + price + '</span>' : '<span></span>') +
-            '<span class="service-cta entity-card-cta">' + esc(window.cmsT('action_view_service', 'View Service')) + '</span></div></a>';
-    }
-
-    function renderDomainCard(s) {
-        var url = normalizeCardUrl(s.url || ('/domains/' + s.slug), '#');
-        var iconName = s.icon || 'compass';
-        var iconHtml = '<div class="service-card-icon" style="--icon-url: url(' + mediaIconUrl(iconName) + ')"></div>';
-        var facets = s.facets || {};
-        var serviceRefs = Array.isArray(s.services) ? s.services : (Array.isArray(facets.services) ? facets.services : []);
-        var serviceCount = Number(s.service_count || serviceRefs.length || 0);
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var solutionRefs = Array.isArray(s.solutions) ? s.solutions : (Array.isArray(facets.solutions) ? facets.solutions : []);
-        var solutionCount = Number(s.solution_count || solutionRefs.length || 0);
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        var exactRows = [];
-        if (serviceCount === 1 && serviceRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-services"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(serviceLabelMap[serviceRefs[0]] || label("services", serviceRefs[0]) || toTitleCase(serviceRefs[0])) + '</span></div>');
-        if (scopeCount === 1 && scopeRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        if (solutionCount === 1 && solutionRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-solutions"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("solutions", solutionRefs[0]) || toTitleCase(solutionRefs[0])) + '</span></div>');
-        if (expertCount === 1 && expertRefs.length === 1) exactRows.push('<div class="entity-card-exact-row service-chip-row service-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        var metrics = [];
-        if (serviceCount > 1 || (serviceCount === 1 && serviceRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(serviceCount, 'unit_service', 'service|services')) + '</span>');
-        if (scopeCount > 1 || (scopeCount === 1 && scopeRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'unit_scope', 'scope|scopes')) + '</span>');
-        if (solutionCount > 1 || (solutionCount === 1 && solutionRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(solutionCount, 'unit_solution', 'solution|solutions')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && expertRefs.length !== 1)) metrics.push('<span class="service-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'unit_expert', 'expert|experts')) + '</span>');
-        return '<a href="' + url + '" class="service-card entity-card entity-card-padded">' +
-            '<div class="service-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            iconHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            (exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '') +
-            (metrics.length ? '<div class="service-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '') +
-            '<div class="service-card-footer entity-card-footer">' +
-            '<span></span><span class="service-cta entity-card-cta">' + esc(window.cmsT('action_explore_domain', 'Explore Domain')) + '</span></div></a>';
-    }
-
-    function renderSolutionCard(s) {
-        return window.CMSCards.renderSolutionCard(s, {
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            domainLabel: function(slug) { return label('domains', slug) || toTitleCase(slug); },
-            scopeLabel: function(slug) { return label('scopes', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            expertLabel: function(slug) { return label('experts', slug) || toTitleCase(slug); },
-            serviceIconMap: serviceIconMap
-        });
-    }
-
-    function renderDimensionCard(s, collection) {
-        var url = normalizeCardUrl(s.url || ('/' + collection + '/' + s.slug), '#');
-        var facets = s.facets || {};
-        var domains = Array.isArray(s.domains) ? s.domains : (Array.isArray(facets.domains) ? facets.domains : []);
-        var domainCount = domains.length;
-        var serviceRefs = Array.isArray(s.services) ? s.services : (Array.isArray(facets.services) ? facets.services : []);
-        if (!serviceRefs.length && s.service) serviceRefs = [s.service];
-        var serviceCount = Number(s.service_count || serviceRefs.length || 0);
-        var scopeRefs = Array.isArray(s.scopes) ? s.scopes : (Array.isArray(facets.scopes) ? facets.scopes : []);
-        if (!scopeRefs.length && s.scope) scopeRefs = [s.scope];
-        var scopeCount = Number(s.scope_count || scopeRefs.length || 0);
-        var marketSpeakersDisplay = s.market_speakers_display || s.native_speakers_l1 || '';
-        var marketCountryCount = Number(s.market_country_count || s.official_countries_count || 0);
-        var significantLanguagesCount = Number(s.significant_languages_count || s.official_languages_count || 0);
-        var badgeHtml = '';
-        if (s.icon) {
-            badgeHtml = '<div class="dimension-card-badge icon" style="--icon-url: url(' + mediaIconUrl(s.icon) + ')"></div>';
-        } else if (s.flag) {
-            badgeHtml = '<div class="dimension-card-badge">' + s.flag + '</div>';
-        } else if (s.code) {
-            badgeHtml = '<div class="dimension-card-badge code">' + esc(s.code) + '</div>';
-        }
-        var exactRows = [];
-        if (domainCount === 1) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-domains"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("domains", domains[0]) || toTitleCase(domains[0])) + '</span></div>');
-        }
-        if (serviceCount === 1 && serviceRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-services"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(serviceLabelMap[serviceRefs[0]] || label("services", serviceRefs[0]) || toTitleCase(serviceRefs[0])) + '</span></div>');
-        }
-        if (scopeCount === 1 && scopeRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-scopes"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(scopeLabelMap[scopeRefs[0]] || label("scopes", scopeRefs[0]) || toTitleCase(scopeRefs[0])) + '</span></div>');
-        }
-        var expertRefs = Array.isArray(s.experts) ? s.experts : (Array.isArray(facets.experts) ? facets.experts : []);
-        var expertCount = Number(s.expert_count || expertRefs.length || 0);
-        if (expertCount === 1 && expertRefs.length) {
-            exactRows.push('<div class="entity-card-exact-row dimension-chip-row dimension-chip-row-experts"><span class="entity-chip entity-chip-label entity-chip-wide">' + esc(label("experts", expertRefs[0]) || toTitleCase(expertRefs[0])) + '</span></div>');
-        }
-        var exactHtml = exactRows.length ? '<div class="entity-card-exact-chips">' + exactRows.join('') + '</div>' : '';
-        var metrics = [];
-        if (domainCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(domainCount, 'unit_domain', 'domain|domains')) + '</span>');
-        if (serviceCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(serviceCount, 'unit_service', 'service|services')) + '</span>');
-        if (scopeCount > 1) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(scopeCount, 'unit_scope', 'scope|scopes')) + '</span>');
-        if (expertCount > 1 || (expertCount === 1 && !expertRefs.length)) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(expertCount, 'unit_expert', 'expert|experts')) + '</span>');
-        if (s.case_count) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(s.case_count, 'unit_case', 'case|cases')) + '</span>');
-        if (collection === 'languages' && marketCountryCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(marketCountryCount, 'unit_market', 'market|markets')) + '</span>');
-        if (collection === 'countries' && significantLanguagesCount) metrics.push('<span class="dimension-meta-item entity-card-stat">' + esc(pluralize(significantLanguagesCount, 'unit_language', 'language|languages')) + ' ' + esc(window.cmsT('card_over_1pct', 'over 1%')) + '</span>');
-        var metricsHtml = metrics.length ? '<div class="dimension-card-meta entity-card-meta-row">' + metrics.join('') + '</div>' : '';
-        var highlightValue = '';
-        var highlightLabel = '';
-        if (collection === 'languages' && marketSpeakersDisplay) {
-            highlightValue = marketSpeakersDisplay;
-            highlightLabel = window.cmsT('card_tracked_speakers', 'Tracked speakers');
-        } else if (collection === 'countries' && s.population_total) {
-            highlightValue = s.population_total;
-            highlightLabel = window.cmsT('card_market_population', 'Market population');
-        }
-        var footerClass = 'dimension-card-footer entity-card-footer' + (highlightValue ? ' dimension-card-footer-highlight' : '');
-        var footerHtml = '<div class="' + footerClass + '">' +
-            (highlightValue ? '<div class="dimension-card-highlight case-result"><span class="result-value">' + esc(highlightValue) + '</span><span class="result-label">' + esc(highlightLabel) + '</span></div><span class="dimension-cta entity-card-cta">' + esc(window.cmsT('action_explore', 'Explore')) + '</span>' : '<span></span><span class="dimension-cta entity-card-cta">' + esc(window.cmsT('action_explore', 'Explore')) + '</span>') +
-            '</div>';
-        return '<a href="' + url + '" class="dimension-card entity-card entity-card-padded">' +
-            '<div class="dimension-card-header">' +
-            '<div class="entity-card-title">' + esc(s.menu || s.title) + '</div>' +
-            badgeHtml + '</div>' +
-            '<p class="entity-card-copy">' + esc(s.description) + '</p>' +
-            exactHtml +
-            metricsHtml + footerHtml + '</a>';
-    }
-
-    var RENDERERS = {
-        scopes: renderScopeCard, experts: renderExpertCard, team: renderExpertCard, cases: renderCaseCard, blog: renderBlogCard,
-        domains: renderDomainCard,
-        services: renderServiceCard, solutions: renderSolutionCard,
-        industries: function(s) { return renderDimensionCard(s, 'industries'); },
-        countries: function(s) { return renderDimensionCard(s, 'countries'); },
-        languages: function(s) { return renderDimensionCard(s, 'languages'); },
-        positions: function(s) { return window.CMSCards.renderPositionCard(s, {
-            countryFlagMap: countryFlagMap,
-            countryLabel: function(slug) { return label('countries', slug); },
-            languageLabel: function(slug) { return label('languages', slug); },
-            serviceLabel: function(slug) { return serviceLabelMap[slug] || label('services', slug) || toTitleCase(slug); },
-            industryLabel: function(slug) { return label('industries', slug) || toTitleCase(slug); },
-            expertLabel: function(slug) { return label('experts', slug) || toTitleCase(slug); }
-        }); }
-    };
-
     /* ===== Init sort dropdown ===== */
-    cfg.sortOptions.forEach(function(opt) {
+    sortOptions.forEach(function(opt) {
         var o = document.createElement('option');
         o.value = opt[0]; o.textContent = opt[1];
         sortEl.appendChild(o);
@@ -2184,7 +2045,6 @@
 
     /* ===== Shared logic ===== */
     function renderGrid(items, preservePage) {
-        var render = RENDERERS[source] || RENDERERS.scopes;
         renderedItems = items.slice();
         if (!preservePage) currentPage = 1;
 
@@ -2201,7 +2061,7 @@
             var startIndex = (currentPage - 1) * pagination.pageSize;
             var pageItems = renderedItems.slice(startIndex, startIndex + pagination.pageSize);
             syncCatalogGridCount(pageItems.length);
-            grid.innerHTML = pageItems.map(render).join('');
+            grid.innerHTML = pageItems.map(renderCard).join('');
             trimOverflowTags();
             renderPagination(pagination.totalPages);
         }
@@ -2295,22 +2155,7 @@
         restorePersistedFilters();
         syncDomainUi();
 
-        fetch(cfg.url)
-            .then(function(res) { return res.ok ? res.json() : Promise.reject(); })
-            .then(function(data) {
-                LABELS = data.labels || {};
-                allItems = cfg.dataKey ? (data[cfg.dataKey] || []) : (Array.isArray(data) ? data : []);
-                allItems = allItems.map(function(item, index) {
-                    item.__catalogIndex = index;
-                    return item;
-                });
-                renderGrid(applyFilters());
-            })
-            .catch(function() {
-                syncCatalogGridCount(0);
-                grid.innerHTML = '<div class="catalog-empty">' + esc(window.cmsT('catalog_load_error', 'Could not load data.')) + '</div>';
-                renderPagination(1);
-            });
+        renderGrid(applyFilters());
 
         sortEl.addEventListener('change', function() {
             renderGrid(applyFilters());
@@ -2427,8 +2272,10 @@
         });
     }
 
-    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
-    else init();
+    // The cards, the inline data and the domain/filter context bridges (defined in the
+    // page head) are all parsed by the time this script runs, so the first page is
+    // laid out before first paint instead of after a data fetch.
+    init();
 })();
 </script>
             </div>
