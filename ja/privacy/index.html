@@ -396,6 +396,9 @@
                 ad_personalization: ads
             });
             if (current.analytics) return;
+            try {
+                w.sessionStorage.removeItem('onlinuum_landing_v1');
+            } catch (e) {}
             var host = w.location.hostname.replace(/^www\./, '');
             document.cookie.split(';').forEach(function(pair) {
                 var name = pair.split('=')[0].trim();
@@ -439,6 +442,43 @@
             region: consentRegions
         });
         if (state) applyToTags(state);
+
+        // Remember how the visitor arrived (first page of this tab session). Until someone in a consent
+        // region accepts, GA starts a fresh cookieless session on every page, so a later Accept would
+        // credit the internal previous page; enquiries also need the landing source, not the last page.
+        var landingKey = 'onlinuum_landing_v1';
+        var landing = null;
+        var isLandingPage = false;
+        try {
+            landing = JSON.parse(w.sessionStorage.getItem(landingKey) || 'null');
+            if (!landing && !(state && !state.analytics)) {
+                landing = { url: w.location.href, referrer: externalReferrer() };
+                w.sessionStorage.setItem(landingKey, JSON.stringify(landing));
+                isLandingPage = true;
+            }
+        } catch (e) {}
+        w.OnlinuumLanding = landing;
+
+        if (landing && !isLandingPage && inConsentRegion && !state) {
+            var campaign = {};
+            var landingParams = new URL(landing.url).searchParams;
+            [['utm_source', 'campaign_source'], ['utm_medium', 'campaign_medium'], ['utm_campaign', 'campaign_name'],
+             ['utm_term', 'campaign_term'], ['utm_content', 'campaign_content'], ['utm_id', 'campaign_id']].forEach(function(pair) {
+                var value = landingParams.get(pair[0]);
+                if (value) campaign[pair[1]] = value;
+            });
+            if (landing.referrer) campaign.page_referrer = landing.referrer;
+            if (Object.keys(campaign).length) gtag('set', campaign);
+        }
+
+        function externalReferrer() {
+            try {
+                var ref = document.referrer;
+                return ref && new URL(ref).hostname !== w.location.hostname ? ref : '';
+            } catch (e) {
+                return '';
+            }
+        }
 
         return {
             storageKey: storageKey,
@@ -1036,6 +1076,7 @@
 <li><strong>EEA・英国・スイスでは</strong>、Google Analytics は同意モードで動作します。お客様が同意されるまでは、解析 Cookie を設定せず、お客様のデバイスに識別子を保存しません。Google が受け取るのは、保存された訪問者の識別子を含まないページビューなど、Cookie を使用しないシグナルのみで、Google はこれを集計レポートやモデリングに基づくレポートに利用することがあります。解析 Cookie は、「同意する」を押すか、「アナリティクス」を選択した状態で Cookie 設定を保存した後にのみ設定されます。</li>
 <li><strong>その他の地域では</strong>、Google Analytics は初回のご訪問時から Cookie を使用して動作し、お客様はいつでもこれをオフにできます。</li>
 </ul>
+<p>今回のご訪問中に限り（タブを閉じるまで）、サイトはお客様が最初にアクセスしたページと参照元のサイトも記憶します。これは、当社の解析データおよびお客様が送信されるお問い合わせを、正しい流入元に紐づけるためです。「アナリティクス」をオフにしている場合、この情報は保持されません。</p>
 <p><strong>お客様の選択</strong></p>
 <p>Cookie 設定では、「アナリティクス」はあらかじめ選択されており、「マーケティング」は選択されていません。「同意する」を押すと、両方が有効になります。「マーケティング」は、キャンペーンやリマーケティングに関する技術を対象とします。現在、当社はこれらの技術を使用していません。今後導入する場合も、「マーケティング」を有効にしている訪問者に対してのみ動作します。</p>
 <p>選択内容は、サイト上の Cookie 設定ボタンからいつでも変更できます。「アナリティクス」をオフにすると、Google Analytics は表示中のページで停止し、以降のページでは読み込まれず、その Cookie（<code>_ga</code>、<code>_gid</code>、<code>_gat</code>）はブラウザから削除されます。</p>
@@ -1507,7 +1548,7 @@
     </div>
 
     <!-- Site JavaScript -->
-    <script src="/_assets/js/app-core.js?v=43f5364d" defer></script>
+    <script src="/_assets/js/app-core.js?v=b898fa78" defer></script>
     <!-- SVG templates for JS runtime use -->
     <div id="svg-templates" hidden>
         <span id="svg-theme-system"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="22" height="22" class="icon icon-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></span>
@@ -1516,7 +1557,7 @@
         <span id="svg-chevron-down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16" class="icon icon-chevron-down"><polyline points="6 9 12 15 18 9"/></svg></span>
     </div>
 
-    <script src="/_assets/js/forms.js?v=13476383" defer></script>
+    <script src="/_assets/js/forms.js?v=7b4f4240" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
     <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>

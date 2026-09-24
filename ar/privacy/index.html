@@ -396,6 +396,9 @@
                 ad_personalization: ads
             });
             if (current.analytics) return;
+            try {
+                w.sessionStorage.removeItem('onlinuum_landing_v1');
+            } catch (e) {}
             var host = w.location.hostname.replace(/^www\./, '');
             document.cookie.split(';').forEach(function(pair) {
                 var name = pair.split('=')[0].trim();
@@ -439,6 +442,43 @@
             region: consentRegions
         });
         if (state) applyToTags(state);
+
+        // Remember how the visitor arrived (first page of this tab session). Until someone in a consent
+        // region accepts, GA starts a fresh cookieless session on every page, so a later Accept would
+        // credit the internal previous page; enquiries also need the landing source, not the last page.
+        var landingKey = 'onlinuum_landing_v1';
+        var landing = null;
+        var isLandingPage = false;
+        try {
+            landing = JSON.parse(w.sessionStorage.getItem(landingKey) || 'null');
+            if (!landing && !(state && !state.analytics)) {
+                landing = { url: w.location.href, referrer: externalReferrer() };
+                w.sessionStorage.setItem(landingKey, JSON.stringify(landing));
+                isLandingPage = true;
+            }
+        } catch (e) {}
+        w.OnlinuumLanding = landing;
+
+        if (landing && !isLandingPage && inConsentRegion && !state) {
+            var campaign = {};
+            var landingParams = new URL(landing.url).searchParams;
+            [['utm_source', 'campaign_source'], ['utm_medium', 'campaign_medium'], ['utm_campaign', 'campaign_name'],
+             ['utm_term', 'campaign_term'], ['utm_content', 'campaign_content'], ['utm_id', 'campaign_id']].forEach(function(pair) {
+                var value = landingParams.get(pair[0]);
+                if (value) campaign[pair[1]] = value;
+            });
+            if (landing.referrer) campaign.page_referrer = landing.referrer;
+            if (Object.keys(campaign).length) gtag('set', campaign);
+        }
+
+        function externalReferrer() {
+            try {
+                var ref = document.referrer;
+                return ref && new URL(ref).hostname !== w.location.hostname ? ref : '';
+            } catch (e) {
+                return '';
+            }
+        }
 
         return {
             storageKey: storageKey,
@@ -1036,6 +1076,7 @@
 <li><strong>في المنطقة الاقتصادية الأوروبية والمملكة المتحدة وسويسرا</strong>، يعمل Google Analytics في وضع الموافقة. وإلى أن توافقوا، لا يضع أي ملفات تعريف ارتباط خاصة بالتحليلات ولا يخزن أي معرفات على جهازكم. ولا تتلقى Google سوى إشارات لا تستخدم ملفات تعريف الارتباط، مثل مشاهدة صفحة من دون معرف مخزن للزائر، وقد تستخدمها في تقارير مجمعة وتقارير قائمة على النمذجة. ولا توضع ملفات تعريف الارتباط الخاصة بالتحليلات إلا بعد أن تضغطوا «أوافق» أو تحفظوا إعدادات ملفات تعريف الارتباط مع تحديد «التحليلات».</li>
 <li><strong>في المناطق الأخرى</strong>، يعمل Google Analytics باستخدام ملفات تعريف الارتباط منذ زيارتكم الأولى، ويمكنكم إيقافه في أي وقت.</li>
 </ul>
+<p>خلال الزيارة الحالية فقط (إلى أن تغلقوا علامة التبويب)، يتذكر الموقع أيضا الصفحة الأولى التي وصلتم إليها والموقع الذي أحالكم إلينا، لكي تنسب الزيارة إلى مصدرها الصحيح في تحليلاتنا وفي أي استفسار ترسلونه. ولا يحتفظ الموقع بهذه المعلومات إذا كنتم قد أوقفتم «التحليلات».</p>
 <p><strong>اختياراتكم</strong></p>
 <p>في إعدادات ملفات تعريف الارتباط، يكون خيار «التحليلات» محددا مسبقا، أما خيار «التسويق» فغير محدد. ويؤدي الضغط على «أوافق» إلى تفعيل الخيارين معا. ويشمل خيار «التسويق» تقنيات الحملات وإعادة الاستهداف. ولا نستخدم أيا منها حاليا، وإذا أضفناها فلن تعمل إلا لدى الزوار الذين يكون خيار «التسويق» مفعلا لديهم.</p>
 <p>يمكنكم تغيير اختياركم في أي وقت عبر زر إعدادات ملفات تعريف الارتباط في الموقع. وإذا أوقفتم «التحليلات»، يتوقف Google Analytics عن العمل في الصفحة الحالية، ولا يجري تحميله في الصفحات التالية، وتحذف ملفات تعريف الارتباط الخاصة به (<code>_ga</code>، <code>_gid</code>، <code>_gat</code>) من متصفحكم.</p>
@@ -1507,7 +1548,7 @@
     </div>
 
     <!-- Site JavaScript -->
-    <script src="/_assets/js/app-core.js?v=43f5364d" defer></script>
+    <script src="/_assets/js/app-core.js?v=b898fa78" defer></script>
     <!-- SVG templates for JS runtime use -->
     <div id="svg-templates" hidden>
         <span id="svg-theme-system"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="22" height="22" class="icon icon-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></span>
@@ -1516,7 +1557,7 @@
         <span id="svg-chevron-down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16" class="icon icon-chevron-down"><polyline points="6 9 12 15 18 9"/></svg></span>
     </div>
 
-    <script src="/_assets/js/forms.js?v=13476383" defer></script>
+    <script src="/_assets/js/forms.js?v=7b4f4240" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
     <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>

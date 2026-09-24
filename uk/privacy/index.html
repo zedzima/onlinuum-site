@@ -396,6 +396,9 @@
                 ad_personalization: ads
             });
             if (current.analytics) return;
+            try {
+                w.sessionStorage.removeItem('onlinuum_landing_v1');
+            } catch (e) {}
             var host = w.location.hostname.replace(/^www\./, '');
             document.cookie.split(';').forEach(function(pair) {
                 var name = pair.split('=')[0].trim();
@@ -439,6 +442,43 @@
             region: consentRegions
         });
         if (state) applyToTags(state);
+
+        // Remember how the visitor arrived (first page of this tab session). Until someone in a consent
+        // region accepts, GA starts a fresh cookieless session on every page, so a later Accept would
+        // credit the internal previous page; enquiries also need the landing source, not the last page.
+        var landingKey = 'onlinuum_landing_v1';
+        var landing = null;
+        var isLandingPage = false;
+        try {
+            landing = JSON.parse(w.sessionStorage.getItem(landingKey) || 'null');
+            if (!landing && !(state && !state.analytics)) {
+                landing = { url: w.location.href, referrer: externalReferrer() };
+                w.sessionStorage.setItem(landingKey, JSON.stringify(landing));
+                isLandingPage = true;
+            }
+        } catch (e) {}
+        w.OnlinuumLanding = landing;
+
+        if (landing && !isLandingPage && inConsentRegion && !state) {
+            var campaign = {};
+            var landingParams = new URL(landing.url).searchParams;
+            [['utm_source', 'campaign_source'], ['utm_medium', 'campaign_medium'], ['utm_campaign', 'campaign_name'],
+             ['utm_term', 'campaign_term'], ['utm_content', 'campaign_content'], ['utm_id', 'campaign_id']].forEach(function(pair) {
+                var value = landingParams.get(pair[0]);
+                if (value) campaign[pair[1]] = value;
+            });
+            if (landing.referrer) campaign.page_referrer = landing.referrer;
+            if (Object.keys(campaign).length) gtag('set', campaign);
+        }
+
+        function externalReferrer() {
+            try {
+                var ref = document.referrer;
+                return ref && new URL(ref).hostname !== w.location.hostname ? ref : '';
+            } catch (e) {
+                return '';
+            }
+        }
 
         return {
             storageKey: storageKey,
@@ -1036,6 +1076,7 @@
 <li><strong>У ЄЕП, Великій Британії та Швейцарії</strong> Google Analytics працює в режимі згоди. Доки ви не надасте згоду, він не встановлює аналітичних cookie і не зберігає ідентифікаторів на вашому пристрої. Google отримує лише сигнали без cookie, наприклад перегляд сторінки без збереженого ідентифікатора відвідувача, і може використовувати їх для агрегованих і змодельованих звітів. Аналітичні cookie встановлюються лише після того, як ви натиснете «Приймаю» або збережете налаштування cookie з позначеною категорією «Аналітика».</li>
 <li><strong>В інших країнах</strong> Google Analytics працює з cookie від вашого першого відвідування, і ви можете будь-коли його вимкнути.</li>
 </ul>
+<p>Лише в межах поточного відвідування (доки ви не закриєте вкладку) сайт також запам’ятовує сторінку, на яку ви потрапили, і сайт, з якого ви перейшли, щоб у нашій аналітиці та в будь-якому надісланому вами запиті було зазначено правильне джерело. Якщо ви вимкнули категорію «Аналітика», ці дані не зберігаються.</p>
 <p><strong>Ваш вибір</strong></p>
 <p>У налаштуваннях cookie категорію «Аналітика» позначено заздалегідь, а категорію «Маркетинг» не позначено. Кнопка «Приймаю» вмикає обидві категорії. Категорія «Маркетинг» охоплює технології для рекламних кампаній і ремаркетингу. Наразі ми таких технологій не використовуємо; якщо ми їх додамо, вони працюватимуть лише для відвідувачів, у яких увімкнено категорію «Маркетинг».</p>
 <p>Ви можете будь-коли змінити свій вибір за допомогою кнопки налаштувань cookie на сайті. Якщо ви вимкнете категорію «Аналітика», Google Analytics припинить роботу на поточній сторінці, не завантажуватиметься на наступних сторінках, а його cookie (<code>_ga</code>, <code>_gid</code>, <code>_gat</code>) буде видалено з вашого браузера.</p>
@@ -1507,7 +1548,7 @@
     </div>
 
     <!-- Site JavaScript -->
-    <script src="/_assets/js/app-core.js?v=43f5364d" defer></script>
+    <script src="/_assets/js/app-core.js?v=b898fa78" defer></script>
     <!-- SVG templates for JS runtime use -->
     <div id="svg-templates" hidden>
         <span id="svg-theme-system"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="22" height="22" class="icon icon-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg></span>
@@ -1516,7 +1557,7 @@
         <span id="svg-chevron-down"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16" class="icon icon-chevron-down"><polyline points="6 9 12 15 18 9"/></svg></span>
     </div>
 
-    <script src="/_assets/js/forms.js?v=13476383" defer></script>
+    <script src="/_assets/js/forms.js?v=7b4f4240" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
     <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>

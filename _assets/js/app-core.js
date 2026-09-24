@@ -5,8 +5,11 @@
 (function() {
     var app = window.OnlinuumApp = window.OnlinuumApp || {};
 
+    // Source of the visit: the landing page of this tab session when known (see OnlinuumLanding in
+    // the base layout), so an enquiry sent a few pages later still reports how the visitor arrived.
     function detectTrafficSource() {
-        var params = new URLSearchParams(window.location.search);
+        var landing = window.OnlinuumLanding;
+        var params = new URLSearchParams(landing ? new URL(landing.url).search : window.location.search);
         var utmSource = params.get('utm_source');
         var utmMedium = params.get('utm_medium');
         var utmCampaign = params.get('utm_campaign');
@@ -22,7 +25,7 @@
             return parts.join(' / ');
         }
 
-        var ref = document.referrer;
+        var ref = landing ? landing.referrer : document.referrer;
         if (!ref) return 'direct';
 
         try {
