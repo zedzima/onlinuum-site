@@ -6212,13 +6212,20 @@ a.cards-link:hover {
     .columns-subtitle,
     .sections-subtitle,
     .process-subtitle,
-    .cta-subtitle,
+    .cta-subtitle
+) {
+    max-width: var(--measure-prose);
+}
+
+/* Body text inside wide cards and panels: 65ch left a dead band beside the text, the full card
+   width ran past 110 characters. */
+:where(
     .sections-text,
     .columns-note-text,
     .faq-answer p,
     .comparison-conclusion p
 ) {
-    max-width: var(--measure-prose);
+    max-width: var(--measure-body);
 }
 
 .text-center > p,
