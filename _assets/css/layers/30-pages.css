@@ -6217,15 +6217,30 @@ a.cards-link:hover {
     max-width: var(--measure-prose);
 }
 
-/* Body text inside wide cards and panels: 65ch left a dead band beside the text, the full card
-   width ran past 110 characters. */
-:where(
-    .sections-text,
-    .columns-note-text,
-    .faq-answer p,
-    .comparison-conclusion p
-) {
-    max-width: var(--measure-body);
+/* Body text inside cards and panels runs to two thirds of the card on desktop and uses the full
+   width below that. The query container is the card list (its width equals the card) or the card
+   itself, so the text is measured against the whole card including its padding. */
+@media (min-width: 1024px) {
+    .sections-list,
+    .faq-list,
+    .columns-note,
+    .comparison-conclusion {
+        container-type: inline-size;
+    }
+
+    /* Left-aligned text in padded cards: stop at two thirds of the card. */
+    :where(.sections-text, .faq-answer p) {
+        max-width: calc(100cqi * 2 / 3 - var(--space-lg));
+    }
+
+    /* Centred callouts: a centred column two thirds of the card wide. */
+    :where(.columns-note-text) {
+        max-width: calc((100cqi + 2 * var(--space-lg)) * 2 / 3);
+    }
+
+    :where(.comparison-conclusion p) {
+        max-width: calc((100cqi + 2 * var(--space-xl)) * 2 / 3);
+    }
 }
 
 .text-center > p,
