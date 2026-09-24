@@ -4263,6 +4263,9 @@
 
     /* ===== Overflow trim for single-line tag rows ===== */
     function trimOverflowTags() {
+        if (window.CMSCards && typeof window.CMSCards.localizeCardDates === 'function') {
+            window.CMSCards.localizeCardDates(grid);
+        }
         if (window.CMSCards && typeof window.CMSCards.fitExactChipRows === 'function') {
             window.CMSCards.fitExactChipRows(grid);
         }
