@@ -589,7 +589,7 @@
         originalText = submitBtn.textContent;
         submitBtn.textContent = cmsT('form_sending', 'Sending...');
         submitBtn.disabled = true;
-        queryParams = new URLSearchParams(window.OnlinuumLanding ? new URL(window.OnlinuumLanding.url).search : window.location.search);
+        queryParams = new URLSearchParams(window.location.search);
         consent = window.OnlinuumConsent;
         analyticsConsentState = consent && consent.hasChoice
             ? (consent.hasChoice() ? (consent.has('analytics') ? 'granted' : 'denied') : 'unset')
@@ -604,8 +604,6 @@
                 page_url: window.location.href,
                 page_path: window.location.pathname,
                 page_referrer: document.referrer || '',
-                landing_page: window.OnlinuumLanding ? window.OnlinuumLanding.url : '',
-                landing_referrer: window.OnlinuumLanding ? window.OnlinuumLanding.referrer : '',
                 utm_source: queryParams.get('utm_source') || '',
                 utm_medium: queryParams.get('utm_medium') || '',
                 utm_campaign: queryParams.get('utm_campaign') || '',
