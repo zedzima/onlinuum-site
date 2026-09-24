@@ -117,8 +117,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -341,6 +341,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -403,10 +422,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -926,7 +964,7 @@
 
     
     
-    <div class="text-body"><p><strong>עודכן לאחרונה:</strong> 11.04.2026</p>
+    <div class="text-body"><p><strong>עודכן לאחרונה:</strong> 24.09.2026</p>
 <h3 id="1">1. מבוא</h3>
 <p>מדיניות פרטיות לאתר זו מסבירה כיצד Onlinuum אוספת, משתמשת, שומרת ומגנה על מידע אישי כאשר אתם מבקרים ב-onlinuum.com, פונים אלינו, מבקשים הצעת מחיר או משתמשים בשירותים שלנו.</p>
 <p>אנחנו פועלים לעבד מידע אישי בשקיפות ובהתאם לתקנת הגנת המידע הכללית של האיחוד האירופי (GDPR), לדין הפורטוגלי החל ולכללי הגנת הפרטיות הרלוונטיים האחרים, לרבות דרישות בנוגע לעוגיות ולמעקב במקום שבו הן חלות.</p>
@@ -950,7 +988,7 @@
 <ul>
 <li><strong>מידע טכני ומידע שימוש</strong>: כתובת IP, סוג הדפדפן, מערכת ההפעלה, פרטי המכשיר, דפים שנצפו, נתוני הפניה ואירועי אינטראקציה</li>
 <li><strong>מידע על הסכמות והעדפות</strong>: בחירות בנוגע לעוגיות, העדפת ערכת נושא ומצב עגלת הקניות השמורים באחסון הדפדפן</li>
-<li><strong>מידע אנליטי</strong>: נתוני שימוש מצרפיים באתר, אך רק במקרים שבהם טכנולוגיית האנליטיקה הרלוונטית מופעלת על בסיס ההסכמה שלכם</li>
+<li><strong>מידע אנליטי</strong>: נתוני שימוש באתר הנאספים באמצעות Google Analytics, כמתואר בסעיף 7</li>
 </ul>
 <h3 id="4">4. כיצד אנחנו משתמשים במידע אישי</h3>
 <p>אנחנו משתמשים במידע אישי למטרות הבאות:</p>
@@ -960,7 +998,7 @@
 <li><strong>תקשורת בשלבי ההצטרפות, האספקה, התיקונים, החיוב והתמיכה</strong></li>
 <li><strong>עמידה בחובות חשבונאיות, מיסויות, מניעת הונאה וחובות חוקיות אחרות</strong></li>
 <li><strong>שמירה על אבטחת האתר, איתור שימוש לרעה והגנה על המערכות שלנו</strong></li>
-<li><strong>מדידת השימוש באתר ושיפורו, במקרים שבהם ניתנה הסכמה לאנליטיקה</strong></li>
+<li><strong>מדידת השימוש באתר ושיפורו</strong>, כמתואר בסעיף 7</li>
 <li><strong>משלוח דיוור שיווקי רק במקרים שבהם נתתם לכך הסכמה נפרדת</strong></li>
 </ul>
 <h3 id="5">5. הבסיס החוקי לעיבוד</h3>
@@ -968,8 +1006,8 @@
 <ul>
 <li><strong>ביצוע חוזה או צעדים טרום חוזיים (סעיף 6(1)(b) ל-GDPR)</strong>: לטיפול בבקשות להצעת מחיר, בהצטרפות, באספקת הפרויקט ובתקשורת עם הלקוח הנוגעת ישירות לשירותים שהתבקשו</li>
 <li><strong>חובה חוקית (סעיף 6(1)(c) ל-GDPR)</strong>: לצורכי מס, חשבונאות, ניהול רישומים וחובות ציות</li>
-<li><strong>אינטרס לגיטימי (סעיף 6(1)(f) ל-GDPR)</strong>: לאבטחת האתר, מניעת הונאה, תקשורת תפעולית והגנה מפני תביעות, כאשר האינטרסים שלנו אינם גוברים על הזכויות שלכם</li>
-<li><strong>הסכמה (סעיף 6(1)(a) ל-GDPR)</strong>: לאנליטיקה שאינה חיונית ולכל דיוור שיווקי אופציונלי</li>
+<li><strong>אינטרס לגיטימי (סעיף 6(1)(f) ל-GDPR)</strong>: לאבטחת האתר, מניעת הונאה, תקשורת תפעולית, הגנה מפני תביעות ואנליטיקה של האתר עבור מבקרים מחוץ לאזור הכלכלי האירופי, לבריטניה ולשווייץ, כאשר האינטרסים שלנו אינם גוברים על הזכויות שלכם</li>
+<li><strong>הסכמה (סעיף 6(1)(a) ל-GDPR)</strong>: לעוגיות אנליטיקה עבור מבקרים באזור הכלכלי האירופי, בבריטניה ובשווייץ, לטכנולוגיות שיווק ולכל דיוור שיווקי אופציונלי</li>
 </ul>
 <p>בטפסי יצירת קשר ובבקשות לשירות אנחנו איננו מסתמכים על הסכמה שיווקית כדי לעבד את המידע הדרוש למענה לבקשתכם. עיבוד זה נדרש בדרך כלל לשם נקיטת צעדים לבקשתכם לפני כריתת חוזה, או לשם ביצוע חוזה.</p>
 <h3 id="6">6. מקבלי מידע ומעבדי מידע</h3>
@@ -977,13 +1015,13 @@
 <ul>
 <li><strong>ספקי אחסון ותשתית</strong>: לאחסון האתר ולשמירת יומני שרת</li>
 <li><strong>Web3Forms</strong>: להעברת פניות ובקשות להצעת מחיר מטפסי האתר אל תהליך הדוא"ל שלנו</li>
-<li><strong>Google Tag Manager וספקי אנליטיקה</strong>: רק כאשר ניתנה הסכמה לאנליטיקה</li>
+<li><strong>Google (Google Tag Manager ו-Google Analytics 4)</strong>: למדידת השימוש באתר כמתואר בסעיף 7</li>
 <li><strong>כלי דוא"ל, שיתוף פעולה ופרודוקטיביות</strong>: כאשר הם נדרשים לאספקת הפרויקט ולתקשורת</li>
 <li><strong>יועצים מקצועיים או רשויות</strong>: כאשר הדבר נדרש מסיבות משפטיות, חשבונאיות, מיסויות, מחלוקות או ציות</li>
 </ul>
 <p>אנחנו דורשים ממעבדי מידע הפועלים בשמנו לעבד מידע רק תחת הגנות חוזיות ומשפטיות מתאימות.</p>
 <h3 id="7">7. עוגיות, אחסון מקומי ואנליטיקה</h3>
-<p>האתר שלנו משתמש בשילוב של אחסון דפדפן חיוני ושל טכנולוגיות אנליטיקה אופציונליות.</p>
+<p>האתר שלנו משתמש באחסון דפדפן חיוני וב-Google Analytics 4, הנטען באמצעות Google Tag Manager. כרגע אנחנו לא משתמשים בתגי פרסום או רימרקטינג.</p>
 <p><strong>אחסון חיוני</strong></p>
 <p>אנחנו משתמשים באחסון דפדפן חיוני לפונקציות כגון:</p>
 <ul>
@@ -991,15 +1029,16 @@
 <li>זכירת העדפות ממשק כגון בחירת ערכת נושא</li>
 <li>תמיכה בפונקציונליות הליבה של האתר ובהתנהגות הקשורה לאבטחה</li>
 </ul>
-<p>פונקציות אלה נחוצות לתפקוד תקין של האתר ואינן תלויות בהסכמה לאנליטיקה.</p>
+<p>פונקציות אלה נחוצות לתפקוד תקין של האתר ואינן תלויות בבחירות שלכם בנוגע לעוגיות.</p>
 <p><strong>אנליטיקה</strong></p>
-<p>אנחנו עשויים להשתמש ב-Google Tag Manager ובטכנולוגיות אנליטיקה כדי להבין כיצד נעשה שימוש באתר, אך אנחנו טוענים כלים שאינם חיוניים רק לאחר שנתתם הסכמה דרך בקרת העוגיות שלנו.</p>
-<p>אתם יכולים:</p>
+<p>אנחנו משתמשים ב-Google Analytics 4 כדי להבין כיצד נעשה שימוש באתר: באילו דפים אנשים מבקרים, כיצד הם מגיעים לאתר ובאילו כפתורים וטפסים הם משתמשים. אופן הפעולה שלו תלוי במקום שבו אתם נמצאים:</p>
 <ul>
-<li>לאשר אנליטיקה</li>
-<li>לדחות אנליטיקה</li>
-<li>לפתוח מחדש ולשנות את הבחירה שלכם בכל עת דרך בקרת הגדרות העוגיות באתר</li>
+<li><strong>באזור הכלכלי האירופי, בבריטניה ובשווייץ</strong>, Google Analytics פועל במצב הסכמה. עד שתאשרו, הוא אינו מציב עוגיות אנליטיקה ואינו שומר מזהים במכשיר שלכם. Google מקבלת רק אותות ללא עוגיות, כגון צפייה בדף ללא מזהה שמור של המבקר, ועשויה להשתמש בהם לדוחות מצרפיים ולדוחות מבוססי מידול. עוגיות אנליטיקה מוצבות רק לאחר שתלחצו על "אישור" או תשמרו את הגדרות העוגיות כאשר "אנליטיקס" מסומן.</li>
+<li><strong>בכל מקום אחר</strong>, Google Analytics פועל עם עוגיות כבר מהביקור הראשון שלכם, ואתם יכולים לכבות אותו בכל עת.</li>
 </ul>
+<p><strong>הבחירות שלכם</strong></p>
+<p>בהגדרות העוגיות, הקטגוריה "אנליטיקס" מסומנת מראש והקטגוריה "שיווק" אינה מסומנת. הכפתור "אישור" מפעיל את שתיהן. הקטגוריה "שיווק" כוללת טכנולוגיות של קמפיינים ורימרקטינג. כרגע אנחנו לא משתמשים באף אחת מהן; אם נוסיף אותן, הן יפעלו רק אצל מבקרים שהקטגוריה "שיווק" מופעלת אצלם.</p>
+<p>אתם יכולים לשנות את הבחירה שלכם בכל עת באמצעות כפתור הגדרות העוגיות באתר. אם תכבו את "אנליטיקס", Google Analytics יפסיק לפעול בדף הנוכחי, לא ייטען בדפים הבאים, והעוגיות שלו (<code>_ga</code>, <code>_gid</code>, <code>_gat</code>) יימחקו מהדפדפן שלכם.</p>
 <h3 id="8">8. תקופות שמירה</h3>
 <p>אנחנו שומרים מידע אישי רק למשך הזמן הדרוש באופן סביר למטרות שתוארו לעיל, ובכלל זה:</p>
 <ul>
@@ -1007,10 +1046,10 @@
 <li><strong>רישומי לקוחות ופרויקטים</strong>: למשך הפרויקט ולתקופה סבירה לאחריו לצרכים תפעוליים, משפטיים וראייתיים</li>
 <li><strong>רישומי חשבונאות וחשבוניות</strong>: למשך התקופה הנדרשת לפי דיני המס והחשבונאות החלים</li>
 <li><strong>רישומי הסכמה</strong>: כל עוד יש צורך להוכיח או לנהל את בחירות ההסכמה</li>
-<li><strong>מידע אנליטי</strong>: בהתאם לתצורת כלי האנליטיקה הרלוונטיים, כאשר הם מופעלים על בסיס הסכמה</li>
+<li><strong>מידע אנליטי</strong>: בהתאם להגדרות שמירת הנתונים של נכס Google Analytics שלנו</li>
 </ul>
 <h3 id="9">9. העברות מידע בין מדינות</h3>
-<p>חלק מספקי השירות עשויים לעבד מידע אישי מחוץ לאזור הכלכלי האירופי (EEA). במקרים כאלה אנחנו פועלים להשתמש בהגנות מתאימות, כגון תניות חוזיות סטנדרטיות, החלטות נאותות או מנגנוני העברה משפטיים שווי ערך, במקום שבו הדבר נדרש.</p>
+<p>חלק מספקי השירות עשויים לעבד מידע אישי מחוץ לאזור הכלכלי האירופי (EEA). במקרים כאלה אנחנו פועלים להשתמש בהגנות מתאימות, כגון תניות חוזיות סטנדרטיות, החלטות נאותות או מנגנוני העברה משפטיים שווי ערך, במקום שבו הדבר נדרש. Google עשויה לעבד מידע אנליטי בארצות הברית; Google LLC משתתפת ב-EU-U.S. Data Privacy Framework.</p>
 <h3 id="10">10. הזכויות שלכם</h3>
 <p>לפי GDPR עשויות לעמוד לכם הזכויות הבאות:</p>
 <ul>
@@ -1479,6 +1518,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>

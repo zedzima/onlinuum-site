@@ -98,15 +98,16 @@
             var state = consent.getState();
             var hasChoice = consent.hasChoice();
 
-            // Toggles show the visitor's own choice: both stay unticked until they accept or save.
+            // Before a choice, Analytics is pre-selected and Marketing is not.
             if (analyticsToggle) {
-                analyticsToggle.checked = !!(state && state.analytics);
+                analyticsToggle.checked = state ? !!state.analytics : true;
             }
             if (marketingToggle) {
                 marketingToggle.checked = !!(state && state.marketing);
             }
 
-            banner.classList.toggle('hidden', hasChoice);
+            // The first-visit banner only appears where consent is required (see OnlinuumConsent).
+            banner.classList.toggle('hidden', typeof consent.needsBanner === 'function' ? !consent.needsBanner() : hasChoice);
         }
 
         [acceptBtn, prefsAcceptBtn].forEach(function(button) {

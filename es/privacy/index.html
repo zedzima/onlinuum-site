@@ -119,8 +119,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -343,6 +343,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -405,10 +424,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -928,7 +966,7 @@
 
     
     
-    <div class="text-body"><p><strong>Última actualización:</strong> 11 de abril de 2026</p>
+    <div class="text-body"><p><strong>Última actualización:</strong> 24 de septiembre de 2026</p>
 <h3 id="1-introduccion">1. Introducción</h3>
 <p>Esta política de privacidad explica cómo Onlinuum recoge, utiliza, almacena y protege los datos personales cuando visitas onlinuum.com, te pones en contacto con nosotros, solicitas presupuesto o utilizas nuestros servicios.</p>
 <p>Nuestro objetivo es tratar los datos personales de forma transparente y conforme al Reglamento General de Protección de Datos (RGPD), a la legislación portuguesa aplicable y a las demás normas de privacidad pertinentes, incluidos los requisitos sobre cookies y tecnologías de seguimiento cuando resulten aplicables.</p>
@@ -952,7 +990,7 @@
 <ul>
 <li><strong>Datos técnicos y de uso</strong>: dirección IP, tipo de navegador, sistema operativo, información del dispositivo, páginas vistas, datos de referencia y eventos de interacción</li>
 <li><strong>Datos de consentimiento y preferencias</strong>: elecciones sobre cookies, preferencia de tema visual y estado de la selección de servicios guardados en el almacenamiento del navegador</li>
-<li><strong>Datos de analítica</strong>: datos agregados de uso del sitio web, únicamente cuando la tecnología de analítica correspondiente está activada en función de tu consentimiento</li>
+<li><strong>Datos de analítica</strong>: datos de uso del sitio web recogidos con Google Analytics, como se describe en la sección 7</li>
 </ul>
 <h3 id="4-para-que-usamos-los-datos-personales">4. Para qué usamos los datos personales</h3>
 <p>Utilizamos los datos personales con los siguientes fines:</p>
@@ -962,7 +1000,7 @@
 <li><strong>Comunicarnos durante la incorporación, la entrega, las revisiones, la facturación y el soporte</strong></li>
 <li><strong>Cumplir obligaciones contables, fiscales, de prevención del fraude y otras obligaciones legales</strong></li>
 <li><strong>Mantener la seguridad del sitio, detectar abusos y proteger nuestros sistemas</strong></li>
-<li><strong>Medir el uso del sitio web y mejorarlo, cuando se ha dado consentimiento para la analítica</strong></li>
+<li><strong>Medir el uso del sitio web y mejorarlo</strong>, como se describe en la sección 7</li>
 <li><strong>Enviar comunicaciones comerciales solo cuando has dado un consentimiento específico para ello</strong></li>
 </ul>
 <h3 id="5-bases-juridicas-del-tratamiento">5. Bases jurídicas del tratamiento</h3>
@@ -970,8 +1008,8 @@
 <ul>
 <li><strong>Ejecución de un contrato o medidas precontractuales (art. 6.1.b RGPD)</strong>: para gestionar solicitudes de presupuesto, la incorporación, la entrega de proyectos y las comunicaciones con el cliente directamente relacionadas con los servicios solicitados</li>
 <li><strong>Obligación legal (art. 6.1.c RGPD)</strong>: para deberes fiscales, contables, de conservación de registros y de cumplimiento normativo</li>
-<li><strong>Interés legítimo (art. 6.1.f RGPD)</strong>: para la seguridad del sitio web, la prevención del fraude, las comunicaciones operativas y la defensa de reclamaciones legales, siempre que nuestros intereses no prevalezcan sobre tus derechos</li>
-<li><strong>Consentimiento (art. 6.1.a RGPD)</strong>: para la analítica no esencial y para cualquier comunicación comercial opcional</li>
+<li><strong>Interés legítimo (art. 6.1.f RGPD)</strong>: para la seguridad del sitio web, la prevención del fraude, las comunicaciones operativas, la defensa de reclamaciones legales y la analítica del sitio web para visitantes situados fuera del EEE, del Reino Unido y de Suiza, siempre que nuestros intereses no prevalezcan sobre tus derechos</li>
+<li><strong>Consentimiento (art. 6.1.a RGPD)</strong>: para las cookies de analítica de los visitantes situados en el EEE, el Reino Unido y Suiza, para las tecnologías de marketing y para cualquier comunicación comercial opcional</li>
 </ul>
 <p>En los formularios de contacto y las solicitudes de servicio no nos basamos en un consentimiento de marketing para tratar la información necesaria para responderte. Ese tratamiento suele ser necesario para aplicar medidas precontractuales a petición tuya o para ejecutar un contrato.</p>
 <h3 id="6-destinatarios-y-encargados-del-tratamiento">6. Destinatarios y encargados del tratamiento</h3>
@@ -979,13 +1017,13 @@
 <ul>
 <li><strong>Proveedores de alojamiento e infraestructura</strong>: para alojar el sitio web y almacenar registros de servidor</li>
 <li><strong>Web3Forms</strong>: para transmitir los envíos de los formularios de contacto y de solicitud de presupuesto a nuestro flujo de correo</li>
-<li><strong>Google Tag Manager y proveedores de analítica</strong>: únicamente cuando se ha dado consentimiento para la analítica</li>
+<li><strong>Google (Google Tag Manager y Google Analytics 4)</strong>: para medir el uso del sitio web, como se describe en la sección 7</li>
 <li><strong>Herramientas de correo, colaboración y productividad</strong>: cuando son necesarias para la entrega del proyecto y la comunicación</li>
 <li><strong>Asesores profesionales o autoridades</strong>: cuando resulta necesario por motivos legales, contables, fiscales, de litigio o de cumplimiento normativo</li>
 </ul>
 <p>Exigimos a los encargados que actúan por cuenta nuestra que traten los datos únicamente con las garantías contractuales y legales adecuadas.</p>
 <h3 id="7-cookies-almacenamiento-local-y-analitica">7. Cookies, almacenamiento local y analítica</h3>
-<p>Nuestro sitio web combina almacenamiento esencial del navegador con tecnologías de analítica opcionales.</p>
+<p>Nuestro sitio web utiliza almacenamiento esencial del navegador y Google Analytics 4, cargado a través de Google Tag Manager. Actualmente no utilizamos etiquetas publicitarias ni de remarketing.</p>
 <p><strong>Almacenamiento esencial</strong></p>
 <p>Usamos almacenamiento esencial del navegador para funciones como:</p>
 <ul>
@@ -993,15 +1031,16 @@
 <li>recordar preferencias de interfaz, como el tema visual elegido</li>
 <li>dar soporte a la funcionalidad básica del sitio y al comportamiento relacionado con la seguridad</li>
 </ul>
-<p>Estas funciones son necesarias para que el sitio web funcione correctamente y no dependen del consentimiento para la analítica.</p>
+<p>Estas funciones son necesarias para que el sitio web funcione correctamente y no dependen de tus elecciones sobre cookies.</p>
 <p><strong>Analítica</strong></p>
-<p>Podemos utilizar Google Tag Manager y tecnologías de analítica para entender cómo se usa el sitio, pero estas herramientas no esenciales solo se cargan después de que des tu consentimiento a través de nuestros controles de cookies.</p>
-<p>Puedes:</p>
+<p>Utilizamos Google Analytics 4 para entender cómo se usa el sitio: qué páginas visitan las personas, cómo llegan y qué botones y formularios utilizan. Su funcionamiento depende de dónde te encuentres:</p>
 <ul>
-<li>aceptar la analítica</li>
-<li>rechazar la analítica</li>
-<li>volver a abrir y cambiar tu elección más adelante mediante el control de configuración de cookies del sitio</li>
+<li><strong>En el EEE, el Reino Unido y Suiza</strong>, Google Analytics funciona en modo de consentimiento. Hasta que aceptes, no instala cookies de analítica ni almacena identificadores en tu dispositivo. Google solo recibe señales sin cookies, como una página vista sin identificador de visitante almacenado, que puede utilizar para informes agregados y modelados. Las cookies de analítica solo se instalan después de que pulses «Aceptar» o guardes tu configuración de cookies con la categoría «Analítica» marcada.</li>
+<li><strong>En el resto del mundo</strong>, Google Analytics funciona con cookies desde tu primera visita, y puedes desactivarlo en cualquier momento.</li>
 </ul>
+<p><strong>Tus opciones</strong></p>
+<p>En la configuración de cookies, «Analítica» está preseleccionada y «Marketing» no. «Aceptar» activa ambas. «Marketing» abarca las tecnologías de campañas y de remarketing. Hoy no utilizamos ninguna; si las añadimos, solo funcionarán para los visitantes que tengan «Marketing» activado.</p>
+<p>Puedes cambiar tu elección en cualquier momento con el botón de configuración de cookies del sitio. Si desactivas «Analítica», Google Analytics se detiene en la página actual, no se carga en las páginas siguientes y sus cookies (<code>_ga</code>, <code>_gid</code>, <code>_gat</code>) se eliminan de tu navegador.</p>
 <h3 id="8-conservacion-de-los-datos">8. Conservación de los datos</h3>
 <p>Conservamos los datos personales solo durante el tiempo razonablemente necesario para los fines descritos, incluidos:</p>
 <ul>
@@ -1009,10 +1048,10 @@
 <li><strong>Registros de cliente y de proyecto</strong>: durante la duración del proyecto y un periodo razonable posterior por motivos operativos, legales y probatorios</li>
 <li><strong>Registros contables y facturas</strong>: durante el periodo exigido por la normativa fiscal y contable aplicable</li>
 <li><strong>Registros de consentimiento</strong>: durante el tiempo necesario para acreditar o gestionar las elecciones de consentimiento</li>
-<li><strong>Datos de analítica</strong>: según la configuración de las herramientas de analítica correspondientes, cuando estén activadas con tu consentimiento</li>
+<li><strong>Datos de analítica</strong>: según la configuración de conservación de datos de nuestra propiedad de Google Analytics</li>
 </ul>
 <h3 id="9-transferencias-internacionales-de-datos">9. Transferencias internacionales de datos</h3>
-<p>Algunos proveedores de servicios pueden tratar datos personales fuera del Espacio Económico Europeo (EEE). Cuando esto ocurre, procuramos aplicar garantías adecuadas, como Cláusulas Contractuales Tipo, decisiones de adecuación o mecanismos legales de transferencia equivalentes cuando resulten exigibles.</p>
+<p>Algunos proveedores de servicios pueden tratar datos personales fuera del Espacio Económico Europeo (EEE). Cuando esto ocurre, procuramos aplicar garantías adecuadas, como Cláusulas Contractuales Tipo, decisiones de adecuación o mecanismos legales de transferencia equivalentes cuando resulten exigibles. Google puede tratar datos de analítica en Estados Unidos; Google LLC participa en el EU-U.S. Data Privacy Framework.</p>
 <h3 id="10-tus-derechos">10. Tus derechos</h3>
 <p>Conforme al RGPD, puedes tener derecho a:</p>
 <ul>
@@ -1481,6 +1520,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>

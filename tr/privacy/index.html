@@ -117,8 +117,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -341,6 +341,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -403,10 +422,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -926,7 +964,7 @@
 
     
     
-    <div class="text-body"><p><strong>Son güncelleme:</strong> 11 Nisan 2026</p>
+    <div class="text-body"><p><strong>Son güncelleme:</strong> 24 Eylül 2026</p>
 <h3 id="1-giris">1. Giriş</h3>
 <p>Bu Gizlilik Politikası; onlinuum.com adresini ziyaret ettiğinizde, bizimle iletişime geçtiğinizde, teklif istediğinizde veya hizmetlerimizi kullandığınızda Onlinuum'un kişisel verileri nasıl topladığını, kullandığını, sakladığını ve koruduğunu açıklar.</p>
 <p>Türkiye'de kişisel verilerin korunması 6698 sayılı Kanun (KVKK) ile düzenlenir; bu metindeki "kişisel veri" ve "veri sorumlusu" kavramları KVKK'daki karşılıklarıyla aynı anlamda kullanılmıştır. Kişisel verileri şeffaf biçimde; Genel Veri Koruma Tüzüğü (GDPR), yürürlükteki Portekiz mevzuatı ve uygulandığı yerlerde çerez ile izleme gereklilikleri dâhil olmak üzere ilgili diğer gizlilik kuralları doğrultusunda işlemeyi amaçlıyoruz.</p>
@@ -950,7 +988,7 @@
 <ul>
 <li><strong>Teknik ve kullanım verileri</strong>: IP adresi, tarayıcı türü, işletim sistemi, cihaz bilgileri, görüntülenen sayfalar, yönlendirme verileri ve etkileşim olayları</li>
 <li><strong>İzin ve tercih verileri</strong>: çerez seçimleriniz, tema tercihiniz ve tarayıcı belleğinde saklanan sepet durumu</li>
-<li><strong>Analitik verileri</strong>: yalnızca ilgili analitik teknolojisi izninize bağlı olarak etkinleştirildiğinde toplanan, toplulaştırılmış web sitesi kullanım verileri</li>
+<li><strong>Analitik verileri</strong>: 7. bölümde açıklandığı şekilde Google Analytics ile toplanan web sitesi kullanım verileri</li>
 </ul>
 <h3 id="4-kisisel-verileri-nasl-kullanyoruz">4. Kişisel Verileri Nasıl Kullanıyoruz</h3>
 <p>Kişisel verileri şu amaçlarla kullanıyoruz:</p>
@@ -960,7 +998,7 @@
 <li><strong>Başlangıç, teslim, revizyon, faturalama ve destek süreçlerinde iletişim kurmak</strong></li>
 <li><strong>Muhasebe, vergi, dolandırıcılığın önlenmesi ve diğer yasal yükümlülüklere uymak</strong></li>
 <li><strong>Site güvenliğini sürdürmek, kötüye kullanımı tespit etmek ve sistemlerimizi korumak</strong></li>
-<li><strong>Analitik izni verildiği durumlarda site kullanımını ölçmek ve siteyi geliştirmek</strong></li>
+<li><strong>Site kullanımını ölçmek ve siteyi geliştirmek</strong> (7. bölümde açıklandığı şekilde)</li>
 <li><strong>Yalnızca ayrıca izin verdiyseniz pazarlama iletileri göndermek</strong></li>
 </ul>
 <h3 id="5-islemenin-hukuki-dayanaklar">5. İşlemenin Hukuki Dayanakları</h3>
@@ -968,8 +1006,8 @@
 <ul>
 <li><strong>Sözleşmenin ifası veya sözleşme öncesi adımlar (GDPR m. 6(1)(b))</strong>: teklif taleplerinin karşılanması, işe başlangıç, proje teslimi ve talep edilen hizmetlerle doğrudan ilgili müşteri iletişimi için</li>
 <li><strong>Hukuki yükümlülük (GDPR m. 6(1)(c))</strong>: vergi, muhasebe, kayıt tutma ve uyum yükümlülükleri için</li>
-<li><strong>Meşru menfaat (GDPR m. 6(1)(f))</strong>: menfaatlerimiz haklarınızın önüne geçmediği ölçüde site güvenliği, dolandırıcılığın önlenmesi, operasyonel iletişim ve hukuki taleplere karşı savunma için</li>
-<li><strong>Açık rıza (GDPR m. 6(1)(a))</strong>: zorunlu olmayan analitik ve isteğe bağlı pazarlama iletileri için</li>
+<li><strong>Meşru menfaat (GDPR m. 6(1)(f))</strong>: menfaatlerimiz haklarınızın önüne geçmediği ölçüde site güvenliği, dolandırıcılığın önlenmesi, operasyonel iletişim, hukuki taleplere karşı savunma ile AEA, Birleşik Krallık ve İsviçre dışındaki ziyaretçilere yönelik web sitesi analitiği için</li>
+<li><strong>Açık rıza (GDPR m. 6(1)(a))</strong>: AEA, Birleşik Krallık ve İsviçre'deki ziyaretçilere yönelik analitik çerezler, pazarlama teknolojileri ve isteğe bağlı pazarlama iletileri için</li>
 </ul>
 <p>İletişim formları ve hizmet talepleri söz konusu olduğunda, talebinizi yanıtlamak için gereken bilgileri işlerken pazarlama iznine dayanmıyoruz. Bu işleme faaliyeti genellikle sözleşme kurulmadan önce talebiniz üzerine adım atılması veya sözleşmenin ifası için gereklidir.</p>
 <h3 id="6-alclar-ve-veri-isleyenler">6. Alıcılar ve Veri İşleyenler</h3>
@@ -977,13 +1015,13 @@
 <ul>
 <li><strong>Barındırma ve altyapı sağlayıcıları</strong>: web sitesini barındırmak ve sunucu kayıtlarını saklamak için</li>
 <li><strong>Web3Forms</strong>: site üzerindeki iletişim ve teklif formu gönderimlerini e-posta akışımıza iletmek için</li>
-<li><strong>Google Tag Manager ve analitik sağlayıcıları</strong>: yalnızca analitik izni verildiğinde</li>
+<li><strong>Google (Google Tag Manager ve Google Analytics 4)</strong>: 7. bölümde açıklandığı şekilde web sitesi kullanımını ölçmek için</li>
 <li><strong>E-posta, iş birliği ve verimlilik araçları</strong>: proje teslimi ve iletişim için gerekli olduğunda</li>
 <li><strong>Hukuk ve mali müşavirler ile resmi kurumlar</strong>: hukuki, muhasebe, vergi, uyuşmazlık veya uyum nedenleriyle gerekli olduğunda</li>
 </ul>
 <p>Bizim adımıza hareket eden veri işleyenlerin verileri yalnızca uygun sözleşmesel ve hukuki güvenceler altında işlemesini şart koşuyoruz.</p>
 <h3 id="7-cerezler-yerel-depolama-ve-analitik">7. Çerezler, Yerel Depolama ve Analitik</h3>
-<p>Web sitemiz zorunlu tarayıcı belleği ile isteğe bağlı analitik teknolojilerinin bir birleşimini kullanır. Bu bölüm aynı zamanda çerez politikamız olarak uygulanır.</p>
+<p>Web sitemiz zorunlu tarayıcı belleğini ve Google Tag Manager üzerinden yüklenen Google Analytics 4'ü kullanır. Şu anda reklam veya yeniden pazarlama etiketleri kullanmıyoruz. Bu bölüm aynı zamanda çerez politikamız olarak uygulanır.</p>
 <p><strong>Zorunlu depolama</strong></p>
 <p>Zorunlu tarayıcı belleğini şu işlevler için kullanıyoruz:</p>
 <ul>
@@ -991,15 +1029,16 @@
 <li>tema seçimi gibi arayüz tercihlerini hatırlamak</li>
 <li>sitenin temel işlevlerini ve güvenlikle ilgili davranışını desteklemek</li>
 </ul>
-<p>Bu işlevler sitenin düzgün çalışması için gereklidir ve analitik iznine bağlı değildir.</p>
+<p>Bu işlevler sitenin düzgün çalışması için gereklidir ve çerez seçimlerinize bağlı değildir.</p>
 <p><strong>Analitik</strong></p>
-<p>Sitenin nasıl kullanıldığını anlamak için Google Tag Manager ve analitik teknolojilerini kullanabiliriz; ancak zorunlu olmayan bu araçları yalnızca çerez kontrollerimiz üzerinden izin verdikten sonra yükleriz.</p>
-<p>Şunları yapabilirsiniz:</p>
+<p>Sitenin nasıl kullanıldığını, yani ziyaretçilerin hangi sayfaları ziyaret ettiğini, siteye nasıl ulaştığını ve hangi düğmeleri ve formları kullandığını anlamak için Google Analytics 4'ü kullanıyoruz. Çalışma şekli bulunduğunuz yere göre değişir:</p>
 <ul>
-<li>analitiği kabul etmek</li>
-<li>analitiği reddetmek</li>
-<li>sitedeki çerez ayarları kontrolünden seçiminizi yeniden açıp değiştirmek</li>
+<li><strong>AEA, Birleşik Krallık ve İsviçre'de</strong> Google Analytics izin modunda çalışır. Siz kabul edene kadar hiçbir analitik çerez yerleştirmez ve cihazınızda hiçbir tanımlayıcı saklamaz. Google yalnızca saklanan bir ziyaretçi tanımlayıcısı içermeyen bir sayfa görüntüleme gibi çerezsiz sinyaller alır ve bunları toplulaştırılmış ve modellenmiş raporlar için kullanabilir. Analitik çerezler yalnızca 'Kabul ediyorum' düğmesine bastıktan veya çerez ayarlarınızı 'Analitik' seçiliyken kaydettikten sonra yerleştirilir.</li>
+<li><strong>Diğer bölgelerde</strong> Google Analytics ilk ziyaretinizden itibaren çerezlerle çalışır ve bunu istediğiniz zaman kapatabilirsiniz.</li>
 </ul>
+<p><strong>Seçimleriniz</strong></p>
+<p>Çerez ayarlarında 'Analitik' önceden seçilidir, 'Pazarlama' ise seçili değildir. 'Kabul ediyorum' düğmesi ikisini de etkinleştirir. 'Pazarlama', kampanya ve yeniden pazarlama teknolojilerini kapsar. Şu anda bu tür teknolojiler kullanmıyoruz; ileride eklersek yalnızca 'Pazarlama' seçeneğini açmış ziyaretçiler için çalışırlar.</p>
+<p>Seçiminizi sitedeki çerez ayarları düğmesiyle istediğiniz zaman değiştirebilirsiniz. 'Analitik' seçeneğini kapatırsanız Google Analytics mevcut sayfada durur, sonraki sayfalarda yüklenmez ve çerezleri (<code>_ga</code>, <code>_gid</code>, <code>_gat</code>) tarayıcınızdan silinir.</p>
 <h3 id="8-verilerin-saklanma-suresi">8. Verilerin Saklanma Süresi</h3>
 <p>Kişisel verileri yalnızca yukarıda açıklanan amaçlar için makul ölçüde gerekli olduğu sürece saklıyoruz:</p>
 <ul>
@@ -1007,10 +1046,10 @@
 <li><strong>Müşteri ve proje kayıtları</strong>: iş birliğinin süresi boyunca ve sonrasında operasyonel, hukuki ve ispat amaçlı makul bir süre</li>
 <li><strong>Muhasebe ve fatura kayıtları</strong>: geçerli vergi ve muhasebe mevzuatının gerektirdiği süre boyunca</li>
 <li><strong>İzin kayıtları</strong>: izin seçimlerini kanıtlamak veya yönetmek için gerekli olduğu sürece</li>
-<li><strong>Analitik verileri</strong>: izinle etkinleştirildiğinde, ilgili analitik araçlarının yapılandırmasına göre</li>
+<li><strong>Analitik verileri</strong>: Google Analytics mülkümüzün veri saklama ayarlarına göre</li>
 </ul>
 <h3 id="9-uluslararas-veri-aktarmlar">9. Uluslararası Veri Aktarımları</h3>
-<p>Bazı hizmet sağlayıcılar kişisel verileri Avrupa Ekonomik Alanı (AEA) dışında işleyebilir. Bu durumda, gerekli olduğu yerlerde Standart Sözleşme Maddeleri, yeterlilik kararları veya eşdeğer hukuki aktarım mekanizmaları gibi uygun güvenceleri kullanmayı amaçlıyoruz.</p>
+<p>Bazı hizmet sağlayıcılar kişisel verileri Avrupa Ekonomik Alanı (AEA) dışında işleyebilir. Bu durumda, gerekli olduğu yerlerde Standart Sözleşme Maddeleri, yeterlilik kararları veya eşdeğer hukuki aktarım mekanizmaları gibi uygun güvenceleri kullanmayı amaçlıyoruz. Google, analitik verilerini Amerika Birleşik Devletleri'nde işleyebilir; Google LLC, EU-U.S. Data Privacy Framework'e katılmaktadır.</p>
 <h3 id="10-haklarnz">10. Haklarınız</h3>
 <p>GDPR kapsamında şu haklara sahip olabilirsiniz:</p>
 <ul>
@@ -1479,6 +1518,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>

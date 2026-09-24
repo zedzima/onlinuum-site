@@ -10327,3 +10327,10 @@ a.cards-link:hover {
         padding-right: var(--space-md);
     }
 }
+
+/* Inline code is always Latin (cookie names, paths); isolate it so neutral characters such as
+   the leading underscore of _ga stay attached on the correct side inside RTL sentences. */
+[dir="rtl"] code {
+    direction: ltr;
+    unicode-bidi: isolate;
+}

@@ -117,8 +117,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -341,6 +341,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -403,10 +422,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -926,7 +964,7 @@
 
     
     
-    <div class="text-body"><p><strong>Laatst bijgewerkt:</strong> 11 april 2026</p>
+    <div class="text-body"><p><strong>Laatst bijgewerkt:</strong> 24 september 2026</p>
 <h3 id="1-inleiding">1. Inleiding</h3>
 <p>Dit privacybeleid — ook wel de privacyverklaring — legt uit hoe Onlinuum persoonsgegevens verzamelt, gebruikt, bewaart en beschermt wanneer u onlinuum.com bezoekt, contact met ons opneemt, een offerte aanvraagt of van onze diensten gebruikmaakt.</p>
 <p>Wij verwerken persoonsgegevens transparant en in overeenstemming met de Algemene verordening gegevensbescherming (AVG), het toepasselijke Portugese recht en andere relevante privacyregels, waaronder de eisen rond cookies en tracking waar die van toepassing zijn.</p>
@@ -950,7 +988,7 @@
 <ul>
 <li><strong>Technische en gebruiksgegevens</strong>: IP-adres, browsertype, besturingssysteem, apparaatgegevens, bekeken pagina's, verwijzende bronnen en interactiegebeurtenissen</li>
 <li><strong>Toestemmings- en voorkeursgegevens</strong>: cookiekeuzes, themavoorkeur en de inhoud van uw selectie, opgeslagen in de browser</li>
-<li><strong>Analysegegevens</strong>: geaggregeerde gegevens over het gebruik van de website, uitsluitend wanneer de betreffende analysetechnologie op basis van uw toestemming is ingeschakeld</li>
+<li><strong>Analysegegevens</strong>: gegevens over het gebruik van de website die met Google Analytics worden verzameld, zoals beschreven in paragraaf 7</li>
 </ul>
 <h3 id="4-waarvoor-wij-persoonsgegevens-gebruiken">4. Waarvoor wij persoonsgegevens gebruiken</h3>
 <p>Wij gebruiken persoonsgegevens voor de volgende doeleinden:</p>
@@ -960,7 +998,7 @@
 <li><strong>Het communiceren tijdens onboarding, uitvoering, revisies, facturatie en support</strong></li>
 <li><strong>Het voldoen aan verplichtingen op het gebied van boekhouding, belastingen, fraudepreventie en andere wettelijke plichten</strong></li>
 <li><strong>Het beveiligen van de site, het opsporen van misbruik en het beschermen van onze systemen</strong></li>
-<li><strong>Het meten van websitegebruik en het verbeteren van de site, wanneer u toestemming voor analytics heeft gegeven</strong></li>
+<li><strong>Het meten van websitegebruik en het verbeteren van de site</strong>, zoals beschreven in paragraaf 7</li>
 <li><strong>Het versturen van marketingcommunicatie, uitsluitend wanneer u daarvoor afzonderlijk toestemming heeft gegeven</strong></li>
 </ul>
 <h3 id="5-grondslagen-voor-de-verwerking">5. Grondslagen voor de verwerking</h3>
@@ -968,8 +1006,8 @@
 <ul>
 <li><strong>Uitvoering van een overeenkomst of stappen voorafgaand daaraan (art. 6, lid 1, onder b, AVG)</strong>: voor het behandelen van offerteaanvragen, onboarding, projectuitvoering en klantcommunicatie die rechtstreeks samenhangt met de gevraagde diensten</li>
 <li><strong>Wettelijke verplichting (art. 6, lid 1, onder c, AVG)</strong>: voor fiscale, boekhoudkundige, administratieve en nalevingsplichten</li>
-<li><strong>Gerechtvaardigd belang (art. 6, lid 1, onder f, AVG)</strong>: voor websitebeveiliging, fraudepreventie, operationele communicatie en het verweer tegen rechtsvorderingen, voor zover onze belangen niet zwaarder wegen dan uw rechten</li>
-<li><strong>Toestemming (art. 6, lid 1, onder a, AVG)</strong>: voor niet-essentiële analytics en optionele marketingcommunicatie</li>
+<li><strong>Gerechtvaardigd belang (art. 6, lid 1, onder f, AVG)</strong>: voor websitebeveiliging, fraudepreventie, operationele communicatie, het verweer tegen rechtsvorderingen en websiteanalyse voor bezoekers buiten de EER, het Verenigd Koninkrijk en Zwitserland, voor zover onze belangen niet zwaarder wegen dan uw rechten</li>
+<li><strong>Toestemming (art. 6, lid 1, onder a, AVG)</strong>: voor analytische cookies bij bezoekers in de EER, het Verenigd Koninkrijk en Zwitserland, voor marketingtechnologieën en voor optionele marketingcommunicatie</li>
 </ul>
 <p>Voor contactformulieren en serviceaanvragen baseren wij ons niet op marketingtoestemming om de informatie te verwerken die nodig is om uw vraag te beantwoorden. Die verwerking is in de regel noodzakelijk om op uw verzoek stappen te zetten vóór het sluiten van een overeenkomst, of om een overeenkomst uit te voeren.</p>
 <h3 id="6-ontvangers-en-verwerkers">6. Ontvangers en verwerkers</h3>
@@ -977,13 +1015,13 @@
 <ul>
 <li><strong>Hosting- en infrastructuuraanbieders</strong>: voor het hosten van de website en het opslaan van serverlogs</li>
 <li><strong>Web3Forms</strong>: voor het doorsturen van contact- en offerteformulieren naar onze e-mailworkflow</li>
-<li><strong>Google Tag Manager en aanbieders van analytics</strong>: uitsluitend wanneer toestemming voor analytics is gegeven</li>
+<li><strong>Google (Google Tag Manager en Google Analytics 4)</strong>: voor het meten van websitegebruik, zoals beschreven in paragraaf 7</li>
 <li><strong>E-mail-, samenwerkings- en productiviteitstools</strong>: waar dat nodig is voor de uitvoering en de communicatie van een project</li>
 <li><strong>Professionele adviseurs of autoriteiten</strong>: waar dat vereist is om juridische, boekhoudkundige, fiscale, geschil- of nalevingsredenen</li>
 </ul>
 <p>Wij verlangen van verwerkers die namens ons handelen dat zij gegevens uitsluitend verwerken onder passende contractuele en wettelijke waarborgen.</p>
 <h3 id="7-cookies-lokale-opslag-en-analytics">7. Cookies, lokale opslag en analytics</h3>
-<p>Onze website gebruikt een combinatie van essentiële browseropslag en optionele analysetechnologie.</p>
+<p>Onze website gebruikt essentiële browseropslag en Google Analytics 4, dat via Google Tag Manager wordt geladen. Wij gebruiken momenteel geen advertentie- of remarketingtags.</p>
 <p><strong>Essentiële opslag</strong></p>
 <p>Wij gebruiken essentiële browseropslag voor functies zoals:</p>
 <ul>
@@ -991,15 +1029,16 @@
 <li>het onthouden van interfacevoorkeuren, zoals de themakeuze</li>
 <li>het ondersteunen van basisfunctionaliteit en beveiligingsgerelateerd gedrag van de site</li>
 </ul>
-<p>Deze functies zijn noodzakelijk om de website goed te laten werken en zijn niet afhankelijk van toestemming voor analytics.</p>
+<p>Deze functies zijn noodzakelijk om de website goed te laten werken en zijn niet afhankelijk van uw cookiekeuzes.</p>
 <p><strong>Analytics</strong></p>
-<p>Wij kunnen Google Tag Manager en analysetechnologie gebruiken om te begrijpen hoe de site wordt gebruikt, maar wij laden deze niet-essentiële tools pas nadat u daarvoor toestemming heeft gegeven via onze cookie-instellingen.</p>
-<p>U kunt:</p>
+<p>Wij gebruiken Google Analytics 4 om te begrijpen hoe de site wordt gebruikt: welke pagina's bezoekers bekijken, hoe zij op de site terechtkomen en welke knoppen en formulieren zij gebruiken. Hoe het werkt, hangt af van waar u zich bevindt:</p>
 <ul>
-<li>analytics accepteren</li>
-<li>analytics weigeren</li>
-<li>uw keuze later opnieuw openen en wijzigen via de cookie-instellingen op de site</li>
+<li><strong>In de EER, het Verenigd Koninkrijk en Zwitserland</strong> werkt Google Analytics in toestemmingsmodus. Totdat u toestemming geeft, plaatst het geen analytische cookies en slaat het geen identificatoren op uw apparaat op. Google ontvangt alleen signalen zonder cookies, zoals een paginaweergave zonder opgeslagen bezoekersidentificator, die Google kan gebruiken voor geaggregeerde en gemodelleerde rapportages. Analytische cookies worden pas geplaatst nadat u op Accepteren klikt of uw cookie-instellingen opslaat met Analyse aangevinkt.</li>
+<li><strong>Elders</strong> werkt Google Analytics vanaf uw eerste bezoek met cookies, en u kunt het op elk moment uitschakelen.</li>
 </ul>
+<p><strong>Uw keuzes</strong></p>
+<p>In de cookie-instellingen is Analyse vooraf aangevinkt en Marketing niet. De knop Accepteren schakelt beide in. Marketing omvat campagne- en remarketingtechnologieën. Die gebruiken wij op dit moment niet; als wij ze toevoegen, werken ze alleen voor bezoekers bij wie Marketing is ingeschakeld.</p>
+<p>U kunt uw keuze op elk moment wijzigen via de knop voor cookie-instellingen op de site. Als u Analyse uitschakelt, stopt Google Analytics op de huidige pagina, wordt het op volgende pagina's niet meer geladen en worden de bijbehorende cookies (<code>_ga</code>, <code>_gid</code>, <code>_gat</code>) uit uw browser verwijderd.</p>
 <h3 id="8-bewaartermijnen">8. Bewaartermijnen</h3>
 <p>Wij bewaren persoonsgegevens niet langer dan redelijkerwijs nodig is voor de hierboven beschreven doeleinden, waaronder:</p>
 <ul>
@@ -1007,10 +1046,10 @@
 <li><strong>Klant- en projectdossiers</strong>: voor de duur van de opdracht en een redelijke periode daarna, om operationele, juridische en bewijsrechtelijke redenen</li>
 <li><strong>Boekhoud- en factuurgegevens</strong>: gedurende de termijn die de toepasselijke fiscale en boekhoudwetgeving voorschrijft</li>
 <li><strong>Toestemmingsregistraties</strong>: zolang als nodig is om toestemmingskeuzes aan te tonen of te beheren</li>
-<li><strong>Analysegegevens</strong>: volgens de instellingen van de betreffende analysetools, wanneer die met toestemming zijn ingeschakeld</li>
+<li><strong>Analysegegevens</strong>: volgens de instellingen voor gegevensbewaring van onze Google Analytics-property</li>
 </ul>
 <h3 id="9-doorgifte-naar-het-buitenland">9. Doorgifte naar het buitenland</h3>
-<p>Sommige dienstverleners kunnen persoonsgegevens verwerken buiten de Europese Economische Ruimte (EER). Waar dat gebeurt, streven wij ernaar passende waarborgen te gebruiken, zoals modelcontractbepalingen, adequaatheidsbesluiten of gelijkwaardige wettelijke doorgiftemechanismen waar die vereist zijn.</p>
+<p>Sommige dienstverleners kunnen persoonsgegevens verwerken buiten de Europese Economische Ruimte (EER). Waar dat gebeurt, streven wij ernaar passende waarborgen te gebruiken, zoals modelcontractbepalingen, adequaatheidsbesluiten of gelijkwaardige wettelijke doorgiftemechanismen waar die vereist zijn. Google kan analysegegevens verwerken in de Verenigde Staten; Google LLC neemt deel aan het EU-U.S. Data Privacy Framework.</p>
 <h3 id="10-uw-rechten">10. Uw rechten</h3>
 <p>Op grond van de AVG heeft u mogelijk het recht om:</p>
 <ul>
@@ -1479,6 +1518,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>

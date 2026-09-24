@@ -117,8 +117,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -341,6 +341,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -403,10 +422,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -926,7 +964,7 @@
 
     
     
-    <div class="text-body"><p><strong>최종 수정일:</strong> 2026년 4월 11일</p>
+    <div class="text-body"><p><strong>최종 수정일:</strong> 2026년 9월 24일</p>
 <h3 id="1">1. 개요</h3>
 <p>본 개인정보처리방침은 onlinuum.com 방문, 문의, 견적 요청 또는 서비스 이용 과정에서 Onlinuum이 개인정보를 어떻게 수집하고 이용하며 보관하고 보호하는지 설명합니다.</p>
 <p>Onlinuum은 유럽 일반 개인정보보호법(GDPR)과 적용 가능한 포르투갈 법령, 그리고 쿠키 및 추적 기술에 관한 규정을 포함한 관련 개인정보 보호정책 요건에 따라 투명하게 개인정보를 처리하고자 합니다.</p>
@@ -950,7 +988,7 @@
 <ul>
 <li><strong>기술 및 이용 정보</strong>: IP 주소, 브라우저 종류, 운영체제, 기기 정보, 열람한 페이지, 유입 경로, 상호작용 이벤트</li>
 <li><strong>동의 및 설정 정보</strong>: 쿠키 선택 내역, 화면 테마 설정, 브라우저 저장소에 보관되는 장바구니 상태</li>
-<li><strong>분석 정보</strong>: 동의에 따라 해당 분석 기술이 활성화된 경우에 한해 집계되는 웹사이트 이용 데이터</li>
+<li><strong>분석 정보</strong>: 제7조에 기재된 바와 같이 Google Analytics를 통해 수집되는 웹사이트 이용 데이터</li>
 </ul>
 <h3 id="4">4. 개인정보의 이용 목적</h3>
 <p>Onlinuum은 다음 목적으로 개인정보를 이용합니다.</p>
@@ -960,7 +998,7 @@
 <li><strong>온보딩, 작업 진행, 수정, 청구, 지원 과정에서 소통하기 위하여</strong></li>
 <li><strong>회계, 세무, 부정행위 방지 등 법령상 의무를 이행하기 위하여</strong></li>
 <li><strong>사이트 보안을 유지하고 오남용을 진단하며 시스템을 보호하기 위하여</strong></li>
-<li><strong>분석 동의를 받은 범위에서 웹사이트 이용을 측정하고 사이트를 개선하기 위하여</strong></li>
+<li><strong>웹사이트 이용을 측정하고 사이트를 개선하기 위하여</strong>(제7조에 기재된 바와 같음)</li>
 <li><strong>별도로 동의하신 경우에 한해 마케팅 정보를 발송하기 위하여</strong></li>
 </ul>
 <h3 id="5">5. 처리의 법적 근거</h3>
@@ -968,8 +1006,8 @@
 <ul>
 <li><strong>계약의 이행 또는 계약 체결 전 조치(GDPR 제6조 제1항 b호)</strong>: 견적 요청 처리, 온보딩, 프로젝트 수행, 요청하신 서비스와 직접 관련된 고객 커뮤니케이션</li>
 <li><strong>법적 의무의 준수(GDPR 제6조 제1항 c호)</strong>: 세무, 회계, 기록 보존, 컴플라이언스 의무</li>
-<li><strong>정당한 이익(GDPR 제6조 제1항 f호)</strong>: 웹사이트 보안, 부정행위 방지, 운영상 연락, 법적 청구의 방어. 다만 정보주체의 권리가 우선하지 않는 범위에 한합니다</li>
-<li><strong>동의(GDPR 제6조 제1항 a호)</strong>: 필수가 아닌 분석 기술 및 선택적 마케팅 발송</li>
+<li><strong>정당한 이익(GDPR 제6조 제1항 f호)</strong>: 웹사이트 보안, 부정행위 방지, 운영상 연락, 법적 청구의 방어, EEA·영국·스위스 이외 지역 방문자에 대한 웹사이트 분석. 다만 정보주체의 권리가 우선하지 않는 범위에 한합니다</li>
+<li><strong>동의(GDPR 제6조 제1항 a호)</strong>: EEA·영국·스위스 방문자에 대한 분석 쿠키, 마케팅 기술 및 선택적 마케팅 발송</li>
 </ul>
 <p>문의 양식과 서비스 요청의 경우, 요청에 답변하기 위해 필요한 정보의 처리는 마케팅 동의에 근거하지 않습니다. 해당 처리는 일반적으로 계약 체결 전 요청에 따른 조치이거나 계약의 이행을 위해 필요합니다.</p>
 <h3 id="6">6. 제공 대상 및 수탁업체</h3>
@@ -977,13 +1015,13 @@
 <ul>
 <li><strong>호스팅 및 인프라 제공업체</strong>: 웹사이트 호스팅과 서버 로그 보관</li>
 <li><strong>Web3Forms</strong>: 웹사이트 문의 및 견적 요청 양식의 내용을 이메일 업무 흐름으로 전달</li>
-<li><strong>Google Tag Manager 및 분석 서비스 제공업체</strong>: 분석 동의를 받은 경우에 한함</li>
+<li><strong>Google(Google Tag Manager 및 Google Analytics 4)</strong>: 제7조에 기재된 바에 따른 웹사이트 이용 측정</li>
 <li><strong>이메일, 협업, 업무 도구</strong>: 프로젝트 수행과 커뮤니케이션에 필요한 범위</li>
 <li><strong>전문 자문사 또는 관계 기관</strong>: 법률, 회계, 세무, 분쟁, 컴플라이언스상 필요한 경우</li>
 </ul>
 <p>Onlinuum을 대신하여 개인정보를 처리하는 수탁업체에는 적절한 계약상·법률상 안전조치 아래에서만 처리하도록 요구합니다.</p>
 <h3 id="7">7. 쿠키, 브라우저 저장소, 분석 도구</h3>
-<p>본 웹사이트는 필수 브라우저 저장소와 선택적 분석 기술을 함께 사용합니다.</p>
+<p>본 웹사이트는 필수 브라우저 저장소와, Google Tag Manager를 통해 불러오는 Google Analytics 4를 사용합니다. 현재 광고 태그나 리마케팅 태그는 사용하지 않습니다.</p>
 <p><strong>필수 저장소</strong></p>
 <p>다음과 같은 기능을 위해 필수 브라우저 저장소를 사용합니다.</p>
 <ul>
@@ -991,15 +1029,16 @@
 <li>화면 테마 등 인터페이스 설정 기억</li>
 <li>사이트의 핵심 기능과 보안 관련 동작 지원</li>
 </ul>
-<p>이 기능들은 웹사이트가 정상적으로 작동하기 위해 필요하며 분석 동의 여부와 무관합니다.</p>
+<p>이 기능들은 웹사이트가 정상적으로 작동하기 위해 필요하며 고객님의 쿠키 선택과 무관합니다.</p>
 <p><strong>분석 도구</strong></p>
-<p>사이트 이용 방식을 파악하기 위해 Google Tag Manager와 분석 기술을 사용할 수 있습니다. 필수가 아닌 이러한 도구는 사이트의 쿠키 설정에서 개인정보 수집 동의를 받은 뒤에만 불러옵니다.</p>
-<p>고객님은 다음을 선택하실 수 있습니다.</p>
+<p>방문자가 어떤 페이지를 보는지, 어떤 경로로 유입되는지, 어떤 버튼과 양식을 사용하는지 등 사이트 이용 방식을 파악하기 위해 Google Analytics 4를 사용합니다. 작동 방식은 고객님이 계신 지역에 따라 다음과 같이 다릅니다.</p>
 <ul>
-<li>분석 도구 허용</li>
-<li>분석 도구 거부</li>
-<li>사이트의 쿠키 설정에서 선택 내용을 다시 열어 변경</li>
+<li><strong>EEA·영국·스위스에서는</strong> Google Analytics가 동의 모드로 작동합니다. 고객님이 동의하시기 전까지는 분석 쿠키를 설정하지 않으며 고객님의 기기에 식별자를 저장하지 않습니다. Google은 저장된 방문자 식별자가 없는 페이지 조회와 같은 쿠키 없는 신호만 수신하며, 이를 집계 보고서와 모델링 보고서에 사용할 수 있습니다. 분석 쿠키는 '동의합니다'를 누르시거나 '분석'을 선택한 상태로 쿠키 설정을 저장하신 후에만 설정됩니다.</li>
+<li><strong>그 밖의 지역에서는</strong> Google Analytics가 첫 방문부터 쿠키를 사용하여 작동하며, 고객님은 언제든지 이를 끄실 수 있습니다.</li>
 </ul>
+<p><strong>고객님의 선택</strong></p>
+<p>쿠키 설정에서 '분석'은 미리 선택되어 있고 '마케팅'은 선택되어 있지 않습니다. '동의합니다'를 누르시면 두 항목이 모두 켜집니다. '마케팅'은 캠페인 및 리마케팅 기술을 포함합니다. 현재는 이러한 기술을 사용하지 않으며, 향후 도입하는 경우에도 '마케팅'을 켠 방문자에게만 작동합니다.</p>
+<p>사이트의 쿠키 설정 버튼으로 언제든지 선택을 변경하실 수 있습니다. '분석'을 끄시면 Google Analytics는 현재 페이지에서 중지되고 이후 페이지에서는 불러오지 않으며, 관련 쿠키(<code>_ga</code>, <code>_gid</code>, <code>_gat</code>)는 브라우저에서 삭제됩니다.</p>
 <h3 id="8">8. 개인정보 보유 기간</h3>
 <p>Onlinuum은 위에 기재된 목적에 합리적으로 필요한 기간에 한해 개인정보를 보유합니다.</p>
 <ul>
@@ -1007,10 +1046,10 @@
 <li><strong>고객사 및 프로젝트 기록</strong>: 프로젝트 기간 및 그 이후 운영·법률·증빙 목적에 필요한 합리적 기간</li>
 <li><strong>회계 및 청구 기록</strong>: 적용되는 세법과 회계 법령이 요구하는 기간</li>
 <li><strong>동의 기록</strong>: 동의 내역을 증명하거나 관리하는 데 필요한 기간</li>
-<li><strong>분석 데이터</strong>: 동의에 따라 활성화된 경우 해당 분석 도구의 설정에 따른 기간</li>
+<li><strong>분석 데이터</strong>: Onlinuum의 Google Analytics 속성에 적용된 데이터 보관 설정에 따른 기간</li>
 </ul>
 <h3 id="9">9. 개인정보의 국외 이전</h3>
-<p>일부 서비스 제공업체는 유럽경제지역(EEA) 밖에서 개인정보를 처리할 수 있습니다. 이 경우 Onlinuum은 표준계약조항, 적정성 결정 또는 이에 준하는 법적 이전 장치 등 필요한 안전조치를 적용하고자 합니다.</p>
+<p>일부 서비스 제공업체는 유럽경제지역(EEA) 밖에서 개인정보를 처리할 수 있습니다. 이 경우 Onlinuum은 표준계약조항, 적정성 결정 또는 이에 준하는 법적 이전 장치 등 필요한 안전조치를 적용하고자 합니다. Google은 분석 데이터를 미국에서 처리할 수 있으며, Google LLC는 EU-U.S. Data Privacy Framework에 참여하고 있습니다.</p>
 <h3 id="10">10. 정보주체의 권리</h3>
 <p>GDPR에 따라 고객님은 다음 권리를 가질 수 있습니다.</p>
 <ul>
@@ -1479,6 +1518,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>

@@ -119,8 +119,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -343,6 +343,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -405,10 +424,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -928,7 +966,7 @@
 
     
     
-    <div class="text-body"><p><strong>Stand:</strong> 11. April 2026</p>
+    <div class="text-body"><p><strong>Stand:</strong> 24. September 2026</p>
 <h3 id="1-einleitung">1. Einleitung</h3>
 <p>Diese Datenschutzerklärung beschreibt, wie Onlinuum personenbezogene Daten erhebt, verwendet, speichert und schützt, wenn Sie onlinuum.com besuchen, uns kontaktieren, ein Angebot anfordern oder unsere Leistungen nutzen.</p>
 <p>Wir verarbeiten personenbezogene Daten transparent und im Einklang mit der Datenschutz-Grundverordnung (DSGVO), dem anwendbaren portugiesischen Recht und weiteren einschlägigen Datenschutzvorschriften, einschließlich der Anforderungen an Cookies und Tracking, soweit diese gelten.</p>
@@ -952,7 +990,7 @@
 <ul>
 <li><strong>Technische Daten und Nutzungsdaten</strong>: IP-Adresse, Browsertyp, Betriebssystem, Geräteinformationen, aufgerufene Seiten, Verweisquelle und Interaktionsereignisse</li>
 <li><strong>Einwilligungs- und Präferenzdaten</strong>: Cookie-Entscheidungen, Darstellungsmodus und der im Browserspeicher abgelegte Stand Ihrer Auswahl</li>
-<li><strong>Analysedaten</strong>: aggregierte Nutzungsdaten der Website, jedoch nur dort, wo die jeweilige Analysetechnologie auf Grundlage Ihrer Einwilligung aktiviert ist</li>
+<li><strong>Analysedaten</strong>: mit Google Analytics erhobene Nutzungsdaten der Website, wie in Abschnitt 7 beschrieben</li>
 </ul>
 <h3 id="4-wie-wir-personenbezogene-daten-verwenden">4. Wie wir personenbezogene Daten verwenden</h3>
 <p>Wir verwenden personenbezogene Daten für die folgenden Zwecke:</p>
@@ -962,7 +1000,7 @@
 <li><strong>Zur Kommunikation bei Onboarding, Umsetzung, Korrekturschleifen, Abrechnung und Support</strong></li>
 <li><strong>Zur Erfüllung von Pflichten aus Buchhaltung, Steuerrecht, Betrugsprävention und sonstigen gesetzlichen Vorgaben</strong></li>
 <li><strong>Zur Aufrechterhaltung der Sicherheit der Website, zur Erkennung von Missbrauch und zum Schutz unserer Systeme</strong></li>
-<li><strong>Zur Messung der Websitenutzung und zur Verbesserung der Website, sofern eine Einwilligung in die Analyse vorliegt</strong></li>
+<li><strong>Zur Messung der Websitenutzung und zur Verbesserung der Website</strong>, wie in Abschnitt 7 beschrieben</li>
 <li><strong>Zum Versand von Marketing-Nachrichten, ausschließlich bei gesonderter Einwilligung</strong></li>
 </ul>
 <h3 id="5-rechtsgrundlagen-der-verarbeitung">5. Rechtsgrundlagen der Verarbeitung</h3>
@@ -970,8 +1008,8 @@
 <ul>
 <li><strong>Vertragserfüllung oder vorvertragliche Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO)</strong>: für die Bearbeitung von Angebotsanfragen, das Onboarding, die Projektabwicklung und die unmittelbar zu den angefragten Leistungen gehörende Kommunikation</li>
 <li><strong>Rechtliche Verpflichtung (Art. 6 Abs. 1 lit. c DSGVO)</strong>: für steuerliche Pflichten, Buchhaltung, Aufbewahrung und Compliance</li>
-<li><strong>Berechtigte Interessen (Art. 6 Abs. 1 lit. f DSGVO)</strong>: für die Sicherheit der Website, die Betrugsprävention, organisatorische Kommunikation und die Abwehr von Rechtsansprüchen, soweit Ihre Rechte nicht überwiegen</li>
-<li><strong>Einwilligung (Art. 6 Abs. 1 lit. a DSGVO)</strong>: für nicht notwendige Analysetechnologien und für optionale Marketing-Nachrichten</li>
+<li><strong>Berechtigte Interessen (Art. 6 Abs. 1 lit. f DSGVO)</strong>: für die Sicherheit der Website, die Betrugsprävention, organisatorische Kommunikation, die Abwehr von Rechtsansprüchen und die Website-Analyse bei Besuchern außerhalb des EWR, des Vereinigten Königreichs und der Schweiz, soweit Ihre Rechte nicht überwiegen</li>
+<li><strong>Einwilligung (Art. 6 Abs. 1 lit. a DSGVO)</strong>: für Analyse-Cookies bei Besuchern aus dem EWR, dem Vereinigten Königreich und der Schweiz, für Marketing-Technologien und für optionale Marketing-Nachrichten</li>
 </ul>
 <p>Für Kontaktformulare und Leistungsanfragen stützen wir die Verarbeitung der zur Beantwortung nötigen Angaben nicht auf eine Marketing-Einwilligung. Diese Verarbeitung ist in der Regel erforderlich, um auf Ihre Anfrage hin vorvertragliche Maßnahmen durchzuführen oder einen Vertrag zu erfüllen.</p>
 <h3 id="6-empfanger-und-auftragsverarbeiter">6. Empfänger und Auftragsverarbeiter</h3>
@@ -979,13 +1017,13 @@
 <ul>
 <li><strong>Hosting- und Infrastrukturanbieter</strong>: für den Betrieb der Website und die Speicherung von Server-Logs</li>
 <li><strong>Web3Forms</strong>: für die Übermittlung der über die Website gesendeten Kontakt- und Angebotsanfragen an unser E-Mail-System</li>
-<li><strong>Google Tag Manager und Analyseanbieter</strong>: ausschließlich bei vorliegender Einwilligung in die Analyse</li>
+<li><strong>Google (Google Tag Manager und Google Analytics 4)</strong>: für die Messung der Websitenutzung, wie in Abschnitt 7 beschrieben</li>
 <li><strong>Werkzeuge für E-Mail, Zusammenarbeit und Produktivität</strong>: soweit für Projektabwicklung und Kommunikation erforderlich</li>
 <li><strong>Berufliche Berater oder Behörden</strong>: soweit dies aus rechtlichen, buchhalterischen, steuerlichen oder Compliance-Gründen oder wegen einer Streitigkeit erforderlich ist</li>
 </ul>
 <p>Auftragsverarbeiter, die in unserem Auftrag tätig werden, dürfen Daten nur unter geeigneten vertraglichen und rechtlichen Schutzvorkehrungen verarbeiten.</p>
 <h3 id="7-cookies-lokale-speicherung-und-analyse">7. Cookies, lokale Speicherung und Analyse</h3>
-<p>Unsere Website nutzt eine Kombination aus notwendiger Browserspeicherung und optionalen Analysetechnologien.</p>
+<p>Unsere Website nutzt notwendige Browserspeicherung und Google Analytics 4, das über Google Tag Manager geladen wird. Werbe- oder Remarketing-Tags setzen wir derzeit nicht ein.</p>
 <p><strong>Notwendige Speicherung</strong></p>
 <p>Wir nutzen notwendige Browserspeicherung für Funktionen wie:</p>
 <ul>
@@ -993,15 +1031,16 @@
 <li>das Merken von Oberflächeneinstellungen wie dem gewählten Darstellungsmodus</li>
 <li>die Unterstützung grundlegender Funktionen und sicherheitsrelevanter Abläufe</li>
 </ul>
-<p>Diese Funktionen sind für den ordnungsgemäßen Betrieb der Website erforderlich und hängen nicht von einer Analyse-Einwilligung ab.</p>
+<p>Diese Funktionen sind für den ordnungsgemäßen Betrieb der Website erforderlich und hängen nicht von Ihren Cookie-Entscheidungen ab.</p>
 <p><strong>Analyse</strong></p>
-<p>Wir können Google Tag Manager und Analysetechnologien einsetzen, um die Nutzung der Website zu verstehen. Diese nicht notwendigen Werkzeuge laden wir jedoch erst, nachdem Sie über unsere Cookie-Einstellungen eingewilligt haben.</p>
-<p>Sie können:</p>
+<p>Wir verwenden Google Analytics 4, um zu verstehen, wie die Website genutzt wird: welche Seiten Besucher aufrufen, wie sie auf die Website gelangen und welche Schaltflächen und Formulare sie nutzen. Wie Google Analytics eingesetzt wird, hängt davon ab, wo Sie sich befinden:</p>
 <ul>
-<li>die Analyse akzeptieren</li>
-<li>die Analyse ablehnen</li>
-<li>Ihre Entscheidung später über die Cookie-Einstellungen auf der Website erneut aufrufen und ändern</li>
+<li><strong>Im EWR, im Vereinigten Königreich und in der Schweiz</strong> läuft Google Analytics im Einwilligungsmodus. Solange Sie nicht einwilligen, setzt es keine Analyse-Cookies und speichert keine Kennungen auf Ihrem Gerät. Google erhält nur cookielose Signale, etwa einen Seitenaufruf ohne gespeicherte Besucherkennung, und kann diese für aggregierte und modellierte Berichte verwenden. Analyse-Cookies werden erst gesetzt, nachdem Sie auf „Akzeptieren“ geklickt oder Ihre Cookie-Einstellungen mit ausgewählter Kategorie „Analyse“ gespeichert haben.</li>
+<li><strong>In allen anderen Ländern</strong> läuft Google Analytics ab Ihrem ersten Besuch mit Cookies, und Sie können es jederzeit deaktivieren.</li>
 </ul>
+<p><strong>Ihre Wahlmöglichkeiten</strong></p>
+<p>In den Cookie-Einstellungen ist die Kategorie „Analyse“ vorausgewählt, die Kategorie „Marketing“ nicht. Mit „Akzeptieren“ werden beide aktiviert. Die Kategorie „Marketing“ umfasst Kampagnen- und Remarketing-Technologien. Derzeit setzen wir keine solchen Technologien ein; sollten wir sie künftig einsetzen, laufen sie nur bei Besuchern, die „Marketing“ aktiviert haben.</p>
+<p>Sie können Ihre Entscheidung jederzeit über die Schaltfläche für die Cookie-Einstellungen auf der Website ändern. Wenn Sie die Kategorie „Analyse“ deaktivieren, stoppt Google Analytics auf der aktuellen Seite, wird auf weiteren Seiten nicht mehr geladen, und seine Cookies (<code>_ga</code>, <code>_gid</code>, <code>_gat</code>) werden aus Ihrem Browser gelöscht.</p>
 <h3 id="8-speicherdauer">8. Speicherdauer</h3>
 <p>Wir speichern personenbezogene Daten nur so lange, wie es für die oben beschriebenen Zwecke vernünftigerweise erforderlich ist, insbesondere:</p>
 <ul>
@@ -1009,10 +1048,10 @@
 <li><strong>Kunden- und Projektunterlagen</strong>: für die Dauer der Zusammenarbeit und einen angemessenen Zeitraum danach zu organisatorischen, rechtlichen und Nachweiszwecken</li>
 <li><strong>Buchhaltungs- und Rechnungsunterlagen</strong>: für den nach anwendbarem Steuer- und Handelsrecht vorgeschriebenen Zeitraum</li>
 <li><strong>Einwilligungsnachweise</strong>: so lange, wie es zum Nachweis und zur Verwaltung der Einwilligungen erforderlich ist</li>
-<li><strong>Analysedaten</strong>: entsprechend der Konfiguration der jeweiligen Analysewerkzeuge, soweit diese mit Einwilligung aktiviert sind</li>
+<li><strong>Analysedaten</strong>: entsprechend den Einstellungen zur Datenaufbewahrung unserer Google-Analytics-Property</li>
 </ul>
 <h3 id="9-datenubermittlung-in-drittlander">9. Datenübermittlung in Drittländer</h3>
-<p>Einzelne Dienstleister können personenbezogene Daten außerhalb des Europäischen Wirtschaftsraums (EWR) verarbeiten. In diesen Fällen setzen wir auf geeignete Garantien wie Standardvertragsklauseln, Angemessenheitsbeschlüsse oder gleichwertige rechtliche Übermittlungsmechanismen, soweit erforderlich.</p>
+<p>Einzelne Dienstleister können personenbezogene Daten außerhalb des Europäischen Wirtschaftsraums (EWR) verarbeiten. In diesen Fällen setzen wir auf geeignete Garantien wie Standardvertragsklauseln, Angemessenheitsbeschlüsse oder gleichwertige rechtliche Übermittlungsmechanismen, soweit erforderlich. Google kann Analysedaten in den Vereinigten Staaten verarbeiten; Google LLC nimmt am EU-U.S. Data Privacy Framework teil.</p>
 <h3 id="10-ihre-rechte">10. Ihre Rechte</h3>
 <p>Nach der DSGVO können Ihnen die folgenden Rechte zustehen:</p>
 <ul>
@@ -1481,6 +1520,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>

@@ -117,8 +117,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -341,6 +341,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -403,10 +422,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -926,7 +964,7 @@
 
     
     
-    <div class="text-body"><p><strong>Last updated:</strong> April 11, 2026</p>
+    <div class="text-body"><p><strong>Last updated:</strong> September 24, 2026</p>
 <h3 id="1-introduction">1. Introduction</h3>
 <p>This Privacy Policy explains how Onlinuum collects, uses, stores, and protects personal data when you visit onlinuum.com, contact us, request a quote, or use our services.</p>
 <p>We aim to process personal data transparently and in line with the General Data Protection Regulation (GDPR), applicable Portuguese law, and other relevant privacy rules, including cookie and tracking requirements where they apply.</p>
@@ -950,7 +988,7 @@
 <ul>
 <li><strong>Technical and usage data</strong>: IP address, browser type, operating system, device information, pages viewed, referral data, and interaction events</li>
 <li><strong>Consent and preference data</strong>: cookie choices, theme preference, and cart state stored in browser storage</li>
-<li><strong>Analytics data</strong>: aggregated website usage data, but only where the relevant analytics technology is enabled based on your consent</li>
+<li><strong>Analytics data</strong>: website usage data collected with Google Analytics, as described in section 7</li>
 </ul>
 <h3 id="4-how-we-use-personal-data">4. How We Use Personal Data</h3>
 <p>We use personal data for the following purposes:</p>
@@ -960,7 +998,7 @@
 <li><strong>To communicate during onboarding, delivery, revisions, billing, and support</strong></li>
 <li><strong>To comply with accounting, tax, fraud-prevention, and other legal obligations</strong></li>
 <li><strong>To maintain site security, diagnose abuse, and protect our systems</strong></li>
-<li><strong>To measure website usage and improve the site, where analytics consent has been given</strong></li>
+<li><strong>To measure website usage and improve the site</strong>, as described in section 7</li>
 <li><strong>To send marketing communications only where you have separately consented</strong></li>
 </ul>
 <h3 id="5-legal-bases-for-processing">5. Legal Bases for Processing</h3>
@@ -968,8 +1006,8 @@
 <ul>
 <li><strong>Contract performance or pre-contractual steps (Art. 6(1)(b) GDPR)</strong>: for handling quote requests, onboarding, project delivery, and client communications directly related to the requested services</li>
 <li><strong>Legal obligation (Art. 6(1)(c) GDPR)</strong>: for tax, accounting, recordkeeping, and compliance duties</li>
-<li><strong>Legitimate interests (Art. 6(1)(f) GDPR)</strong>: for website security, fraud prevention, operational communications, and defending legal claims, where our interests do not override your rights</li>
-<li><strong>Consent (Art. 6(1)(a) GDPR)</strong>: for non-essential analytics and any optional marketing communications</li>
+<li><strong>Legitimate interests (Art. 6(1)(f) GDPR)</strong>: for website security, fraud prevention, operational communications, defending legal claims, and website analytics for visitors outside the EEA, the UK, and Switzerland, where our interests do not override your rights</li>
+<li><strong>Consent (Art. 6(1)(a) GDPR)</strong>: for analytics cookies for visitors in the EEA, the UK, and Switzerland, for marketing technologies, and for any optional marketing communications</li>
 </ul>
 <p>For contact forms and service requests, we do not rely on marketing consent to process the information needed to answer your request. That processing is generally necessary to take steps at your request before entering into a contract, or to perform a contract.</p>
 <h3 id="6-recipients-and-processors">6. Recipients and Processors</h3>
@@ -977,13 +1015,13 @@
 <ul>
 <li><strong>Hosting and infrastructure providers</strong>: to host the website and store server logs</li>
 <li><strong>Web3Forms</strong>: to transmit website contact and quote request form submissions to our email workflow</li>
-<li><strong>Google Tag Manager and analytics providers</strong>: only where analytics consent has been given</li>
+<li><strong>Google (Google Tag Manager and Google Analytics 4)</strong>: to measure website usage as described in section 7</li>
 <li><strong>Email, collaboration, and productivity tools</strong>: where needed for project delivery and communication</li>
 <li><strong>Professional advisers or authorities</strong>: where required for legal, accounting, tax, dispute, or compliance reasons</li>
 </ul>
 <p>We require processors acting on our behalf to process data only under appropriate contractual and legal safeguards.</p>
 <h3 id="7-cookies-local-storage-and-analytics">7. Cookies, Local Storage, and Analytics</h3>
-<p>Our website uses a combination of essential browser storage and optional analytics technologies.</p>
+<p>Our website uses essential browser storage and Google Analytics 4, loaded through Google Tag Manager. We do not currently use advertising or remarketing tags.</p>
 <p><strong>Essential storage</strong></p>
 <p>We use essential browser storage for functions such as:</p>
 <ul>
@@ -991,15 +1029,16 @@
 <li>remembering interface preferences such as theme selection</li>
 <li>supporting core site functionality and security-related behavior</li>
 </ul>
-<p>These functions are necessary for the website to work properly and do not depend on analytics consent.</p>
+<p>These functions are necessary for the website to work properly and do not depend on your cookie choices.</p>
 <p><strong>Analytics</strong></p>
-<p>We may use Google Tag Manager and analytics technologies to understand how the site is used, but we load these non-essential tools only after you consent through our cookie controls.</p>
-<p>You can:</p>
+<p>We use Google Analytics 4 to understand how the site is used: which pages people visit, how they arrive, and which buttons and forms they use. How it runs depends on where you are:</p>
 <ul>
-<li>accept analytics</li>
-<li>reject analytics</li>
-<li>reopen and change your choice later via the cookie settings control on the site</li>
+<li><strong>In the EEA, the UK, and Switzerland</strong>, Google Analytics runs in consent mode. Until you accept, it sets no analytics cookies and stores no identifiers on your device. Google receives only cookieless signals, such as a page view without a stored visitor identifier, which it may use for aggregated and modelled reports. Analytics cookies are set only after you press Accept or save your cookie settings with Analytics selected.</li>
+<li><strong>Elsewhere</strong>, Google Analytics runs with cookies from your first visit, and you can switch it off at any time.</li>
 </ul>
+<p><strong>Your choices</strong></p>
+<p>In the cookie settings, Analytics is pre-selected and Marketing is not. Accept turns both on. Marketing covers campaign and remarketing technologies. We do not use any today; if we add them, they will run only for visitors who have Marketing turned on.</p>
+<p>You can change your choice at any time with the Cookies button on the site. If you switch Analytics off, Google Analytics stops on the current page, is not loaded on later pages, and its cookies (<code>_ga</code>, <code>_gid</code>, <code>_gat</code>) are deleted from your browser.</p>
 <h3 id="8-data-retention">8. Data Retention</h3>
 <p>We keep personal data only for as long as reasonably necessary for the purposes described above, including:</p>
 <ul>
@@ -1007,10 +1046,10 @@
 <li><strong>Client and project records</strong>: for the duration of the engagement and a reasonable period afterward for operational, legal, and evidentiary purposes</li>
 <li><strong>Accounting and invoice records</strong>: for the period required under applicable tax and accounting law</li>
 <li><strong>Consent records</strong>: for as long as needed to demonstrate or manage consent choices</li>
-<li><strong>Analytics data</strong>: according to the configuration of the relevant analytics tools, where enabled by consent</li>
+<li><strong>Analytics data</strong>: according to the data retention settings of our Google Analytics property</li>
 </ul>
 <h3 id="9-international-data-transfers">9. International Data Transfers</h3>
-<p>Some service providers may process personal data outside the European Economic Area (EEA). Where this happens, we aim to use appropriate safeguards, such as Standard Contractual Clauses, adequacy decisions, or equivalent legal transfer mechanisms where required.</p>
+<p>Some service providers may process personal data outside the European Economic Area (EEA). Where this happens, we aim to use appropriate safeguards, such as Standard Contractual Clauses, adequacy decisions, or equivalent legal transfer mechanisms where required. Google may process analytics data in the United States; Google LLC participates in the EU-U.S. Data Privacy Framework.</p>
 <h3 id="10-your-rights">10. Your Rights</h3>
 <p>Under the GDPR, you may have the right to:</p>
 <ul>
@@ -1483,6 +1522,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>

@@ -117,8 +117,8 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=7db07417" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=7db07417">
+    <link rel="preload" href="/_assets/css/styles.css?v=37db10f5" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=37db10f5">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
@@ -341,6 +341,25 @@
         var storageKey = 'onlinuum_cookie_consent_v1';
         var listeners = [];
         var state = null;
+        // Where cookie consent is required before analytics: EEA, UK and Switzerland.
+        var consentRegions = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU',
+            'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE',
+            'IS', 'LI', 'NO', 'GB', 'CH'];
+        var inConsentRegion = detectConsentRegion();
+
+        // Static hosting has no geo lookup, so the banner goes by the browser time zone. Google applies
+        // the regional consent defaults below from the IP. An unknown zone (UTC, privacy browsers) asks.
+        function detectConsentRegion() {
+            var zone = '';
+            try {
+                zone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            } catch (e) {}
+            if (!zone || /^(UTC|GMT|Etc\/)/.test(zone)) return true;
+            if (/^Europe\//.test(zone)) {
+                return !/^Europe\/(Moscow|Kaliningrad|Samara|Volgograd|Saratov|Ulyanovsk|Astrakhan|Kirov|Minsk|Kyiv|Kiev|Uzhgorod|Zaporozhye|Simferopol|Istanbul)$/.test(zone);
+            }
+            return /^(Atlantic\/(Azores|Madeira|Canary|Reykjavik)|Africa\/Ceuta|Asia\/(Nicosia|Famagusta)|Arctic\/Longyearbyen)$/.test(zone);
+        }
 
         function normalize(payload) {
             return {
@@ -403,10 +422,29 @@
 
         state = read();
 
+        // Consent Mode defaults, pushed before Google Tag Manager loads: analytics runs with cookies
+        // everywhere except the consent regions, where it stays cookieless until the visitor accepts.
+        // Marketing storage is off everywhere until accepted.
+        gtag('consent', 'default', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied'
+        });
+        gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            region: consentRegions
+        });
+        if (state) applyToTags(state);
+
         return {
             storageKey: storageKey,
             getState: function() { return state; },
             hasChoice: function() { return !!state; },
+            needsBanner: function() { return inConsentRegion && !state; },
             allowsAnalytics: function() {
                 if (!state) return true;
                 return !!state.analytics;
@@ -926,7 +964,7 @@
 
     
     
-    <div class="text-body"><p><strong>最終更新日:</strong> 2026年4月11日</p>
+    <div class="text-body"><p><strong>最終更新日:</strong> 2026年9月24日</p>
 <h3 id="1">1. はじめに</h3>
 <p>本プライバシーポリシー（個人情報保護方針）は、onlinuum.com へのご訪問、お問い合わせ、お見積もりのご依頼、または当社サービスのご利用にあたり、Onlinuum が個人情報をどのように取得し、利用し、保管し、保護するかをご説明するものです。</p>
 <p>当社は、EU一般データ保護規則（GDPR）、適用されるポルトガル法、および Cookie や追跡技術に関する要件を含むその他の関連法令に従い、透明性をもって個人情報を取り扱います。</p>
@@ -950,7 +988,7 @@
 <ul>
 <li><strong>技術情報および利用情報</strong>: IPアドレス、ブラウザの種類、OS、デバイス情報、閲覧ページ、参照元、操作イベント</li>
 <li><strong>同意および設定の情報</strong>: Cookie の選択内容、表示テーマの設定、ブラウザに保存されるカート情報</li>
-<li><strong>解析データ</strong>: お客様の同意に基づいて該当する解析技術が有効になっている場合に限り取得される、統計的なサイト利用データ</li>
+<li><strong>解析データ</strong>: 第7項に記載のとおり、Google Analytics により取得されるサイト利用データ</li>
 </ul>
 <h3 id="4">4. 個人情報の利用目的</h3>
 <p>当社は、次の目的で個人情報を利用します。</p>
@@ -960,7 +998,7 @@
 <li><strong>導入、実施、修正対応、請求、サポートの各段階でご連絡するため</strong></li>
 <li><strong>会計、税務、不正防止その他の法令上の義務を果たすため</strong></li>
 <li><strong>サイトの安全性を維持し、不正利用を検知し、システムを保護するため</strong></li>
-<li><strong>解析について同意をいただいている場合に、サイトの利用状況を測定し改善するため</strong></li>
+<li><strong>サイトの利用状況を測定し改善するため</strong>（第7項に記載のとおり）</li>
 <li><strong>個別に同意をいただいた場合に限り、マーケティング情報をお送りするため</strong></li>
 </ul>
 <h3 id="5">5. 処理の法的根拠</h3>
@@ -968,8 +1006,8 @@
 <ul>
 <li><strong>契約の履行または契約締結前の措置（GDPR 第6条1項(b)）</strong>: お見積もりのご依頼への対応、導入、プロジェクトの実施、ご依頼内容に直接関係するご連絡</li>
 <li><strong>法的義務の遵守（GDPR 第6条1項(c)）</strong>: 税務、会計、記録保存、コンプライアンス上の義務</li>
-<li><strong>正当な利益（GDPR 第6条1項(f)）</strong>: サイトの安全確保、不正防止、業務上の連絡、法的請求への対応。ただしお客様の権利がこれに優先しない場合に限ります</li>
-<li><strong>同意（GDPR 第6条1項(a)）</strong>: 必須ではない解析および任意のマーケティング連絡</li>
+<li><strong>正当な利益（GDPR 第6条1項(f)）</strong>: サイトの安全確保、不正防止、業務上の連絡、法的請求への対応、および EEA・英国・スイス以外の地域からの訪問者を対象とするサイト解析。ただしお客様の権利がこれに優先しない場合に限ります</li>
+<li><strong>同意（GDPR 第6条1項(a)）</strong>: EEA・英国・スイスからの訪問者を対象とする解析 Cookie、マーケティング技術、および任意のマーケティング連絡</li>
 </ul>
 <p>お問い合わせフォームおよびサービスのご依頼については、ご依頼に回答するために必要な情報の処理をマーケティング目的の同意に依拠することはありません。これらの処理は通常、ご依頼に基づく契約締結前の措置、または契約の履行として必要なものです。</p>
 <h3 id="6">6. 提供先および委託先</h3>
@@ -977,13 +1015,13 @@
 <ul>
 <li><strong>ホスティングおよびインフラ事業者</strong>: ウェブサイトの提供とサーバーログの保存のため</li>
 <li><strong>Web3Forms</strong>: お問い合わせおよびお見積もり依頼フォームの送信内容を当社のメール業務に連携するため</li>
-<li><strong>Google Tag Manager および解析サービス提供者</strong>: 解析について同意をいただいている場合に限ります</li>
+<li><strong>Google（Google Tag Manager および Google Analytics 4）</strong>: 第7項に記載のとおり、サイトの利用状況を測定するため</li>
 <li><strong>メール、共同作業、業務ツール</strong>: プロジェクトの実施と連絡に必要な範囲で利用します</li>
 <li><strong>専門家または公的機関</strong>: 法務、会計、税務、紛争、コンプライアンス上必要な場合</li>
 </ul>
 <p>当社に代わって処理を行う委託先には、適切な契約上および法令上の保護措置のもとでのみ情報を取り扱うことを求めています。</p>
 <h3 id="7-cookie">7. Cookie、ローカルストレージ、解析</h3>
-<p>当社のウェブサイトでは、必須のブラウザ保存機能と、任意の解析技術を組み合わせて利用しています。</p>
+<p>当社のウェブサイトでは、必須のブラウザ保存機能と、Google Tag Manager を通じて読み込まれる Google Analytics 4 を利用しています。現在、広告タグやリマーケティングタグは使用していません。</p>
 <p><strong>必須の保存機能</strong></p>
 <p>次の機能のために、必須のブラウザ保存機能を利用します。</p>
 <ul>
@@ -991,15 +1029,16 @@
 <li>表示テーマなどの画面設定を記憶すること</li>
 <li>サイトの基本機能と安全性に関わる動作を支えること</li>
 </ul>
-<p>これらの機能はウェブサイトが正しく動作するために必要であり、解析への同意には左右されません。</p>
+<p>これらの機能はウェブサイトが正しく動作するために必要であり、Cookie に関するお客様の選択には左右されません。</p>
 <p><strong>解析</strong></p>
-<p>サイトの利用状況を把握するために Google Tag Manager および解析技術を利用する場合がありますが、これら必須ではないツールは、Cookie の設定画面で同意をいただいた後にのみ読み込まれます。</p>
-<p>お客様は次のことができます。</p>
+<p>当社は、サイトの利用状況（どのページが閲覧されているか、訪問者がどのような経路でサイトに来ているか、どのボタンやフォームが使われているか）を把握するために Google Analytics 4 を利用しています。Google Analytics の動作は、お客様の所在地によって次のとおり異なります。</p>
 <ul>
-<li>解析を許可する</li>
-<li>解析を拒否する</li>
-<li>サイト上の Cookie 設定から、後で選択内容を開き直して変更する</li>
+<li><strong>EEA・英国・スイスでは</strong>、Google Analytics は同意モードで動作します。お客様が同意されるまでは、解析 Cookie を設定せず、お客様のデバイスに識別子を保存しません。Google が受け取るのは、保存された訪問者の識別子を含まないページビューなど、Cookie を使用しないシグナルのみで、Google はこれを集計レポートやモデリングに基づくレポートに利用することがあります。解析 Cookie は、「同意する」を押すか、「アナリティクス」を選択した状態で Cookie 設定を保存した後にのみ設定されます。</li>
+<li><strong>その他の地域では</strong>、Google Analytics は初回のご訪問時から Cookie を使用して動作し、お客様はいつでもこれをオフにできます。</li>
 </ul>
+<p><strong>お客様の選択</strong></p>
+<p>Cookie 設定では、「アナリティクス」はあらかじめ選択されており、「マーケティング」は選択されていません。「同意する」を押すと、両方が有効になります。「マーケティング」は、キャンペーンやリマーケティングに関する技術を対象とします。現在、当社はこれらの技術を使用していません。今後導入する場合も、「マーケティング」を有効にしている訪問者に対してのみ動作します。</p>
+<p>選択内容は、サイト上の Cookie 設定ボタンからいつでも変更できます。「アナリティクス」をオフにすると、Google Analytics は表示中のページで停止し、以降のページでは読み込まれず、その Cookie（<code>_ga</code>、<code>_gid</code>、<code>_gat</code>）はブラウザから削除されます。</p>
 <h3 id="8">8. 保存期間</h3>
 <p>当社は、上記の目的のために合理的に必要な期間に限り、個人情報を保存します。目安は次のとおりです。</p>
 <ul>
@@ -1007,10 +1046,10 @@
 <li><strong>お客様およびプロジェクトの記録</strong>: ご支援の期間中、およびその後の業務上・法務上・証拠保全上の合理的な期間</li>
 <li><strong>会計および請求の記録</strong>: 適用される税法および会計法が定める期間</li>
 <li><strong>同意の記録</strong>: 同意の内容を証明し管理するために必要な期間</li>
-<li><strong>解析データ</strong>: 同意により有効となっている場合、該当する解析ツールの設定に従います</li>
+<li><strong>解析データ</strong>: 当社の Google Analytics プロパティのデータ保持設定に従います</li>
 </ul>
 <h3 id="9">9. 海外へのデータ移転</h3>
-<p>一部の事業者が、欧州経済領域（EEA）外で個人情報を処理する場合があります。その場合、当社は必要に応じて標準契約条項、十分性認定、またはこれらと同等の法的な移転手段など、適切な保護措置を用いるよう努めます。</p>
+<p>一部の事業者が、欧州経済領域（EEA）外で個人情報を処理する場合があります。その場合、当社は必要に応じて標準契約条項、十分性認定、またはこれらと同等の法的な移転手段など、適切な保護措置を用いるよう努めます。Google は解析データを米国で処理する場合があります。Google LLC は EU-U.S. Data Privacy Framework に参加しています。</p>
 <h3 id="10">10. お客様の権利</h3>
 <p>GDPR に基づき、お客様には次の権利が認められる場合があります。</p>
 <ul>
@@ -1479,6 +1518,6 @@
 
     <script src="/_assets/js/forms.js?v=13476383" defer></script>
     <script src="/_assets/js/ui.js?v=3ddd7543" defer></script>
-    <script src="/_assets/js/site.js?v=8a1c874b" defer></script>
+    <script src="/_assets/js/site.js?v=4b398082" defer></script>
 </body>
 </html>
