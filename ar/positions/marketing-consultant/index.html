@@ -79,14 +79,15 @@
     <meta name="twitter:description" content="Marketing Consultant Jobs عن بعد في Onlinuum: تملكوا سوقا واحدا داخل شبكة من 48 دولة، واحتفظوا بـ40% من الإيرادات. تقدموا اليوم.">
     <meta name="twitter:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=5bf4bc0c">
 
-    <!-- Favicon. The .ico and the 48px PNG live in the site root at STABLE,
-         unversioned URLs on purpose: Google's favicon crawler wants a square
-         icon whose side is a multiple of 48 at a URL that does not move, and it
-         falls back to /favicon.ico when it cannot use the declared one. The
-         versioned SVG stays for browsers that prefer it. -->
-    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <!-- Favicon. Every URL below is STABLE and unversioned on purpose: Google's
+         favicon guidelines require a favicon URL that does not move, and a
+         media_url() cache-buster would change it on every build (the SVG used to
+         carry one, so its address shifted with each deploy). Google falls back to
+         /favicon.ico when it cannot use the declared icon; the .ico holds 16, 32
+         and 48 px frames and says so, since Google prefers icons of 48 px and up. -->
+    <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
-    <link rel="icon" type="image/svg+xml" href="/_media/images/site/favicon.svg?v=5bf4bc0c">
+    <link rel="icon" type="image/svg+xml" href="/_media/images/site/favicon.svg">
     <link rel="apple-touch-icon" sizes="192x192" href="/favicon-192.png">
 
     
