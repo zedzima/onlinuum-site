@@ -327,7 +327,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -373,7 +373,8 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "aldillah-melisa-febryana",
-          "gael-balouek"
+          "gael-balouek",
+          "ndeye-binta-diouf"
         ],
         "services": [
           "analytics",
@@ -839,7 +840,7 @@
       "scope": "cross-market-setup",
       "industry": "saas",
       "starting_price": 3000.0,
-      "expert_count": 10,
+      "expert_count": 12,
       "case_count": 2,
       "facets": {
         "domains": [
@@ -893,6 +894,8 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "aldillah-melisa-febryana",
+          "brankica-petrasinovic",
+          "can-erim",
           "mariia-nedbaievska",
           "muhammad-hijazi-siddiqui",
           "rita-pavide",
@@ -1334,7 +1337,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 10,
+      "expert_count": 14,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -1384,9 +1387,13 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "aldillah-melisa-febryana",
+          "brankica-petrasinovic",
+          "can-erim",
           "mariia-nedbaievska",
           "muhammad-hijazi-siddiqui",
+          "ndeye-binta-diouf",
           "rita-pavide",
+          "robmar-macallums",
           "valentina-soldatkina"
         ],
         "services": [
@@ -1708,10 +1715,14 @@
       "vitali-bakun": "Vitali Bakun",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "brankica-petrasinovic": "Brankica Petrašinović",
+      "can-erim": "Can Erim",
       "rita-pavide": "Rita Pavide",
-      "valentina-soldatkina": "Valentina Soldatkina"
+      "valentina-soldatkina": "Valentina Soldatkina",
+      "robmar-macallums": "Robmar Macallums"
     },
     "services": {
       "aeo": "AEO",

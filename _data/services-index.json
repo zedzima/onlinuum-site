@@ -199,7 +199,7 @@
       "menu": "Analytics & Data",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 7,
+      "expert_count": 8,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 7,
@@ -225,7 +225,8 @@
           "alaaddin-saracyakupoglu",
           "dmitriy-razakhatsky",
           "gael-balouek",
-          "muhammad-hijazi-siddiqui"
+          "muhammad-hijazi-siddiqui",
+          "ndeye-binta-diouf"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -332,7 +333,7 @@
       "menu": "App Conversion & Retention",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 3,
+      "expert_count": 4,
       "starting_price": 600.0,
       "from_price": 600.0,
       "industry_count": 5,
@@ -354,6 +355,7 @@
         "experts": [
           "mariia-nedbaievska",
           "dima-gerko",
+          "brankica-petrasinovic",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -575,7 +577,7 @@
       "menu": "ASO",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 4,
+      "expert_count": 5,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 5,
@@ -598,6 +600,7 @@
           "mariia-nedbaievska",
           "dima-gerko",
           "anastasiya-antoniuk",
+          "brankica-petrasinovic",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -810,7 +813,7 @@
       "menu": "Content Marketing",
       "featured": false,
       "scope_count": 8,
-      "expert_count": 7,
+      "expert_count": 8,
       "starting_price": 600.0,
       "from_price": 600.0,
       "industry_count": 7,
@@ -848,7 +851,8 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "muhammad-hijazi-siddiqui",
-          "rita-pavide"
+          "rita-pavide",
+          "robmar-macallums"
         ],
         "solutions": [
           "ai-visibility",
@@ -972,7 +976,7 @@
       "menu": "CRO",
       "featured": false,
       "scope_count": 1,
-      "expert_count": 3,
+      "expert_count": 4,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 2,
@@ -996,6 +1000,7 @@
         ],
         "experts": [
           "elena-grakovich",
+          "brankica-petrasinovic",
           "gael-balouek",
           "muhammad-hijazi-siddiqui"
         ],
@@ -1409,7 +1414,7 @@
       "menu": "Paid Social",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 4,
+      "expert_count": 5,
       "starting_price": 300.0,
       "from_price": 300.0,
       "industry_count": 3,
@@ -1430,6 +1435,7 @@
           "elena-grakovich",
           "vitali-bakun",
           "aldillah-melisa-febryana",
+          "can-erim",
           "muhammad-hijazi-siddiqui"
         ],
         "industries": [
@@ -1533,7 +1539,7 @@
       "menu": "PPC",
       "featured": true,
       "scope_count": 9,
-      "expert_count": 4,
+      "expert_count": 6,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 6,
@@ -1563,7 +1569,9 @@
           "elena-grakovich",
           "dima-gerko",
           "vitali-bakun",
-          "aldillah-melisa-febryana"
+          "aldillah-melisa-febryana",
+          "can-erim",
+          "ndeye-binta-diouf"
         ],
         "cases": [
           "alvadi",
@@ -1951,7 +1959,7 @@
       "menu": "Social Media",
       "featured": false,
       "scope_count": 5,
-      "expert_count": 2,
+      "expert_count": 3,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 5,
@@ -1975,7 +1983,8 @@
         ],
         "experts": [
           "muhammad-hijazi-siddiqui",
-          "rita-pavide"
+          "rita-pavide",
+          "robmar-macallums"
         ],
         "industries": [
           "ecommerce",
@@ -2066,7 +2075,7 @@
       "menu": "Video Marketing",
       "featured": false,
       "scope_count": 6,
-      "expert_count": 1,
+      "expert_count": 2,
       "starting_price": 2190.0,
       "from_price": 2190.0,
       "industry_count": 2,
@@ -2092,7 +2101,8 @@
           "youtube-creator-pilot"
         ],
         "experts": [
-          "anastasiya-antoniuk"
+          "anastasiya-antoniuk",
+          "robmar-macallums"
         ],
         "industries": [
           "ecommerce",
@@ -2314,9 +2324,13 @@
       "elena-grakovich": "Elena Grakovich",
       "vitali-bakun": "Vitali Bakun",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
       "mariia-nedbaievska": "Mariia Nedbaievska",
+      "brankica-petrasinovic": "Brankica Petrašinović",
       "rita-pavide": "Rita Pavide",
+      "robmar-macallums": "Robmar Macallums",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "can-erim": "Can Erim",
       "valentina-soldatkina": "Valentina Soldatkina"
     },
     "solutions": {

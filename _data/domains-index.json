@@ -12,7 +12,7 @@
       "scope_count": 7,
       "solution_count": 5,
       "case_count": 0,
-      "expert_count": 4,
+      "expert_count": 5,
       "facets": {
         "scopes": [
           "aso-optimization",
@@ -27,6 +27,7 @@
           "mariia-nedbaievska",
           "dima-gerko",
           "anastasiya-antoniuk",
+          "brankica-petrasinovic",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -138,7 +139,7 @@
       "scope_count": 15,
       "solution_count": 10,
       "case_count": 0,
-      "expert_count": 5,
+      "expert_count": 6,
       "facets": {
         "scopes": [
           "link-building",
@@ -162,7 +163,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "rita-pavide"
+          "rita-pavide",
+          "robmar-macallums"
         ],
         "solutions": [
           "international-marketing",
@@ -296,7 +298,7 @@
       "scope_count": 11,
       "solution_count": 10,
       "case_count": 0,
-      "expert_count": 5,
+      "expert_count": 6,
       "facets": {
         "scopes": [
           "on-page-seo",
@@ -316,7 +318,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "rita-pavide"
+          "rita-pavide",
+          "robmar-macallums"
         ],
         "solutions": [
           "ai-visibility",
@@ -706,7 +709,7 @@
       "scope_count": 11,
       "solution_count": 6,
       "case_count": 2,
-      "expert_count": 5,
+      "expert_count": 7,
       "facets": {
         "scopes": [
           "ppc-audit",
@@ -726,7 +729,9 @@
           "dima-gerko",
           "vitali-bakun",
           "aldillah-melisa-febryana",
-          "muhammad-hijazi-siddiqui"
+          "can-erim",
+          "muhammad-hijazi-siddiqui",
+          "ndeye-binta-diouf"
         ],
         "cases": [
           "alvadi",
@@ -1009,7 +1014,7 @@
       "scope_count": 19,
       "solution_count": 10,
       "case_count": 1,
-      "expert_count": 12,
+      "expert_count": 15,
       "facets": {
         "scopes": [
           "technical-seo",
@@ -1040,9 +1045,12 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "aldillah-melisa-febryana",
+          "brankica-petrasinovic",
+          "can-erim",
           "gael-balouek",
           "mariia-nedbaievska",
           "muhammad-hijazi-siddiqui",
+          "ndeye-binta-diouf",
           "rita-pavide",
           "valentina-soldatkina"
         ],
@@ -1392,13 +1400,17 @@
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "dima-gerko": "Dima Gerko",
       "anastasiya-antoniuk": "Anastasiya Antoniuk",
+      "brankica-petrasinovic": "Brankica Petrašinović",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
       "elena-grakovich": "Elena Grakovich",
       "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
       "rita-pavide": "Rita Pavide",
+      "robmar-macallums": "Robmar Macallums",
       "vitali-bakun": "Vitali Bakun",
       "valentina-soldatkina": "Valentina Soldatkina",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "can-erim": "Can Erim",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "gael-balouek": "Gael Balouek"
     },

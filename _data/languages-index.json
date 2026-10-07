@@ -625,7 +625,7 @@
       "official_countries_count": 69,
       "scope_count": 35,
       "service_count": 19,
-      "expert_count": 12,
+      "expert_count": 16,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -685,10 +685,14 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "aldillah-melisa-febryana",
+          "brankica-petrasinovic",
+          "can-erim",
           "gael-balouek",
           "mariia-nedbaievska",
           "muhammad-hijazi-siddiqui",
+          "ndeye-binta-diouf",
           "rita-pavide",
+          "robmar-macallums",
           "valentina-soldatkina"
         ],
         "cases": [
@@ -1006,7 +1010,7 @@
       "official_countries_count": 25,
       "scope_count": 28,
       "service_count": 11,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1055,7 +1059,8 @@
           "anastasiya-antoniuk",
           "vitali-bakun",
           "dmitriy-razakhatsky",
-          "gael-balouek"
+          "gael-balouek",
+          "ndeye-binta-diouf"
         ],
         "solutions": [
           "ai-visibility",
@@ -2738,7 +2743,7 @@
       "official_countries_count": 24,
       "scope_count": 27,
       "service_count": 9,
-      "expert_count": 5,
+      "expert_count": 7,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -2786,7 +2791,9 @@
           "anastasiya-antoniuk",
           "elena-grakovich",
           "vitali-bakun",
-          "gael-balouek"
+          "can-erim",
+          "gael-balouek",
+          "robmar-macallums"
         ],
         "solutions": [
           "ai-visibility",
@@ -3052,7 +3059,7 @@
       "official_countries_count": 6,
       "scope_count": 10,
       "service_count": 12,
-      "expert_count": 1,
+      "expert_count": 2,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -3078,7 +3085,8 @@
           "remarketing-display"
         ],
         "experts": [
-          "alaaddin-saracyakupoglu"
+          "alaaddin-saracyakupoglu",
+          "can-erim"
         ],
         "solutions": [
           "ai-visibility",
@@ -3395,10 +3403,14 @@
       "dima-gerko": "Dima Gerko",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "brankica-petrasinovic": "Brankica Petrašinović",
+      "can-erim": "Can Erim",
       "gael-balouek": "Gael Balouek",
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
       "rita-pavide": "Rita Pavide",
+      "robmar-macallums": "Robmar Macallums",
       "valentina-soldatkina": "Valentina Soldatkina"
     },
     "cases": {

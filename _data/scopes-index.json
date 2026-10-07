@@ -263,7 +263,7 @@
       "featured": true,
       "from_price": 160,
       "delivery": "one-time",
-      "expert_count": 2,
+      "expert_count": 3,
       "industry_count": 5,
       "country_count": 8,
       "language_count": 7,
@@ -275,6 +275,7 @@
         "experts": [
           "mariia-nedbaievska",
           "dima-gerko",
+          "brankica-petrasinovic",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -488,7 +489,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 2,
+      "expert_count": 3,
       "industry_count": 5,
       "country_count": 8,
       "language_count": 7,
@@ -500,6 +501,7 @@
         "experts": [
           "mariia-nedbaievska",
           "dima-gerko",
+          "brankica-petrasinovic",
           "anastasiya-antoniuk",
           "muhammad-hijazi-siddiqui"
         ],
@@ -606,7 +608,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 2,
+      "expert_count": 3,
       "industry_count": 5,
       "country_count": 8,
       "language_count": 7,
@@ -618,6 +620,7 @@
         "experts": [
           "mariia-nedbaievska",
           "dima-gerko",
+          "brankica-petrasinovic",
           "anastasiya-antoniuk",
           "muhammad-hijazi-siddiqui"
         ],
@@ -976,7 +979,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "monthly",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 5,
       "country_count": 4,
       "language_count": 4,
@@ -991,7 +994,8 @@
         "experts": [
           "rita-pavide",
           "anastasiya-antoniuk",
-          "elena-grakovich"
+          "elena-grakovich",
+          "robmar-macallums"
         ],
         "solutions": [
           "ai-visibility",
@@ -1275,7 +1279,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 2,
+      "expert_count": 4,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1288,6 +1292,8 @@
         "experts": [
           "elena-grakovich",
           "vitali-bakun",
+          "ndeye-binta-diouf",
+          "can-erim",
           "aldillah-melisa-febryana"
         ],
         "cases": [
@@ -1477,7 +1483,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 2,
+      "expert_count": 4,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -1490,6 +1496,8 @@
         "experts": [
           "elena-grakovich",
           "vitali-bakun",
+          "ndeye-binta-diouf",
+          "can-erim",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -2203,7 +2211,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -2217,6 +2225,7 @@
           "elena-grakovich",
           "vitali-bakun",
           "dima-gerko",
+          "can-erim",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -2951,7 +2960,7 @@
       "featured": true,
       "from_price": 1700,
       "delivery": "monthly",
-      "expert_count": 1,
+      "expert_count": 2,
       "industry_count": 6,
       "country_count": 4,
       "language_count": 2,
@@ -2963,7 +2972,8 @@
           "performance-marketing"
         ],
         "experts": [
-          "anastasiya-antoniuk"
+          "anastasiya-antoniuk",
+          "robmar-macallums"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -3057,7 +3067,7 @@
       "featured": false,
       "from_price": 1200,
       "delivery": "monthly",
-      "expert_count": 2,
+      "expert_count": 3,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -3069,6 +3079,7 @@
         "experts": [
           "elena-grakovich",
           "vitali-bakun",
+          "can-erim",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -3294,10 +3305,14 @@
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "brankica-petrasinovic": "Brankica Petrašinović",
       "rita-pavide": "Rita Pavide",
       "elena-grakovich": "Elena Grakovich",
+      "robmar-macallums": "Robmar Macallums",
       "valentina-soldatkina": "Valentina Soldatkina",
       "vitali-bakun": "Vitali Bakun",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
+      "can-erim": "Can Erim",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana"
     },
     "solutions": {

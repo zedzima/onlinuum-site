@@ -289,6 +289,160 @@
       }
     },
     {
+      "slug": "brankica-petrasinovic",
+      "url": "/team/brankica-petrasinovic",
+      "title": "Brankica Petrašinović",
+      "description": "ASO specialist for mobile apps and games: keyword optimization, native A/B testing, and launches across 14 international storefronts. Book a consultation.",
+      "role": "ASO Specialist",
+      "avatar": "_media/images/team/Brankica-Petrasinovic.jpg",
+      "experience_value": "13+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "brazil",
+        "canada",
+        "france",
+        "germany",
+        "italy",
+        "mexico",
+        "poland",
+        "portugal",
+        "spain",
+        "turkey",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "game-studios"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "app-store-cro",
+          "aso-localization",
+          "aso-optimization"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "app-conversion-retention",
+          "aso",
+          "cro"
+        ],
+        "industries": [
+          "game-studios"
+        ],
+        "countries": [
+          "australia",
+          "brazil",
+          "canada",
+          "france",
+          "germany",
+          "italy",
+          "mexico",
+          "poland",
+          "portugal",
+          "spain",
+          "turkey",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "can-erim",
+      "url": "/team/can-erim",
+      "title": "Can Erim",
+      "description": "PPC strategist for ecommerce and lead generation: Google Ads and Meta Ads, GA4/GTM tracking, and ROAS and CPA optimization. Book a consultation.",
+      "role": "PPC Strategist",
+      "avatar": "_media/images/team/Can-Erim.jpg",
+      "experience_value": "7+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "spanish",
+        "turkish"
+      ],
+      "countries": [
+        "turkey",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "fintech",
+        "healthcare",
+        "hospitality",
+        "manufacturing",
+        "retail",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "healthcare",
+          "hospitality",
+          "manufacturing",
+          "retail",
+          "saas"
+        ],
+        "countries": [
+          "turkey",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "dima-gerko",
       "url": "/team/dima-gerko",
       "title": "Dima Gerko",
@@ -992,6 +1146,63 @@
       }
     },
     {
+      "slug": "ndeye-binta-diouf",
+      "url": "/team/ndeye-binta-diouf",
+      "title": "Ndèye Binta Diouf",
+      "description": "Google Ads specialist for e-commerce and multi-location businesses: Shopping, Performance Max, Merchant Center, and GA4. Book a consultation.",
+      "role": "Google Ads & Performance Marketing Specialist",
+      "avatar": "_media/images/team/Ndeye-Binta-Diouf.jpg",
+      "experience_value": "4+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "countries": [
+        "canada"
+      ],
+      "industries": [
+        "ecommerce",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail"
+        ],
+        "countries": [
+          "canada"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "rita-pavide",
       "url": "/team/rita-pavide",
       "title": "Rita Pavide",
@@ -1054,6 +1265,58 @@
           "english",
           "russian",
           "latvian"
+        ]
+      }
+    },
+    {
+      "slug": "robmar-macallums",
+      "url": "/team/robmar-macallums",
+      "title": "Robmar Macallums",
+      "description": "Native Spanish content writer: articles, digital content, and scripts for Spanish-speaking audiences in Spain and Latin America. Book a consultation.",
+      "role": "Spanish Content Writer",
+      "avatar": "_media/images/team/Robmar-Macallums.jpg",
+      "experience_value": "8+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "spanish"
+      ],
+      "countries": [
+        "spain"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "content-writing",
+          "video-content-production"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "video"
+        ],
+        "industries": [
+          "retail"
+        ],
+        "countries": [
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "spanish"
         ]
       }
     },
@@ -1286,8 +1549,8 @@
       "video-content-production": "Video Content Production",
       "video-marketing-audit": "Video Marketing Audit",
       "youtube-channel-management": "YouTube Channel Management",
-      "app-retention": "App Retention",
       "app-store-cro": "App Store CRO",
+      "app-retention": "App Retention",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns",
       "paid-social-for-apps": "Paid Social for Apps",
@@ -1316,11 +1579,11 @@
       "ppc": "PPC",
       "aso": "ASO",
       "video": "Video Marketing",
+      "app-conversion-retention": "App Conversion & Retention",
+      "cro": "CRO",
       "automation": "Marketing Automation",
       "web-development": "Web Development",
-      "app-conversion-retention": "App Conversion & Retention",
       "app-user-acquisition": "App User Acquisition",
-      "cro": "CRO",
       "email": "Email Marketing",
       "social-media": "Social Media",
       "marketplace-management": "Marketplace Management"

@@ -284,6 +284,160 @@
       }
     },
     {
+      "slug": "brankica-petrasinovic",
+      "url": "/team/brankica-petrasinovic",
+      "title": "Бранкица Петрашинович",
+      "description": "ASO-специалист для мобильных приложений и игр: оптимизация ключевых слов, нативные A/B-тесты и запуски на 14 витринах. Записаться на консультацию.",
+      "role": "ASO-специалист",
+      "avatar": "_media/images/team/Brankica-Petrasinovic.jpg",
+      "experience_value": "13+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "brazil",
+        "canada",
+        "france",
+        "germany",
+        "italy",
+        "mexico",
+        "poland",
+        "portugal",
+        "spain",
+        "turkey",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "game-studios"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "app-store-cro",
+          "aso-localization",
+          "aso-optimization"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "app-conversion-retention",
+          "aso",
+          "cro"
+        ],
+        "industries": [
+          "game-studios"
+        ],
+        "countries": [
+          "australia",
+          "brazil",
+          "canada",
+          "france",
+          "germany",
+          "italy",
+          "mexico",
+          "poland",
+          "portugal",
+          "spain",
+          "turkey",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "can-erim",
+      "url": "/team/can-erim",
+      "title": "Джан Эрим",
+      "description": "PPC-стратег для ecommerce и лидогенерации: Google Ads и Meta Ads, отслеживание в GA4/GTM, оптимизация ROAS и CPA. Записаться на консультацию.",
+      "role": "PPC-стратег",
+      "avatar": "_media/images/team/Can-Erim.jpg",
+      "experience_value": "7+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "spanish",
+        "turkish"
+      ],
+      "countries": [
+        "turkey",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "fintech",
+        "healthcare",
+        "hospitality",
+        "manufacturing",
+        "retail",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "healthcare",
+          "hospitality",
+          "manufacturing",
+          "retail",
+          "saas"
+        ],
+        "countries": [
+          "turkey",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "dima-gerko",
       "url": "/team/dima-gerko",
       "title": "Дима Герко",
@@ -972,6 +1126,63 @@
       }
     },
     {
+      "slug": "ndeye-binta-diouf",
+      "url": "/team/ndeye-binta-diouf",
+      "title": "Ндейе Бинта Диуф",
+      "description": "Специалист по Google Ads для ecommerce и бизнеса с несколькими локациями: Shopping, Performance Max, Merchant Center и GA4. Записаться на консультацию.",
+      "role": "Специалист по Google Ads и performance-маркетингу",
+      "avatar": "_media/images/team/Ndeye-Binta-Diouf.jpg",
+      "experience_value": "4+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "countries": [
+        "canada"
+      ],
+      "industries": [
+        "ecommerce",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail"
+        ],
+        "countries": [
+          "canada"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "rita-pavide",
       "url": "/team/rita-pavide",
       "title": "Рита Павиде",
@@ -1034,6 +1245,58 @@
           "english",
           "russian",
           "latvian"
+        ]
+      }
+    },
+    {
+      "slug": "robmar-macallums",
+      "url": "/team/robmar-macallums",
+      "title": "Робмар Макаллумс",
+      "description": "Автор-носитель испанского языка: статьи, цифровой контент и сценарии для испаноязычной аудитории в Испании и Латинской Америке. Записаться на консультацию.",
+      "role": "Автор контента на испанском языке",
+      "avatar": "_media/images/team/Robmar-Macallums.jpg",
+      "experience_value": "8+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "spanish"
+      ],
+      "countries": [
+        "spain"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "content-writing",
+          "video-content-production"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "video"
+        ],
+        "industries": [
+          "retail"
+        ],
+        "countries": [
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "spanish"
         ]
       }
     },
@@ -1261,8 +1524,8 @@
       "video-content-production": "Видео продакшн",
       "video-marketing-audit": "Аудит видеомаркетинга",
       "youtube-channel-management": "Ведение YouTube-канала",
-      "app-retention": "Удержание в приложении",
       "app-store-cro": "CRO страницы приложения",
+      "app-retention": "Удержание в приложении",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google UAC",
       "paid-social-for-apps": "Реклама в соцсетях",
@@ -1291,11 +1554,11 @@
       "ppc": "Контекстная реклама",
       "aso": "ASO",
       "video": "Видеомаркетинг",
+      "app-conversion-retention": "Конверсия и удержание",
+      "cro": "CRO",
       "automation": "Автоматизация маркетинга",
       "web-development": "Разработка сайтов",
-      "app-conversion-retention": "Конверсия и удержание",
       "app-user-acquisition": "Привлечение пользователей",
-      "cro": "CRO",
       "email": "Email-маркетинг",
       "social-media": "Социальные сети",
       "marketplace-management": "Продвижение на маркетплейсах"

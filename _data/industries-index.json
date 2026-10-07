@@ -10,7 +10,7 @@
       "icon": "automotive",
       "scope_count": 27,
       "service_count": 8,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -58,7 +58,8 @@
           "anastasiya-antoniuk",
           "elena-grakovich",
           "vitali-bakun",
-          "dima-gerko"
+          "dima-gerko",
+          "can-erim"
         ],
         "cases": [
           "alvadi"
@@ -281,7 +282,7 @@
       "icon": "ecommerce",
       "scope_count": 34,
       "service_count": 18,
-      "expert_count": 9,
+      "expert_count": 11,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -340,8 +341,10 @@
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
           "aldillah-melisa-febryana",
+          "can-erim",
           "gael-balouek",
-          "mariia-nedbaievska"
+          "mariia-nedbaievska",
+          "ndeye-binta-diouf"
         ],
         "cases": [
           "alvadi"
@@ -485,7 +488,7 @@
       "icon": "fintech",
       "scope_count": 28,
       "service_count": 12,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -536,6 +539,7 @@
           "vitali-bakun",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "can-erim",
           "gael-balouek",
           "mariia-nedbaievska",
           "rita-pavide"
@@ -766,7 +770,7 @@
       "icon": "gaming",
       "scope_count": 14,
       "service_count": 13,
-      "expert_count": 3,
+      "expert_count": 4,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -800,7 +804,8 @@
         "experts": [
           "muhammad-hijazi-siddiqui",
           "mariia-nedbaievska",
-          "dima-gerko"
+          "dima-gerko",
+          "brankica-petrasinovic"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -870,7 +875,7 @@
       "icon": "healthcare",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -916,6 +921,7 @@
           "vitali-bakun",
           "anastasiya-antoniuk",
           "dima-gerko",
+          "can-erim",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -1025,7 +1031,7 @@
       "icon": "hospitality",
       "scope_count": 22,
       "service_count": 11,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -1069,7 +1075,8 @@
           "dmitriy-razakhatsky",
           "anastasiya-antoniuk",
           "elena-grakovich",
-          "vitali-bakun"
+          "vitali-bakun",
+          "can-erim"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1291,7 +1298,7 @@
       "icon": "manufacturing",
       "scope_count": 18,
       "service_count": 7,
-      "expert_count": 5,
+      "expert_count": 6,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1330,7 +1337,8 @@
           "anastasiya-antoniuk",
           "elena-grakovich",
           "vitali-bakun",
-          "dima-gerko"
+          "dima-gerko",
+          "can-erim"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1546,7 +1554,7 @@
       "icon": "shopping-bag",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 6,
+      "expert_count": 9,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1592,7 +1600,10 @@
           "anastasiya-antoniuk",
           "elena-grakovich",
           "vitali-bakun",
-          "aldillah-melisa-febryana"
+          "aldillah-melisa-febryana",
+          "can-erim",
+          "ndeye-binta-diouf",
+          "robmar-macallums"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1676,7 +1687,7 @@
       "icon": "monitor",
       "scope_count": 33,
       "service_count": 17,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -1733,6 +1744,7 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
+          "can-erim",
           "gael-balouek",
           "mariia-nedbaievska"
         ],
@@ -1923,13 +1935,17 @@
       "elena-grakovich": "Elena Grakovich",
       "vitali-bakun": "Vitali Bakun",
       "dima-gerko": "Dima Gerko",
+      "can-erim": "Can Erim",
       "rita-pavide": "Rita Pavide",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "gael-balouek": "Gael Balouek",
       "mariia-nedbaievska": "Mariia Nedbaievska",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
-      "valentina-soldatkina": "Valentina Soldatkina"
+      "brankica-petrasinovic": "Brankica Petrašinović",
+      "valentina-soldatkina": "Valentina Soldatkina",
+      "robmar-macallums": "Robmar Macallums"
     },
     "cases": {
       "alvadi": "ALVADI",
