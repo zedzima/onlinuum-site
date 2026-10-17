@@ -557,7 +557,7 @@
       "description": "Удалённые вакансии SEO-специалиста в Onlinuum: технические аудиты и работа на страницах, 40% доли от выручки. Откликайтесь сегодня.",
       "menu": "SEO-специалист",
       "featured": false,
-      "expert_count": 4,
+      "expert_count": 5,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -613,7 +613,8 @@
           "dmitriy-razakhatsky",
           "gael-balouek",
           "moataz-yacoubian",
-          "alaaddin-saracyakupoglu"
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina"
         ],
         "solutions": [
           "global-seo",
@@ -722,7 +723,8 @@
           "turkish"
         ],
         "blog-posts": [
-          "seo-packages-comparison"
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
         ]
       },
       "services": [
@@ -807,7 +809,8 @@
       "can-erim": "Джан Эрим",
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
       "gael-balouek": "Гаэль Балуэк",
-      "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу"
+      "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
+      "valentina-soldatkina": "Валентина Солдаткина"
     },
     "solutions": {
       "digital-marketing-strategy": "Маркетинговая стратегия",
@@ -926,7 +929,8 @@
       "thai": "Тайский"
     },
     "blog-posts": {
-      "seo-packages-comparison": "Сравнение SEO-пакетов"
+      "seo-packages-comparison": "Сравнение SEO-пакетов",
+      "why-seo-matters-in-2026": "Почему SEO важно в 2026"
     }
   }
 }

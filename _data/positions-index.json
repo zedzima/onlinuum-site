@@ -557,7 +557,7 @@
       "description": "Remote SEO expert jobs at Onlinuum: own technical audits and on-page execution, keep 40% revenue share. Apply today.",
       "menu": "SEO Expert",
       "featured": false,
-      "expert_count": 4,
+      "expert_count": 5,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -613,7 +613,8 @@
           "dmitriy-razakhatsky",
           "gael-balouek",
           "moataz-yacoubian",
-          "alaaddin-saracyakupoglu"
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina"
         ],
         "solutions": [
           "global-seo",
@@ -730,7 +731,8 @@
           "ukrainian"
         ],
         "blog-posts": [
-          "seo-packages-comparison"
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
         ]
       },
       "services": [
@@ -815,7 +817,8 @@
       "can-erim": "Can Erim",
       "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
       "gael-balouek": "Gael Balouek",
-      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "valentina-soldatkina": "Valentina Soldatkina"
     },
     "solutions": {
       "digital-marketing-strategy": "Digital Marketing Strategy",
@@ -942,7 +945,8 @@
       "ukrainian": "Ukrainian"
     },
     "blog-posts": {
-      "seo-packages-comparison": "SEO Packages Compared"
+      "seo-packages-comparison": "SEO Packages Compared",
+      "why-seo-matters-in-2026": "Why SEO Matters In 2026"
     }
   }
 }
