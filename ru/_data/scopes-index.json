@@ -9,7 +9,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -25,6 +25,7 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "moataz-yacoubian",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -949,7 +950,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "monthly",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 5,
       "country_count": 4,
       "language_count": 4,
@@ -965,7 +966,8 @@
           "rita-pavide",
           "anastasiya-antoniuk",
           "elena-grakovich",
-          "robmar-macallums"
+          "robmar-macallums",
+          "moataz-yacoubian"
         ],
         "solutions": [
           "ai-visibility",
@@ -1244,7 +1246,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1259,6 +1261,7 @@
           "vitali-bakun",
           "ndeye-binta-diouf",
           "can-erim",
+          "moataz-yacoubian",
           "aldillah-melisa-febryana"
         ],
         "cases": [
@@ -1514,7 +1517,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "one-time",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1530,6 +1533,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "moataz-yacoubian",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
         ],
@@ -1650,7 +1654,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "one-time",
-      "expert_count": 3,
+      "expert_count": 4,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1663,7 +1667,8 @@
         "experts": [
           "anastasiya-antoniuk",
           "dima-gerko",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "moataz-yacoubian"
         ],
         "solutions": [
           "international-marketing"
@@ -1894,7 +1899,7 @@
       "featured": true,
       "from_price": 250,
       "delivery": "one-time",
-      "expert_count": 5,
+      "expert_count": 6,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1913,6 +1918,7 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "moataz-yacoubian",
           "alaaddin-saracyakupoglu",
           "rita-pavide"
         ],
@@ -2311,7 +2317,7 @@
       "featured": true,
       "from_price": 1190,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2325,7 +2331,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "gael-balouek"
+          "gael-balouek",
+          "moataz-yacoubian"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -2397,7 +2404,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 5,
+      "expert_count": 6,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2417,6 +2424,7 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "moataz-yacoubian",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
         ],
@@ -3232,6 +3240,7 @@
       "dima-gerko": "Дима Герко",
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
       "gael-balouek": "Гаэль Балуэк",
+      "moataz-yacoubian": "Моатаз Якубян",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "mariia-nedbaievska": "Мария Недбаевская",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",

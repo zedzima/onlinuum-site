@@ -1064,6 +1064,87 @@
       }
     },
     {
+      "slug": "moataz-yacoubian",
+      "url": "/team/moataz-yacoubian",
+      "title": "Moataz Yacoubian",
+      "description": "Digital marketing consultant for SMEs and retailers: SEO, paid search, content, GEO and WordPress websites, built around ROI. Book a consultation.",
+      "role": "Digital Marketing Expert",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "arabic",
+        "english",
+        "french"
+      ],
+      "countries": [
+        "france",
+        "germany",
+        "uae",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "healthcare",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "search-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "content-writing",
+          "google-ads-search",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "aeo",
+          "content",
+          "ppc",
+          "seo",
+          "social-media",
+          "web-development"
+        ],
+        "industries": [
+          "automotive",
+          "healthcare",
+          "hospitality"
+        ],
+        "countries": [
+          "france",
+          "germany",
+          "uae",
+          "usa"
+        ],
+        "languages": [
+          "arabic",
+          "english",
+          "french"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "muhammad-hijazi-siddiqui",
       "url": "/team/muhammad-hijazi-siddiqui",
       "title": "Muhammad Hijazi Siddiqui",
@@ -1656,13 +1737,15 @@
       "portuguese": "Portuguese",
       "spanish": "Spanish",
       "swedish": "Swedish",
+      "arabic": "Arabic",
       "urdu": "Urdu",
       "latvian": "Latvian"
     },
     "positions": {
       "seo-expert": "SEO Expert",
       "ppc-specialist": "PPC Specialist",
-      "aso-specialist": "ASO Specialist"
+      "aso-specialist": "ASO Specialist",
+      "marketing-consultant": "Marketing Consultant"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "How AI Chooses Sources",

@@ -15,7 +15,7 @@
       "official_countries_count": 16,
       "scope_count": 14,
       "service_count": 13,
-      "expert_count": 0,
+      "expert_count": 1,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -43,6 +43,9 @@
           "seo-research",
           "technical-seo",
           "transcreation"
+        ],
+        "experts": [
+          "moataz-yacoubian"
         ],
         "solutions": [
           "ai-visibility",
@@ -625,7 +628,7 @@
       "official_countries_count": 69,
       "scope_count": 35,
       "service_count": 19,
-      "expert_count": 16,
+      "expert_count": 17,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -689,6 +692,7 @@
           "can-erim",
           "gael-balouek",
           "mariia-nedbaievska",
+          "moataz-yacoubian",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf",
           "rita-pavide",
@@ -1010,7 +1014,7 @@
       "official_countries_count": 25,
       "scope_count": 28,
       "service_count": 11,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1060,6 +1064,7 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "moataz-yacoubian",
           "ndeye-binta-diouf"
         ],
         "solutions": [
@@ -3289,6 +3294,25 @@
       "youtube-creator-collaborations": "YouTube Creator Collaborations",
       "youtube-creator-pilot": "YouTube Creator Pilot"
     },
+    "experts": {
+      "moataz-yacoubian": "Moataz Yacoubian",
+      "elena-grakovich": "Elena Grakovich",
+      "anastasiya-antoniuk": "Anastasiya Antoniuk",
+      "vitali-bakun": "Vitali Bakun",
+      "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
+      "dima-gerko": "Dima Gerko",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "brankica-petrasinovic": "Brankica Petrašinović",
+      "can-erim": "Can Erim",
+      "gael-balouek": "Gael Balouek",
+      "mariia-nedbaievska": "Mariia Nedbaievska",
+      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
+      "rita-pavide": "Rita Pavide",
+      "robmar-macallums": "Robmar Macallums",
+      "valentina-soldatkina": "Valentina Soldatkina"
+    },
     "solutions": {
       "ai-visibility": "AI Visibility",
       "b2b-digital-marketing": "B2B Digital Marketing",
@@ -3394,24 +3418,6 @@
       "marketing-consultant": "Marketing Consultant",
       "aso-specialist": "ASO Specialist",
       "ppc-specialist": "PPC Specialist"
-    },
-    "experts": {
-      "elena-grakovich": "Elena Grakovich",
-      "anastasiya-antoniuk": "Anastasiya Antoniuk",
-      "vitali-bakun": "Vitali Bakun",
-      "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
-      "dima-gerko": "Dima Gerko",
-      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
-      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
-      "brankica-petrasinovic": "Brankica Petrašinović",
-      "can-erim": "Can Erim",
-      "gael-balouek": "Gael Balouek",
-      "mariia-nedbaievska": "Mariia Nedbaievska",
-      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
-      "ndeye-binta-diouf": "Ndèye Binta Diouf",
-      "rita-pavide": "Rita Pavide",
-      "robmar-macallums": "Robmar Macallums",
-      "valentina-soldatkina": "Valentina Soldatkina"
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",

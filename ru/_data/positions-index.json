@@ -260,7 +260,7 @@
       "description": "Удалённые вакансии маркетолога в Onlinuum: ведите один рынок внутри сети из 48 стран, 40% доли от выручки. Откликайтесь сегодня.",
       "menu": "Консультант по маркетингу",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -313,6 +313,9 @@
           "transcreation",
           "aso-localization",
           "telegram-ads"
+        ],
+        "experts": [
+          "moataz-yacoubian"
         ],
         "solutions": [
           "international-marketing",
@@ -554,7 +557,7 @@
       "description": "Удалённые вакансии SEO-специалиста в Onlinuum: технические аудиты и работа на страницах, 40% доли от выручки. Откликайтесь сегодня.",
       "menu": "SEO-специалист",
       "featured": false,
-      "expert_count": 3,
+      "expert_count": 4,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -609,6 +612,7 @@
         "experts": [
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "moataz-yacoubian",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -797,6 +801,7 @@
       "mariia-nedbaievska": "Мария Недбаевская",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
       "brankica-petrasinovic": "Бранкица Петрашинович",
+      "moataz-yacoubian": "Моатаз Якубян",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "ndeye-binta-diouf": "Ндейе Бинта Диуф",
       "can-erim": "Джан Эрим",

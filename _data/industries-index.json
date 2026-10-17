@@ -10,7 +10,7 @@
       "icon": "automotive",
       "scope_count": 27,
       "service_count": 8,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -59,7 +59,8 @@
           "elena-grakovich",
           "vitali-bakun",
           "dima-gerko",
-          "can-erim"
+          "can-erim",
+          "moataz-yacoubian"
         ],
         "cases": [
           "alvadi"
@@ -875,7 +876,7 @@
       "icon": "healthcare",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -922,6 +923,7 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "can-erim",
+          "moataz-yacoubian",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -1031,7 +1033,7 @@
       "icon": "hospitality",
       "scope_count": 22,
       "service_count": 11,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -1076,7 +1078,8 @@
           "anastasiya-antoniuk",
           "elena-grakovich",
           "vitali-bakun",
-          "can-erim"
+          "can-erim",
+          "moataz-yacoubian"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1936,6 +1939,7 @@
       "vitali-bakun": "Vitali Bakun",
       "dima-gerko": "Dima Gerko",
       "can-erim": "Can Erim",
+      "moataz-yacoubian": "Moataz Yacoubian",
       "rita-pavide": "Rita Pavide",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",

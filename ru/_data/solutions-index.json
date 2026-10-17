@@ -10,7 +10,7 @@
       "scope": "ai-optimisation",
       "industry": "ecommerce",
       "starting_price": 500.0,
-      "expert_count": 4,
+      "expert_count": 5,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -29,7 +29,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "gael-balouek"
+          "gael-balouek",
+          "moataz-yacoubian"
         ],
         "services": [
           "aeo",
@@ -317,7 +318,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -364,6 +365,7 @@
           "dmitriy-razakhatsky",
           "aldillah-melisa-febryana",
           "gael-balouek",
+          "moataz-yacoubian",
           "ndeye-binta-diouf"
         ],
         "services": [
@@ -488,7 +490,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2500.0,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -541,6 +543,7 @@
           "dmitriy-razakhatsky",
           "aldillah-melisa-febryana",
           "mariia-nedbaievska",
+          "moataz-yacoubian",
           "muhammad-hijazi-siddiqui"
         ],
         "services": [
@@ -1297,7 +1300,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 14,
+      "expert_count": 15,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -1350,6 +1353,7 @@
           "brankica-petrasinovic",
           "can-erim",
           "mariia-nedbaievska",
+          "moataz-yacoubian",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf",
           "rita-pavide",
@@ -1661,6 +1665,7 @@
       "dima-gerko": "Дима Герко",
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
       "gael-balouek": "Гаэль Балуэк",
+      "moataz-yacoubian": "Моатаз Якубян",
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",

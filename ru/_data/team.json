@@ -1044,6 +1044,87 @@
       }
     },
     {
+      "slug": "moataz-yacoubian",
+      "url": "/team/moataz-yacoubian",
+      "title": "Моатаз Якубян",
+      "description": "Консультант по digital-маркетингу для МСБ и ритейла: SEO, контекстная реклама, контент, GEO и сайты на WordPress. Записаться на консультацию.",
+      "role": "Эксперт по digital-маркетингу",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "arabic",
+        "english",
+        "french"
+      ],
+      "countries": [
+        "france",
+        "germany",
+        "uae",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "healthcare",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "search-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "content-writing",
+          "google-ads-search",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "aeo",
+          "content",
+          "ppc",
+          "seo",
+          "social-media",
+          "web-development"
+        ],
+        "industries": [
+          "automotive",
+          "healthcare",
+          "hospitality"
+        ],
+        "countries": [
+          "france",
+          "germany",
+          "uae",
+          "usa"
+        ],
+        "languages": [
+          "arabic",
+          "english",
+          "french"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "muhammad-hijazi-siddiqui",
       "url": "/team/muhammad-hijazi-siddiqui",
       "title": "Мухаммад Хиджази Сиддики",
@@ -1626,13 +1707,15 @@
       "portuguese": "Португальский",
       "spanish": "Испанский",
       "swedish": "Шведский",
+      "arabic": "Арабский",
       "urdu": "Урду",
       "latvian": "Латышский"
     },
     "positions": {
       "seo-expert": "SEO-специалист",
       "ppc-specialist": "PPC-специалист",
-      "aso-specialist": "ASO-специалист"
+      "aso-specialist": "ASO-специалист",
+      "marketing-consultant": "Консультант по маркетингу"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",

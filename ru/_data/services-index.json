@@ -8,7 +8,7 @@
       "menu": "AEO",
       "featured": true,
       "scope_count": 5,
-      "expert_count": 5,
+      "expert_count": 6,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 7,
@@ -37,7 +37,8 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
-          "gael-balouek"
+          "gael-balouek",
+          "moataz-yacoubian"
         ],
         "solutions": [
           "ai-visibility",
@@ -783,7 +784,7 @@
       "menu": "Контент-маркетинг",
       "featured": false,
       "scope_count": 8,
-      "expert_count": 8,
+      "expert_count": 9,
       "starting_price": 600.0,
       "from_price": 600.0,
       "industry_count": 7,
@@ -820,6 +821,7 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
+          "moataz-yacoubian",
           "muhammad-hijazi-siddiqui",
           "rita-pavide",
           "robmar-macallums"
@@ -1479,7 +1481,7 @@
       "menu": "Контекстная реклама",
       "featured": true,
       "scope_count": 9,
-      "expert_count": 6,
+      "expert_count": 7,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 6,
@@ -1511,6 +1513,7 @@
           "vitali-bakun",
           "aldillah-melisa-febryana",
           "can-erim",
+          "moataz-yacoubian",
           "ndeye-binta-diouf"
         ],
         "cases": [
@@ -1722,7 +1725,7 @@
       "menu": "SEO",
       "featured": true,
       "scope_count": 12,
-      "expert_count": 8,
+      "expert_count": 9,
       "starting_price": 1990.0,
       "from_price": 1990.0,
       "industry_count": 7,
@@ -1758,6 +1761,7 @@
           "alaaddin-saracyakupoglu",
           "elena-grakovich",
           "gael-balouek",
+          "moataz-yacoubian",
           "rita-pavide",
           "valentina-soldatkina"
         ],
@@ -1884,7 +1888,7 @@
       "menu": "Социальные сети",
       "featured": false,
       "scope_count": 5,
-      "expert_count": 3,
+      "expert_count": 4,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 5,
@@ -1907,6 +1911,7 @@
           "content-strategy"
         ],
         "experts": [
+          "moataz-yacoubian",
           "muhammad-hijazi-siddiqui",
           "rita-pavide",
           "robmar-macallums"
@@ -2055,7 +2060,7 @@
       "menu": "Разработка сайтов",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 2,
+      "expert_count": 3,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 7,
@@ -2076,7 +2081,8 @@
         ],
         "experts": [
           "dima-gerko",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "moataz-yacoubian"
         ],
         "cases": [
           "bamboo-ppc-landing-pages"
@@ -2236,6 +2242,7 @@
       "dmitriy-razakhatsky": "Дмитрий Разахацкий",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "gael-balouek": "Гаэль Балуэк",
+      "moataz-yacoubian": "Моатаз Якубян",
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",

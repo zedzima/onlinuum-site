@@ -260,7 +260,7 @@
       "description": "Remote marketing consultant jobs at Onlinuum: own one market inside a 48-country network, keep 40% revenue share. Apply today.",
       "menu": "Marketing Consultant",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -313,6 +313,9 @@
           "transcreation",
           "aso-localization",
           "telegram-ads"
+        ],
+        "experts": [
+          "moataz-yacoubian"
         ],
         "solutions": [
           "international-marketing",
@@ -554,7 +557,7 @@
       "description": "Remote SEO expert jobs at Onlinuum: own technical audits and on-page execution, keep 40% revenue share. Apply today.",
       "menu": "SEO Expert",
       "featured": false,
-      "expert_count": 3,
+      "expert_count": 4,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -609,6 +612,7 @@
         "experts": [
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "moataz-yacoubian",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -805,6 +809,7 @@
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
       "brankica-petrasinovic": "Brankica Petrašinović",
+      "moataz-yacoubian": "Moataz Yacoubian",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "ndeye-binta-diouf": "Ndèye Binta Diouf",
       "can-erim": "Can Erim",
