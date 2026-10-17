@@ -4227,7 +4227,7 @@
       "dominant_language_code": "tr",
       "scope_count": 11,
       "service_count": 12,
-      "expert_count": 4,
+      "expert_count": 5,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -4257,7 +4257,8 @@
           "alaaddin-saracyakupoglu",
           "dima-gerko",
           "brankica-petrasinovic",
-          "can-erim"
+          "can-erim",
+          "ismail-aydogdu"
         ],
         "solutions": [
           "ai-visibility",
@@ -4773,7 +4774,8 @@
       "mariia-nedbaievska": "Мария Недбаевская",
       "valentina-soldatkina": "Валентина Солдаткина",
       "robmar-macallums": "Робмар Макаллумс",
-      "can-erim": "Джан Эрим"
+      "can-erim": "Джан Эрим",
+      "ismail-aydogdu": "Исмаил Айдогду"
     },
     "solutions": {
       "ai-visibility": "Видимость в нейросетях",

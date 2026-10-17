@@ -628,7 +628,7 @@
       "official_countries_count": 69,
       "scope_count": 35,
       "service_count": 19,
-      "expert_count": 17,
+      "expert_count": 18,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -691,6 +691,7 @@
           "brankica-petrasinovic",
           "can-erim",
           "gael-balouek",
+          "ismail-aydogdu",
           "mariia-nedbaievska",
           "moataz-yacoubian",
           "muhammad-hijazi-siddiqui",
@@ -3064,7 +3065,7 @@
       "official_countries_count": 6,
       "scope_count": 10,
       "service_count": 12,
-      "expert_count": 2,
+      "expert_count": 3,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -3091,7 +3092,8 @@
         ],
         "experts": [
           "alaaddin-saracyakupoglu",
-          "can-erim"
+          "can-erim",
+          "ismail-aydogdu"
         ],
         "solutions": [
           "ai-visibility",
@@ -3306,6 +3308,7 @@
       "brankica-petrasinovic": "Brankica Petrašinović",
       "can-erim": "Can Erim",
       "gael-balouek": "Gael Balouek",
+      "ismail-aydogdu": "İsmail Aydoğdu",
       "mariia-nedbaievska": "Mariia Nedbaievska",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
       "ndeye-binta-diouf": "Ndèye Binta Diouf",

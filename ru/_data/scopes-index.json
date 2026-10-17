@@ -1246,7 +1246,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 5,
+      "expert_count": 6,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1262,6 +1262,7 @@
           "ndeye-binta-diouf",
           "can-erim",
           "moataz-yacoubian",
+          "ismail-aydogdu",
           "aldillah-melisa-febryana"
         ],
         "cases": [
@@ -1446,7 +1447,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -1461,6 +1462,7 @@
           "vitali-bakun",
           "ndeye-binta-diouf",
           "can-erim",
+          "ismail-aydogdu",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -2157,7 +2159,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -2172,6 +2174,7 @@
           "vitali-bakun",
           "dima-gerko",
           "can-erim",
+          "ismail-aydogdu",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -3252,6 +3255,7 @@
       "vitali-bakun": "Виталий Бакун",
       "ndeye-binta-diouf": "Ндейе Бинта Диуф",
       "can-erim": "Джан Эрим",
+      "ismail-aydogdu": "Исмаил Айдогду",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна"
     },
     "solutions": {

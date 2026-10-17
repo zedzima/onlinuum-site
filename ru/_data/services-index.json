@@ -195,7 +195,7 @@
       "menu": "Аналитика и данные",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 8,
+      "expert_count": 9,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 7,
@@ -221,6 +221,7 @@
           "alaaddin-saracyakupoglu",
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "ismail-aydogdu",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf"
         ],
@@ -1361,7 +1362,7 @@
       "menu": "Таргетированная реклама",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 5,
+      "expert_count": 6,
       "starting_price": 300.0,
       "from_price": 300.0,
       "industry_count": 3,
@@ -1383,6 +1384,7 @@
           "vitali-bakun",
           "aldillah-melisa-febryana",
           "can-erim",
+          "ismail-aydogdu",
           "muhammad-hijazi-siddiqui"
         ],
         "industries": [
@@ -1481,7 +1483,7 @@
       "menu": "Контекстная реклама",
       "featured": true,
       "scope_count": 9,
-      "expert_count": 7,
+      "expert_count": 8,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 6,
@@ -1513,6 +1515,7 @@
           "vitali-bakun",
           "aldillah-melisa-febryana",
           "can-erim",
+          "ismail-aydogdu",
           "moataz-yacoubian",
           "ndeye-binta-diouf"
         ],
@@ -2245,6 +2248,7 @@
       "moataz-yacoubian": "Моатаз Якубян",
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
+      "ismail-aydogdu": "Исмаил Айдогду",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
       "ndeye-binta-diouf": "Ндейе Бинта Диуф",
       "mariia-nedbaievska": "Мария Недбаевская",
