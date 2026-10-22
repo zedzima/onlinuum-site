@@ -1281,7 +1281,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 6,
+      "expert_count": 7,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1298,6 +1298,7 @@
           "can-erim",
           "moataz-yacoubian",
           "ismail-aydogdu",
+          "md-solayman-rumon",
           "aldillah-melisa-febryana"
         ],
         "cases": [
@@ -1487,7 +1488,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 5,
+      "expert_count": 6,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -1503,6 +1504,7 @@
           "ndeye-binta-diouf",
           "can-erim",
           "ismail-aydogdu",
+          "md-solayman-rumon",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -1889,7 +1891,7 @@
       "featured": false,
       "from_price": 300,
       "delivery": "monthly",
-      "expert_count": 2,
+      "expert_count": 3,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1901,7 +1903,8 @@
         ],
         "experts": [
           "elena-grakovich",
-          "vitali-bakun"
+          "vitali-bakun",
+          "md-solayman-rumon"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -2219,7 +2222,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 5,
+      "expert_count": 6,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -2235,6 +2238,7 @@
           "dima-gerko",
           "can-erim",
           "ismail-aydogdu",
+          "md-solayman-rumon",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -3326,6 +3330,7 @@
       "ndeye-binta-diouf": "Ndèye Binta Diouf",
       "can-erim": "Can Erim",
       "ismail-aydogdu": "İsmail Aydoğdu",
+      "md-solayman-rumon": "Md Solayman Rumon",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana"
     },
     "solutions": {

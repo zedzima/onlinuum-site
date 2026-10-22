@@ -195,7 +195,7 @@
       "menu": "Аналитика и данные",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 9,
+      "expert_count": 10,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 7,
@@ -222,6 +222,7 @@
           "dmitriy-razakhatsky",
           "gael-balouek",
           "ismail-aydogdu",
+          "md-solayman-rumon",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf"
         ],
@@ -944,7 +945,7 @@
       "menu": "CRO",
       "featured": false,
       "scope_count": 1,
-      "expert_count": 4,
+      "expert_count": 5,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 2,
@@ -970,6 +971,7 @@
           "elena-grakovich",
           "brankica-petrasinovic",
           "gael-balouek",
+          "md-solayman-rumon",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -1362,7 +1364,7 @@
       "menu": "Таргетированная реклама",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 6,
+      "expert_count": 7,
       "starting_price": 300.0,
       "from_price": 300.0,
       "industry_count": 3,
@@ -1385,6 +1387,7 @@
           "aldillah-melisa-febryana",
           "can-erim",
           "ismail-aydogdu",
+          "md-solayman-rumon",
           "muhammad-hijazi-siddiqui"
         ],
         "industries": [
@@ -1483,7 +1486,7 @@
       "menu": "Контекстная реклама",
       "featured": true,
       "scope_count": 9,
-      "expert_count": 8,
+      "expert_count": 9,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 6,
@@ -1516,6 +1519,7 @@
           "aldillah-melisa-febryana",
           "can-erim",
           "ismail-aydogdu",
+          "md-solayman-rumon",
           "moataz-yacoubian",
           "ndeye-binta-diouf"
         ],
@@ -2249,6 +2253,7 @@
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "ismail-aydogdu": "Исмаил Айдогду",
+      "md-solayman-rumon": "Мд Солайман Румон",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
       "ndeye-binta-diouf": "Ндейе Бинта Диуф",
       "mariia-nedbaievska": "Мария Недбаевская",

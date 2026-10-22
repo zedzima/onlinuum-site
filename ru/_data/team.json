@@ -977,7 +977,7 @@
       "title": "Исмаил Айдогду",
       "description": "Google Ads и Meta Ads для e-commerce и лидогенерации с надёжным трекингом: GA4, GTM, Pixel/CAPI и Consent Mode v2. Записаться на консультацию.",
       "role": "Специалист по performance-маркетингу и трекингу",
-      "avatar": "_media/illustrations/user-plus.svg",
+      "avatar": "_media/images/team/Ismail-Aydogdu.jpg",
       "experience_value": "1+",
       "projects": null,
       "featured": false,
@@ -1104,12 +1104,77 @@
       }
     },
     {
+      "slug": "md-solayman-rumon",
+      "url": "/team/md-solayman-rumon",
+      "title": "Мд Солайман Румон",
+      "description": "Стратег по Google Ads и PPC для e-commerce и лидогенерации в Великобритании, США и Австралии: Search, Shopping, Performance Max и чистый трекинг.",
+      "role": "Стратег по Google Ads и PPC",
+      "avatar": "_media/images/team/Md-Solayman-Rumon.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "microsoft-ads",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "cro",
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "hospitality"
+        ],
+        "countries": [
+          "australia",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "moataz-yacoubian",
       "url": "/team/moataz-yacoubian",
       "title": "Моатаз Якубян",
       "description": "Консультант по digital-маркетингу для МСБ и ритейла: SEO, контекстная реклама, контент, GEO и сайты на WordPress. Записаться на консультацию.",
       "role": "Эксперт по digital-маркетингу",
-      "avatar": "_media/illustrations/user-plus.svg",
+      "avatar": "_media/images/team/Moataz-Yacoubian.jpg",
       "experience_value": "15+",
       "projects": null,
       "featured": false,

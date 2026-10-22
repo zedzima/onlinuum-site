@@ -843,7 +843,7 @@
       "scope": "cross-market-setup",
       "industry": "saas",
       "starting_price": 3000.0,
-      "expert_count": 12,
+      "expert_count": 13,
       "case_count": 2,
       "facets": {
         "domains": [
@@ -900,6 +900,7 @@
           "brankica-petrasinovic",
           "can-erim",
           "mariia-nedbaievska",
+          "md-solayman-rumon",
           "muhammad-hijazi-siddiqui",
           "rita-pavide",
           "valentina-soldatkina"
@@ -1340,7 +1341,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 16,
+      "expert_count": 17,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -1394,6 +1395,7 @@
           "can-erim",
           "ismail-aydogdu",
           "mariia-nedbaievska",
+          "md-solayman-rumon",
           "moataz-yacoubian",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf",
@@ -1726,6 +1728,7 @@
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
       "brankica-petrasinovic": "Brankica Petrašinović",
       "can-erim": "Can Erim",
+      "md-solayman-rumon": "Md Solayman Rumon",
       "rita-pavide": "Rita Pavide",
       "valentina-soldatkina": "Valentina Soldatkina",
       "ismail-aydogdu": "İsmail Aydoğdu",

@@ -10,7 +10,7 @@
       "icon": "automotive",
       "scope_count": 27,
       "service_count": 8,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -60,6 +60,7 @@
           "vitali-bakun",
           "dima-gerko",
           "can-erim",
+          "md-solayman-rumon",
           "moataz-yacoubian"
         ],
         "cases": [
@@ -278,7 +279,7 @@
       "icon": "ecommerce",
       "scope_count": 34,
       "service_count": 18,
-      "expert_count": 12,
+      "expert_count": 13,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -341,6 +342,7 @@
           "gael-balouek",
           "ismail-aydogdu",
           "mariia-nedbaievska",
+          "md-solayman-rumon",
           "ndeye-binta-diouf"
         ],
         "cases": [
@@ -1014,7 +1016,7 @@
       "icon": "hospitality",
       "scope_count": 22,
       "service_count": 11,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -1060,6 +1062,7 @@
           "elena-grakovich",
           "vitali-bakun",
           "can-erim",
+          "md-solayman-rumon",
           "moataz-yacoubian"
         ],
         "solutions": [
@@ -1907,6 +1910,7 @@
       "vitali-bakun": "Виталий Бакун",
       "dima-gerko": "Дима Герко",
       "can-erim": "Джан Эрим",
+      "md-solayman-rumon": "Мд Солайман Румон",
       "moataz-yacoubian": "Моатаз Якубян",
       "rita-pavide": "Рита Павиде",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
