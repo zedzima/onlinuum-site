@@ -1052,6 +1052,67 @@
       }
     },
     {
+      "slug": "lalit-kumar",
+      "url": "/team/lalit-kumar",
+      "title": "Lalit Kumar",
+      "description": "Local and technical SEO for businesses in the USA and Canada: Google Business Profile, Google Maps rankings, technical audits, on-page SEO and link building.",
+      "role": "Local SEO Specialist & Technical SEO Expert",
+      "avatar": "_media/images/team/Lalit-Kumar.jpg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "canada",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "healthcare",
+        "legal"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "technical-seo"
+        ],
+        "solutions": [
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "analytics",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "healthcare",
+          "legal"
+        ],
+        "countries": [
+          "canada",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "mariia-nedbaievska",
       "url": "/team/mariia-nedbaievska",
       "title": "Mariia Nedbaievska",
@@ -1355,10 +1416,10 @@
       "slug": "ndeye-binta-diouf",
       "url": "/team/ndeye-binta-diouf",
       "title": "Ndèye Binta Diouf",
-      "description": "Google Ads specialist for e-commerce and multi-location businesses: Shopping, Performance Max, Merchant Center, and GA4. Book a consultation.",
-      "role": "Google Ads & Performance Marketing Specialist",
+      "description": "SEO and Google Ads specialist for e-commerce and multi-location businesses: technical and on-page SEO, Shopping, Performance Max, Merchant Center, and GA4.",
+      "role": "SEO & Google Ads Specialist",
       "avatar": "_media/images/team/Ndeye-Binta-Diouf.jpg",
-      "experience_value": "4+",
+      "experience_value": "5+",
       "projects": null,
       "featured": false,
       "languages": [
@@ -1382,7 +1443,10 @@
         ],
         "scopes": [
           "google-ads-search",
-          "google-shopping"
+          "google-shopping",
+          "on-page-seo",
+          "seo-research",
+          "technical-seo"
         ],
         "solutions": [
           "digital-marketing-consulting",
@@ -1390,7 +1454,8 @@
         ],
         "services": [
           "analytics",
-          "ppc"
+          "ppc",
+          "seo"
         ],
         "industries": [
           "ecommerce",
@@ -1404,7 +1469,8 @@
           "french"
         ],
         "positions": [
-          "ppc-specialist"
+          "ppc-specialist",
+          "seo-expert"
         ]
       }
     },

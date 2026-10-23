@@ -1341,7 +1341,7 @@
       "scope": "seo-research",
       "industry": "saas",
       "starting_price": 2000.0,
-      "expert_count": 17,
+      "expert_count": 18,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -1394,6 +1394,7 @@
           "brankica-petrasinovic",
           "can-erim",
           "ismail-aydogdu",
+          "lalit-kumar",
           "mariia-nedbaievska",
           "md-solayman-rumon",
           "moataz-yacoubian",
@@ -1531,7 +1532,7 @@
       "scope": "seo-audit",
       "industry": "ecommerce",
       "starting_price": 1990.0,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 0,
       "facets": {
         "domains": [
@@ -1554,7 +1555,8 @@
           "vitali-bakun",
           "dmitriy-razakhatsky",
           "alaaddin-saracyakupoglu",
-          "gael-balouek"
+          "gael-balouek",
+          "lalit-kumar"
         ],
         "services": [
           "content",
@@ -1732,6 +1734,7 @@
       "rita-pavide": "Rita Pavide",
       "valentina-soldatkina": "Valentina Soldatkina",
       "ismail-aydogdu": "İsmail Aydoğdu",
+      "lalit-kumar": "Lalit Kumar",
       "robmar-macallums": "Robmar Macallums"
     },
     "services": {

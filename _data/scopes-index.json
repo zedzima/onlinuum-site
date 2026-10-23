@@ -1561,7 +1561,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1578,6 +1578,7 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "moataz-yacoubian",
+          "lalit-kumar",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
         ],
@@ -1703,7 +1704,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1717,7 +1718,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "moataz-yacoubian"
+          "moataz-yacoubian",
+          "lalit-kumar"
         ],
         "solutions": [
           "international-marketing"
@@ -1954,7 +1956,7 @@
       "featured": true,
       "from_price": 250,
       "delivery": "one-time",
-      "expert_count": 6,
+      "expert_count": 8,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1974,6 +1976,8 @@
           "dmitriy-razakhatsky",
           "gael-balouek",
           "moataz-yacoubian",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
           "alaaddin-saracyakupoglu",
           "rita-pavide"
         ],
@@ -2384,7 +2388,7 @@
       "featured": true,
       "from_price": 1190,
       "delivery": "one-time",
-      "expert_count": 5,
+      "expert_count": 6,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2399,7 +2403,8 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "gael-balouek",
-          "moataz-yacoubian"
+          "moataz-yacoubian",
+          "lalit-kumar"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -2471,7 +2476,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 6,
+      "expert_count": 7,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2492,6 +2497,7 @@
           "dmitriy-razakhatsky",
           "gael-balouek",
           "moataz-yacoubian",
+          "ndeye-binta-diouf",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
         ],
@@ -2629,7 +2635,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 6,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2644,6 +2650,8 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -3331,7 +3339,8 @@
       "can-erim": "Can Erim",
       "ismail-aydogdu": "İsmail Aydoğdu",
       "md-solayman-rumon": "Md Solayman Rumon",
-      "aldillah-melisa-febryana": "Aldillah Melisa Febryana"
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "lalit-kumar": "Lalit Kumar"
     },
     "solutions": {
       "ai-visibility": "AI Visibility",
