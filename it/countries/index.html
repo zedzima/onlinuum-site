@@ -1970,6 +1970,9 @@
     function compareFeatured(a, b) {
         return Number(isFeatured(b)) - Number(isFeatured(a));
     }
+    function compareSortOrder(a, b) {
+        return (Number(a && a.sort_order) || 0) - (Number(b && b.sort_order) || 0);
+    }
     function comparePinned(a, b) {
         var aPinned = Object.prototype.hasOwnProperty.call(pinnedOrder, a && a.slug);
         var bPinned = Object.prototype.hasOwnProperty.call(pinnedOrder, b && b.slug);
@@ -2162,6 +2165,9 @@
 
             var featuredCompare = compareFeatured(a, b);
             if (featuredCompare !== 0) return featuredCompare;
+
+            var sortOrderCompare = compareSortOrder(a, b);
+            if (sortOrderCompare !== 0) return sortOrderCompare;
 
             var result = 0;
             switch (by) {
