@@ -279,7 +279,7 @@
       "icon": "ecommerce",
       "scope_count": 34,
       "service_count": 18,
-      "expert_count": 14,
+      "expert_count": 15,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -336,6 +336,7 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
+          "aina-rakotondrabe",
           "alaaddin-saracyakupoglu",
           "aldillah-melisa-febryana",
           "can-erim",
@@ -483,7 +484,7 @@
       "icon": "fintech",
       "scope_count": 28,
       "service_count": 12,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -537,6 +538,7 @@
           "can-erim",
           "gael-balouek",
           "mariia-nedbaievska",
+          "mohamed-isse",
           "rita-pavide"
         ],
         "solutions": [
@@ -865,7 +867,7 @@
       "icon": "healthcare",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -911,6 +913,7 @@
           "vitali-bakun",
           "anastasiya-antoniuk",
           "dima-gerko",
+          "aina-rakotondrabe",
           "can-erim",
           "lalit-kumar",
           "moataz-yacoubian",
@@ -1018,7 +1021,7 @@
       "icon": "hospitality",
       "scope_count": 22,
       "service_count": 11,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -1063,6 +1066,7 @@
           "anastasiya-antoniuk",
           "elena-grakovich",
           "vitali-bakun",
+          "aina-rakotondrabe",
           "can-erim",
           "md-solayman-rumon",
           "moataz-yacoubian"
@@ -1669,7 +1673,7 @@
       "icon": "monitor",
       "scope_count": 33,
       "service_count": 17,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -1728,7 +1732,8 @@
           "alaaddin-saracyakupoglu",
           "can-erim",
           "gael-balouek",
-          "mariia-nedbaievska"
+          "mariia-nedbaievska",
+          "mohamed-isse"
         ],
         "cases": [
           "bamboo-ppc-landing-pages"
@@ -1916,6 +1921,7 @@
       "md-solayman-rumon": "Мд Солайман Румон",
       "moataz-yacoubian": "Моатаз Якубян",
       "rita-pavide": "Рита Павиде",
+      "aina-rakotondrabe": "Аина Ракотондрабе",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "gael-balouek": "Гаэль Балуэк",
@@ -1923,6 +1929,7 @@
       "lalit-kumar": "Лалит Кумар",
       "mariia-nedbaievska": "Мария Недбаевская",
       "ndeye-binta-diouf": "Ндейе Бинта Диуф",
+      "mohamed-isse": "Мохамед Иссе",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
       "brankica-petrasinovic": "Бранкица Петрашинович",
       "valentina-soldatkina": "Валентина Солдаткина",

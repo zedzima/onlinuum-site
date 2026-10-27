@@ -1,6 +1,71 @@
 {
   "experts": [
     {
+      "slug": "aina-rakotondrabe",
+      "url": "/team/aina-rakotondrabe",
+      "title": "Аина Ракотондрабе",
+      "description": "Семантическое SEO, архитектура контента и GEO/AEO для франко- и англоязычных рынков: тематические кластеры, контент на французском и английском, on-site SEO и видимость в ответах ИИ.",
+      "role": "Стратег по SEO- и AEO-контенту",
+      "avatar": "_media/images/team/Aina-Rakotondrabe.jpg",
+      "experience_value": "13+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "countries": [
+        "canada",
+        "france",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "healthcare",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "content-strategy",
+          "content-writing",
+          "on-page-seo",
+          "seo-research"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "healthcare",
+          "hospitality"
+        ],
+        "countries": [
+          "canada",
+          "france",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "alaaddin-saracyakupoglu",
       "url": "/team/alaaddin-saracyakupoglu",
       "title": "Алааддин Сараджякупоглу",
@@ -1313,6 +1378,65 @@
       }
     },
     {
+      "slug": "mohamed-isse",
+      "url": "/team/mohamed-isse",
+      "title": "Мохамед Иссе",
+      "description": "Семантическое SEO и GEO: тематические карты на основе сущностей, архитектура графа знаний и разметка schema, которые помогают поисковым системам и LLM понимать и цитировать бренд.",
+      "role": "Специалист по семантическому SEO и GEO",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "2+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "canada",
+        "new-zealand",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "fintech",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "aeo",
+          "seo"
+        ],
+        "industries": [
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "australia",
+          "canada",
+          "new-zealand",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "muhammad-hijazi-siddiqui",
       "url": "/team/muhammad-hijazi-siddiqui",
       "title": "Мухаммад Хиджази Сиддики",
@@ -1780,10 +1904,12 @@
     },
     "scopes": {
       "ai-optimisation": "ИИ-оптимизация",
-      "cross-market-setup": "Настройка мультирегионального SEO",
-      "link-building": "Линкбилдинг",
+      "content-strategy": "Контент-стратегия",
+      "content-writing": "Написание статей",
       "on-page-seo": "Внутренняя оптимизация",
       "seo-research": "SEO-исследование",
+      "cross-market-setup": "Настройка мультирегионального SEO",
+      "link-building": "Линкбилдинг",
       "technical-seo": "Технический SEO",
       "google-ads-search": "Поиск в Google Ads",
       "google-shopping": "Google Shopping",
@@ -1793,8 +1919,6 @@
       "aso-optimization": "ASO-оптимизация",
       "content-localization": "Локализация контента",
       "content-rewriting": "Обновление контента",
-      "content-strategy": "Контент-стратегия",
-      "content-writing": "Написание статей",
       "copywriting": "Копирайтинг",
       "local-seo": "Локальное SEO",
       "seo-audit": "SEO-аудит",
@@ -1810,18 +1934,6 @@
       "local-services-ads": "Реклама Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
       "remarketing-display": "Ремаркетинг и медийная реклама"
-    },
-    "solutions": {
-      "b2b-digital-marketing": "B2B-маркетинг",
-      "global-seo": "Глобальное SEO",
-      "international-seo": "Международное SEO",
-      "seo-ecommerce": "SEO для интернет-магазинов",
-      "digital-marketing-consulting": "Маркетинговый консалтинг",
-      "digital-marketing-strategy": "Маркетинговая стратегия",
-      "international-marketing": "Международный маркетинг",
-      "outsource-digital-marketing": "Аутсорсинг маркетинга",
-      "ai-visibility": "Видимость в нейросетях",
-      "multilingual-seo": "Мультиязычное SEO"
     },
     "services": {
       "aeo": "AEO",
@@ -1843,13 +1955,13 @@
     },
     "industries": {
       "ecommerce": "Интернет-магазины",
+      "healthcare": "Медицина",
+      "hospitality": "Гостеприимство",
       "saas": "SaaS",
       "retail": "Ритейл",
       "fmcg": "FMCG",
       "automotive": "Автобизнес",
       "fintech": "Финтех",
-      "healthcare": "Медицина",
-      "hospitality": "Гостеприимство",
       "legal": "Юридические услуги",
       "manufacturing": "Промышленность",
       "pharma": "Фарма и life sciences",
@@ -1857,9 +1969,11 @@
       "crypto": "Криптовалюта"
     },
     "countries": {
-      "eu": "Европейский союз",
+      "canada": "Канада",
+      "france": "Франция",
       "uk": "Великобритания",
       "usa": "США",
+      "eu": "Европейский союз",
       "turkey": "Турция",
       "australia": "Австралия",
       "indonesia": "Индонезия",
@@ -1870,9 +1984,7 @@
       "austria": "Австрия",
       "belgium": "Бельгия",
       "brazil": "Бразилия",
-      "canada": "Канада",
       "czechia": "Чехия",
-      "france": "Франция",
       "germany": "Германия",
       "greece": "Греция",
       "india": "Индия",
@@ -1891,12 +2003,12 @@
     },
     "languages": {
       "english": "Английский",
+      "french": "Французский",
       "turkish": "Турецкий",
       "indonesian": "Индонезийский",
       "russian": "Русский",
       "czech": "Чешский",
       "dutch": "Нидерландский",
-      "french": "Французский",
       "german": "Немецкий",
       "greek": "Греческий",
       "italian": "Итальянский",
@@ -1913,6 +2025,18 @@
       "ppc-specialist": "PPC-специалист",
       "aso-specialist": "ASO-специалист",
       "marketing-consultant": "Консультант по маркетингу"
+    },
+    "solutions": {
+      "b2b-digital-marketing": "B2B-маркетинг",
+      "global-seo": "Глобальное SEO",
+      "international-seo": "Международное SEO",
+      "seo-ecommerce": "SEO для интернет-магазинов",
+      "digital-marketing-consulting": "Маркетинговый консалтинг",
+      "digital-marketing-strategy": "Маркетинговая стратегия",
+      "international-marketing": "Международный маркетинг",
+      "outsource-digital-marketing": "Аутсорсинг маркетинга",
+      "ai-visibility": "Видимость в нейросетях",
+      "multilingual-seo": "Мультиязычное SEO"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",

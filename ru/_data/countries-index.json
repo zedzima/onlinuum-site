@@ -15,7 +15,7 @@
       "dominant_language_code": "en",
       "scope_count": 14,
       "service_count": 19,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -55,6 +55,7 @@
           "aldillah-melisa-febryana",
           "brankica-petrasinovic",
           "md-solayman-rumon",
+          "mohamed-isse",
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
@@ -541,7 +542,7 @@
       "dominant_language_code": "en",
       "scope_count": 19,
       "service_count": 19,
-      "expert_count": 10,
+      "expert_count": 12,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -583,9 +584,11 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
+          "aina-rakotondrabe",
           "brankica-petrasinovic",
           "gael-balouek",
           "lalit-kumar",
+          "mohamed-isse",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf"
         ],
@@ -1367,7 +1370,7 @@
       "dominant_language_code": "fr",
       "scope_count": 28,
       "service_count": 10,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1417,6 +1420,7 @@
           "vitali-bakun",
           "anastasiya-antoniuk",
           "dima-gerko",
+          "aina-rakotondrabe",
           "brankica-petrasinovic",
           "gael-balouek",
           "moataz-yacoubian",
@@ -3071,7 +3075,7 @@
       "dominant_language_code": "en",
       "scope_count": 14,
       "service_count": 19,
-      "expert_count": 6,
+      "expert_count": 7,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -3108,7 +3112,8 @@
           "anastasiya-antoniuk",
           "dima-gerko",
           "vitali-bakun",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "mohamed-isse"
         ],
         "solutions": [
           "ai-visibility",
@@ -4429,7 +4434,7 @@
       "dominant_language_code": "en",
       "scope_count": 35,
       "service_count": 19,
-      "expert_count": 12,
+      "expert_count": 14,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -4487,11 +4492,13 @@
           "vitali-bakun",
           "anastasiya-antoniuk",
           "dima-gerko",
+          "aina-rakotondrabe",
           "alaaddin-saracyakupoglu",
           "brankica-petrasinovic",
           "gael-balouek",
           "mariia-nedbaievska",
           "md-solayman-rumon",
+          "mohamed-isse",
           "muhammad-hijazi-siddiqui",
           "valentina-soldatkina"
         ],
@@ -4578,7 +4585,7 @@
       "dominant_language_code": "en",
       "scope_count": 35,
       "service_count": 19,
-      "expert_count": 15,
+      "expert_count": 17,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -4636,6 +4643,7 @@
           "dima-gerko",
           "vitali-bakun",
           "dmitriy-razakhatsky",
+          "aina-rakotondrabe",
           "alaaddin-saracyakupoglu",
           "brankica-petrasinovic",
           "can-erim",
@@ -4644,6 +4652,7 @@
           "mariia-nedbaievska",
           "md-solayman-rumon",
           "moataz-yacoubian",
+          "mohamed-isse",
           "muhammad-hijazi-siddiqui",
           "valentina-soldatkina"
         ],
@@ -4771,7 +4780,9 @@
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "brankica-petrasinovic": "Бранкица Петрашинович",
       "md-solayman-rumon": "Мд Солайман Румон",
+      "mohamed-isse": "Мохамед Иссе",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",
+      "aina-rakotondrabe": "Аина Ракотондрабе",
       "gael-balouek": "Гаэль Балуэк",
       "lalit-kumar": "Лалит Кумар",
       "ndeye-binta-diouf": "Ндейе Бинта Диуф",

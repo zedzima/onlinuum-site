@@ -1,6 +1,71 @@
 {
   "experts": [
     {
+      "slug": "aina-rakotondrabe",
+      "url": "/team/aina-rakotondrabe",
+      "title": "Aina Rakotondrabe",
+      "description": "Semantic SEO, content architecture and GEO/AEO for French- and English-speaking markets: topic clusters, French and English content, on-site SEO and visibility in AI answers.",
+      "role": "SEO & AEO Content Strategist",
+      "avatar": "_media/images/team/Aina-Rakotondrabe.jpg",
+      "experience_value": "13+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "countries": [
+        "canada",
+        "france",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "healthcare",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "content-strategy",
+          "content-writing",
+          "on-page-seo",
+          "seo-research"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "healthcare",
+          "hospitality"
+        ],
+        "countries": [
+          "canada",
+          "france",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "alaaddin-saracyakupoglu",
       "url": "/team/alaaddin-saracyakupoglu",
       "title": "Alaaddin Saracyakupoglu",
@@ -1333,6 +1398,65 @@
       }
     },
     {
+      "slug": "mohamed-isse",
+      "url": "/team/mohamed-isse",
+      "title": "Mohamed Isse",
+      "description": "Semantic SEO and GEO: entity-driven topical maps, knowledge graph architecture and schema markup that help search engines and LLMs understand and cite a brand.",
+      "role": "Semantic SEO and GEO Specialist",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "2+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "canada",
+        "new-zealand",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "fintech",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "aeo",
+          "seo"
+        ],
+        "industries": [
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "australia",
+          "canada",
+          "new-zealand",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "muhammad-hijazi-siddiqui",
       "url": "/team/muhammad-hijazi-siddiqui",
       "title": "Muhammad Hijazi Siddiqui",
@@ -1805,10 +1929,12 @@
     },
     "scopes": {
       "ai-optimisation": "AI Optimisation",
-      "cross-market-setup": "International SEO Setup",
-      "link-building": "Link Building",
+      "content-strategy": "Content Strategy",
+      "content-writing": "Content Writing",
       "on-page-seo": "On-Page SEO",
       "seo-research": "SEO Research",
+      "cross-market-setup": "International SEO Setup",
+      "link-building": "Link Building",
       "technical-seo": "Technical SEO",
       "google-ads-search": "Google Ads Search",
       "google-shopping": "Google Shopping",
@@ -1818,8 +1944,6 @@
       "aso-optimization": "ASO Optimization",
       "content-localization": "Content Localization",
       "content-rewriting": "Content Rewriting",
-      "content-strategy": "Content Strategy",
-      "content-writing": "Content Writing",
       "copywriting": "Copywriting",
       "local-seo": "Local SEO",
       "seo-audit": "SEO Audit",
@@ -1835,18 +1959,6 @@
       "local-services-ads": "Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
       "remarketing-display": "Remarketing & Display"
-    },
-    "solutions": {
-      "b2b-digital-marketing": "B2B Digital Marketing",
-      "global-seo": "Global SEO",
-      "international-seo": "International SEO",
-      "seo-ecommerce": "SEO for E-commerce",
-      "digital-marketing-consulting": "Digital Marketing Consulting",
-      "digital-marketing-strategy": "Digital Marketing Strategy",
-      "international-marketing": "International Marketing",
-      "outsource-digital-marketing": "Outsource Digital Marketing",
-      "ai-visibility": "AI Visibility",
-      "multilingual-seo": "Multilingual SEO"
     },
     "services": {
       "aeo": "AEO",
@@ -1868,13 +1980,13 @@
     },
     "industries": {
       "ecommerce": "E-commerce",
+      "healthcare": "Healthcare",
+      "hospitality": "Hospitality",
       "saas": "SaaS",
       "retail": "Retail",
       "fmcg": "FMCG & CPG",
       "automotive": "Automotive",
       "fintech": "Fintech",
-      "healthcare": "Healthcare",
-      "hospitality": "Hospitality",
       "legal": "Legal",
       "manufacturing": "Manufacturing",
       "pharma": "Pharma & Life Sciences",
@@ -1882,9 +1994,11 @@
       "crypto": "Crypto"
     },
     "countries": {
-      "eu": "European Union",
+      "canada": "Canada",
+      "france": "France",
       "uk": "United Kingdom",
       "usa": "USA",
+      "eu": "European Union",
       "turkey": "Turkey",
       "australia": "Australia",
       "indonesia": "Indonesia",
@@ -1895,10 +2009,8 @@
       "austria": "Austria",
       "belgium": "Belgium",
       "brazil": "Brazil",
-      "canada": "Canada",
       "china": "China",
       "czechia": "Czechia",
-      "france": "France",
       "germany": "Germany",
       "greece": "Greece",
       "india": "India",
@@ -1921,12 +2033,12 @@
     },
     "languages": {
       "english": "English",
+      "french": "French",
       "turkish": "Turkish",
       "indonesian": "Indonesian",
       "russian": "Russian",
       "czech": "Czech",
       "dutch": "Dutch",
-      "french": "French",
       "german": "German",
       "greek": "Greek",
       "italian": "Italian",
@@ -1943,6 +2055,18 @@
       "ppc-specialist": "PPC Specialist",
       "aso-specialist": "ASO Specialist",
       "marketing-consultant": "Marketing Consultant"
+    },
+    "solutions": {
+      "b2b-digital-marketing": "B2B Digital Marketing",
+      "global-seo": "Global SEO",
+      "international-seo": "International SEO",
+      "seo-ecommerce": "SEO for E-commerce",
+      "digital-marketing-consulting": "Digital Marketing Consulting",
+      "digital-marketing-strategy": "Digital Marketing Strategy",
+      "international-marketing": "International Marketing",
+      "outsource-digital-marketing": "Outsource Digital Marketing",
+      "ai-visibility": "AI Visibility",
+      "multilingual-seo": "Multilingual SEO"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "How AI Chooses Sources",
