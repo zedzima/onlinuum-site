@@ -177,7 +177,7 @@
       "icon": "crypto",
       "scope_count": 20,
       "service_count": 15,
-      "expert_count": 3,
+      "expert_count": 4,
       "case_count": 0,
       "solution_count": 9,
       "facets": {
@@ -217,7 +217,8 @@
         "experts": [
           "rita-pavide",
           "elena-grakovich",
-          "dmitriy-razakhatsky"
+          "dmitriy-razakhatsky",
+          "lisa-chernova"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -285,7 +286,7 @@
       "icon": "ecommerce",
       "scope_count": 34,
       "service_count": 18,
-      "expert_count": 16,
+      "expert_count": 17,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -349,6 +350,7 @@
           "gael-balouek",
           "ismail-aydogdu",
           "lalit-kumar",
+          "lisa-chernova",
           "mariia-nedbaievska",
           "md-solayman-rumon",
           "ndeye-binta-diouf",
@@ -1046,7 +1048,7 @@
       "icon": "hospitality",
       "scope_count": 22,
       "service_count": 11,
-      "expert_count": 10,
+      "expert_count": 11,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -1093,6 +1095,7 @@
           "vitali-bakun",
           "aina-rakotondrabe",
           "can-erim",
+          "lisa-chernova",
           "md-solayman-rumon",
           "moataz-yacoubian",
           "syed-rafey"
@@ -1577,7 +1580,7 @@
       "icon": "shopping-bag",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 11,
+      "expert_count": 12,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1626,6 +1629,7 @@
           "aldillah-melisa-febryana",
           "can-erim",
           "ismail-aydogdu",
+          "lisa-chernova",
           "ndeye-binta-diouf",
           "robmar-macallums",
           "syed-rafey"
@@ -1967,6 +1971,7 @@
       "moataz-yacoubian": "Moataz Yacoubian",
       "syed-rafey": "Syed Rafey",
       "rita-pavide": "Rita Pavide",
+      "lisa-chernova": "Lisa Chernova",
       "aina-rakotondrabe": "Aina Rakotondrabe",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
