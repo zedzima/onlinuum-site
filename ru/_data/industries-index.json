@@ -10,7 +10,7 @@
       "icon": "automotive",
       "scope_count": 27,
       "service_count": 8,
-      "expert_count": 8,
+      "expert_count": 9,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -61,7 +61,8 @@
           "dima-gerko",
           "can-erim",
           "md-solayman-rumon",
-          "moataz-yacoubian"
+          "moataz-yacoubian",
+          "syed-rafey"
         ],
         "cases": [
           "alvadi"
@@ -279,7 +280,7 @@
       "icon": "ecommerce",
       "scope_count": 34,
       "service_count": 18,
-      "expert_count": 15,
+      "expert_count": 16,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -345,7 +346,8 @@
           "lalit-kumar",
           "mariia-nedbaievska",
           "md-solayman-rumon",
-          "ndeye-binta-diouf"
+          "ndeye-binta-diouf",
+          "syed-rafey"
         ],
         "cases": [
           "alvadi"
@@ -484,7 +486,7 @@
       "icon": "fintech",
       "scope_count": 28,
       "service_count": 12,
-      "expert_count": 10,
+      "expert_count": 11,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -539,7 +541,8 @@
           "gael-balouek",
           "mariia-nedbaievska",
           "mohamed-isse",
-          "rita-pavide"
+          "rita-pavide",
+          "syed-rafey"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -762,7 +765,7 @@
       "icon": "gaming",
       "scope_count": 14,
       "service_count": 13,
-      "expert_count": 4,
+      "expert_count": 5,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -797,7 +800,8 @@
           "muhammad-hijazi-siddiqui",
           "mariia-nedbaievska",
           "dima-gerko",
-          "brankica-petrasinovic"
+          "brankica-petrasinovic",
+          "syed-rafey"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -867,7 +871,7 @@
       "icon": "healthcare",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 10,
+      "expert_count": 11,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -917,6 +921,7 @@
           "can-erim",
           "lalit-kumar",
           "moataz-yacoubian",
+          "syed-rafey",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -1021,7 +1026,7 @@
       "icon": "hospitality",
       "scope_count": 22,
       "service_count": 11,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 0,
       "solution_count": 8,
       "facets": {
@@ -1069,7 +1074,8 @@
           "aina-rakotondrabe",
           "can-erim",
           "md-solayman-rumon",
-          "moataz-yacoubian"
+          "moataz-yacoubian",
+          "syed-rafey"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1143,7 +1149,7 @@
       "icon": "legal",
       "scope_count": 18,
       "service_count": 8,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1184,7 +1190,8 @@
           "vitali-bakun",
           "dima-gerko",
           "lalit-kumar",
-          "rita-pavide"
+          "rita-pavide",
+          "syed-rafey"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1287,7 +1294,7 @@
       "icon": "manufacturing",
       "scope_count": 18,
       "service_count": 7,
-      "expert_count": 7,
+      "expert_count": 8,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1328,7 +1335,8 @@
           "vitali-bakun",
           "dima-gerko",
           "can-erim",
-          "ismail-aydogdu"
+          "ismail-aydogdu",
+          "syed-rafey"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1539,7 +1547,7 @@
       "icon": "shopping-bag",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 10,
+      "expert_count": 11,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1589,7 +1597,8 @@
           "can-erim",
           "ismail-aydogdu",
           "ndeye-binta-diouf",
-          "robmar-macallums"
+          "robmar-macallums",
+          "syed-rafey"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1673,7 +1682,7 @@
       "icon": "monitor",
       "scope_count": 33,
       "service_count": 17,
-      "expert_count": 10,
+      "expert_count": 11,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -1733,7 +1742,8 @@
           "can-erim",
           "gael-balouek",
           "mariia-nedbaievska",
-          "mohamed-isse"
+          "mohamed-isse",
+          "syed-rafey"
         ],
         "cases": [
           "bamboo-ppc-landing-pages"
@@ -1920,6 +1930,7 @@
       "can-erim": "Джан Эрим",
       "md-solayman-rumon": "Мд Солайман Румон",
       "moataz-yacoubian": "Моатаз Якубян",
+      "syed-rafey": "Сайед Рафи",
       "rita-pavide": "Рита Павиде",
       "aina-rakotondrabe": "Аина Ракотондрабе",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",

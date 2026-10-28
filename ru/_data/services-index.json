@@ -8,7 +8,7 @@
       "menu": "AEO",
       "featured": true,
       "scope_count": 5,
-      "expert_count": 8,
+      "expert_count": 9,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 7,
@@ -40,7 +40,8 @@
           "alaaddin-saracyakupoglu",
           "gael-balouek",
           "moataz-yacoubian",
-          "mohamed-isse"
+          "mohamed-isse",
+          "syed-rafey"
         ],
         "solutions": [
           "ai-visibility",
@@ -197,7 +198,7 @@
       "menu": "Аналитика и данные",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 12,
+      "expert_count": 13,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 7,
@@ -228,7 +229,8 @@
           "lalit-kumar",
           "md-solayman-rumon",
           "muhammad-hijazi-siddiqui",
-          "ndeye-binta-diouf"
+          "ndeye-binta-diouf",
+          "syed-rafey"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -790,7 +792,7 @@
       "menu": "Контент-маркетинг",
       "featured": false,
       "scope_count": 8,
-      "expert_count": 10,
+      "expert_count": 11,
       "starting_price": 600.0,
       "from_price": 600.0,
       "industry_count": 7,
@@ -831,7 +833,8 @@
           "moataz-yacoubian",
           "muhammad-hijazi-siddiqui",
           "rita-pavide",
-          "robmar-macallums"
+          "robmar-macallums",
+          "syed-rafey"
         ],
         "solutions": [
           "ai-visibility",
@@ -1737,7 +1740,7 @@
       "menu": "SEO",
       "featured": true,
       "scope_count": 12,
-      "expert_count": 13,
+      "expert_count": 14,
       "starting_price": 1990.0,
       "from_price": 1990.0,
       "industry_count": 7,
@@ -1779,6 +1782,7 @@
           "mohamed-isse",
           "ndeye-binta-diouf",
           "rita-pavide",
+          "syed-rafey",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -2261,6 +2265,7 @@
       "gael-balouek": "Гаэль Балуэк",
       "moataz-yacoubian": "Моатаз Якубян",
       "mohamed-isse": "Мохамед Иссе",
+      "syed-rafey": "Сайед Рафи",
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "ismail-aydogdu": "Исмаил Айдогду",
