@@ -1251,7 +1251,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 7,
+      "expert_count": 8,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1269,6 +1269,7 @@
           "moataz-yacoubian",
           "ismail-aydogdu",
           "md-solayman-rumon",
+          "netanel-kugler",
           "aldillah-melisa-febryana"
         ],
         "cases": [
@@ -1453,7 +1454,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 6,
+      "expert_count": 7,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -1470,6 +1471,7 @@
           "can-erim",
           "ismail-aydogdu",
           "md-solayman-rumon",
+          "netanel-kugler",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -2259,7 +2261,7 @@
       "featured": false,
       "from_price": 300,
       "delivery": "monthly",
-      "expert_count": 2,
+      "expert_count": 3,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -2270,7 +2272,8 @@
         ],
         "experts": [
           "elena-grakovich",
-          "vitali-bakun"
+          "vitali-bakun",
+          "netanel-kugler"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -3286,6 +3289,7 @@
       "can-erim": "Джан Эрим",
       "ismail-aydogdu": "Исмаил Айдогду",
       "md-solayman-rumon": "Мд Солайман Румон",
+      "netanel-kugler": "Нетанель Куглер",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "lalit-kumar": "Лалит Кумар"
     },

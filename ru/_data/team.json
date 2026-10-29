@@ -1164,7 +1164,7 @@
       "title": "Лиза Чернова",
       "description": "Графический дизайнер в маркетинге для ритейла, e-commerce и соцсетей: визуалы кампаний, промо-постеры, баннеры и креативы под каждую платформу на русском и английском, от брифа до готовых макетов.",
       "role": "Графический дизайнер в маркетинге",
-      "avatar": "_media/illustrations/user-plus.svg",
+      "avatar": "_media/images/team/Lisa-Chernova.jpg",
       "experience_value": "3+",
       "projects": null,
       "featured": false,
@@ -1626,6 +1626,64 @@
         "positions": [
           "ppc-specialist",
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "netanel-kugler",
+      "url": "/team/netanel-kugler",
+      "title": "Нетанель Куглер",
+      "description": "Google Ads (Search, Shopping, Performance Max) и Meta Ads для e-commerce и лидогенерации в Израиле, Европе и США: структура аккаунтов, ставки и бюджеты под цели по CPA и ROAS, отслеживание в GA4 и GTM и отчётность в Looker Studio.",
+      "role": "PPC и performance-маркетинг менеджер",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "hebrew"
+      ],
+      "countries": [
+        "eu",
+        "israel",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
         ]
       }
     },

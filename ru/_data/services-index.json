@@ -1373,7 +1373,7 @@
       "menu": "Таргетированная реклама",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 7,
+      "expert_count": 8,
       "starting_price": 300.0,
       "from_price": 300.0,
       "industry_count": 3,
@@ -1397,7 +1397,8 @@
           "can-erim",
           "ismail-aydogdu",
           "md-solayman-rumon",
-          "muhammad-hijazi-siddiqui"
+          "muhammad-hijazi-siddiqui",
+          "netanel-kugler"
         ],
         "industries": [
           "saas",
@@ -1495,7 +1496,7 @@
       "menu": "Контекстная реклама",
       "featured": true,
       "scope_count": 9,
-      "expert_count": 9,
+      "expert_count": 10,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 6,
@@ -1530,7 +1531,8 @@
           "ismail-aydogdu",
           "md-solayman-rumon",
           "moataz-yacoubian",
-          "ndeye-binta-diouf"
+          "ndeye-binta-diouf",
+          "netanel-kugler"
         ],
         "cases": [
           "alvadi",
@@ -2282,6 +2284,7 @@
       "robmar-macallums": "Робмар Макаллумс",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "can-erim": "Джан Эрим",
+      "netanel-kugler": "Нетанель Куглер",
       "valentina-soldatkina": "Валентина Солдаткина"
     },
     "solutions": {

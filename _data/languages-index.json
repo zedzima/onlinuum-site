@@ -628,7 +628,7 @@
       "official_countries_count": 69,
       "scope_count": 35,
       "service_count": 19,
-      "expert_count": 24,
+      "expert_count": 25,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -701,6 +701,7 @@
           "mohamed-isse",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf",
+          "netanel-kugler",
           "rita-pavide",
           "robmar-macallums",
           "syed-rafey",
@@ -1422,10 +1423,13 @@
       "official_countries_count": 1,
       "scope_count": 0,
       "service_count": 0,
-      "expert_count": 0,
+      "expert_count": 1,
       "case_count": 0,
       "solution_count": 0,
       "facets": {
+        "experts": [
+          "netanel-kugler"
+        ],
         "countries": [
           "israel"
         ],
@@ -3325,6 +3329,7 @@
       "mohamed-isse": "Mohamed Isse",
       "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
       "ndeye-binta-diouf": "Ndèye Binta Diouf",
+      "netanel-kugler": "Netanel Kugler",
       "rita-pavide": "Rita Pavide",
       "robmar-macallums": "Robmar Macallums",
       "syed-rafey": "Syed Rafey",

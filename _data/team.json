@@ -1184,7 +1184,7 @@
       "title": "Lisa Chernova",
       "description": "Marketing graphic designer for retail, e-commerce and social media: campaign visuals, promotional posters, banners and platform-specific social media creatives in Russian and English, from brief to final assets.",
       "role": "Graphic Designer in Marketing",
-      "avatar": "_media/illustrations/user-plus.svg",
+      "avatar": "_media/images/team/Lisa-Chernova.jpg",
       "experience_value": "3+",
       "projects": null,
       "featured": false,
@@ -1646,6 +1646,66 @@
         "positions": [
           "ppc-specialist",
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "netanel-kugler",
+      "url": "/team/netanel-kugler",
+      "title": "Netanel Kugler",
+      "description": "Google Ads (Search, Shopping, Performance Max) and Meta Ads for e-commerce and lead generation in Israel, Europe and the US: account structure, bidding and budgets against CPA and ROAS targets, with GA4 and GTM tracking and Looker Studio reporting.",
+      "role": "PPC & Performance Marketing Manager",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "hebrew"
+      ],
+      "countries": [
+        "eu",
+        "israel",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "israel",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "hebrew"
+        ],
+        "positions": [
+          "ppc-specialist"
         ]
       }
     },
@@ -2174,6 +2234,7 @@
       "swedish": "Swedish",
       "arabic": "Arabic",
       "urdu": "Urdu",
+      "hebrew": "Hebrew",
       "latvian": "Latvian"
     },
     "positions": {
