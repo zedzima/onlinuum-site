@@ -9,7 +9,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 8,
+      "expert_count": 9,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -29,6 +29,7 @@
           "aina-rakotondrabe",
           "mohamed-isse",
           "syed-rafey",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -1108,7 +1109,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 4,
+      "expert_count": 5,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1123,6 +1124,7 @@
           "dima-gerko",
           "dmitriy-razakhatsky",
           "gael-balouek",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu",
           "elena-grakovich",
           "valentina-soldatkina"
@@ -1528,7 +1530,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "one-time",
-      "expert_count": 6,
+      "expert_count": 7,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1547,6 +1549,7 @@
           "moataz-yacoubian",
           "lalit-kumar",
           "syed-rafey",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
         ],
@@ -1914,7 +1917,7 @@
       "featured": true,
       "from_price": 250,
       "delivery": "one-time",
-      "expert_count": 10,
+      "expert_count": 11,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -1938,6 +1941,7 @@
           "ndeye-binta-diouf",
           "aina-rakotondrabe",
           "syed-rafey",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu",
           "rita-pavide"
         ],
@@ -2339,7 +2343,7 @@
       "featured": true,
       "from_price": 1190,
       "delivery": "one-time",
-      "expert_count": 7,
+      "expert_count": 8,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2356,7 +2360,8 @@
           "gael-balouek",
           "moataz-yacoubian",
           "lalit-kumar",
-          "syed-rafey"
+          "syed-rafey",
+          "tri-huy-do"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -2428,7 +2433,7 @@
       "featured": true,
       "from_price": 300,
       "delivery": "one-time",
-      "expert_count": 10,
+      "expert_count": 11,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2453,6 +2458,7 @@
           "aina-rakotondrabe",
           "mohamed-isse",
           "syed-rafey",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
         ],
@@ -2585,7 +2591,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 8,
+      "expert_count": 9,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2604,6 +2610,7 @@
           "ndeye-binta-diouf",
           "mohamed-isse",
           "syed-rafey",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -3276,6 +3283,7 @@
       "aina-rakotondrabe": "Аина Ракотондрабе",
       "mohamed-isse": "Мохамед Иссе",
       "syed-rafey": "Сайед Рафи",
+      "tri-huy-do": "Чи-Хюи До",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "mariia-nedbaievska": "Мария Недбаевская",
       "muhammad-hijazi-siddiqui": "Мухаммад Хиджази Сиддики",

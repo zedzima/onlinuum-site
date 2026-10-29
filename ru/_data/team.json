@@ -1635,7 +1635,7 @@
       "title": "Нетанель Куглер",
       "description": "Google Ads (Search, Shopping, Performance Max) и Meta Ads для e-commerce и лидогенерации в Израиле, Европе и США: структура аккаунтов, ставки и бюджеты под цели по CPA и ROAS, отслеживание в GA4 и GTM и отчётность в Looker Studio.",
       "role": "PPC и performance-маркетинг менеджер",
-      "avatar": "_media/illustrations/user-plus.svg",
+      "avatar": "_media/images/team/Netanel-Kugler.jpg",
       "experience_value": "5+",
       "projects": null,
       "featured": false,
@@ -1876,6 +1876,77 @@
           "usa"
         ],
         "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "tri-huy-do",
+      "url": "/team/tri-huy-do",
+      "title": "Чи-Хюи До",
+      "description": "Практическое SEO для рынков Нидерландов, Великобритании и США: подбор ключевых слов и поиск возможностей, посадочные страницы под поисковое намерение, линкбилдинг и международное SEO, которые превращают упущенные конкурентами запросы в позиции и качественный трафик.",
+      "role": "SEO-специалист",
+      "avatar": "_media/images/team/Tri-Huy-Do.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "dutch",
+        "english"
+      ],
+      "countries": [
+        "belgium",
+        "netherlands",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "pharma",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "belgium",
+          "netherlands",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "dutch",
           "english"
         ],
         "positions": [

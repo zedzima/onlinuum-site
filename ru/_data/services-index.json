@@ -8,7 +8,7 @@
       "menu": "AEO",
       "featured": true,
       "scope_count": 5,
-      "expert_count": 9,
+      "expert_count": 10,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 7,
@@ -41,7 +41,8 @@
           "gael-balouek",
           "moataz-yacoubian",
           "mohamed-isse",
-          "syed-rafey"
+          "syed-rafey",
+          "tri-huy-do"
         ],
         "solutions": [
           "ai-visibility",
@@ -198,7 +199,7 @@
       "menu": "Аналитика и данные",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 13,
+      "expert_count": 14,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 7,
@@ -230,7 +231,8 @@
           "md-solayman-rumon",
           "muhammad-hijazi-siddiqui",
           "ndeye-binta-diouf",
-          "syed-rafey"
+          "syed-rafey",
+          "tri-huy-do"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -1743,7 +1745,7 @@
       "menu": "SEO",
       "featured": true,
       "scope_count": 12,
-      "expert_count": 14,
+      "expert_count": 15,
       "starting_price": 1990.0,
       "from_price": 1990.0,
       "industry_count": 7,
@@ -1786,6 +1788,7 @@
           "ndeye-binta-diouf",
           "rita-pavide",
           "syed-rafey",
+          "tri-huy-do",
           "valentina-soldatkina"
         ],
         "solutions": [
@@ -2270,6 +2273,7 @@
       "moataz-yacoubian": "Моатаз Якубян",
       "mohamed-isse": "Мохамед Иссе",
       "syed-rafey": "Сайед Рафи",
+      "tri-huy-do": "Чи-Хюи До",
       "elena-grakovich": "Елена Гракович",
       "vitali-bakun": "Виталий Бакун",
       "ismail-aydogdu": "Исмаил Айдогду",
