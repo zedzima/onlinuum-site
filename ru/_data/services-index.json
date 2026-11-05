@@ -689,7 +689,7 @@
       "menu": "Автоматизация маркетинга",
       "featured": false,
       "scope_count": 0,
-      "expert_count": 2,
+      "expert_count": 3,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 2,
@@ -706,7 +706,8 @@
         ],
         "experts": [
           "dima-gerko",
-          "elena-grakovich"
+          "elena-grakovich",
+          "vyacheslav-maletskiy"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -956,7 +957,7 @@
       "menu": "CRO",
       "featured": false,
       "scope_count": 1,
-      "expert_count": 5,
+      "expert_count": 6,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 2,
@@ -983,7 +984,8 @@
           "brankica-petrasinovic",
           "gael-balouek",
           "md-solayman-rumon",
-          "muhammad-hijazi-siddiqui"
+          "muhammad-hijazi-siddiqui",
+          "vyacheslav-maletskiy"
         ],
         "solutions": [
           "seo-ecommerce"
@@ -2087,7 +2089,7 @@
       "menu": "Разработка сайтов",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 3,
+      "expert_count": 4,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 7,
@@ -2109,7 +2111,8 @@
         "experts": [
           "dima-gerko",
           "dmitriy-razakhatsky",
-          "moataz-yacoubian"
+          "moataz-yacoubian",
+          "vyacheslav-maletskiy"
         ],
         "cases": [
           "bamboo-ppc-landing-pages"
@@ -2283,6 +2286,7 @@
       "ndeye-binta-diouf": "Ндейе Бинта Диуф",
       "mariia-nedbaievska": "Мария Недбаевская",
       "brankica-petrasinovic": "Бранкица Петрашинович",
+      "vyacheslav-maletskiy": "Вячеслав Малецкий",
       "lisa-chernova": "Лиза Чернова",
       "rita-pavide": "Рита Павиде",
       "robmar-macallums": "Робмар Макаллумс",

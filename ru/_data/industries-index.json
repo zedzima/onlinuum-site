@@ -172,7 +172,7 @@
       "icon": "crypto",
       "scope_count": 20,
       "service_count": 15,
-      "expert_count": 4,
+      "expert_count": 5,
       "case_count": 0,
       "solution_count": 9,
       "facets": {
@@ -213,7 +213,8 @@
           "rita-pavide",
           "elena-grakovich",
           "dmitriy-razakhatsky",
-          "lisa-chernova"
+          "lisa-chernova",
+          "vyacheslav-maletskiy"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -490,7 +491,7 @@
       "icon": "fintech",
       "scope_count": 28,
       "service_count": 12,
-      "expert_count": 11,
+      "expert_count": 12,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -546,7 +547,8 @@
           "mariia-nedbaievska",
           "mohamed-isse",
           "rita-pavide",
-          "syed-rafey"
+          "syed-rafey",
+          "vyacheslav-maletskiy"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -875,7 +877,7 @@
       "icon": "healthcare",
       "scope_count": 23,
       "service_count": 11,
-      "expert_count": 11,
+      "expert_count": 12,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -926,7 +928,8 @@
           "lalit-kumar",
           "moataz-yacoubian",
           "syed-rafey",
-          "valentina-soldatkina"
+          "valentina-soldatkina",
+          "vyacheslav-maletskiy"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1690,7 +1693,7 @@
       "icon": "monitor",
       "scope_count": 33,
       "service_count": 17,
-      "expert_count": 11,
+      "expert_count": 12,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -1751,7 +1754,8 @@
           "gael-balouek",
           "mariia-nedbaievska",
           "mohamed-isse",
-          "syed-rafey"
+          "syed-rafey",
+          "vyacheslav-maletskiy"
         ],
         "cases": [
           "bamboo-ppc-landing-pages"
@@ -1941,6 +1945,7 @@
       "syed-rafey": "Сайед Рафи",
       "rita-pavide": "Рита Павиде",
       "lisa-chernova": "Лиза Чернова",
+      "vyacheslav-maletskiy": "Вячеслав Малецкий",
       "aina-rakotondrabe": "Аина Ракотондрабе",
       "alaaddin-saracyakupoglu": "Алааддин Сараджякупоглу",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",

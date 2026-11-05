@@ -2170,6 +2170,69 @@
           "swedish"
         ]
       }
+    },
+    {
+      "slug": "vyacheslav-maletskiy",
+      "url": "/team/vyacheslav-maletskiy",
+      "title": "Vyacheslav Maletskiy",
+      "description": "UI/UX designer and AI-native developer for fintech, crypto and SaaS: research, web and product design, production builds and AI automation.",
+      "role": "UI/UX Designer & AI-Native Developer",
+      "avatar": "_media/images/team/Vyacheslav-Maletskiy.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "cyprus",
+        "ireland",
+        "portugal",
+        "singapore",
+        "usa"
+      ],
+      "industries": [
+        "crypto",
+        "fintech",
+        "healthcare",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "marketing-operations",
+          "product-marketing",
+          "web-marketing"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "automation",
+          "cro",
+          "web-development"
+        ],
+        "industries": [
+          "crypto",
+          "fintech",
+          "healthcare",
+          "saas"
+        ],
+        "countries": [
+          "cyprus",
+          "ireland",
+          "portugal",
+          "singapore",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ]
+      }
     }
   ],
   "labels": {
@@ -2286,7 +2349,8 @@
       "switzerland": "Switzerland",
       "taiwan": "Taiwan",
       "ukraine": "Ukraine",
-      "uae": "UAE"
+      "uae": "UAE",
+      "cyprus": "Cyprus"
     },
     "languages": {
       "english": "English",

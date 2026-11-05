@@ -2143,6 +2143,69 @@
           "swedish"
         ]
       }
+    },
+    {
+      "slug": "vyacheslav-maletskiy",
+      "url": "/team/vyacheslav-maletskiy",
+      "title": "Вячеслав Малецкий",
+      "description": "UI/UX-дизайнер и AI-native разработчик для финтеха, криптовалют и SaaS: исследования, веб- и продуктовый дизайн, продакшн-разработка и AI-автоматизация.",
+      "role": "UI/UX-дизайнер и AI-native разработчик",
+      "avatar": "_media/images/team/Vyacheslav-Maletskiy.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "cyprus",
+        "ireland",
+        "portugal",
+        "singapore",
+        "usa"
+      ],
+      "industries": [
+        "crypto",
+        "fintech",
+        "healthcare",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "marketing-operations",
+          "product-marketing",
+          "web-marketing"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "automation",
+          "cro",
+          "web-development"
+        ],
+        "industries": [
+          "crypto",
+          "fintech",
+          "healthcare",
+          "saas"
+        ],
+        "countries": [
+          "cyprus",
+          "ireland",
+          "portugal",
+          "singapore",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ]
+      }
     }
   ],
   "labels": {
@@ -2254,7 +2317,8 @@
       "spain": "Испания",
       "sweden": "Швеция",
       "switzerland": "Швейцария",
-      "uae": "ОАЭ"
+      "uae": "ОАЭ",
+      "cyprus": "Кипр"
     },
     "languages": {
       "english": "Английский",
