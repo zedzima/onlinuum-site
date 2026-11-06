@@ -304,7 +304,8 @@
           "seo-expert",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -476,7 +477,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -654,7 +656,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -993,7 +996,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -1479,7 +1483,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -1815,6 +1820,7 @@
       "business-development-manager": "Менеджер по развитию бизнеса",
       "marketing-consultant": "Консультант по маркетингу",
       "ppc-specialist": "PPC-специалист",
+      "social-media-manager": "SMM-менеджер",
       "aso-specialist": "ASO-специалист"
     },
     "cases": {

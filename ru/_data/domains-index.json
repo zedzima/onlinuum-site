@@ -274,7 +274,8 @@
           "turkish"
         ],
         "positions": [
-          "business-development-manager"
+          "business-development-manager",
+          "social-media-manager"
         ]
       }
     },
@@ -411,6 +412,9 @@
           "romanian",
           "slovak",
           "swedish"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -827,7 +831,8 @@
         ],
         "positions": [
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -1528,6 +1533,7 @@
     "positions": {
       "aso-specialist": "ASO-специалист",
       "business-development-manager": "Менеджер по развитию бизнеса",
+      "social-media-manager": "SMM-менеджер",
       "marketing-consultant": "Консультант по маркетингу",
       "ppc-specialist": "PPC-специалист",
       "seo-expert": "SEO-специалист"

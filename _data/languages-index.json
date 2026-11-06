@@ -816,7 +816,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -1305,7 +1306,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -2229,7 +2231,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -2563,7 +2566,8 @@
         ],
         "positions": [
           "seo-expert",
-          "aso-specialist"
+          "aso-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -2877,7 +2881,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -3157,7 +3162,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -3185,7 +3191,8 @@
           "slovakia"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "social-media-manager"
         ]
       }
     },
@@ -3445,7 +3452,8 @@
       "business-development-manager": "Business Development Manager",
       "marketing-consultant": "Marketing Consultant",
       "aso-specialist": "ASO Specialist",
-      "ppc-specialist": "PPC Specialist"
+      "ppc-specialist": "PPC Specialist",
+      "social-media-manager": "Social Media Manager"
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",

@@ -273,7 +273,8 @@
           "turkish"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "social-media-manager"
         ]
       }
     },
@@ -487,7 +488,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -676,7 +678,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -878,7 +881,8 @@
         ],
         "positions": [
           "aso-specialist",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -1163,7 +1167,8 @@
         "positions": [
           "seo-expert",
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -1709,7 +1714,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -1914,7 +1920,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -2127,6 +2134,7 @@
       "seo-expert": "SEO Expert",
       "marketing-consultant": "Marketing Consultant",
       "ppc-specialist": "PPC Specialist",
+      "social-media-manager": "Social Media Manager",
       "aso-specialist": "ASO Specialist",
       "business-development-manager": "Business Development Manager"
     }

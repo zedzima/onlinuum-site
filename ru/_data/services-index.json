@@ -945,7 +945,8 @@
         ],
         "positions": [
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -1488,7 +1489,8 @@
         ],
         "positions": [
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -2018,6 +2020,9 @@
           "slovenian",
           "swedish",
           "thai"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -2409,6 +2414,7 @@
       "aso-specialist": "ASO-специалист",
       "business-development-manager": "Менеджер по развитию бизнеса",
       "marketing-consultant": "Консультант по маркетингу",
+      "social-media-manager": "SMM-менеджер",
       "ppc-specialist": "PPC-специалист",
       "seo-expert": "SEO-специалист"
     },

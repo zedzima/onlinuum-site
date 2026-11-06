@@ -12,9 +12,9 @@
       "image": "/_media/logos/alvadi.svg",
       "image_mode": "logo",
       "service": "ppc",
-      "industry": "ecommerce",
+      "industry": "automotive",
       "country": "eu",
-      "language": "",
+      "language": "estonian",
       "results": [
         {
           "value": "2.4x",
@@ -39,6 +39,7 @@
       },
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing"
         ],
         "scopes": [
@@ -52,10 +53,17 @@
           "ppc"
         ],
         "industries": [
+          "automotive",
           "ecommerce"
         ],
         "countries": [
-          "eu"
+          "eu",
+          "estonia",
+          "latvia"
+        ],
+        "languages": [
+          "estonian",
+          "latvian"
         ]
       }
     },
@@ -97,14 +105,20 @@
         "label": "До перших конверсій"
       },
       "facets": {
+        "domains": [
+          "performance-marketing",
+          "web-marketing"
+        ],
         "scopes": [
           "google-ads-search"
         ],
         "experts": [
-          "vitali-bakun"
+          "vitali-bakun",
+          "elena-grakovich"
         ],
         "services": [
-          "ppc"
+          "ppc",
+          "web-development"
         ],
         "industries": [
           "saas"
@@ -120,26 +134,35 @@
   ],
   "labels": {
     "domains": {
-      "search-marketing": "Пошуковий маркетинг"
+      "performance-marketing": "Performance-маркетинг",
+      "search-marketing": "Пошуковий маркетинг",
+      "web-marketing": "Вебмаркетинг"
     },
     "scopes": {
       "google-ads-search": "Пошук у Google Ads"
     },
     "experts": {
       "dima-gerko": "Діма Герко",
-      "vitali-bakun": "Віталій Бакун"
+      "vitali-bakun": "Віталій Бакун",
+      "elena-grakovich": "Олена Гракович"
     },
     "services": {
-      "ppc": "PPC"
+      "ppc": "PPC",
+      "web-development": "Розробка сайтів"
     },
     "industries": {
+      "automotive": "Автомобільна галузь",
       "ecommerce": "Інтернет-магазини",
       "saas": "SaaS"
     },
     "countries": {
-      "eu": "Європейський Союз"
+      "eu": "Європейський Союз",
+      "estonia": "Естонія",
+      "latvia": "Латвія"
     },
     "languages": {
+      "estonian": "Естонська",
+      "latvian": "Латиська",
       "english": "Англійська"
     }
   }

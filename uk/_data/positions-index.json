@@ -7,7 +7,7 @@
       "description": "Віддалена вакансія ASO спеціаліста: оптимізація сторінок у магазинах додатків, 40 % від виручки, робота кількома мовами. Подавайтеся сьогодні.",
       "menu": "ASO спеціаліст",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 3,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -52,19 +52,46 @@
           "aso-optimization",
           "aso-localization"
         ],
+        "experts": [
+          "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
+          "brankica-petrasinovic"
+        ],
         "solutions": [
           "digital-marketing-consulting"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention"
         ],
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "healthcare",
+          "game-studios"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "india"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "urdu"
         ]
       },
       "services": [
@@ -142,6 +169,10 @@
         "education_requirements": "без вимог"
       },
       "facets": {
+        "domains": [
+          "growth-marketing",
+          "brand-marketing"
+        ],
         "solutions": [
           "digital-marketing-consulting"
         ],
@@ -149,15 +180,33 @@
           "seo",
           "ppc",
           "aso",
-          "content"
+          "content",
+          "paid-social",
+          "web-development"
         ],
         "industries": [
           "saas",
           "ecommerce",
           "fintech"
         ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "uae"
+        ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "arabic"
         ]
       },
       "services": [
@@ -196,7 +245,7 @@
       "description": "Віддалена робота консультантом з маркетингу в Onlinuum: власний ринок у мережі з 48 країн і 40 % від виручки. Подавайтеся сьогодні.",
       "menu": "Консультант з маркетингу",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -235,13 +284,19 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "growth-marketing",
+          "search-marketing",
+          "performance-marketing",
+          "web-marketing"
         ],
         "scopes": [
           "seo-research",
           "content-strategy",
           "aso-localization",
           "telegram-ads"
+        ],
+        "experts": [
+          "moataz-yacoubian"
         ],
         "solutions": [
           "digital-marketing-consulting",
@@ -251,14 +306,42 @@
           "seo",
           "ppc",
           "aso",
-          "content"
+          "content",
+          "paid-social"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive"
+        ],
+        "countries": [
+          "germany",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "poland",
+          "sweden",
+          "turkey",
+          "brazil",
+          "mexico",
+          "japan",
+          "uae"
         ],
         "languages": [
+          "german",
+          "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "polish",
+          "swedish",
+          "turkish",
+          "portuguese",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -315,7 +398,7 @@
       "description": "Віддалені PPC вакансії в Onlinuum: пошукова реклама, Shopping і YouTube Ads на 6 пріоритетних ринках, 40 % від виручки. Подавайтеся сьогодні.",
       "menu": "PPC спеціаліст",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 6,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -353,12 +436,21 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
           "google-ads-search",
           "telegram-ads"
+        ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "ndeye-binta-diouf",
+          "can-erim",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "netanel-kugler"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -369,10 +461,31 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "game-studios",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "india",
+          "indonesia",
+          "malaysia",
+          "singapore",
+          "thailand",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "indonesian"
         ]
       },
       "services": [
@@ -409,7 +522,7 @@
       "description": "Віддалені SEO вакансії в Onlinuum: ведіть технічні аудити та on-page на реальних проєктах і отримуйте 40 % від виручки. Подавайтеся сьогодні.",
       "menu": "SEO спеціаліст",
       "featured": false,
-      "expert_count": 1,
+      "expert_count": 11,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -447,7 +560,8 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "web-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -455,7 +569,17 @@
           "content-strategy"
         ],
         "experts": [
-          "alaaddin-saracyakupoglu"
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
+          "aina-rakotondrabe",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do"
         ],
         "solutions": [
           "multilingual-seo",
@@ -467,14 +591,95 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "healthcare",
+          "fintech",
+          "automotive",
+          "crypto",
+          "fmcg"
         ],
         "countries": [
+          "germany",
+          "austria",
+          "uk",
+          "france",
+          "usa",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
           "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
           "ukraine"
         ],
         "languages": [
           "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "chinese",
+          "japanese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hebrew",
+          "hindi",
+          "hungarian",
+          "italian",
+          "korean",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
           "ukrainian"
         ],
         "blog-posts": [
@@ -520,7 +725,11 @@
   "labels": {
     "domains": {
       "app-marketing": "Маркетинг додатків",
-      "search-marketing": "Пошуковий маркетинг"
+      "search-marketing": "Пошуковий маркетинг",
+      "growth-marketing": "Growth-маркетинг",
+      "brand-marketing": "Бренд-маркетинг",
+      "performance-marketing": "Performance-маркетинг",
+      "web-marketing": "Вебмаркетинг"
     },
     "scopes": {
       "aso-optimization": "ASO-оптимізація",
@@ -532,31 +741,137 @@
       "google-ads-search": "Пошук у Google Ads",
       "technical-seo": "Технічне SEO"
     },
+    "experts": {
+      "mariia-nedbaievska": "Марія Недбаєвська",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хіджазі Сіддікі",
+      "brankica-petrasinovic": "Бранкіца Петрашинович",
+      "moataz-yacoubian": "Моатаз Якубян",
+      "aldillah-melisa-febryana": "Алділла Меліса Фебріана",
+      "ndeye-binta-diouf": "Ндейє Бінта Діуф",
+      "can-erim": "Джан Ерім",
+      "ismail-aydogdu": "Ісмаїл Айдогду",
+      "md-solayman-rumon": "Мд Солайман Румон",
+      "netanel-kugler": "Нетанель Куглер",
+      "dmitriy-razakhatsky": "Дмитро Разахацький",
+      "gael-balouek": "Гаель Балуек",
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу",
+      "valentina-soldatkina": "Валентина Солдаткіна",
+      "lalit-kumar": "Лаліт Кумар",
+      "aina-rakotondrabe": "Аїна Ракотондрабе",
+      "mohamed-isse": "Мохамед Іссе",
+      "syed-rafey": "Сайєд Рафі",
+      "tri-huy-do": "Чі-Хюї До"
+    },
     "solutions": {
       "digital-marketing-consulting": "Маркетинговий консалтинг",
       "multilingual-seo": "Багатомовне SEO"
     },
     "services": {
       "aso": "ASO",
+      "app-user-acquisition": "Залучення користувачів у додатки",
+      "app-conversion-retention": "Конверсія та утримання в додатках",
       "seo": "SEO",
       "ppc": "PPC",
-      "content": "Контент-маркетинг"
+      "content": "Контент-маркетинг",
+      "paid-social": "Реклама в соцмережах",
+      "web-development": "Розробка сайтів"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "Фінтех",
-      "ecommerce": "Інтернет-магазини"
+      "ecommerce": "Інтернет-магазини",
+      "healthcare": "Медицина",
+      "game-studios": "Ігрові студії",
+      "automotive": "Автомобільна галузь",
+      "fmcg": "FMCG",
+      "crypto": "Крипто"
+    },
+    "countries": {
+      "germany": "Німеччина",
+      "usa": "США",
+      "uk": "Велика Британія",
+      "france": "Франція",
+      "austria": "Австрія",
+      "poland": "Польща",
+      "portugal": "Португалія",
+      "spain": "Іспанія",
+      "india": "Індія",
+      "italy": "Італія",
+      "netherlands": "Нідерланди",
+      "uae": "ОАЕ",
+      "sweden": "Швеція",
+      "turkey": "Туреччина",
+      "brazil": "Бразилія",
+      "mexico": "Мексика",
+      "japan": "Японія",
+      "indonesia": "Індонезія",
+      "malaysia": "Малайзія",
+      "singapore": "Сінгапур",
+      "thailand": "Таїланд",
+      "australia": "Австралія",
+      "belgium": "Бельгія",
+      "bulgaria": "Болгарія",
+      "canada": "Канада",
+      "china": "Китай",
+      "croatia": "Хорватія",
+      "cyprus": "Кіпр",
+      "czechia": "Чехія",
+      "denmark": "Данія",
+      "estonia": "Естонія",
+      "eu": "Європейський Союз",
+      "finland": "Фінляндія",
+      "greece": "Греція",
+      "hungary": "Угорщина",
+      "ireland": "Ірландія",
+      "israel": "Ізраїль",
+      "latvia": "Латвія",
+      "lithuania": "Литва",
+      "luxembourg": "Люксембург",
+      "malta": "Мальта",
+      "new-zealand": "Нова Зеландія",
+      "romania": "Румунія",
+      "slovakia": "Словаччина",
+      "slovenia": "Словенія",
+      "south-korea": "Південна Корея",
+      "switzerland": "Швейцарія",
+      "taiwan": "Тайвань",
+      "ukraine": "Україна"
     },
     "languages": {
       "english": "Англійська",
+      "german": "Німецька",
+      "french": "Французька",
+      "russian": "Російська",
+      "spanish": "Іспанська",
+      "polish": "Польська",
+      "portuguese": "Португальська",
+      "urdu": "Урду",
+      "italian": "Італійська",
+      "dutch": "Нідерландська",
+      "arabic": "Арабська",
+      "swedish": "Шведська",
+      "turkish": "Турецька",
+      "japanese": "Японська",
+      "indonesian": "Індонезійська",
+      "chinese": "Китайська",
+      "bulgarian": "Болгарська",
+      "croatian": "Хорватська",
+      "czech": "Чеська",
+      "danish": "Данська",
+      "estonian": "Естонська",
+      "finnish": "Фінська",
+      "greek": "Грецька",
+      "hebrew": "Іврит",
+      "hindi": "Гінді",
+      "hungarian": "Угорська",
+      "korean": "Корейська",
+      "lithuanian": "Литовська",
+      "malay": "Малайська",
+      "romanian": "Румунська",
+      "slovak": "Словацька",
+      "slovenian": "Словенська",
+      "thai": "Тайська",
       "ukrainian": "Українська"
-    },
-    "experts": {
-      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу"
-    },
-    "countries": {
-      "eu": "Європейський Союз",
-      "ukraine": "Україна"
     },
     "blog-posts": {
       "seo-packages-comparison": "Порівняння пакетів SEO",

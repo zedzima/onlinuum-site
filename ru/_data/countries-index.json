@@ -831,7 +831,8 @@
           "french"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "social-media-manager"
         ]
       }
     },
@@ -1635,7 +1636,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -3294,7 +3296,8 @@
           "seo-expert",
           "aso-specialist",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -3919,7 +3922,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -4224,7 +4228,8 @@
         ],
         "positions": [
           "seo-expert",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -4319,7 +4324,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -4426,7 +4432,8 @@
           "seo-expert",
           "ppc-specialist",
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -4579,7 +4586,8 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -4734,7 +4742,8 @@
           "seo-expert",
           "aso-specialist",
           "business-development-manager",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -4902,6 +4911,7 @@
       "seo-expert": "SEO-специалист",
       "aso-specialist": "ASO-специалист",
       "marketing-consultant": "Консультант по маркетингу",
+      "social-media-manager": "SMM-менеджер",
       "business-development-manager": "Менеджер по развитию бизнеса",
       "ppc-specialist": "PPC-специалист"
     },

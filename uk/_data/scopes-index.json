@@ -19,7 +19,11 @@
           "app-marketing"
         ],
         "experts": [
-          "dima-gerko"
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "brankica-petrasinovic",
+          "anastasiya-antoniuk",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -30,14 +34,75 @@
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto"
         ],
         "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
           "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uae",
           "ukraine"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish",
+          "urdu"
         ],
         "positions": [
           "aso-specialist",
@@ -66,7 +131,11 @@
           "app-marketing"
         ],
         "experts": [
-          "dima-gerko"
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "brankica-petrasinovic",
+          "anastasiya-antoniuk",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -77,14 +146,75 @@
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto"
         ],
         "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
           "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uae",
           "ukraine"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish",
+          "urdu"
         ],
         "positions": [
           "aso-specialist"
@@ -110,16 +240,25 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "web-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
-          "dima-gerko"
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "rita-pavide",
+          "dima-gerko",
+          "aina-rakotondrabe"
         ],
         "solutions": [
           "digital-marketing-consulting",
           "multilingual-seo"
         ],
         "services": [
+          "aeo",
           "content",
           "seo",
           "social-media"
@@ -127,10 +266,34 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive",
+          "crypto"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "croatia",
+          "slovakia",
+          "slovenia"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "croatian",
+          "slovenian"
         ],
         "positions": [
           "seo-expert",
@@ -156,19 +319,48 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "robmar-macallums",
+          "moataz-yacoubian",
+          "aina-rakotondrabe"
         ],
         "services": [
           "content",
-          "seo"
+          "seo",
+          "aeo"
         ],
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "slovakia",
+          "slovenia"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "croatian",
+          "hindi",
+          "lithuanian",
+          "malay",
+          "slovenian"
         ]
       },
       "case_count": 0,
@@ -190,10 +382,19 @@
       "task_count": 5,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "experts": [
-          "vitali-bakun"
+          "elena-grakovich",
+          "vitali-bakun",
+          "ndeye-binta-diouf",
+          "can-erim",
+          "moataz-yacoubian",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "netanel-kugler",
+          "aldillah-melisa-febryana"
         ],
         "cases": [
           "alvadi",
@@ -208,10 +409,45 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "crypto",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "croatia",
+          "cyprus",
+          "india",
+          "indonesia",
+          "lithuania",
+          "malaysia",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic",
+          "indonesian",
+          "lithuanian",
+          "malay",
+          "slovenian",
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "positions": [
           "ppc-specialist"
@@ -236,11 +472,17 @@
       "task_count": 4,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "experts": [
+          "elena-grakovich",
           "vitali-bakun",
-          "dima-gerko"
+          "dima-gerko",
+          "can-erim",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "aldillah-melisa-febryana"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -251,10 +493,40 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "croatia",
+          "cyprus",
+          "india",
+          "indonesia",
+          "lithuania",
+          "malaysia",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic",
+          "indonesian",
+          "thai",
+          "turkish"
         ],
         "positions": [
           "ppc-specialist"
@@ -280,31 +552,128 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "web-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
           "dima-gerko",
-          "alaaddin-saracyakupoglu"
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "ndeye-binta-diouf",
+          "aina-rakotondrabe",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina"
         ],
         "solutions": [
           "digital-marketing-consulting",
           "multilingual-seo"
         ],
         "services": [
+          "aeo",
           "content",
           "seo"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive",
+          "crypto",
+          "fmcg",
+          "game-studios"
         ],
         "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
           "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
           "ukraine"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -334,10 +703,19 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "web-marketing"
         ],
         "experts": [
+          "anastasiya-antoniuk",
           "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -345,19 +723,101 @@
           "multilingual-seo"
         ],
         "services": [
+          "web-development",
           "seo"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive",
+          "crypto",
+          "fmcg",
+          "game-studios"
         ],
         "countries": [
+          "germany",
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
           "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
           "ukraine"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -385,19 +845,35 @@
       "language_count": 4,
       "task_count": 1,
       "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
         "solutions": [
           "digital-marketing-consulting"
         ],
         "services": [
+          "paid-social",
           "social-media"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "poland",
+          "turkey"
         ],
         "languages": [
-          "english"
+          "english",
+          "russian",
+          "german",
+          "polish"
         ],
         "positions": [
           "ppc-specialist",
@@ -412,12 +888,39 @@
     "domains": {
       "app-marketing": "Маркетинг додатків",
       "search-marketing": "Пошуковий маркетинг",
-      "community-marketing": "Ком’юніті-маркетинг"
+      "web-marketing": "Вебмаркетинг",
+      "growth-marketing": "Growth-маркетинг",
+      "community-marketing": "Ком’юніті-маркетинг",
+      "product-marketing": "Продуктовий маркетинг",
+      "brand-marketing": "Бренд-маркетинг",
+      "performance-marketing": "Performance-маркетинг"
     },
     "experts": {
+      "mariia-nedbaievska": "Марія Недбаєвська",
       "dima-gerko": "Діма Герко",
+      "brankica-petrasinovic": "Бранкіца Петрашинович",
+      "anastasiya-antoniuk": "Анастасія Антонюк",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хіджазі Сіддікі",
+      "elena-grakovich": "Олена Гракович",
+      "rita-pavide": "Ріта Павіде",
+      "aina-rakotondrabe": "Аїна Ракотондрабе",
+      "robmar-macallums": "Робмар Макаллумс",
+      "moataz-yacoubian": "Моатаз Якубян",
       "vitali-bakun": "Віталій Бакун",
-      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу"
+      "ndeye-binta-diouf": "Ндейє Бінта Діуф",
+      "can-erim": "Джан Ерім",
+      "ismail-aydogdu": "Ісмаїл Айдогду",
+      "md-solayman-rumon": "Мд Солайман Румон",
+      "netanel-kugler": "Нетанель Куглер",
+      "aldillah-melisa-febryana": "Алділла Меліса Фебріана",
+      "dmitriy-razakhatsky": "Дмитро Разахацький",
+      "gael-balouek": "Гаель Балуек",
+      "mohamed-isse": "Мохамед Іссе",
+      "syed-rafey": "Сайєд Рафі",
+      "tri-huy-do": "Чі-Хюї До",
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу",
+      "valentina-soldatkina": "Валентина Солдаткіна",
+      "lalit-kumar": "Лаліт Кумар"
     },
     "solutions": {
       "digital-marketing-consulting": "Маркетинговий консалтинг",
@@ -425,22 +928,106 @@
     },
     "services": {
       "aso": "ASO",
+      "aeo": "AEO",
       "content": "Контент-маркетинг",
       "seo": "SEO",
       "social-media": "Соціальні мережі",
-      "ppc": "PPC"
+      "ppc": "PPC",
+      "web-development": "Розробка сайтів",
+      "paid-social": "Реклама в соцмережах"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "Фінтех",
-      "ecommerce": "Інтернет-магазини"
+      "ecommerce": "Інтернет-магазини",
+      "healthcare": "Медицина",
+      "game-studios": "Ігрові студії",
+      "crypto": "Крипто",
+      "automotive": "Автомобільна галузь",
+      "fmcg": "FMCG"
     },
     "countries": {
+      "germany": "Німеччина",
+      "usa": "США",
+      "uk": "Велика Британія",
+      "france": "Франція",
+      "austria": "Австрія",
+      "poland": "Польща",
+      "portugal": "Португалія",
+      "spain": "Іспанія",
+      "australia": "Австралія",
+      "belgium": "Бельгія",
+      "brazil": "Бразилія",
+      "bulgaria": "Болгарія",
+      "canada": "Канада",
+      "china": "Китай",
+      "czechia": "Чехія",
+      "denmark": "Данія",
+      "estonia": "Естонія",
       "eu": "Європейський Союз",
-      "ukraine": "Україна"
+      "finland": "Фінляндія",
+      "greece": "Греція",
+      "hungary": "Угорщина",
+      "india": "Індія",
+      "ireland": "Ірландія",
+      "israel": "Ізраїль",
+      "italy": "Італія",
+      "japan": "Японія",
+      "latvia": "Латвія",
+      "luxembourg": "Люксембург",
+      "malta": "Мальта",
+      "mexico": "Мексика",
+      "netherlands": "Нідерланди",
+      "new-zealand": "Нова Зеландія",
+      "singapore": "Сінгапур",
+      "south-korea": "Південна Корея",
+      "sweden": "Швеція",
+      "switzerland": "Швейцарія",
+      "taiwan": "Тайвань",
+      "uae": "ОАЕ",
+      "ukraine": "Україна",
+      "indonesia": "Індонезія",
+      "croatia": "Хорватія",
+      "slovakia": "Словаччина",
+      "slovenia": "Словенія",
+      "cyprus": "Кіпр",
+      "lithuania": "Литва",
+      "malaysia": "Малайзія",
+      "romania": "Румунія",
+      "thailand": "Таїланд",
+      "turkey": "Туреччина"
     },
     "languages": {
-      "english": "Англійська"
+      "english": "Англійська",
+      "german": "Німецька",
+      "french": "Французька",
+      "russian": "Російська",
+      "spanish": "Іспанська",
+      "polish": "Польська",
+      "portuguese": "Португальська",
+      "arabic": "Арабська",
+      "bulgarian": "Болгарська",
+      "czech": "Чеська",
+      "danish": "Данська",
+      "dutch": "Нідерландська",
+      "estonian": "Естонська",
+      "finnish": "Фінська",
+      "greek": "Грецька",
+      "hungarian": "Угорська",
+      "italian": "Італійська",
+      "latvian": "Латиська",
+      "romanian": "Румунська",
+      "slovak": "Словацька",
+      "swedish": "Шведська",
+      "urdu": "Урду",
+      "croatian": "Хорватська",
+      "slovenian": "Словенська",
+      "hindi": "Гінді",
+      "lithuanian": "Литовська",
+      "malay": "Малайська",
+      "indonesian": "Індонезійська",
+      "thai": "Тайська",
+      "turkish": "Турецька"
     },
     "positions": {
       "aso-specialist": "ASO спеціаліст",
