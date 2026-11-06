@@ -13,11 +13,11 @@
       "market_speakers_display": "307M",
       "market_country_count": 16,
       "official_countries_count": 16,
-      "scope_count": 5,
+      "scope_count": 14,
       "service_count": 13,
       "expert_count": 1,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -29,18 +29,35 @@
           "marketing-operations"
         ],
         "scopes": [
+          "ai-optimisation",
           "aso-localization",
+          "content-localization",
+          "cross-market-setup",
           "google-ads-search",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "ppc-audit",
+          "remarketing-display",
+          "seo-audit",
           "seo-research",
-          "technical-seo"
+          "technical-seo",
+          "transcreation"
         ],
         "experts": [
           "moataz-yacoubian"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -61,6 +78,8 @@
           "ecommerce",
           "saas",
           "fintech",
+          "retail",
+          "hospitality",
           "automotive"
         ],
         "countries": [
@@ -88,11 +107,11 @@
       "market_speakers_display": "6.78M",
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -106,14 +125,32 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -137,6 +174,8 @@
         "industries": [
           "ecommerce",
           "fintech",
+          "hospitality",
+          "manufacturing",
           "saas"
         ],
         "countries": [
@@ -194,11 +233,11 @@
       "market_speakers_display": "5.5M",
       "market_country_count": 3,
       "official_countries_count": 3,
-      "scope_count": 4,
+      "scope_count": 11,
       "service_count": 14,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -211,14 +250,29 @@
           "brand-marketing"
         ],
         "scopes": [
+          "content-localization",
+          "transcreation",
           "content-writing",
+          "copywriting",
           "content-strategy",
           "seo-research",
-          "technical-seo"
+          "on-page-seo",
+          "technical-seo",
+          "cross-market-setup",
+          "ai-optimisation",
+          "link-building"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -237,10 +291,13 @@
           "ppc"
         ],
         "industries": [
+          "hospitality",
           "ecommerce",
+          "retail",
           "saas",
           "fintech",
-          "healthcare"
+          "healthcare",
+          "manufacturing"
         ],
         "countries": [
           "croatia",
@@ -266,11 +323,11 @@
       "market_speakers_display": "13.2M",
       "market_country_count": 2,
       "official_countries_count": 2,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 4,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -284,10 +341,20 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "elena-grakovich",
@@ -296,8 +363,16 @@
           "dmitriy-razakhatsky"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -323,7 +398,9 @@
           "saas",
           "fintech",
           "healthcare",
-          "automotive"
+          "automotive",
+          "legal",
+          "manufacturing"
         ],
         "countries": [
           "czechia",
@@ -348,11 +425,11 @@
       "market_speakers_display": "7.24M",
       "market_country_count": 2,
       "official_countries_count": 2,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -366,14 +443,32 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -399,7 +494,9 @@
           "saas",
           "fintech",
           "healthcare",
-          "automotive"
+          "automotive",
+          "legal",
+          "manufacturing"
         ],
         "countries": [
           "denmark",
@@ -424,11 +521,11 @@
       "market_speakers_display": "31.9M",
       "market_country_count": 3,
       "official_countries_count": 3,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 5,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -442,10 +539,20 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "elena-grakovich",
@@ -455,8 +562,16 @@
           "tri-huy-do"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -482,7 +597,9 @@
           "saas",
           "fintech",
           "healthcare",
-          "automotive"
+          "automotive",
+          "legal",
+          "manufacturing"
         ],
         "countries": [
           "netherlands",
@@ -510,11 +627,11 @@
       "market_speakers_display": "1.67B",
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 9,
+      "scope_count": 35,
       "service_count": 19,
       "expert_count": 27,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -528,15 +645,41 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
           "ppc-audit",
-          "telegram-ads"
+          "remarketing-display",
+          "seo-audit",
+          "telegram-ads",
+          "telegram-channel-placements",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "elena-grakovich",
@@ -571,8 +714,16 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -601,9 +752,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "usa",
@@ -660,7 +816,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -677,11 +834,11 @@
       "market_speakers_display": "848K",
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 0,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -695,17 +852,35 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "cases": [
           "alvadi"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -730,6 +905,7 @@
           "automotive",
           "ecommerce",
           "fintech",
+          "legal",
           "saas"
         ],
         "countries": [
@@ -753,11 +929,11 @@
       "market_speakers_display": "5.77M",
       "market_country_count": 3,
       "official_countries_count": 3,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -771,14 +947,32 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -803,6 +997,7 @@
           "ecommerce",
           "fintech",
           "game-studios",
+          "manufacturing",
           "saas"
         ],
         "countries": [
@@ -829,11 +1024,11 @@
       "market_speakers_display": "267M",
       "market_country_count": 25,
       "official_countries_count": 25,
-      "scope_count": 8,
+      "scope_count": 28,
       "service_count": 11,
       "expert_count": 8,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -846,14 +1041,34 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
+          "ppc-audit",
+          "remarketing-display",
+          "seo-audit",
+          "transcreation",
+          "youtube-ads"
         ],
         "experts": [
           "elena-grakovich",
@@ -866,8 +1081,16 @@
           "ndeye-binta-diouf"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -886,11 +1109,16 @@
           "ecommerce",
           "saas",
           "automotive",
+          "legal",
+          "manufacturing",
           "fintech",
           "healthcare",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "france",
@@ -939,11 +1167,11 @@
       "market_speakers_display": "138M",
       "market_country_count": 22,
       "official_countries_count": 22,
-      "scope_count": 9,
+      "scope_count": 34,
       "service_count": 17,
       "expert_count": 5,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -957,15 +1185,40 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
           "ppc-audit",
-          "telegram-ads"
+          "remarketing-display",
+          "seo-audit",
+          "telegram-ads",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -975,8 +1228,16 @@
           "valentina-soldatkina"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1003,9 +1264,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -1040,7 +1306,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -1057,11 +1324,11 @@
       "market_speakers_display": "11.6M",
       "market_country_count": 2,
       "official_countries_count": 2,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 4,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1075,10 +1342,20 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "elena-grakovich",
@@ -1087,8 +1364,16 @@
           "dmitriy-razakhatsky"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1114,7 +1399,9 @@
           "saas",
           "fintech",
           "healthcare",
-          "automotive"
+          "automotive",
+          "legal",
+          "manufacturing"
         ],
         "countries": [
           "greece",
@@ -1169,11 +1456,11 @@
       "market_speakers_display": "582M",
       "market_country_count": 4,
       "official_countries_count": 4,
-      "scope_count": 3,
+      "scope_count": 8,
       "service_count": 6,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 1,
+      "solution_count": 6,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1183,11 +1470,21 @@
         ],
         "scopes": [
           "content-writing",
+          "copywriting",
+          "content-localization",
+          "transcreation",
           "seo-research",
-          "technical-seo"
+          "on-page-seo",
+          "technical-seo",
+          "cross-market-setup"
         ],
         "solutions": [
-          "multilingual-seo"
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo",
+          "international-seo",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
         ],
         "services": [
           "content",
@@ -1200,7 +1497,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "retail"
         ],
         "countries": [
           "india",
@@ -1224,11 +1522,11 @@
       "market_speakers_display": "12.1M",
       "market_country_count": 5,
       "official_countries_count": 5,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1242,14 +1540,32 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1274,6 +1590,8 @@
           "automotive",
           "ecommerce",
           "fintech",
+          "legal",
+          "manufacturing",
           "saas"
         ],
         "countries": [
@@ -1301,11 +1619,11 @@
       "market_speakers_display": "181M",
       "market_country_count": 2,
       "official_countries_count": 2,
-      "scope_count": 4,
+      "scope_count": 13,
       "service_count": 13,
       "expert_count": 1,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1317,17 +1635,34 @@
           "brand-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
+          "content-localization",
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads"
         ],
         "experts": [
           "aldillah-melisa-febryana"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1346,8 +1681,11 @@
         ],
         "industries": [
           "ecommerce",
+          "retail",
           "saas",
-          "fintech"
+          "fintech",
+          "hospitality",
+          "manufacturing"
         ],
         "countries": [
           "indonesia",
@@ -1371,11 +1709,11 @@
       "market_speakers_display": "68.5M",
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 4,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1389,10 +1727,20 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "elena-grakovich",
@@ -1401,8 +1749,16 @@
           "dmitriy-razakhatsky"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1428,7 +1784,9 @@
           "saas",
           "fintech",
           "healthcare",
-          "automotive"
+          "automotive",
+          "legal",
+          "manufacturing"
         ],
         "countries": [
           "italy",
@@ -1520,11 +1878,11 @@
       "market_speakers_display": "1.1M",
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 1,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1538,10 +1896,20 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "rita-pavide"
@@ -1550,8 +1918,16 @@
           "alvadi"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1576,6 +1952,7 @@
           "automotive",
           "ecommerce",
           "fintech",
+          "legal",
           "saas"
         ],
         "countries": [
@@ -1596,11 +1973,11 @@
       "market_speakers_display": "2.26M",
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 4,
+      "scope_count": 12,
       "service_count": 14,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1614,14 +1991,30 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
+          "content-localization",
+          "transcreation",
+          "copywriting",
           "content-writing",
           "google-ads-search"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1643,6 +2036,8 @@
           "fintech",
           "saas",
           "ecommerce",
+          "manufacturing",
+          "legal",
           "healthcare"
         ],
         "countries": [
@@ -1666,11 +2061,11 @@
       "market_speakers_display": "39.7M",
       "market_country_count": 3,
       "official_countries_count": 3,
-      "scope_count": 4,
+      "scope_count": 10,
       "service_count": 9,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 1,
+      "solution_count": 7,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1681,13 +2076,25 @@
           "brand-marketing"
         ],
         "scopes": [
+          "content-localization",
+          "transcreation",
           "content-writing",
+          "copywriting",
           "seo-research",
+          "on-page-seo",
           "technical-seo",
-          "google-ads-search"
+          "cross-market-setup",
+          "google-ads-search",
+          "paid-social-for-apps"
         ],
         "solutions": [
-          "multilingual-seo"
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo",
+          "international-seo",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1702,8 +2109,10 @@
         ],
         "industries": [
           "ecommerce",
+          "retail",
           "saas",
-          "fintech"
+          "fintech",
+          "hospitality"
         ],
         "countries": [
           "malaysia",
@@ -1728,11 +2137,11 @@
       "market_speakers_display": "40.9M",
       "market_country_count": 4,
       "official_countries_count": 4,
-      "scope_count": 6,
+      "scope_count": 21,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1744,12 +2153,27 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
           "seo-research",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
-          "telegram-ads"
+          "copywriting",
+          "seo-audit",
+          "telegram-ads",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -1757,7 +2181,15 @@
           "anastasiya-antoniuk"
         ],
         "solutions": [
+          "global-seo",
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
+          "international-seo",
           "multilingual-seo"
         ],
         "services": [
@@ -1775,9 +2207,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "poland",
@@ -1794,7 +2231,8 @@
         "positions": [
           "seo-expert",
           "aso-specialist",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -1811,11 +2249,11 @@
       "market_speakers_display": "236M",
       "market_country_count": 6,
       "official_countries_count": 6,
-      "scope_count": 5,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 4,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1827,11 +2265,26 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
           "seo-research",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
           "aso-optimization",
           "aso-localization",
-          "content-strategy"
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "copywriting",
+          "seo-audit",
+          "transcreation"
         ],
         "experts": [
           "dmitriy-razakhatsky",
@@ -1840,7 +2293,15 @@
           "dima-gerko"
         ],
         "solutions": [
+          "global-seo",
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
+          "international-seo",
           "multilingual-seo"
         ],
         "services": [
@@ -1858,9 +2319,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "brazil",
@@ -1895,11 +2361,11 @@
       "market_speakers_display": "16.8M",
       "market_country_count": 3,
       "official_countries_count": 3,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1913,14 +2379,32 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1946,7 +2430,9 @@
           "saas",
           "fintech",
           "healthcare",
-          "automotive"
+          "automotive",
+          "legal",
+          "manufacturing"
         ],
         "countries": [
           "romania",
@@ -1971,11 +2457,11 @@
       "market_speakers_display": "194M",
       "market_country_count": 13,
       "official_countries_count": 13,
-      "scope_count": 6,
+      "scope_count": 24,
       "service_count": 9,
       "expert_count": 10,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1987,12 +2473,30 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
           "telegram-ads",
-          "content-strategy"
+          "telegram-channel-placements",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "copywriting",
+          "seo-audit",
+          "transcreation",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "elena-grakovich",
@@ -2007,8 +2511,16 @@
           "vyacheslav-maletskiy"
         ],
         "solutions": [
+          "ai-visibility",
+          "global-seo",
+          "international-marketing",
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
+          "international-seo"
         ],
         "services": [
           "aeo",
@@ -2027,9 +2539,14 @@
           "saas",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "ukraine",
@@ -2049,7 +2566,8 @@
         ],
         "positions": [
           "seo-expert",
-          "aso-specialist"
+          "aso-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -2066,11 +2584,11 @@
       "market_speakers_display": "6.74M",
       "market_country_count": 2,
       "official_countries_count": 2,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2084,14 +2602,32 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -2114,9 +2650,11 @@
         ],
         "industries": [
           "automotive",
+          "manufacturing",
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "legal"
         ],
         "countries": [
           "slovakia",
@@ -2141,11 +2679,11 @@
       "market_speakers_display": "1.83M",
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 5,
+      "scope_count": 15,
       "service_count": 14,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2157,15 +2695,33 @@
           "brand-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
+          "seo-audit",
+          "content-localization",
           "content-strategy",
           "content-writing",
+          "content-rewriting",
+          "copywriting",
+          "transcreation",
           "google-ads-search"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -2186,6 +2742,8 @@
         "industries": [
           "automotive",
           "ecommerce",
+          "manufacturing",
+          "pharma",
           "saas"
         ],
         "countries": [
@@ -2209,11 +2767,11 @@
       "market_speakers_display": "486M",
       "market_country_count": 24,
       "official_countries_count": 24,
-      "scope_count": 8,
+      "scope_count": 27,
       "service_count": 9,
       "expert_count": 7,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2226,14 +2784,33 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "microsoft-ads",
+          "ppc-audit",
+          "remarketing-display",
+          "seo-audit",
+          "transcreation",
+          "youtube-ads"
         ],
         "experts": [
           "dmitriy-razakhatsky",
@@ -2245,8 +2822,16 @@
           "robmar-macallums"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -2265,9 +2850,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "mexico",
@@ -2291,7 +2881,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -2308,11 +2899,11 @@
       "market_speakers_display": "13.3M",
       "market_country_count": 3,
       "official_countries_count": 3,
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 17,
       "expert_count": 4,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2326,10 +2917,20 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "elena-grakovich",
@@ -2338,8 +2939,16 @@
           "dmitriy-razakhatsky"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -2366,6 +2975,8 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "game-studios"
         ],
         "countries": [
@@ -2393,11 +3004,11 @@
       "market_speakers_display": "55.9M",
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 4,
+      "scope_count": 9,
       "service_count": 12,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2409,14 +3020,27 @@
           "brand-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "on-page-seo",
+          "seo-audit",
           "seo-research",
           "technical-seo",
           "google-ads-search",
           "ppc-audit"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -2434,6 +3058,8 @@
         ],
         "industries": [
           "ecommerce",
+          "retail",
+          "hospitality",
           "saas",
           "automotive"
         ],
@@ -2458,11 +3084,11 @@
       "market_speakers_display": "81.7M",
       "market_country_count": 6,
       "official_countries_count": 6,
-      "scope_count": 4,
+      "scope_count": 10,
       "service_count": 12,
       "expert_count": 3,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2474,10 +3100,16 @@
           "brand-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "remarketing-display"
         ],
         "experts": [
           "alaaddin-saracyakupoglu",
@@ -2485,8 +3117,16 @@
           "ismail-aydogdu"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -2506,7 +3146,9 @@
           "ecommerce",
           "saas",
           "fintech",
+          "retail",
           "automotive",
+          "manufacturing",
           "crypto",
           "game-studios"
         ],
@@ -2520,7 +3162,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -2548,7 +3191,8 @@
           "slovakia"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "social-media-manager"
         ]
       }
     },
@@ -2565,11 +3209,11 @@
       "market_speakers_display": "313M",
       "market_country_count": 4,
       "official_countries_count": 4,
-      "scope_count": 5,
+      "scope_count": 8,
       "service_count": 8,
       "expert_count": 1,
       "case_count": 0,
-      "solution_count": 1,
+      "solution_count": 6,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2580,16 +3224,24 @@
         ],
         "scopes": [
           "seo-research",
+          "on-page-seo",
           "technical-seo",
+          "cross-market-setup",
           "aso-localization",
           "aso-optimization",
-          "google-ads-search"
+          "google-ads-search",
+          "paid-social-for-apps"
         ],
         "experts": [
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
-          "multilingual-seo"
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo",
+          "international-seo",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
         ],
         "services": [
           "content",
@@ -2604,6 +3256,7 @@
         "industries": [
           "ecommerce",
           "fintech",
+          "retail",
           "saas"
         ],
         "countries": [
@@ -2630,15 +3283,41 @@
       "app-marketing": "Маркетинг додатків"
     },
     "scopes": {
+      "ai-optimisation": "AI-оптимізація",
       "aso-localization": "ASO-локалізація",
+      "content-localization": "Переклад і локалізація",
+      "cross-market-setup": "Налаштування міжнародного SEO",
       "google-ads-search": "Пошук у Google Ads",
+      "link-building": "Лінкбілдинг",
+      "local-seo": "Локальне SEO",
+      "on-page-seo": "Внутрішня оптимізація",
       "ppc-audit": "Аудит Google Ads",
+      "remarketing-display": "Ремаркетинг і медійна реклама",
+      "seo-audit": "Комплексний SEO-аудит",
       "seo-research": "SEO-дослідження",
       "technical-seo": "Технічне SEO",
+      "transcreation": "Транскреація",
       "aso-optimization": "ASO-оптимізація",
+      "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Реклама додатків у соцмережах",
+      "app-store-cro": "App Store CRO",
+      "app-retention": "Утримання користувачів",
       "content-writing": "Написання текстів",
+      "copywriting": "Копірайтинг",
       "content-strategy": "Контент-стратегія",
-      "telegram-ads": "Реклама в Telegram"
+      "content-rewriting": "Рерайтинг",
+      "google-shopping": "Google Shopping",
+      "local-services-ads": "Реклама Local Services Ads",
+      "microsoft-ads": "Microsoft Ads",
+      "telegram-ads": "Реклама в Telegram",
+      "telegram-channel-placements": "Розміщення в Telegram-каналах",
+      "video-content-production": "Відеопродакшн",
+      "video-marketing-audit": "Аудит відеомаркетингу",
+      "youtube-ads": "Реклама на YouTube",
+      "youtube-channel-management": "Ведення YouTube-каналу",
+      "youtube-creator-collaborations": "Інтеграції з YouTube-блогерами",
+      "youtube-creator-pilot": "Пілот з YouTube-блогерами"
     },
     "experts": {
       "moataz-yacoubian": "Моатаз Якубян",
@@ -2670,8 +3349,16 @@
       "vyacheslav-maletskiy": "В’ячеслав Малецький"
     },
     "solutions": {
+      "ai-visibility": "Видимість в AI",
+      "b2b-digital-marketing": "B2B-маркетинг",
       "digital-marketing-consulting": "Маркетинговий консалтинг",
-      "multilingual-seo": "Багатомовне SEO"
+      "digital-marketing-strategy": "Стратегія digital-маркетингу",
+      "global-seo": "Глобальне SEO",
+      "international-marketing": "Міжнародний і глобальний маркетинг",
+      "international-seo": "Міжнародне SEO",
+      "multilingual-seo": "Багатомовне SEO",
+      "outsource-digital-marketing": "Аутсорсинг маркетингу",
+      "seo-ecommerce": "SEO для інтернет-магазинів"
     },
     "services": {
       "aeo": "AEO",
@@ -2698,11 +3385,16 @@
       "ecommerce": "Інтернет-магазини",
       "saas": "SaaS",
       "fintech": "Фінтех",
+      "retail": "Роздрібна торгівля",
+      "hospitality": "Готельно-ресторанний бізнес",
       "automotive": "Автомобільна галузь",
+      "manufacturing": "Виробництво",
       "healthcare": "Медицина",
+      "legal": "Юридичні послуги",
       "crypto": "Крипто",
       "fmcg": "FMCG",
-      "game-studios": "Ігрові студії"
+      "game-studios": "Ігрові студії",
+      "pharma": "Фарма"
     },
     "countries": {
       "uae": "ОАЕ",
@@ -2760,7 +3452,8 @@
       "business-development-manager": "Менеджер з розвитку бізнесу",
       "marketing-consultant": "Консультант з маркетингу",
       "aso-specialist": "ASO спеціаліст",
-      "ppc-specialist": "PPC спеціаліст"
+      "ppc-specialist": "PPC спеціаліст",
+      "social-media-manager": "SMM-менеджер"
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",

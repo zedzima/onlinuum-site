@@ -1,6 +1,491 @@
 {
   "scopes": [
     {
+      "slug": "ai-optimisation",
+      "url": "/scopes/ai-optimisation",
+      "title": "GEO-просування: щоб ШІ цитував ваш сайт",
+      "description": "GEO-просування (generative engine optimization): контент, який цитують ChatGPT, Perplexity і Claude. Аудит від $500, іменний експерт. Дивіться ціни.",
+      "menu": "AI-оптимізація",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 9,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "growth-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "aina-rakotondrabe",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo"
+        ],
+        "services": [
+          "aeo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "app-retention",
+      "url": "/scopes/app-retention",
+      "title": "App retention: онбординг, push-повідомлення та paywall",
+      "description": "App retention: онбординг, CRM, push-повідомлення та оптимізація paywall, щоб витрати на залучення окупалися. Аудит retention від $400. Дивіться ціни.",
+      "menu": "Утримання користувачів",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-conversion-retention"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "app-store-cro",
+      "url": "/scopes/app-store-cro",
+      "title": "App Store screenshots і A/B-тести сторінки додатка",
+      "description": "App Store screenshots, A/B-тести іконки, Custom Product Pages і store listing experiments, що дають більше встановлень. Тест від $160. Дивіться ціни.",
+      "menu": "App Store CRO",
+      "featured": true,
+      "from_price": 160,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "brankica-petrasinovic",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-conversion-retention"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Apple Ads (Apple Search Ads): реклама iOS-додатків",
+      "description": "Ведення Apple Ads: реклама в App Store, налаштування акаунта, ключові слова та ставки для iOS-додатків. Іменний фахівець, від $400/міс. Дивіться ціни.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "Локалізація ігор і додатків для нових ринків",
@@ -26,7 +511,11 @@
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
         ],
         "services": [
           "aso"
@@ -37,7 +526,10 @@
           "ecommerce",
           "healthcare",
           "game-studios",
-          "crypto"
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -138,7 +630,11 @@
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
         ],
         "services": [
           "aso"
@@ -149,7 +645,10 @@
           "ecommerce",
           "healthcare",
           "game-studios",
-          "crypto"
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -224,6 +723,173 @@
       "article_count": 0
     },
     {
+      "slug": "content-localization",
+      "url": "/scopes/content-localization",
+      "title": "Послуги перекладу та локалізації B2B-контенту",
+      "description": "Послуги перекладу та локалізації з ціною за цільову мову: лінгвісти-носії, постредагування машинного перекладу, QA локалізації. Від $600. Дивіться ціни.",
+      "menu": "Переклад і локалізація",
+      "featured": true,
+      "from_price": 600,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "international-marketing",
+          "global-seo",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "web-development"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "croatia",
+          "cyprus",
+          "lithuania",
+          "romania",
+          "slovakia",
+          "slovenia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "croatian",
+          "hindi",
+          "indonesian",
+          "lithuanian",
+          "malay",
+          "slovenian"
+        ],
+        "positions": [
+          "marketing-consultant"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 0
+    },
+    {
+      "slug": "content-rewriting",
+      "url": "/scopes/content-rewriting",
+      "title": "Рерайтинг і оновлення вже опублікованих сторінок",
+      "description": "Рерайтинг уже опублікованих сторінок: рерайт текстів сайту, оновлення статей блогу, редагування текстів і переупаковка. 5 сторінок від $700. Дивіться ціни.",
+      "menu": "Рерайтинг",
+      "featured": true,
+      "from_price": 700,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 8,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "aeo",
+          "marketplace-management"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "legal",
+          "retail",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "slovenian"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "content-strategy",
       "url": "/scopes/content-strategy",
       "title": "Контент-стратегія і контент план для сайту",
@@ -254,8 +920,13 @@
           "aina-rakotondrabe"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aeo",
@@ -269,6 +940,8 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto"
         ],
         "countries": [
@@ -297,7 +970,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -332,6 +1006,13 @@
           "moataz-yacoubian",
           "aina-rakotondrabe"
         ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
+        ],
         "services": [
           "content",
           "seo",
@@ -341,6 +1022,8 @@
           "saas",
           "fintech",
           "ecommerce",
+          "legal",
+          "manufacturing",
           "crypto"
         ],
         "countries": [
@@ -365,6 +1048,240 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "copywriting",
+      "url": "/scopes/copywriting",
+      "title": "Продаючі тексти для сайту, лендінгів і email-розсилок",
+      "description": "Продаючі тексти для сайтів, сторінок продажу, листів і реклами. Фіксована ціна за результат, автори-носії, один раунд правок. Тексти для сайту від $800.",
+      "menu": "Копірайтинг",
+      "featured": true,
+      "from_price": 250,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 8,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "email",
+          "ppc",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "legal",
+          "retail",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "cyprus",
+          "romania"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "croatian",
+          "hindi",
+          "lithuanian",
+          "malay",
+          "slovenian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "cross-market-setup",
+      "url": "/scopes/cross-market-setup",
+      "title": "Hreflang і x-default: налаштування мовних версій сайту",
+      "description": "Налаштування міжнародного SEO: впровадження hreflang і x-default, геотаргетинг, підбір ключових слів носіями мови. Аудит від $500.",
+      "menu": "Налаштування міжнародного SEO",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "elena-grakovich",
+          "valentina-soldatkina"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "international-marketing"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "manufacturing",
+          "automotive",
+          "legal",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "spain",
+          "portugal",
+          "poland",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 1
     },
     {
       "slug": "google-ads-search",
@@ -401,7 +1318,11 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "ppc"
@@ -411,6 +1332,8 @@
           "saas",
           "fintech",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg"
         ],
@@ -457,6 +1380,862 @@
       "article_count": 0
     },
     {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Google UAC: ведення App Campaigns для Android та iOS",
+      "description": "Ведення Google App Campaigns: налаштування акаунта, тести креативів і оптимізація ставок для залучення на Android та iOS. Від $400/міс. Дивіться ціни.",
+      "menu": "Google App Campaigns (UAC)",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "google-shopping",
+      "url": "/scopes/google-shopping",
+      "title": "Ведення Google Shopping: фід, Merchant Center і ROAS",
+      "description": "Ведення Google Shopping (гугл шопінг): аудит Google Merchant Center, оптимізація фіду та контроль ROAS, від $400/міс. Дивіться ціни.",
+      "menu": "Google Shopping",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 7,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "ndeye-binta-diouf",
+          "can-erim",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "netanel-kugler",
+          "aldillah-melisa-febryana"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "automotive",
+          "healthcare",
+          "manufacturing",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "india",
+          "indonesia",
+          "malaysia",
+          "romania",
+          "singapore",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "indonesian"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "link-building",
+      "url": "/scopes/link-building",
+      "title": "Лінкбілдинг: аутріч і якісні зворотні посилання",
+      "description": "Лінкбілдинг з оплатою за виконану роботу: аналіз беклінків, вимірюваний аутріч, digital PR і чистка токсичних посилань (disavow). Від $400. Дивіться ціни.",
+      "menu": "Лінкбілдинг",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 7,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "product-marketing",
+          "brand-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "moataz-yacoubian",
+          "lalit-kumar",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "global-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "pr",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
+    },
+    {
+      "slug": "local-seo",
+      "url": "/scopes/local-seo",
+      "title": "Локальне SEO: Google Business Profile, каталоги й відгуки",
+      "description": "Локальне SEO: оптимізація Google Business Profile (Google My Business), розміщення в каталогах, відгуки. Аудит від $400. Дивіться ціни.",
+      "menu": "Локальне SEO",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "moataz-yacoubian",
+          "lalit-kumar"
+        ],
+        "solutions": [
+          "international-marketing"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "healthcare",
+          "automotive",
+          "legal",
+          "saas",
+          "fintech",
+          "manufacturing",
+          "hospitality",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "turkish"
+        ],
+        "blog-posts": [
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
+    },
+    {
+      "slug": "local-services-ads",
+      "url": "/scopes/local-services-ads",
+      "title": "Local Services Ads: ведення реклами з оплатою за лід",
+      "description": "Ведення Local Services Ads: налаштування й верифікація профілю LSA, контроль якості лідів. Модель pay per lead, від $300/міс. Дивіться ціни.",
+      "menu": "Реклама Local Services Ads",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 4,
+      "country_count": 4,
+      "language_count": 3,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "legal",
+          "healthcare",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "microsoft-ads",
+      "url": "/scopes/microsoft-ads",
+      "title": "Microsoft Ads: ведення реклами в Bing",
+      "description": "Ведення Microsoft Ads (Bing Ads): імпорт кампаній, контроль запитів і оптимізація ставок за межами Google. Від $300/міс. Дивіться ціни.",
+      "menu": "Microsoft Ads",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "md-solayman-rumon"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "ecommerce"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "on-page-seo",
+      "url": "/scopes/on-page-seo",
+      "title": "Внутрішня оптимізація сайту: on-page SEO сторінок",
+      "description": "Внутрішня оптимізація сайту: мета-теги та структура сторінок, ТЗ для копірайтера, посадкові сторінки. Ціна за результат, від $250. Дивіться ціни.",
+      "menu": "Внутрішня оптимізація",
+      "featured": true,
+      "from_price": 250,
+      "delivery": "one-time",
+      "expert_count": 11,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
+          "aina-rakotondrabe",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "rita-pavide"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "paid-social-for-apps",
+      "url": "/scopes/paid-social-for-apps",
+      "title": "App install ads: реклама додатків у Meta і TikTok",
+      "description": "App install ads у соцмережах: стратегія каналів, тести креативів і оптимізація ставок у Meta та TikTok. Від $400/міс. Дивіться ціни.",
+      "menu": "Реклама додатків у соцмережах",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "malay",
+          "romanian",
+          "slovak",
+          "swedish",
+          "urdu"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "ppc-audit",
       "url": "/scopes/ppc-audit",
       "title": "Аудит Google Ads: пошук втрат бюджету",
@@ -485,7 +2264,11 @@
           "aldillah-melisa-febryana"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "ppc"
@@ -495,6 +2278,8 @@
           "saas",
           "fintech",
           "automotive",
+          "legal",
+          "manufacturing",
           "fmcg"
         ],
         "countries": [
@@ -536,6 +2321,174 @@
       "article_count": 0
     },
     {
+      "slug": "remarketing-display",
+      "url": "/scopes/remarketing-display",
+      "title": "Ремаркетинг і медійна реклама: ведення кампаній",
+      "description": "Ведення ремаркетингу та медійної реклами: стратегія аудиторій, теги, налаштування ретаргетингу й ротація креативів. Від $300/міс. Дивіться ціни.",
+      "menu": "Ремаркетинг і медійна реклама",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "netanel-kugler"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "fmcg",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "croatia",
+          "cyprus",
+          "india",
+          "indonesia",
+          "lithuania",
+          "malaysia",
+          "romania",
+          "slovakia",
+          "slovenia",
+          "thailand",
+          "turkey",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic",
+          "indonesian",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "seo-audit",
+      "url": "/scopes/seo-audit",
+      "title": "Комплексний аудит сайту: SEO, контент і аналітика",
+      "description": "Комплексний аудит сайту SaaS, контентного проєкту чи інтернет-магазину: технічний стан, попит, контент, авторитет, аналітика. Від $1 190. Дивіться ціни.",
+      "menu": "Комплексний SEO-аудит",
+      "featured": true,
+      "from_price": 1190,
+      "delivery": "one-time",
+      "expert_count": 8,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "lalit-kumar",
+          "syed-rafey",
+          "tri-huy-do"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto"
+        ],
+        "countries": [
+          "germany",
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "india",
+          "malaysia",
+          "singapore",
+          "slovenia",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "slovenian",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
+    },
+    {
       "slug": "seo-research",
       "url": "/scopes/seo-research",
       "title": "Семантичне ядро та аналіз конкурентів",
@@ -574,8 +2527,14 @@
           "valentina-soldatkina"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aeo",
@@ -588,9 +2547,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -719,8 +2683,14 @@
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "web-development",
@@ -732,9 +2702,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -849,7 +2824,11 @@
           "performance-marketing"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "paid-social",
@@ -859,6 +2838,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "hospitality",
           "automotive",
           "crypto"
         ],
@@ -877,7 +2857,494 @@
         ],
         "positions": [
           "ppc-specialist",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "telegram-channel-placements",
+      "url": "/scopes/telegram-channel-placements",
+      "title": "Купити рекламу в телеграм-каналах: нативні розміщення",
+      "description": "Купити рекламу в телеграм-каналах хвилею перевірених розміщень: добір каналів, переговори, нативні тексти, звітність. Від $1 200 за хвилю. Дивіться ціни.",
+      "menu": "Розміщення в Telegram-каналах",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 8,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "hospitality",
+          "retail",
+          "automotive",
+          "healthcare",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "transcreation",
+      "url": "/scopes/transcreation",
+      "title": "Транскреація реклами, слоганів і бренд-текстів",
+      "description": "Транскреація реклами, слоганів і бренд-текстів: автори на цільовому ринку заново створюють меседж кожною мовою. Перевірка адаптації від $400.",
+      "menu": "Транскреація",
+      "featured": false,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 6,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo"
+        ],
+        "services": [
+          "content",
+          "ppc",
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "saas",
+          "fintech",
+          "automotive"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "spain",
+          "portugal",
+          "poland",
+          "austria",
+          "croatia",
+          "cyprus",
+          "lithuania",
+          "romania",
+          "slovakia",
+          "slovenia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "portuguese",
+          "polish",
+          "russian",
+          "arabic",
+          "croatian",
+          "hindi",
+          "lithuanian",
+          "malay",
+          "slovenian"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "social-media-manager"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 0
+    },
+    {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Відеопродакшн: сценарії, монтаж і короткі відео",
+      "description": "Відеопродакшн: креативні концепції, сценарії, монтаж відео на замовлення й короткі нарізки. Базовий модуль від $1 700/міс. Дивіться ціни.",
+      "menu": "Відеопродакшн",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "robmar-macallums"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality",
+          "game-studios",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "video-marketing-audit",
+      "url": "/scopes/video-marketing-audit",
+      "title": "Аналіз ютуб каналу та аудит відеомаркетингу",
+      "description": "Аналіз ютуб каналу та аудит відеомаркетингу: результати каналу, продакшн, готовність до YouTube Ads і робота з блогерами. Від $790. Дивіться ціни.",
+      "menu": "Аудит відеомаркетингу",
+      "featured": true,
+      "from_price": 790,
+      "delivery": "one-time",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "Реклама на ютуб: ведення кампаній YouTube Ads",
+      "description": "Реклама на ютуб: налаштування кампаній YouTube Ads, таргетинг аудиторій, стратегія креативів і звітність. Налаштування від $400. Дивіться ціни.",
+      "menu": "Реклама на YouTube",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "can-erim",
+          "aldillah-melisa-febryana"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc",
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "healthcare",
+          "fmcg",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "india",
+          "indonesia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "indonesian"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "Ведення та просування ютуб каналу від $1 200/міс",
+      "description": "Повне ведення та просування ютуб каналу: стратегія, публікації, метадані, обкладинки, спільнота й аналітика. Ведемо й багатомовні канали. Від $1 200/міс.",
+      "menu": "Ведення YouTube-каналу",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-collaborations",
+      "url": "/scopes/youtube-creator-collaborations",
+      "title": "Реклама у блогера на YouTube: постійні інтеграції",
+      "description": "Реклама у блогера на YouTube на постійній основі: пошук, аутріч, брифінг і координація публікацій. Від $3 500/міс. Дивіться ціни.",
+      "menu": "Інтеграції з YouTube-блогерами",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media",
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality",
+          "crypto",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "canada",
+          "uk",
+          "germany",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-pilot",
+      "url": "/scopes/youtube-creator-pilot",
+      "title": "Пошук блогерів для реклами: пілот на YouTube",
+      "description": "Разовий пілот з YouTube-блогерами: пошук блогерів для реклами, аутріч, брифінг і аналіз результатів до регулярної роботи. Від $3 500. Дивіться ціни.",
+      "menu": "Пілот з YouTube-блогерами",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "social-media",
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality"
+        ],
+        "countries": [
+          "usa",
+          "canada",
+          "uk",
+          "germany",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -886,26 +3353,33 @@
   ],
   "labels": {
     "domains": {
-      "app-marketing": "Маркетинг додатків",
       "search-marketing": "Пошуковий маркетинг",
       "web-marketing": "Вебмаркетинг",
       "growth-marketing": "Growth-маркетинг",
-      "community-marketing": "Ком’юніті-маркетинг",
-      "product-marketing": "Продуктовий маркетинг",
+      "app-marketing": "Маркетинг додатків",
       "brand-marketing": "Бренд-маркетинг",
+      "product-marketing": "Продуктовий маркетинг",
+      "community-marketing": "Ком’юніті-маркетинг",
       "performance-marketing": "Performance-маркетинг"
     },
     "experts": {
-      "mariia-nedbaievska": "Марія Недбаєвська",
-      "dima-gerko": "Діма Герко",
-      "brankica-petrasinovic": "Бранкіца Петрашинович",
       "anastasiya-antoniuk": "Анастасія Антонюк",
-      "muhammad-hijazi-siddiqui": "Мухаммад Хіджазі Сіддікі",
-      "elena-grakovich": "Олена Гракович",
-      "rita-pavide": "Ріта Павіде",
-      "aina-rakotondrabe": "Аїна Ракотондрабе",
-      "robmar-macallums": "Робмар Макаллумс",
+      "dima-gerko": "Діма Герко",
+      "dmitriy-razakhatsky": "Дмитро Разахацький",
+      "gael-balouek": "Гаель Балуек",
       "moataz-yacoubian": "Моатаз Якубян",
+      "aina-rakotondrabe": "Аїна Ракотондрабе",
+      "mohamed-isse": "Мохамед Іссе",
+      "syed-rafey": "Сайєд Рафі",
+      "tri-huy-do": "Чі-Хюї До",
+      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу",
+      "mariia-nedbaievska": "Марія Недбаєвська",
+      "muhammad-hijazi-siddiqui": "Мухаммад Хіджазі Сіддікі",
+      "brankica-petrasinovic": "Бранкіца Петрашинович",
+      "rita-pavide": "Ріта Павіде",
+      "elena-grakovich": "Олена Гракович",
+      "robmar-macallums": "Робмар Макаллумс",
+      "valentina-soldatkina": "Валентина Солдаткіна",
       "vitali-bakun": "Віталій Бакун",
       "ndeye-binta-diouf": "Ндейє Бінта Діуф",
       "can-erim": "Джан Ерім",
@@ -913,44 +3387,57 @@
       "md-solayman-rumon": "Мд Солайман Румон",
       "netanel-kugler": "Нетанель Куглер",
       "aldillah-melisa-febryana": "Алділла Меліса Фебріана",
-      "dmitriy-razakhatsky": "Дмитро Разахацький",
-      "gael-balouek": "Гаель Балуек",
-      "mohamed-isse": "Мохамед Іссе",
-      "syed-rafey": "Сайєд Рафі",
-      "tri-huy-do": "Чі-Хюї До",
-      "alaaddin-saracyakupoglu": "Алааддін Сараджякупоглу",
-      "valentina-soldatkina": "Валентина Солдаткіна",
       "lalit-kumar": "Лаліт Кумар"
     },
     "solutions": {
+      "ai-visibility": "Видимість в AI",
+      "global-seo": "Глобальне SEO",
+      "international-seo": "Міжнародне SEO",
+      "multilingual-seo": "Багатомовне SEO",
+      "digital-marketing-strategy": "Стратегія digital-маркетингу",
       "digital-marketing-consulting": "Маркетинговий консалтинг",
-      "multilingual-seo": "Багатомовне SEO"
+      "international-marketing": "Міжнародний і глобальний маркетинг",
+      "outsource-digital-marketing": "Аутсорсинг маркетингу",
+      "b2b-digital-marketing": "B2B-маркетинг",
+      "seo-ecommerce": "SEO для інтернет-магазинів"
     },
     "services": {
-      "aso": "ASO",
       "aeo": "AEO",
+      "app-conversion-retention": "Конверсія та утримання в додатках",
+      "app-user-acquisition": "Залучення користувачів у додатки",
+      "aso": "ASO",
       "content": "Контент-маркетинг",
       "seo": "SEO",
-      "social-media": "Соціальні мережі",
-      "ppc": "PPC",
       "web-development": "Розробка сайтів",
-      "paid-social": "Реклама в соцмережах"
+      "marketplace-management": "Ведення маркетплейсів",
+      "social-media": "Соціальні мережі",
+      "cro": "CRO",
+      "email": "Email-маркетинг",
+      "ppc": "PPC",
+      "pr": "Послуги digital PR",
+      "paid-social": "Реклама в соцмережах",
+      "video": "Відеомаркетинг"
     },
     "industries": {
+      "ecommerce": "Інтернет-магазини",
       "saas": "SaaS",
       "fintech": "Фінтех",
-      "ecommerce": "Інтернет-магазини",
       "healthcare": "Медицина",
-      "game-studios": "Ігрові студії",
-      "crypto": "Крипто",
       "automotive": "Автомобільна галузь",
-      "fmcg": "FMCG"
+      "legal": "Юридичні послуги",
+      "manufacturing": "Виробництво",
+      "crypto": "Крипто",
+      "fmcg": "FMCG",
+      "hospitality": "Готельно-ресторанний бізнес",
+      "pharma": "Фарма",
+      "retail": "Роздрібна торгівля",
+      "game-studios": "Ігрові студії"
     },
     "countries": {
       "germany": "Німеччина",
+      "france": "Франція",
       "usa": "США",
       "uk": "Велика Британія",
-      "france": "Франція",
       "austria": "Австрія",
       "poland": "Польща",
       "portugal": "Португалія",
@@ -961,6 +3448,8 @@
       "bulgaria": "Болгарія",
       "canada": "Канада",
       "china": "Китай",
+      "croatia": "Хорватія",
+      "cyprus": "Кіпр",
       "czechia": "Чехія",
       "denmark": "Данія",
       "estonia": "Естонія",
@@ -969,44 +3458,43 @@
       "greece": "Греція",
       "hungary": "Угорщина",
       "india": "Індія",
+      "indonesia": "Індонезія",
       "ireland": "Ірландія",
       "israel": "Ізраїль",
       "italy": "Італія",
       "japan": "Японія",
       "latvia": "Латвія",
+      "lithuania": "Литва",
       "luxembourg": "Люксембург",
+      "malaysia": "Малайзія",
       "malta": "Мальта",
       "mexico": "Мексика",
       "netherlands": "Нідерланди",
       "new-zealand": "Нова Зеландія",
+      "romania": "Румунія",
       "singapore": "Сінгапур",
+      "slovakia": "Словаччина",
+      "slovenia": "Словенія",
       "south-korea": "Південна Корея",
       "sweden": "Швеція",
       "switzerland": "Швейцарія",
       "taiwan": "Тайвань",
-      "uae": "ОАЕ",
-      "ukraine": "Україна",
-      "indonesia": "Індонезія",
-      "croatia": "Хорватія",
-      "slovakia": "Словаччина",
-      "slovenia": "Словенія",
-      "cyprus": "Кіпр",
-      "lithuania": "Литва",
-      "malaysia": "Малайзія",
-      "romania": "Румунія",
       "thailand": "Таїланд",
-      "turkey": "Туреччина"
+      "turkey": "Туреччина",
+      "uae": "ОАЕ",
+      "ukraine": "Україна"
     },
     "languages": {
       "english": "Англійська",
       "german": "Німецька",
       "french": "Французька",
-      "russian": "Російська",
       "spanish": "Іспанська",
+      "russian": "Російська",
       "polish": "Польська",
       "portuguese": "Португальська",
       "arabic": "Арабська",
       "bulgarian": "Болгарська",
+      "croatian": "Хорватська",
       "czech": "Чеська",
       "danish": "Данська",
       "dutch": "Нідерландська",
@@ -1014,34 +3502,35 @@
       "finnish": "Фінська",
       "greek": "Грецька",
       "hungarian": "Угорська",
+      "indonesian": "Індонезійська",
       "italian": "Італійська",
       "latvian": "Латиська",
+      "lithuanian": "Литовська",
       "romanian": "Румунська",
       "slovak": "Словацька",
-      "swedish": "Шведська",
-      "urdu": "Урду",
-      "croatian": "Хорватська",
       "slovenian": "Словенська",
-      "hindi": "Гінді",
-      "lithuanian": "Литовська",
-      "malay": "Малайська",
-      "indonesian": "Індонезійська",
+      "swedish": "Шведська",
       "thai": "Тайська",
-      "turkish": "Турецька"
+      "turkish": "Турецька",
+      "urdu": "Урду",
+      "hindi": "Гінді",
+      "malay": "Малайська"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Як ШІ обирає джерела",
+      "why-seo-matters-in-2026": "Що таке SEO",
+      "seo-packages-comparison": "Порівняння пакетів SEO"
     },
     "positions": {
+      "seo-expert": "SEO спеціаліст",
       "aso-specialist": "ASO спеціаліст",
       "marketing-consultant": "Консультант з маркетингу",
-      "seo-expert": "SEO спеціаліст",
+      "social-media-manager": "SMM-менеджер",
       "ppc-specialist": "PPC спеціаліст"
     },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "Порівняння пакетів SEO",
-      "why-seo-matters-in-2026": "Що таке SEO"
     }
   }
 }

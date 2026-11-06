@@ -50,7 +50,12 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "app-store-cro",
+          "apple-search-ads",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "experts": [
           "mariia-nedbaievska",
@@ -58,7 +63,10 @@
           "brankica-petrasinovic"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aso",
@@ -174,7 +182,11 @@
           "brand-marketing"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "international-marketing",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
         ],
         "services": [
           "seo",
@@ -187,7 +199,10 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing",
+          "hospitality",
+          "legal"
         ],
         "countries": [
           "germany",
@@ -290,8 +305,12 @@
           "web-marketing"
         ],
         "scopes": [
+          "cross-market-setup",
           "seo-research",
+          "local-seo",
           "content-strategy",
+          "content-localization",
+          "transcreation",
           "aso-localization",
           "telegram-ads"
         ],
@@ -299,8 +318,14 @@
           "moataz-yacoubian"
         ],
         "solutions": [
+          "international-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "seo",
@@ -314,6 +339,8 @@
           "saas",
           "fintech",
           "healthcare",
+          "retail",
+          "hospitality",
           "automotive"
         ],
         "countries": [
@@ -442,6 +469,11 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "microsoft-ads",
+          "google-shopping",
+          "remarketing-display",
+          "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
         "experts": [
@@ -453,7 +485,11 @@
           "netanel-kugler"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "ppc"
@@ -463,6 +499,8 @@
           "saas",
           "fintech",
           "automotive",
+          "legal",
+          "manufacturing",
           "game-studios",
           "fmcg"
         ],
@@ -566,7 +604,13 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "on-page-seo",
+          "link-building",
+          "cross-market-setup",
+          "ai-optimisation",
+          "local-seo",
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dmitriy-razakhatsky",
@@ -582,8 +626,16 @@
           "tri-huy-do"
         ],
         "solutions": [
+          "global-seo",
+          "international-seo",
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
+          "ai-visibility"
         ],
         "services": [
           "seo"
@@ -594,8 +646,13 @@
           "healthcare",
           "fintech",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
-          "fmcg"
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -720,6 +777,146 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "SMM-менеджер: клієнтські канали та закупівля реклами в Telegram",
+      "description": "Віддалені вакансії SMM-менеджера в Onlinuum: ведення соцмереж клієнтів і закупівля реклами в Telegram, 40 % від виручки. Подавайтеся сьогодні.",
+      "menu": "SMM-менеджер",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Ми активно додаємо SMM-менеджерів до мережі експертів",
+        "badge_active": "Активно наймаємо на роботу в соцмережах і Telegram",
+        "apply_label": "Подати заявку / представитися",
+        "label_service": "Основна послуга",
+        "label_countries": "Пріоритетні ринки",
+        "label_languages": "Робочі мови",
+        "label_industries": "Пріоритетні галузі",
+        "label_experience": "Рівень",
+        "label_engagement": "Формат співпраці",
+        "label_commitment": "Зайнятість",
+        "engagement_type": "Проєктно / часткова зайнятість",
+        "working_hours": "10-30 годин на тиждень залежно від активних каналів і хвиль розміщень",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Таїланд",
+          "ОАЕ",
+          "Кіпр",
+          "Туреччина",
+          "Німеччина",
+          "Польща"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "Від 3 років ведення соціальних каналів або закупівлі розміщень у соцмережах і Telegram для брендів, з результатами, які можна показати.",
+        "education_requirements": "без вимог"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "telegram-channel-placements",
+          "telegram-ads",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot",
+          "youtube-channel-management",
+          "content-strategy",
+          "copywriting",
+          "transcreation"
+        ],
+        "solutions": [
+          "international-marketing",
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "social-media",
+          "paid-social",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "hospitality",
+          "crypto",
+          "game-studios",
+          "retail",
+          "fintech"
+        ],
+        "countries": [
+          "thailand",
+          "uae",
+          "cyprus",
+          "turkey",
+          "israel",
+          "germany",
+          "poland",
+          "spain",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "ukrainian",
+          "german",
+          "polish",
+          "spanish",
+          "turkish"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
@@ -729,17 +926,41 @@
       "growth-marketing": "Growth-маркетинг",
       "brand-marketing": "Бренд-маркетинг",
       "performance-marketing": "Performance-маркетинг",
-      "web-marketing": "Вебмаркетинг"
+      "web-marketing": "Вебмаркетинг",
+      "community-marketing": "Ком’юніті-маркетинг"
     },
     "scopes": {
       "aso-optimization": "ASO-оптимізація",
       "aso-localization": "ASO-локалізація",
+      "app-store-cro": "App Store CRO",
+      "apple-search-ads": "Apple Search Ads",
+      "app-retention": "Утримання користувачів",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Реклама додатків у соцмережах",
+      "cross-market-setup": "Налаштування міжнародного SEO",
       "seo-research": "SEO-дослідження",
+      "local-seo": "Локальне SEO",
       "content-strategy": "Контент-стратегія",
+      "content-localization": "Переклад і локалізація",
+      "transcreation": "Транскреація",
       "telegram-ads": "Реклама в Telegram",
       "ppc-audit": "Аудит Google Ads",
       "google-ads-search": "Пошук у Google Ads",
-      "technical-seo": "Технічне SEO"
+      "microsoft-ads": "Microsoft Ads",
+      "google-shopping": "Google Shopping",
+      "remarketing-display": "Ремаркетинг і медійна реклама",
+      "youtube-ads": "Реклама на YouTube",
+      "local-services-ads": "Реклама Local Services Ads",
+      "technical-seo": "Технічне SEO",
+      "on-page-seo": "Внутрішня оптимізація",
+      "link-building": "Лінкбілдинг",
+      "ai-optimisation": "AI-оптимізація",
+      "seo-audit": "Комплексний SEO-аудит",
+      "telegram-channel-placements": "Розміщення в Telegram-каналах",
+      "youtube-creator-collaborations": "Інтеграції з YouTube-блогерами",
+      "youtube-creator-pilot": "Пілот з YouTube-блогерами",
+      "youtube-channel-management": "Ведення YouTube-каналу",
+      "copywriting": "Копірайтинг"
     },
     "experts": {
       "mariia-nedbaievska": "Марія Недбаєвська",
@@ -763,8 +984,16 @@
       "tri-huy-do": "Чі-Хюї До"
     },
     "solutions": {
+      "digital-marketing-strategy": "Стратегія digital-маркетингу",
       "digital-marketing-consulting": "Маркетинговий консалтинг",
-      "multilingual-seo": "Багатомовне SEO"
+      "international-marketing": "Міжнародний і глобальний маркетинг",
+      "outsource-digital-marketing": "Аутсорсинг маркетингу",
+      "b2b-digital-marketing": "B2B-маркетинг",
+      "global-seo": "Глобальне SEO",
+      "international-seo": "Міжнародне SEO",
+      "multilingual-seo": "Багатомовне SEO",
+      "seo-ecommerce": "SEO для інтернет-магазинів",
+      "ai-visibility": "Видимість в AI"
     },
     "services": {
       "aso": "ASO",
@@ -774,7 +1003,8 @@
       "ppc": "PPC",
       "content": "Контент-маркетинг",
       "paid-social": "Реклама в соцмережах",
-      "web-development": "Розробка сайтів"
+      "web-development": "Розробка сайтів",
+      "social-media": "Соціальні мережі"
     },
     "industries": {
       "saas": "SaaS",
@@ -782,9 +1012,14 @@
       "ecommerce": "Інтернет-магазини",
       "healthcare": "Медицина",
       "game-studios": "Ігрові студії",
+      "manufacturing": "Виробництво",
+      "hospitality": "Готельно-ресторанний бізнес",
+      "legal": "Юридичні послуги",
+      "retail": "Роздрібна торгівля",
       "automotive": "Автомобільна галузь",
       "fmcg": "FMCG",
-      "crypto": "Крипто"
+      "crypto": "Крипто",
+      "pharma": "Фарма"
     },
     "countries": {
       "germany": "Німеччина",

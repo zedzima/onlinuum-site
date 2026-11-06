@@ -8,11 +8,11 @@
       "menu": "Автомобільна галузь",
       "featured": false,
       "icon": "automotive",
-      "scope_count": 6,
+      "scope_count": 27,
       "service_count": 8,
       "expert_count": 9,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -27,10 +27,31 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "ai-optimisation",
+          "cross-market-setup",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
+          "copywriting",
           "google-ads-search",
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
           "ppc-audit",
-          "telegram-ads"
+          "remarketing-display",
+          "seo-audit",
+          "telegram-ads",
+          "telegram-channel-placements",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dmitriy-razakhatsky",
@@ -47,8 +68,16 @@
           "alvadi"
         ],
         "solutions": [
+          "digital-marketing-strategy",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "seo-ecommerce",
+          "international-seo",
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "global-seo",
+          "digital-marketing-consulting",
+          "outsource-digital-marketing",
+          "ai-visibility"
         ],
         "services": [
           "content",
@@ -146,11 +175,11 @@
       "menu": "Крипто",
       "featured": false,
       "icon": "crypto",
-      "scope_count": 8,
+      "scope_count": 20,
       "service_count": 15,
       "expert_count": 5,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 9,
       "facets": {
         "domains": [
           "search-marketing",
@@ -165,13 +194,25 @@
         ],
         "scopes": [
           "seo-research",
+          "seo-audit",
           "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "ai-optimisation",
+          "cross-market-setup",
           "google-ads-search",
           "telegram-ads",
+          "telegram-channel-placements",
+          "youtube-creator-collaborations",
+          "youtube-channel-management",
           "content-strategy",
           "content-writing",
+          "content-localization",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "rita-pavide",
@@ -181,8 +222,15 @@
           "vyacheslav-maletskiy"
         ],
         "solutions": [
+          "digital-marketing-strategy",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility"
         ],
         "services": [
           "seo",
@@ -225,7 +273,8 @@
           "turkish"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "social-media-manager"
         ]
       }
     },
@@ -237,11 +286,11 @@
       "menu": "Інтернет-магазини",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 9,
+      "scope_count": 34,
       "service_count": 18,
       "expert_count": 19,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -257,13 +306,38 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "ai-optimisation",
+          "cross-market-setup",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
+          "google-shopping",
+          "microsoft-ads",
           "ppc-audit",
-          "telegram-ads"
+          "remarketing-display",
+          "seo-audit",
+          "telegram-ads",
+          "telegram-channel-placements",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -290,8 +364,16 @@
           "alvadi"
         ],
         "solutions": [
+          "digital-marketing-strategy",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "b2b-digital-marketing",
+          "seo-ecommerce",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility"
         ],
         "services": [
           "content",
@@ -406,7 +488,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -418,11 +501,11 @@
       "menu": "Фінтех",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 9,
+      "scope_count": 28,
       "service_count": 12,
       "expert_count": 12,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -438,13 +521,32 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "ai-optimisation",
+          "local-seo",
+          "cross-market-setup",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
+          "microsoft-ads",
           "ppc-audit",
-          "telegram-ads"
+          "remarketing-display",
+          "seo-audit",
+          "telegram-ads",
+          "telegram-channel-placements",
+          "transcreation",
+          "youtube-ads"
         ],
         "experts": [
           "anastasiya-antoniuk",
@@ -461,8 +563,16 @@
           "vyacheslav-maletskiy"
         ],
         "solutions": [
+          "digital-marketing-strategy",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -568,7 +678,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -580,11 +691,11 @@
       "menu": "FMCG",
       "featured": false,
       "icon": "shopping-cart",
-      "scope_count": 4,
+      "scope_count": 12,
       "service_count": 11,
       "expert_count": 6,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -598,9 +709,17 @@
         ],
         "scopes": [
           "seo-research",
+          "on-page-seo",
           "technical-seo",
+          "link-building",
+          "ai-optimisation",
+          "cross-market-setup",
+          "google-shopping",
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads",
+          "video-content-production"
         ],
         "experts": [
           "aldillah-melisa-febryana",
@@ -611,8 +730,16 @@
           "vitali-bakun"
         ],
         "solutions": [
+          "digital-marketing-strategy",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "b2b-digital-marketing",
+          "seo-ecommerce",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "outsource-digital-marketing",
+          "ai-visibility"
         ],
         "services": [
           "seo",
@@ -660,11 +787,11 @@
       "menu": "Ігрові студії",
       "featured": false,
       "icon": "gaming",
-      "scope_count": 4,
+      "scope_count": 14,
       "service_count": 13,
       "expert_count": 5,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 8,
       "facets": {
         "domains": [
           "app-marketing",
@@ -680,8 +807,18 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
+          "app-store-cro",
+          "app-retention",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-creator-collaborations",
+          "remarketing-display",
           "seo-research",
-          "technical-seo"
+          "technical-seo",
+          "on-page-seo"
         ],
         "experts": [
           "muhammad-hijazi-siddiqui",
@@ -691,8 +828,14 @@
           "syed-rafey"
         ],
         "solutions": [
+          "digital-marketing-strategy",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "international-marketing",
+          "international-seo",
+          "global-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "ai-visibility"
         ],
         "services": [
           "aso",
@@ -738,7 +881,8 @@
         ],
         "positions": [
           "aso-specialist",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -750,11 +894,11 @@
       "menu": "Медицина",
       "featured": false,
       "icon": "healthcare",
-      "scope_count": 5,
+      "scope_count": 23,
       "service_count": 11,
       "expert_count": 12,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -770,9 +914,27 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "ai-optimisation",
+          "cross-market-setup",
           "aso-optimization",
           "aso-localization",
-          "content-strategy"
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "copywriting",
+          "google-shopping",
+          "local-services-ads",
+          "seo-audit",
+          "telegram-channel-placements",
+          "youtube-ads"
         ],
         "experts": [
           "dmitriy-razakhatsky",
@@ -789,8 +951,16 @@
           "vyacheslav-maletskiy"
         ],
         "solutions": [
+          "digital-marketing-strategy",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility",
+          "seo-ecommerce"
         ],
         "services": [
           "ppc",
@@ -878,6 +1048,678 @@
       }
     },
     {
+      "slug": "hospitality",
+      "url": "/industries/hospitality",
+      "title": "Реклама готелю: більше прямих бронювань",
+      "description": "Реклама готелю та курорту: SEO, PPC і багатомовні кампанії, що приносять прямі бронювання. Залиште заявку на бриф.",
+      "menu": "Готельно-ресторанний бізнес",
+      "featured": false,
+      "icon": "hospitality",
+      "scope_count": 22,
+      "service_count": 11,
+      "expert_count": 11,
+      "case_count": 0,
+      "solution_count": 8,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "web-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "marketing-operations",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "ai-optimisation",
+          "cross-market-setup",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "telegram-ads",
+          "telegram-channel-placements",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-channel-management",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "vitali-bakun",
+          "aina-rakotondrabe",
+          "can-erim",
+          "lisa-chernova",
+          "md-solayman-rumon",
+          "moataz-yacoubian",
+          "syed-rafey"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "content",
+          "analytics",
+          "social-media",
+          "paid-social",
+          "orm",
+          "aeo",
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "croatia",
+          "cyprus",
+          "indonesia",
+          "malaysia",
+          "malta",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "indonesian",
+          "malay",
+          "thai"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "legal",
+      "url": "/industries/legal",
+      "title": "Реклама юридичних послуг і маркетинг legaltech",
+      "description": "Реклама юридичних послуг для юридичних фірм і legaltech-компаній: SEO, PPC, контент і репутація з урахуванням вимог у різних країнах.",
+      "menu": "Юридичні послуги",
+      "featured": false,
+      "icon": "legal",
+      "scope_count": 18,
+      "service_count": 8,
+      "expert_count": 8,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "community-marketing",
+          "web-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "growth-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "ai-optimisation",
+          "cross-market-setup",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "google-ads-search",
+          "local-services-ads",
+          "microsoft-ads",
+          "ppc-audit",
+          "remarketing-display",
+          "seo-audit"
+        ],
+        "experts": [
+          "dmitriy-razakhatsky",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "vitali-bakun",
+          "dima-gerko",
+          "lalit-kumar",
+          "rita-pavide",
+          "syed-rafey"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "b2b-digital-marketing",
+          "seo-ecommerce",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "ai-visibility"
+        ],
+        "services": [
+          "content",
+          "analytics",
+          "pr",
+          "orm",
+          "aeo",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "canada",
+          "china",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "slovakia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "manufacturing",
+      "url": "/industries/manufacturing",
+      "title": "Промисловий маркетинг для виробників-експортерів",
+      "description": "Промисловий маркетинг для виробників і B2B: SEO, контент і генерація попиту для експорту товарів. Залиште заявку на бриф.",
+      "menu": "Виробництво",
+      "featured": false,
+      "icon": "manufacturing",
+      "scope_count": 18,
+      "service_count": 7,
+      "expert_count": 8,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "web-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "cross-market-setup",
+          "ai-optimisation",
+          "local-seo",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "google-ads-search",
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
+          "ppc-audit",
+          "seo-audit"
+        ],
+        "experts": [
+          "dmitriy-razakhatsky",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "vitali-bakun",
+          "dima-gerko",
+          "can-erim",
+          "ismail-aydogdu",
+          "syed-rafey"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing",
+          "international-marketing",
+          "seo-ecommerce",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "digital-marketing-consulting",
+          "ai-visibility"
+        ],
+        "services": [
+          "content",
+          "analytics",
+          "pr",
+          "aeo",
+          "web-development",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "finnish",
+          "greek",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "turkish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "pharma",
+      "url": "/industries/pharma",
+      "title": "Фармацевтичний маркетинг для регульованих ринків",
+      "description": "Агенція фармацевтичного маркетингу для фарми та life sciences: SEO й контент із дотриманням вимог на багатомовних регульованих ринках. Залиште заявку.",
+      "menu": "Фарма",
+      "featured": false,
+      "icon": "healthcare",
+      "scope_count": 13,
+      "service_count": 11,
+      "expert_count": 6,
+      "case_count": 0,
+      "solution_count": 9,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "web-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "marketing-operations",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "ai-optimisation",
+          "cross-market-setup",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "vitali-bakun",
+          "tri-huy-do"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "content",
+          "analytics",
+          "pr",
+          "orm",
+          "aeo",
+          "web-development",
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "slovenia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "slovenian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "retail",
+      "url": "/industries/retail",
+      "title": "Омніканальний маркетинг для рітейлу: онлайн і офлайн",
+      "description": "Омніканальний маркетинг для рітейлерів і власників магазинів: SEO, PPC і товарні фіди, що приводять виручку. Залиште заявку на бриф.",
+      "menu": "Роздрібна торгівля",
+      "featured": false,
+      "icon": "shopping-bag",
+      "scope_count": 23,
+      "service_count": 11,
+      "expert_count": 13,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "web-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "marketing-operations",
+          "app-marketing"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "ai-optimisation",
+          "cross-market-setup",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-rewriting",
+          "copywriting",
+          "telegram-channel-placements",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-channel-management",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "vitali-bakun",
+          "aldillah-melisa-febryana",
+          "can-erim",
+          "ismail-aydogdu",
+          "lisa-chernova",
+          "ndeye-binta-diouf",
+          "robmar-macallums",
+          "syed-rafey",
+          "tri-huy-do"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "b2b-digital-marketing",
+          "seo-ecommerce",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility"
+        ],
+        "services": [
+          "seo",
+          "ppc",
+          "content",
+          "analytics",
+          "social-media",
+          "paid-social",
+          "automation",
+          "aeo",
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "bulgaria",
+          "croatia",
+          "cyprus",
+          "finland",
+          "indonesia",
+          "italy",
+          "malaysia",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "thailand",
+          "turkey",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "arabic",
+          "croatian",
+          "hindi",
+          "indonesian",
+          "malay",
+          "thai",
+          "turkish",
+          "urdu"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "saas",
       "url": "/industries/saas",
       "title": "SaaS маркетинг: лідогенерація для B2B",
@@ -885,11 +1727,11 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 9,
+      "scope_count": 33,
       "service_count": 17,
       "expert_count": 12,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 10,
       "facets": {
         "domains": [
           "search-marketing",
@@ -905,13 +1747,37 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "on-page-seo",
+          "link-building",
+          "ai-optimisation",
+          "local-seo",
+          "cross-market-setup",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
+          "microsoft-ads",
           "ppc-audit",
-          "telegram-ads"
+          "remarketing-display",
+          "seo-audit",
+          "telegram-ads",
+          "telegram-channel-placements",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "elena-grakovich",
@@ -931,8 +1797,16 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
+          "digital-marketing-strategy",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "ai-visibility",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1046,7 +1920,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -1066,13 +1941,39 @@
     "scopes": {
       "seo-research": "SEO-дослідження",
       "technical-seo": "Технічне SEO",
+      "on-page-seo": "Внутрішня оптимізація",
+      "link-building": "Лінкбілдинг",
+      "local-seo": "Локальне SEO",
+      "ai-optimisation": "AI-оптимізація",
+      "cross-market-setup": "Налаштування міжнародного SEO",
+      "content-localization": "Переклад і локалізація",
+      "content-rewriting": "Рерайтинг",
       "content-strategy": "Контент-стратегія",
+      "copywriting": "Копірайтинг",
       "google-ads-search": "Пошук у Google Ads",
+      "google-shopping": "Google Shopping",
+      "local-services-ads": "Реклама Local Services Ads",
+      "microsoft-ads": "Microsoft Ads",
       "ppc-audit": "Аудит Google Ads",
+      "remarketing-display": "Ремаркетинг і медійна реклама",
+      "seo-audit": "Комплексний SEO-аудит",
       "telegram-ads": "Реклама в Telegram",
+      "telegram-channel-placements": "Розміщення в Telegram-каналах",
+      "transcreation": "Транскреація",
+      "video-content-production": "Відеопродакшн",
+      "video-marketing-audit": "Аудит відеомаркетингу",
+      "youtube-ads": "Реклама на YouTube",
+      "youtube-channel-management": "Ведення YouTube-каналу",
+      "youtube-creator-collaborations": "Інтеграції з YouTube-блогерами",
+      "youtube-creator-pilot": "Пілот з YouTube-блогерами",
       "content-writing": "Написання текстів",
       "aso-optimization": "ASO-оптимізація",
-      "aso-localization": "ASO-локалізація"
+      "aso-localization": "ASO-локалізація",
+      "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
+      "app-retention": "Утримання користувачів",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Реклама додатків у соцмережах"
     },
     "experts": {
       "dmitriy-razakhatsky": "Дмитро Разахацький",
@@ -1100,15 +2001,24 @@
       "mohamed-isse": "Мохамед Іссе",
       "muhammad-hijazi-siddiqui": "Мухаммад Хіджазі Сіддікі",
       "brankica-petrasinovic": "Бранкіца Петрашинович",
-      "valentina-soldatkina": "Валентина Солдаткіна"
+      "valentina-soldatkina": "Валентина Солдаткіна",
+      "robmar-macallums": "Робмар Макаллумс"
     },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
+      "digital-marketing-strategy": "Стратегія digital-маркетингу",
+      "b2b-digital-marketing": "B2B-маркетинг",
+      "international-marketing": "Міжнародний і глобальний маркетинг",
+      "seo-ecommerce": "SEO для інтернет-магазинів",
+      "international-seo": "Міжнародне SEO",
       "multilingual-seo": "Багатомовне SEO",
-      "digital-marketing-consulting": "Маркетинговий консалтинг"
+      "global-seo": "Глобальне SEO",
+      "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "outsource-digital-marketing": "Аутсорсинг маркетингу",
+      "ai-visibility": "Видимість в AI"
     },
     "services": {
       "content": "Контент-маркетинг",
@@ -1224,6 +2134,7 @@
       "seo-expert": "SEO спеціаліст",
       "marketing-consultant": "Консультант з маркетингу",
       "ppc-specialist": "PPC спеціаліст",
+      "social-media-manager": "SMM-менеджер",
       "aso-specialist": "ASO спеціаліст",
       "business-development-manager": "Менеджер з розвитку бізнесу"
     }

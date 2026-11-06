@@ -43,11 +43,16 @@
           "search-marketing"
         ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "content-localization",
+          "transcreation"
         ],
         "experts": [
           "dima-gerko",
           "vitali-bakun"
+        ],
+        "solutions": [
+          "international-marketing"
         ],
         "services": [
           "ppc"
@@ -110,11 +115,16 @@
           "web-marketing"
         ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "cross-market-setup"
         ],
         "experts": [
           "vitali-bakun",
           "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing"
         ],
         "services": [
           "ppc",
@@ -139,12 +149,19 @@
       "web-marketing": "Вебмаркетинг"
     },
     "scopes": {
-      "google-ads-search": "Пошук у Google Ads"
+      "google-ads-search": "Пошук у Google Ads",
+      "content-localization": "Переклад і локалізація",
+      "transcreation": "Транскреація",
+      "cross-market-setup": "Налаштування міжнародного SEO"
     },
     "experts": {
       "dima-gerko": "Діма Герко",
       "vitali-bakun": "Віталій Бакун",
       "elena-grakovich": "Олена Гракович"
+    },
+    "solutions": {
+      "international-marketing": "Міжнародний і глобальний маркетинг",
+      "b2b-digital-marketing": "B2B-маркетинг"
     },
     "services": {
       "ppc": "PPC",

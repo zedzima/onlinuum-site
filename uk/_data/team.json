@@ -22,7 +22,8 @@
       ],
       "industries": [
         "ecommerce",
-        "healthcare"
+        "healthcare",
+        "hospitality"
       ],
       "cases": [],
       "case_count": 0,
@@ -32,8 +33,10 @@
           "search-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "content-strategy",
           "content-writing",
+          "on-page-seo",
           "seo-research"
         ],
         "services": [
@@ -44,7 +47,8 @@
         ],
         "industries": [
           "ecommerce",
-          "healthcare"
+          "healthcare",
+          "hospitality"
         ],
         "countries": [
           "canada",
@@ -94,8 +98,18 @@
           "web-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "on-page-seo",
           "seo-research",
           "technical-seo"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "global-seo",
+          "international-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -140,6 +154,7 @@
       ],
       "industries": [
         "ecommerce",
+        "retail",
         "fmcg"
       ],
       "cases": [],
@@ -152,10 +167,15 @@
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "paid-social",
@@ -163,6 +183,7 @@
         ],
         "industries": [
           "ecommerce",
+          "retail",
           "fmcg"
         ],
         "countries": [
@@ -206,6 +227,11 @@
         "fintech",
         "fmcg",
         "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail",
         "saas"
       ],
       "cases": [],
@@ -224,14 +250,35 @@
         "scopes": [
           "aso-localization",
           "aso-optimization",
+          "on-page-seo",
           "seo-research",
+          "ai-optimisation",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
-          "technical-seo"
+          "copywriting",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "seo-audit",
+          "technical-seo",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-channel-management"
         ],
         "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "ai-visibility",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "aso",
@@ -246,6 +293,11 @@
           "fintech",
           "fmcg",
           "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail",
           "saas"
         ],
         "countries": [
@@ -341,8 +393,13 @@
           "search-marketing"
         ],
         "scopes": [
+          "app-store-cro",
           "aso-localization",
           "aso-optimization"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "app-conversion-retention",
@@ -399,6 +456,9 @@
         "ecommerce",
         "fintech",
         "healthcare",
+        "hospitality",
+        "manufacturing",
+        "retail",
         "saas"
       ],
       "cases": [],
@@ -411,7 +471,13 @@
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "paid-social",
@@ -422,6 +488,9 @@
           "ecommerce",
           "fintech",
           "healthcare",
+          "hospitality",
+          "manufacturing",
+          "retail",
           "saas"
         ],
         "countries": [
@@ -469,8 +538,13 @@
         "fintech",
         "healthcare",
         "automotive",
+        "legal",
+        "manufacturing",
         "fmcg",
-        "game-studios"
+        "game-studios",
+        "hospitality",
+        "pharma",
+        "retail"
       ],
       "cases": [
         "alvadi"
@@ -490,19 +564,40 @@
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "on-page-seo",
           "seo-research",
           "technical-seo",
+          "link-building",
+          "local-seo",
+          "app-retention",
+          "app-store-cro",
+          "apple-search-ads",
           "aso-localization",
           "aso-optimization",
+          "content-localization",
           "content-strategy",
-          "ppc-audit"
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "ppc-audit",
+          "seo-audit",
+          "transcreation"
         ],
         "cases": [
           "alvadi"
         ],
         "solutions": [
+          "ai-visibility",
+          "seo-ecommerce",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aeo",
@@ -522,8 +617,13 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -604,7 +704,12 @@
         "saas",
         "crypto",
         "automotive",
-        "fmcg"
+        "fmcg",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail"
       ],
       "cases": [],
       "case_count": 0,
@@ -619,12 +724,26 @@
           "community-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "on-page-seo",
           "seo-research",
-          "technical-seo"
+          "technical-seo",
+          "link-building",
+          "local-seo",
+          "seo-audit"
         ],
         "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "international-seo",
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "outsource-digital-marketing",
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "global-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "analytics",
@@ -640,7 +759,12 @@
           "saas",
           "crypto",
           "automotive",
-          "fmcg"
+          "fmcg",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -728,7 +852,12 @@
         "crypto",
         "automotive",
         "fmcg",
-        "healthcare"
+        "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail"
       ],
       "cases": [],
       "case_count": 1,
@@ -745,18 +874,36 @@
           "web-marketing"
         ],
         "scopes": [
+          "cross-market-setup",
+          "on-page-seo",
           "seo-research",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
           "content-writing",
+          "copywriting",
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
+          "ppc-audit",
+          "remarketing-display",
+          "transcreation",
+          "youtube-ads"
         ],
         "cases": [
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "analytics",
@@ -775,7 +922,12 @@
           "crypto",
           "automotive",
           "fmcg",
-          "healthcare"
+          "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "france",
@@ -862,12 +1014,19 @@
           "web-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "on-page-seo",
+          "seo-audit",
           "seo-research",
           "technical-seo"
         ],
         "solutions": [
+          "ai-visibility",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -915,7 +1074,9 @@
         "turkey"
       ],
       "industries": [
-        "ecommerce"
+        "ecommerce",
+        "manufacturing",
+        "retail"
       ],
       "cases": [],
       "case_count": 0,
@@ -927,7 +1088,11 @@
         ],
         "scopes": [
           "google-ads-search",
+          "google-shopping",
           "ppc-audit"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
         ],
         "services": [
           "analytics",
@@ -935,7 +1100,9 @@
           "ppc"
         ],
         "industries": [
-          "ecommerce"
+          "ecommerce",
+          "manufacturing",
+          "retail"
         ],
         "countries": [
           "turkey"
@@ -968,7 +1135,8 @@
       ],
       "industries": [
         "ecommerce",
-        "healthcare"
+        "healthcare",
+        "legal"
       ],
       "cases": [],
       "case_count": 0,
@@ -979,7 +1147,15 @@
           "search-marketing"
         ],
         "scopes": [
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
           "technical-seo"
+        ],
+        "solutions": [
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
           "analytics",
@@ -987,7 +1163,8 @@
         ],
         "industries": [
           "ecommerce",
-          "healthcare"
+          "healthcare",
+          "legal"
         ],
         "countries": [
           "canada",
@@ -1018,7 +1195,9 @@
       "countries": [],
       "industries": [
         "crypto",
-        "ecommerce"
+        "ecommerce",
+        "hospitality",
+        "retail"
       ],
       "cases": [],
       "case_count": 0,
@@ -1028,13 +1207,18 @@
           "brand-marketing",
           "community-marketing"
         ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
         "services": [
           "content",
           "social-media"
         ],
         "industries": [
           "crypto",
-          "ecommerce"
+          "ecommerce",
+          "hospitality",
+          "retail"
         ],
         "languages": [
           "english",
@@ -1077,7 +1261,17 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "app-store-cro",
+          "apple-search-ads",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aso",
@@ -1124,7 +1318,8 @@
       ],
       "industries": [
         "automotive",
-        "ecommerce"
+        "ecommerce",
+        "hospitality"
       ],
       "cases": [],
       "case_count": 0,
@@ -1137,7 +1332,13 @@
         ],
         "scopes": [
           "google-ads-search",
+          "google-shopping",
+          "microsoft-ads",
           "ppc-audit"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "analytics",
@@ -1147,7 +1348,8 @@
         ],
         "industries": [
           "automotive",
-          "ecommerce"
+          "ecommerce",
+          "hospitality"
         ],
         "countries": [
           "australia",
@@ -1185,7 +1387,8 @@
       ],
       "industries": [
         "automotive",
-        "healthcare"
+        "healthcare",
+        "hospitality"
       ],
       "cases": [],
       "case_count": 0,
@@ -1197,12 +1400,20 @@
           "web-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "content-writing",
           "google-ads-search",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
           "seo-research"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "ai-visibility",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aeo",
@@ -1214,7 +1425,8 @@
         ],
         "industries": [
           "automotive",
-          "healthcare"
+          "healthcare",
+          "hospitality"
         ],
         "countries": [
           "france",
@@ -1265,6 +1477,7 @@
           "search-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
           "seo-research",
           "technical-seo"
         ],
@@ -1329,7 +1542,16 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "app-store-cro",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "analytics",
@@ -1383,7 +1605,8 @@
         "canada"
       ],
       "industries": [
-        "ecommerce"
+        "ecommerce",
+        "retail"
       ],
       "cases": [],
       "case_count": 0,
@@ -1395,11 +1618,14 @@
         ],
         "scopes": [
           "google-ads-search",
+          "google-shopping",
+          "on-page-seo",
           "seo-research",
           "technical-seo"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "outsource-digital-marketing"
         ],
         "services": [
           "analytics",
@@ -1407,7 +1633,8 @@
           "seo"
         ],
         "industries": [
-          "ecommerce"
+          "ecommerce",
+          "retail"
         ],
         "countries": [
           "canada"
@@ -1453,7 +1680,13 @@
           "search-marketing"
         ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "google-shopping",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "paid-social",
@@ -1495,6 +1728,7 @@
       ],
       "industries": [
         "fintech",
+        "legal",
         "crypto"
       ],
       "cases": [],
@@ -1507,11 +1741,18 @@
           "search-marketing"
         ],
         "scopes": [
+          "on-page-seo",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "copywriting",
+          "transcreation"
         ],
         "solutions": [
-          "multilingual-seo"
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
           "content",
@@ -1520,6 +1761,7 @@
         ],
         "industries": [
           "fintech",
+          "legal",
           "crypto"
         ],
         "countries": [
@@ -1562,12 +1804,19 @@
           "community-marketing"
         ],
         "scopes": [
-          "content-writing"
+          "content-writing",
+          "video-content-production"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
         ],
         "services": [
           "content",
           "social-media",
           "video"
+        ],
+        "industries": [
+          "retail"
         ],
         "countries": [
           "spain"
@@ -1603,6 +1852,10 @@
         "fintech",
         "game-studios",
         "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "retail",
         "saas"
       ],
       "cases": [],
@@ -1613,6 +1866,10 @@
           "search-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "link-building",
+          "on-page-seo",
+          "seo-audit",
           "seo-research",
           "technical-seo"
         ],
@@ -1628,6 +1885,10 @@
           "fintech",
           "game-studios",
           "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "retail",
           "saas"
         ],
         "countries": [
@@ -1665,7 +1926,9 @@
         "usa"
       ],
       "industries": [
-        "ecommerce"
+        "ecommerce",
+        "pharma",
+        "retail"
       ],
       "cases": [],
       "case_count": 0,
@@ -1675,11 +1938,18 @@
           "search-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "on-page-seo",
+          "seo-audit",
           "seo-research",
           "technical-seo"
         ],
         "solutions": [
-          "multilingual-seo"
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "aeo",
@@ -1687,7 +1957,9 @@
           "seo"
         ],
         "industries": [
-          "ecommerce"
+          "ecommerce",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "belgium",
@@ -1736,7 +2008,14 @@
           "search-marketing"
         ],
         "scopes": [
+          "cross-market-setup",
+          "link-building",
           "seo-research"
+        ],
+        "solutions": [
+          "international-marketing",
+          "international-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
           "seo"
@@ -1786,7 +2065,12 @@
         "automotive",
         "fintech",
         "fmcg",
-        "healthcare"
+        "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail"
       ],
       "cases": [
         "alvadi"
@@ -1803,14 +2087,24 @@
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "analytics",
@@ -1824,7 +2118,12 @@
           "automotive",
           "fintech",
           "fmcg",
-          "healthcare"
+          "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -1908,6 +2207,9 @@
           "product-marketing",
           "web-marketing"
         ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
         "services": [
           "automation",
           "cro",
@@ -1946,14 +2248,37 @@
       "marketing-operations": "Маркетингові операції"
     },
     "scopes": {
+      "ai-optimisation": "AI-оптимізація",
       "content-strategy": "Контент-стратегія",
       "content-writing": "Написання текстів",
+      "on-page-seo": "Внутрішня оптимізація",
       "seo-research": "SEO-дослідження",
+      "cross-market-setup": "Налаштування міжнародного SEO",
+      "link-building": "Лінкбілдинг",
       "technical-seo": "Технічне SEO",
       "google-ads-search": "Пошук у Google Ads",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Аудит Google Ads",
+      "youtube-ads": "Реклама на YouTube",
       "aso-localization": "ASO-локалізація",
-      "aso-optimization": "ASO-оптимізація"
+      "aso-optimization": "ASO-оптимізація",
+      "content-localization": "Переклад і локалізація",
+      "content-rewriting": "Рерайтинг",
+      "copywriting": "Копірайтинг",
+      "local-seo": "Локальне SEO",
+      "seo-audit": "Комплексний SEO-аудит",
+      "transcreation": "Транскреація",
+      "video-content-production": "Відеопродакшн",
+      "video-marketing-audit": "Аудит відеомаркетингу",
+      "youtube-channel-management": "Ведення YouTube-каналу",
+      "app-store-cro": "App Store CRO",
+      "app-retention": "Утримання користувачів",
+      "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Реклама додатків у соцмережах",
+      "local-services-ads": "Реклама Local Services Ads",
+      "microsoft-ads": "Microsoft Ads",
+      "remarketing-display": "Ремаркетинг і медійна реклама"
     },
     "services": {
       "aeo": "AEO",
@@ -1976,10 +2301,15 @@
     "industries": {
       "ecommerce": "Інтернет-магазини",
       "healthcare": "Медицина",
+      "hospitality": "Готельно-ресторанний бізнес",
       "saas": "SaaS",
+      "retail": "Роздрібна торгівля",
       "fmcg": "FMCG",
       "automotive": "Автомобільна галузь",
       "fintech": "Фінтех",
+      "legal": "Юридичні послуги",
+      "manufacturing": "Виробництво",
+      "pharma": "Фарма",
       "game-studios": "Ігрові студії",
       "crypto": "Крипто"
     },
@@ -2049,7 +2379,15 @@
       "marketing-consultant": "Консультант з маркетингу"
     },
     "solutions": {
+      "b2b-digital-marketing": "B2B-маркетинг",
+      "global-seo": "Глобальне SEO",
+      "international-seo": "Міжнародне SEO",
+      "seo-ecommerce": "SEO для інтернет-магазинів",
       "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "digital-marketing-strategy": "Стратегія digital-маркетингу",
+      "international-marketing": "Міжнародний і глобальний маркетинг",
+      "outsource-digital-marketing": "Аутсорсинг маркетингу",
+      "ai-visibility": "Видимість в AI",
       "multilingual-seo": "Багатомовне SEO"
     },
     "blog-posts": {

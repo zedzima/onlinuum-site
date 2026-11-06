@@ -9,14 +9,19 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 3,
-      "scope_count": 2,
-      "solution_count": 1,
+      "scope_count": 7,
+      "solution_count": 5,
       "case_count": 0,
       "expert_count": 5,
       "facets": {
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "mariia-nedbaievska",
@@ -26,7 +31,11 @@
           "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aso",
@@ -39,7 +48,10 @@
           "ecommerce",
           "healthcare",
           "game-studios",
-          "crypto"
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "usa",
@@ -124,15 +136,27 @@
       "featured": true,
       "icon": "award",
       "service_count": 5,
-      "scope_count": 3,
-      "solution_count": 2,
+      "scope_count": 15,
+      "solution_count": 10,
       "case_count": 0,
       "expert_count": 8,
       "facets": {
         "scopes": [
+          "link-building",
+          "on-page-seo",
           "seo-research",
+          "telegram-channel-placements",
+          "video-marketing-audit",
+          "youtube-channel-management",
+          "video-content-production",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "copywriting",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -145,7 +169,15 @@
           "robmar-macallums"
         ],
         "solutions": [
+          "international-marketing",
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing",
           "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "seo-ecommerce",
+          "international-seo",
           "multilingual-seo"
         ],
         "services": [
@@ -160,10 +192,15 @@
           "saas",
           "fintech",
           "healthcare",
+          "legal",
+          "manufacturing",
           "ecommerce",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "usa",
@@ -247,7 +284,8 @@
           "turkish"
         ],
         "positions": [
-          "business-development-manager"
+          "business-development-manager",
+          "social-media-manager"
         ]
       }
     },
@@ -260,14 +298,23 @@
       "featured": true,
       "icon": "users",
       "service_count": 4,
-      "scope_count": 2,
-      "solution_count": 2,
+      "scope_count": 11,
+      "solution_count": 10,
       "case_count": 0,
       "expert_count": 7,
       "facets": {
         "scopes": [
+          "on-page-seo",
           "seo-research",
-          "content-strategy"
+          "telegram-channel-placements",
+          "video-marketing-audit",
+          "youtube-channel-management",
+          "video-content-production",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot",
+          "content-rewriting",
+          "content-strategy",
+          "copywriting"
         ],
         "experts": [
           "elena-grakovich",
@@ -279,7 +326,15 @@
           "robmar-macallums"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
           "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "seo-ecommerce",
+          "international-seo",
           "multilingual-seo"
         ],
         "services": [
@@ -289,14 +344,19 @@
           "email"
         ],
         "industries": [
+          "legal",
           "ecommerce",
           "saas",
           "automotive",
           "fintech",
           "healthcare",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "usa",
@@ -367,6 +427,9 @@
           "romanian",
           "slovak",
           "swedish"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -379,12 +442,13 @@
       "featured": true,
       "icon": "trending-up",
       "service_count": 7,
-      "scope_count": 2,
-      "solution_count": 2,
+      "scope_count": 3,
+      "solution_count": 10,
       "case_count": 0,
       "expert_count": 7,
       "facets": {
         "scopes": [
+          "ai-optimisation",
           "seo-research",
           "content-strategy"
         ],
@@ -398,7 +462,15 @@
           "valentina-soldatkina"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
+          "ai-visibility",
+          "global-seo",
+          "international-seo",
           "multilingual-seo"
         ],
         "services": [
@@ -411,14 +483,19 @@
           "app-conversion-retention"
         ],
         "industries": [
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "usa",
@@ -519,7 +596,7 @@
       "icon": "settings",
       "service_count": 3,
       "scope_count": 0,
-      "solution_count": 1,
+      "solution_count": 5,
       "case_count": 0,
       "expert_count": 4,
       "facets": {
@@ -530,7 +607,11 @@
           "vyacheslav-maletskiy"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing"
         ],
         "services": [
           "analytics",
@@ -543,9 +624,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "usa",
@@ -628,15 +714,23 @@
       "featured": true,
       "icon": "target",
       "service_count": 8,
-      "scope_count": 3,
-      "solution_count": 1,
+      "scope_count": 11,
+      "solution_count": 6,
       "case_count": 2,
       "expert_count": 10,
       "facets": {
         "scopes": [
           "ppc-audit",
           "google-ads-search",
-          "telegram-ads"
+          "microsoft-ads",
+          "google-shopping",
+          "remarketing-display",
+          "youtube-ads",
+          "video-marketing-audit",
+          "video-content-production",
+          "local-services-ads",
+          "telegram-ads",
+          "copywriting"
         ],
         "experts": [
           "elena-grakovich",
@@ -655,6 +749,11 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
           "digital-marketing-consulting"
         ],
         "services": [
@@ -669,13 +768,18 @@
         ],
         "industries": [
           "automotive",
+          "legal",
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech",
           "healthcare",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "usa",
@@ -757,7 +861,8 @@
         ],
         "positions": [
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -770,15 +875,21 @@
       "featured": true,
       "icon": "compass",
       "service_count": 4,
-      "scope_count": 3,
-      "solution_count": 2,
+      "scope_count": 9,
+      "solution_count": 10,
       "case_count": 0,
       "expert_count": 6,
       "facets": {
         "scopes": [
+          "on-page-seo",
           "seo-research",
+          "link-building",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "copywriting",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -789,7 +900,15 @@
           "vyacheslav-maletskiy"
         ],
         "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
           "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "seo-ecommerce",
+          "international-seo",
           "multilingual-seo"
         ],
         "services": [
@@ -804,9 +923,14 @@
           "healthcare",
           "saas",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -900,18 +1024,31 @@
       "featured": true,
       "icon": "search-new",
       "service_count": 6,
-      "scope_count": 6,
-      "solution_count": 2,
+      "scope_count": 19,
+      "solution_count": 10,
       "case_count": 1,
       "expert_count": 24,
       "facets": {
         "scopes": [
           "technical-seo",
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
           "seo-research",
           "ppc-audit",
           "google-ads-search",
+          "microsoft-ads",
+          "google-shopping",
+          "local-services-ads",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "copywriting",
+          "seo-audit",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -943,8 +1080,16 @@
           "alvadi"
         ],
         "solutions": [
+          "ai-visibility",
+          "seo-ecommerce",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
           "aeo",
@@ -956,13 +1101,18 @@
         ],
         "industries": [
           "automotive",
+          "legal",
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech",
           "healthcare",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -1069,16 +1219,26 @@
       "featured": true,
       "icon": "layers",
       "service_count": 5,
-      "scope_count": 4,
-      "solution_count": 2,
+      "scope_count": 14,
+      "solution_count": 10,
       "case_count": 1,
       "expert_count": 8,
       "facets": {
         "scopes": [
           "technical-seo",
+          "ai-optimisation",
           "seo-research",
+          "on-page-seo",
+          "link-building",
+          "local-seo",
+          "cross-market-setup",
+          "content-localization",
+          "content-rewriting",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "copywriting",
+          "seo-audit",
+          "transcreation"
         ],
         "experts": [
           "elena-grakovich",
@@ -1094,8 +1254,16 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
+          "seo-ecommerce",
+          "international-seo",
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "global-seo",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "ai-visibility"
         ],
         "services": [
           "cro",
@@ -1110,9 +1278,14 @@
           "fintech",
           "healthcare",
           "automotive",
+          "legal",
+          "manufacturing",
           "crypto",
           "fmcg",
-          "game-studios"
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
           "germany",
@@ -1213,13 +1386,39 @@
     "scopes": {
       "aso-optimization": "ASO-оптимізація",
       "aso-localization": "ASO-локалізація",
+      "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Реклама додатків у соцмережах",
+      "app-store-cro": "App Store CRO",
+      "app-retention": "Утримання користувачів",
+      "link-building": "Лінкбілдинг",
+      "on-page-seo": "Внутрішня оптимізація",
       "seo-research": "SEO-дослідження",
+      "telegram-channel-placements": "Розміщення в Telegram-каналах",
+      "video-marketing-audit": "Аудит відеомаркетингу",
+      "youtube-channel-management": "Ведення YouTube-каналу",
+      "video-content-production": "Відеопродакшн",
+      "youtube-creator-collaborations": "Інтеграції з YouTube-блогерами",
+      "youtube-creator-pilot": "Пілот з YouTube-блогерами",
+      "content-localization": "Переклад і локалізація",
+      "content-rewriting": "Рерайтинг",
       "content-strategy": "Контент-стратегія",
       "content-writing": "Написання текстів",
+      "copywriting": "Копірайтинг",
+      "transcreation": "Транскреація",
+      "ai-optimisation": "AI-оптимізація",
       "ppc-audit": "Аудит Google Ads",
       "google-ads-search": "Пошук у Google Ads",
+      "microsoft-ads": "Microsoft Ads",
+      "google-shopping": "Google Shopping",
+      "remarketing-display": "Ремаркетинг і медійна реклама",
+      "youtube-ads": "Реклама на YouTube",
+      "local-services-ads": "Реклама Local Services Ads",
       "telegram-ads": "Реклама в Telegram",
-      "technical-seo": "Технічне SEO"
+      "technical-seo": "Технічне SEO",
+      "cross-market-setup": "Налаштування міжнародного SEO",
+      "local-seo": "Локальне SEO",
+      "seo-audit": "Комплексний SEO-аудит"
     },
     "experts": {
       "mariia-nedbaievska": "Марія Недбаєвська",
@@ -1251,7 +1450,15 @@
       "tri-huy-do": "Чі-Хюї До"
     },
     "solutions": {
+      "digital-marketing-strategy": "Стратегія digital-маркетингу",
       "digital-marketing-consulting": "Маркетинговий консалтинг",
+      "b2b-digital-marketing": "B2B-маркетинг",
+      "international-marketing": "Міжнародний і глобальний маркетинг",
+      "outsource-digital-marketing": "Аутсорсинг маркетингу",
+      "ai-visibility": "Видимість в AI",
+      "global-seo": "Глобальне SEO",
+      "seo-ecommerce": "SEO для інтернет-магазинів",
+      "international-seo": "Міжнародне SEO",
       "multilingual-seo": "Багатомовне SEO"
     },
     "services": {
@@ -1282,7 +1489,12 @@
       "healthcare": "Медицина",
       "game-studios": "Ігрові студії",
       "crypto": "Крипто",
+      "hospitality": "Готельно-ресторанний бізнес",
+      "pharma": "Фарма",
+      "retail": "Роздрібна торгівля",
       "automotive": "Автомобільна галузь",
+      "legal": "Юридичні послуги",
+      "manufacturing": "Виробництво",
       "fmcg": "FMCG"
     },
     "countries": {
@@ -1371,6 +1583,7 @@
     "positions": {
       "aso-specialist": "ASO спеціаліст",
       "business-development-manager": "Менеджер з розвитку бізнесу",
+      "social-media-manager": "SMM-менеджер",
       "marketing-consultant": "Консультант з маркетингу",
       "ppc-specialist": "PPC спеціаліст",
       "seo-expert": "SEO спеціаліст"
