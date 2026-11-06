@@ -1607,6 +1607,8 @@ a.cards-link:hover {
 
 .catalog-toolbar {
     display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm) var(--space-md);
     justify-content: space-between;
     align-items: center;
     margin-bottom: var(--space-lg);
@@ -1614,7 +1616,31 @@ a.cards-link:hover {
     border-bottom: 1px solid var(--border);
 }
 .catalog-count { font-size: var(--font-size-ui); color: var(--text-muted); }
-.catalog-sort select { min-width: 180px; }
+.catalog-sort {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+}
+.catalog-sort-label {
+    font-size: var(--font-size-ui);
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+.catalog-sort select { min-width: 180px; width: auto; }
+.catalog-sort-dir {
+    align-self: stretch;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    padding: 0 var(--input-padding-x);
+}
+.catalog-sort-dir svg {
+    width: 1.1em;
+    height: 1.1em;
+    transition: transform var(--transition);
+}
+.catalog-sort-dir[data-dir="asc"] svg { transform: rotate(180deg); }
 
 .catalog-grid {
     justify-content: start;
