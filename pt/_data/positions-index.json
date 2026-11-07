@@ -7,7 +7,7 @@
       "description": "Vaga remota de ASO specialist na Onlinuum: assuma a otimização para a App Store, fique com 40 % da receita e trabalhe em vários idiomas.",
       "menu": "ASO specialist",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 3,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -50,25 +50,56 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "app-store-cro",
+          "apple-search-ads",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
+          "brankica-petrasinovic"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention"
         ],
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "healthcare",
+          "game-studios"
         ],
         "countries": [
-          "portugal"
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "india"
         ],
         "languages": [
           "english",
-          "portuguese"
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "urdu"
         ]
       },
       "services": [
@@ -146,22 +177,51 @@
         "education_requirements": "sem requisitos"
       },
       "facets": {
+        "domains": [
+          "growth-marketing",
+          "brand-marketing"
+        ],
         "solutions": [
-          "digital-marketing-consulting"
+          "international-marketing",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
         ],
         "services": [
           "seo",
           "ppc",
           "aso",
-          "content"
+          "content",
+          "paid-social",
+          "web-development"
         ],
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing",
+          "hospitality",
+          "legal"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "arabic"
         ]
       },
       "services": [
@@ -200,7 +260,7 @@
       "description": "Emprego de consultor de marketing remoto na Onlinuum: assuma um mercado dentro de uma rede de 48 países e fique com 40 % da receita.",
       "menu": "Consultor de Marketing",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -239,31 +299,76 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "growth-marketing",
+          "search-marketing",
+          "performance-marketing",
+          "web-marketing"
         ],
         "scopes": [
+          "cross-market-setup",
           "seo-research",
+          "local-seo",
           "content-strategy",
+          "content-localization",
+          "transcreation",
           "aso-localization",
           "telegram-ads"
         ],
+        "experts": [
+          "moataz-yacoubian"
+        ],
         "solutions": [
+          "international-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "seo",
           "ppc",
           "aso",
-          "content"
+          "content",
+          "paid-social"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "retail",
+          "hospitality",
+          "automotive"
+        ],
+        "countries": [
+          "germany",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "poland",
+          "sweden",
+          "turkey",
+          "brazil",
+          "mexico",
+          "japan",
+          "uae"
         ],
         "languages": [
+          "german",
+          "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "polish",
+          "swedish",
+          "turkish",
           "portuguese",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -320,7 +425,7 @@
       "description": "Vagas Google Ads remotas na Onlinuum: assuma pesquisa paga, Shopping e YouTube Ads em 6 mercados prioritários. Candidate-se hoje.",
       "menu": "Gestor de tráfego",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 6,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -358,15 +463,33 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "microsoft-ads",
+          "google-shopping",
+          "remarketing-display",
+          "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "ndeye-binta-diouf",
+          "can-erim",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "netanel-kugler"
+        ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "ppc"
@@ -374,10 +497,33 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "game-studios",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "india",
+          "indonesia",
+          "malaysia",
+          "singapore",
+          "thailand",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "indonesian"
         ]
       },
       "services": [
@@ -414,7 +560,7 @@
       "description": "Vagas SEO remotas na Onlinuum: assuma auditorias técnicas e execução on-page e fique com 40 % da receita. Candidate-se hoje.",
       "menu": "Especialista de SEO",
       "featured": false,
-      "expert_count": 1,
+      "expert_count": 11,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -452,19 +598,44 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "web-marketing"
         ],
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "on-page-seo",
+          "link-building",
+          "cross-market-setup",
+          "ai-optimisation",
+          "local-seo",
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
-          "alaaddin-saracyakupoglu"
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
+          "aina-rakotondrabe",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do"
         ],
         "solutions": [
+          "global-seo",
+          "international-seo",
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
+          "ai-visibility"
         ],
         "services": [
           "seo"
@@ -472,15 +643,101 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "healthcare",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "austria",
+          "uk",
+          "france",
+          "usa",
+          "poland",
           "portugal",
-          "eu"
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
-          "portuguese"
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "chinese",
+          "japanese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hebrew",
+          "hindi",
+          "hungarian",
+          "italian",
+          "korean",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "ukrainian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -567,26 +824,62 @@
       },
       "facets": {
         "domains": [
-          "community-marketing"
+          "community-marketing",
+          "brand-marketing",
+          "performance-marketing"
         ],
         "scopes": [
+          "telegram-channel-placements",
           "telegram-ads",
-          "content-strategy"
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot",
+          "youtube-channel-management",
+          "content-strategy",
+          "copywriting",
+          "transcreation",
+          "social-media-management"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "international-marketing",
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
         ],
         "services": [
           "social-media",
+          "paid-social",
           "content"
         ],
         "industries": [
           "ecommerce",
           "saas",
+          "hospitality",
+          "crypto",
+          "game-studios",
+          "retail",
           "fintech"
         ],
+        "countries": [
+          "thailand",
+          "uae",
+          "cyprus",
+          "turkey",
+          "israel",
+          "germany",
+          "poland",
+          "spain",
+          "uk",
+          "usa"
+        ],
         "languages": [
-          "english"
+          "english",
+          "russian",
+          "ukrainian",
+          "german",
+          "polish",
+          "spanish",
+          "turkish"
         ]
       },
       "services": [
@@ -631,44 +924,191 @@
     "domains": {
       "app-marketing": "Marketing mobile",
       "search-marketing": "Marketing nos motores de busca",
+      "growth-marketing": "Growth marketing",
+      "brand-marketing": "Marketing de marca",
+      "performance-marketing": "Performance marketing",
+      "web-marketing": "Marketing web",
       "community-marketing": "Marketing de comunidade"
     },
     "scopes": {
       "aso-optimization": "ASO para lojas de apps",
       "aso-localization": "Localização de software",
+      "app-store-cro": "CRO na App Store",
+      "apple-search-ads": "Apple Search Ads",
+      "app-retention": "Retenção de apps",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Anúncios de apps nas redes sociais",
+      "cross-market-setup": "Configuração multimercado",
       "seo-research": "Pesquisa SEO",
+      "local-seo": "SEO local",
       "content-strategy": "Estratégia de conteúdos",
+      "content-localization": "Localização de conteúdos",
+      "transcreation": "Transcriação",
       "telegram-ads": "Telegram Ads",
       "ppc-audit": "Auditoria Google Ads",
       "google-ads-search": "Google Ads de pesquisa",
-      "technical-seo": "SEO técnico"
+      "microsoft-ads": "Microsoft Ads",
+      "google-shopping": "Google Shopping",
+      "remarketing-display": "Remarketing e display",
+      "youtube-ads": "YouTube Ads",
+      "local-services-ads": "Publicidade Local Services Ads",
+      "technical-seo": "SEO técnico",
+      "on-page-seo": "SEO on-page",
+      "link-building": "Link building",
+      "ai-optimisation": "SEO IA",
+      "seo-audit": "Auditoria SEO completa",
+      "telegram-channel-placements": "Publicidade em canais Telegram",
+      "youtube-creator-collaborations": "Colaborações com criadores YouTube",
+      "youtube-creator-pilot": "Piloto com criadores YouTube",
+      "youtube-channel-management": "Gestão de canal YouTube",
+      "copywriting": "Copywriting de conversão",
+      "social-media-management": "Gestão de redes sociais"
+    },
+    "experts": {
+      "mariia-nedbaievska": "Mariia Nedbaievska",
+      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "brankica-petrasinovic": "Brankica Petrašinović",
+      "moataz-yacoubian": "Moataz Yacoubian",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
+      "can-erim": "Can Erim",
+      "ismail-aydogdu": "İsmail Aydoğdu",
+      "md-solayman-rumon": "Md Solayman Rumon",
+      "netanel-kugler": "Netanel Kugler",
+      "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
+      "gael-balouek": "Gael Balouek",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "valentina-soldatkina": "Valentina Soldatkina",
+      "lalit-kumar": "Lalit Kumar",
+      "aina-rakotondrabe": "Aina Rakotondrabe",
+      "mohamed-isse": "Mohamed Isse",
+      "syed-rafey": "Syed Rafey",
+      "tri-huy-do": "Tri-Huy Do"
     },
     "solutions": {
+      "digital-marketing-strategy": "Estratégia de marketing digital",
       "digital-marketing-consulting": "Consultoria de marketing digital",
-      "multilingual-seo": "SEO multilingue"
+      "international-marketing": "Marketing internacional",
+      "outsource-digital-marketing": "Outsourcing de marketing digital",
+      "b2b-digital-marketing": "Marketing digital B2B",
+      "global-seo": "SEO global",
+      "international-seo": "SEO internacional",
+      "multilingual-seo": "SEO multilingue",
+      "seo-ecommerce": "SEO para lojas online",
+      "ai-visibility": "Visibilidade em IA"
     },
     "services": {
       "aso": "ASO para apps",
+      "app-user-acquisition": "Aquisição de utilizadores de apps",
+      "app-conversion-retention": "Conversão e retenção de apps",
       "seo": "Serviços de SEO",
       "ppc": "Google Ads",
       "content": "Marketing de conteúdos",
+      "paid-social": "Publicidade nas redes sociais",
+      "web-development": "Criação de sites",
       "social-media": "Redes sociais"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "Setor fintech",
-      "ecommerce": "Comércio eletrónico"
+      "ecommerce": "Comércio eletrónico",
+      "healthcare": "Saúde",
+      "game-studios": "Estúdios de jogos",
+      "manufacturing": "Indústria",
+      "hospitality": "Hotelaria",
+      "legal": "Jurídico",
+      "retail": "Retalho",
+      "automotive": "Automóvel",
+      "fmcg": "FMCG e CPG",
+      "crypto": "Cripto e web3",
+      "pharma": "Farmacêutico"
     },
     "countries": {
+      "germany": "Alemanha",
+      "usa": "Estados Unidos",
+      "uk": "Reino Unido",
+      "france": "França",
+      "austria": "Áustria",
+      "poland": "Polónia",
       "portugal": "Portugal",
-      "eu": "União Europeia"
+      "spain": "Espanha",
+      "india": "Índia",
+      "italy": "Itália",
+      "netherlands": "Países Baixos",
+      "uae": "Emirados Árabes Unidos",
+      "sweden": "Suécia",
+      "turkey": "Turquia",
+      "brazil": "Brasil",
+      "mexico": "México",
+      "japan": "Japão",
+      "indonesia": "Indonésia",
+      "malaysia": "Malásia",
+      "singapore": "Singapura",
+      "thailand": "Tailândia",
+      "australia": "Austrália",
+      "belgium": "Bélgica",
+      "bulgaria": "Bulgária",
+      "canada": "Canadá",
+      "china": "China",
+      "croatia": "Croácia",
+      "cyprus": "Chipre",
+      "czechia": "Chéquia",
+      "denmark": "Dinamarca",
+      "estonia": "Estónia",
+      "eu": "União Europeia",
+      "finland": "Finlândia",
+      "greece": "Grécia",
+      "hungary": "Hungria",
+      "ireland": "Irlanda",
+      "israel": "Israel",
+      "latvia": "Letónia",
+      "lithuania": "Lituânia",
+      "luxembourg": "Luxemburgo",
+      "malta": "Malta",
+      "new-zealand": "Nova Zelândia",
+      "romania": "Roménia",
+      "slovakia": "Eslováquia",
+      "slovenia": "Eslovénia",
+      "south-korea": "Coreia do Sul",
+      "switzerland": "Suíça",
+      "taiwan": "Taiwan",
+      "ukraine": "Ucrânia"
     },
     "languages": {
       "english": "Inglês",
-      "portuguese": "Português"
-    },
-    "experts": {
-      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+      "german": "Alemão",
+      "french": "Francês",
+      "russian": "Russo",
+      "spanish": "Espanhol",
+      "polish": "Polaco",
+      "portuguese": "Português",
+      "urdu": "Urdu (língua)",
+      "italian": "Italiano",
+      "dutch": "Neerlandês",
+      "arabic": "Árabe",
+      "swedish": "Sueco",
+      "turkish": "Turco",
+      "japanese": "Japonês",
+      "indonesian": "Indonésio",
+      "chinese": "Chinês",
+      "bulgarian": "Búlgaro",
+      "croatian": "Croata",
+      "czech": "Checo",
+      "danish": "Dinamarquês",
+      "estonian": "Estónio",
+      "finnish": "Finlandês",
+      "greek": "Grego",
+      "hebrew": "Hebraico",
+      "hindi": "Hindi (língua)",
+      "hungarian": "Húngaro",
+      "korean": "Coreano",
+      "lithuanian": "Lituano",
+      "malay": "Malaio",
+      "romanian": "Romeno",
+      "slovak": "Eslovaco",
+      "slovenian": "Esloveno",
+      "thai": "Tailandês",
+      "ukrainian": "Ucraniano"
     },
     "blog-posts": {
       "seo-packages-comparison": "Comparação de planos de SEO",

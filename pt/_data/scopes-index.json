@@ -1,9 +1,494 @@
 {
   "scopes": [
     {
+      "slug": "ai-optimisation",
+      "url": "/scopes/ai-optimisation",
+      "title": "SEO IA: conteúdos citados pelo ChatGPT e pela IA",
+      "description": "Serviços de SEO IA: conteúdos prontos a citar no ChatGPT, Perplexity e Claude. Auditorias de visibilidade desde $500, especialista com nome.",
+      "menu": "SEO IA",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 9,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "growth-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "aina-rakotondrabe",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo"
+        ],
+        "services": [
+          "aeo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "app-retention",
+      "url": "/scopes/app-retention",
+      "title": "Estratégia de retenção para apps: onboarding, CRM e paywall",
+      "description": "Estratégia de retenção para apps: onboarding, CRM, notificações push e paywall que tornam rentável o investimento em aquisição. Auditorias desde $400.",
+      "menu": "Retenção de apps",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-conversion-retention"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "app-store-cro",
+      "url": "/scopes/app-store-cro",
+      "title": "Screenshots App Store e ícone: CRO para mais instalações",
+      "description": "CRO na App Store: estratégia de screenshots, testes A/B do ícone e store listing experiments que aumentam as instalações. Testes desde $160.",
+      "menu": "CRO na App Store",
+      "featured": true,
+      "from_price": 160,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "brankica-petrasinovic",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-conversion-retention"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Gestão de Apple Search Ads para apps iOS",
+      "description": "Gestão de Apple Search Ads: configuração da conta, estratégia de palavras-chave e otimização de licitações para instalações iOS. Desde $400/mês.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
-      "title": "Localização de Software e Tradução de Apps",
+      "title": "Localização de software e tradução de apps",
       "description": "Localização de software para lojas de apps: palavras-chave e metadados nativos por mercado, sem tradução automática, desde $300. Veja os preços.",
       "menu": "Localização de software",
       "featured": true,
@@ -19,10 +504,18 @@
           "app-marketing"
         ],
         "experts": [
-          "dima-gerko"
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "brankica-petrasinovic",
+          "anastasiya-antoniuk",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
         ],
         "services": [
           "aso"
@@ -30,15 +523,78 @@
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
           "portugal",
-          "eu"
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
-          "portuguese"
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish",
+          "urdu"
         ],
         "positions": [
           "aso-specialist",
@@ -51,7 +607,7 @@
     {
       "slug": "aso-optimization",
       "url": "/scopes/aso-optimization",
-      "title": "ASO Google Play e App Store: Otimização",
+      "title": "ASO Google Play e App Store: otimização",
       "description": "ASO para a Google Play e a App Store: palavras-chave, metadados e análise de concorrentes em iOS e Android, desde $300. Veja os preços.",
       "menu": "ASO para lojas de apps",
       "featured": true,
@@ -67,10 +623,18 @@
           "app-marketing"
         ],
         "experts": [
-          "dima-gerko"
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "brankica-petrasinovic",
+          "anastasiya-antoniuk",
+          "muhammad-hijazi-siddiqui"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
         ],
         "services": [
           "aso"
@@ -78,15 +642,78 @@
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "crypto",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
           "portugal",
-          "eu"
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
-          "portuguese"
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish",
+          "urdu"
         ],
         "positions": [
           "aso-specialist"
@@ -96,9 +723,176 @@
       "article_count": 0
     },
     {
+      "slug": "content-localization",
+      "url": "/scopes/content-localization",
+      "title": "Serviços de localização e tradução de conteúdos B2B",
+      "description": "Serviços de localização e tradução para empresas, por idioma de destino: linguistas nativos, pós-edição e QA de localização. Tradução desde $600.",
+      "menu": "Localização de conteúdos",
+      "featured": true,
+      "from_price": 600,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "international-marketing",
+          "global-seo",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "web-development"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "croatia",
+          "cyprus",
+          "lithuania",
+          "romania",
+          "slovakia",
+          "slovenia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "croatian",
+          "hindi",
+          "indonesian",
+          "lithuanian",
+          "malay",
+          "slovenian"
+        ],
+        "positions": [
+          "marketing-consultant"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 0
+    },
+    {
+      "slug": "content-rewriting",
+      "url": "/scopes/content-rewriting",
+      "title": "Reescrita de textos: atualizar e reaproveitar conteúdos",
+      "description": "Reescrita de textos de páginas já publicadas: textos do site, atualização de artigos, edição e reaproveitamento de conteúdos. 5 páginas desde $700.",
+      "menu": "Reescrita de conteúdos",
+      "featured": true,
+      "from_price": 700,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 8,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "aeo",
+          "marketplace-management"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "legal",
+          "retail",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "slovenian"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "content-strategy",
       "url": "/scopes/content-strategy",
-      "title": "Estratégia de Conteúdos e Plano Editorial",
+      "title": "Estratégia de conteúdos e plano editorial",
       "description": "Estratégia de conteúdos que começa por uma auditoria de site: plano editorial a 12 meses, tópicos prioritários e responsáveis. Desde $500. Ver preços.",
       "menu": "Estratégia de conteúdos",
       "featured": true,
@@ -112,16 +906,30 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "web-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
-          "dima-gerko"
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "rita-pavide",
+          "dima-gerko",
+          "aina-rakotondrabe"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
+          "aeo",
           "content",
           "seo",
           "social-media"
@@ -129,14 +937,36 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto"
         ],
         "countries": [
-          "portugal"
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "croatia",
+          "slovakia",
+          "slovenia"
         ],
         "languages": [
           "english",
-          "portuguese"
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "croatian",
+          "slovenian"
         ],
         "positions": [
           "seo-expert",
@@ -150,7 +980,7 @@
     {
       "slug": "content-writing",
       "url": "/scopes/content-writing",
-      "title": "Redação de Conteúdos SEO em Vários Idiomas",
+      "title": "Redação de conteúdos SEO em vários idiomas",
       "description": "Redação de conteúdos com preço por peça: artigos de blogue, páginas pilar, casos de estudo e white papers. Artigos desde $500. Ver preços por tarefa.",
       "menu": "Redação de conteúdos",
       "featured": true,
@@ -163,28 +993,300 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich",
+          "robmar-macallums",
+          "moataz-yacoubian",
+          "aina-rakotondrabe"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
         ],
         "services": [
           "content",
-          "seo"
+          "seo",
+          "aeo"
         ],
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "legal",
+          "manufacturing",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "slovakia",
+          "slovenia"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "croatian",
+          "hindi",
+          "lithuanian",
+          "malay",
+          "slovenian"
         ]
       },
       "case_count": 0,
       "article_count": 0
     },
     {
+      "slug": "copywriting",
+      "url": "/scopes/copywriting",
+      "title": "Serviços de copywriting: sites, páginas de vendas e e-mails",
+      "description": "Serviços de copywriting para sites, páginas de vendas, e-mails e anúncios. Preço fixo por entregável, redatores nativos, uma ronda de revisão. Desde $800.",
+      "menu": "Copywriting de conversão",
+      "featured": true,
+      "from_price": 250,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 8,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 7,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "anastasiya-antoniuk",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "email",
+          "ppc",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "legal",
+          "retail",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "cyprus",
+          "romania"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "croatian",
+          "hindi",
+          "lithuanian",
+          "malay",
+          "slovenian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "cross-market-setup",
+      "url": "/scopes/cross-market-setup",
+      "title": "Tag hreflang e geotargeting para sites multimercado",
+      "description": "SEO internacional: implementação da tag hreflang, geotargeting e pesquisa de palavras-chave por especialistas nativos. Auditorias desde $500.",
+      "menu": "Configuração multimercado",
+      "featured": true,
+      "from_price": 500,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "elena-grakovich",
+          "valentina-soldatkina"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "international-seo",
+          "multilingual-seo",
+          "global-seo",
+          "international-marketing"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "manufacturing",
+          "automotive",
+          "legal",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "spain",
+          "portugal",
+          "poland",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 1
+    },
+    {
       "slug": "google-ads-search",
       "url": "/scopes/google-ads-search",
-      "title": "Campanhas Google Ads de Pesquisa",
+      "title": "Campanhas Google Ads de pesquisa",
       "description": "Gestão de campanhas Google Ads de pesquisa: estrutura, mapa de palavras-chave, controlo de exclusões e otimização de licitações. Desde $400/mês.",
       "menu": "Google Ads de pesquisa",
       "featured": true,
@@ -197,17 +1299,30 @@
       "task_count": 5,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "experts": [
-          "vitali-bakun"
+          "elena-grakovich",
+          "vitali-bakun",
+          "ndeye-binta-diouf",
+          "can-erim",
+          "moataz-yacoubian",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "netanel-kugler",
+          "aldillah-melisa-febryana"
         ],
         "cases": [
           "alvadi",
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "ppc"
@@ -215,10 +1330,47 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "croatia",
+          "cyprus",
+          "india",
+          "indonesia",
+          "lithuania",
+          "malaysia",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic",
+          "indonesian",
+          "lithuanian",
+          "malay",
+          "slovenian",
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "positions": [
           "ppc-specialist"
@@ -228,9 +1380,865 @@
       "article_count": 0
     },
     {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Gestão de Google App Campaigns para Android e iOS",
+      "description": "Gestão de Google App Campaigns: configuração da conta, testes de criativos e otimização de licitações para UA em Android e iOS. Desde $400. Veja os preços.",
+      "menu": "Google App Campaigns (UAC)",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "romanian",
+          "slovak",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "google-shopping",
+      "url": "/scopes/google-shopping",
+      "title": "Gestão de campanhas Google Shopping: feed e ROAS",
+      "description": "Gestão de campanhas Google Shopping: auditoria do Google Merchant Center, otimização do feed e controlo do ROAS, desde $400/mês. Veja os preços.",
+      "menu": "Google Shopping",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 7,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "ndeye-binta-diouf",
+          "can-erim",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "netanel-kugler",
+          "aldillah-melisa-febryana"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "automotive",
+          "healthcare",
+          "manufacturing",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "india",
+          "indonesia",
+          "malaysia",
+          "romania",
+          "singapore",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "indonesian"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "link-building",
+      "url": "/scopes/link-building",
+      "title": "Link building: backlinks de qualidade e PR digital",
+      "description": "Serviços de link building: análise de backlinks, outreach medido, PR digital e limpeza de links tóxicos, pagos pelo trabalho entregue. Desde $400.",
+      "menu": "Link building",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 7,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "product-marketing",
+          "brand-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "moataz-yacoubian",
+          "lalit-kumar",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "global-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "pr",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
+    },
+    {
+      "slug": "local-seo",
+      "url": "/scopes/local-seo",
+      "title": "SEO local: Perfil da Empresa no Google e avaliações",
+      "description": "Serviços de SEO local: otimização do Perfil da Empresa no Google, citações locais e gestão de avaliações. Auditorias desde $400. Veja os preços.",
+      "menu": "SEO local",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 5,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "moataz-yacoubian",
+          "lalit-kumar"
+        ],
+        "solutions": [
+          "international-marketing"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "healthcare",
+          "automotive",
+          "legal",
+          "saas",
+          "fintech",
+          "manufacturing",
+          "hospitality",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "turkish"
+        ],
+        "blog-posts": [
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
+    },
+    {
+      "slug": "local-services-ads",
+      "url": "/scopes/local-services-ads",
+      "title": "Gestão de Local Services Ads: pagamento por lead",
+      "description": "Gestão de Local Services Ads: criação e verificação do perfil e revisão da qualidade dos leads. Pagamento por lead qualificado, desde $300/mês.",
+      "menu": "Publicidade Local Services Ads",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 4,
+      "country_count": 4,
+      "language_count": 3,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "legal",
+          "healthcare",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "microsoft-ads",
+      "url": "/scopes/microsoft-ads",
+      "title": "Gestão de Microsoft Ads (Bing Ads)",
+      "description": "Gestão de Microsoft Ads: importação de campanhas, controlo das pesquisas e otimização de licitações para lá do Google. Desde $300/mês. Veja os preços.",
+      "menu": "Microsoft Ads",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "md-solayman-rumon"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "ecommerce"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "on-page-seo",
+      "url": "/scopes/on-page-seo",
+      "title": "SEO on-page: otimização de conteúdo e de páginas",
+      "description": "Serviços de SEO on-page: otimização de páginas e meta tags, briefings de conteúdo e afinação de landing pages, com preço por entregável, desde $250.",
+      "menu": "SEO on-page",
+      "featured": true,
+      "from_price": 250,
+      "delivery": "one-time",
+      "expert_count": 11,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
+          "aina-rakotondrabe",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "rita-pavide"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 2
+    },
+    {
+      "slug": "paid-social-for-apps",
+      "url": "/scopes/paid-social-for-apps",
+      "title": "Anúncios de apps na Meta e no TikTok: instalações pagas",
+      "description": "Anúncios de apps nas redes sociais: estratégia de canais, testes de criativos e otimização de licitações na Meta e no TikTok. Desde $200/mês.",
+      "menu": "Anúncios de apps nas redes sociais",
+      "featured": true,
+      "from_price": 200,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "dima-gerko",
+          "muhammad-hijazi-siddiqui"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "healthcare",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "luxembourg",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "bulgarian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hungarian",
+          "italian",
+          "latvian",
+          "malay",
+          "romanian",
+          "slovak",
+          "swedish",
+          "urdu"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "ppc-audit",
       "url": "/scopes/ppc-audit",
-      "title": "Auditoria Google Ads a Campanhas Ativas",
+      "title": "Auditoria Google Ads a campanhas ativas",
       "description": "Auditoria Google Ads: revisão da conta, análise do gasto desperdiçado, validação da medição e roteiro de crescimento, desde $300. Ver preços.",
       "menu": "Auditoria Google Ads",
       "featured": true,
@@ -243,14 +2251,24 @@
       "task_count": 4,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "experts": [
+          "elena-grakovich",
           "vitali-bakun",
-          "dima-gerko"
+          "dima-gerko",
+          "can-erim",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "aldillah-melisa-febryana"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "ppc"
@@ -258,10 +2276,42 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "croatia",
+          "cyprus",
+          "india",
+          "indonesia",
+          "lithuania",
+          "malaysia",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "thailand",
+          "turkey",
+          "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic",
+          "indonesian",
+          "thai",
+          "turkish"
         ],
         "positions": [
           "ppc-specialist"
@@ -271,9 +2321,177 @@
       "article_count": 0
     },
     {
+      "slug": "remarketing-display",
+      "url": "/scopes/remarketing-display",
+      "title": "Gestão de remarketing e publicidade display",
+      "description": "Gestão de remarketing e display ads: estratégia de públicos, tags, retargeting e rotação de criativos. Desde $300/mês. Veja os preços.",
+      "menu": "Remarketing e display",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "netanel-kugler"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "legal",
+          "fmcg",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "croatia",
+          "cyprus",
+          "india",
+          "indonesia",
+          "lithuania",
+          "malaysia",
+          "romania",
+          "slovakia",
+          "slovenia",
+          "thailand",
+          "turkey",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic",
+          "indonesian",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "seo-audit",
+      "url": "/scopes/seo-audit",
+      "title": "Análise SEO completa: auditoria do site e plano de ação",
+      "description": "Análise SEO completa para sites SaaS, de conteúdos e lojas online: técnica, procura, conteúdos, autoridade e medição. Desde $1 190. Veja os preços.",
+      "menu": "Auditoria SEO completa",
+      "featured": true,
+      "from_price": 1190,
+      "delivery": "one-time",
+      "expert_count": 8,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "lalit-kumar",
+          "syed-rafey",
+          "tri-huy-do"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto"
+        ],
+        "countries": [
+          "germany",
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "india",
+          "malaysia",
+          "singapore",
+          "slovenia",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "slovenian",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
+    },
+    {
       "slug": "seo-research",
       "url": "/scopes/seo-research",
-      "title": "Pesquisa de Palavras-Chave e Concorrência",
+      "title": "Pesquisa de palavras-chave e concorrência",
       "description": "Pesquisa de palavras-chave, análise de concorrentes e validação de procura, com mapa de palavras-chave por página desde $300. Veja os preços.",
       "menu": "Pesquisa SEO",
       "featured": true,
@@ -287,32 +2505,139 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "web-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
           "dima-gerko",
-          "alaaddin-saracyakupoglu"
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "ndeye-binta-diouf",
+          "aina-rakotondrabe",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do",
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
+          "aeo",
           "content",
           "seo"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
           "portugal",
-          "eu"
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
-          "portuguese"
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -327,9 +2652,65 @@
       "article_count": 2
     },
     {
+      "slug": "social-media-management",
+      "url": "/scopes/social-media-management",
+      "title": "Social media management: gestão mensal de canais da marca",
+      "description": "Gestão mensal das redes sociais da marca: estratégia, calendário editorial, publicações, comunidade, canal Telegram e relatórios. Desde $1 200/mês.",
+      "menu": "Gestão de redes sociais",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 3,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "hospitality",
+          "retail",
+          "crypto",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "thailand",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "german"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "technical-seo",
       "url": "/scopes/technical-seo",
-      "title": "SEO Técnico: Velocidade, Dados e Indexação",
+      "title": "SEO técnico: velocidade, dados e indexação",
       "description": "Serviços de SEO técnico: rastreio, indexação, Core Web Vitals, dados estruturados e migrações. Diagnóstico desde $500. Veja os preços.",
       "menu": "SEO técnico",
       "featured": true,
@@ -342,31 +2723,132 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "web-marketing"
         ],
         "experts": [
+          "anastasiya-antoniuk",
           "dima-gerko",
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
         ],
         "services": [
+          "web-development",
           "seo"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
           "portugal",
-          "eu"
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
-          "portuguese"
+          "german",
+          "french",
+          "spanish",
+          "russian",
+          "polish",
+          "portuguese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hindi",
+          "hungarian",
+          "indonesian",
+          "italian",
+          "latvian",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "urdu"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -382,7 +2864,7 @@
     {
       "slug": "telegram-ads",
       "url": "/scopes/telegram-ads",
-      "title": "Telegram Ads: Campanhas para Audiências",
+      "title": "Telegram Ads: campanhas para audiências",
       "description": "Gestão de Telegram Ads oficial: segmentação pelo contexto dos canais, apoio na moderação e medição ligada ao CRM. Desde $400/mês. Ver preços.",
       "menu": "Telegram Ads",
       "featured": true,
@@ -394,19 +2876,40 @@
       "language_count": 4,
       "task_count": 1,
       "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
+          "paid-social",
           "social-media"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "hospitality",
+          "automotive",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "poland",
+          "turkey"
         ],
         "languages": [
-          "english"
+          "english",
+          "russian",
+          "german",
+          "polish"
         ],
         "positions": [
           "ppc-specialist",
@@ -416,57 +2919,674 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "telegram-channel-placements",
+      "url": "/scopes/telegram-channel-placements",
+      "title": "Publicidade em canais Telegram: posts patrocinados",
+      "description": "Publicidade em canais Telegram como vaga de media verificada: pesquisa, negociação, texto nativo e relatório. Desde $1 200/vaga. Veja os preços.",
+      "menu": "Publicidade em canais Telegram",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 8,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "hospitality",
+          "retail",
+          "automotive",
+          "healthcare",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "transcreation",
+      "url": "/scopes/transcreation",
+      "title": "Transcriação de anúncios, slogans e textos de marca",
+      "description": "Transcriação de anúncios, slogans e textos de marca: redatores no mercado recriam a mensagem por idioma. Revisão de adaptação cultural desde $400.",
+      "menu": "Transcriação",
+      "featured": false,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 4,
+      "industry_count": 6,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "brand-marketing",
+          "product-marketing",
+          "web-marketing"
+        ],
+        "experts": [
+          "rita-pavide",
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "global-seo"
+        ],
+        "services": [
+          "content",
+          "ppc",
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "saas",
+          "fintech",
+          "automotive"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "spain",
+          "portugal",
+          "poland",
+          "austria",
+          "croatia",
+          "cyprus",
+          "lithuania",
+          "romania",
+          "slovakia",
+          "slovenia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "portuguese",
+          "polish",
+          "russian",
+          "arabic",
+          "croatian",
+          "hindi",
+          "lithuanian",
+          "malay",
+          "slovenian"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "social-media-manager"
+        ]
+      },
+      "case_count": 1,
+      "article_count": 0
+    },
+    {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Produção de vídeo: guiões, edição e vídeos curtos",
+      "description": "Produção de vídeo: conceitos criativos, guiões, edição de vídeo profissional e vídeos curtos. Módulo base desde $1 700/mês. Veja os preços.",
+      "menu": "Produção de vídeo",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk",
+          "robmar-macallums"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality",
+          "game-studios",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "video-marketing-audit",
+      "url": "/scopes/video-marketing-audit",
+      "title": "Auditoria de marketing de vídeo: analisar o canal YouTube",
+      "description": "Auditoria de marketing de vídeo para analisar o canal YouTube: desempenho, produção, prontidão para YouTube Ads e criadores. Desde $790. Ver preços.",
+      "menu": "Auditoria de marketing de vídeo",
+      "featured": true,
+      "from_price": 790,
+      "delivery": "one-time",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "Gestão de YouTube Ads: campanhas de vídeo",
+      "description": "Gestão de YouTube Ads: configuração de campanhas, segmentação de públicos, estratégia criativa e relatórios. Configuração desde $400. Ver preços.",
+      "menu": "YouTube Ads",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "vitali-bakun",
+          "can-erim",
+          "aldillah-melisa-febryana"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "ppc",
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "healthcare",
+          "fmcg",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "india",
+          "indonesia"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "indonesian"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "SEO YouTube e gestão de canal: publicação e crescimento",
+      "description": "Gestão completa de canal YouTube: estratégia, publicação, metadados e SEO YouTube, miniaturas, comunidade e análise. Canais multilingues. Desde $1 200/mês.",
+      "menu": "Gestão de canal YouTube",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "experts": [
+          "anastasiya-antoniuk"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-collaborations",
+      "url": "/scopes/youtube-creator-collaborations",
+      "title": "Colaborações com criadores YouTube: agência de influencers",
+      "description": "Gestão contínua de criadores YouTube, como numa agência de influencers: pesquisa, contacto, briefing e publicações. Desde $3 500/mês. Ver preços.",
+      "menu": "Colaborações com criadores YouTube",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media",
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality",
+          "crypto",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "canada",
+          "uk",
+          "germany",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-pilot",
+      "url": "/scopes/youtube-creator-pilot",
+      "title": "Campanha com influenciadores YouTube: piloto e teste",
+      "description": "Campanha-piloto com influenciadores YouTube: pesquisa, contacto, briefing e análise de desempenho antes da gestão contínua. Desde $3 500. Ver preços.",
+      "menu": "Piloto com criadores YouTube",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing"
+        ],
+        "services": [
+          "social-media",
+          "video"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "automotive",
+          "retail",
+          "hospitality"
+        ],
+        "countries": [
+          "usa",
+          "canada",
+          "uk",
+          "germany",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
-      "app-marketing": "Marketing mobile",
       "search-marketing": "Marketing nos motores de busca",
-      "community-marketing": "Marketing de comunidade"
+      "web-marketing": "Marketing web",
+      "growth-marketing": "Growth marketing",
+      "app-marketing": "Marketing mobile",
+      "brand-marketing": "Marketing de marca",
+      "product-marketing": "Marketing de produto",
+      "community-marketing": "Marketing de comunidade",
+      "performance-marketing": "Performance marketing"
     },
     "experts": {
+      "anastasiya-antoniuk": "Anastasiya Antoniuk",
       "dima-gerko": "Dima Gerko",
+      "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
+      "gael-balouek": "Gael Balouek",
+      "moataz-yacoubian": "Moataz Yacoubian",
+      "aina-rakotondrabe": "Aina Rakotondrabe",
+      "mohamed-isse": "Mohamed Isse",
+      "syed-rafey": "Syed Rafey",
+      "tri-huy-do": "Tri-Huy Do",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "mariia-nedbaievska": "Mariia Nedbaievska",
+      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "brankica-petrasinovic": "Brankica Petrašinović",
+      "rita-pavide": "Rita Pavide",
+      "elena-grakovich": "Elena Grakovich",
+      "robmar-macallums": "Robmar Macallums",
+      "valentina-soldatkina": "Valentina Soldatkina",
       "vitali-bakun": "Vitali Bakun",
-      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
+      "can-erim": "Can Erim",
+      "ismail-aydogdu": "İsmail Aydoğdu",
+      "md-solayman-rumon": "Md Solayman Rumon",
+      "netanel-kugler": "Netanel Kugler",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "lalit-kumar": "Lalit Kumar"
     },
     "solutions": {
+      "ai-visibility": "Visibilidade em IA",
+      "global-seo": "SEO global",
+      "international-seo": "SEO internacional",
+      "multilingual-seo": "SEO multilingue",
+      "digital-marketing-strategy": "Estratégia de marketing digital",
       "digital-marketing-consulting": "Consultoria de marketing digital",
-      "multilingual-seo": "SEO multilingue"
+      "international-marketing": "Marketing internacional",
+      "outsource-digital-marketing": "Outsourcing de marketing digital",
+      "b2b-digital-marketing": "Marketing digital B2B",
+      "seo-ecommerce": "SEO para lojas online"
     },
     "services": {
+      "aeo": "AEO",
+      "app-conversion-retention": "Conversão e retenção de apps",
+      "app-user-acquisition": "Aquisição de utilizadores de apps",
       "aso": "ASO para apps",
       "content": "Marketing de conteúdos",
       "seo": "Serviços de SEO",
+      "web-development": "Criação de sites",
+      "marketplace-management": "Gestão de marketplaces",
       "social-media": "Redes sociais",
-      "ppc": "Google Ads"
+      "cro": "CRO",
+      "email": "Email marketing",
+      "ppc": "Google Ads",
+      "pr": "PR digital",
+      "paid-social": "Publicidade nas redes sociais",
+      "video": "Vídeo marketing"
     },
     "industries": {
+      "ecommerce": "Comércio eletrónico",
       "saas": "SaaS",
       "fintech": "Setor fintech",
-      "ecommerce": "Comércio eletrónico"
+      "healthcare": "Saúde",
+      "automotive": "Automóvel",
+      "legal": "Jurídico",
+      "manufacturing": "Indústria",
+      "crypto": "Cripto e web3",
+      "fmcg": "FMCG e CPG",
+      "hospitality": "Hotelaria",
+      "pharma": "Farmacêutico",
+      "retail": "Retalho",
+      "game-studios": "Estúdios de jogos"
     },
     "countries": {
+      "germany": "Alemanha",
+      "france": "França",
+      "usa": "Estados Unidos",
+      "uk": "Reino Unido",
+      "austria": "Áustria",
+      "poland": "Polónia",
       "portugal": "Portugal",
-      "eu": "União Europeia"
+      "spain": "Espanha",
+      "australia": "Austrália",
+      "belgium": "Bélgica",
+      "brazil": "Brasil",
+      "bulgaria": "Bulgária",
+      "canada": "Canadá",
+      "china": "China",
+      "croatia": "Croácia",
+      "cyprus": "Chipre",
+      "czechia": "Chéquia",
+      "denmark": "Dinamarca",
+      "estonia": "Estónia",
+      "eu": "União Europeia",
+      "finland": "Finlândia",
+      "greece": "Grécia",
+      "hungary": "Hungria",
+      "india": "Índia",
+      "indonesia": "Indonésia",
+      "ireland": "Irlanda",
+      "israel": "Israel",
+      "italy": "Itália",
+      "japan": "Japão",
+      "latvia": "Letónia",
+      "lithuania": "Lituânia",
+      "luxembourg": "Luxemburgo",
+      "malaysia": "Malásia",
+      "malta": "Malta",
+      "mexico": "México",
+      "netherlands": "Países Baixos",
+      "new-zealand": "Nova Zelândia",
+      "romania": "Roménia",
+      "singapore": "Singapura",
+      "slovakia": "Eslováquia",
+      "slovenia": "Eslovénia",
+      "south-korea": "Coreia do Sul",
+      "sweden": "Suécia",
+      "switzerland": "Suíça",
+      "taiwan": "Taiwan",
+      "thailand": "Tailândia",
+      "turkey": "Turquia",
+      "uae": "Emirados Árabes Unidos",
+      "ukraine": "Ucrânia"
     },
     "languages": {
       "english": "Inglês",
-      "portuguese": "Português"
+      "german": "Alemão",
+      "french": "Francês",
+      "spanish": "Espanhol",
+      "russian": "Russo",
+      "polish": "Polaco",
+      "portuguese": "Português",
+      "arabic": "Árabe",
+      "bulgarian": "Búlgaro",
+      "croatian": "Croata",
+      "czech": "Checo",
+      "danish": "Dinamarquês",
+      "dutch": "Neerlandês",
+      "estonian": "Estónio",
+      "finnish": "Finlandês",
+      "greek": "Grego",
+      "hungarian": "Húngaro",
+      "indonesian": "Indonésio",
+      "italian": "Italiano",
+      "latvian": "Letão",
+      "lithuanian": "Lituano",
+      "romanian": "Romeno",
+      "slovak": "Eslovaco",
+      "slovenian": "Esloveno",
+      "swedish": "Sueco",
+      "thai": "Tailandês",
+      "turkish": "Turco",
+      "urdu": "Urdu (língua)",
+      "hindi": "Hindi (língua)",
+      "malay": "Malaio"
+    },
+    "blog-posts": {
+      "how-ai-chooses-sources": "Como a IA escolhe fontes",
+      "why-seo-matters-in-2026": "A importância do SEO em 2026",
+      "seo-packages-comparison": "Comparação de planos de SEO"
     },
     "positions": {
+      "seo-expert": "Especialista de SEO",
       "aso-specialist": "ASO specialist",
       "marketing-consultant": "Consultor de Marketing",
-      "seo-expert": "Especialista de SEO",
       "social-media-manager": "Social media manager",
       "ppc-specialist": "Gestor de tráfego"
     },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "Comparação de planos de SEO",
-      "why-seo-matters-in-2026": "A importância do SEO em 2026"
     }
   }
 }

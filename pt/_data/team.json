@@ -1,6 +1,71 @@
 {
   "experts": [
     {
+      "slug": "aina-rakotondrabe",
+      "url": "/team/aina-rakotondrabe",
+      "title": "Aina Rakotondrabe",
+      "description": "SEO semântico, arquitetura de conteúdo e GEO/AEO para mercados francófonos e anglófonos: clusters de tópicos, SEO on-site e respostas de IA.",
+      "role": "Estratega de conteúdos SEO e AEO",
+      "avatar": "_media/images/team/Aina-Rakotondrabe.jpg",
+      "experience_value": "13+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "countries": [
+        "canada",
+        "france",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "healthcare",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "content-strategy",
+          "content-writing",
+          "on-page-seo",
+          "seo-research"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "healthcare",
+          "hospitality"
+        ],
+        "countries": [
+          "canada",
+          "france",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "alaaddin-saracyakupoglu",
       "url": "/team/alaaddin-saracyakupoglu",
       "title": "Alaaddin Saracyakupoglu",
@@ -29,13 +94,26 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "web-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "on-page-seo",
           "seo-research",
           "technical-seo"
         ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "global-seo",
+          "international-seo",
+          "seo-ecommerce"
+        ],
         "services": [
+          "aeo",
+          "analytics",
           "content",
           "seo"
         ],
@@ -44,13 +122,388 @@
           "saas"
         ],
         "countries": [
-          "eu"
+          "eu",
+          "uk",
+          "usa",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "aldillah-melisa-febryana",
+      "url": "/team/aldillah-melisa-febryana",
+      "title": "Aldillah Melisa Febryana",
+      "description": "Estratega de PPC para a Indonésia e a APAC: Google e Meta Ads para ecommerce e geração de contactos, medidos em vendas e qualidade. Agende uma reunião.",
+      "role": "Estratega de PPC",
+      "avatar": "_media/images/team/Aldillah-Melisa-Febryana.jpg",
+      "experience_value": "11+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia"
+      ],
+      "industries": [
+        "ecommerce",
+        "retail",
+        "fmcg"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg"
+        ],
+        "countries": [
+          "australia",
+          "indonesia",
+          "malaysia",
+          "new-zealand",
+          "singapore",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "indonesian"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "anastasiya-antoniuk",
+      "url": "/team/anastasiya-antoniuk",
+      "title": "Anastasiya Antoniuk",
+      "description": "Gestora de conteúdos para apps móveis e produtos por subscrição, com conteúdos de SEO, ASO e localização para gerar instalações e envolvimento.",
+      "role": "Gestora de conteúdos",
+      "avatar": "_media/images/team/Anastasia-Antaniuk.png",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "fintech",
+        "fmcg",
+        "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 2,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "growth-marketing",
+          "product-marketing",
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "aso-localization",
+          "aso-optimization",
+          "on-page-seo",
+          "seo-research",
+          "ai-optimisation",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "seo-audit",
+          "technical-seo",
+          "transcreation",
+          "video-content-production",
+          "video-marketing-audit",
+          "youtube-channel-management"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aso",
+          "content",
+          "seo",
+          "aeo",
+          "video"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "fmcg",
+          "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "usa",
+          "australia",
+          "austria",
+          "belgium",
+          "brazil",
+          "canada",
+          "china",
+          "czechia",
+          "eu",
+          "france",
+          "germany",
+          "greece",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "poland",
+          "portugal",
+          "singapore",
+          "south-korea",
+          "spain",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "czech",
+          "dutch",
+          "french",
+          "german",
+          "greek",
+          "italian",
+          "polish",
+          "portuguese",
+          "spanish",
+          "swedish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison"
+        ]
+      }
+    },
+    {
+      "slug": "brankica-petrasinovic",
+      "url": "/team/brankica-petrasinovic",
+      "title": "Brankica Petrašinović",
+      "description": "Especialista em ASO para apps e jogos móveis: palavras-chave, testes A/B nativos e lançamentos em 14 lojas internacionais. Agende uma reunião.",
+      "role": "Especialista em ASO",
+      "avatar": "_media/images/team/Brankica-Petrasinovic.jpg",
+      "experience_value": "13+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "brazil",
+        "canada",
+        "france",
+        "germany",
+        "italy",
+        "mexico",
+        "poland",
+        "portugal",
+        "spain",
+        "turkey",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "game-studios"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "app-store-cro",
+          "aso-localization",
+          "aso-optimization"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "app-conversion-retention",
+          "aso",
+          "cro"
+        ],
+        "industries": [
+          "game-studios"
+        ],
+        "countries": [
+          "australia",
+          "brazil",
+          "canada",
+          "france",
+          "germany",
+          "italy",
+          "mexico",
+          "poland",
+          "portugal",
+          "spain",
+          "turkey",
+          "uk",
+          "usa"
         ],
         "languages": [
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "can-erim",
+      "url": "/team/can-erim",
+      "title": "Can Erim",
+      "description": "Estratega de PPC para ecommerce e geração de contactos: Google Ads e Meta Ads, acompanhamento GA4/GTM e otimização de ROAS e CPA. Agende uma reunião.",
+      "role": "Estratega de PPC",
+      "avatar": "_media/images/team/Can-Erim.jpg",
+      "experience_value": "7+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "spanish",
+        "turkish"
+      ],
+      "countries": [
+        "turkey",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "fintech",
+        "healthcare",
+        "hospitality",
+        "manufacturing",
+        "retail",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "healthcare",
+          "hospitality",
+          "manufacturing",
+          "retail",
+          "saas"
+        ],
+        "countries": [
+          "turkey",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
         ]
       }
     },
@@ -82,7 +535,16 @@
       "industries": [
         "ecommerce",
         "saas",
-        "fintech"
+        "fintech",
+        "healthcare",
+        "automotive",
+        "legal",
+        "manufacturing",
+        "fmcg",
+        "game-studios",
+        "hospitality",
+        "pharma",
+        "retail"
       ],
       "cases": [
         "alvadi"
@@ -92,47 +554,1488 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "web-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
+          "product-marketing",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "on-page-seo",
           "seo-research",
           "technical-seo",
+          "link-building",
+          "local-seo",
+          "app-retention",
+          "app-store-cro",
+          "apple-search-ads",
           "aso-localization",
           "aso-optimization",
+          "content-localization",
           "content-strategy",
-          "ppc-audit"
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "ppc-audit",
+          "seo-audit",
+          "transcreation"
         ],
         "cases": [
           "alvadi"
         ],
         "solutions": [
+          "ai-visibility",
+          "seo-ecommerce",
+          "b2b-digital-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing"
         ],
         "services": [
+          "aeo",
+          "analytics",
+          "automation",
           "content",
+          "web-development",
           "seo",
           "ppc",
+          "app-conversion-retention",
+          "app-user-acquisition",
           "aso"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "austria",
+          "usa",
+          "uk",
+          "france",
+          "poland",
           "portugal",
-          "eu"
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "canada",
+          "china",
+          "czechia",
+          "eu",
+          "greece",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "malaysia",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
+          "russian",
           "portuguese"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
+        ]
+      }
+    },
+    {
+      "slug": "dmitriy-razakhatsky",
+      "url": "/team/dmitriy-razakhatsky",
+      "title": "Dmitry Rasakhatsky",
+      "description": "Mais de 15 anos em SEO, SEM e auditorias técnicas: sistemas de pesquisa escaláveis em mercados multilingues.",
+      "role": "Analista de search engine marketing",
+      "avatar": "_media/images/team/Dmitri-Rasakhatsky.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "german",
+        "russian",
+        "spanish"
+      ],
+      "countries": [
+        "germany",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "fintech",
+        "healthcare",
+        "saas",
+        "crypto",
+        "automotive",
+        "fmcg",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 2,
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "product-marketing",
+          "search-marketing",
+          "web-marketing",
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "on-page-seo",
+          "seo-research",
+          "technical-seo",
+          "link-building",
+          "local-seo",
+          "seo-audit"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "global-seo",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "analytics",
+          "content",
+          "seo",
+          "aeo",
+          "web-development"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "healthcare",
+          "saas",
+          "crypto",
+          "automotive",
+          "fmcg",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "germany",
+          "spain",
+          "uk",
+          "usa",
+          "australia",
+          "austria",
+          "belgium",
+          "brazil",
+          "canada",
+          "china",
+          "czechia",
+          "eu",
+          "france",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "poland",
+          "portugal",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uae",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "russian",
+          "spanish",
+          "czech",
+          "dutch",
+          "french",
+          "greek",
+          "italian",
+          "polish",
+          "portuguese",
+          "swedish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "elena-grakovich",
+      "url": "/team/elena-grakovich",
+      "title": "Elena Grakovich",
+      "description": "Líder de marketing e estratega de growth para empresas B2B de fintech e cripto, com sistemas de geração de contactos mensuráveis em vários mercados.",
+      "role": "Líder de equipa de marketing e estratega de growth",
+      "avatar": "_media/images/team/Alena-Grakovich.jpg",
+      "experience_value": "8+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french",
+        "polish",
+        "russian"
+      ],
+      "countries": [
+        "france",
+        "germany",
+        "poland",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "fintech",
+        "saas",
+        "crypto",
+        "automotive",
+        "fmcg",
+        "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 1,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
+          "product-marketing",
+          "search-marketing",
+          "brand-marketing",
+          "community-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "cross-market-setup",
+          "on-page-seo",
+          "seo-research",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "google-ads-search",
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
+          "ppc-audit",
+          "remarketing-display",
+          "transcreation",
+          "youtube-ads"
+        ],
+        "cases": [
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "analytics",
+          "automation",
+          "content",
+          "seo",
+          "ppc",
+          "cro",
+          "email",
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas",
+          "crypto",
+          "automotive",
+          "fmcg",
+          "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "france",
+          "germany",
+          "poland",
+          "uk",
+          "usa",
+          "australia",
+          "austria",
+          "belgium",
+          "brazil",
+          "canada",
+          "china",
+          "czechia",
+          "eu",
+          "greece",
+          "india",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "portugal",
+          "singapore",
+          "south-korea",
+          "spain",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "ukraine"
+        ],
+        "languages": [
+          "english",
+          "french",
+          "polish",
+          "russian",
+          "czech",
+          "dutch",
+          "german",
+          "greek",
+          "italian",
+          "portuguese",
+          "spanish",
+          "swedish"
+        ]
+      }
+    },
+    {
+      "slug": "gael-balouek",
+      "url": "/team/gael-balouek",
+      "title": "Gael Balouek",
+      "description": "Especialista sénior em SEO e GEO para empresas internacionais: estratégia, auditorias e analítica em mercados francófonos, anglófonos e hispânicos.",
+      "role": "Especialista em SEO",
+      "avatar": "_media/images/team/Gael-Balouek.jpg",
+      "experience_value": "12+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french",
+        "spanish"
+      ],
+      "countries": [
+        "canada",
+        "france",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "fintech",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "digital-marketing-consulting",
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "cro",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "canada",
+          "france",
+          "spain",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "ismail-aydogdu",
+      "url": "/team/ismail-aydogdu",
+      "title": "İsmail Aydoğdu",
+      "description": "Google Ads e Meta Ads para e-commerce e geração de contactos, com medição em GA4, GTM, Pixel/CAPI e Consent Mode v2. Agende uma reunião.",
+      "role": "Especialista em performance marketing e medição de conversões",
+      "avatar": "_media/images/team/Ismail-Aydogdu.jpg",
+      "experience_value": "1+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "countries": [
+        "turkey"
+      ],
+      "industries": [
+        "ecommerce",
+        "manufacturing",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "manufacturing",
+          "retail"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "lalit-kumar",
+      "url": "/team/lalit-kumar",
+      "title": "Lalit Kumar",
+      "description": "SEO local e técnico para empresas nos EUA e no Canadá: Google Business Profile, posições no Maps, auditorias técnicas, SEO on-page e link building.",
+      "role": "Especialista em SEO local e técnico",
+      "avatar": "_media/images/team/Lalit-Kumar.jpg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "canada",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "healthcare",
+        "legal"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "sort_order": 1,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "technical-seo"
+        ],
+        "solutions": [
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "analytics",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "healthcare",
+          "legal"
+        ],
+        "countries": [
+          "canada",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "lisa-chernova",
+      "url": "/team/lisa-chernova",
+      "title": "Lisa Chernova",
+      "description": "Designer gráfica de marketing para retalho, e-commerce e redes sociais: visuais de campanha, banners e criativos sociais em russo e inglês.",
+      "role": "Designer gráfica em marketing",
+      "avatar": "_media/images/team/Lisa-Chernova.jpg",
+      "experience_value": "3+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [],
+      "industries": [
+        "crypto",
+        "ecommerce",
+        "hospitality",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "social-media"
+        ],
+        "industries": [
+          "crypto",
+          "ecommerce",
+          "hospitality",
+          "retail"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ]
+      }
+    },
+    {
+      "slug": "mariia-nedbaievska",
+      "url": "/team/mariia-nedbaievska",
+      "title": "Mariia Nedbaievska",
+      "description": "Especialista em ASO de apps, com otimização para a App Store assente em dados: pesquisa de palavras-chave, metadados e testes A/B em iOS e Android.",
+      "role": "Especialista em ASO de apps",
+      "avatar": "_media/images/team/mariia-nedbaievska.jpeg",
+      "experience_value": "2+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "usa",
+        "uk"
+      ],
+      "industries": [
+        "saas",
+        "fintech",
+        "ecommerce",
+        "game-studios"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization",
+          "app-store-cro",
+          "apple-search-ads",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "aso",
+          "app-conversion-retention",
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce",
+          "game-studios"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk"
+        ],
+        "languages": [
+          "english",
+          "russian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "md-solayman-rumon",
+      "url": "/team/md-solayman-rumon",
+      "title": "Md Solayman Rumon",
+      "description": "Estratega de Google Ads e PPC para e-commerce e geração de contactos no Reino Unido, EUA e Austrália: pesquisa, Shopping, Performance Max.",
+      "role": "Estratega de Google Ads e PPC",
+      "avatar": "_media/images/team/Md-Solayman-Rumon.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "sort_order": 1,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "microsoft-ads",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "cro",
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "hospitality"
+        ],
+        "countries": [
+          "australia",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "moataz-yacoubian",
+      "url": "/team/moataz-yacoubian",
+      "title": "Moataz Yacoubian",
+      "description": "Consultor de marketing digital para PME e retalhistas: SEO, pesquisa paga, conteúdos, GEO e sites WordPress, centrados no ROI. Agende uma reunião.",
+      "role": "Especialista em marketing digital",
+      "avatar": "_media/images/team/Moataz-Yacoubian.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "arabic",
+        "english",
+        "french"
+      ],
+      "countries": [
+        "france",
+        "germany",
+        "uae",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "healthcare",
+        "hospitality"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "search-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "content-writing",
+          "google-ads-search",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "aeo",
+          "content",
+          "ppc",
+          "seo",
+          "social-media",
+          "web-development"
+        ],
+        "industries": [
+          "automotive",
+          "healthcare",
+          "hospitality"
+        ],
+        "countries": [
+          "france",
+          "germany",
+          "uae",
+          "usa"
+        ],
+        "languages": [
+          "arabic",
+          "english",
+          "french"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "mohamed-isse",
+      "url": "/team/mohamed-isse",
+      "title": "Mohamed Isse",
+      "description": "SEO semântico e GEO: mapas temáticos por entidades, arquitetura de knowledge graph e schema markup para motores de busca e LLM citarem uma marca.",
+      "role": "Especialista em SEO semântico e GEO",
+      "avatar": "_media/images/team/Mohamed-Isse.jpg",
+      "experience_value": "2+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "canada",
+        "new-zealand",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "fintech",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "aeo",
+          "seo"
+        ],
+        "industries": [
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "australia",
+          "canada",
+          "new-zealand",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "muhammad-hijazi-siddiqui",
+      "url": "/team/muhammad-hijazi-siddiqui",
+      "title": "Muhammad Hijazi Siddiqui",
+      "description": "Especialista sénior em ASO e growth mobile para estúdios de jogos e programadores de apps: palavras-chave, Google UAC, criativos Meta, CPI mais baixo.",
+      "role": "Especialista sénior em ASO de apps e growth mobile",
+      "avatar": "_media/images/team/Muhammad-Hijazi-Siddiqui.jpg",
+      "experience_value": "7+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "australia",
+        "brazil",
+        "canada",
+        "france",
+        "germany",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "game-studios"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "sort_order": 1,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "aso-optimization",
+          "aso-localization",
+          "app-store-cro",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "solutions": [
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "app-conversion-retention",
+          "app-user-acquisition",
+          "aso",
+          "content",
+          "cro",
+          "paid-social",
+          "social-media"
+        ],
+        "industries": [
+          "game-studios"
+        ],
+        "countries": [
+          "australia",
+          "brazil",
+          "canada",
+          "france",
+          "germany",
+          "uk",
+          "usa",
+          "india",
+          "indonesia",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "urdu"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "ndeye-binta-diouf",
+      "url": "/team/ndeye-binta-diouf",
+      "title": "Ndèye Binta Diouf",
+      "description": "Especialista em SEO e Google Ads para e-commerce e negócios com vários locais: SEO técnico e on-page, Shopping, Performance Max, Merchant Center e GA4.",
+      "role": "Especialista em SEO e Google Ads",
+      "avatar": "_media/images/team/Ndeye-Binta-Diouf.jpg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "countries": [
+        "canada"
+      ],
+      "industries": [
+        "ecommerce",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "on-page-seo",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "analytics",
+          "ppc",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail"
+        ],
+        "countries": [
+          "canada"
+        ],
+        "languages": [
+          "english",
+          "french"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "netanel-kugler",
+      "url": "/team/netanel-kugler",
+      "title": "Netanel Kugler",
+      "description": "Google Ads e Meta Ads para e-commerce e geração de contactos em Israel, na Europa e nos EUA: estrutura, licitação e orçamentos orientados por CPA e ROAS.",
+      "role": "Gestor de PPC e performance marketing",
+      "avatar": "_media/images/team/Netanel-Kugler.jpg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "hebrew"
+      ],
+      "countries": [
+        "eu",
+        "israel",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "remarketing-display"
+        ],
+        "solutions": [
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce"
+        ],
+        "countries": [
+          "eu",
+          "israel",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "hebrew"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "rita-pavide",
+      "url": "/team/rita-pavide",
+      "title": "Rita Pavide",
+      "description": "Copywriter, tradutora e revisora trilingue para cripto, fintech e neobancos: artigos, análises, PR, newsletters e MTPE. Fale com a Rita.",
+      "role": "Copywriter, tradutora, revisora",
+      "avatar": "_media/illustrations/user-plus.svg",
+      "experience_value": "8+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "eu"
+      ],
+      "industries": [
+        "fintech",
+        "legal",
+        "crypto"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "on-page-seo",
+          "content-localization",
+          "content-rewriting",
+          "content-strategy",
+          "content-writing",
+          "copywriting",
+          "transcreation"
+        ],
+        "solutions": [
+          "international-marketing",
+          "multilingual-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "fintech",
+          "legal",
+          "crypto"
+        ],
+        "countries": [
+          "eu",
+          "latvia"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "latvian"
+        ]
+      }
+    },
+    {
+      "slug": "robmar-macallums",
+      "url": "/team/robmar-macallums",
+      "title": "Robmar Macallums",
+      "description": "Redator nativo de espanhol: artigos, conteúdos digitais e guiões para públicos de língua espanhola em Espanha e na América Latina. Fale com o Robmar.",
+      "role": "Redator de conteúdos em espanhol",
+      "avatar": "_media/images/team/Robmar-Macallums.jpg",
+      "experience_value": "8+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "spanish"
+      ],
+      "countries": [
+        "spain"
+      ],
+      "industries": [
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "content-writing",
+          "video-content-production"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "video"
+        ],
+        "industries": [
+          "retail"
+        ],
+        "countries": [
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ]
+      }
+    },
+    {
+      "slug": "syed-rafey",
+      "url": "/team/syed-rafey",
+      "title": "Syed Rafey",
+      "description": "SEO para sites de software, IA e desenvolvimento de jogos: palavras-chave por intenção de pesquisa, SEO on-page e técnico, planos de conteúdos e outreach.",
+      "role": "Especialista em crescimento",
+      "avatar": "_media/images/team/Syed-Rafey.jpg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english"
+      ],
+      "countries": [
+        "turkey",
+        "uae",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "fintech",
+        "game-studios",
+        "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "retail",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "link-building",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "content",
+          "seo"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "fintech",
+          "game-studios",
+          "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "retail",
+          "saas"
+        ],
+        "countries": [
+          "turkey",
+          "uae",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "tri-huy-do",
+      "url": "/team/tri-huy-do",
+      "title": "Tri-Huy Do",
+      "description": "SEO prático para os Países Baixos, o Reino Unido e os EUA: oportunidades de palavras-chave, landing pages por intenção, link building e SEO internacional.",
+      "role": "Especialista em SEO",
+      "avatar": "_media/images/team/Tri-Huy-Do.jpg",
+      "experience_value": "15+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "dutch",
+        "english"
+      ],
+      "countries": [
+        "belgium",
+        "netherlands",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "pharma",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "cross-market-setup",
+          "link-building",
+          "on-page-seo",
+          "seo-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "international-seo",
+          "multilingual-seo",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "pharma",
+          "retail"
+        ],
+        "countries": [
+          "belgium",
+          "netherlands",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "dutch",
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "valentina-soldatkina",
+      "url": "/team/valentina-soldatkina",
+      "title": "Valentina Soldatkina",
+      "description": "Especialista em SEO e link building focada em outreach editorial e no reforço de autoridade white-hat para marcas internacionais de TI, MedTech e EdTech.",
+      "role": "Especialista em SEO e link building",
+      "avatar": "_media/images/team/Valentina-Soldatkina.png",
+      "experience_value": "4+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "german",
+        "russian"
+      ],
+      "countries": [
+        "germany",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "healthcare"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "cross-market-setup",
+          "link-building",
+          "seo-research"
+        ],
+        "solutions": [
+          "international-marketing",
+          "international-seo",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "healthcare"
+        ],
+        "countries": [
+          "germany",
+          "uk",
+          "usa",
+          "india"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "russian"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -159,7 +2062,15 @@
       "industries": [
         "saas",
         "ecommerce",
-        "fintech"
+        "automotive",
+        "fintech",
+        "fmcg",
+        "healthcare",
+        "hospitality",
+        "legal",
+        "manufacturing",
+        "pharma",
+        "retail"
       ],
       "cases": [
         "alvadi"
@@ -168,33 +2079,158 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "performance-marketing",
+          "search-marketing",
+          "growth-marketing",
+          "product-marketing",
+          "marketing-operations"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "google-shopping",
+          "local-services-ads",
+          "microsoft-ads",
+          "ppc-audit",
+          "remarketing-display",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
+          "analytics",
+          "marketplace-management",
+          "paid-social",
           "ppc"
         ],
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "automotive",
+          "fintech",
+          "fmcg",
+          "healthcare",
+          "hospitality",
+          "legal",
+          "manufacturing",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "usa",
           "portugal",
-          "eu"
+          "poland",
+          "australia",
+          "belgium",
+          "brazil",
+          "canada",
+          "china",
+          "czechia",
+          "eu",
+          "france",
+          "greece",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "spain",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "uk",
+          "ukraine"
         ],
         "languages": [
-          "english"
+          "english",
+          "russian",
+          "czech",
+          "dutch",
+          "french",
+          "german",
+          "greek",
+          "italian",
+          "spanish",
+          "swedish"
+        ]
+      }
+    },
+    {
+      "slug": "vyacheslav-maletskiy",
+      "url": "/team/vyacheslav-maletskiy",
+      "title": "Vyacheslav Maletskiy",
+      "description": "Designer UI/UX e programador com IA para fintech, cripto e SaaS: pesquisa, design web e de produto, desenvolvimento para produção e automatização com IA.",
+      "role": "Designer UI/UX e programador com IA",
+      "avatar": "_media/images/team/Vyacheslav-Maletskiy.jpg",
+      "experience_value": "10+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian"
+      ],
+      "countries": [
+        "cyprus",
+        "ireland",
+        "portugal",
+        "singapore",
+        "usa"
+      ],
+      "industries": [
+        "crypto",
+        "fintech",
+        "healthcare",
+        "saas"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "marketing-operations",
+          "product-marketing",
+          "web-marketing"
+        ],
+        "solutions": [
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "automation",
+          "cro",
+          "web-development"
+        ],
+        "industries": [
+          "crypto",
+          "fintech",
+          "healthcare",
+          "saas"
+        ],
+        "countries": [
+          "cyprus",
+          "ireland",
+          "portugal",
+          "singapore",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "russian"
         ]
       }
     }
@@ -202,52 +2238,166 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing nos motores de busca",
+      "web-marketing": "Marketing web",
+      "performance-marketing": "Performance marketing",
+      "app-marketing": "Marketing mobile",
+      "growth-marketing": "Growth marketing",
+      "product-marketing": "Marketing de produto",
+      "brand-marketing": "Marketing de marca",
       "community-marketing": "Marketing de comunidade",
-      "app-marketing": "Marketing mobile"
+      "marketing-operations": "Operações de marketing"
     },
     "scopes": {
+      "ai-optimisation": "SEO IA",
+      "content-strategy": "Estratégia de conteúdos",
+      "content-writing": "Redação de conteúdos",
+      "on-page-seo": "SEO on-page",
       "seo-research": "Pesquisa SEO",
+      "cross-market-setup": "Configuração multimercado",
+      "link-building": "Link building",
       "technical-seo": "SEO técnico",
+      "google-ads-search": "Google Ads de pesquisa",
+      "google-shopping": "Google Shopping",
+      "ppc-audit": "Auditoria Google Ads",
+      "youtube-ads": "YouTube Ads",
       "aso-localization": "Localização de software",
       "aso-optimization": "ASO para lojas de apps",
-      "content-strategy": "Estratégia de conteúdos",
-      "ppc-audit": "Auditoria Google Ads",
-      "google-ads-search": "Google Ads de pesquisa"
+      "content-localization": "Localização de conteúdos",
+      "content-rewriting": "Reescrita de conteúdos",
+      "copywriting": "Copywriting de conversão",
+      "local-seo": "SEO local",
+      "seo-audit": "Auditoria SEO completa",
+      "transcreation": "Transcriação",
+      "video-content-production": "Produção de vídeo",
+      "video-marketing-audit": "Auditoria de marketing de vídeo",
+      "youtube-channel-management": "Gestão de canal YouTube",
+      "app-store-cro": "CRO na App Store",
+      "app-retention": "Retenção de apps",
+      "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Anúncios de apps nas redes sociais",
+      "local-services-ads": "Publicidade Local Services Ads",
+      "microsoft-ads": "Microsoft Ads",
+      "remarketing-display": "Remarketing e display"
     },
     "services": {
+      "aeo": "AEO",
+      "analytics": "Analítica e dados",
       "content": "Marketing de conteúdos",
       "seo": "Serviços de SEO",
+      "paid-social": "Publicidade nas redes sociais",
       "ppc": "Google Ads",
-      "aso": "ASO para apps"
+      "aso": "ASO para apps",
+      "video": "Vídeo marketing",
+      "app-conversion-retention": "Conversão e retenção de apps",
+      "cro": "CRO",
+      "automation": "Automação de marketing",
+      "web-development": "Criação de sites",
+      "app-user-acquisition": "Aquisição de utilizadores de apps",
+      "email": "Email marketing",
+      "social-media": "Redes sociais",
+      "marketplace-management": "Gestão de marketplaces"
     },
     "industries": {
       "ecommerce": "Comércio eletrónico",
+      "healthcare": "Saúde",
+      "hospitality": "Hotelaria",
       "saas": "SaaS",
-      "fintech": "Setor fintech"
+      "retail": "Retalho",
+      "fmcg": "FMCG e CPG",
+      "automotive": "Automóvel",
+      "fintech": "Setor fintech",
+      "legal": "Jurídico",
+      "manufacturing": "Indústria",
+      "pharma": "Farmacêutico",
+      "game-studios": "Estúdios de jogos",
+      "crypto": "Cripto e web3"
     },
     "countries": {
+      "canada": "Canadá",
+      "france": "França",
+      "uk": "Reino Unido",
+      "usa": "Estados Unidos",
       "eu": "União Europeia",
-      "portugal": "Portugal"
+      "turkey": "Turquia",
+      "australia": "Austrália",
+      "indonesia": "Indonésia",
+      "malaysia": "Malásia",
+      "new-zealand": "Nova Zelândia",
+      "singapore": "Singapura",
+      "thailand": "Tailândia",
+      "austria": "Áustria",
+      "belgium": "Bélgica",
+      "brazil": "Brasil",
+      "china": "China",
+      "czechia": "Chéquia",
+      "germany": "Alemanha",
+      "greece": "Grécia",
+      "india": "Índia",
+      "ireland": "Irlanda",
+      "israel": "Israel",
+      "italy": "Itália",
+      "japan": "Japão",
+      "latvia": "Letónia",
+      "mexico": "México",
+      "netherlands": "Países Baixos",
+      "poland": "Polónia",
+      "portugal": "Portugal",
+      "south-korea": "Coreia do Sul",
+      "spain": "Espanha",
+      "sweden": "Suécia",
+      "switzerland": "Suíça",
+      "taiwan": "Taiwan",
+      "ukraine": "Ucrânia",
+      "uae": "Emirados Árabes Unidos",
+      "cyprus": "Chipre"
     },
     "languages": {
       "english": "Inglês",
-      "portuguese": "Português"
+      "french": "Francês",
+      "turkish": "Turco",
+      "indonesian": "Indonésio",
+      "russian": "Russo",
+      "czech": "Checo",
+      "dutch": "Neerlandês",
+      "german": "Alemão",
+      "greek": "Grego",
+      "italian": "Italiano",
+      "polish": "Polaco",
+      "portuguese": "Português",
+      "spanish": "Espanhol",
+      "swedish": "Sueco",
+      "arabic": "Árabe",
+      "urdu": "Urdu (língua)",
+      "hebrew": "Hebraico",
+      "latvian": "Letão"
     },
     "positions": {
-      "seo-expert": "Especialista de SEO"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "seo-expert": "Especialista de SEO",
+      "ppc-specialist": "Gestor de tráfego",
+      "aso-specialist": "ASO specialist",
+      "marketing-consultant": "Consultor de Marketing"
     },
     "solutions": {
+      "b2b-digital-marketing": "Marketing digital B2B",
+      "global-seo": "SEO global",
+      "international-seo": "SEO internacional",
+      "seo-ecommerce": "SEO para lojas online",
       "digital-marketing-consulting": "Consultoria de marketing digital",
+      "digital-marketing-strategy": "Estratégia de marketing digital",
+      "international-marketing": "Marketing internacional",
+      "outsource-digital-marketing": "Outsourcing de marketing digital",
+      "ai-visibility": "Visibilidade em IA",
       "multilingual-seo": "SEO multilingue"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Como a IA escolhe fontes",
       "seo-packages-comparison": "Comparação de planos de SEO",
       "why-seo-matters-in-2026": "A importância do SEO em 2026"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

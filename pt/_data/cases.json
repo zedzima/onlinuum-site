@@ -3,7 +3,7 @@
     {
       "slug": "alvadi",
       "url": "/cases/alvadi",
-      "title": "Google Ads para E-commerce: Caso Alvadi",
+      "title": "Google Ads para e-commerce: caso Alvadi",
       "card_title": "Escala multilingue em Google Ads",
       "description": "Como a ALVADI escalou Google Ads para e-commerce automóvel em cinco idiomas, chegando a 2.4x de receita e 2.2x de taxa de conversão.",
       "menu": "ALVADI",
@@ -12,9 +12,9 @@
       "image": "/_media/logos/alvadi.svg",
       "image_mode": "logo",
       "service": "ppc",
-      "industry": "ecommerce",
+      "industry": "automotive",
       "country": "eu",
-      "language": "",
+      "language": "estonian",
       "results": [
         {
           "value": "2.4x",
@@ -39,30 +39,43 @@
       },
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing"
         ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "content-localization",
+          "transcreation"
         ],
         "experts": [
           "dima-gerko",
           "vitali-bakun"
         ],
+        "solutions": [
+          "international-marketing"
+        ],
         "services": [
           "ppc"
         ],
         "industries": [
+          "automotive",
           "ecommerce"
         ],
         "countries": [
-          "eu"
+          "eu",
+          "estonia",
+          "latvia"
+        ],
+        "languages": [
+          "estonian",
+          "latvian"
         ]
       }
     },
     {
       "slug": "bamboo-ppc-landing-pages",
       "url": "/cases/bamboo-ppc-landing-pages",
-      "title": "Landing Page B2B que Converte: Caso Bamboo",
+      "title": "Landing page B2B que converte: caso Bamboo",
       "card_title": "Landing pages PPC dinâmicas",
       "description": "Como a Bamboo Group lançou landing pages B2B para uma oferta de nicho: 4,22 % de taxa de conversão e $9,89 de CPA em poucos dias.",
       "menu": "Bamboo Group",
@@ -97,14 +110,25 @@
         "label": "Até às primeiras conversões"
       },
       "facets": {
+        "domains": [
+          "performance-marketing",
+          "web-marketing"
+        ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "cross-market-setup"
         ],
         "experts": [
-          "vitali-bakun"
+          "vitali-bakun",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing"
         ],
         "services": [
-          "ppc"
+          "ppc",
+          "web-development"
         ],
         "industries": [
           "saas"
@@ -120,26 +144,42 @@
   ],
   "labels": {
     "domains": {
-      "search-marketing": "Marketing nos motores de busca"
+      "performance-marketing": "Performance marketing",
+      "search-marketing": "Marketing nos motores de busca",
+      "web-marketing": "Marketing web"
     },
     "scopes": {
-      "google-ads-search": "Google Ads de pesquisa"
+      "google-ads-search": "Google Ads de pesquisa",
+      "content-localization": "Localização de conteúdos",
+      "transcreation": "Transcriação",
+      "cross-market-setup": "Configuração multimercado"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
-      "vitali-bakun": "Vitali Bakun"
+      "vitali-bakun": "Vitali Bakun",
+      "elena-grakovich": "Elena Grakovich"
+    },
+    "solutions": {
+      "international-marketing": "Marketing internacional",
+      "b2b-digital-marketing": "Marketing digital B2B"
     },
     "services": {
-      "ppc": "Google Ads"
+      "ppc": "Google Ads",
+      "web-development": "Criação de sites"
     },
     "industries": {
+      "automotive": "Automóvel",
       "ecommerce": "Comércio eletrónico",
       "saas": "SaaS"
     },
     "countries": {
-      "eu": "União Europeia"
+      "eu": "União Europeia",
+      "estonia": "Estónia",
+      "latvia": "Letónia"
     },
     "languages": {
+      "estonian": "Estónio",
+      "latvian": "Letão",
       "english": "Inglês"
     }
   }
