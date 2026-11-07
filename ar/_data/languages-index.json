@@ -129,7 +129,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -176,7 +177,8 @@
       "business-development-manager": "مدير تطوير الأعمال",
       "marketing-consultant": "مستشار تسويق",
       "aso-specialist": "متخصص ASO",
-      "ppc-specialist": "متخصص PPC"
+      "ppc-specialist": "متخصص PPC",
+      "social-media-manager": "أخصائي سوشيال ميديا"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",

@@ -118,7 +118,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     }
@@ -169,7 +170,8 @@
     },
     "positions": {
       "seo-expert": "SEO Uzmanı",
-      "marketing-consultant": "Pazarlama Danışmanı"
+      "marketing-consultant": "Pazarlama Danışmanı",
+      "social-media-manager": "Sosyal Medya Uzmanı"
     }
   }
 }

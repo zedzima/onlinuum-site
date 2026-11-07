@@ -84,6 +84,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -194,6 +197,7 @@
     },
     "positions": {
       "aso-specialist": "מומחה ASO",
+      "social-media-manager": "מנהל סושיאל",
       "seo-expert": "מומחה קידום אתרים",
       "marketing-consultant": "יועץ שיווק",
       "ppc-specialist": "מנהל קמפיינים PPC"

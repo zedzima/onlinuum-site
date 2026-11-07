@@ -519,12 +519,118 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "クライアントのSNS運用とTelegram出稿を担うSNSマネージャーの求人",
+      "description": "OnlinuumのSNS運用の求人です。クライアントのSNS運用とTelegramのメディアバイイングを担い、売上の40%を受け取るフルリモートの業務委託。固定給はありません。ご応募をお待ちしています。",
+      "menu": "SNS運用担当",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "SNS運用担当をネットワークに積極的に迎えています",
+        "badge_active": "SNSとTelegramの仕事で積極採用中",
+        "apply_label": "応募する／自己紹介を送る",
+        "label_service": "中心となるサービス",
+        "label_countries": "優先市場",
+        "label_languages": "業務で使う言語",
+        "label_industries": "優先業界",
+        "label_experience": "経験レベル",
+        "label_engagement": "契約形態",
+        "label_commitment": "稼働時間",
+        "engagement_type": "案件単位／パートタイム",
+        "working_hours": "稼働中のアカウント数と出稿の回数に応じて週10〜30時間",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "タイ",
+          "アラブ首長国連邦",
+          "キプロス",
+          "トルコ",
+          "ドイツ",
+          "ポーランド"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "ブランドのSNSアカウントを運用した経験、またはSNSやTelegramの広告枠を買い付けた経験が3年以上あり、その成果を示せること。",
+        "education_requirements": "学歴の要件はありません"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "scopes": [
+          "telegram-ads",
+          "content-strategy"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "アプリマーケティング",
-      "search-marketing": "検索マーケティング"
+      "search-marketing": "検索マーケティング",
+      "community-marketing": "コミュニティマーケティング"
     },
     "scopes": {
       "aso-optimization": "ASO対策",
@@ -544,7 +650,8 @@
       "aso": "ASO対策",
       "seo": "SEO対策",
       "ppc": "リスティング広告",
-      "content": "コンテンツマーケティング"
+      "content": "コンテンツマーケティング",
+      "social-media": "SNS運用代行"
     },
     "industries": {
       "saas": "SaaS",

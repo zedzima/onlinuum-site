@@ -86,6 +86,9 @@
         "languages": [
           "english",
           "polish"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -198,6 +201,7 @@
     },
     "positions": {
       "aso-specialist": "Specjalista ASO",
+      "social-media-manager": "Social media manager",
       "seo-expert": "Specjalista SEO",
       "marketing-consultant": "Doradca marketingowy",
       "ppc-specialist": "Specjalista Google Ads"

@@ -74,7 +74,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -195,7 +196,8 @@
       "aso-specialist": "Specialista ASO",
       "business-development-manager": "Business development manager",
       "marketing-consultant": "Consulente marketing",
-      "ppc-specialist": "Google Ads specialist"
+      "ppc-specialist": "Google Ads specialist",
+      "social-media-manager": "Social media manager"
     }
   }
 }

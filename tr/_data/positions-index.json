@@ -519,12 +519,122 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "Sosyal Medya Uzmanı: Müşteri Kanalları ve Telegram Medya Satın Alma",
+      "description": "Onlinuum'da uzaktan sosyal medya uzmanı iş ilanları: müşteri kanallarını yönetin, Telegram'da medya satın alın, %40 gelir payı kazanın. Başvurun.",
+      "menu": "Sosyal Medya Uzmanı",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Ağımıza aktif olarak sosyal medya uzmanları ekliyoruz",
+        "badge_active": "Sosyal medya ve Telegram işleri için işe alım sürüyor",
+        "apply_label": "Başvurun / Kendinizi Tanıtın",
+        "label_service": "Temel hizmet",
+        "label_countries": "Öncelikli pazarlar",
+        "label_languages": "Çalışma dilleri",
+        "label_industries": "Öncelikli sektörler",
+        "label_experience": "Kıdem",
+        "label_engagement": "Çalışma biçimi",
+        "label_commitment": "Zaman taahhüdü",
+        "engagement_type": "Proje bazlı / yarı zamanlı",
+        "working_hours": "Aktif kanallara ve yerleşim dalgalarına göre haftada 10-30 saat",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Tayland",
+          "Birleşik Arap Emirlikleri",
+          "Kıbrıs",
+          "Türkiye",
+          "Almanya",
+          "Polonya"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "Markalar için sosyal medya kanalları yönetmede veya sosyal medya ve Telegram reklam yerleşimi satın almada 3+ yıl deneyim ve gösterebileceğiniz sonuçlar.",
+        "education_requirements": "şart değil"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "scopes": [
+          "telegram-ads",
+          "content-strategy"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "turkish"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "Mobil Uygulama Pazarlama",
-      "search-marketing": "Arama Motoru Pazarlaması"
+      "search-marketing": "Arama Motoru Pazarlaması",
+      "community-marketing": "Topluluk Pazarlaması"
     },
     "scopes": {
       "aso-optimization": "ASO Çalışması",
@@ -544,7 +654,8 @@
       "aso": "ASO Hizmeti",
       "seo": "SEO Hizmeti",
       "ppc": "Performans Pazarlama",
-      "content": "İçerik Pazarlama"
+      "content": "İçerik Pazarlama",
+      "social-media": "Sosyal Medya"
     },
     "industries": {
       "saas": "SaaS",

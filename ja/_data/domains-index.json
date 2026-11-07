@@ -84,6 +84,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -194,6 +197,7 @@
     },
     "positions": {
       "aso-specialist": "ASO担当",
+      "social-media-manager": "SNS運用担当",
       "seo-expert": "SEO担当",
       "marketing-consultant": "マーケティングコンサルタント",
       "ppc-specialist": "広告運用担当"

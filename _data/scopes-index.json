@@ -1383,7 +1383,7 @@
       "slug": "google-app-campaigns",
       "url": "/scopes/google-app-campaigns",
       "title": "Google App Campaigns Management: Android & iOS",
-      "description": "Google App Campaigns management: account setup, creative testing, and bid optimization for Android and iOS UA. From $400/mo. See pricing.",
+      "description": "Google App Campaigns management: account setup, creative testing, and bid optimization for Android and iOS UA. From $400. See pricing.",
       "menu": "Google App Campaigns",
       "featured": true,
       "from_price": 400,
@@ -2125,10 +2125,10 @@
       "slug": "paid-social-for-apps",
       "url": "/scopes/paid-social-for-apps",
       "title": "Paid Social for Apps: Meta & TikTok Installs",
-      "description": "Paid social for app installs: channel strategy, creative testing, and bid optimization across Meta and TikTok. From $400/mo. See pricing.",
+      "description": "Paid social for app installs: channel strategy, creative testing, and bid optimization across Meta and TikTok. From $200/mo. See pricing.",
       "menu": "Paid Social for Apps",
       "featured": true,
-      "from_price": 400,
+      "from_price": 200,
       "delivery": "monthly",
       "expert_count": 2,
       "industry_count": 5,
@@ -2650,6 +2650,62 @@
       },
       "case_count": 0,
       "article_count": 2
+    },
+    {
+      "slug": "social-media-management",
+      "url": "/scopes/social-media-management",
+      "title": "Social Media Management Services from $1,200/mo",
+      "description": "Monthly social media management: channel strategy, content calendar, posts, community and Telegram channel management, reporting. From $1,200/month.",
+      "menu": "Social Media Management",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 3,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "hospitality",
+          "retail",
+          "crypto",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "thailand",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "german"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     },
     {
       "slug": "technical-seo",

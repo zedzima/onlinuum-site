@@ -58,7 +58,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -161,7 +162,8 @@
       "aso-specialist": "מומחה ASO",
       "business-development-manager": "מנהל פיתוח עסקי",
       "marketing-consultant": "יועץ שיווק",
-      "ppc-specialist": "מנהל קמפיינים PPC"
+      "ppc-specialist": "מנהל קמפיינים PPC",
+      "social-media-manager": "מנהל סושיאל"
     }
   }
 }

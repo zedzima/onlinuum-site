@@ -520,12 +520,118 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "Vaga de social media manager: redes de clientes e compra de media no Telegram",
+      "description": "Vagas de social media manager remoto na Onlinuum: gira redes de clientes e a compra de media no Telegram e fique com 40 % da receita. Candidate-se.",
+      "menu": "Social media manager",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Estamos a acrescentar ativamente social media managers à rede",
+        "badge_active": "A recrutar ativamente para redes sociais e Telegram",
+        "apply_label": "Candidatar-me / Apresentar-me",
+        "label_service": "Serviço principal",
+        "label_countries": "Mercados prioritários",
+        "label_languages": "Idiomas de trabalho",
+        "label_industries": "Setores prioritários",
+        "label_experience": "Senioridade",
+        "label_engagement": "Formato de colaboração",
+        "label_commitment": "Regime de trabalho",
+        "engagement_type": "Por projeto / tempo parcial",
+        "working_hours": "10 a 30 horas por semana, consoante os canais ativos e as rondas de inserções",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Tailândia",
+          "Emirados Árabes Unidos",
+          "Chipre",
+          "Turquia",
+          "Alemanha",
+          "Polónia"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "3 ou mais anos a gerir redes sociais ou a comprar inserções em redes sociais e no Telegram para marcas, com resultados que possa mostrar.",
+        "education_requirements": "sem requisitos"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "scopes": [
+          "telegram-ads",
+          "content-strategy"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "Marketing mobile",
-      "search-marketing": "Marketing nos motores de busca"
+      "search-marketing": "Marketing nos motores de busca",
+      "community-marketing": "Marketing de comunidade"
     },
     "scopes": {
       "aso-optimization": "ASO para lojas de apps",
@@ -545,7 +651,8 @@
       "aso": "ASO para apps",
       "seo": "Serviços de SEO",
       "ppc": "Google Ads",
-      "content": "Marketing de conteúdos"
+      "content": "Marketing de conteúdos",
+      "social-media": "Redes sociais"
     },
     "industries": {
       "saas": "SaaS",

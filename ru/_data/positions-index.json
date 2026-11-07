@@ -668,6 +668,7 @@
           "brazil",
           "bulgaria",
           "canada",
+          "china",
           "croatia",
           "cyprus",
           "czechia",
@@ -680,6 +681,7 @@
           "india",
           "indonesia",
           "ireland",
+          "israel",
           "italy",
           "japan",
           "latvia",
@@ -694,11 +696,14 @@
           "singapore",
           "slovakia",
           "slovenia",
+          "south-korea",
           "sweden",
           "switzerland",
+          "taiwan",
           "thailand",
           "turkey",
-          "uae"
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
@@ -719,9 +724,11 @@
           "estonian",
           "finnish",
           "greek",
+          "hebrew",
           "hindi",
           "hungarian",
           "italian",
+          "korean",
           "lithuanian",
           "malay",
           "romanian",
@@ -729,7 +736,8 @@
           "slovenian",
           "swedish",
           "thai",
-          "turkish"
+          "turkish",
+          "ukrainian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -828,7 +836,8 @@
           "youtube-channel-management",
           "content-strategy",
           "copywriting",
-          "transcreation"
+          "transcreation",
+          "social-media-management"
         ],
         "solutions": [
           "international-marketing",
@@ -856,6 +865,7 @@
           "uae",
           "cyprus",
           "turkey",
+          "israel",
           "germany",
           "poland",
           "spain",
@@ -865,6 +875,7 @@
         "languages": [
           "english",
           "russian",
+          "ukrainian",
           "german",
           "polish",
           "spanish",
@@ -950,7 +961,8 @@
       "youtube-creator-collaborations": "Реклама у блогеров на YouTube",
       "youtube-creator-pilot": "Пилот с блогерами на YouTube",
       "youtube-channel-management": "Ведение YouTube-канала",
-      "copywriting": "Копирайтинг"
+      "copywriting": "Копирайтинг",
+      "social-media-management": "Ведение соцсетей"
     },
     "experts": {
       "mariia-nedbaievska": "Мария Недбаевская",
@@ -1037,6 +1049,7 @@
       "belgium": "Бельгия",
       "bulgaria": "Болгария",
       "canada": "Канада",
+      "china": "Китай",
       "croatia": "Хорватия",
       "cyprus": "Кипр",
       "czechia": "Чехия",
@@ -1047,6 +1060,7 @@
       "greece": "Греция",
       "hungary": "Венгрия",
       "ireland": "Ирландия",
+      "israel": "Израиль",
       "latvia": "Латвия",
       "lithuania": "Литва",
       "luxembourg": "Люксембург",
@@ -1055,7 +1069,10 @@
       "romania": "Румыния",
       "slovakia": "Словакия",
       "slovenia": "Словения",
-      "switzerland": "Швейцария"
+      "south-korea": "Южная Корея",
+      "switzerland": "Швейцария",
+      "taiwan": "Тайвань",
+      "ukraine": "Украина"
     },
     "languages": {
       "english": "Английский",
@@ -1081,14 +1098,17 @@
       "estonian": "Эстонский",
       "finnish": "Финский",
       "greek": "Греческий",
+      "hebrew": "Иврит",
       "hindi": "Хинди",
       "hungarian": "Венгерский",
+      "korean": "Корейский",
       "lithuanian": "Литовский",
       "malay": "Малайский",
       "romanian": "Румынский",
       "slovak": "Словацкий",
       "slovenian": "Словенский",
-      "thai": "Тайский"
+      "thai": "Тайский",
+      "ukrainian": "Украинский"
     },
     "blog-posts": {
       "seo-packages-comparison": "Сравнение SEO-пакетов",

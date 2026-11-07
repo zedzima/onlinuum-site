@@ -135,7 +135,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -187,7 +188,8 @@
       "business-development-manager": "Business development manager",
       "marketing-consultant": "Marketing consultant",
       "aso-specialist": "ASO-specialist",
-      "ppc-specialist": "SEA-specialist"
+      "ppc-specialist": "SEA-specialist",
+      "social-media-manager": "Social media manager"
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group"

@@ -59,7 +59,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -164,7 +165,8 @@
       "aso-specialist": "ASO Uzmanı",
       "business-development-manager": "İş Geliştirme Yöneticisi",
       "marketing-consultant": "Pazarlama Danışmanı",
-      "ppc-specialist": "Google Ads Uzmanı"
+      "ppc-specialist": "Google Ads Uzmanı",
+      "social-media-manager": "Sosyal Medya Uzmanı"
     }
   }
 }

@@ -3,7 +3,7 @@
     {
       "slug": "alvadi",
       "url": "/cases/alvadi",
-      "title": "Google Ads E-commerce International : Cas ALVADI",
+      "title": "Google Ads e-commerce international : cas ALVADI",
       "card_title": "Google Ads multilingue à l'échelle",
       "description": "Comment ALVADI a étendu Google Ads à cinq langues pour son e-commerce automobile : 2,4x de revenus et 2,2x de taux de conversion.",
       "menu": "ALVADI",
@@ -12,9 +12,9 @@
       "image": "/_media/logos/alvadi.svg",
       "image_mode": "logo",
       "service": "ppc",
-      "industry": "ecommerce",
+      "industry": "automotive",
       "country": "eu",
-      "language": "",
+      "language": "estonian",
       "results": [
         {
           "value": "2,4x",
@@ -39,30 +39,43 @@
       },
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing"
         ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "content-localization",
+          "transcreation"
         ],
         "experts": [
           "dima-gerko",
           "vitali-bakun"
         ],
+        "solutions": [
+          "international-marketing"
+        ],
         "services": [
           "ppc"
         ],
         "industries": [
+          "automotive",
           "ecommerce"
         ],
         "countries": [
-          "eu"
+          "eu",
+          "estonia",
+          "latvia"
+        ],
+        "languages": [
+          "estonian",
+          "latvian"
         ]
       }
     },
     {
       "slug": "bamboo-ppc-landing-pages",
       "url": "/cases/bamboo-ppc-landing-pages",
-      "title": "Landing Pages Google Ads B2B : Cas Bamboo",
+      "title": "Landing pages Google Ads B2B : cas Bamboo",
       "card_title": "Landing pages dynamiques en SEA",
       "description": "Comment Bamboo Group a lancé ses landing pages Google Ads sur une offre B2B pointue : 4,22 % de taux de conversion et 9,89 $ de CPA en quelques jours.",
       "menu": "Bamboo Group",
@@ -97,14 +110,25 @@
         "label": "Avant les premières conversions"
       },
       "facets": {
+        "domains": [
+          "performance-marketing",
+          "web-marketing"
+        ],
         "scopes": [
-          "google-ads-search"
+          "google-ads-search",
+          "cross-market-setup"
         ],
         "experts": [
-          "vitali-bakun"
+          "vitali-bakun",
+          "elena-grakovich"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing"
         ],
         "services": [
-          "ppc"
+          "ppc",
+          "web-development"
         ],
         "industries": [
           "saas"
@@ -120,26 +144,42 @@
   ],
   "labels": {
     "domains": {
-      "search-marketing": "Search marketing"
+      "performance-marketing": "Marketing à la performance",
+      "search-marketing": "Search marketing",
+      "web-marketing": "Webmarketing"
     },
     "scopes": {
-      "google-ads-search": "Campagnes Google Ads"
+      "google-ads-search": "Campagnes Google Ads",
+      "content-localization": "Traduction et localisation",
+      "transcreation": "Transcréation",
+      "cross-market-setup": "Configuration multi-marchés (hreflang)"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
-      "vitali-bakun": "Vitali Bakun"
+      "vitali-bakun": "Vitali Bakun",
+      "elena-grakovich": "Elena Grakovich"
+    },
+    "solutions": {
+      "international-marketing": "Marketing international",
+      "b2b-digital-marketing": "Marketing digital B2B"
     },
     "services": {
-      "ppc": "SEA"
+      "ppc": "SEA",
+      "web-development": "Développement web"
     },
     "industries": {
+      "automotive": "Automobile",
       "ecommerce": "E-commerce et retail",
       "saas": "Éditeurs SaaS"
     },
     "countries": {
-      "eu": "Union européenne"
+      "eu": "Union européenne",
+      "estonia": "Estonie",
+      "latvia": "Lettonie"
     },
     "languages": {
+      "estonian": "Estonien",
+      "latvian": "Letton",
       "english": "Anglais"
     }
   }

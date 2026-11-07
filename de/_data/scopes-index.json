@@ -140,7 +140,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -425,7 +426,8 @@
         ],
         "positions": [
           "ppc-specialist",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -471,6 +473,7 @@
       "aso-specialist": "ASO Manager",
       "marketing-consultant": "Marketingberater",
       "seo-expert": "SEO Manager",
+      "social-media-manager": "Social-Media-Manager",
       "ppc-specialist": "SEA Manager"
     },
     "cases": {

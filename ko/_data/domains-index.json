@@ -84,6 +84,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -194,6 +197,7 @@
     },
     "positions": {
       "aso-specialist": "ASO 전문가",
+      "social-media-manager": "SNS 마케터",
       "seo-expert": "SEO 채용",
       "marketing-consultant": "마케팅 컨설턴트",
       "ppc-specialist": "퍼포먼스 마케터"

@@ -82,6 +82,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -194,6 +197,7 @@
     },
     "positions": {
       "aso-specialist": "ASO Uzmanı",
+      "social-media-manager": "Sosyal Medya Uzmanı",
       "seo-expert": "SEO Uzmanı",
       "marketing-consultant": "Pazarlama Danışmanı",
       "ppc-specialist": "Google Ads Uzmanı"

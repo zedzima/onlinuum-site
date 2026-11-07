@@ -134,7 +134,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -401,7 +402,8 @@
         ],
         "positions": [
           "ppc-specialist",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -446,6 +448,7 @@
       "aso-specialist": "ASO 전문가",
       "marketing-consultant": "마케팅 컨설턴트",
       "seo-expert": "SEO 채용",
+      "social-media-manager": "SNS 마케터",
       "ppc-specialist": "퍼포먼스 마케터"
     },
     "cases": {

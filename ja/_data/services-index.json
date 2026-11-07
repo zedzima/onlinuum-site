@@ -101,7 +101,8 @@
         ],
         "positions": [
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -253,6 +254,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     }
@@ -299,6 +303,7 @@
       "aso-specialist": "ASO担当",
       "business-development-manager": "事業開発マネージャー",
       "marketing-consultant": "マーケティングコンサルタント",
+      "social-media-manager": "SNS運用担当",
       "ppc-specialist": "広告運用担当",
       "seo-expert": "SEO担当"
     },

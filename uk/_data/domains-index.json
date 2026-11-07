@@ -136,7 +136,7 @@
       "featured": true,
       "icon": "award",
       "service_count": 5,
-      "scope_count": 15,
+      "scope_count": 16,
       "solution_count": 10,
       "case_count": 0,
       "expert_count": 8,
@@ -156,6 +156,7 @@
           "content-strategy",
           "content-writing",
           "copywriting",
+          "social-media-management",
           "transcreation"
         ],
         "experts": [
@@ -298,7 +299,7 @@
       "featured": true,
       "icon": "users",
       "service_count": 4,
-      "scope_count": 11,
+      "scope_count": 12,
       "solution_count": 10,
       "case_count": 0,
       "expert_count": 7,
@@ -314,7 +315,8 @@
           "youtube-creator-pilot",
           "content-rewriting",
           "content-strategy",
-          "copywriting"
+          "copywriting",
+          "social-media-management"
         ],
         "experts": [
           "elena-grakovich",
@@ -1405,6 +1407,7 @@
       "content-strategy": "Контент-стратегія",
       "content-writing": "Написання текстів",
       "copywriting": "Копірайтинг",
+      "social-media-management": "Ведення соцмереж",
       "transcreation": "Транскреація",
       "ai-optimisation": "AI-оптимізація",
       "ppc-audit": "Аудит Google Ads",

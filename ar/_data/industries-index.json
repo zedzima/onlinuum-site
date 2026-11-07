@@ -67,7 +67,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -133,7 +134,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -204,7 +206,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -264,7 +267,8 @@
       "aso-specialist": "متخصص ASO",
       "business-development-manager": "مدير تطوير الأعمال",
       "marketing-consultant": "مستشار تسويق",
-      "ppc-specialist": "متخصص PPC"
+      "ppc-specialist": "متخصص PPC",
+      "social-media-manager": "أخصائي سوشيال ميديا"
     }
   }
 }

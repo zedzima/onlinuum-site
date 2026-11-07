@@ -103,7 +103,8 @@
         ],
         "positions": [
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -258,6 +259,9 @@
         "languages": [
           "english",
           "dutch"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     }
@@ -305,6 +309,7 @@
       "aso-specialist": "ASO-specialist",
       "business-development-manager": "Business development manager",
       "marketing-consultant": "Marketing consultant",
+      "social-media-manager": "Social media manager",
       "ppc-specialist": "SEA-specialist",
       "seo-expert": "SEO-specialist"
     },

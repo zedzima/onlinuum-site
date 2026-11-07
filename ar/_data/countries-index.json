@@ -124,7 +124,8 @@
           "seo-expert",
           "ppc-specialist",
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     }
@@ -176,7 +177,8 @@
       "seo-expert": "خبير SEO",
       "ppc-specialist": "متخصص PPC",
       "business-development-manager": "مدير تطوير الأعمال",
-      "marketing-consultant": "مستشار تسويق"
+      "marketing-consultant": "مستشار تسويق",
+      "social-media-manager": "أخصائي سوشيال ميديا"
     }
   }
 }

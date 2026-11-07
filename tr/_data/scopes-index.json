@@ -132,7 +132,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -412,7 +413,8 @@
         ],
         "positions": [
           "ppc-specialist",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -458,6 +460,7 @@
       "aso-specialist": "ASO Uzmanı",
       "marketing-consultant": "Pazarlama Danışmanı",
       "seo-expert": "SEO Uzmanı",
+      "social-media-manager": "Sosyal Medya Uzmanı",
       "ppc-specialist": "Google Ads Uzmanı"
     },
     "cases": {

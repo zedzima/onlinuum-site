@@ -134,7 +134,8 @@
         ],
         "positions": [
           "seo-expert",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -401,7 +402,8 @@
         ],
         "positions": [
           "ppc-specialist",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -446,6 +448,7 @@
       "aso-specialist": "מומחה ASO",
       "marketing-consultant": "יועץ שיווק",
       "seo-expert": "מומחה קידום אתרים",
+      "social-media-manager": "מנהל סושיאל",
       "ppc-specialist": "מנהל קמפיינים PPC"
     },
     "cases": {

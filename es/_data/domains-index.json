@@ -86,6 +86,9 @@
         "languages": [
           "english",
           "spanish"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     },
@@ -198,6 +201,7 @@
     },
     "positions": {
       "aso-specialist": "ASO manager",
+      "social-media-manager": "Social media manager",
       "seo-expert": "Especialista SEO",
       "marketing-consultant": "Consultor de marketing",
       "ppc-specialist": "Especialista SEM"

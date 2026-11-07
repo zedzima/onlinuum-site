@@ -7,7 +7,7 @@
       "description": "Emploi ASO en remote chez Onlinuum : portez l'app store optimization, gardez 40 % des revenus, travaillez en plusieurs langues. Postulez aujourd'hui.",
       "menu": "Spécialiste ASO",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 3,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -50,25 +50,56 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "app-store-cro",
+          "apple-search-ads",
+          "app-retention",
+          "google-app-campaigns",
+          "paid-social-for-apps"
+        ],
+        "experts": [
+          "mariia-nedbaievska",
+          "muhammad-hijazi-siddiqui",
+          "brankica-petrasinovic"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition",
+          "app-conversion-retention"
         ],
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "healthcare",
+          "game-studios"
         ],
         "countries": [
-          "france"
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "india"
         ],
         "languages": [
           "english",
-          "french"
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "urdu"
         ]
       },
       "services": [
@@ -106,7 +137,7 @@
       "slug": "business-development-manager",
       "url": "/positions/business-development-manager",
       "title": "Business developer",
-      "description": "Emploi business developer en remote : ouvrez le marché que vous connaissez et gardez 10 % de ce que paient vos clients sur leurs 12 premiers mois.",
+      "description": "Emploi business developer en remote : ouvrez le marché que vous connaissez et gardez 10 % de ce que paient vos clients sur leurs 12 premiers mois.",
       "menu": "Business developer",
       "featured": false,
       "expert_count": 0,
@@ -146,26 +177,51 @@
         "education_requirements": "aucune exigence"
       },
       "facets": {
+        "domains": [
+          "growth-marketing",
+          "brand-marketing"
+        ],
         "solutions": [
-          "digital-marketing-consulting"
+          "international-marketing",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
         ],
         "services": [
           "seo",
           "ppc",
           "aso",
-          "content"
+          "content",
+          "paid-social",
+          "web-development"
         ],
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing",
+          "hospitality",
+          "legal"
         ],
         "countries": [
-          "france"
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "uae"
         ],
         "languages": [
           "english",
-          "french"
+          "german",
+          "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "arabic"
         ]
       },
       "services": [
@@ -201,10 +257,10 @@
       "slug": "marketing-consultant",
       "url": "/positions/marketing-consultant",
       "title": "Consultant marketing pour un seul marché local",
-      "description": "Consultant marketing freelance chez Onlinuum : portez un marché dans un réseau de 48 pays et gardez 40 % des revenus. Postulez dès aujourd'hui.",
+      "description": "Consultant marketing freelance chez Onlinuum : portez un marché dans un réseau de 48 pays et gardez 40 % des revenus. Postulez dès aujourd'hui.",
       "menu": "Consultant marketing",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -243,34 +299,76 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "growth-marketing",
+          "search-marketing",
+          "performance-marketing",
+          "web-marketing"
         ],
         "scopes": [
+          "cross-market-setup",
           "seo-research",
+          "local-seo",
           "content-strategy",
+          "content-localization",
+          "transcreation",
           "aso-localization",
           "telegram-ads"
         ],
+        "experts": [
+          "moataz-yacoubian"
+        ],
         "solutions": [
+          "international-marketing",
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-seo",
+          "multilingual-seo",
+          "b2b-digital-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "seo",
           "ppc",
           "aso",
-          "content"
+          "content",
+          "paid-social"
         ],
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "healthcare",
+          "retail",
+          "hospitality",
+          "automotive"
         ],
         "countries": [
-          "france"
+          "germany",
+          "france",
+          "spain",
+          "italy",
+          "netherlands",
+          "poland",
+          "sweden",
+          "turkey",
+          "brazil",
+          "mexico",
+          "japan",
+          "uae"
         ],
         "languages": [
+          "german",
           "french",
+          "spanish",
+          "italian",
+          "dutch",
+          "polish",
+          "swedish",
+          "turkish",
+          "portuguese",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -327,7 +425,7 @@
       "description": "Emploi SEA en remote chez Onlinuum : portez le référencement payant, Google Shopping et YouTube Ads sur 6 marchés prioritaires. Postulez aujourd'hui.",
       "menu": "Spécialiste SEA",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 6,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -365,15 +463,33 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "microsoft-ads",
+          "google-shopping",
+          "remarketing-display",
+          "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
+        "experts": [
+          "aldillah-melisa-febryana",
+          "ndeye-binta-diouf",
+          "can-erim",
+          "ismail-aydogdu",
+          "md-solayman-rumon",
+          "netanel-kugler"
+        ],
         "solutions": [
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
         ],
         "services": [
           "ppc"
@@ -381,14 +497,33 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "game-studios",
+          "fmcg"
         ],
         "countries": [
-          "france"
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "poland",
+          "spain",
+          "india",
+          "indonesia",
+          "malaysia",
+          "singapore",
+          "thailand",
+          "uae"
         ],
         "languages": [
           "english",
-          "french"
+          "german",
+          "french",
+          "spanish",
+          "indonesian"
         ]
       },
       "services": [
@@ -425,7 +560,7 @@
       "description": "Emploi SEO en remote chez Onlinuum : portez les audits techniques et l'exécution on-page, gardez 40 % des revenus. Postulez dès aujourd'hui.",
       "menu": "Consultant SEO",
       "featured": false,
-      "expert_count": 1,
+      "expert_count": 11,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -463,19 +598,44 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "web-marketing"
         ],
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "on-page-seo",
+          "link-building",
+          "cross-market-setup",
+          "ai-optimisation",
+          "local-seo",
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
-          "alaaddin-saracyakupoglu"
+          "dmitriy-razakhatsky",
+          "gael-balouek",
+          "moataz-yacoubian",
+          "alaaddin-saracyakupoglu",
+          "valentina-soldatkina",
+          "lalit-kumar",
+          "ndeye-binta-diouf",
+          "aina-rakotondrabe",
+          "mohamed-isse",
+          "syed-rafey",
+          "tri-huy-do"
         ],
         "solutions": [
+          "global-seo",
+          "international-seo",
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "seo-ecommerce",
+          "ai-visibility"
         ],
         "services": [
           "seo"
@@ -483,15 +643,101 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "healthcare",
+          "fintech",
+          "automotive",
+          "legal",
+          "manufacturing",
+          "crypto",
+          "fmcg",
+          "hospitality",
+          "pharma",
+          "retail"
         ],
         "countries": [
+          "germany",
+          "austria",
+          "uk",
           "france",
-          "eu"
+          "usa",
+          "poland",
+          "portugal",
+          "spain",
+          "australia",
+          "belgium",
+          "brazil",
+          "bulgaria",
+          "canada",
+          "china",
+          "croatia",
+          "cyprus",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "hungary",
+          "india",
+          "indonesia",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "latvia",
+          "lithuania",
+          "luxembourg",
+          "malaysia",
+          "malta",
+          "mexico",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "slovakia",
+          "slovenia",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "taiwan",
+          "thailand",
+          "turkey",
+          "uae",
+          "ukraine"
         ],
         "languages": [
           "english",
-          "french"
+          "german",
+          "french",
+          "russian",
+          "spanish",
+          "polish",
+          "portuguese",
+          "chinese",
+          "japanese",
+          "arabic",
+          "bulgarian",
+          "croatian",
+          "czech",
+          "danish",
+          "dutch",
+          "estonian",
+          "finnish",
+          "greek",
+          "hebrew",
+          "hindi",
+          "hungarian",
+          "italian",
+          "korean",
+          "lithuanian",
+          "malay",
+          "romanian",
+          "slovak",
+          "slovenian",
+          "swedish",
+          "thai",
+          "turkish",
+          "ukrainian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -531,48 +777,338 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "Social media manager : réseaux des clients et achat média Telegram",
+      "description": "Emploi social media manager à distance chez Onlinuum : gérez les réseaux de clients et l'achat média Telegram, gardez 40 % des revenus. Postulez.",
+      "menu": "Social media manager",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "Nous intégrons activement des social media managers au réseau",
+        "badge_active": "Recrutement actif pour les réseaux sociaux et Telegram",
+        "apply_label": "Postuler / se présenter",
+        "label_service": "Service principal",
+        "label_countries": "Marchés prioritaires",
+        "label_languages": "Langues de travail",
+        "label_industries": "Secteurs prioritaires",
+        "label_experience": "Séniorité",
+        "label_engagement": "Type de mission",
+        "label_commitment": "Disponibilité",
+        "engagement_type": "À la mission / temps partiel",
+        "working_hours": "10 à 30 heures par semaine selon les chaînes actives et les vagues de placements",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "Thaïlande",
+          "Émirats arabes unis",
+          "Chypre",
+          "Turquie",
+          "Allemagne",
+          "Pologne"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "Au moins 3 ans à animer des réseaux sociaux ou à acheter des placements sociaux et Telegram pour des marques, avec des résultats à présenter.",
+        "education_requirements": "aucune exigence"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "telegram-channel-placements",
+          "telegram-ads",
+          "youtube-creator-collaborations",
+          "youtube-creator-pilot",
+          "youtube-channel-management",
+          "content-strategy",
+          "copywriting",
+          "transcreation",
+          "social-media-management"
+        ],
+        "solutions": [
+          "international-marketing",
+          "digital-marketing-strategy",
+          "digital-marketing-consulting",
+          "outsource-digital-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "social-media",
+          "paid-social",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "hospitality",
+          "crypto",
+          "game-studios",
+          "retail",
+          "fintech"
+        ],
+        "countries": [
+          "thailand",
+          "uae",
+          "cyprus",
+          "turkey",
+          "israel",
+          "germany",
+          "poland",
+          "spain",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "ukrainian",
+          "german",
+          "polish",
+          "spanish",
+          "turkish"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "Marketing mobile",
-      "search-marketing": "Search marketing"
+      "search-marketing": "Search marketing",
+      "growth-marketing": "Growth marketing",
+      "brand-marketing": "Marketing de marque",
+      "performance-marketing": "Marketing à la performance",
+      "web-marketing": "Webmarketing",
+      "community-marketing": "Community marketing"
     },
     "scopes": {
       "aso-optimization": "Classement App Store",
       "aso-localization": "Localisation d'application",
+      "app-store-cro": "CRO de fiche App Store",
+      "apple-search-ads": "Apple Search Ads",
+      "app-retention": "Rétention d'application",
+      "google-app-campaigns": "Campagnes App Google (UAC)",
+      "paid-social-for-apps": "Publicité sociale pour applications",
+      "cross-market-setup": "Configuration multi-marchés (hreflang)",
       "seo-research": "Recherche SEO",
+      "local-seo": "SEO local",
       "content-strategy": "Stratégie de contenu",
+      "content-localization": "Traduction et localisation",
+      "transcreation": "Transcréation",
       "telegram-ads": "Publicité Telegram",
       "ppc-audit": "Audit SEA",
       "google-ads-search": "Campagnes Google Ads",
-      "technical-seo": "SEO technique"
+      "microsoft-ads": "Microsoft Ads",
+      "google-shopping": "Google Shopping",
+      "remarketing-display": "Retargeting et display",
+      "youtube-ads": "YouTube Ads",
+      "local-services-ads": "Publicité Local Services Ads",
+      "technical-seo": "SEO technique",
+      "on-page-seo": "SEO on-page",
+      "link-building": "Netlinking",
+      "ai-optimisation": "Optimisation GEO",
+      "seo-audit": "Audit SEO complet",
+      "telegram-channel-placements": "Placements dans les chaînes Telegram",
+      "youtube-creator-collaborations": "Collaborations avec des créateurs YouTube",
+      "youtube-creator-pilot": "Pilote créateurs YouTube",
+      "youtube-channel-management": "Gestion de chaîne YouTube",
+      "copywriting": "Rédaction publicitaire",
+      "social-media-management": "Gestion des réseaux sociaux"
+    },
+    "experts": {
+      "mariia-nedbaievska": "Mariia Nedbaievska",
+      "muhammad-hijazi-siddiqui": "Muhammad Hijazi Siddiqui",
+      "brankica-petrasinovic": "Brankica Petrašinović",
+      "moataz-yacoubian": "Moataz Yacoubian",
+      "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
+      "ndeye-binta-diouf": "Ndèye Binta Diouf",
+      "can-erim": "Can Erim",
+      "ismail-aydogdu": "İsmail Aydoğdu",
+      "md-solayman-rumon": "Md Solayman Rumon",
+      "netanel-kugler": "Netanel Kugler",
+      "dmitriy-razakhatsky": "Dmitry Rasakhatsky",
+      "gael-balouek": "Gael Balouek",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu",
+      "valentina-soldatkina": "Valentina Soldatkina",
+      "lalit-kumar": "Lalit Kumar",
+      "aina-rakotondrabe": "Aina Rakotondrabe",
+      "mohamed-isse": "Mohamed Isse",
+      "syed-rafey": "Syed Rafey",
+      "tri-huy-do": "Tri-Huy Do"
     },
     "solutions": {
+      "digital-marketing-strategy": "Stratégie digitale",
       "digital-marketing-consulting": "Conseil en marketing digital",
-      "multilingual-seo": "SEO multilingue"
+      "international-marketing": "Marketing international",
+      "outsource-digital-marketing": "Externalisation du marketing digital",
+      "b2b-digital-marketing": "Marketing digital B2B",
+      "global-seo": "SEO mondial",
+      "international-seo": "Agence SEO internationale",
+      "multilingual-seo": "SEO multilingue",
+      "seo-ecommerce": "Agence SEO e-commerce",
+      "ai-visibility": "Visibilité IA"
     },
     "services": {
       "aso": "ASO",
+      "app-user-acquisition": "Acquisition d'utilisateurs mobiles",
+      "app-conversion-retention": "Conversion et rétention d'application",
       "seo": "SEO",
       "ppc": "SEA",
-      "content": "Content marketing"
+      "content": "Content marketing",
+      "paid-social": "Social ads",
+      "web-development": "Développement web",
+      "social-media": "Réseaux sociaux"
     },
     "industries": {
       "saas": "Éditeurs SaaS",
       "fintech": "Fintech et banque",
-      "ecommerce": "E-commerce et retail"
+      "ecommerce": "E-commerce et retail",
+      "healthcare": "Santé",
+      "game-studios": "Studios de jeux vidéo",
+      "manufacturing": "Industrie",
+      "hospitality": "Hôtellerie",
+      "legal": "Juridique",
+      "retail": "Distribution",
+      "automotive": "Automobile",
+      "fmcg": "Grande consommation",
+      "crypto": "Crypto et Web3",
+      "pharma": "Pharma"
     },
     "countries": {
+      "germany": "Allemagne",
+      "usa": "États-Unis",
+      "uk": "Royaume-Uni",
       "france": "France",
-      "eu": "Union européenne"
+      "austria": "Autriche",
+      "poland": "Pologne",
+      "portugal": "Portugal",
+      "spain": "Espagne",
+      "india": "Inde",
+      "italy": "Italie",
+      "netherlands": "Pays-Bas",
+      "uae": "Émirats arabes unis",
+      "sweden": "Suède",
+      "turkey": "Turquie",
+      "brazil": "Brésil",
+      "mexico": "Mexique",
+      "japan": "Japon",
+      "indonesia": "Indonésie",
+      "malaysia": "Malaisie",
+      "singapore": "Singapour",
+      "thailand": "Thaïlande",
+      "australia": "Australie",
+      "belgium": "Belgique",
+      "bulgaria": "Bulgarie",
+      "canada": "Canada",
+      "china": "Chine",
+      "croatia": "Croatie",
+      "cyprus": "Chypre",
+      "czechia": "Tchéquie",
+      "denmark": "Danemark",
+      "estonia": "Estonie",
+      "eu": "Union européenne",
+      "finland": "Finlande",
+      "greece": "Grèce",
+      "hungary": "Hongrie",
+      "ireland": "Irlande",
+      "israel": "Israël",
+      "latvia": "Lettonie",
+      "lithuania": "Lituanie",
+      "luxembourg": "Luxembourg",
+      "malta": "Malte",
+      "new-zealand": "Nouvelle-Zélande",
+      "romania": "Roumanie",
+      "slovakia": "Slovaquie",
+      "slovenia": "Slovénie",
+      "south-korea": "Corée du Sud",
+      "switzerland": "Suisse",
+      "taiwan": "Taïwan",
+      "ukraine": "Ukraine"
     },
     "languages": {
       "english": "Anglais",
-      "french": "Français"
-    },
-    "experts": {
-      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
+      "german": "Allemand",
+      "french": "Français",
+      "russian": "Russe",
+      "spanish": "Espagnol",
+      "polish": "Polonais",
+      "portuguese": "Portugais",
+      "urdu": "Ourdou",
+      "italian": "Italien",
+      "dutch": "Néerlandais",
+      "arabic": "Arabe",
+      "swedish": "Suédois",
+      "turkish": "Turc",
+      "japanese": "Japonais",
+      "indonesian": "Indonésien",
+      "chinese": "Chinois",
+      "bulgarian": "Bulgare",
+      "croatian": "Croate",
+      "czech": "Tchèque",
+      "danish": "Danois",
+      "estonian": "Estonien",
+      "finnish": "Finnois",
+      "greek": "Grec",
+      "hebrew": "Hébreu",
+      "hindi": "Hindi (langue)",
+      "hungarian": "Hongrois",
+      "korean": "Coréen",
+      "lithuanian": "Lituanien",
+      "malay": "Malais",
+      "romanian": "Roumain",
+      "slovak": "Slovaque",
+      "slovenian": "Slovène",
+      "thai": "Thaï",
+      "ukrainian": "Ukrainien"
     },
     "blog-posts": {
       "seo-packages-comparison": "Comparatif des offres SEO",

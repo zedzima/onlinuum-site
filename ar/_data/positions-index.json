@@ -526,12 +526,121 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "وظائف سوشيال ميديا: حسابات العملاء وشراء الإعلانات في Telegram",
+      "description": "وظائف سوشيال ميديا عن بعد في Onlinuum: أديروا حسابات العملاء واشتروا الإعلانات في قنوات Telegram، واحتفظوا بـ40% من الإيرادات. تقدموا اليوم.",
+      "menu": "أخصائي سوشيال ميديا",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "نضيف حاليا أخصائيي سوشيال ميديا إلى الشبكة",
+        "badge_active": "توظيف نشط لأعمال السوشيال ميديا وTelegram",
+        "apply_label": "تقدموا أو عرفونا بأنفسكم",
+        "label_service": "الخدمة الأساسية",
+        "label_countries": "الأسواق ذات الأولوية",
+        "label_languages": "لغات العمل",
+        "label_industries": "القطاعات ذات الأولوية",
+        "label_experience": "المستوى",
+        "label_engagement": "شكل التعاون",
+        "label_commitment": "الالتزام",
+        "engagement_type": "قائم على المشاريع / بدوام جزئي",
+        "working_hours": "10-30 ساعة أسبوعيا حسب القنوات النشطة وموجات الإعلانات",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "تايلاند",
+          "الإمارات العربية المتحدة",
+          "قبرص",
+          "تركيا",
+          "ألمانيا",
+          "بولندا"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "3 سنوات أو أكثر في إدارة حسابات التواصل الاجتماعي أو شراء الإعلانات على شبكات التواصل وفي Telegram لعلامات تجارية، مع نتائج يمكنكم عرضها.",
+        "education_requirements": "لا توجد متطلبات"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "scopes": [
+          "telegram-ads",
+          "content-strategy"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "uae"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "تسويق التطبيقات",
-      "search-marketing": "التسويق عبر محركات البحث"
+      "search-marketing": "التسويق عبر محركات البحث",
+      "community-marketing": "التسويق المجتمعي"
     },
     "scopes": {
       "aso-optimization": "تحسين ASO",
@@ -551,7 +660,8 @@
       "aso": "تحسين متجر التطبيقات ASO",
       "seo": "سيو SEO",
       "ppc": "PPC",
-      "content": "التسويق بالمحتوى"
+      "content": "التسويق بالمحتوى",
+      "social-media": "وسائل التواصل الاجتماعي"
     },
     "industries": {
       "saas": "SaaS",

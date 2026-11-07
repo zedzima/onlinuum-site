@@ -120,7 +120,8 @@
           "english"
         ],
         "positions": [
-          "seo-expert"
+          "seo-expert",
+          "social-media-manager"
         ]
       }
     }
@@ -167,7 +168,8 @@
       "hebrew": "עברית"
     },
     "positions": {
-      "seo-expert": "מומחה קידום אתרים"
+      "seo-expert": "מומחה קידום אתרים",
+      "social-media-manager": "מנהל סושיאל"
     }
   }
 }

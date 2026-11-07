@@ -515,12 +515,121 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "מנהל סושיאל: ערוצי לקוחות וקניית מדיה בטלגרם",
+      "description": "דרושים סושיאל ב-Onlinuum: מנהל סושיאל מרחוק שמנהל ערוצים של לקוחות וקונה פרסומים בטלגרם, ומקבל 40% מההכנסות. הגישו מועמדות היום.",
+      "menu": "מנהל סושיאל",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "אנחנו מוסיפים מנהלי סושיאל לרשת באופן פעיל",
+        "badge_active": "מגייסים עכשיו לסושיאל ולטלגרם",
+        "apply_label": "הגישו מועמדות",
+        "label_service": "שירות ליבה",
+        "label_countries": "שווקי עדיפות",
+        "label_languages": "שפות עבודה",
+        "label_industries": "תעשיות עדיפות",
+        "label_experience": "ותק",
+        "label_engagement": "מתכונת עבודה",
+        "label_commitment": "היקף משרה",
+        "engagement_type": "לפי פרויקט / משרה חלקית",
+        "working_hours": "10-30 שעות בשבוע, תלוי בערוצים הפעילים ובגלי הפרסום",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "תאילנד",
+          "איחוד האמירויות",
+          "קפריסין",
+          "טורקיה",
+          "גרמניה",
+          "פולין"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "3 שנים ומעלה של ניהול ערוצי סושיאל או קניית פרסומים בסושיאל ובטלגרם עבור מותגים, עם תוצאות שאפשר להראות.",
+        "education_requirements": "ללא דרישות"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "scopes": [
+          "telegram-ads",
+          "content-strategy"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "שיווק אפליקציות",
-      "search-marketing": "שיווק במנועי חיפוש"
+      "search-marketing": "שיווק במנועי חיפוש",
+      "community-marketing": "ניהול קהילה"
     },
     "scopes": {
       "aso-optimization": "אופטימיזציית ASO",
@@ -540,7 +649,8 @@
       "aso": "ASO",
       "seo": "קידום אתרים",
       "ppc": "PPC",
-      "content": "שיווק תוכן"
+      "content": "שיווק תוכן",
+      "social-media": "רשתות חברתיות"
     },
     "industries": {
       "saas": "SaaS",

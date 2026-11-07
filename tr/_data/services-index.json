@@ -101,7 +101,8 @@
         ],
         "positions": [
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -254,6 +255,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     }
@@ -301,6 +305,7 @@
       "aso-specialist": "ASO Uzmanı",
       "business-development-manager": "İş Geliştirme Yöneticisi",
       "marketing-consultant": "Pazarlama Danışmanı",
+      "social-media-manager": "Sosyal Medya Uzmanı",
       "ppc-specialist": "Google Ads Uzmanı",
       "seo-expert": "SEO Uzmanı"
     },

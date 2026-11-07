@@ -659,6 +659,108 @@
       }
     },
     {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "Реклама в Китае: Baidu, WeChat и digital-маркетинг",
+      "description": "Реклама в Китае для международных брендов: Baidu, WeChat, Douyin, продуктизированные услуги и эксперты-носители китайского. Начните с консультации.",
+      "menu": "Китай",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "китайский",
+      "dominant_language_code": "zh",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 5,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "vitali-bakun",
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "chinese"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "croatia",
       "url": "/countries/croatia",
       "title": "Продвижение сайта в Хорватии: digital-маркетинг",
@@ -765,7 +867,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "греческий",
       "dominant_language_code": "el",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 12,
       "expert_count": 1,
       "case_count": 0,
@@ -793,7 +895,8 @@
           "remarketing-display",
           "content-localization",
           "transcreation",
-          "copywriting"
+          "copywriting",
+          "social-media-management"
         ],
         "experts": [
           "vyacheslav-maletskiy"
@@ -1518,7 +1621,7 @@
       "significant_languages_count": 9,
       "dominant_language_name": "немецкий",
       "dominant_language_code": "de",
-      "scope_count": 35,
+      "scope_count": 36,
       "service_count": 17,
       "expert_count": 10,
       "case_count": 0,
@@ -1562,6 +1665,7 @@
           "ppc-audit",
           "remarketing-display",
           "seo-audit",
+          "social-media-management",
           "telegram-ads",
           "telegram-channel-placements",
           "transcreation",
@@ -2174,6 +2278,116 @@
         ],
         "positions": [
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "israel",
+      "url": "/countries/israel",
+      "title": "Реклама в Израиле: digital-маркетинг на иврите",
+      "description": "Реклама в Израиле для международных брендов: продуктизированные услуги, эксперты-носители иврита, Google и WhatsApp. Начните с консультации.",
+      "menu": "Израиль",
+      "featured": false,
+      "flag": "🇮🇱",
+      "population_total": "9.4M",
+      "population_total_raw": 9402620,
+      "official_languages_count": 7,
+      "significant_languages_count": 7,
+      "dominant_language_name": "иврит",
+      "dominant_language_code": "he",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 6,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "vitali-bakun",
+          "dmitriy-razakhatsky",
+          "netanel-kugler"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "hebrew",
+          "english",
+          "arabic",
+          "russian",
+          "romanian",
+          "polish",
+          "hungarian"
+        ],
+        "positions": [
+          "seo-expert",
+          "social-media-manager"
         ]
       }
     },
@@ -3741,7 +3955,8 @@
           "czech",
           "english",
           "german",
-          "hungarian"
+          "hungarian",
+          "ukrainian"
         ],
         "positions": [
           "seo-expert"
@@ -3836,6 +4051,108 @@
           "croatian",
           "english",
           "german"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "south-korea",
+      "url": "/countries/south-korea",
+      "title": "Реклама в Корее: Naver, Google и digital-маркетинг",
+      "description": "Реклама в Корее для международных брендов: Naver SEO, Google, KakaoTalk, продуктизированные услуги и эксперты-носители корейского языка.",
+      "menu": "Южная Корея",
+      "featured": false,
+      "flag": "🇰🇷",
+      "population_total": "52.1M",
+      "population_total_raw": 52081800,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "корейский",
+      "dominant_language_code": "ko",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 5,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "vitali-bakun",
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "korean"
         ],
         "positions": [
           "seo-expert"
@@ -4178,6 +4495,108 @@
       }
     },
     {
+      "slug": "taiwan",
+      "url": "/countries/taiwan",
+      "title": "Продвижение сайта на Тайване: digital-маркетинг",
+      "description": "Продвижение сайта на Тайване для международных брендов: продуктизированные услуги, контент на традиционном китайском, Google и LINE. Начните сейчас.",
+      "menu": "Тайвань",
+      "featured": false,
+      "flag": "🇹🇼",
+      "population_total": "23.6M",
+      "population_total_raw": 23595300,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "китайский",
+      "dominant_language_code": "zh",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 5,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "vitali-bakun",
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "chinese"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "thailand",
       "url": "/countries/thailand",
       "title": "Продвижение сайта в Таиланде: digital-маркетинг",
@@ -4191,7 +4610,7 @@
       "significant_languages_count": 3,
       "dominant_language_name": "тайский",
       "dominant_language_code": "th",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 13,
       "expert_count": 2,
       "case_count": 0,
@@ -4219,7 +4638,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
-          "remarketing-display"
+          "remarketing-display",
+          "social-media-management"
         ],
         "experts": [
           "aldillah-melisa-febryana",
@@ -4384,7 +4804,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "арабский",
       "dominant_language_code": "ar",
-      "scope_count": 15,
+      "scope_count": 16,
       "service_count": 17,
       "expert_count": 5,
       "case_count": 0,
@@ -4416,7 +4836,8 @@
           "remarketing-display",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "social-media-management"
         ],
         "experts": [
           "muhammad-hijazi-siddiqui",
@@ -4493,7 +4914,7 @@
       "significant_languages_count": 9,
       "dominant_language_name": "английский",
       "dominant_language_code": "en",
-      "scope_count": 35,
+      "scope_count": 36,
       "service_count": 19,
       "expert_count": 16,
       "case_count": 0,
@@ -4537,6 +4958,7 @@
           "ppc-audit",
           "remarketing-display",
           "seo-audit",
+          "social-media-management",
           "telegram-ads",
           "telegram-channel-placements",
           "transcreation",
@@ -4635,6 +5057,110 @@
       }
     },
     {
+      "slug": "ukraine",
+      "url": "/countries/ukraine",
+      "title": "Продвижение сайта в Украине для иностранных брендов",
+      "description": "Продвижение сайта в Украине для международных брендов: продуктизированные услуги и эксперты-носители украинского языка. Начните с консультации.",
+      "menu": "Украина",
+      "featured": false,
+      "flag": "🇺🇦",
+      "population_total": "35.7M",
+      "population_total_raw": 35661800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "украинский",
+      "dominant_language_code": "uk",
+      "scope_count": 14,
+      "service_count": 17,
+      "expert_count": 5,
+      "case_count": 0,
+      "solution_count": 10,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "web-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "ai-optimisation",
+          "technical-seo",
+          "cross-market-setup",
+          "link-building",
+          "local-seo",
+          "on-page-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "elena-grakovich",
+          "anastasiya-antoniuk",
+          "dima-gerko",
+          "vitali-bakun",
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "ai-visibility",
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "global-seo",
+          "international-marketing",
+          "international-seo",
+          "multilingual-seo",
+          "outsource-digital-marketing",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "aeo",
+          "analytics",
+          "automation",
+          "content",
+          "cro",
+          "email",
+          "marketplace-management",
+          "pr",
+          "social-media",
+          "aso",
+          "orm",
+          "paid-social",
+          "web-development",
+          "app-user-acquisition",
+          "app-conversion-retention",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "healthcare",
+          "automotive",
+          "legal",
+          "manufacturing"
+        ],
+        "languages": [
+          "ukrainian",
+          "russian",
+          "polish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "usa",
       "url": "/countries/usa",
       "title": "Продвижение сайта в США: digital-маркетинг",
@@ -4648,7 +5174,7 @@
       "significant_languages_count": 2,
       "dominant_language_name": "английский",
       "dominant_language_code": "en",
-      "scope_count": 35,
+      "scope_count": 36,
       "service_count": 19,
       "expert_count": 21,
       "case_count": 0,
@@ -4692,6 +5218,7 @@
           "ppc-audit",
           "remarketing-display",
           "seo-audit",
+          "social-media-management",
           "telegram-ads",
           "telegram-channel-placements",
           "transcreation",
@@ -4833,6 +5360,7 @@
       "google-ads-search": "Поиск в Google Ads",
       "ppc-audit": "Аудит контекстной рекламы",
       "remarketing-display": "Ремаркетинг и медийная реклама",
+      "social-media-management": "Ведение соцсетей",
       "content-writing": "Написание статей",
       "google-shopping": "Google Shopping",
       "local-services-ads": "Реклама Local Services Ads",
@@ -4945,10 +5473,13 @@
       "hungarian": "Венгерский",
       "indonesian": "Индонезийский",
       "malay": "Малайский",
+      "hebrew": "Иврит",
       "japanese": "Японский",
       "latvian": "Латышский",
       "lithuanian": "Литовский",
+      "ukrainian": "Украинский",
       "slovenian": "Словенский",
+      "korean": "Корейский",
       "thai": "Тайский"
     },
     "positions": {

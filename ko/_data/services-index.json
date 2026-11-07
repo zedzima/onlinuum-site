@@ -101,7 +101,8 @@
         ],
         "positions": [
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -253,6 +254,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     }
@@ -299,6 +303,7 @@
       "aso-specialist": "ASO 전문가",
       "business-development-manager": "사업개발 매니저",
       "marketing-consultant": "마케팅 컨설턴트",
+      "social-media-manager": "SNS 마케터",
       "ppc-specialist": "퍼포먼스 마케터",
       "seo-expert": "SEO 채용"
     },

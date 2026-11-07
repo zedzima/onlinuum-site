@@ -66,7 +66,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -131,7 +132,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -201,7 +203,8 @@
           "aso-specialist",
           "business-development-manager",
           "marketing-consultant",
-          "ppc-specialist"
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -260,7 +263,8 @@
       "aso-specialist": "ASO担当",
       "business-development-manager": "事業開発マネージャー",
       "marketing-consultant": "マーケティングコンサルタント",
-      "ppc-specialist": "広告運用担当"
+      "ppc-specialist": "広告運用担当",
+      "social-media-manager": "SNS運用担当"
     }
   }
 }

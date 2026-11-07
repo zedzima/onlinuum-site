@@ -85,6 +85,7 @@
         ],
         "countries": [
           "uae",
+          "israel",
           "canada"
         ],
         "positions": [
@@ -209,6 +210,8 @@
       "solution_count": 0,
       "facets": {
         "countries": [
+          "china",
+          "taiwan",
           "malaysia",
           "singapore",
           "thailand",
@@ -632,7 +635,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 35,
+      "scope_count": 36,
       "service_count": 19,
       "expert_count": 27,
       "case_count": 1,
@@ -676,6 +679,7 @@
           "ppc-audit",
           "remarketing-display",
           "seo-audit",
+          "social-media-management",
           "telegram-ads",
           "telegram-channel-placements",
           "transcreation",
@@ -783,6 +787,7 @@
           "poland",
           "spain",
           "sweden",
+          "israel",
           "malaysia",
           "belgium",
           "austria",
@@ -1175,7 +1180,7 @@
       "market_speakers_est": 138313919,
       "market_country_count": 22,
       "official_countries_count": 22,
-      "scope_count": 34,
+      "scope_count": 35,
       "service_count": 17,
       "expert_count": 5,
       "case_count": 0,
@@ -1219,6 +1224,7 @@
           "ppc-audit",
           "remarketing-display",
           "seo-audit",
+          "social-media-management",
           "telegram-ads",
           "transcreation",
           "video-content-production",
@@ -1423,6 +1429,37 @@
       }
     },
     {
+      "slug": "hebrew",
+      "url": "/languages/hebrew",
+      "title": "Реклама и маркетинг на иврите: эксперты-носители",
+      "description": "Реклама и маркетинг на иврите для выхода в Израиль: носители языка, контент справа налево и поиск с приоритетом Google. Смотрите услуги.",
+      "menu": "Иврит",
+      "featured": false,
+      "flag": "",
+      "code": "HE",
+      "native_speakers_l1": "9.4M",
+      "market_speakers_display": "9.4M",
+      "market_speakers_est": 9402620,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "experts": [
+          "netanel-kugler"
+        ],
+        "countries": [
+          "israel"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "hindi",
       "url": "/languages/hindi",
       "title": "Копирайтинг и маркетинг на хинди для B2B",
@@ -1579,6 +1616,7 @@
           "hungary",
           "romania",
           "slovakia",
+          "israel",
           "eu"
         ],
         "positions": [
@@ -1818,6 +1856,34 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "korean",
+      "url": "/languages/korean",
+      "title": "Маркетинг на корейском языке: тексты, SEO, Naver",
+      "description": "Маркетинг на корейском языке для выхода в Южную Корею: эксперты-носители, тексты на корейском, Naver, Google и KakaoTalk. Смотрите услуги.",
+      "menu": "Корейский",
+      "featured": false,
+      "flag": "",
+      "code": "KO",
+      "native_speakers_l1": "52.1M",
+      "market_speakers_display": "52.1M",
+      "market_speakers_est": 52081800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "south-korea"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -2179,6 +2245,8 @@
         "countries": [
           "poland",
           "uk",
+          "ukraine",
+          "israel",
           "eu"
         ],
         "blog-posts": [
@@ -2396,6 +2464,7 @@
         ],
         "countries": [
           "romania",
+          "israel",
           "eu"
         ],
         "positions": [
@@ -2417,7 +2486,7 @@
       "market_speakers_est": 193982909,
       "market_country_count": 13,
       "official_countries_count": 13,
-      "scope_count": 24,
+      "scope_count": 25,
       "service_count": 9,
       "expert_count": 10,
       "case_count": 0,
@@ -2454,6 +2523,7 @@
           "content-strategy",
           "copywriting",
           "seo-audit",
+          "social-media-management",
           "transcreation",
           "youtube-creator-collaborations",
           "youtube-creator-pilot"
@@ -2509,10 +2579,12 @@
           "retail"
         ],
         "countries": [
+          "ukraine",
           "poland",
           "germany",
           "lithuania",
           "bulgaria",
+          "israel",
           "latvia",
           "estonia",
           "eu"
@@ -3132,6 +3204,36 @@
       }
     },
     {
+      "slug": "ukrainian",
+      "url": "/languages/ukrainian",
+      "title": "Реклама и маркетинг на украинском: эксперты-носители",
+      "description": "Реклама и маркетинг на украинском языке для выхода в Украину и к диаспоре: носители языка, Google, YouTube и Telegram. Смотрите услуги.",
+      "menu": "Украинский",
+      "featured": false,
+      "flag": "",
+      "code": "UK",
+      "native_speakers_l1": "23.3M",
+      "market_speakers_display": "23.3M",
+      "market_speakers_est": 23285879,
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "ukraine",
+          "slovakia"
+        ],
+        "positions": [
+          "seo-expert",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "urdu",
       "url": "/languages/urdu",
       "title": "Перевод и маркетинг на урду: эксперты-носители",
@@ -3246,6 +3348,7 @@
       "google-shopping": "Google Shopping",
       "local-services-ads": "Реклама Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
+      "social-media-management": "Ведение соцсетей",
       "telegram-ads": "Реклама в Telegram",
       "telegram-channel-placements": "Реклама в телеграм-каналах",
       "video-content-production": "Видео продакшн",
@@ -3334,9 +3437,12 @@
     },
     "countries": {
       "uae": "ОАЭ",
+      "israel": "Израиль",
       "canada": "Канада",
       "bulgaria": "Болгария",
       "eu": "Европейский союз",
+      "china": "Китай",
+      "taiwan": "Тайвань",
       "malaysia": "Малайзия",
       "singapore": "Сингапур",
       "thailand": "Таиланд",
@@ -3376,7 +3482,9 @@
       "malta": "Мальта",
       "luxembourg": "Люксембург",
       "indonesia": "Индонезия",
-      "japan": "Япония"
+      "japan": "Япония",
+      "south-korea": "Южная Корея",
+      "ukraine": "Украина"
     },
     "positions": {
       "seo-expert": "SEO-специалист",

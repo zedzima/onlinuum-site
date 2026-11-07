@@ -515,12 +515,118 @@
         "chinese",
         "japanese"
       ]
+    },
+    {
+      "slug": "social-media-manager",
+      "url": "/positions/social-media-manager",
+      "title": "SNS 마케터: 고객사 채널 운영과 텔레그램 미디어 바잉",
+      "description": "Onlinuum SNS 마케터 채용: 원격으로 고객사 SNS 채널을 운영하고 텔레그램 미디어 바잉을 맡아 매출의 40%를 배분받습니다. 지금 지원하기.",
+      "menu": "SNS 마케터",
+      "featured": false,
+      "expert_count": 0,
+      "project_count": 0,
+      "hiring": {
+        "status": "active",
+        "experience_level": "mid-senior",
+        "heading_active": "SNS 마케터를 네트워크에 적극적으로 영입하고 있습니다",
+        "badge_active": "SNS·텔레그램 업무 채용 진행 중",
+        "apply_label": "지원 / 자기소개 보내기",
+        "label_service": "핵심 서비스",
+        "label_countries": "우선 시장",
+        "label_languages": "업무 언어",
+        "label_industries": "우선 산업",
+        "label_experience": "경력 수준",
+        "label_engagement": "협업 형태",
+        "label_commitment": "투입 시간",
+        "engagement_type": "프로젝트 단위 / 파트타임",
+        "working_hours": "운영 중인 채널과 광고 게재 웨이브에 따라 주 10~30시간",
+        "employment_type": [
+          "PART_TIME",
+          "CONTRACTOR"
+        ],
+        "jobposting_enabled": false,
+        "job_location_type": "TELECOMMUTE",
+        "applicant_location_requirements": [
+          "태국",
+          "아랍에미리트",
+          "키프로스",
+          "튀르키예",
+          "독일",
+          "폴란드"
+        ],
+        "date_posted": "2026-11-06",
+        "direct_apply": true,
+        "identifier": "onlinuum-social-media-manager",
+        "experience_requirements": "브랜드의 SNS 채널을 운영하거나 SNS·텔레그램 광고를 구매한 3년 이상의 경력과 보여 줄 수 있는 성과.",
+        "education_requirements": "학력 요건 없음"
+      },
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "scopes": [
+          "telegram-ads",
+          "content-strategy"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media",
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "services": [
+        "social-media",
+        "paid-social",
+        "content"
+      ],
+      "scopes": [
+        "telegram-channel-placements",
+        "telegram-ads",
+        "youtube-creator-collaborations",
+        "youtube-creator-pilot",
+        "youtube-channel-management",
+        "content-strategy",
+        "copywriting",
+        "transcreation"
+      ],
+      "countries": [
+        "thailand",
+        "uae",
+        "cyprus",
+        "turkey",
+        "israel",
+        "germany",
+        "poland",
+        "spain",
+        "uk",
+        "usa"
+      ],
+      "languages": [
+        "english",
+        "russian",
+        "ukrainian",
+        "german",
+        "polish",
+        "spanish",
+        "turkish"
+      ]
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "앱 마케팅",
-      "search-marketing": "검색엔진 마케팅"
+      "search-marketing": "검색엔진 마케팅",
+      "community-marketing": "커뮤니티 마케팅"
     },
     "scopes": {
       "aso-optimization": "ASO 최적화",
@@ -540,7 +646,8 @@
       "aso": "ASO 최적화",
       "seo": "SEO 대행",
       "ppc": "검색광고",
-      "content": "콘텐츠 마케팅"
+      "content": "콘텐츠 마케팅",
+      "social-media": "SNS 마케팅"
     },
     "industries": {
       "saas": "SaaS",

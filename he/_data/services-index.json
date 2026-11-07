@@ -101,7 +101,8 @@
         ],
         "positions": [
           "business-development-manager",
-          "marketing-consultant"
+          "marketing-consultant",
+          "social-media-manager"
         ]
       }
     },
@@ -253,6 +254,9 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       }
     }
@@ -299,6 +303,7 @@
       "aso-specialist": "מומחה ASO",
       "business-development-manager": "מנהל פיתוח עסקי",
       "marketing-consultant": "יועץ שיווק",
+      "social-media-manager": "מנהל סושיאל",
       "ppc-specialist": "מנהל קמפיינים PPC",
       "seo-expert": "מומחה קידום אתרים"
     },
