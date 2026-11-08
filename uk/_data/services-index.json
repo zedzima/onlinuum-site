@@ -1448,6 +1448,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "paid-social-for-apps",
           "transcreation"
         ],
         "experts": [
@@ -1996,7 +1997,7 @@
       "expert_count": 5,
       "starting_price": 400.0,
       "from_price": 400.0,
-      "industry_count": 5,
+      "industry_count": 7,
       "country_count": 3,
       "language_count": 3,
       "domains": [
@@ -2010,8 +2011,8 @@
         ],
         "scopes": [
           "social-media-management",
-          "telegram-ads",
           "telegram-channel-placements",
+          "telegram-ads",
           "youtube-creator-collaborations",
           "youtube-creator-pilot",
           "content-strategy"
@@ -2026,12 +2027,12 @@
         "industries": [
           "ecommerce",
           "saas",
+          "hospitality",
+          "retail",
           "automotive",
           "crypto",
           "game-studios",
-          "fmcg",
-          "hospitality",
-          "retail"
+          "fmcg"
         ],
         "countries": [
           "usa",

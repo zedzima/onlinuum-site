@@ -474,7 +474,11 @@
           "remarketing-display",
           "youtube-ads",
           "local-services-ads",
-          "telegram-ads"
+          "linkedin-ads",
+          "meta-ads",
+          "reddit-ads",
+          "telegram-ads",
+          "tiktok-ads"
         ],
         "experts": [
           "aldillah-melisa-febryana",
@@ -837,7 +841,15 @@
           "content-strategy",
           "copywriting",
           "transcreation",
-          "social-media-management"
+          "facebook-marketing",
+          "influencer-marketing",
+          "instagram-marketing",
+          "linkedin-marketing",
+          "reddit-marketing",
+          "social-content-creation",
+          "social-media-audit-strategy",
+          "social-media-management",
+          "tiktok-marketing"
         ],
         "solutions": [
           "international-marketing",
@@ -952,6 +964,10 @@
       "remarketing-display": "Remarketing & Display",
       "youtube-ads": "YouTube Ads",
       "local-services-ads": "Local Services Ads",
+      "linkedin-ads": "LinkedIn Ads",
+      "meta-ads": "Meta Ads",
+      "reddit-ads": "Reddit Ads",
+      "tiktok-ads": "TikTok Ads",
       "technical-seo": "Technical SEO",
       "on-page-seo": "On-Page SEO",
       "link-building": "Link Building",
@@ -962,7 +978,15 @@
       "youtube-creator-pilot": "YouTube Creator Pilot",
       "youtube-channel-management": "YouTube Channel Management",
       "copywriting": "Copywriting",
-      "social-media-management": "Social Media Management"
+      "facebook-marketing": "Facebook Marketing",
+      "influencer-marketing": "Influencer Marketing",
+      "instagram-marketing": "Instagram Marketing",
+      "linkedin-marketing": "LinkedIn Marketing",
+      "reddit-marketing": "Reddit Marketing",
+      "social-content-creation": "Social Content Creation",
+      "social-media-audit-strategy": "Social Media Audit & Strategy",
+      "social-media-management": "Social Media Management",
+      "tiktok-marketing": "TikTok Marketing"
     },
     "experts": {
       "mariia-nedbaievska": "Mariia Nedbaievska",
