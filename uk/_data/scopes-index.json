@@ -1284,6 +1284,62 @@
       "article_count": 1
     },
     {
+      "slug": "facebook-marketing",
+      "url": "/scopes/facebook-marketing",
+      "title": "Фейсбук-маркетинг і ведення бізнес-сторінки від $1 000/міс",
+      "description": "Органічний фейсбук-маркетинг: публікації на бізнес-сторінці, коментарі й Messenger, ведення груп, налаштування сторінки та звіти. Від $1 000/міс.",
+      "menu": "Facebook-маркетинг",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "healthcare",
+          "fmcg",
+          "automotive"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "german",
+          "french"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "google-ads-search",
       "url": "/scopes/google-ads-search",
       "title": "Реклама в гугл: ведення пошукових кампаній",
@@ -1566,6 +1622,120 @@
       "article_count": 0
     },
     {
+      "slug": "influencer-marketing",
+      "url": "/scopes/influencer-marketing",
+      "title": "Influencer marketing і UGC-кампанії від $1 700",
+      "description": "Influencer marketing в Instagram, TikTok, YouTube, LinkedIn і Telegram: перевірені блогери, переговори, координація, UGC-контент. Від $1 700.",
+      "menu": "Інфлюенсер-маркетинг",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "fmcg",
+          "retail",
+          "saas",
+          "game-studios",
+          "hospitality"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "instagram-marketing",
+      "url": "/scopes/instagram-marketing",
+      "title": "Просування в Інстаграм без накруток від $1 100/міс",
+      "description": "Органічне просування в Інстаграм: стратегія й план сітки, пости, каруселі та Stories, коментарі й Direct, звіти Insights. Без купівлі підписників.",
+      "menu": "Просування в Instagram",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "hospitality",
+          "healthcare",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "uae",
+          "cyprus",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "link-building",
       "url": "/scopes/link-building",
       "title": "Лінкбілдинг: аутріч і якісні зворотні посилання",
@@ -1709,6 +1879,120 @@
       },
       "case_count": 0,
       "article_count": 1
+    },
+    {
+      "slug": "linkedin-ads",
+      "url": "/scopes/linkedin-ads",
+      "title": "LinkedIn Ads для B2B: ведення кампаній від $1 200/міс",
+      "description": "Реклама в LinkedIn для B2B: Campaign Manager, Insight Tag і CAPI, Lead Gen Forms, ABM-списки та тести креативів. Від $1 200/міс.",
+      "menu": "Реклама в LinkedIn",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 5,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "healthcare",
+          "legal"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "netherlands",
+          "canada"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "dutch"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "linkedin-marketing",
+      "url": "/scopes/linkedin-marketing",
+      "title": "LinkedIn-маркетинг і гострайтинг від $1 300/міс",
+      "description": "LinkedIn-маркетинг для B2B: ведення сторінки компанії, гострайтинг для засновників, залученість, програма амбасадорів і звіти. Від $1 300/міс.",
+      "menu": "LinkedIn-маркетинг",
+      "featured": true,
+      "from_price": 1300,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "legal",
+          "healthcare",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "netherlands",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "dutch"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     },
     {
       "slug": "local-seo",
@@ -1891,6 +2175,65 @@
           "english",
           "german",
           "french"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "meta-ads",
+      "url": "/scopes/meta-ads",
+      "title": "Реклама в Інстаграм і Facebook Ads від $1 000/міс",
+      "description": "Реклама в інстаграм і фейсбук: аудит, налаштування пікселя та Conversions API, ведення кампаній Meta Ads, тести креативів. Від $1 000/міс.",
+      "menu": "Реклама в Meta",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 6,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "saas",
+          "hospitality",
+          "healthcare",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "polish",
+          "russian"
         ],
         "positions": [
           "ppc-specialist"
@@ -2322,6 +2665,116 @@
       "article_count": 0
     },
     {
+      "slug": "reddit-ads",
+      "url": "/scopes/reddit-ads",
+      "title": "Реклама в Reddit: ведення Reddit Ads від $800/міс",
+      "description": "Ведення реклами в Reddit: Reddit Pixel і Conversions API, таргетинг за спільнотами й інтересами, Conversation Ads, тести креативів. Від $800/міс.",
+      "menu": "Реклама в Reddit",
+      "featured": true,
+      "from_price": 800,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "game-studios",
+          "fintech",
+          "retail"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "reddit-marketing",
+      "url": "/scopes/reddit-marketing",
+      "title": "Reddit marketing: просування на Reddit від $1 100/міс",
+      "description": "Reddit маркетинг відкрито: дослідження сабреддітів, акаунт бренду без маскування, AMA, моніторинг і звітність. Від $1 100/міс.",
+      "menu": "Reddit-маркетинг",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "ai-visibility"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "saas",
+          "game-studios",
+          "ecommerce",
+          "fintech",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "french"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "remarketing-display",
       "url": "/scopes/remarketing-display",
       "title": "Ремаркетинг і медійна реклама: ведення кампаній",
@@ -2653,6 +3106,120 @@
       "article_count": 2
     },
     {
+      "slug": "social-content-creation",
+      "url": "/scopes/social-content-creation",
+      "title": "SMM-контент: дизайн, Reels і тексти від $1 100/міс",
+      "description": "Створення контенту для соцмереж щомісяця: SMM-дизайн, каруселі, короткі відео для Reels, TikTok і Shorts та тексти постів. Від $1 100/міс.",
+      "menu": "Створення контенту для соцмереж",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "retail",
+          "hospitality",
+          "fmcg",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "social-media-audit-strategy",
+      "url": "/scopes/social-media-audit-strategy",
+      "title": "SMM-стратегія та SMM-аудит соцмереж від $1 000",
+      "description": "SMM-аудит акаунтів, аналіз аудиторії та конкурентів, письмова SMM-стратегія й оформлення профілів. Разова робота, від $1 000.",
+      "menu": "SMM-аудит і стратегія",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "hospitality",
+          "retail",
+          "healthcare"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "social-media-management",
       "url": "/scopes/social-media-management",
       "title": "SMM-послуги та ведення соцмереж від $1 200/міс",
@@ -2969,6 +3536,118 @@
         "languages": [
           "english",
           "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "tiktok-ads",
+      "url": "/scopes/tiktok-ads",
+      "title": "Реклама в Тікток: TikTok Ads і Spark Ads від $1 000/міс",
+      "description": "Реклама в тікток під ключ: аудит кабінету, TikTok Pixel і Events API, ведення кампаній, тести креативів і Spark Ads, звітність. Від $1 000/міс.",
+      "menu": "Реклама в TikTok",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 5,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "hospitality",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "tiktok-marketing",
+      "url": "/scopes/tiktok-marketing",
+      "title": "Тікток агенція: контент і TikTok Shop від $1 400/міс",
+      "description": "Тікток агенція для органічного зростання: контент, нативні відео, публікації, спільнота й ведення TikTok Shop. Без накруток. Від $1 400/міс.",
+      "menu": "TikTok-маркетинг",
+      "featured": true,
+      "from_price": 1400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "international-marketing",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
         ],
         "positions": [
           "social-media-manager"

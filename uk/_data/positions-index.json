@@ -474,7 +474,11 @@
           "remarketing-display",
           "youtube-ads",
           "local-services-ads",
-          "telegram-ads"
+          "linkedin-ads",
+          "meta-ads",
+          "reddit-ads",
+          "telegram-ads",
+          "tiktok-ads"
         ],
         "experts": [
           "aldillah-melisa-febryana",
@@ -837,7 +841,15 @@
           "content-strategy",
           "copywriting",
           "transcreation",
-          "social-media-management"
+          "facebook-marketing",
+          "influencer-marketing",
+          "instagram-marketing",
+          "linkedin-marketing",
+          "reddit-marketing",
+          "social-content-creation",
+          "social-media-audit-strategy",
+          "social-media-management",
+          "tiktok-marketing"
         ],
         "solutions": [
           "international-marketing",
@@ -952,6 +964,10 @@
       "remarketing-display": "Ремаркетинг і медійна реклама",
       "youtube-ads": "Реклама на YouTube",
       "local-services-ads": "Реклама Local Services Ads",
+      "linkedin-ads": "Реклама в LinkedIn",
+      "meta-ads": "Реклама в Meta",
+      "reddit-ads": "Реклама в Reddit",
+      "tiktok-ads": "Реклама в TikTok",
       "technical-seo": "Технічне SEO",
       "on-page-seo": "Внутрішня оптимізація",
       "link-building": "Лінкбілдинг",
@@ -962,7 +978,15 @@
       "youtube-creator-pilot": "Пілот з YouTube-блогерами",
       "youtube-channel-management": "Ведення YouTube-каналу",
       "copywriting": "Копірайтинг",
-      "social-media-management": "Ведення соцмереж"
+      "facebook-marketing": "Facebook-маркетинг",
+      "influencer-marketing": "Інфлюенсер-маркетинг",
+      "instagram-marketing": "Просування в Instagram",
+      "linkedin-marketing": "LinkedIn-маркетинг",
+      "reddit-marketing": "Reddit-маркетинг",
+      "social-content-creation": "Створення контенту для соцмереж",
+      "social-media-audit-strategy": "SMM-аудит і стратегія",
+      "social-media-management": "Ведення соцмереж",
+      "tiktok-marketing": "TikTok-маркетинг"
     },
     "experts": {
       "mariia-nedbaievska": "Марія Недбаєвська",

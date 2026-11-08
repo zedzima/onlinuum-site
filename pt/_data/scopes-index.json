@@ -1284,6 +1284,62 @@
       "article_count": 1
     },
     {
+      "slug": "facebook-marketing",
+      "url": "/scopes/facebook-marketing",
+      "title": "Facebook marketing: gestão de páginas desde $1 000/mês",
+      "description": "Facebook marketing orgânico: publicações na página, comentários e Messenger, gestão de grupos, configuração da página e relatórios. Desde $1 000/mês.",
+      "menu": "Marketing no Facebook",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "healthcare",
+          "fmcg",
+          "automotive"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "german",
+          "french"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "google-ads-search",
       "url": "/scopes/google-ads-search",
       "title": "Campanhas Google Ads de pesquisa",
@@ -1566,6 +1622,120 @@
       "article_count": 0
     },
     {
+      "slug": "influencer-marketing",
+      "url": "/scopes/influencer-marketing",
+      "title": "Marketing de influência e campanhas UGC desde $1 700",
+      "description": "Campanhas de marketing de influência no Instagram, TikTok, YouTube, LinkedIn e Telegram: criadores verificados, contacto, coordenação e UGC. Desde $1 700.",
+      "menu": "Marketing de influência",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "fmcg",
+          "retail",
+          "saas",
+          "game-studios",
+          "hospitality"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "instagram-marketing",
+      "url": "/scopes/instagram-marketing",
+      "title": "Marketing no Instagram orgânico desde $1 100/mês",
+      "description": "Marketing no Instagram para empresas: estratégia e grelha, publicações, carrosséis e Stories, comentários, mensagens e Insights. Sem seguidores comprados.",
+      "menu": "Marketing no Instagram",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "hospitality",
+          "healthcare",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "uae",
+          "cyprus",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "link-building",
       "url": "/scopes/link-building",
       "title": "Link building: backlinks de qualidade e PR digital",
@@ -1709,6 +1879,120 @@
       },
       "case_count": 0,
       "article_count": 1
+    },
+    {
+      "slug": "linkedin-ads",
+      "url": "/scopes/linkedin-ads",
+      "title": "Agência LinkedIn Ads: campanhas B2B desde $1 200/mês",
+      "description": "Gestão de LinkedIn Ads B2B: Campaign Manager, LinkedIn Insight Tag e CAPI, LinkedIn Lead Gen Forms, listas ABM e testes de criativos. Desde $1 200/mês.",
+      "menu": "LinkedIn Ads",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 5,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "healthcare",
+          "legal"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "netherlands",
+          "canada"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "dutch"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "linkedin-marketing",
+      "url": "/scopes/linkedin-marketing",
+      "title": "LinkedIn para empresas e ghostwriting desde $1 300/mês",
+      "description": "Marketing no LinkedIn para B2B: publicação na página da empresa, ghostwriting para fundadores, interação, employee advocacy e relatórios. Desde $1 300/mês.",
+      "menu": "Marketing no LinkedIn",
+      "featured": true,
+      "from_price": 1300,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "legal",
+          "healthcare",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "netherlands",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "dutch"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     },
     {
       "slug": "local-seo",
@@ -1891,6 +2175,65 @@
           "english",
           "german",
           "french"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "meta-ads",
+      "url": "/scopes/meta-ads",
+      "title": "Agência Meta Ads: Facebook e Instagram Ads desde $1 000/mês",
+      "description": "Agência Meta Ads para Facebook Ads e Instagram Ads: auditoria, Pixel e API de Conversões da Meta, campanhas e testes de criativos. Desde $1 000/mês.",
+      "menu": "Meta Ads",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 6,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "saas",
+          "hospitality",
+          "healthcare",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "polish",
+          "russian"
         ],
         "positions": [
           "ppc-specialist"
@@ -2322,6 +2665,116 @@
       "article_count": 0
     },
     {
+      "slug": "reddit-ads",
+      "url": "/scopes/reddit-ads",
+      "title": "Agência Reddit Ads: gestão de campanhas desde $800/mês",
+      "description": "Gestão de Reddit Ads: Reddit Pixel e API de Conversões, segmentação por subreddit e interesses, conversation ads, testes e relatórios. Desde $800/mês.",
+      "menu": "Publicidade no Reddit",
+      "featured": true,
+      "from_price": 800,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "game-studios",
+          "fintech",
+          "retail"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "reddit-marketing",
+      "url": "/scopes/reddit-marketing",
+      "title": "Reddit marketing: agência e serviços desde $1 100/mês",
+      "description": "Agência de Reddit marketing transparente: pesquisa de subreddits, conta de marca identificada, AMA, monitorização e relatórios. Desde $1 100/mês.",
+      "menu": "Marketing no Reddit",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "ai-visibility"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "saas",
+          "game-studios",
+          "ecommerce",
+          "fintech",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "french"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "remarketing-display",
       "url": "/scopes/remarketing-display",
       "title": "Gestão de remarketing e publicidade display",
@@ -2653,6 +3106,120 @@
       "article_count": 2
     },
     {
+      "slug": "social-content-creation",
+      "url": "/scopes/social-content-creation",
+      "title": "Criação de conteúdos para redes sociais desde $1 100/mês",
+      "description": "Criação de conteúdos para redes sociais: peças gráficas, carrosséis, vídeo vertical para Reels, TikTok e Shorts e textos todos os meses. Desde $1 100/mês.",
+      "menu": "Criação de conteúdos para redes sociais",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "retail",
+          "hospitality",
+          "fmcg",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "social-media-audit-strategy",
+      "url": "/scopes/social-media-audit-strategy",
+      "title": "Auditoria e estratégia de redes sociais desde $1 000",
+      "description": "Auditoria de redes sociais e social media strategy: análise das contas, do público e da concorrência, plano escrito e perfis. Valor único desde $1 000.",
+      "menu": "Auditoria e estratégia de redes sociais",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "hospitality",
+          "retail",
+          "healthcare"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "social-media-management",
       "url": "/scopes/social-media-management",
       "title": "Social media management: gestão mensal de canais da marca",
@@ -2969,6 +3536,118 @@
         "languages": [
           "english",
           "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "tiktok-ads",
+      "url": "/scopes/tiktok-ads",
+      "title": "Agência TikTok Ads: campanhas e Spark Ads desde $1 000/mês",
+      "description": "Agência TikTok Ads: auditoria da conta, Pixel e Events API, gestão de campanhas no TikTok Ads Manager, testes de criativos e Spark Ads. Desde $1 000/mês.",
+      "menu": "TikTok Ads",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 5,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "hospitality",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "tiktok-marketing",
+      "url": "/scopes/tiktok-marketing",
+      "title": "Agência TikTok: conteúdos e TikTok Shop desde $1 400/mês",
+      "description": "Agência TikTok para crescimento orgânico: estratégia, vídeo nativo, publicação, comunidade e TikTok Shop. Sem visualizações compradas. Desde $1 400/mês.",
+      "menu": "Marketing no TikTok",
+      "featured": true,
+      "from_price": 1400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "international-marketing",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
         ],
         "positions": [
           "social-media-manager"

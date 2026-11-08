@@ -1284,6 +1284,62 @@
       "article_count": 1
     },
     {
+      "slug": "facebook-marketing",
+      "url": "/scopes/facebook-marketing",
+      "title": "Продвижение в Фейсбук: ведение страницы от $1 000/мес",
+      "description": "Органическое продвижение в Facebook: публикации на странице, комментарии и Messenger, ведение групп, оформление страницы и отчёты. От $1 000/мес.",
+      "menu": "Продвижение в Facebook",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "hospitality",
+          "healthcare",
+          "fmcg",
+          "automotive"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "german",
+          "french"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "google-ads-search",
       "url": "/scopes/google-ads-search",
       "title": "Гугл реклама в поиске: настройка и ведение Google Ads",
@@ -1566,6 +1622,120 @@
       "article_count": 0
     },
     {
+      "slug": "influencer-marketing",
+      "url": "/scopes/influencer-marketing",
+      "title": "Инфлюенс-маркетинг: кампании с блогерами и UGC от $1 700",
+      "description": "Инфлюенс-маркетинг в Instagram, TikTok, YouTube, LinkedIn и Telegram: проверенные блогеры и микроинфлюенсеры, аутрич, координация, UGC. От $1 700.",
+      "menu": "Инфлюенс-маркетинг",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "fmcg",
+          "retail",
+          "saas",
+          "game-studios",
+          "hospitality"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "instagram-marketing",
+      "url": "/scopes/instagram-marketing",
+      "title": "Продвижение Инстаграм-аккаунта без накрутки от $1 100/мес",
+      "description": "Органическое продвижение в Инстаграм: стратегия и сетка, посты, карусели и сторис, комментарии и директ, отчёты по статистике. Без покупки подписчиков.",
+      "menu": "Продвижение в Instagram",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "hospitality",
+          "healthcare",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "uae",
+          "cyprus",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "link-building",
       "url": "/scopes/link-building",
       "title": "Линкбилдинг и Digital PR: услуги и цены",
@@ -1709,6 +1879,120 @@
       },
       "case_count": 0,
       "article_count": 1
+    },
+    {
+      "slug": "linkedin-ads",
+      "url": "/scopes/linkedin-ads",
+      "title": "Реклама в LinkedIn для B2B: LinkedIn Ads от $1 200/мес",
+      "description": "Реклама в LinkedIn для B2B: настройка Campaign Manager, Insight Tag и CAPI, лид-формы, ABM-аудитории и тесты креативов. От $1 200/мес.",
+      "menu": "Реклама в LinkedIn",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 5,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "healthcare",
+          "legal"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "netherlands",
+          "canada"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "dutch"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "linkedin-marketing",
+      "url": "/scopes/linkedin-marketing",
+      "title": "Продвижение в LinkedIn и гострайтинг от $1 300/мес",
+      "description": "Продвижение в LinkedIn для B2B: посты на странице компании, гострайтинг для основателей, вовлечение, амбассадоры из сотрудников, отчёты. От $1 300/мес.",
+      "menu": "Продвижение в LinkedIn",
+      "featured": true,
+      "from_price": 1300,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "legal",
+          "healthcare",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "netherlands",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "dutch"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     },
     {
       "slug": "local-seo",
@@ -1891,6 +2175,65 @@
           "english",
           "german",
           "french"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "meta-ads",
+      "url": "/scopes/meta-ads",
+      "title": "Реклама в инстаграм и фейсбук: Meta Ads от $1 000/мес",
+      "description": "Реклама в инстаграм и фейсбук под ключ: аудит, настройка пикселя и Conversions API, ведение кампаний, тесты креативов. От $1 000/мес.",
+      "menu": "Meta Ads",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 6,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "saas",
+          "hospitality",
+          "healthcare",
+          "fmcg"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "polish",
+          "russian"
         ],
         "positions": [
           "ppc-specialist"
@@ -2322,6 +2665,116 @@
       "article_count": 0
     },
     {
+      "slug": "reddit-ads",
+      "url": "/scopes/reddit-ads",
+      "title": "Реклама на Reddit: ведение Reddit Ads от $800/мес",
+      "description": "Реклама на Reddit под ключ: настройка пикселя и Conversions API, таргетинг по сообществам и интересам, объявления в обсуждениях, тесты. От $800/мес.",
+      "menu": "Реклама на Reddit",
+      "featured": true,
+      "from_price": 800,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "saas",
+          "ecommerce",
+          "game-studios",
+          "fintech",
+          "retail"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "reddit-marketing",
+      "url": "/scopes/reddit-marketing",
+      "title": "Продвижение на Reddit: маркетинг в сообществах от $1 100/мес",
+      "description": "Продвижение на Reddit открыто: исследование сабреддитов, аккаунт бренда без маскировки, AMA, мониторинг и отчёты. От $1 100/мес.",
+      "menu": "Продвижение на Reddit",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "ai-visibility"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "saas",
+          "game-studios",
+          "ecommerce",
+          "fintech",
+          "crypto"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "canada",
+          "australia",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "french"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "remarketing-display",
       "url": "/scopes/remarketing-display",
       "title": "Ремаркетинг и ретаргетинг: настройка и ведение",
@@ -2653,6 +3106,120 @@
       "article_count": 2
     },
     {
+      "slug": "social-content-creation",
+      "url": "/scopes/social-content-creation",
+      "title": "Создание контента для соцсетей от $1 100/мес",
+      "description": "Создание контента для соцсетей каждый месяц: дизайн постов, карусели, монтаж Reels, TikTok и Shorts и написание постов. От $1 100/мес.",
+      "menu": "Контент для соцсетей",
+      "featured": true,
+      "from_price": 1100,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "b2b-digital-marketing",
+          "international-marketing",
+          "outsource-digital-marketing",
+          "digital-marketing-strategy"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "retail",
+          "hospitality",
+          "fmcg",
+          "game-studios"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "social-media-audit-strategy",
+      "url": "/scopes/social-media-audit-strategy",
+      "title": "SMM-стратегия и аудит соцсетей от $1 000",
+      "description": "SMM-стратегия и аудит социальных сетей: разбор аккаунтов, анализ аудитории и конкурентов, письменный план и упаковка профиля. Разово, от $1 000.",
+      "menu": "Аудит и SMM-стратегия",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "b2b-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "hospitality",
+          "retail",
+          "healthcare"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "uae",
+          "cyprus"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "social-media-management",
       "url": "/scopes/social-media-management",
       "title": "Ведение соцсетей и SMM-продвижение от $1 200/мес",
@@ -2969,6 +3536,118 @@
         "languages": [
           "english",
           "russian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "tiktok-ads",
+      "url": "/scopes/tiktok-ads",
+      "title": "Реклама в тик ток: TikTok Ads и Spark Ads от $1 000/мес",
+      "description": "Реклама в тик ток под ключ: аудит кабинета, настройка пикселя и Events API, ведение кампаний, тесты видео и Spark Ads, отчёты. От $1 000/мес.",
+      "menu": "Реклама в TikTok",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 5,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "digital-marketing-strategy",
+          "international-marketing",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "paid-social"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "hospitality",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish",
+          "arabic"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "tiktok-marketing",
+      "url": "/scopes/tiktok-marketing",
+      "title": "Продвижение в ТикТок: контент и TikTok Shop от $1 400/мес",
+      "description": "Органическое продвижение в ТикТок: контент-стратегия, нативные видео, публикации, комьюнити и ведение TikTok Shop. Без накрутки просмотров. От $1 400/мес.",
+      "menu": "Продвижение в TikTok",
+      "featured": true,
+      "from_price": 1400,
+      "delivery": "monthly",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "international-marketing",
+          "digital-marketing-strategy",
+          "outsource-digital-marketing"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "retail",
+          "fmcg",
+          "game-studios",
+          "hospitality",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "france",
+          "spain",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "french",
+          "spanish"
         ],
         "positions": [
           "social-media-manager"

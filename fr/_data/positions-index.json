@@ -474,7 +474,11 @@
           "remarketing-display",
           "youtube-ads",
           "local-services-ads",
-          "telegram-ads"
+          "linkedin-ads",
+          "meta-ads",
+          "reddit-ads",
+          "telegram-ads",
+          "tiktok-ads"
         ],
         "experts": [
           "aldillah-melisa-febryana",
@@ -837,7 +841,15 @@
           "content-strategy",
           "copywriting",
           "transcreation",
-          "social-media-management"
+          "facebook-marketing",
+          "influencer-marketing",
+          "instagram-marketing",
+          "linkedin-marketing",
+          "reddit-marketing",
+          "social-content-creation",
+          "social-media-audit-strategy",
+          "social-media-management",
+          "tiktok-marketing"
         ],
         "solutions": [
           "international-marketing",
@@ -952,6 +964,10 @@
       "remarketing-display": "Retargeting et display",
       "youtube-ads": "YouTube Ads",
       "local-services-ads": "Publicité Local Services Ads",
+      "linkedin-ads": "LinkedIn Ads",
+      "meta-ads": "Meta Ads",
+      "reddit-ads": "Publicité Reddit",
+      "tiktok-ads": "TikTok Ads",
       "technical-seo": "SEO technique",
       "on-page-seo": "SEO on-page",
       "link-building": "Netlinking",
@@ -962,7 +978,15 @@
       "youtube-creator-pilot": "Pilote créateurs YouTube",
       "youtube-channel-management": "Gestion de chaîne YouTube",
       "copywriting": "Rédaction publicitaire",
-      "social-media-management": "Gestion des réseaux sociaux"
+      "facebook-marketing": "Marketing Facebook",
+      "influencer-marketing": "Marketing d'influence",
+      "instagram-marketing": "Marketing Instagram",
+      "linkedin-marketing": "Marketing LinkedIn",
+      "reddit-marketing": "Marketing Reddit",
+      "social-content-creation": "Création de contenu réseaux sociaux",
+      "social-media-audit-strategy": "Audit et stratégie réseaux sociaux",
+      "social-media-management": "Gestion des réseaux sociaux",
+      "tiktok-marketing": "Marketing TikTok"
     },
     "experts": {
       "mariia-nedbaievska": "Mariia Nedbaievska",
