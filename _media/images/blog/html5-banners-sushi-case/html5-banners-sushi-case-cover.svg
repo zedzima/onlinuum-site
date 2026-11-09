@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <defs>
+    <g id="roll">
+      <circle r="1" stroke="#6E7872" stroke-width="0.12" fill="#1D5C43" fill-opacity="0.35"/>
+      <circle r="0.72" stroke="#6E7872" stroke-width="0.08" fill="#fff"/>
+      <circle r="0.32" stroke="#6E7872" stroke-width="0.08" fill="#C39033" fill-opacity="0.4"/>
+    </g>
+  </defs>
+
+  <!-- Leaderboard banner -->
+  <rect x="96" y="56" width="420" height="70" rx="10" fill="#000" opacity="0.08"/>
+  <rect x="90" y="50" width="420" height="70" rx="10" stroke="#6E7872" stroke-width="3.5" fill="#AFCDBB" fill-opacity="0.25"/>
+  <g stroke="#6E7872" stroke-width="3" opacity="0.4">
+    <line x1="112" y1="74" x2="176" y2="74"/>
+    <line x1="112" y1="94" x2="160" y2="94"/>
+  </g>
+  <use href="#roll" transform="translate(260 85) scale(26)"/>
+  <rect x="380" y="70" width="96" height="30" rx="15" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.3"/>
+
+  <!-- Medium rectangle -->
+  <rect x="96" y="156" width="190" height="160" rx="10" fill="#000" opacity="0.08"/>
+  <rect x="90" y="150" width="190" height="160" rx="10" stroke="#6E7872" stroke-width="3.5" fill="#C39033" fill-opacity="0.12"/>
+  <use href="#roll" transform="translate(185 214) scale(42)"/>
+  <rect x="134" y="270" width="102" height="26" rx="13" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.3"/>
+
+  <!-- Mobile banners -->
+  <rect x="316" y="156" width="200" height="44" rx="8" fill="#000" opacity="0.08"/>
+  <rect x="310" y="150" width="200" height="44" rx="8" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.1"/>
+  <use href="#roll" transform="translate(340 172) scale(15)"/>
+  <line x1="368" y1="172" x2="420" y2="172" stroke="#6E7872" stroke-width="3" opacity="0.35"/>
+  <rect x="440" y="160" width="56" height="24" rx="12" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.3"/>
+  <rect x="316" y="220" width="200" height="90" rx="8" fill="#000" opacity="0.08"/>
+  <rect x="310" y="214" width="200" height="90" rx="8" stroke="#6E7872" stroke-width="3" fill="#AFCDBB" fill-opacity="0.2"/>
+  <use href="#roll" transform="translate(360 259) scale(28)"/>
+  <g stroke="#6E7872" stroke-width="3" opacity="0.35">
+    <line x1="404" y1="244" x2="484" y2="244"/>
+    <line x1="404" y1="260" x2="466" y2="260"/>
+  </g>
+  <rect x="404" y="274" width="70" height="20" rx="10" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.3"/>
+
+  <!-- Skyscraper -->
+  <rect x="556" y="56" width="110" height="300" rx="10" fill="#000" opacity="0.08"/>
+  <rect x="550" y="50" width="110" height="300" rx="10" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.12"/>
+  <g stroke="#6E7872" stroke-width="3" opacity="0.4">
+    <line x1="570" y1="76" x2="630" y2="76"/>
+    <line x1="570" y1="94" x2="616" y2="94"/>
+  </g>
+  <use href="#roll" transform="translate(605 180) scale(40)"/>
+  <rect x="570" y="300" width="70" height="28" rx="14" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.3"/>
+  <!-- Motion arcs (animation) -->
+  <g stroke="#6E7872" stroke-width="2.5" opacity="0.35">
+    <path d="M556 140 Q546 180 556 220"/>
+    <path d="M654 140 Q664 180 654 220"/>
+  </g>
+
+  <!-- Format tag -->
+  <rect x="694" y="58" width="80" height="34" rx="8" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.2"/>
+  <text x="734" y="81" text-anchor="middle" fill="#6E7872" font-family="Arial, sans-serif" font-size="16" font-weight="bold">HTML5</text>
+
+  <!-- Download stack -->
+  <rect x="700" y="236" width="70" height="80" rx="8" stroke="#6E7872" stroke-width="2" fill="#AFCDBB" fill-opacity="0.15" opacity="0.6"/>
+  <rect x="694" y="244" width="70" height="80" rx="8" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.2"/>
+  <rect x="688" y="252" width="70" height="80" rx="8" stroke="#6E7872" stroke-width="3" fill="#fff"/>
+  <path d="M723 272 L723 306 M710 294 L723 307 L736 294" stroke="#6E7872" stroke-width="3"/>
+  <line x1="706" y1="318" x2="740" y2="318" stroke="#6E7872" stroke-width="3"/>
+
+  <!-- Cursor -->
+  <path d="M452 330 L452 372 L463 362 L472 380 L480 376 L471 358 L486 357 Z" fill="#000" opacity="0.08" transform="translate(3,3)"/>
+  <path d="M452 330 L452 372 L463 362 L472 380 L480 376 L471 358 L486 357 Z" stroke="#6E7872" stroke-width="3" fill="#fff"/>
+  <g stroke="#6E7872" stroke-width="2.5" opacity="0.4">
+    <line x1="436" y1="322" x2="428" y2="314"/>
+    <line x1="452" y1="314" x2="452" y2="304"/>
+    <line x1="434" y1="338" x2="424" y2="338"/>
+  </g>
+
+  <!-- Decorative -->
+  <circle cx="60" cy="200" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="720" cy="170" r="3" fill="#C39033" opacity="0.22"/>
+  <circle cx="200" cy="360" r="2.5" fill="#AFCDBB" opacity="0.5"/>
+  <circle cx="540" cy="390" r="2.5" fill="#1D5C43" opacity="0.18"/>
+  <line x1="90" y1="360" x2="112" y2="360" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+  <line x1="300" y1="370" x2="320" y2="370" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none">
+  <!-- Desk -->
+  <rect x="84" y="290" width="636" height="18" rx="9" fill="#000" opacity="0.08"/>
+  <rect x="80" y="286" width="636" height="18" rx="9" stroke="#6E7872" stroke-width="3.5" fill="#C39033" fill-opacity="0.14"/>
+  <line x1="122" y1="304" x2="122" y2="386" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="674" y1="304" x2="674" y2="386" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Laptop -->
+  <rect x="284" y="114" width="236" height="160" rx="12" fill="#000" opacity="0.08"/>
+  <rect x="280" y="110" width="236" height="160" rx="12" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.08"/>
+  <rect x="294" y="124" width="208" height="132" rx="6" fill="white" fill-opacity="0.45" stroke="#6E7872" stroke-width="1.5" opacity="0.9"/>
+  <path d="M256 286 L272 270 H524 L540 286 Z" stroke="#6E7872" stroke-width="3" stroke-linejoin="round" fill="#6E7872" fill-opacity="0.1"/>
+  <!-- Checklist on screen -->
+  <rect x="312" y="140" width="18" height="18" rx="4" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.3"/>
+  <polyline points="316,149 320,154 327,144" stroke="#6E7872" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="342" y1="149" x2="460" y2="149" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.3"/>
+  <rect x="312" y="170" width="18" height="18" rx="4" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.3"/>
+  <polyline points="316,179 320,184 327,174" stroke="#6E7872" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="342" y1="179" x2="440" y2="179" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.3"/>
+  <rect x="312" y="200" width="18" height="18" rx="4" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.18"/>
+  <line x1="342" y1="209" x2="472" y2="209" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.22"/>
+  <rect x="312" y="230" width="18" height="18" rx="4" stroke="#6E7872" stroke-width="2" fill="white" fill-opacity="0.5"/>
+  <line x1="342" y1="239" x2="430" y2="239" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.18"/>
+
+  <!-- Plant -->
+  <path d="M136 236 H196 L188 286 H144 Z" stroke="#6E7872" stroke-width="3" stroke-linejoin="round" fill="#C39033" fill-opacity="0.2"/>
+  <path d="M166 236 Q160 196 128 176 Q150 206 166 236" stroke="#6E7872" stroke-width="2.5" stroke-linejoin="round" fill="#1D5C43" fill-opacity="0.25"/>
+  <path d="M166 236 Q170 184 204 164 Q190 204 166 236" stroke="#6E7872" stroke-width="2.5" stroke-linejoin="round" fill="#AFCDBB" fill-opacity="0.35"/>
+  <path d="M166 236 Q166 206 170 180" stroke="#6E7872" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- Coffee mug with steam -->
+  <rect x="560" y="232" width="48" height="54" rx="8" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.2"/>
+  <path d="M608 244 Q628 244 628 260 Q628 276 608 274" stroke="#6E7872" stroke-width="3" stroke-linecap="round"/>
+  <path d="M574 220 Q566 208 576 198 Q586 188 578 176" stroke="#6E7872" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+  <path d="M594 220 Q586 208 596 198 Q606 188 598 176" stroke="#6E7872" stroke-width="2" stroke-linecap="round" opacity="0.25"/>
+
+  <!-- Cat on the desk -->
+  <path d="M652 286 Q644 236 666 220 Q690 214 698 236 Q706 262 696 286 Z" stroke="#6E7872" stroke-width="3" stroke-linejoin="round" fill="#C39033" fill-opacity="0.25"/>
+  <circle cx="680" cy="204" r="20" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.25"/>
+  <path d="M664 194 L664 174 L678 186" stroke="#6E7872" stroke-width="2.5" stroke-linejoin="round" fill="#C39033" fill-opacity="0.25"/>
+  <path d="M684 186 L698 174 L698 194" stroke="#6E7872" stroke-width="2.5" stroke-linejoin="round" fill="#C39033" fill-opacity="0.25"/>
+  <path d="M672 206 Q675 209 678 206 M684 206 Q687 209 690 206" stroke="#6E7872" stroke-width="2" stroke-linecap="round"/>
+  <path d="M698 280 Q726 284 724 312 Q722 336 708 344" stroke="#6E7872" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Decorative dots and lines -->
+  <circle cx="70" cy="96" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="240" cy="70" r="2.5" fill="#C39033" opacity="0.22"/>
+  <circle cx="740" cy="120" r="3" fill="#AFCDBB" opacity="0.4"/>
+  <circle cx="400" cy="70" r="2.5" fill="#1D5C43" opacity="0.18"/>
+  <line x1="40" y1="200" x2="66" y2="200" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.14"/>
+  <line x1="300" y1="370" x2="500" y2="370" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+</svg>

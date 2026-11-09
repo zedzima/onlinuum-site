@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Desk -->
+  <rect x="184" y="344" width="440" height="14" rx="7" fill="#000" opacity="0.08"/>
+  <rect x="180" y="340" width="440" height="14" rx="7" stroke="#6E7872" stroke-width="3.5" fill="#6E7872" fill-opacity="0.1"/>
+
+  <!-- Person behind laptop -->
+  <circle cx="403" cy="133" r="40" fill="#000" opacity="0.08"/>
+  <circle cx="400" cy="130" r="40" stroke="#6E7872" stroke-width="3.5" fill="#C39033" fill-opacity="0.16"/>
+  <circle cx="387" cy="126" r="3" fill="#6E7872" opacity="0.55"/>
+  <circle cx="413" cy="126" r="3" fill="#6E7872" opacity="0.55"/>
+  <path d="M388 146 Q400 154 412 146" stroke="#6E7872" stroke-width="2.5" opacity="0.5"/>
+  <path d="M368 106 Q384 82 420 94 Q436 100 438 116" stroke="#6E7872" stroke-width="3" opacity="0.4"/>
+  <path d="M320 340 Q320 196 400 186 Q480 196 480 340 Z" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.14"/>
+  <path d="M380 188 Q400 204 420 188" stroke="#6E7872" stroke-width="2.5" opacity="0.4"/>
+
+  <!-- Laptop -->
+  <path d="M310 236 L490 236 L478 330 L322 330 Z" fill="#fff"/>
+  <path d="M310 236 L490 236 L478 330 L322 330 Z" fill="#000" opacity="0.08" transform="translate(4,4)"/>
+  <path d="M310 236 L490 236 L478 330 L322 330 Z" stroke="#6E7872" stroke-width="3.5" fill="#AFCDBB" fill-opacity="0.3"/>
+  <path d="M290 340 L510 340 L496 330 L304 330 Z" stroke="#6E7872" stroke-width="3" fill="#6E7872" fill-opacity="0.12"/>
+  <circle cx="400" cy="282" r="9" stroke="#6E7872" stroke-width="2.5" fill="#fff" fill-opacity="0.6"/>
+  <rect x="346" y="258" width="18" height="18" rx="3" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.3" transform="rotate(-10 355 267)"/>
+  <path d="M436 300 L448 278 L460 300 Z" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.25"/>
+
+  <!-- Mug -->
+  <rect x="218" y="300" width="34" height="40" rx="5" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.2"/>
+  <path d="M218 310 Q204 320 218 330" stroke="#6E7872" stroke-width="3"/>
+  <path d="M228 290 Q232 282 228 274 M242 290 Q246 282 242 274" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+
+  <!-- Good adviser (halo, wings) -->
+  <ellipse cx="160" cy="68" rx="24" ry="7" stroke="#C39033" stroke-width="3" opacity="0.8"/>
+  <path d="M126 118 Q92 96 96 132 Q100 150 126 142 Z" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.4"/>
+  <path d="M194 118 Q228 96 224 132 Q220 150 194 142 Z" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.4"/>
+  <circle cx="163" cy="103" r="22" fill="#000" opacity="0.08"/>
+  <circle cx="160" cy="100" r="22" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.14"/>
+  <circle cx="153" cy="98" r="2.5" fill="#6E7872" opacity="0.55"/>
+  <circle cx="167" cy="98" r="2.5" fill="#6E7872" opacity="0.55"/>
+  <path d="M154 108 Q160 113 166 108" stroke="#6E7872" stroke-width="2" opacity="0.5"/>
+  <path d="M126 196 Q128 132 160 126 Q192 132 194 196 Z" stroke="#6E7872" stroke-width="3" fill="#AFCDBB" fill-opacity="0.25"/>
+  <path d="M160 128 L160 168" stroke="#6E7872" stroke-width="2" opacity="0.4"/>
+
+  <!-- Bad adviser (horns, tail) -->
+  <path d="M624 84 L616 62 L634 78 M656 78 L674 62 L666 84" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.3"/>
+  <circle cx="648" cy="103" r="22" fill="#000" opacity="0.08"/>
+  <circle cx="645" cy="100" r="22" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.14"/>
+  <path d="M634 94 L642 97 M656 94 L648 97" stroke="#6E7872" stroke-width="2.5" opacity="0.6"/>
+  <path d="M637 109 Q645 104 653 111" stroke="#6E7872" stroke-width="2" opacity="0.5"/>
+  <path d="M611 196 Q613 132 645 126 Q677 132 679 196 Z" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.22"/>
+  <path d="M679 186 Q712 190 708 160 Q706 146 716 142" stroke="#6E7872" stroke-width="2.5"/>
+  <path d="M712 136 L724 140 L714 150 Z" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.3"/>
+
+  <!-- Whisper lines toward the writer -->
+  <path d="M206 150 Q270 140 330 150" stroke="#6E7872" stroke-width="2.5" stroke-dasharray="4 10" opacity="0.45"/>
+  <path d="M598 150 Q530 140 470 150" stroke="#6E7872" stroke-width="2.5" stroke-dasharray="4 10" opacity="0.45"/>
+  <g stroke="#6E7872" stroke-width="2.5" opacity="0.35">
+    <line x1="120" y1="60" x2="112" y2="52"/>
+    <line x1="200" y1="60" x2="208" y2="52"/>
+    <line x1="604" y1="66" x2="596" y2="58"/>
+    <line x1="690" y1="98" x2="702" y2="96"/>
+  </g>
+
+  <!-- Decorative -->
+  <circle cx="60" cy="250" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="740" cy="280" r="3" fill="#C39033" opacity="0.22"/>
+  <circle cx="300" cy="50" r="2.5" fill="#AFCDBB" opacity="0.5"/>
+  <circle cx="520" cy="44" r="2.5" fill="#1D5C43" opacity="0.18"/>
+  <line x1="660" y1="372" x2="684" y2="372" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+  <line x1="90" y1="372" x2="110" y2="372" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+</svg>

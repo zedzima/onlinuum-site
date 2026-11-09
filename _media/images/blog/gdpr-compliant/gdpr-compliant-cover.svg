@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none">
+  <!-- Meadow -->
+  <path d="M40 360 Q200 300 400 330 Q600 360 760 316 V372 H40 Z" fill="#1D5C43" fill-opacity="0.08"/>
+  <path d="M40 360 Q200 300 400 330 Q600 360 760 316" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- EU star ring -->
+  <circle cx="470" cy="160" r="86" stroke="#6E7872" stroke-width="1.5" stroke-dasharray="4 8" opacity="0.3"/>
+  <g stroke="#6E7872" stroke-width="1.8" stroke-linejoin="round" fill="#C39033" fill-opacity="0.35">
+  <polygon points="556.0,149.0 558.9,156.0 566.5,156.6 560.7,161.5 562.5,168.9 556.0,164.9 549.5,168.9 551.3,161.5 545.5,156.6 553.1,156.0"/>
+  <polygon points="544.5,192.0 547.4,199.0 554.9,199.6 549.2,204.5 550.9,211.9 544.5,207.9 538.0,211.9 539.8,204.5 534.0,199.6 541.6,199.0"/>
+  <polygon points="513.0,223.5 515.9,230.5 523.5,231.1 517.7,236.0 519.5,243.4 513.0,239.4 506.5,243.4 508.3,236.0 502.5,231.1 510.1,230.5"/>
+  <polygon points="470.0,235.0 472.9,242.0 480.5,242.6 474.7,247.5 476.5,254.9 470.0,250.9 463.5,254.9 465.3,247.5 459.5,242.6 467.1,242.0"/>
+  <polygon points="427.0,223.5 429.9,230.5 437.5,231.1 431.7,236.0 433.5,243.4 427.0,239.4 420.5,243.4 422.3,236.0 416.5,231.1 424.1,230.5"/>
+  <polygon points="395.5,192.0 398.4,199.0 406.0,199.6 400.2,204.5 402.0,211.9 395.5,207.9 389.1,211.9 390.8,204.5 385.1,199.6 392.6,199.0"/>
+  <polygon points="384.0,149.0 386.9,156.0 394.5,156.6 388.7,161.5 390.5,168.9 384.0,164.9 377.5,168.9 379.3,161.5 373.5,156.6 381.1,156.0"/>
+  <polygon points="395.5,106.0 398.4,113.0 406.0,113.6 400.2,118.5 402.0,125.9 395.5,122.0 389.1,125.9 390.8,118.5 385.1,113.6 392.6,113.0"/>
+  <polygon points="427.0,74.5 429.9,81.5 437.5,82.1 431.7,87.1 433.5,94.4 427.0,90.5 420.5,94.4 422.3,87.1 416.5,82.1 424.1,81.5"/>
+  <polygon points="470.0,63.0 472.9,70.0 480.5,70.6 474.7,75.5 476.5,82.9 470.0,79.0 463.5,82.9 465.3,75.5 459.5,70.6 467.1,70.0"/>
+  <polygon points="513.0,74.5 515.9,81.5 523.5,82.1 517.7,87.1 519.5,94.4 513.0,90.5 506.5,94.4 508.3,87.1 502.5,82.1 510.1,81.5"/>
+  <polygon points="544.5,106.0 547.4,113.0 554.9,113.6 549.2,118.5 550.9,125.9 544.5,121.9 538.0,125.9 539.8,118.5 534.0,113.6 541.6,113.0"/>
+  </g>
+
+  <!-- Shield with lock -->
+  <path d="M474 104 L520 120 V160 Q520 198 474 222 Q428 198 428 160 V120 Z" fill="#000" opacity="0.08"/>
+  <path d="M470 100 L516 116 V156 Q516 194 470 218 Q424 194 424 156 V116 Z" stroke="#6E7872" stroke-width="3.5" stroke-linejoin="round" fill="#1D5C43" fill-opacity="0.16"/>
+  <rect x="452" y="150" width="36" height="30" rx="6" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.28"/>
+  <path d="M460 150 V140 Q460 128 470 128 Q480 128 480 140 V150" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="470" cy="164" r="4" fill="#6E7872"/>
+  <line x1="470" y1="166" x2="470" y2="173" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Daisy: yes / no petals -->
+  <line x1="210" y1="324" x2="216" y2="352" stroke="#6E7872" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#6E7872" stroke-width="2.2" fill="white">
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(10 210 300)"/>
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(50 210 300)"/>
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(90 210 300)"/>
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(170 210 300)"/>
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(210 210 300)"/>
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(250 210 300)"/>
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(290 210 300)"/>
+    <ellipse cx="210" cy="254" rx="15" ry="32" transform="rotate(330 210 300)"/>
+  </g>
+  <circle cx="210" cy="300" r="22" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.4"/>
+
+  <!-- Loose petal with check -->
+  <ellipse cx="96" cy="170" rx="16" ry="34" transform="rotate(-35 96 170)" stroke="#6E7872" stroke-width="2.2" fill="white" fill-opacity="0.6"/>
+  <polyline points="86,170 94,178 108,162" stroke="#1D5C43" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Loose petal with cross -->
+  <ellipse cx="320" cy="150" rx="16" ry="34" transform="rotate(30 320 150)" stroke="#6E7872" stroke-width="2.2" fill="white" fill-opacity="0.6"/>
+  <path d="M312 142 L328 158 M328 142 L312 158" stroke="#C39033" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Consent card -->
+  <rect x="624" y="138" width="124" height="150" rx="12" fill="#000" opacity="0.08"/>
+  <rect x="620" y="134" width="124" height="150" rx="12" stroke="#6E7872" stroke-width="3.5" fill="#AFCDBB" fill-opacity="0.14"/>
+  <line x1="638" y1="158" x2="708" y2="158" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.3"/>
+  <line x1="638" y1="190" x2="680" y2="190" stroke="#6E7872" stroke-width="2" stroke-linecap="round" opacity="0.22"/>
+  <rect x="690" y="180" width="38" height="20" rx="10" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.3"/>
+  <circle cx="718" cy="190" r="7" fill="white" stroke="#6E7872" stroke-width="1.8"/>
+  <line x1="638" y1="224" x2="676" y2="224" stroke="#6E7872" stroke-width="2" stroke-linecap="round" opacity="0.22"/>
+  <rect x="690" y="214" width="38" height="20" rx="10" stroke="#6E7872" stroke-width="2" fill="white" fill-opacity="0.5"/>
+  <circle cx="700" cy="224" r="7" fill="#C39033" fill-opacity="0.35" stroke="#6E7872" stroke-width="1.8"/>
+  <rect x="638" y="250" width="88" height="20" rx="10" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.18"/>
+
+  <!-- Decorative dots and lines -->
+  <circle cx="70" cy="70" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="620" cy="70" r="2.5" fill="#C39033" opacity="0.22"/>
+  <circle cx="760" cy="104" r="3" fill="#AFCDBB" opacity="0.4"/>
+  <circle cx="360" cy="270" r="2.5" fill="#1D5C43" opacity="0.18"/>
+  <line x1="240" y1="60" x2="270" y2="60" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.14"/>
+  <line x1="560" y1="392" x2="600" y2="392" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.12"/>
+</svg>

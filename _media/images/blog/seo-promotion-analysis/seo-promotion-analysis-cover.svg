@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Whiteboard -->
+  <rect x="226" y="46" width="360" height="226" rx="12" fill="#000" opacity="0.08"/>
+  <rect x="220" y="40" width="360" height="226" rx="12" stroke="#6E7872" stroke-width="3.5" fill="#AFCDBB" fill-opacity="0.12"/>
+  <path d="M290 266 L270 360 M510 266 L530 360" stroke="#6E7872" stroke-width="3.5"/>
+  <rect x="300" y="262" width="200" height="10" rx="5" fill="#6E7872" opacity="0.15"/>
+  <text x="250" y="86" fill="#6E7872" font-family="Arial, sans-serif" font-size="22" font-weight="bold" letter-spacing="2" opacity="0.8">TO-DO</text>
+  <!-- Checklist -->
+  <g stroke="#6E7872" stroke-width="2.5">
+    <rect x="252" y="108" width="18" height="18" rx="4" fill="#1D5C43" fill-opacity="0.2"/>
+    <rect x="252" y="144" width="18" height="18" rx="4" fill="#1D5C43" fill-opacity="0.2"/>
+    <rect x="252" y="180" width="18" height="18" rx="4"/>
+    <path d="M256 117 L261 122 L268 111 M256 153 L261 158 L268 147"/>
+  </g>
+  <g stroke="#6E7872" stroke-width="2.5" opacity="0.35">
+    <line x1="284" y1="117" x2="350" y2="117"/>
+    <line x1="284" y1="153" x2="336" y2="153"/>
+    <line x1="284" y1="189" x2="344" y2="189"/>
+  </g>
+  <!-- Path from start to goal -->
+  <path d="M268 232 L282 246 M282 232 L268 246" stroke="#6E7872" stroke-width="3"/>
+  <path d="M296 238 Q360 236 400 200 Q440 160 500 178" stroke="#6E7872" stroke-width="2.5" stroke-dasharray="8 8" opacity="0.6"/>
+  <circle cx="530" cy="180" r="22" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.18"/>
+  <path d="M519 180 L527 189 L544 168" stroke="#6E7872" stroke-width="3.5"/>
+  <!-- Rocket -->
+  <path d="M440 70 Q456 92 456 124 L424 124 Q424 92 440 70 Z" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.22"/>
+  <circle cx="440" cy="100" r="6" stroke="#6E7872" stroke-width="2.5" fill="#fff" fill-opacity="0.5"/>
+  <path d="M424 112 L414 130 L426 126 M456 112 L466 130 L454 126" stroke="#6E7872" stroke-width="2.5"/>
+  <path d="M434 132 Q440 146 446 132" stroke="#6E7872" stroke-width="2.5" opacity="0.45"/>
+  <!-- Sticky notes -->
+  <rect x="372" y="54" width="26" height="24" rx="3" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.3" transform="rotate(-6 385 66)"/>
+  <rect x="520" y="62" width="26" height="24" rx="3" stroke="#6E7872" stroke-width="2" fill="#AFCDBB" fill-opacity="0.5" transform="rotate(5 533 74)"/>
+
+  <!-- Left figure pointing -->
+  <circle cx="133" cy="153" r="24" fill="#000" opacity="0.08"/>
+  <circle cx="130" cy="150" r="24" stroke="#6E7872" stroke-width="3.5" fill="#C39033" fill-opacity="0.16"/>
+  <circle cx="123" cy="147" r="2.5" fill="#6E7872" opacity="0.55"/>
+  <circle cx="137" cy="147" r="2.5" fill="#6E7872" opacity="0.55"/>
+  <path d="M124 159 Q130 164 136 159" stroke="#6E7872" stroke-width="2" opacity="0.5"/>
+  <path d="M90 360 Q90 214 130 186 Q170 214 170 360 Z" fill="#000" opacity="0.08" transform="translate(4,4)"/>
+  <path d="M90 360 Q90 214 130 186 Q170 214 170 360 Z" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.14"/>
+  <path d="M160 214 Q190 190 214 170" stroke="#6E7872" stroke-width="3.5"/>
+  <path d="M100 230 Q88 260 100 288" stroke="#6E7872" stroke-width="3" opacity="0.4"/>
+
+  <!-- Desk with laptop and mug -->
+  <rect x="604" y="276" width="160" height="12" rx="6" fill="#000" opacity="0.08"/>
+  <rect x="600" y="272" width="160" height="12" rx="6" stroke="#6E7872" stroke-width="3" fill="#6E7872" fill-opacity="0.1"/>
+  <path d="M620 284 L620 360 M740 284 L740 360" stroke="#6E7872" stroke-width="3"/>
+  <rect x="622" y="196" width="96" height="66" rx="6" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.1"/>
+  <path d="M610 272 L730 272 L722 262 L618 262 Z" stroke="#6E7872" stroke-width="2.5" fill="#6E7872" fill-opacity="0.12"/>
+  <g stroke="#6E7872" stroke-width="2">
+    <rect x="638" y="234" width="12" height="18" rx="2" fill="#AFCDBB" fill-opacity="0.4"/>
+    <rect x="656" y="222" width="12" height="30" rx="2" fill="#1D5C43" fill-opacity="0.22"/>
+    <rect x="674" y="228" width="12" height="24" rx="2" fill="#C39033" fill-opacity="0.25"/>
+    <rect x="692" y="212" width="12" height="40" rx="2" fill="#1D5C43" fill-opacity="0.22"/>
+  </g>
+  <rect x="728" y="240" width="22" height="24" rx="4" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.2"/>
+  <path d="M750 246 Q760 252 750 258" stroke="#6E7872" stroke-width="2.5"/>
+  <path d="M734 230 Q738 224 734 218 M744 230 Q748 224 744 218" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+
+  <!-- Floor line -->
+  <line x1="60" y1="362" x2="780" y2="362" stroke="#6E7872" stroke-width="2.5" opacity="0.25"/>
+
+  <!-- Decorative -->
+  <circle cx="60" cy="90" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="640" cy="60" r="3" fill="#C39033" opacity="0.22"/>
+  <circle cx="190" cy="54" r="2.5" fill="#AFCDBB" opacity="0.5"/>
+  <circle cx="740" cy="130" r="2.5" fill="#1D5C43" opacity="0.18"/>
+  <line x1="680" y1="104" x2="702" y2="104" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+  <line x1="40" y1="250" x2="58" y2="250" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+</svg>

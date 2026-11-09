@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ground shelf -->
+  <rect x="84" y="304" width="640" height="16" rx="8" fill="#000" opacity="0.08"/>
+  <rect x="80" y="300" width="640" height="16" rx="8" stroke="#6E7872" stroke-width="3.5" fill="#6E7872" fill-opacity="0.08"/>
+
+  <!-- Timeline -->
+  <line x1="150" y1="362" x2="650" y2="362" stroke="#6E7872" stroke-width="2.5" stroke-dasharray="2 10" opacity="0.5"/>
+  <path d="M640 352 L656 362 L640 372" stroke="#6E7872" stroke-width="2.5" opacity="0.5"/>
+  <circle cx="180" cy="362" r="8" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.35"/>
+  <circle cx="400" cy="362" r="8" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.2"/>
+  <circle cx="620" cy="362" r="8" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.3"/>
+
+  <!-- Stage 1: sprout -->
+  <path d="M145 245 L215 245 L207 300 L153 300 Z" fill="#000" opacity="0.08" transform="translate(4,4)"/>
+  <path d="M140 240 L220 240 L210 300 L150 300 Z" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.12"/>
+  <line x1="140" y1="252" x2="220" y2="252" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+  <path d="M180 240 L180 205" stroke="#6E7872" stroke-width="3.5"/>
+  <path d="M180 214 Q160 196 150 206 Q158 224 180 214 Z" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.35"/>
+  <path d="M180 208 Q198 186 212 196 Q204 216 180 208 Z" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.2"/>
+  <!-- Sun -->
+  <circle cx="150" cy="96" r="22" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.25"/>
+  <g stroke="#6E7872" stroke-width="2.5" opacity="0.4">
+    <line x1="150" y1="58" x2="150" y2="66"/>
+    <line x1="150" y1="126" x2="150" y2="134"/>
+    <line x1="112" y1="96" x2="120" y2="96"/>
+    <line x1="180" y1="96" x2="188" y2="96"/>
+    <line x1="123" y1="69" x2="129" y2="75"/>
+    <line x1="171" y1="117" x2="177" y2="123"/>
+    <line x1="177" y1="69" x2="171" y2="75"/>
+    <line x1="123" y1="123" x2="129" y2="117"/>
+  </g>
+
+  <!-- Stage 2: growing plant -->
+  <path d="M365 245 L435 245 L427 300 L373 300 Z" fill="#000" opacity="0.08" transform="translate(4,4)"/>
+  <path d="M360 240 L440 240 L430 300 L370 300 Z" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.12"/>
+  <line x1="360" y1="252" x2="440" y2="252" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+  <path d="M400 240 Q396 200 402 150" stroke="#6E7872" stroke-width="3.5"/>
+  <path d="M398 214 Q372 196 360 210 Q372 228 398 214 Z" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.35"/>
+  <path d="M399 192 Q426 172 440 186 Q428 206 399 192 Z" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.2"/>
+  <path d="M400 170 Q376 150 364 162 Q374 180 400 170 Z" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.2"/>
+  <path d="M402 152 Q414 128 430 134 Q426 154 402 152 Z" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.35"/>
+  <!-- Watering can -->
+  <path d="M300 92 L344 92 L340 132 L304 132 Z" fill="#000" opacity="0.08" transform="translate(4,4)"/>
+  <path d="M300 92 L344 92 L340 132 L304 132 Z" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.2"/>
+  <path d="M300 100 Q282 104 286 122 Q290 132 302 126" stroke="#6E7872" stroke-width="3"/>
+  <path d="M342 104 L374 84" stroke="#6E7872" stroke-width="3.5"/>
+  <path d="M368 76 L384 92" stroke="#6E7872" stroke-width="3.5"/>
+  <g stroke="#1D5C43" stroke-width="2.5" opacity="0.45" stroke-dasharray="3 9">
+    <path d="M382 96 Q390 116 392 140"/>
+    <path d="M378 100 Q380 120 382 144"/>
+    <path d="M388 92 Q402 110 408 132"/>
+  </g>
+
+  <!-- Stage 3: flowering bush -->
+  <path d="M585 245 L655 245 L647 300 L593 300 Z" fill="#000" opacity="0.08" transform="translate(4,4)"/>
+  <path d="M580 240 L660 240 L650 300 L590 300 Z" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.12"/>
+  <line x1="580" y1="252" x2="660" y2="252" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+  <path d="M620 240 L620 170 M620 200 Q600 182 590 160 M620 190 Q642 172 650 150 M620 172 Q616 140 622 112" stroke="#6E7872" stroke-width="3"/>
+  <path d="M556 168 Q540 116 590 96 Q614 62 652 88 Q694 100 684 148 Q690 184 652 196 Q620 214 588 198 Q552 196 556 168 Z" fill="#000" opacity="0.08" transform="translate(4,4)"/>
+  <path d="M556 168 Q540 116 590 96 Q614 62 652 88 Q694 100 684 148 Q690 184 652 196 Q620 214 588 198 Q552 196 556 168 Z" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.16"/>
+  <g stroke="#6E7872" stroke-width="2" opacity="0.35">
+    <path d="M578 140 Q590 132 600 140"/>
+    <path d="M640 124 Q652 116 662 124"/>
+    <path d="M610 104 Q620 98 630 104"/>
+    <path d="M640 168 Q650 162 660 168"/>
+  </g>
+  <g stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.35">
+    <circle cx="592" cy="118" r="9"/>
+    <circle cx="660" cy="104" r="9"/>
+    <circle cx="624" cy="142" r="10"/>
+    <circle cx="582" cy="172" r="8"/>
+    <circle cx="664" cy="160" r="8"/>
+  </g>
+  <g fill="#6E7872" opacity="0.4">
+    <circle cx="592" cy="118" r="2.5"/>
+    <circle cx="660" cy="104" r="2.5"/>
+    <circle cx="624" cy="142" r="3"/>
+    <circle cx="582" cy="172" r="2.5"/>
+    <circle cx="664" cy="160" r="2.5"/>
+  </g>
+  <g stroke="#6E7872" stroke-width="2.5" opacity="0.35">
+    <line x1="700" y1="92" x2="712" y2="84"/>
+    <line x1="706" y1="124" x2="720" y2="124"/>
+    <line x1="540" y1="92" x2="530" y2="82"/>
+  </g>
+
+  <!-- Decorative dots and lines -->
+  <circle cx="60" cy="210" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="752" cy="250" r="3" fill="#C39033" opacity="0.22"/>
+  <circle cx="276" cy="40" r="2.5" fill="#AFCDBB" opacity="0.5"/>
+  <circle cx="500" cy="60" r="2.5" fill="#1D5C43" opacity="0.18"/>
+  <line x1="40" y1="300" x2="58" y2="300" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+  <line x1="742" y1="380" x2="764" y2="380" stroke="#6E7872" stroke-width="1.5" opacity="0.12"/>
+</svg>

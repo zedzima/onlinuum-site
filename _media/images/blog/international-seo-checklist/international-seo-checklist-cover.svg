@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Clipboard -->
+  <rect x="254" y="56" width="236" height="320" rx="14" fill="#000" opacity="0.08"/>
+  <rect x="250" y="52" width="236" height="320" rx="14" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.08"/>
+  <rect x="270" y="72" width="196" height="284" rx="8" stroke="#6E7872" stroke-width="2" fill="#FFFFFF" fill-opacity="0.6"/>
+  <rect x="326" y="36" width="84" height="32" rx="9" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.25"/>
+  <circle cx="368" cy="46" r="4" fill="#6E7872" opacity="0.5"/>
+
+  <!-- Checklist rows -->
+  <g stroke="#6E7872">
+    <rect x="290" y="96" width="26" height="26" rx="6" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.18"/>
+    <polyline points="296,109 302,116 312,102" stroke-width="3" stroke="#1D5C43"/>
+    <line x1="330" y1="104" x2="440" y2="104" stroke-width="2.5" opacity="0.35"/>
+    <line x1="330" y1="115" x2="410" y2="115" stroke-width="2" opacity="0.2"/>
+
+    <rect x="290" y="148" width="26" height="26" rx="6" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.18"/>
+    <polyline points="296,161 302,168 312,154" stroke-width="3" stroke="#1D5C43"/>
+    <line x1="330" y1="156" x2="446" y2="156" stroke-width="2.5" opacity="0.35"/>
+    <line x1="330" y1="167" x2="400" y2="167" stroke-width="2" opacity="0.2"/>
+
+    <rect x="290" y="200" width="26" height="26" rx="6" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.18"/>
+    <polyline points="296,213 302,220 312,206" stroke-width="3" stroke="#1D5C43"/>
+    <line x1="330" y1="208" x2="432" y2="208" stroke-width="2.5" opacity="0.35"/>
+    <line x1="330" y1="219" x2="416" y2="219" stroke-width="2" opacity="0.2"/>
+
+    <rect x="290" y="252" width="26" height="26" rx="6" stroke-width="2.5" fill="#C39033" fill-opacity="0.15"/>
+    <line x1="330" y1="260" x2="444" y2="260" stroke-width="2.5" opacity="0.35"/>
+    <line x1="330" y1="271" x2="396" y2="271" stroke-width="2" opacity="0.2"/>
+
+    <rect x="290" y="304" width="26" height="26" rx="6" stroke-width="2.5" fill="#FFFFFF" fill-opacity="0.5"/>
+    <line x1="330" y1="312" x2="426" y2="312" stroke-width="2.5" opacity="0.35"/>
+    <line x1="330" y1="323" x2="404" y2="323" stroke-width="2" opacity="0.2"/>
+  </g>
+
+  <!-- Globe -->
+  <circle cx="613" cy="163" r="84" fill="#000" opacity="0.08"/>
+  <circle cx="610" cy="160" r="84" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.10"/>
+  <ellipse cx="610" cy="160" rx="84" ry="20" stroke="#6E7872" stroke-width="2"/>
+  <ellipse cx="610" cy="160" rx="22" ry="84" stroke="#6E7872" stroke-width="2"/>
+  <ellipse cx="610" cy="160" rx="54" ry="84" stroke="#6E7872" stroke-width="1.5" opacity="0.35"/>
+  <circle cx="584" cy="126" r="7" fill="#1D5C43" fill-opacity="0.25" stroke="#1D5C43" stroke-width="2"/>
+  <circle cx="644" cy="150" r="7" fill="#C39033" fill-opacity="0.25" stroke="#C39033" stroke-width="2"/>
+  <circle cx="604" cy="204" r="7" fill="#AFCDBB" fill-opacity="0.35" stroke="#6E7872" stroke-width="2"/>
+
+  <!-- Connections from globe to the checklist -->
+  <path d="M584 126 Q520 100 446 108" stroke="#1D5C43" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.5"/>
+  <path d="M644 150 Q560 180 452 160" stroke="#C39033" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.5"/>
+  <path d="M604 204 Q540 230 438 212" stroke="#6E7872" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.4"/>
+
+  <!-- Language buttons -->
+  <rect x="88" y="96" width="112" height="44" rx="22" fill="#000" opacity="0.08" transform="translate(3,3)"/>
+  <rect x="88" y="96" width="112" height="44" rx="22" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.18"/>
+  <text x="144" y="125" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#6E7872">EN</text>
+
+  <rect x="56" y="184" width="132" height="44" rx="10" fill="#000" opacity="0.08" transform="translate(3,3)"/>
+  <rect x="56" y="184" width="132" height="44" rx="10" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.16"/>
+  <text x="122" y="213" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#6E7872">DE</text>
+
+  <rect x="104" y="272" width="104" height="44" rx="22" fill="#000" opacity="0.08" transform="translate(3,3)"/>
+  <rect x="104" y="272" width="104" height="44" rx="22" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.30"/>
+  <text x="156" y="301" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#6E7872">ES</text>
+
+  <rect x="548" y="286" width="120" height="40" rx="20" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.12"/>
+  <line x1="570" y1="306" x2="646" y2="306" stroke="#6E7872" stroke-width="2.5" opacity="0.35"/>
+  <rect x="686" y="290" width="70" height="32" rx="8" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.15"/>
+  <line x1="700" y1="306" x2="742" y2="306" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+  <line x1="200" y1="118" x2="248" y2="118" stroke="#6E7872" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.35"/>
+  <line x1="188" y1="206" x2="248" y2="206" stroke="#6E7872" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.35"/>
+  <line x1="208" y1="294" x2="248" y2="294" stroke="#6E7872" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.35"/>
+
+  <!-- Decorative -->
+  <circle cx="60" cy="70" r="4" fill="#1D5C43" opacity="0.25"/>
+  <circle cx="740" cy="60" r="3" fill="#C39033" opacity="0.3"/>
+  <circle cx="60" cy="350" r="3" fill="#AFCDBB" opacity="0.5"/>
+  <circle cx="730" cy="370" r="4" fill="#1D5C43" opacity="0.2"/>
+  <path d="M724 210 L728 222 L740 226 L728 230 L724 242 L720 230 L708 226 L720 222 Z" fill="#AFCDBB" fill-opacity="0.3" stroke="#6E7872" stroke-width="1.5"/>
+  <line x1="520" y1="380" x2="550" y2="380" stroke="#6E7872" stroke-width="1.5" opacity="0.15"/>
+</svg>

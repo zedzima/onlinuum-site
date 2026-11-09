@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Thought clouds -->
+  <rect x="113" y="63" width="170" height="116" rx="50" fill="#000" opacity="0.08"/>
+  <rect x="110" y="60" width="170" height="116" rx="50" stroke="#6E7872" stroke-width="3" fill="#AFCDBB" fill-opacity="0.18"/>
+  <rect x="318" y="25" width="170" height="116" rx="50" fill="#000" opacity="0.08"/>
+  <rect x="315" y="22" width="170" height="116" rx="50" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.12"/>
+  <rect x="523" y="63" width="170" height="116" rx="50" fill="#000" opacity="0.08"/>
+  <rect x="520" y="60" width="170" height="116" rx="50" stroke="#6E7872" stroke-width="3" fill="#1D5C43" fill-opacity="0.10"/>
+  <!-- Bubble trails -->
+  <circle cx="300" cy="196" r="8" stroke="#6E7872" stroke-width="2" fill="#AFCDBB" fill-opacity="0.18"/>
+  <circle cx="318" cy="214" r="5" stroke="#6E7872" stroke-width="2" fill="#AFCDBB" fill-opacity="0.18"/>
+  <circle cx="400" cy="158" r="7" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.12"/>
+  <circle cx="400" cy="176" r="4.5" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.12"/>
+  <circle cx="500" cy="196" r="8" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.10"/>
+  <circle cx="482" cy="214" r="5" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.10"/>
+
+  <!-- Clock -->
+  <circle cx="195" cy="120" r="36" stroke="#6E7872" stroke-width="3.5" fill="#FFFFFF" fill-opacity="0.7"/>
+  <line x1="195" y1="120" x2="195" y2="98" stroke="#6E7872" stroke-width="3"/>
+  <line x1="195" y1="120" x2="211" y2="128" stroke="#C39033" stroke-width="3"/>
+  <circle cx="195" cy="120" r="3.5" fill="#6E7872"/>
+  <path d="M164 92 Q170 80 182 84" stroke="#6E7872" stroke-width="3"/>
+  <path d="M226 92 Q220 80 208 84" stroke="#6E7872" stroke-width="3"/>
+
+  <!-- Coins -->
+  <g stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.30">
+    <path d="M352 108 v-10 a26 9 0 0 1 52 0 v10 a26 9 0 0 1 -52 0 Z"/>
+    <path d="M352 92 v-10 a26 9 0 0 1 52 0 v10 a26 9 0 0 1 -52 0 Z"/>
+    <ellipse cx="378" cy="72" rx="26" ry="9"/>
+    <path d="M400 112 v-10 a26 9 0 0 1 52 0 v10 a26 9 0 0 1 -52 0 Z"/>
+    <ellipse cx="426" cy="92" rx="26" ry="9"/>
+  </g>
+
+  <!-- Quality badge -->
+  <path d="M590 140 L580 168 L594 162 L602 174 L610 146" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.25"/>
+  <path d="M620 140 L630 168 L616 162 L608 174 L600 146" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.25"/>
+  <circle cx="605" cy="112" r="34" stroke="#6E7872" stroke-width="3.5" fill="#C39033" fill-opacity="0.30"/>
+  <circle cx="605" cy="112" r="24" stroke="#6E7872" stroke-width="2" fill="#FFFFFF" fill-opacity="0.6"/>
+  <polyline points="593,112 602,121 618,104" stroke="#1D5C43" stroke-width="3.5"/>
+
+  <!-- Laptop -->
+  <rect x="279" y="229" width="242" height="146" rx="12" fill="#000" opacity="0.08"/>
+  <rect x="276" y="226" width="242" height="146" rx="12" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.08"/>
+  <rect x="292" y="242" width="210" height="114" rx="6" stroke="#6E7872" stroke-width="2" fill="#FFFFFF" fill-opacity="0.65"/>
+  <path d="M244 372 L550 372 L572 392 Q574 398 566 398 L228 398 Q220 398 222 392 Z" stroke="#6E7872" stroke-width="3.5" fill="#6E7872" fill-opacity="0.10"/>
+  <line x1="370" y1="385" x2="424" y2="385" stroke="#6E7872" stroke-width="2.5" opacity="0.35"/>
+  <!-- Article on screen -->
+  <rect x="306" y="254" width="120" height="10" rx="5" fill="#1D5C43" fill-opacity="0.38"/>
+  <rect x="306" y="274" width="64" height="48" rx="4" stroke="#6E7872" stroke-width="1.8" fill="#AFCDBB" fill-opacity="0.30"/>
+  <path d="M310 316 L328 296 L340 308 L350 300 L366 316" stroke="#6E7872" stroke-width="1.8" opacity="0.5"/>
+  <line x1="382" y1="280" x2="486" y2="280" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+  <line x1="382" y1="292" x2="476" y2="292" stroke="#6E7872" stroke-width="2" opacity="0.25"/>
+  <line x1="382" y1="304" x2="482" y2="304" stroke="#6E7872" stroke-width="2" opacity="0.25"/>
+  <line x1="382" y1="316" x2="460" y2="316" stroke="#6E7872" stroke-width="2" opacity="0.2"/>
+  <line x1="306" y1="336" x2="486" y2="336" stroke="#6E7872" stroke-width="2" opacity="0.2"/>
+  <line x1="306" y1="346" x2="440" y2="346" stroke="#6E7872" stroke-width="2" opacity="0.15"/>
+
+  <!-- Published articles flying out -->
+  <g transform="rotate(-8 130 300)">
+    <rect x="83" y="263" width="96" height="76" rx="8" fill="#000" opacity="0.08"/>
+    <rect x="80" y="260" width="96" height="76" rx="8" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.10"/>
+    <rect x="92" y="272" width="52" height="8" rx="4" fill="#C39033" fill-opacity="0.45"/>
+    <line x1="92" y1="292" x2="162" y2="292" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+    <line x1="92" y1="304" x2="154" y2="304" stroke="#6E7872" stroke-width="2" opacity="0.25"/>
+    <line x1="92" y1="316" x2="140" y2="316" stroke="#6E7872" stroke-width="2" opacity="0.2"/>
+  </g>
+  <g transform="rotate(8 670 300)">
+    <rect x="623" y="263" width="96" height="76" rx="8" fill="#000" opacity="0.08"/>
+    <rect x="620" y="260" width="96" height="76" rx="8" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.20"/>
+    <rect x="632" y="272" width="52" height="8" rx="4" fill="#1D5C43" fill-opacity="0.38"/>
+    <line x1="632" y1="292" x2="702" y2="292" stroke="#6E7872" stroke-width="2" opacity="0.3"/>
+    <line x1="632" y1="304" x2="694" y2="304" stroke="#6E7872" stroke-width="2" opacity="0.25"/>
+    <line x1="632" y1="316" x2="680" y2="316" stroke="#6E7872" stroke-width="2" opacity="0.2"/>
+  </g>
+  <path d="M260 300 Q220 290 196 296" stroke="#6E7872" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.4"/>
+  <path d="M534 300 Q574 290 604 296" stroke="#6E7872" stroke-width="1.8" stroke-dasharray="5 5" opacity="0.4"/>
+
+  <!-- Decorative -->
+  <circle cx="60" cy="90" r="4" fill="#1D5C43" opacity="0.25"/>
+  <circle cx="740" cy="70" r="3" fill="#C39033" opacity="0.3"/>
+  <circle cx="60" cy="380" r="3" fill="#AFCDBB" opacity="0.5"/>
+  <circle cx="744" cy="380" r="4" fill="#1D5C43" opacity="0.2"/>
+  <path d="M736 196 L740 208 L752 212 L740 216 L736 228 L732 216 L720 212 L732 208 Z" fill="#C39033" fill-opacity="0.25" stroke="#6E7872" stroke-width="1.5"/>
+  <line x1="40" y1="210" x2="64" y2="210" stroke="#6E7872" stroke-width="1.5" opacity="0.15"/>
+</svg>

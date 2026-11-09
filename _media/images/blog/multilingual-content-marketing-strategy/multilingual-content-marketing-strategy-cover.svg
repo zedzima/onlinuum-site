@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ground -->
+  <path d="M60 372 Q400 382 760 372" stroke="#6E7872" stroke-width="2.5" opacity="0.4"/>
+  <!-- Blocks -->
+  <rect x="100" y="304" width="92" height="72" rx="4" fill="#000" opacity="0.08"/>
+  <path d="M188 300 L208 287 L208 359 L188 372 Z" stroke="#6E7872" stroke-width="2.5" fill="#6E7872" fill-opacity="0.10"/>
+  <path d="M96 300 L116 287 L208 287 L188 300 Z" stroke="#6E7872" stroke-width="2.5" fill="#FFFFFF" fill-opacity="0.6"/>
+  <rect x="96" y="300" width="92" height="72" stroke="#6E7872" stroke-width="3.5" fill="#AFCDBB" fill-opacity="0.22"/>
+  <rect x="210" y="250" width="92" height="126" rx="4" fill="#000" opacity="0.08"/>
+  <path d="M298 246 L318 233 L318 359 L298 372 Z" stroke="#6E7872" stroke-width="2.5" fill="#6E7872" fill-opacity="0.10"/>
+  <path d="M206 246 L226 233 L318 233 L298 246 Z" stroke="#6E7872" stroke-width="2.5" fill="#FFFFFF" fill-opacity="0.6"/>
+  <rect x="206" y="246" width="92" height="126" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.1"/>
+  <rect x="320" y="190" width="92" height="186" rx="4" fill="#000" opacity="0.08"/>
+  <path d="M408 186 L428 173 L428 359 L408 372 Z" stroke="#6E7872" stroke-width="2.5" fill="#6E7872" fill-opacity="0.10"/>
+  <path d="M316 186 L336 173 L428 173 L408 186 Z" stroke="#6E7872" stroke-width="2.5" fill="#FFFFFF" fill-opacity="0.6"/>
+  <rect x="316" y="186" width="92" height="186" stroke="#6E7872" stroke-width="3.5" fill="#C39033" fill-opacity="0.12"/>
+  <rect x="430" y="116" width="92" height="260" rx="4" fill="#000" opacity="0.08"/>
+  <path d="M518 112 L538 99 L538 359 L518 372 Z" stroke="#6E7872" stroke-width="2.5" fill="#6E7872" fill-opacity="0.10"/>
+  <path d="M426 112 L446 99 L538 99 L518 112 Z" stroke="#6E7872" stroke-width="2.5" fill="#FFFFFF" fill-opacity="0.6"/>
+  <rect x="426" y="112" width="92" height="260" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.16"/>
+  <rect x="540" y="210" width="92" height="166" rx="4" fill="#000" opacity="0.08"/>
+  <path d="M628 206 L648 193 L648 359 L628 372 Z" stroke="#6E7872" stroke-width="2.5" fill="#6E7872" fill-opacity="0.10"/>
+  <path d="M536 206 L556 193 L648 193 L628 206 Z" stroke="#6E7872" stroke-width="2.5" fill="#FFFFFF" fill-opacity="0.6"/>
+  <rect x="536" y="206" width="92" height="166" stroke="#6E7872" stroke-width="3.5" fill="#AFCDBB" fill-opacity="0.22"/>
+  <rect x="650" y="280" width="92" height="96" rx="4" fill="#000" opacity="0.08"/>
+  <path d="M738 276 L758 263 L758 359 L738 372 Z" stroke="#6E7872" stroke-width="2.5" fill="#6E7872" fill-opacity="0.10"/>
+  <path d="M646 276 L666 263 L758 263 L738 276 Z" stroke="#6E7872" stroke-width="2.5" fill="#FFFFFF" fill-opacity="0.6"/>
+  <rect x="646" y="276" width="92" height="96" stroke="#6E7872" stroke-width="3.5" fill="#1D5C43" fill-opacity="0.1"/>
+  <!-- Ladders -->
+  <g stroke="#6E7872" stroke-width="2.5">
+    <line x1="160" y1="300" x2="190" y2="246"/>
+    <line x1="174" y1="300" x2="204" y2="246"/>
+    <line x1="170" y1="282" x2="184" y2="282" stroke-width="2"/>
+    <line x1="180" y1="264" x2="194" y2="264" stroke-width="2"/>
+  </g>
+  <g stroke="#6E7872" stroke-width="2.5">
+    <line x1="274" y1="246" x2="300" y2="186"/>
+    <line x1="288" y1="246" x2="314" y2="186"/>
+    <line x1="283" y1="226" x2="297" y2="226" stroke-width="2"/>
+    <line x1="291" y1="206" x2="305" y2="206" stroke-width="2"/>
+  </g>
+  <g stroke="#6E7872" stroke-width="2.5">
+    <line x1="384" y1="186" x2="410" y2="112"/>
+    <line x1="398" y1="186" x2="424" y2="112"/>
+    <line x1="390" y1="168" x2="404" y2="168" stroke-width="2"/>
+    <line x1="397" y1="149" x2="411" y2="149" stroke-width="2"/>
+    <line x1="404" y1="130" x2="418" y2="130" stroke-width="2"/>
+  </g>
+  <g stroke="#6E7872" stroke-width="2.5">
+    <line x1="668" y1="276" x2="650" y2="208"/>
+    <line x1="682" y1="276" x2="664" y2="208"/>
+    <line x1="662" y1="253" x2="676" y2="253" stroke-width="2"/>
+    <line x1="656" y1="231" x2="670" y2="231" stroke-width="2"/>
+  </g>
+  <!-- Goal star -->
+  <polygon points="506.0,24.0 513.1,42.3 532.6,43.3 517.4,55.7 522.5,74.7 506.0,64.0 489.5,74.7 494.6,55.7 479.4,43.3 498.9,42.3" transform="translate(3,3)" fill="#000" opacity="0.08"/>
+  <polygon points="506.0,24.0 513.1,42.3 532.6,43.3 517.4,55.7 522.5,74.7 506.0,64.0 489.5,74.7 494.6,55.7 479.4,43.3 498.9,42.3" stroke="#6E7872" stroke-width="3" fill="#C39033" fill-opacity="0.35"/>
+  <line x1="506" y1="12" x2="506" y2="2" stroke="#C39033" stroke-width="2.5" opacity="0.6"/>
+  <line x1="474" y1="24" x2="466" y2="16" stroke="#C39033" stroke-width="2.5" opacity="0.6"/>
+  <line x1="538" y1="24" x2="546" y2="16" stroke="#C39033" stroke-width="2.5" opacity="0.6"/>
+  <line x1="468" y1="56" x2="456" y2="58" stroke="#C39033" stroke-width="2.5" opacity="0.6"/>
+  <line x1="544" y1="56" x2="556" y2="58" stroke="#C39033" stroke-width="2.5" opacity="0.6"/>
+  <!-- Market pennants -->
+  <line x1="120" y1="294" x2="120" y2="250" stroke="#6E7872" stroke-width="2.5"/>
+  <path d="M120 250 L150 259 L120 268 Z" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.35"/>
+  <line x1="548" y1="200" x2="548" y2="156" stroke="#6E7872" stroke-width="2.5"/>
+  <path d="M548 156 L578 165 L548 174 Z" stroke="#6E7872" stroke-width="2" fill="#C39033" fill-opacity="0.35"/>
+  <line x1="690" y1="270" x2="690" y2="226" stroke="#6E7872" stroke-width="2.5"/>
+  <path d="M690 226 L720 235 L690 244 Z" stroke="#6E7872" stroke-width="2" fill="#AFCDBB" fill-opacity="0.35"/>
+  <!-- People -->
+  <circle cx="250" cy="182" r="10" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.25"/>
+  <path d="M239 220 Q238 196 250 194 Q262 196 261 220 Z" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.22"/>
+  <line x1="245" y1="220" x2="244" y2="238" stroke="#6E7872" stroke-width="3"/>
+  <line x1="255" y1="220" x2="256" y2="238" stroke="#6E7872" stroke-width="3"/>
+  <path d="M260 200 L272 182" stroke="#6E7872" stroke-width="3"/>
+  <circle cx="452" cy="48" r="10" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.25"/>
+  <path d="M441 86 Q440 62 452 60 Q464 62 463 86 Z" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.22"/>
+  <line x1="447" y1="86" x2="446" y2="104" stroke="#6E7872" stroke-width="3"/>
+  <line x1="457" y1="86" x2="458" y2="104" stroke="#6E7872" stroke-width="3"/>
+  <path d="M462 66 L474 48" stroke="#6E7872" stroke-width="3"/>
+  <circle cx="606" cy="142" r="10" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.25"/>
+  <path d="M595 180 Q594 156 606 154 Q618 156 617 180 Z" stroke="#6E7872" stroke-width="2.5" fill="#AFCDBB" fill-opacity="0.22"/>
+  <line x1="601" y1="180" x2="600" y2="198" stroke="#6E7872" stroke-width="3"/>
+  <line x1="611" y1="180" x2="612" y2="198" stroke="#6E7872" stroke-width="3"/>
+  <!-- Decorative -->
+  <circle cx="60" cy="90" r="4" fill="#1D5C43" opacity="0.25"/>
+  <circle cx="740" cy="70" r="3" fill="#C39033" opacity="0.3"/>
+  <circle cx="300" cy="80" r="3" fill="#AFCDBB" opacity="0.5"/>
+  <circle cx="760" cy="200" r="4" fill="#1D5C43" opacity="0.2"/>
+  <path d="M650 110 L654 122 L666 126 L654 130 L650 142 L646 130 L634 126 L646 122 Z" fill="#AFCDBB" fill-opacity="0.3" stroke="#6E7872" stroke-width="1.5"/>
+  <path d="M190 140 L193 149 L202 152 L193 155 L190 164 L187 155 L178 152 L187 149 Z" fill="#C39033" fill-opacity="0.25" stroke="#6E7872" stroke-width="1.5"/>
+</svg>

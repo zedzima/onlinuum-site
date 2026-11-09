@@ -41,8 +41,8 @@
     <meta property="og:title" content="Настройка Google Analytics для поддоменов: кейс клиники">
     <meta property="og:description" content="Как мы настроили Google Analytics для клиники с поддоменами по городам: представления по филиалам, фильтр полных URL и два тега GTM для кнопок и форм.">
     <meta property="og:url" content="https://onlinuum.com/ru/cases/weight-loss-clinic-google-analytics/">
-    <meta property="og:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=fb2c818d">
-    <meta property="og:image:secure_url" content="https://onlinuum.com/_media/images/site/og-default.png?v=fb2c818d">
+    <meta property="og:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=731a37bb">
+    <meta property="og:image:secure_url" content="https://onlinuum.com/_media/images/site/og-default.png?v=731a37bb">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -54,7 +54,7 @@
     <meta name="twitter:site" content="@vividigit">
     <meta name="twitter:title" content="Настройка Google Analytics для поддоменов: кейс клиники">
     <meta name="twitter:description" content="Как мы настроили Google Analytics для клиники с поддоменами по городам: представления по филиалам, фильтр полных URL и два тега GTM для кнопок и форм.">
-    <meta name="twitter:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=fb2c818d">
+    <meta name="twitter:image" content="https://onlinuum.com/_media/images/site/og-default.png?v=731a37bb">
 
     <!-- Favicon. Every URL below is STABLE and unversioned on purpose: Google's
          favicon guidelines require a favicon URL that does not move, and a
@@ -81,7 +81,7 @@
     
 
     <!-- Fonts -->
-    <link rel="preload" href="/_media/fonts/jetbrains-mono-cyrillic.woff2?v=fb2c818d" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/_media/fonts/jetbrains-mono-cyrillic.woff2?v=731a37bb" as="font" type="font/woff2" crossorigin>
     
 
     <script>
@@ -101,12 +101,12 @@
 
     <!-- Styles -->
     
-    <link rel="preload" href="/_assets/css/styles.css?v=c5b2989c" as="style">
-    <link rel="stylesheet" href="/_assets/css/styles.css?v=c5b2989c">
+    <link rel="preload" href="/_assets/css/styles.css?v=25cb416f" as="style">
+    <link rel="stylesheet" href="/_assets/css/styles.css?v=25cb416f">
     <script>
     window.OnlinuumAssetHashes = {
         cart: '15867eb7',
-        media: 'fb2c818d'
+        media: '731a37bb'
     };
     </script>
     <script>
@@ -600,7 +600,7 @@
         "@type": "Organization",
         "name": "Onlinuum",
         "url": "https://onlinuum.com",
-        "logo": "https://onlinuum.com/_media/images/site/favicon.svg?v=fb2c818d",
+        "logo": "https://onlinuum.com/_media/images/site/favicon.svg?v=731a37bb",
         "description": "Productized marketing services marketplace",
         "contactPoint": {
             "@type": "ContactPoint",
@@ -939,7 +939,7 @@
         dima-gerko
          · 
         2025-08-25
-         · 3 мин чтения
+         · 4 мин чтения
     </p>
 
     
@@ -977,8 +977,17 @@
 <li>Внедрение кода отслеживания ресурса Google Analytics в контейнер тег-менеджера.</li>
 <li>Настройка общего представления: добавление фильтра, отображающего полные адреса страниц в отчетах Google Analytics. Это позволяет видеть в отчетах не только хвосты страниц, а полные адреса, которые содержат информацию о поддомене. Это существенно дополняет исходную информацию и позволяет добавлять отдельные сегменты для более подробного анализа данных.</li>
 </ul>
-<p><strong>Исходное отображение данных: адреса страниц без поддомена</strong></p>
-<p><img alt="Проведенные работы по настройке представления" src="/_media/images/cases/weight-loss-clinic-google-analytics/original-page-paths.png" /></p>
+<p><strong>Исходное отображение данных: адреса страниц без поддомена (примеры адресов)</strong></p>
+<div class="codehilite"><pre><span></span><code>→ /index.php
+→ /promotions/seasonal-offer/index.php
+→ /services/weight-loss/index.php
+→ /specialists/index.php
+→ /reviews/index.php
+→ /timetable/index.php
+→ /contacts/index.php
+! city-a.example.com/contacts/ и city-b.example.com/contacts/ попадают в одну строку отчёта: /contacts/index.php
+</code></pre></div>
+
 <ul>
 <li>
 <p>Настройка представления Google Analytics по городам: добавление в представление фильтра, включающего данные только с отдельного поддомена.</p>
@@ -1129,7 +1138,7 @@
 <a href="/ru/services/analytics/" class="service-card entity-card entity-card-padded">
     <div class="service-card-header">
         <div class="entity-card-title">Аналитика и данные</div>
-        <div class="service-card-icon" style="--icon-url: url('/_media/icons/analytics.svg?v=fb2c818d')"></div>
+        <div class="service-card-icon" style="--icon-url: url('/_media/icons/analytics.svg?v=731a37bb')"></div>
     </div>
     
     
@@ -1194,7 +1203,7 @@
     <div class="dimension-card-header">
         <div class="entity-card-title">Медицина</div>
         
-        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=fb2c818d')"></div>
+        <div class="dimension-card-badge icon" style="--icon-url: url('/_media/icons/healthcare.svg?v=731a37bb')"></div>
         
     </div>
     
@@ -1431,7 +1440,7 @@
                     <div class="footer-top-section footer-heritage">
                         <p class="footer-column-title">История</p>
                         <div class="footer-heritage-logo">
-                            <img src="/_media/images/site/alconost-logo.svg?v=fb2c818d" alt="Alconost Digital логотип" loading="lazy" decoding="async" width="258" height="45">
+                            <img src="/_media/images/site/alconost-logo.svg?v=731a37bb" alt="Alconost Digital логотип" loading="lazy" decoding="async" width="258" height="45">
                         </div>
                         
                         <p class="footer-brand-line">Бывшая команда <a href="https://alconost.digital/en/" target="_blank" rel="noopener" class="footer-inline-link">Alconost Digital</a></p>
@@ -1460,7 +1469,7 @@
                             
                             <a href="https://clutch.co/profile/vividigit" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/clutch.svg?v=fb2c818d" alt="Clutch логотип" loading="lazy">
+                                    <img src="/_media/logos/clutch.svg?v=731a37bb" alt="Clutch логотип" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Clutch</span>
@@ -1473,7 +1482,7 @@
                             
                             <a href="https://www.google.com/maps" class="footer-badge-item" target="_blank" rel="noopener">
                                 <span class="footer-badge-visual">
-                                    <img src="/_media/logos/google-reviews.svg?v=fb2c818d" alt="Google Reviews логотип" loading="lazy">
+                                    <img src="/_media/logos/google-reviews.svg?v=731a37bb" alt="Google Reviews логотип" loading="lazy">
                                 </span>
                                 <span class="footer-badge-meta">
                                     <span class="footer-badge-name">Google Reviews</span>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" fill="none">
+  <!-- City skyline -->
+  <path d="M372 344 V214 H420 V168 H462 V230 H500 V120 H546 V190 H592 V150 H640 V206 H690 V176 H734 V344 Z" fill="#1D5C43" fill-opacity="0.07" stroke="#6E7872" stroke-width="1.5" stroke-linejoin="round" opacity="0.6"/>
+  <!-- Ground -->
+  <line x1="40" y1="344" x2="760" y2="344" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Easel -->
+  <line x1="548" y1="250" x2="522" y2="344" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="572" y1="250" x2="598" y2="344" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="560" y1="250" x2="560" y2="340" stroke="#6E7872" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <!-- Target -->
+  <circle cx="564" cy="184" r="90" fill="#000" opacity="0.08"/>
+  <circle cx="560" cy="180" r="90" fill="white"/>
+  <circle cx="560" cy="180" r="90" stroke="#6E7872" stroke-width="3.5" fill="#AFCDBB" fill-opacity="0.16"/>
+  <circle cx="560" cy="180" r="64" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.14"/>
+  <circle cx="560" cy="180" r="40" stroke="#6E7872" stroke-width="2.5" fill="#C39033" fill-opacity="0.18"/>
+  <circle cx="560" cy="180" r="16" stroke="#6E7872" stroke-width="2.5" fill="#1D5C43" fill-opacity="0.35"/>
+
+  <!-- Arrow in the bullseye -->
+  <line x1="470" y1="146" x2="556" y2="179" stroke="#6E7872" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M470 146 L458 134 M470 146 L454 148" stroke="#C39033" stroke-width="3" stroke-linecap="round"/>
+  <!-- Missed arrows stuck in the ground -->
+  <line x1="410" y1="344" x2="386" y2="292" stroke="#6E7872" stroke-width="3" stroke-linecap="round"/>
+  <path d="M386 292 L376 286 M386 292 L384 280" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="466" y1="344" x2="448" y2="300" stroke="#6E7872" stroke-width="3" stroke-linecap="round"/>
+  <path d="M448 300 L438 296 M448 300 L448 288" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="686" y1="344" x2="668" y2="292" stroke="#6E7872" stroke-width="3" stroke-linecap="round"/>
+  <path d="M668 292 L658 288 M668 292 L668 280" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="728" y1="344" x2="716" y2="300" stroke="#6E7872" stroke-width="3" stroke-linecap="round"/>
+  <path d="M716 300 L706 296 M716 300 L716 288" stroke="#6E7872" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Bow -->
+  <path d="M150 96 Q236 200 150 304" stroke="#6E7872" stroke-width="5" stroke-linecap="round"/>
+  <path d="M150 96 Q236 200 150 304" stroke="#C39033" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <line x1="150" y1="96" x2="150" y2="304" stroke="#6E7872" stroke-width="1.8" opacity="0.7"/>
+  <rect x="184" y="182" width="14" height="36" rx="5" stroke="#6E7872" stroke-width="2" fill="#1D5C43" fill-opacity="0.25"/>
+
+  <!-- Flight path -->
+  <path d="M206 196 Q330 96 452 140" stroke="#6E7872" stroke-width="2" stroke-dasharray="7 7" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- Decorative dots and lines -->
+  <circle cx="84" cy="70" r="3" fill="#1D5C43" opacity="0.24"/>
+  <circle cx="320" cy="60" r="2.5" fill="#C39033" opacity="0.24"/>
+  <circle cx="760" cy="96" r="3" fill="#AFCDBB" opacity="0.4"/>
+  <circle cx="290" cy="300" r="2.5" fill="#1D5C43" opacity="0.18"/>
+  <line x1="60" y1="374" x2="96" y2="374" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.14"/>
+  <line x1="700" y1="374" x2="740" y2="374" stroke="#6E7872" stroke-width="1.5" stroke-linecap="round" opacity="0.14"/>
+</svg>
