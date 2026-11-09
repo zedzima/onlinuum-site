@@ -342,7 +342,7 @@
       "industry": "saas",
       "starting_price": 2000.0,
       "expert_count": 9,
-      "case_count": 0,
+      "case_count": 1,
       "facets": {
         "domains": [
           "search-marketing",
@@ -395,6 +395,9 @@
           "gael-balouek",
           "moataz-yacoubian",
           "ndeye-binta-diouf"
+        ],
+        "cases": [
+          "product-launch-consulting"
         ],
         "services": [
           "analytics",
@@ -877,7 +880,7 @@
       "industry": "saas",
       "starting_price": 3000.0,
       "expert_count": 14,
-      "case_count": 2,
+      "case_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -954,7 +957,8 @@
         ],
         "cases": [
           "alvadi",
-          "bamboo-ppc-landing-pages"
+          "bamboo-ppc-landing-pages",
+          "supreme-hot-bot-international-ppc"
         ],
         "services": [
           "content",
@@ -1063,6 +1067,9 @@
           "thai",
           "turkish",
           "urdu"
+        ],
+        "blog-posts": [
+          "international-ppc"
         ],
         "positions": [
           "seo-expert",
@@ -1217,6 +1224,7 @@
           "urdu"
         ],
         "blog-posts": [
+          "seo-international-site",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -1935,7 +1943,9 @@
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",
       "seo-packages-comparison": "Сравнение SEO-пакетов",
-      "why-seo-matters-in-2026": "Почему SEO важно в 2026"
+      "why-seo-matters-in-2026": "Почему SEO важно в 2026",
+      "international-ppc": "Контекстная реклама на разных языках",
+      "seo-international-site": "Продвижение международного сайта"
     },
     "positions": {
       "seo-expert": "SEO-специалист",
@@ -1947,7 +1957,9 @@
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",
-      "alvadi": "ALVADI"
+      "product-launch-consulting": "Вывод нового продукта на рынок: кейс",
+      "alvadi": "ALVADI",
+      "supreme-hot-bot-international-ppc": "Продвижение на Запад: кейс"
     }
   }
 }

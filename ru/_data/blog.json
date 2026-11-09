@@ -1,5 +1,100 @@
 [
   {
+    "slug": "analysis-of-search-demand",
+    "url": "/blog/analysis-of-search-demand",
+    "title": "Анализ поисковых запросов и семантическое ядро магазина",
+    "description": "Анализ поисковых запросов для англоязычного магазина ванн: 707 хвостов, страница категории в топ-10 лишь по 5 из 28 запросов и SEO-план из 7 шагов.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Keyword Research"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-26",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 8,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "english",
+    "scopes": [
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": [
+      "english"
+    ]
+  },
+  {
+    "slug": "first-step-in-seo-process",
+    "url": "/blog/first-step-in-seo-process",
+    "title": "Список SEO-работ на первый месяц: семантическое ядро. Кейс",
+    "description": "Список SEO-работ за первый месяц на примере разработчика приложений: около 10 000 запросов в 25 группах, семантическое ядро и ТЗ на страницы за 35 часов.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-12",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 6,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "gdpr-compliant",
+    "url": "/blog/gdpr-compliant",
+    "title": "Требования GDPR к сайту: что нужно для продвижения в Европе",
+    "description": "Что требует GDPR, чтобы сайт в ЕС избежал штрафов и блокировки: cookie-баннер, журнал обработки данных и политика конфиденциальности, полезная для SEO.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "GDPR"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-17",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 4,
+    "author_name": "",
+    "scope": "technical-seo",
+    "industry": "",
+    "country": "eu",
+    "language": "",
+    "scopes": [
+      "technical-seo"
+    ],
+    "industries": [],
+    "countries": [
+      "eu"
+    ],
+    "languages": []
+  },
+  {
     "slug": "how-ai-chooses-sources",
     "url": "/blog/how-ai-chooses-sources",
     "title": "Как ИИ выбирает, какие сайты цитировать: правила цитирования",
@@ -53,6 +148,283 @@
       "portuguese",
       "spanish"
     ]
+  },
+  {
+    "slug": "html5-banners-sushi-case",
+    "url": "/blog/html5-banners-sushi-case",
+    "title": "HTML5-баннеры для контекстной рекламы: 1200 вариантов. Кейс",
+    "description": "Как сеть доставки суши получила 1200 вариантов анимированных HTML5-баннеров для двух рекламных сетей по шаблонам и меняет цены и названия без дизайнера.",
+    "lang": "ru",
+    "category": "ppc",
+    "service": "ppc",
+    "tags": [
+      "PPC",
+      "Display Ads"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-19",
+    "author": "dima-gerko",
+    "type": "article",
+    "reading_time": 7,
+    "author_name": "",
+    "scope": "remarketing-display",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "remarketing-display"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "international-ppc",
+    "url": "/blog/international-ppc",
+    "title": "Контекстная реклама на разных языках: этапы и KPI",
+    "description": "Как вести контекстную рекламу за рубежом: локальный спрос, тестовая кампания на английском, 7 шагов локализации, бюджет по странам и реалистичные KPI.",
+    "lang": "ru",
+    "category": "ppc",
+    "service": "ppc",
+    "tags": [
+      "PPC",
+      "International PPC"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-14",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 8,
+    "author_name": "",
+    "scope": "google-ads-search",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "google-ads-search",
+      "cross-market-setup"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "promote-business-with-articles",
+    "url": "/blog/promote-business-with-articles",
+    "title": "Публикации в СМИ: как статьи продвигают бизнес",
+    "description": "Как публикации в СМИ работают на PR, трафик и позиции, как одна новость бесплатно вышла в изданиях нескольких стран и почему адаптация лучше перевода.",
+    "lang": "ru",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-17",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 4,
+    "author_name": "",
+    "scope": "content-writing",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-writing"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "real-competitors-websites-analysis",
+    "url": "/blog/real-competitors-websites-analysis",
+    "title": "Анализ сайтов конкурентов перед SEO-продвижением: кейс",
+    "description": "Названные клиентом конкуренты почти не получали трафика из поиска, у одного лишь 3% визитов. Что показал анализ их сайтов и какой SEO-план мы предложили.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-26",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 6,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "manufacturing",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [
+      "manufacturing"
+    ],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "semrush-competitor-analysis",
+    "url": "/blog/semrush-competitor-analysis",
+    "title": "Анализ конкурентов в Semrush: как читать стандартный отчёт",
+    "description": "Разбор конкурента в Semrush на примере сайта о видеостенах: 30 тысяч ключевых слов, 73% органики, 1100 статей в блоге и выводы для контент-плана.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 7,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": []
+  },
+  {
+    "slug": "seo-international-site",
+    "url": "/blog/seo-international-site",
+    "title": "Продвижение международного сайта: 4 этапа SEO-работ",
+    "description": "Четыре этапа SEO для сайта на нескольких языках: аудит, технические доработки, адаптация контента и внешние факторы, а также выбор подрядчика.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "International SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-25",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 4,
+    "author_name": "",
+    "scope": "cross-market-setup",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "cross-market-setup"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-plan",
+    "url": "/blog/seo-plan",
+    "title": "План SEO-продвижения: сколько времени занимает каждый этап",
+    "description": "Из чего состоит план SEO-продвижения и сколько он длится: исследование и стратегия 1-2 месяца, оптимизация от 2 месяцев, ответы на 7 вопросов клиентов.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-29",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 5,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit",
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-promotion-analysis",
+    "url": "/blog/seo-promotion-analysis",
+    "title": "Анализ SEO-продвижения: пример SEO-аудита в 9 вопросах",
+    "description": "Первичный SEO-отчёт для сайта разработчика ПО: 18 переходов по 69 запросам за три месяца, 89% трафика на главную и 9 вопросов, которые это объясняют.",
+    "lang": "ru",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Analytics"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 9,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "where-to-find-a-copywriter",
+    "url": "/blog/where-to-find-a-copywriter",
+    "title": "Как найти копирайтера: где искать и как выбрать",
+    "description": "Где искать копирайтера, чем копирайтинг отличается от написания статей, почему хороший текст не бывает дешёвым, как составить ТЗ и оценить результат.",
+    "lang": "ru",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "Copywriting"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-15",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 9,
+    "author_name": "",
+    "scope": "copywriting",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "copywriting",
+      "content-writing"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
   },
   {
     "slug": "seo-packages-comparison",

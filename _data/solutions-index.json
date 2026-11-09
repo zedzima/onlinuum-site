@@ -342,7 +342,7 @@
       "industry": "saas",
       "starting_price": 2000.0,
       "expert_count": 9,
-      "case_count": 0,
+      "case_count": 1,
       "facets": {
         "domains": [
           "search-marketing",
@@ -395,6 +395,9 @@
           "gael-balouek",
           "moataz-yacoubian",
           "ndeye-binta-diouf"
+        ],
+        "cases": [
+          "product-launch-consulting"
         ],
         "services": [
           "analytics",
@@ -877,7 +880,7 @@
       "industry": "saas",
       "starting_price": 3000.0,
       "expert_count": 14,
-      "case_count": 2,
+      "case_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -954,7 +957,8 @@
         ],
         "cases": [
           "alvadi",
-          "bamboo-ppc-landing-pages"
+          "bamboo-ppc-landing-pages",
+          "supreme-hot-bot-international-ppc"
         ],
         "services": [
           "content",
@@ -1063,6 +1067,10 @@
           "thai",
           "turkish",
           "urdu"
+        ],
+        "blog-posts": [
+          "international-ppc",
+          "multilingual-content-marketing-strategy"
         ],
         "positions": [
           "seo-expert",
@@ -1217,6 +1225,8 @@
           "urdu"
         ],
         "blog-posts": [
+          "international-seo-checklist",
+          "seo-international-site",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -1372,6 +1382,7 @@
           "urdu"
         ],
         "blog-posts": [
+          "international-seo-checklist",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -1935,7 +1946,11 @@
     "blog-posts": {
       "how-ai-chooses-sources": "How AI Chooses Sources",
       "seo-packages-comparison": "SEO Packages Compared",
-      "why-seo-matters-in-2026": "Why SEO Matters In 2026"
+      "why-seo-matters-in-2026": "Why SEO Matters In 2026",
+      "international-ppc": "International PPC Advertising",
+      "multilingual-content-marketing-strategy": "Content Marketing Strategy",
+      "international-seo-checklist": "International SEO Checklist",
+      "seo-international-site": "International Website SEO"
     },
     "positions": {
       "seo-expert": "SEO Expert",
@@ -1947,7 +1962,9 @@
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",
-      "alvadi": "ALVADI"
+      "product-launch-consulting": "Product Launch Strategy Case Study",
+      "alvadi": "ALVADI",
+      "supreme-hot-bot-international-ppc": "International PPC Case Study"
     }
   }
 }

@@ -236,7 +236,7 @@
       ],
       "cases": [],
       "case_count": 0,
-      "article_count": 2,
+      "article_count": 6,
       "facets": {
         "domains": [
           "app-marketing",
@@ -348,7 +348,11 @@
           "swedish"
         ],
         "blog-posts": [
+          "ai-in-content-marketing",
           "how-ai-chooses-sources",
+          "multilingual-content-marketing-strategy",
+          "seo-content-marketing",
+          "writing-strategies",
           "seo-packages-comparison"
         ]
       }
@@ -712,8 +716,8 @@
         "retail"
       ],
       "cases": [],
-      "case_count": 0,
-      "article_count": 2,
+      "case_count": 1,
+      "article_count": 3,
       "facets": {
         "domains": [
           "growth-marketing",
@@ -732,6 +736,9 @@
           "link-building",
           "local-seo",
           "seo-audit"
+        ],
+        "cases": [
+          "product-launch-consulting"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -814,6 +821,7 @@
           "swedish"
         ],
         "blog-posts": [
+          "analysis-of-search-demand",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -2391,12 +2399,18 @@
       "multilingual-seo": "Multilingual SEO"
     },
     "blog-posts": {
+      "ai-in-content-marketing": "AI in Content Marketing",
       "how-ai-chooses-sources": "How AI Chooses Sources",
+      "multilingual-content-marketing-strategy": "Content Marketing Strategy",
+      "seo-content-marketing": "SEO Content Marketing",
+      "writing-strategies": "10 Writing Strategies",
       "seo-packages-comparison": "SEO Packages Compared",
-      "why-seo-matters-in-2026": "Why SEO Matters In 2026"
+      "why-seo-matters-in-2026": "Why SEO Matters In 2026",
+      "analysis-of-search-demand": "Search Query Analysis"
     },
     "cases": {
       "alvadi": "ALVADI",
+      "product-launch-consulting": "Product Launch Strategy Case Study",
       "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }

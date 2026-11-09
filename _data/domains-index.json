@@ -11,7 +11,7 @@
       "service_count": 3,
       "scope_count": 7,
       "solution_count": 5,
-      "case_count": 0,
+      "case_count": 1,
       "expert_count": 5,
       "facets": {
         "scopes": [
@@ -29,6 +29,9 @@
           "anastasiya-antoniuk",
           "brankica-petrasinovic",
           "muhammad-hijazi-siddiqui"
+        ],
+        "cases": [
+          "mobidb-app-ads"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1484,6 +1487,11 @@
       "syed-rafey": "Syed Rafey",
       "tri-huy-do": "Tri-Huy Do"
     },
+    "cases": {
+      "mobidb-app-ads": "PPC for Apps Case Study",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
     "solutions": {
       "digital-marketing-strategy": "Digital Marketing Strategy",
       "digital-marketing-consulting": "Digital Marketing Consulting",
@@ -1622,10 +1630,6 @@
       "marketing-consultant": "Marketing Consultant",
       "ppc-specialist": "PPC Specialist",
       "seo-expert": "SEO Expert"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "How AI Chooses Sources",

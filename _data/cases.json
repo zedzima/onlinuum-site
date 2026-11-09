@@ -140,42 +140,421 @@
           "english"
         ]
       }
+    },
+    {
+      "slug": "cryomed-content-seo",
+      "url": "/cases/cryomed-content-seo",
+      "title": "SEO Content Marketing Case Study: 10,000+ Monthly Visitors",
+      "card_title": "SEO Content Marketing Case Study",
+      "description": "How 70+ blog posts, about 100 FAQ answers, and rewritten product pages took a cryotherapy equipment maker from zero to 10,000+ organic visitors a month.",
+      "menu": "SEO Content Marketing Case Study",
+      "featured": false,
+      "client": "Cryomed",
+      "image": "/_media/logos/cryomed.svg",
+      "image_mode": "logo",
+      "service": "content",
+      "industry": "healthcare",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "10,000+",
+          "label": "Organic visitors a month"
+        },
+        {
+          "value": "70+",
+          "label": "Articles and news posts"
+        },
+        {
+          "value": "~100",
+          "label": "FAQ answers"
+        }
+      ],
+      "primary_result": {
+        "value": "10,000+",
+        "label": "Organic visitors a month"
+      },
+      "timeline": {
+        "value": "70+",
+        "label": "Articles and news posts"
+      },
+      "facets": {
+        "scopes": [
+          "content-writing",
+          "on-page-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "healthcare"
+        ]
+      }
+    },
+    {
+      "slug": "crypto-content-marketing",
+      "url": "/cases/crypto-content-marketing",
+      "title": "Content Marketing for Crypto: 5 Free Articles in 4 Languages",
+      "card_title": "Content Marketing for Crypto",
+      "description": "How outreach to crypto media in 7 languages won five free articles in 2.5 months, with 300+ emails, 50+ social messages and different rules per market.",
+      "menu": "Content Marketing for Crypto",
+      "featured": false,
+      "client": "Ethereum token explorer | Seven language versions",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "content",
+      "industry": "crypto",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "5",
+          "label": "Free articles published"
+        },
+        {
+          "value": "4",
+          "label": "Languages with coverage"
+        },
+        {
+          "value": "2.5",
+          "label": "Months of outreach"
+        }
+      ],
+      "primary_result": {
+        "value": "5",
+        "label": "Free articles published"
+      },
+      "timeline": {
+        "value": "4",
+        "label": "Languages with coverage"
+      },
+      "facets": {
+        "scopes": [
+          "content-writing",
+          "content-localization"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "crypto"
+        ]
+      }
+    },
+    {
+      "slug": "kooraroo-ppc-campaign",
+      "url": "/cases/kooraroo-ppc-campaign",
+      "title": "PPC Campaign Management Case Study: 8x More Conversions",
+      "card_title": "PPC Campaign Management Case Study",
+      "description": "Search ads for a DLNA media server: in three months, monthly conversions grew from 10 to 82 and cost per conversion fell from $20.53 to $4.83.",
+      "menu": "PPC Campaign Management Case Study",
+      "featured": false,
+      "client": "KooRaRoo",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "8.2x",
+          "label": "Conversions in 30 days"
+        },
+        {
+          "value": "-76%",
+          "label": "Cost per conversion"
+        },
+        {
+          "value": "3.2x",
+          "label": "Conversion rate"
+        }
+      ],
+      "primary_result": {
+        "value": "8.2x",
+        "label": "Conversions in 30 days"
+      },
+      "timeline": {
+        "value": "-76%",
+        "label": "Cost per conversion"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "services": [
+          "ppc"
+        ]
+      }
+    },
+    {
+      "slug": "mobidb-app-ads",
+      "url": "/cases/mobidb-app-ads",
+      "title": "PPC for Apps Case Study: Installs Grew to 300 a Month",
+      "card_title": "PPC for Apps Case Study",
+      "description": "Search and display campaigns for a database app grew installs to 300 a month in about six months, lifted CTR 1.5 times and cut search CPC 1.74 times.",
+      "menu": "PPC for Apps Case Study",
+      "featured": false,
+      "client": "MobiDB",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "300",
+          "label": "Installs a month"
+        },
+        {
+          "value": "2.5x",
+          "label": "Lower search cost per conversion"
+        },
+        {
+          "value": "1.5x",
+          "label": "Higher ad CTR"
+        }
+      ],
+      "primary_result": {
+        "value": "300",
+        "label": "Installs a month"
+      },
+      "timeline": {
+        "value": "2.5x",
+        "label": "Lower search cost per conversion"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "scopes": [
+          "google-app-campaigns",
+          "google-ads-search"
+        ],
+        "services": [
+          "ppc"
+        ]
+      }
+    },
+    {
+      "slug": "product-launch-consulting",
+      "url": "/cases/product-launch-consulting",
+      "title": "Product Launch Strategy Based on Search Demand: Case Study",
+      "card_title": "Product Launch Strategy Case Study",
+      "description": "Search demand research for a new IT security product: 80% of the client's assumed queries missed, rivals had thousands of pages, and the client pivoted.",
+      "menu": "Product Launch Strategy Case Study",
+      "featured": false,
+      "client": "",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "saas",
+      "country": "",
+      "language": "",
+      "results": [],
+      "primary_result": null,
+      "timeline": null,
+      "facets": {
+        "scopes": [
+          "seo-research"
+        ],
+        "experts": [
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas"
+        ]
+      }
+    },
+    {
+      "slug": "supreme-hot-bot-international-ppc",
+      "url": "/cases/supreme-hot-bot-international-ppc",
+      "title": "International PPC Case Study: 483% ROI in the US and Europe",
+      "card_title": "International PPC Case Study",
+      "description": "PPC for a Supreme drop-buying app entering the US and Europe: 34% of all season purchases, 483% ROI in three months and a 60% impression share.",
+      "menu": "International PPC Case Study",
+      "featured": false,
+      "client": "Supreme Hot Bot",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "",
+      "country": "usa",
+      "language": "english",
+      "results": [
+        {
+          "value": "483%",
+          "label": "ROI over three months"
+        },
+        {
+          "value": "34%",
+          "label": "Of all season purchases"
+        },
+        {
+          "value": "Up to 90%",
+          "label": "Of impressions in first place"
+        }
+      ],
+      "primary_result": {
+        "value": "483%",
+        "label": "ROI over three months"
+      },
+      "timeline": {
+        "value": "34%",
+        "label": "Of all season purchases"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "solutions": [
+          "international-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "countries": [
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "tradevoyage-travel-ppc",
+      "url": "/cases/tradevoyage-travel-ppc",
+      "title": "PPC for the Travel Industry: Doubling CTR for a Tour Agency",
+      "card_title": "PPC for the Travel Industry",
+      "description": "Search and display ads for a tour agency: Montenegro search CTR rose from 11% to 24.5% in a year, with clicks at $0.04-0.06, below the regional average.",
+      "menu": "PPC for the Travel Industry",
+      "featured": false,
+      "client": "TradeVoyage",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "hospitality",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "2.2x",
+          "label": "Search CTR, Montenegro"
+        },
+        {
+          "value": "2.7x",
+          "label": "Search CTR, Italy"
+        },
+        {
+          "value": "-33%",
+          "label": "Cost per click, Montenegro"
+        }
+      ],
+      "primary_result": {
+        "value": "2.2x",
+        "label": "Search CTR, Montenegro"
+      },
+      "timeline": {
+        "value": "2.7x",
+        "label": "Search CTR, Italy"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search",
+          "remarketing-display"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "hospitality"
+        ]
+      }
+    },
+    {
+      "slug": "weight-loss-clinic-google-analytics",
+      "url": "/cases/weight-loss-clinic-google-analytics",
+      "title": "Google Analytics for Subdomains: Tracking Setup Case Study",
+      "card_title": "Google Analytics for Subdomains",
+      "description": "Google Analytics setup for a clinic with a subdomain per city: per-branch reports, full-URL filters and two GTM tags for calls, forms and bookings.",
+      "menu": "Google Analytics for Subdomains",
+      "featured": false,
+      "client": "Weight-loss clinic chain",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "analytics",
+      "industry": "healthcare",
+      "country": "",
+      "language": "",
+      "results": [],
+      "primary_result": null,
+      "timeline": null,
+      "facets": {
+        "services": [
+          "analytics"
+        ],
+        "industries": [
+          "healthcare"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "performance-marketing": "Performance Marketing",
       "search-marketing": "Search Marketing",
-      "web-marketing": "Web Marketing"
+      "web-marketing": "Web Marketing",
+      "app-marketing": "App Marketing"
     },
     "scopes": {
       "google-ads-search": "Google Ads Search",
       "content-localization": "Content Localization",
       "transcreation": "Transcreation",
-      "cross-market-setup": "International SEO Setup"
+      "cross-market-setup": "International SEO Setup",
+      "content-writing": "Content Writing",
+      "on-page-seo": "On-Page SEO",
+      "google-app-campaigns": "Google App Campaigns",
+      "seo-research": "SEO Research",
+      "remarketing-display": "Remarketing & Display"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun",
-      "elena-grakovich": "Elena Grakovich"
+      "elena-grakovich": "Elena Grakovich",
+      "dmitriy-razakhatsky": "Dmitry Rasakhatsky"
     },
     "solutions": {
       "international-marketing": "International Marketing",
-      "b2b-digital-marketing": "B2B Digital Marketing"
+      "b2b-digital-marketing": "B2B Digital Marketing",
+      "digital-marketing-consulting": "Digital Marketing Consulting"
     },
     "services": {
       "ppc": "PPC",
-      "web-development": "Web Development"
+      "web-development": "Web Development",
+      "content": "Content Marketing",
+      "seo": "SEO",
+      "analytics": "Analytics & Data"
     },
     "industries": {
       "automotive": "Automotive",
       "ecommerce": "E-commerce",
-      "saas": "SaaS"
+      "saas": "SaaS",
+      "healthcare": "Healthcare",
+      "crypto": "Crypto",
+      "hospitality": "Hospitality"
     },
     "countries": {
       "eu": "European Union",
       "estonia": "Estonia",
-      "latvia": "Latvia"
+      "latvia": "Latvia",
+      "usa": "USA"
     },
     "languages": {
       "estonian": "Estonian",

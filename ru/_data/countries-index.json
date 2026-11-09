@@ -1385,6 +1385,9 @@
           "finnish",
           "croatian"
         ],
+        "blog-posts": [
+          "gdpr-compliant"
+        ],
         "positions": [
           "seo-expert"
         ]
@@ -5234,7 +5237,7 @@
       "scope_count": 48,
       "service_count": 19,
       "expert_count": 21,
-      "case_count": 0,
+      "case_count": 1,
       "solution_count": 10,
       "facets": {
         "domains": [
@@ -5321,6 +5324,9 @@
           "valentina-soldatkina",
           "vyacheslav-maletskiy"
         ],
+        "cases": [
+          "supreme-hot-bot-international-ppc"
+        ],
         "solutions": [
           "ai-visibility",
           "b2b-digital-marketing",
@@ -5374,7 +5380,9 @@
           "spanish"
         ],
         "blog-posts": [
+          "analysis-of-search-demand",
           "how-ai-chooses-sources",
+          "semrush-competitor-analysis",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -5573,12 +5581,16 @@
     },
     "blog-posts": {
       "seo-packages-comparison": "Сравнение SEO-пакетов",
+      "gdpr-compliant": "Требования GDPR к сайту",
       "how-ai-chooses-sources": "Как ИИ выбирает источники",
-      "why-seo-matters-in-2026": "Почему SEO важно в 2026"
+      "why-seo-matters-in-2026": "Почему SEO важно в 2026",
+      "analysis-of-search-demand": "Анализ поисковых запросов",
+      "semrush-competitor-analysis": "Анализ конкурентов в Semrush"
     },
     "cases": {
       "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "supreme-hot-bot-international-ppc": "Продвижение на Запад: кейс"
     }
   }
 }

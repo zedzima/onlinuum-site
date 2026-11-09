@@ -1,5 +1,131 @@
 [
   {
+    "slug": "ai-in-content-marketing",
+    "url": "/blog/ai-in-content-marketing",
+    "title": "AI in Content Marketing: How to Integrate It in 7 Steps",
+    "description": "Where AI helps content marketing, from creation and targeting to SEO and analytics, what three practitioners say, and seven steps to adopt AI tools.",
+    "lang": "en",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "AI"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 9,
+    "author_name": "",
+    "scope": "content-strategy",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-strategy",
+      "content-writing"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "analysis-of-search-demand",
+    "url": "/blog/analysis-of-search-demand",
+    "title": "Search Query Analysis and SEO Strategy for an Online Store",
+    "description": "Search query analysis for an online bathtub store: 707 query tails, a category page in the top 10 for 5 of its 28 queries, and a 7-step SEO plan.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Keyword Research"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-26",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 9,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "english",
+    "scopes": [
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": [
+      "english"
+    ]
+  },
+  {
+    "slug": "first-step-in-seo-process",
+    "url": "/blog/first-step-in-seo-process",
+    "title": "SEO Work List for the First Month: App Developer Case Study",
+    "description": "A real first-month SEO work list for an app developer: about 10,000 queries in 25 groups turned into a keyword map and page specs in about 35 hours.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-12",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 7,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "gdpr-compliant",
+    "url": "/blog/gdpr-compliant",
+    "title": "GDPR Compliance for Websites Entering the European Market",
+    "description": "GDPR for sites entering the EU: cookie consent, a privacy policy, processing records, the risk of fines or a block, and how the policy page can help SEO.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "GDPR"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-17",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 4,
+    "author_name": "",
+    "scope": "technical-seo",
+    "industry": "",
+    "country": "eu",
+    "language": "",
+    "scopes": [
+      "technical-seo"
+    ],
+    "industries": [],
+    "countries": [
+      "eu"
+    ],
+    "languages": []
+  },
+  {
     "slug": "how-ai-chooses-sources",
     "url": "/blog/how-ai-chooses-sources",
     "title": "How AI Chooses Which Sites to Cite — Citation Rules",
@@ -53,6 +179,404 @@
       "portuguese",
       "spanish"
     ]
+  },
+  {
+    "slug": "html5-banners-sushi-case",
+    "url": "/blog/html5-banners-sushi-case",
+    "title": "Creating Hundreds of HTML5 Banners: A Sushi Delivery Case",
+    "description": "How a sushi delivery chain got 1,200 animated HTML5 banner variants for two ad networks from templates and now edits prices and names without a designer.",
+    "lang": "en",
+    "category": "ppc",
+    "service": "ppc",
+    "tags": [
+      "PPC",
+      "Display Ads"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-19",
+    "author": "dima-gerko",
+    "type": "article",
+    "reading_time": 8,
+    "author_name": "",
+    "scope": "remarketing-display",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "remarketing-display"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "international-ppc",
+    "url": "/blog/international-ppc",
+    "title": "International PPC Campaigns: Localization, Process and KPIs",
+    "description": "How international PPC campaigns run: local keyword research, an English test launch, 7 localization steps, budgets per market and realistic KPIs.",
+    "lang": "en",
+    "category": "ppc",
+    "service": "ppc",
+    "tags": [
+      "PPC",
+      "International PPC"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-14",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 9,
+    "author_name": "",
+    "scope": "google-ads-search",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "google-ads-search",
+      "cross-market-setup"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "international-seo-checklist",
+    "url": "/blog/international-seo-checklist",
+    "title": "International SEO Checklist: Keywords, Hreflang, URLs",
+    "description": "An international SEO checklist for every new market: technical audit, localized rather than translated keywords, hreflang, URLs, local links, tracking.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "International SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-07",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 6,
+    "author_name": "",
+    "scope": "cross-market-setup",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "cross-market-setup"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "multilingual-content-marketing-strategy",
+    "url": "/blog/multilingual-content-marketing-strategy",
+    "title": "Content Marketing Strategy for Global Brands in 8 Steps",
+    "description": "An 8-step content marketing strategy that starts in English and then localizes: audience research, SMART goals, content plan, distribution, analytics.",
+    "lang": "en",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "Content Strategy"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 14,
+    "author_name": "",
+    "scope": "content-strategy",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-strategy",
+      "content-localization"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "promote-business-with-articles",
+    "url": "/blog/promote-business-with-articles",
+    "title": "Writing Articles to Promote Your Business: How It Works",
+    "description": "How article marketing builds PR, traffic and rankings, how one story won free placements in several countries, and why transcreation beats translation.",
+    "lang": "en",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-17",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 5,
+    "author_name": "",
+    "scope": "content-writing",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-writing"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "real-competitors-websites-analysis",
+    "url": "/blog/real-competitors-websites-analysis",
+    "title": "Competitor Website Analysis Before an SEO Campaign",
+    "description": "A B2B manufacturer's named rivals got little search traffic, one only 3% of visits. What competitor website analysis showed and the resulting SEO plan.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-26",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 8,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "manufacturing",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [
+      "manufacturing"
+    ],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "semrush-competitor-analysis",
+    "url": "/blog/semrush-competitor-analysis",
+    "title": "Semrush Competitor Analysis: How to Interpret the Report",
+    "description": "A Semrush competitor analysis of an LED video wall site: 30,000 keywords, 73% organic traffic, 1,100 blog posts and what they mean for a content plan.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 8,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": []
+  },
+  {
+    "slug": "seo-content-marketing",
+    "url": "/blog/seo-content-marketing",
+    "title": "SEO Content Marketing: How to Combine SEO and Content",
+    "description": "How SEO and content marketing reinforce each other: a 7-step roadmap, structure and meta tags, KPIs and tools, and fixes for six common challenges.",
+    "lang": "en",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 15,
+    "author_name": "",
+    "scope": "content-strategy",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-strategy",
+      "on-page-seo"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-international-site",
+    "url": "/blog/seo-international-site",
+    "title": "International Website SEO: 4 Stages From Audit to Links",
+    "description": "The four stages of SEO for a site with several language versions: audit, technical fixes, adapted content and local links, plus how to choose a provider.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "International SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-25",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 5,
+    "author_name": "",
+    "scope": "cross-market-setup",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "cross-market-setup"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-plan",
+    "url": "/blog/seo-plan",
+    "title": "SEO Plan: How Long It Takes to Promote a Website",
+    "description": "What an SEO plan covers and how long it takes: 1-2 months of research and strategy, at least 2 more of optimization, and answers to 7 client questions.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-29",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 6,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit",
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-promotion-analysis",
+    "url": "/blog/seo-promotion-analysis",
+    "title": "SEO Promotion Analysis: A Sample Report in 9 Questions",
+    "description": "An initial SEO report for a software company: 18 clicks from 69 queries in 3 months, 89% of traffic to the home page, and 9 questions that explain why.",
+    "lang": "en",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Analytics"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 10,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "where-to-find-a-copywriter",
+    "url": "/blog/where-to-find-a-copywriter",
+    "title": "How to Find a Copywriter: Where to Look and How to Choose",
+    "description": "Where to find a copywriter, how copywriting differs from content writing, why quality text costs more, how to brief a writer and how to judge the result.",
+    "lang": "en",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "Copywriting"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-15",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 11,
+    "author_name": "",
+    "scope": "copywriting",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "copywriting",
+      "content-writing"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "writing-strategies",
+    "url": "/blog/writing-strategies",
+    "title": "10 Writing Strategies to Improve Your Writing Skills",
+    "description": "Ten writing strategies beyond the basics: precision, the Pyramid Principle, reader questions, layout, data, storytelling, trimming and the rule of three.",
+    "lang": "en",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Copywriting"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 10,
+    "author_name": "",
+    "scope": "copywriting",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "copywriting"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
   },
   {
     "slug": "seo-packages-comparison",

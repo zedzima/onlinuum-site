@@ -712,8 +712,8 @@
         "retail"
       ],
       "cases": [],
-      "case_count": 0,
-      "article_count": 2,
+      "case_count": 1,
+      "article_count": 3,
       "facets": {
         "domains": [
           "growth-marketing",
@@ -732,6 +732,9 @@
           "link-building",
           "local-seo",
           "seo-audit"
+        ],
+        "cases": [
+          "product-launch-consulting"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -814,6 +817,7 @@
           "swedish"
         ],
         "blog-posts": [
+          "analysis-of-search-demand",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -2393,10 +2397,12 @@
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",
       "seo-packages-comparison": "Сравнение SEO-пакетов",
-      "why-seo-matters-in-2026": "Почему SEO важно в 2026"
+      "why-seo-matters-in-2026": "Почему SEO важно в 2026",
+      "analysis-of-search-demand": "Анализ поисковых запросов"
     },
     "cases": {
       "alvadi": "ALVADI",
+      "product-launch-consulting": "Вывод нового продукта на рынок: кейс",
       "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }

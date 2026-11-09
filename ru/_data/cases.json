@@ -140,42 +140,421 @@
           "english"
         ]
       }
+    },
+    {
+      "slug": "cryomed-content-seo",
+      "url": "/cases/cryomed-content-seo",
+      "title": "Контентное SEO-продвижение: 10 000 посетителей в месяц. Кейс",
+      "card_title": "Контентное SEO-продвижение: кейс",
+      "description": "Контент-маркетинг для производителя криогенного оборудования: 70+ статей, около 100 ответов в FAQ и рост органики с нуля до 10 000 посетителей в месяц.",
+      "menu": "Контентное SEO-продвижение: кейс",
+      "featured": false,
+      "client": "Cryomed",
+      "image": "/_media/logos/cryomed.svg",
+      "image_mode": "logo",
+      "service": "content",
+      "industry": "healthcare",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "10 000+",
+          "label": "Органических посетителей в месяц"
+        },
+        {
+          "value": "70+",
+          "label": "Статей и новостей"
+        },
+        {
+          "value": "~100",
+          "label": "Ответов в FAQ"
+        }
+      ],
+      "primary_result": {
+        "value": "10 000+",
+        "label": "Органических посетителей в месяц"
+      },
+      "timeline": {
+        "value": "70+",
+        "label": "Статей и новостей"
+      },
+      "facets": {
+        "scopes": [
+          "content-writing",
+          "on-page-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "healthcare"
+        ]
+      }
+    },
+    {
+      "slug": "crypto-content-marketing",
+      "url": "/cases/crypto-content-marketing",
+      "title": "Крипто-маркетинг: 5 бесплатных публикаций в СМИ. Кейс",
+      "card_title": "Крипто-маркетинг: кейс",
+      "description": "Как рассылка в криптовалютные СМИ на 7 языках дала 5 бесплатных публикаций за 2,5 месяца: 300+ писем, 50+ сообщений и свои правила на каждом рынке.",
+      "menu": "Крипто-маркетинг: кейс",
+      "featured": false,
+      "client": "Обозреватель токенов Ethereum | Семь языковых версий",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "content",
+      "industry": "crypto",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "5",
+          "label": "Бесплатных публикаций"
+        },
+        {
+          "value": "4",
+          "label": "Языка с публикациями"
+        },
+        {
+          "value": "2,5",
+          "label": "Месяца работы"
+        }
+      ],
+      "primary_result": {
+        "value": "5",
+        "label": "Бесплатных публикаций"
+      },
+      "timeline": {
+        "value": "4",
+        "label": "Языка с публикациями"
+      },
+      "facets": {
+        "scopes": [
+          "content-writing",
+          "content-localization"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "crypto"
+        ]
+      }
+    },
+    {
+      "slug": "kooraroo-ppc-campaign",
+      "url": "/cases/kooraroo-ppc-campaign",
+      "title": "Ведение контекстной рекламы: в 8 раз больше конверсий. Кейс",
+      "card_title": "Ведение контекстной рекламы: кейс",
+      "description": "Три месяца ежедневной оптимизации контекстной рекламы DLNA-сервера: конверсии выросли с 10 до 82 в месяц, цена конверсии снизилась с $20,53 до $4,83.",
+      "menu": "Ведение контекстной рекламы: кейс",
+      "featured": false,
+      "client": "KooRaRoo",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "8,2x",
+          "label": "Конверсий за 30 дней"
+        },
+        {
+          "value": "-76%",
+          "label": "Цена конверсии"
+        },
+        {
+          "value": "3,2x",
+          "label": "Коэффициент конверсии"
+        }
+      ],
+      "primary_result": {
+        "value": "8,2x",
+        "label": "Конверсий за 30 дней"
+      },
+      "timeline": {
+        "value": "-76%",
+        "label": "Цена конверсии"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "services": [
+          "ppc"
+        ]
+      }
+    },
+    {
+      "slug": "mobidb-app-ads",
+      "url": "/cases/mobidb-app-ads",
+      "title": "Реклама приложения: рост до 300 установок в месяц. Кейс",
+      "card_title": "Реклама приложения: кейс",
+      "description": "Реклама приложения для баз данных в поисковой и медийной сети Google: до 300 установок в месяц, CTR выше в 1,5 раза, клик в поиске дешевле в 1,74 раза.",
+      "menu": "Реклама приложения: кейс",
+      "featured": false,
+      "client": "MobiDB",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "300",
+          "label": "Установок в месяц"
+        },
+        {
+          "value": "2,5x",
+          "label": "Ниже цена конверсии в поиске"
+        },
+        {
+          "value": "1,5x",
+          "label": "Выше CTR объявлений"
+        }
+      ],
+      "primary_result": {
+        "value": "300",
+        "label": "Установок в месяц"
+      },
+      "timeline": {
+        "value": "2,5x",
+        "label": "Ниже цена конверсии в поиске"
+      },
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "scopes": [
+          "google-app-campaigns",
+          "google-ads-search"
+        ],
+        "services": [
+          "ppc"
+        ]
+      }
+    },
+    {
+      "slug": "product-launch-consulting",
+      "url": "/cases/product-launch-consulting",
+      "title": "Вывод нового IT-продукта на рынок: анализ спроса. Кейс",
+      "card_title": "Вывод нового продукта на рынок: кейс",
+      "description": "Анализ спроса для нового продукта в IT-безопасности: 80% запросов клиента не подтвердились, у конкурентов тысячи страниц. Клиент сменил позиционирование.",
+      "menu": "Вывод нового продукта на рынок: кейс",
+      "featured": false,
+      "client": "",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "seo",
+      "industry": "saas",
+      "country": "",
+      "language": "",
+      "results": [],
+      "primary_result": null,
+      "timeline": null,
+      "facets": {
+        "scopes": [
+          "seo-research"
+        ],
+        "experts": [
+          "dmitriy-razakhatsky"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "saas"
+        ]
+      }
+    },
+    {
+      "slug": "supreme-hot-bot-international-ppc",
+      "url": "/cases/supreme-hot-bot-international-ppc",
+      "title": "Продвижение на Запад: реклама в Google Ads с ROI 483%. Кейс",
+      "card_title": "Продвижение на Запад: кейс",
+      "description": "Контекстная реклама на рынках США и Европы для приложения автопокупок на дропах Supreme: 34% покупок сезона, ROI 483% за три месяца и 60% доли показов.",
+      "menu": "Продвижение на Запад: кейс",
+      "featured": false,
+      "client": "Supreme Hot Bot",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "",
+      "country": "usa",
+      "language": "english",
+      "results": [
+        {
+          "value": "483%",
+          "label": "ROI за три месяца"
+        },
+        {
+          "value": "34%",
+          "label": "Всех покупок сезона"
+        },
+        {
+          "value": "До 90%",
+          "label": "Показов на первом месте"
+        }
+      ],
+      "primary_result": {
+        "value": "483%",
+        "label": "ROI за три месяца"
+      },
+      "timeline": {
+        "value": "34%",
+        "label": "Всех покупок сезона"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search"
+        ],
+        "solutions": [
+          "international-marketing"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "countries": [
+          "usa"
+        ],
+        "languages": [
+          "english"
+        ]
+      }
+    },
+    {
+      "slug": "tradevoyage-travel-ppc",
+      "url": "/cases/tradevoyage-travel-ppc",
+      "title": "Контекстная реклама для турагентства: CTR вырос вдвое. Кейс",
+      "card_title": "Контекстная реклама для турагентства",
+      "description": "Реклама в поиске и КМС для турфирмы: CTR поиска по Черногории вырос за год с 11% до 24,5%, клик стоил $0,04-0,06, дешевле среднего по региону.",
+      "menu": "Контекстная реклама для турагентства",
+      "featured": false,
+      "client": "TradeVoyage",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "ppc",
+      "industry": "hospitality",
+      "country": "",
+      "language": "",
+      "results": [
+        {
+          "value": "2,2x",
+          "label": "CTR в поиске, Черногория"
+        },
+        {
+          "value": "2,7x",
+          "label": "CTR в поиске, Италия"
+        },
+        {
+          "value": "-33%",
+          "label": "Цена клика, Черногория"
+        }
+      ],
+      "primary_result": {
+        "value": "2,2x",
+        "label": "CTR в поиске, Черногория"
+      },
+      "timeline": {
+        "value": "2,7x",
+        "label": "CTR в поиске, Италия"
+      },
+      "facets": {
+        "scopes": [
+          "google-ads-search",
+          "remarketing-display"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "hospitality"
+        ]
+      }
+    },
+    {
+      "slug": "weight-loss-clinic-google-analytics",
+      "url": "/cases/weight-loss-clinic-google-analytics",
+      "title": "Настройка Google Analytics для поддоменов: кейс клиники",
+      "card_title": "Google Analytics для поддоменов",
+      "description": "Как мы настроили Google Analytics для клиники с поддоменами по городам: представления по филиалам, фильтр полных URL и два тега GTM для кнопок и форм.",
+      "menu": "Google Analytics для поддоменов",
+      "featured": false,
+      "client": "Weight-loss clinic chain",
+      "image": "_media/illustrations/bar-chart.svg",
+      "image_mode": "contain",
+      "service": "analytics",
+      "industry": "healthcare",
+      "country": "",
+      "language": "",
+      "results": [],
+      "primary_result": null,
+      "timeline": null,
+      "facets": {
+        "services": [
+          "analytics"
+        ],
+        "industries": [
+          "healthcare"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "performance-marketing": "Performance-маркетинг",
       "search-marketing": "Поисковый маркетинг",
-      "web-marketing": "Веб-маркетинг"
+      "web-marketing": "Веб-маркетинг",
+      "app-marketing": "Маркетинг приложений"
     },
     "scopes": {
       "google-ads-search": "Поиск в Google Ads",
       "content-localization": "Локализация контента",
       "transcreation": "Транскреация",
-      "cross-market-setup": "Настройка мультирегионального SEO"
+      "cross-market-setup": "Настройка мультирегионального SEO",
+      "content-writing": "Написание статей",
+      "on-page-seo": "Внутренняя оптимизация",
+      "google-app-campaigns": "Google UAC",
+      "seo-research": "SEO-исследование",
+      "remarketing-display": "Ремаркетинг и медийная реклама"
     },
     "experts": {
       "dima-gerko": "Дима Герко",
       "vitali-bakun": "Виталий Бакун",
-      "elena-grakovich": "Елена Гракович"
+      "elena-grakovich": "Елена Гракович",
+      "dmitriy-razakhatsky": "Дмитрий Разахацкий"
     },
     "solutions": {
       "international-marketing": "Международный маркетинг",
-      "b2b-digital-marketing": "B2B-маркетинг"
+      "b2b-digital-marketing": "B2B-маркетинг",
+      "digital-marketing-consulting": "Маркетинговый консалтинг"
     },
     "services": {
       "ppc": "Контекстная реклама",
-      "web-development": "Разработка сайтов"
+      "web-development": "Разработка сайтов",
+      "content": "Контент-маркетинг",
+      "seo": "SEO",
+      "analytics": "Аналитика и данные"
     },
     "industries": {
       "automotive": "Автобизнес",
       "ecommerce": "Интернет-магазины",
-      "saas": "SaaS"
+      "saas": "SaaS",
+      "healthcare": "Медицина",
+      "crypto": "Криптовалюта",
+      "hospitality": "Гостеприимство"
     },
     "countries": {
       "eu": "Европейский союз",
       "estonia": "Эстония",
-      "latvia": "Латвия"
+      "latvia": "Латвия",
+      "usa": "США"
     },
     "languages": {
       "estonian": "Эстонский",

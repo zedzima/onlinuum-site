@@ -750,7 +750,8 @@
           "dima-gerko"
         ],
         "cases": [
-          "alvadi"
+          "alvadi",
+          "crypto-content-marketing"
         ],
         "solutions": [
           "multilingual-seo",
@@ -806,12 +807,15 @@
           "malay",
           "slovenian"
         ],
+        "blog-posts": [
+          "multilingual-content-marketing-strategy"
+        ],
         "positions": [
           "marketing-consultant"
         ]
       },
-      "case_count": 1,
-      "article_count": 0
+      "case_count": 2,
+      "article_count": 1
     },
     {
       "slug": "content-rewriting",
@@ -968,6 +972,11 @@
           "croatian",
           "slovenian"
         ],
+        "blog-posts": [
+          "ai-in-content-marketing",
+          "multilingual-content-marketing-strategy",
+          "seo-content-marketing"
+        ],
         "positions": [
           "seo-expert",
           "marketing-consultant",
@@ -975,7 +984,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 0
+      "article_count": 3
     },
     {
       "slug": "content-writing",
@@ -1005,6 +1014,10 @@
           "robmar-macallums",
           "moataz-yacoubian",
           "aina-rakotondrabe"
+        ],
+        "cases": [
+          "cryomed-content-seo",
+          "crypto-content-marketing"
         ],
         "solutions": [
           "ai-visibility",
@@ -1044,10 +1057,15 @@
           "lithuanian",
           "malay",
           "slovenian"
+        ],
+        "blog-posts": [
+          "ai-in-content-marketing",
+          "promote-business-with-articles",
+          "where-to-find-a-copywriter"
         ]
       },
-      "case_count": 0,
-      "article_count": 0
+      "case_count": 2,
+      "article_count": 3
     },
     {
       "slug": "copywriting",
@@ -1127,12 +1145,16 @@
           "malay",
           "slovenian"
         ],
+        "blog-posts": [
+          "where-to-find-a-copywriter",
+          "writing-strategies"
+        ],
         "positions": [
           "social-media-manager"
         ]
       },
       "case_count": 0,
-      "article_count": 0
+      "article_count": 2
     },
     {
       "slug": "cross-market-setup",
@@ -1273,6 +1295,9 @@
           "urdu"
         ],
         "blog-posts": [
+          "international-ppc",
+          "international-seo-checklist",
+          "seo-international-site",
           "seo-packages-comparison"
         ],
         "positions": [
@@ -1281,7 +1306,7 @@
         ]
       },
       "case_count": 1,
-      "article_count": 1
+      "article_count": 4
     },
     {
       "slug": "facebook-marketing",
@@ -1371,7 +1396,11 @@
         ],
         "cases": [
           "alvadi",
-          "bamboo-ppc-landing-pages"
+          "bamboo-ppc-landing-pages",
+          "kooraroo-ppc-campaign",
+          "mobidb-app-ads",
+          "supreme-hot-bot-international-ppc",
+          "tradevoyage-travel-ppc"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -1428,12 +1457,15 @@
           "turkish",
           "urdu"
         ],
+        "blog-posts": [
+          "international-ppc"
+        ],
         "positions": [
           "ppc-specialist"
         ]
       },
-      "case_count": 2,
-      "article_count": 0
+      "case_count": 6,
+      "article_count": 1
     },
     {
       "slug": "google-app-campaigns",
@@ -1457,6 +1489,9 @@
           "mariia-nedbaievska",
           "dima-gerko",
           "muhammad-hijazi-siddiqui"
+        ],
+        "cases": [
+          "mobidb-app-ads"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1544,7 +1579,7 @@
           "aso-specialist"
         ]
       },
-      "case_count": 0,
+      "case_count": 1,
       "article_count": 0
     },
     {
@@ -2342,6 +2377,9 @@
           "alaaddin-saracyakupoglu",
           "rita-pavide"
         ],
+        "cases": [
+          "cryomed-content-seo"
+        ],
         "solutions": [
           "b2b-digital-marketing",
           "digital-marketing-strategy",
@@ -2454,6 +2492,7 @@
           "urdu"
         ],
         "blog-posts": [
+          "seo-content-marketing",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -2461,8 +2500,8 @@
           "seo-expert"
         ]
       },
-      "case_count": 0,
-      "article_count": 2
+      "case_count": 1,
+      "article_count": 3
     },
     {
       "slug": "paid-social-for-apps",
@@ -2797,6 +2836,9 @@
           "vitali-bakun",
           "netanel-kugler"
         ],
+        "cases": [
+          "tradevoyage-travel-ppc"
+        ],
         "solutions": [
           "b2b-digital-marketing",
           "digital-marketing-consulting",
@@ -2845,12 +2887,15 @@
           "indonesian",
           "turkish"
         ],
+        "blog-posts": [
+          "html5-banners-sushi-case"
+        ],
         "positions": [
           "ppc-specialist"
         ]
       },
-      "case_count": 0,
-      "article_count": 0
+      "case_count": 1,
+      "article_count": 1
     },
     {
       "slug": "seo-audit",
@@ -2933,6 +2978,10 @@
           "thai"
         ],
         "blog-posts": [
+          "real-competitors-websites-analysis",
+          "semrush-competitor-analysis",
+          "seo-plan",
+          "seo-promotion-analysis",
           "seo-packages-comparison"
         ],
         "positions": [
@@ -2940,7 +2989,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 1
+      "article_count": 5
     },
     {
       "slug": "seo-research",
@@ -2979,6 +3028,9 @@
           "tri-huy-do",
           "alaaddin-saracyakupoglu",
           "valentina-soldatkina"
+        ],
+        "cases": [
+          "product-launch-consulting"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -3094,6 +3146,11 @@
           "urdu"
         ],
         "blog-posts": [
+          "analysis-of-search-demand",
+          "first-step-in-seo-process",
+          "real-competitors-websites-analysis",
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -3102,8 +3159,8 @@
           "marketing-consultant"
         ]
       },
-      "case_count": 0,
-      "article_count": 2
+      "case_count": 1,
+      "article_count": 7
     },
     {
       "slug": "social-content-creation",
@@ -3419,6 +3476,7 @@
           "urdu"
         ],
         "blog-posts": [
+          "gdpr-compliant",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -3427,7 +3485,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 2
+      "article_count": 3
     },
     {
       "slug": "telegram-ads",
@@ -4255,7 +4313,24 @@
     "blog-posts": {
       "how-ai-chooses-sources": "How AI Chooses Sources",
       "why-seo-matters-in-2026": "Why SEO Matters In 2026",
-      "seo-packages-comparison": "SEO Packages Compared"
+      "multilingual-content-marketing-strategy": "Content Marketing Strategy",
+      "ai-in-content-marketing": "AI in Content Marketing",
+      "seo-content-marketing": "SEO Content Marketing",
+      "promote-business-with-articles": "Writing Articles to Promote Your Business",
+      "where-to-find-a-copywriter": "How to Find a Copywriter",
+      "writing-strategies": "10 Writing Strategies",
+      "international-ppc": "International PPC Advertising",
+      "international-seo-checklist": "International SEO Checklist",
+      "seo-international-site": "International Website SEO",
+      "seo-packages-comparison": "SEO Packages Compared",
+      "html5-banners-sushi-case": "HTML5 Banners Case Study",
+      "real-competitors-websites-analysis": "Competitor Website Analysis",
+      "semrush-competitor-analysis": "Semrush Competitor Analysis",
+      "seo-plan": "SEO Plan and Timeline",
+      "seo-promotion-analysis": "SEO Promotion Analysis",
+      "analysis-of-search-demand": "Search Query Analysis",
+      "first-step-in-seo-process": "First-Month SEO Work List",
+      "gdpr-compliant": "GDPR Compliance for Websites"
     },
     "positions": {
       "seo-expert": "SEO Expert",
@@ -4266,7 +4341,14 @@
     },
     "cases": {
       "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "crypto-content-marketing": "Content Marketing for Crypto",
+      "cryomed-content-seo": "SEO Content Marketing Case Study",
+      "bamboo-ppc-landing-pages": "Bamboo Group",
+      "kooraroo-ppc-campaign": "PPC Campaign Management Case Study",
+      "mobidb-app-ads": "PPC for Apps Case Study",
+      "supreme-hot-bot-international-ppc": "International PPC Case Study",
+      "tradevoyage-travel-ppc": "PPC for the Travel Industry",
+      "product-launch-consulting": "Product Launch Strategy Case Study"
     }
   }
 }

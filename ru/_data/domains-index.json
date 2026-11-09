@@ -11,7 +11,7 @@
       "service_count": 3,
       "scope_count": 7,
       "solution_count": 5,
-      "case_count": 0,
+      "case_count": 1,
       "expert_count": 5,
       "facets": {
         "scopes": [
@@ -29,6 +29,9 @@
           "anastasiya-antoniuk",
           "brankica-petrasinovic",
           "muhammad-hijazi-siddiqui"
+        ],
+        "cases": [
+          "mobidb-app-ads"
         ],
         "solutions": [
           "digital-marketing-strategy",
@@ -1484,6 +1487,11 @@
       "syed-rafey": "Сайед Рафи",
       "tri-huy-do": "Чи-Хюи До"
     },
+    "cases": {
+      "mobidb-app-ads": "Реклама приложения: кейс",
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
     "solutions": {
       "digital-marketing-strategy": "Маркетинговая стратегия",
       "digital-marketing-consulting": "Маркетинговый консалтинг",
@@ -1622,10 +1630,6 @@
       "marketing-consultant": "Консультант по маркетингу",
       "ppc-specialist": "PPC-специалист",
       "seo-expert": "SEO-специалист"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",

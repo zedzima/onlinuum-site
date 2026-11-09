@@ -641,7 +641,7 @@
       "scope_count": 48,
       "service_count": 19,
       "expert_count": 27,
-      "case_count": 1,
+      "case_count": 2,
       "solution_count": 10,
       "facets": {
         "domains": [
@@ -735,7 +735,8 @@
           "vyacheslav-maletskiy"
         ],
         "cases": [
-          "bamboo-ppc-landing-pages"
+          "bamboo-ppc-landing-pages",
+          "supreme-hot-bot-international-ppc"
         ],
         "solutions": [
           "ai-visibility",
@@ -831,6 +832,7 @@
           "eu"
         ],
         "blog-posts": [
+          "analysis-of-search-demand",
           "how-ai-chooses-sources",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
@@ -3560,9 +3562,11 @@
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group",
+      "supreme-hot-bot-international-ppc": "International PPC Case Study",
       "alvadi": "ALVADI"
     },
     "blog-posts": {
+      "analysis-of-search-demand": "Search Query Analysis",
       "how-ai-chooses-sources": "How AI Chooses Sources",
       "seo-packages-comparison": "SEO Packages Compared",
       "why-seo-matters-in-2026": "Why SEO Matters In 2026"
