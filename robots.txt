@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /_blocks/
 Disallow: /_proposals/
-Disallow: /_data/admin/
+Disallow: /_data/
 
 Sitemap: https://onlinuum.com/sitemap.xml
 Sitemap: https://onlinuum.com/ru/sitemap.xml
