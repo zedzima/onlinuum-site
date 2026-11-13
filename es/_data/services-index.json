@@ -44,11 +44,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -73,12 +76,14 @@
       "language_count": 7,
       "domains": [
         "search-marketing",
-        "community-marketing"
+        "community-marketing",
+        "product-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -103,11 +108,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "positions": [
           "business-development-manager",
@@ -123,7 +131,7 @@
       "description": "Gestión SEM y PPC para búsqueda de pago, Shopping y remarketing, con campañas por mercado y precio cerrado. Empieza con PPC Starter desde 400 $/mes.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -139,7 +147,8 @@
         ],
         "scopes": [
           "ppc-audit",
-          "google-ads-search"
+          "google-ads-search",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -163,11 +172,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "positions": [
           "ppc-specialist",
@@ -222,11 +234,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -272,10 +287,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
@@ -287,7 +305,8 @@
     "domains": {
       "app-marketing": "Marketing de apps",
       "search-marketing": "Marketing en buscadores",
-      "community-marketing": "Marketing de comunidad"
+      "community-marketing": "Marketing de comunidad",
+      "product-marketing": "Marketing de producto"
     },
     "scopes": {
       "aso-optimization": "Posicionamiento de apps",
@@ -297,6 +316,7 @@
       "content-writing": "Redacción de contenidos",
       "ppc-audit": "Auditoría SEM",
       "google-ads-search": "Búsqueda en Google Ads",
+      "youtube-ads": "YouTube Ads",
       "technical-seo": "SEO técnico",
       "telegram-ads": "Telegram Ads"
     },
@@ -320,11 +340,14 @@
       "china": "China",
       "eu": "Unión Europea",
       "greece": "Grecia",
-      "israel": "Israel"
+      "israel": "Israel",
+      "japan": "Japón",
+      "netherlands": "Países Bajos"
     },
     "languages": {
       "english": "Inglés",
-      "spanish": "Español"
+      "spanish": "Español",
+      "italian": "Italiano"
     },
     "positions": {
       "aso-specialist": "ASO manager",

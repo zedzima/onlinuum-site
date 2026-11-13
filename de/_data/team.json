@@ -92,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -128,7 +129,9 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english"
@@ -172,11 +175,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -199,11 +204,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "italian"
         ]
       }
     }
@@ -211,6 +219,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Suchmaschinenmarketing",
+      "product-marketing": "Produktmarketing",
       "community-marketing": "Community-Marketing",
       "app-marketing": "App-Marketing"
     },
@@ -222,7 +231,8 @@
       "aso-optimization": "ASO-Optimierung",
       "content-strategy": "Content-Strategie",
       "ppc-audit": "Google Ads Audit",
-      "google-ads-search": "Google Ads Suchkampagnen"
+      "google-ads-search": "Google Ads Suchkampagnen",
+      "youtube-ads": "YouTube-Werbung"
     },
     "services": {
       "content": "Content-Marketing",
@@ -241,11 +251,14 @@
       "poland": "Polen",
       "china": "China",
       "greece": "Griechenland",
-      "israel": "Israel"
+      "israel": "Israel",
+      "japan": "Japan",
+      "netherlands": "Niederlande"
     },
     "languages": {
       "english": "Englisch",
-      "german": "Deutsch"
+      "german": "Deutsch",
+      "italian": "Italienisch"
     },
     "positions": {
       "seo-expert": "SEO Manager"

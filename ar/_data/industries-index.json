@@ -8,7 +8,7 @@
       "menu": "التجارة الإلكترونية",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -16,6 +16,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -29,7 +30,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -56,11 +58,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -85,7 +90,7 @@
       "menu": "التكنولوجيا المالية",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -93,6 +98,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -106,7 +112,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "vitali-bakun",
@@ -128,11 +135,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -157,7 +167,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -165,6 +175,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -178,7 +189,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -205,11 +217,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -230,6 +245,7 @@
   "labels": {
     "domains": {
       "search-marketing": "التسويق عبر محركات البحث",
+      "product-marketing": "تسويق المنتجات",
       "community-marketing": "التسويق المجتمعي",
       "app-marketing": "تسويق التطبيقات"
     },
@@ -243,7 +259,8 @@
       "content-writing": "كتابة المحتوى",
       "google-ads-search": "إعلانات جوجل للبحث",
       "ppc-audit": "تدقيق PPC",
-      "telegram-ads": "إعلانات تليجرام"
+      "telegram-ads": "إعلانات تليجرام",
+      "youtube-ads": "YouTube Ads"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
@@ -271,11 +288,14 @@
       "eu": "الاتحاد الأوروبي",
       "greece": "اليونان",
       "israel": "إسرائيل",
+      "japan": "اليابان",
+      "netherlands": "هولندا",
       "uae": "الإمارات"
     },
     "languages": {
       "english": "الإنجليزية",
-      "arabic": "العربية"
+      "arabic": "العربية",
+      "italian": "الإيطالية"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",

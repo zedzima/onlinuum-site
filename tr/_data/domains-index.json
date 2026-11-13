@@ -38,10 +38,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -87,13 +90,68 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "product-marketing",
+      "url": "/domains/product-marketing",
+      "title": "Ürün Pazarlaması: Konumlandırma ve Mesaj Stratejisi",
+      "description": "Daha net konumlandırma, rekabet çerçevesi ve pazara çıkış için ürün pazarlaması hizmetleri: mesaj, araştırma, ürün lansmanı. Hemen başlayın.",
+      "menu": "Ürün Pazarlaması",
+      "featured": true,
+      "icon": "compass",
+      "service_count": 1,
+      "scope_count": 3,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "turkish"
         ]
       }
     },
@@ -148,10 +206,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "blog-posts": [
@@ -175,10 +236,10 @@
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO Araştırması",
       "content-strategy": "İçerik Stratejisi",
+      "content-writing": "İçerik Yazarlığı",
       "technical-seo": "Teknik SEO",
       "ppc-audit": "Reklam Analizi",
-      "google-ads-search": "Google Ads Arama Ağı",
-      "content-writing": "İçerik Yazarlığı"
+      "google-ads-search": "Google Ads Arama Ağı"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -207,10 +268,13 @@
       "eu": "Avrupa Birliği",
       "greece": "Yunanistan",
       "israel": "İsrail",
+      "japan": "Japonya",
+      "netherlands": "Hollanda",
       "turkey": "Türkiye"
     },
     "languages": {
       "english": "İngilizce",
+      "italian": "İtalyanca",
       "turkish": "Türkçe"
     },
     "positions": {

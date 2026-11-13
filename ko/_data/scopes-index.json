@@ -35,10 +35,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -85,10 +88,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -136,10 +142,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -165,7 +174,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -215,7 +225,8 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "services": [
           "content",
@@ -345,7 +356,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -370,10 +382,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -427,10 +442,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -483,13 +501,56 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "유튜브 광고 운영 대행: 캠페인 설계, 타기팅, 리포트",
+      "description": "유튜브 광고 대행: 캠페인 구축, 오디언스 타기팅, 크리에이티브 전략, 리포트. 초기 구축 $400부터이며 유튜브 광고 비용은 아래에서 확인하실 수 있습니다.",
+      "menu": "유튜브 광고",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "앱 마케팅",
       "search-marketing": "검색엔진 마케팅",
-      "community-marketing": "커뮤니티 마케팅"
+      "community-marketing": "커뮤니티 마케팅",
+      "product-marketing": "프로덕트 마케팅"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -511,10 +572,13 @@
       "eu": "유럽연합",
       "greece": "그리스",
       "israel": "이스라엘",
+      "japan": "일본",
+      "netherlands": "네덜란드",
       "south-korea": "대한민국"
     },
     "languages": {
-      "english": "영어"
+      "english": "영어",
+      "italian": "이탈리아어"
     },
     "positions": {
       "aso-specialist": "ASO 전문가",

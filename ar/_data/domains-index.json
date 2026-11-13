@@ -39,10 +39,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -89,13 +92,68 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "product-marketing",
+      "url": "/domains/product-marketing",
+      "title": "تسويق المنتجات: التموضع والرسالة التسويقية",
+      "description": "خدمات تسويق المنتجات لتموضع أوضح وتأطير تنافسي أقوى وتنفيذ go to market strategy: الرسائل والأبحاث والإطلاق. ابدأوا الآن.",
+      "menu": "تسويق المنتجات",
+      "featured": true,
+      "icon": "compass",
+      "service_count": 1,
+      "scope_count": 3,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "italian"
         ]
       }
     },
@@ -150,11 +208,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -177,10 +238,10 @@
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
+      "content-writing": "كتابة المحتوى",
       "technical-seo": "السيو التقني",
       "ppc-audit": "تدقيق PPC",
-      "google-ads-search": "إعلانات جوجل للبحث",
-      "content-writing": "كتابة المحتوى"
+      "google-ads-search": "إعلانات جوجل للبحث"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
@@ -209,10 +270,13 @@
       "eu": "الاتحاد الأوروبي",
       "greece": "اليونان",
       "israel": "إسرائيل",
+      "japan": "اليابان",
+      "netherlands": "هولندا",
       "uae": "الإمارات"
     },
     "languages": {
       "english": "الإنجليزية",
+      "italian": "الإيطالية",
       "arabic": "العربية"
     },
     "positions": {

@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -79,6 +80,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -116,6 +118,7 @@
         ],
         "languages": [
           "english",
+          "italian",
           "dutch"
         ],
         "positions": [
@@ -145,6 +148,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -205,6 +209,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -245,6 +250,65 @@
       }
     },
     {
+      "slug": "japan",
+      "url": "/countries/japan",
+      "title": "Online marketing voor de Japanse markt",
+      "description": "Online marketing voor de Japanse markt, voor internationale merken: vaste dienstpakketten met Japanstalige specialisten. Ga aan de slag.",
+      "menu": "Japan",
+      "featured": false,
+      "flag": "🇯🇵",
+      "population_total": "123M",
+      "population_total_raw": 123202000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "Japans",
+      "dominant_language_code": "ja",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "netherlands",
       "url": "/countries/netherlands",
       "title": "Online Marketing Bureau Nederland: Meertalig Team",
@@ -266,6 +330,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -321,7 +386,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Pools",
       "dominant_language_code": "pl",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -330,6 +395,7 @@
         "domains": [
           "search-marketing",
           "community-marketing",
+          "product-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -341,7 +407,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -383,6 +450,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Zoekmachinemarketing",
+      "product-marketing": "Productmarketing",
       "community-marketing": "Community marketing",
       "app-marketing": "App marketing"
     },
@@ -395,7 +463,8 @@
       "content-strategy": "Contentstrategie",
       "google-ads-search": "Google Ads-zoekcampagnes",
       "ppc-audit": "SEA-audit",
-      "telegram-ads": "Telegram Ads-beheer"
+      "telegram-ads": "Telegram Ads-beheer",
+      "youtube-ads": "YouTube Ads-beheer"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -421,8 +490,8 @@
     "positions": {
       "seo-expert": "SEO-specialist",
       "social-media-manager": "Social media manager",
-      "business-development-manager": "Business development manager",
       "marketing-consultant": "Marketing consultant",
+      "business-development-manager": "Business development manager",
       "aso-specialist": "ASO-specialist",
       "ppc-specialist": "SEA-specialist"
     },
@@ -432,6 +501,7 @@
     },
     "languages": {
       "english": "Engels",
+      "italian": "Italiaans",
       "dutch": "Nederlands"
     },
     "blog-posts": {

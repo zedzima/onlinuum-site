@@ -163,11 +163,13 @@
           "fintech"
         ],
         "countries": [
-          "spain"
+          "spain",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ]
       },
       "services": [
@@ -270,10 +272,13 @@
         ],
         "countries": [
           "spain",
-          "poland"
+          "netherlands",
+          "poland",
+          "japan"
         ],
         "languages": [
           "spanish",
+          "italian",
           "english"
         ]
       },
@@ -373,6 +378,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "youtube-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -495,11 +501,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -667,6 +676,7 @@
       "telegram-ads": "Telegram Ads",
       "ppc-audit": "Auditoría SEM",
       "google-ads-search": "Búsqueda en Google Ads",
+      "youtube-ads": "YouTube Ads",
       "technical-seo": "SEO técnico"
     },
     "solutions": {
@@ -688,6 +698,8 @@
     "countries": {
       "poland": "Polonia",
       "spain": "España",
+      "netherlands": "Países Bajos",
+      "japan": "Japón",
       "china": "China",
       "eu": "Unión Europea",
       "greece": "Grecia",
@@ -695,7 +707,8 @@
     },
     "languages": {
       "english": "Inglés",
-      "spanish": "Español"
+      "spanish": "Español",
+      "italian": "Italiano"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

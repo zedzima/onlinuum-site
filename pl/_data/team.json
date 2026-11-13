@@ -92,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -127,7 +128,9 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english"
@@ -171,11 +174,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -197,10 +202,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ]
       }
     }
@@ -208,6 +216,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing w wyszukiwarkach",
+      "product-marketing": "Marketing produktu",
       "community-marketing": "Marketing społecznościowy",
       "app-marketing": "Marketing aplikacji"
     },
@@ -219,7 +228,8 @@
       "aso-optimization": "Optymalizacja aplikacji",
       "content-strategy": "Strategia treści",
       "ppc-audit": "Audyt Google Ads",
-      "google-ads-search": "Reklama w Google"
+      "google-ads-search": "Reklama w Google",
+      "youtube-ads": "YouTube Ads"
     },
     "services": {
       "content": "Content marketing",
@@ -237,10 +247,13 @@
       "poland": "Polska",
       "china": "Chiny",
       "greece": "Grecja",
-      "israel": "Izrael"
+      "israel": "Izrael",
+      "japan": "Japonia",
+      "netherlands": "Holandia"
     },
     "languages": {
-      "english": "Angielski"
+      "english": "Angielski",
+      "italian": "Włoski"
     },
     "positions": {
       "seo-expert": "Specjalista SEO"

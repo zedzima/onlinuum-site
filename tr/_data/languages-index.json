@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -35,7 +36,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -62,6 +64,7 @@
           "fintech"
         ],
         "countries": [
+          "netherlands",
           "turkey",
           "poland",
           "israel",
@@ -80,6 +83,68 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "italian",
+      "url": "/languages/italian",
+      "title": "İtalyan Pazarı İçin İtalyanca Dijital Pazarlama",
+      "description": "İtalya ve İtalyanca konuşulan pazarlara giren markalar için İtalyanca pazarlama: anadil uzmanlar, paketlenmiş teslimat. Hizmetleri inceleyin.",
+      "menu": "İtalyanca",
+      "featured": false,
+      "flag": "",
+      "code": "IT",
+      "native_speakers_l1": "68.5M",
+      "market_speakers_display": "68.5M",
+      "market_speakers_est": 68523540,
+      "market_country_count": 9,
+      "official_countries_count": 9,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -104,7 +169,8 @@
       "solution_count": 2,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -131,6 +197,7 @@
         ],
         "countries": [
           "turkey",
+          "netherlands",
           "greece"
         ],
         "positions": [
@@ -144,6 +211,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Arama Motoru Pazarlaması",
+      "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
       "app-marketing": "Mobil Uygulama Pazarlama"
     },
@@ -157,7 +225,8 @@
       "content-writing": "İçerik Yazarlığı",
       "google-ads-search": "Google Ads Arama Ağı",
       "ppc-audit": "Reklam Analizi",
-      "telegram-ads": "Telegram Reklamları"
+      "telegram-ads": "Telegram Reklamları",
+      "youtube-ads": "YouTube Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -184,6 +253,7 @@
       "fintech": "Fintech ve Bankacılık"
     },
     "countries": {
+      "netherlands": "Hollanda",
       "turkey": "Türkiye",
       "poland": "Polonya",
       "israel": "İsrail",

@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -35,7 +36,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -63,6 +65,7 @@
         ],
         "countries": [
           "italy",
+          "netherlands",
           "poland",
           "israel",
           "greece",
@@ -105,6 +108,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -149,6 +153,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Search marketing",
+      "product-marketing": "Marketing di prodotto",
       "community-marketing": "Marketing della community",
       "app-marketing": "Marketing per app"
     },
@@ -162,7 +167,8 @@
       "content-writing": "Creazione contenuti",
       "google-ads-search": "Campagne Google Ads",
       "ppc-audit": "Audit PPC",
-      "telegram-ads": "Campagne Telegram Ads"
+      "telegram-ads": "Campagne Telegram Ads",
+      "youtube-ads": "Campagne YouTube Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -190,6 +196,7 @@
     },
     "countries": {
       "italy": "Italia",
+      "netherlands": "Paesi Bassi",
       "poland": "Polonia",
       "israel": "Israele",
       "greece": "Grecia",

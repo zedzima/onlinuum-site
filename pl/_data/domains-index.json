@@ -38,11 +38,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "polish"
+          "polish",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -88,14 +91,68 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "polish"
+          "polish",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "product-marketing",
+      "url": "/domains/product-marketing",
+      "title": "Marketing produktu: pozycjonowanie i komunikacja oferty",
+      "description": "Marketing produktu: propozycja wartości, przewaga nad konkurencją i strategia go to market, od badań po premierę. Zacznij od rozmowy.",
+      "menu": "Marketing produktu",
+      "featured": true,
+      "icon": "compass",
+      "service_count": 1,
+      "scope_count": 3,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "polish",
+          "italian"
         ]
       }
     },
@@ -149,11 +206,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "polish"
+          "polish",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -176,10 +236,10 @@
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "Analiza SEO",
       "content-strategy": "Strategia treści",
+      "content-writing": "Copywriting SEO",
       "technical-seo": "SEO techniczne",
       "ppc-audit": "Audyt Google Ads",
-      "google-ads-search": "Reklama w Google",
-      "content-writing": "Copywriting SEO"
+      "google-ads-search": "Reklama w Google"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -207,11 +267,14 @@
       "china": "Chiny",
       "eu": "Unia Europejska",
       "greece": "Grecja",
-      "israel": "Izrael"
+      "israel": "Izrael",
+      "japan": "Japonia",
+      "netherlands": "Holandia"
     },
     "languages": {
       "english": "Angielski",
-      "polish": "Polski"
+      "polish": "Polski",
+      "italian": "Włoski"
     },
     "positions": {
       "aso-specialist": "Specjalista ASO",

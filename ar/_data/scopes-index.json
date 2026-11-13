@@ -35,10 +35,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -85,11 +88,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -137,10 +143,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -166,7 +175,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -216,7 +226,8 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "services": [
           "content",
@@ -350,7 +361,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -375,11 +387,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -433,11 +448,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -490,13 +508,56 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "إدارة YouTube Ads: الاستهداف والمواد الإبداعية",
+      "description": "إدارة YouTube Ads: إعداد الحملات، واستهداف الجمهور، واستراتيجية المواد الإبداعية، والتقارير. الإعداد من $400. اطلعوا على الأسعار.",
+      "menu": "YouTube Ads",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "تسويق التطبيقات",
       "search-marketing": "التسويق عبر محركات البحث",
-      "community-marketing": "التسويق المجتمعي"
+      "community-marketing": "التسويق المجتمعي",
+      "product-marketing": "تسويق المنتجات"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
@@ -518,10 +579,13 @@
       "eu": "الاتحاد الأوروبي",
       "greece": "اليونان",
       "israel": "إسرائيل",
+      "japan": "اليابان",
+      "netherlands": "هولندا",
       "uae": "الإمارات"
     },
     "languages": {
       "english": "الإنجليزية",
+      "italian": "الإيطالية",
       "arabic": "العربية"
     },
     "positions": {

@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -35,7 +36,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -62,6 +64,7 @@
           "fintech"
         ],
         "countries": [
+          "netherlands",
           "poland",
           "israel",
           "greece",
@@ -109,11 +112,74 @@
           "seo-expert"
         ]
       }
+    },
+    {
+      "slug": "italian",
+      "url": "/languages/italian",
+      "title": "עסקים באיטליה: שיווק באיטלקית עם מומחים ילידיים",
+      "description": "שיווק באיטלקית למותגים שעושים עסקים באיטליה ובשווקים דוברי איטלקית: מומחים ילידיים ושירותים מוצריים. גלו את השירותים.",
+      "menu": "איטלקית",
+      "featured": false,
+      "flag": "",
+      "code": "IT",
+      "native_speakers_l1": "68.5M",
+      "market_speakers_display": "68.5M",
+      "market_speakers_est": 68523540,
+      "market_country_count": 9,
+      "official_countries_count": 9,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "שיווק במנועי חיפוש",
+      "product-marketing": "שיווק מוצר",
       "community-marketing": "ניהול קהילה",
       "app-marketing": "שיווק אפליקציות"
     },
@@ -127,7 +193,8 @@
       "content-writing": "כתיבת תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
       "ppc-audit": "אודיט PPC",
-      "telegram-ads": "פרסום בטלגרם"
+      "telegram-ads": "פרסום בטלגרם",
+      "youtube-ads": "פרסום ביוטיוב"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
@@ -154,6 +221,7 @@
       "fintech": "פינטק"
     },
     "countries": {
+      "netherlands": "הולנד",
       "poland": "פולין",
       "israel": "ישראל",
       "greece": "יוון",

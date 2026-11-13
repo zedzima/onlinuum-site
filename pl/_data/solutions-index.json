@@ -15,6 +15,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -27,7 +28,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -49,11 +51,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "polish"
+          "polish",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources"
@@ -83,7 +88,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -106,11 +112,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "polish"
+          "polish",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -126,6 +135,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing w wyszukiwarkach",
+      "product-marketing": "Marketing produktu",
       "community-marketing": "Marketing społecznościowy",
       "app-marketing": "Marketing aplikacji"
     },
@@ -138,7 +148,8 @@
       "content-strategy": "Strategia treści",
       "google-ads-search": "Reklama w Google",
       "ppc-audit": "Audyt Google Ads",
-      "telegram-ads": "Reklama na Telegramie"
+      "telegram-ads": "Reklama na Telegramie",
+      "youtube-ads": "YouTube Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -160,11 +171,14 @@
       "china": "Chiny",
       "eu": "Unia Europejska",
       "greece": "Grecja",
-      "israel": "Izrael"
+      "israel": "Izrael",
+      "japan": "Japonia",
+      "netherlands": "Holandia"
     },
     "languages": {
       "english": "Angielski",
-      "polish": "Polski"
+      "polish": "Polski",
+      "italian": "Włoski"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Jak AI wybiera źródła",

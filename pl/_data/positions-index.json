@@ -161,8 +161,12 @@
           "ecommerce",
           "fintech"
         ],
+        "countries": [
+          "netherlands"
+        ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ]
       },
       "services": [
@@ -264,9 +268,12 @@
           "fintech"
         ],
         "countries": [
-          "poland"
+          "netherlands",
+          "poland",
+          "japan"
         ],
         "languages": [
+          "italian",
           "polish",
           "english"
         ]
@@ -367,6 +374,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "youtube-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -486,11 +494,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "polish"
+          "polish",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -657,6 +668,7 @@
       "telegram-ads": "Reklama na Telegramie",
       "ppc-audit": "Audyt Google Ads",
       "google-ads-search": "Reklama w Google",
+      "youtube-ads": "YouTube Ads",
       "technical-seo": "SEO techniczne"
     },
     "solutions": {
@@ -677,6 +689,8 @@
     },
     "countries": {
       "poland": "Polska",
+      "netherlands": "Holandia",
+      "japan": "Japonia",
       "china": "Chiny",
       "eu": "Unia Europejska",
       "greece": "Grecja",
@@ -684,7 +698,8 @@
     },
     "languages": {
       "english": "Angielski",
-      "polish": "Polski"
+      "polish": "Polski",
+      "italian": "Włoski"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

@@ -15,6 +15,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -27,7 +28,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -50,10 +52,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources"
@@ -83,7 +88,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -107,10 +113,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -126,6 +135,7 @@
   "labels": {
     "domains": {
       "search-marketing": "검색엔진 마케팅",
+      "product-marketing": "프로덕트 마케팅",
       "community-marketing": "커뮤니티 마케팅",
       "app-marketing": "앱 마케팅"
     },
@@ -138,7 +148,8 @@
       "content-strategy": "콘텐츠 기획",
       "google-ads-search": "구글 검색광고",
       "ppc-audit": "광고 성과 분석",
-      "telegram-ads": "텔레그램 광고"
+      "telegram-ads": "텔레그램 광고",
+      "youtube-ads": "유튜브 광고"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -161,10 +172,13 @@
       "eu": "유럽연합",
       "greece": "그리스",
       "israel": "이스라엘",
+      "japan": "일본",
+      "netherlands": "네덜란드",
       "south-korea": "대한민국"
     },
     "languages": {
-      "english": "영어"
+      "english": "영어",
+      "italian": "이탈리아어"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AI가 출처를 고르는 방식",

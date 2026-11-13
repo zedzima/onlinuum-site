@@ -44,10 +44,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -72,12 +75,14 @@
       "language_count": 7,
       "domains": [
         "search-marketing",
-        "community-marketing"
+        "community-marketing",
+        "product-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -102,11 +107,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "positions": [
           "business-development-manager",
@@ -122,7 +130,7 @@
       "description": "الإعلانات الممولة للبحث والتسوق وإعادة الاستهداف، بحملات لكل سوق وسعر معلن. ابدأوا بباقة PPC Starter من $400 شهريًا.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -138,7 +146,8 @@
         ],
         "scopes": [
           "ppc-audit",
-          "google-ads-search"
+          "google-ads-search",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -162,11 +171,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "positions": [
           "ppc-specialist",
@@ -221,11 +233,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -272,11 +287,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
@@ -288,7 +306,8 @@
     "domains": {
       "app-marketing": "تسويق التطبيقات",
       "search-marketing": "التسويق عبر محركات البحث",
-      "community-marketing": "التسويق المجتمعي"
+      "community-marketing": "التسويق المجتمعي",
+      "product-marketing": "تسويق المنتجات"
     },
     "scopes": {
       "aso-optimization": "تحسين ASO",
@@ -298,6 +317,7 @@
       "content-writing": "كتابة المحتوى",
       "ppc-audit": "تدقيق PPC",
       "google-ads-search": "إعلانات جوجل للبحث",
+      "youtube-ads": "YouTube Ads",
       "technical-seo": "السيو التقني",
       "telegram-ads": "إعلانات تليجرام"
     },
@@ -321,10 +341,13 @@
       "eu": "الاتحاد الأوروبي",
       "greece": "اليونان",
       "israel": "إسرائيل",
+      "japan": "اليابان",
+      "netherlands": "هولندا",
       "uae": "الإمارات"
     },
     "languages": {
       "english": "الإنجليزية",
+      "italian": "الإيطالية",
       "arabic": "العربية"
     },
     "positions": {

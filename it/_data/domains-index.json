@@ -39,7 +39,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -90,7 +92,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -98,6 +102,57 @@
         ],
         "positions": [
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "product-marketing",
+      "url": "/domains/product-marketing",
+      "title": "Product Marketing: Posizionamento e Go to Market",
+      "description": "Product marketing per un posizionamento di prodotto più netto, un confronto competitivo chiaro e una strategia go to market: messaggi, ricerca, lancio.",
+      "menu": "Marketing di prodotto",
+      "featured": true,
+      "icon": "compass",
+      "service_count": 1,
+      "scope_count": 3,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ]
       }
     },
@@ -152,7 +207,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -179,10 +236,10 @@
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "Ricerca SEO",
       "content-strategy": "Content strategy",
+      "content-writing": "Creazione contenuti",
       "technical-seo": "SEO tecnica",
       "ppc-audit": "Audit PPC",
-      "google-ads-search": "Campagne Google Ads",
-      "content-writing": "Creazione contenuti"
+      "google-ads-search": "Campagne Google Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -211,7 +268,9 @@
       "eu": "Unione Europea",
       "greece": "Grecia",
       "israel": "Israele",
-      "italy": "Italia"
+      "italy": "Italia",
+      "japan": "Giappone",
+      "netherlands": "Paesi Bassi"
     },
     "languages": {
       "english": "Inglese",

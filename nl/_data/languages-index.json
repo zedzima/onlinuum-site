@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -76,7 +77,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -84,6 +85,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -97,7 +99,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -144,11 +147,74 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "italian",
+      "url": "/languages/italian",
+      "title": "Italiaanse teksten en marketing voor de Italiaanse markt",
+      "description": "Italiaanstalige marketing voor merken die Italië en Italiaanstalige markten betreden: Italiaanse teksten door native specialisten, vaste pakketten.",
+      "menu": "Italiaans",
+      "featured": false,
+      "flag": "",
+      "code": "IT",
+      "native_speakers_l1": "68.5M",
+      "market_speakers_display": "68.5M",
+      "market_speakers_est": 68523540,
+      "market_country_count": 9,
+      "official_countries_count": 9,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "Zoekmachinemarketing",
+      "product-marketing": "Productmarketing",
       "community-marketing": "Community marketing",
       "app-marketing": "App marketing"
     },
@@ -162,7 +228,8 @@
       "content-writing": "Teksten schrijven",
       "google-ads-search": "Google Ads-zoekcampagnes",
       "ppc-audit": "SEA-audit",
-      "telegram-ads": "Telegram Ads-beheer"
+      "telegram-ads": "Telegram Ads-beheer",
+      "youtube-ads": "YouTube Ads-beheer"
     },
     "experts": {
       "vitali-bakun": "Vitali Bakun",

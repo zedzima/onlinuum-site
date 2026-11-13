@@ -15,6 +15,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -27,7 +28,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -50,10 +52,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources"
@@ -83,7 +87,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -107,10 +112,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -126,6 +133,7 @@
   "labels": {
     "domains": {
       "search-marketing": "検索マーケティング",
+      "product-marketing": "プロダクトマーケティング",
       "community-marketing": "コミュニティマーケティング",
       "app-marketing": "アプリマーケティング"
     },
@@ -138,7 +146,8 @@
       "content-strategy": "コンテンツ戦略",
       "google-ads-search": "Google広告・検索広告",
       "ppc-audit": "広告アカウント診断",
-      "telegram-ads": "Telegram Ads"
+      "telegram-ads": "Telegram Ads",
+      "youtube-ads": "YouTube広告"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
@@ -161,10 +170,12 @@
       "eu": "欧州連合",
       "greece": "ギリシャ",
       "israel": "イスラエル",
-      "japan": "日本"
+      "japan": "日本",
+      "netherlands": "オランダ"
     },
     "languages": {
-      "english": "英語"
+      "english": "英語",
+      "italian": "イタリア語"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AIが引用先を選ぶ基準",

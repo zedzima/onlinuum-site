@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -35,7 +36,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -63,6 +65,7 @@
         ],
         "countries": [
           "germany",
+          "netherlands",
           "poland",
           "israel",
           "greece",
@@ -97,7 +100,7 @@
       "market_speakers_est": 138313919,
       "market_country_count": 22,
       "official_countries_count": 22,
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -105,6 +108,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -118,7 +122,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "vitali-bakun"
@@ -141,6 +146,7 @@
         ],
         "countries": [
           "germany",
+          "netherlands",
           "poland",
           "greece",
           "eu"
@@ -159,11 +165,75 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "italian",
+      "url": "/languages/italian",
+      "title": "Marketing und Texte auf Italienisch von Muttersprachlern",
+      "description": "Marketing und Texte auf Italienisch für Marken, die nach Italien und ins Tessin expandieren: Muttersprachler, feste Leistungspakete. Leistungen entdecken.",
+      "menu": "Italienisch",
+      "featured": false,
+      "flag": "",
+      "code": "IT",
+      "native_speakers_l1": "68.5M",
+      "market_speakers_display": "68.5M",
+      "market_speakers_est": 68523540,
+      "market_country_count": 9,
+      "official_countries_count": 9,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "germany",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "Suchmaschinenmarketing",
+      "product-marketing": "Produktmarketing",
       "community-marketing": "Community-Marketing",
       "app-marketing": "App-Marketing"
     },
@@ -177,7 +247,8 @@
       "content-writing": "Texterstellung",
       "google-ads-search": "Google Ads Suchkampagnen",
       "ppc-audit": "Google Ads Audit",
-      "telegram-ads": "Telegram-Werbung"
+      "telegram-ads": "Telegram-Werbung",
+      "youtube-ads": "YouTube-Werbung"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -205,6 +276,7 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "netherlands": "Niederlande",
       "poland": "Polen",
       "israel": "Israel",
       "greece": "Griechenland",

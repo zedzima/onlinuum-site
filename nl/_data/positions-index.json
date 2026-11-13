@@ -165,6 +165,7 @@
         ],
         "languages": [
           "english",
+          "italian",
           "dutch"
         ]
       },
@@ -268,9 +269,11 @@
         ],
         "countries": [
           "netherlands",
-          "poland"
+          "poland",
+          "japan"
         ],
         "languages": [
+          "italian",
           "dutch",
           "english"
         ]
@@ -371,6 +374,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "youtube-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -491,11 +495,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -661,6 +667,7 @@
       "telegram-ads": "Telegram Ads-beheer",
       "ppc-audit": "SEA-audit",
       "google-ads-search": "Google Ads-zoekcampagnes",
+      "youtube-ads": "YouTube Ads-beheer",
       "technical-seo": "Technische SEO"
     },
     "solutions": {
@@ -682,6 +689,7 @@
     "countries": {
       "poland": "Polen",
       "netherlands": "Nederland",
+      "japan": "Japan",
       "china": "China",
       "eu": "Europese Unie",
       "greece": "Griekenland",
@@ -689,6 +697,7 @@
     },
     "languages": {
       "english": "Engels",
+      "italian": "Italiaans",
       "dutch": "Nederlands"
     },
     "experts": {

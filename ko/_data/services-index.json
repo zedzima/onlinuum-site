@@ -44,10 +44,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -72,12 +75,14 @@
       "language_count": 7,
       "domains": [
         "search-marketing",
-        "community-marketing"
+        "community-marketing",
+        "product-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -102,10 +107,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "business-development-manager",
@@ -121,7 +129,7 @@
       "description": "검색광고와 쇼핑, 리마케팅을 다루는 PPC 대행 서비스입니다. 시장별로 가격이 공개되며 PPC Starter는 $400/월부터 시작합니다.",
       "menu": "검색광고",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -137,7 +145,8 @@
         ],
         "scopes": [
           "ppc-audit",
-          "google-ads-search"
+          "google-ads-search",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -161,10 +170,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "ppc-specialist",
@@ -219,10 +231,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -269,10 +284,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
@@ -284,7 +302,8 @@
     "domains": {
       "app-marketing": "앱 마케팅",
       "search-marketing": "검색엔진 마케팅",
-      "community-marketing": "커뮤니티 마케팅"
+      "community-marketing": "커뮤니티 마케팅",
+      "product-marketing": "프로덕트 마케팅"
     },
     "scopes": {
       "aso-optimization": "ASO 최적화",
@@ -294,6 +313,7 @@
       "content-writing": "블로그 대행",
       "ppc-audit": "광고 성과 분석",
       "google-ads-search": "구글 검색광고",
+      "youtube-ads": "유튜브 광고",
       "technical-seo": "테크니컬 SEO",
       "telegram-ads": "텔레그램 광고"
     },
@@ -317,10 +337,13 @@
       "eu": "유럽연합",
       "greece": "그리스",
       "israel": "이스라엘",
+      "japan": "일본",
+      "netherlands": "네덜란드",
       "south-korea": "대한민국"
     },
     "languages": {
-      "english": "영어"
+      "english": "영어",
+      "italian": "이탈리아어"
     },
     "positions": {
       "aso-specialist": "ASO 전문가",

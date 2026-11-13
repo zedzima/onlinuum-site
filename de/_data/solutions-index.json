@@ -15,6 +15,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -27,7 +28,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -50,11 +52,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources"
@@ -84,7 +89,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -108,11 +114,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -128,6 +137,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Suchmaschinenmarketing",
+      "product-marketing": "Produktmarketing",
       "community-marketing": "Community-Marketing",
       "app-marketing": "App-Marketing"
     },
@@ -140,7 +150,8 @@
       "content-strategy": "Content-Strategie",
       "google-ads-search": "Google Ads Suchkampagnen",
       "ppc-audit": "Google Ads Audit",
-      "telegram-ads": "Telegram-Werbung"
+      "telegram-ads": "Telegram-Werbung",
+      "youtube-ads": "YouTube-Werbung"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -163,11 +174,14 @@
       "china": "China",
       "eu": "Europäische Union",
       "greece": "Griechenland",
-      "israel": "Israel"
+      "israel": "Israel",
+      "japan": "Japan",
+      "netherlands": "Niederlande"
     },
     "languages": {
       "english": "Englisch",
-      "german": "Deutsch"
+      "german": "Deutsch",
+      "italian": "Italienisch"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Wie KI Quellen wählt",

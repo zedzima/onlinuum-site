@@ -8,7 +8,7 @@
       "menu": "EC",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -16,6 +16,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -29,7 +30,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -56,10 +58,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -84,7 +88,7 @@
       "menu": "フィンテック",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -92,6 +96,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -105,7 +110,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "vitali-bakun",
@@ -127,10 +133,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -155,7 +163,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -163,6 +171,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -176,7 +185,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -203,10 +213,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -227,6 +239,7 @@
   "labels": {
     "domains": {
       "search-marketing": "検索マーケティング",
+      "product-marketing": "プロダクトマーケティング",
       "community-marketing": "コミュニティマーケティング",
       "app-marketing": "アプリマーケティング"
     },
@@ -240,7 +253,8 @@
       "content-writing": "記事作成代行",
       "google-ads-search": "Google広告・検索広告",
       "ppc-audit": "広告アカウント診断",
-      "telegram-ads": "Telegram Ads"
+      "telegram-ads": "Telegram Ads",
+      "youtube-ads": "YouTube広告"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
@@ -268,10 +282,12 @@
       "eu": "欧州連合",
       "greece": "ギリシャ",
       "israel": "イスラエル",
-      "japan": "日本"
+      "japan": "日本",
+      "netherlands": "オランダ"
     },
     "languages": {
-      "english": "英語"
+      "english": "英語",
+      "italian": "イタリア語"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AIが引用先を選ぶ基準",

@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -79,6 +80,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -116,7 +118,8 @@
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "italian"
         ],
         "positions": [
           "seo-expert"
@@ -137,7 +140,7 @@
       "significant_languages_count": 9,
       "dominant_language_name": "Deutsch",
       "dominant_language_code": "de",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -145,6 +148,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -158,7 +162,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -182,7 +187,8 @@
         ],
         "languages": [
           "german",
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -221,6 +227,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -282,6 +289,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -322,6 +330,129 @@
       }
     },
     {
+      "slug": "japan",
+      "url": "/countries/japan",
+      "title": "Online Marketing Japan: Yahoo, Google und LINE",
+      "description": "Online-Marketing in Japan für internationale Marken: feste Leistungspakete mit japanischen Muttersprachlern für Yahoo, Google und LINE. Jetzt starten.",
+      "menu": "Japan",
+      "featured": false,
+      "flag": "🇯🇵",
+      "population_total": "123M",
+      "population_total_raw": 123202000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "Japanisch",
+      "dominant_language_code": "ja",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "netherlands",
+      "url": "/countries/netherlands",
+      "title": "Marketing Agentur Niederlande für internationale Marken",
+      "description": "Marketing Agentur für die Niederlande: feste Leistungspakete mit niederländischen Muttersprachlern für internationale Marken. Jetzt starten.",
+      "menu": "Niederlande",
+      "featured": false,
+      "flag": "🇳🇱",
+      "population_total": "17.8M",
+      "population_total_raw": 17772400,
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "Niederländisch",
+      "dominant_language_code": "nl",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "poland",
       "url": "/countries/poland",
       "title": "Online Marketing Polen: SEO, Ads und Digital PR",
@@ -335,7 +466,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Polnisch",
       "dominant_language_code": "pl",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -344,6 +475,7 @@
         "domains": [
           "search-marketing",
           "community-marketing",
+          "product-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -355,7 +487,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -398,6 +531,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Suchmaschinenmarketing",
+      "product-marketing": "Produktmarketing",
       "community-marketing": "Community-Marketing",
       "app-marketing": "App-Marketing"
     },
@@ -411,7 +545,8 @@
       "content-writing": "Texterstellung",
       "google-ads-search": "Google Ads Suchkampagnen",
       "ppc-audit": "Google Ads Audit",
-      "telegram-ads": "Telegram-Werbung"
+      "telegram-ads": "Telegram-Werbung",
+      "youtube-ads": "YouTube-Werbung"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -448,7 +583,8 @@
     },
     "languages": {
       "english": "Englisch",
-      "german": "Deutsch"
+      "german": "Deutsch",
+      "italian": "Italienisch"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Wie KI Quellen wählt",

@@ -15,6 +15,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -27,7 +28,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -50,7 +52,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -84,7 +88,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -108,7 +113,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -128,6 +135,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Search marketing",
+      "product-marketing": "Marketing di prodotto",
       "community-marketing": "Marketing della community",
       "app-marketing": "Marketing per app"
     },
@@ -140,7 +148,8 @@
       "content-strategy": "Content strategy",
       "google-ads-search": "Campagne Google Ads",
       "ppc-audit": "Audit PPC",
-      "telegram-ads": "Campagne Telegram Ads"
+      "telegram-ads": "Campagne Telegram Ads",
+      "youtube-ads": "Campagne YouTube Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -163,7 +172,9 @@
       "eu": "Unione Europea",
       "greece": "Grecia",
       "israel": "Israele",
-      "italy": "Italia"
+      "italy": "Italia",
+      "japan": "Giappone",
+      "netherlands": "Paesi Bassi"
     },
     "languages": {
       "english": "Inglese",

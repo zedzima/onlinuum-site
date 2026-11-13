@@ -92,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -127,7 +128,9 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english"
@@ -171,11 +174,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -197,10 +202,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ]
       }
     }
@@ -208,6 +216,7 @@
   "labels": {
     "domains": {
       "search-marketing": "שיווק במנועי חיפוש",
+      "product-marketing": "שיווק מוצר",
       "community-marketing": "ניהול קהילה",
       "app-marketing": "שיווק אפליקציות"
     },
@@ -219,7 +228,8 @@
       "aso-optimization": "אופטימיזציית ASO",
       "content-strategy": "אסטרטגיית תוכן",
       "ppc-audit": "אודיט PPC",
-      "google-ads-search": "קמפיין חיפוש בגוגל"
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "youtube-ads": "פרסום ביוטיוב"
     },
     "services": {
       "content": "שיווק תוכן",
@@ -237,10 +247,13 @@
       "poland": "פולין",
       "china": "סין",
       "greece": "יוון",
-      "israel": "ישראל"
+      "israel": "ישראל",
+      "japan": "יפן",
+      "netherlands": "הולנד"
     },
     "languages": {
-      "english": "אנגלית"
+      "english": "אנגלית",
+      "italian": "איטלקית"
     },
     "positions": {
       "seo-expert": "מומחה קידום אתרים"

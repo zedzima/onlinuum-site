@@ -92,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -128,6 +129,8 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
@@ -172,11 +175,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -198,10 +203,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ]
       }
     }
@@ -209,6 +217,7 @@
   "labels": {
     "domains": {
       "search-marketing": "التسويق عبر محركات البحث",
+      "product-marketing": "تسويق المنتجات",
       "community-marketing": "التسويق المجتمعي",
       "app-marketing": "تسويق التطبيقات"
     },
@@ -220,7 +229,8 @@
       "aso-optimization": "تحسين ASO",
       "content-strategy": "استراتيجية المحتوى",
       "ppc-audit": "تدقيق PPC",
-      "google-ads-search": "إعلانات جوجل للبحث"
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "youtube-ads": "YouTube Ads"
     },
     "services": {
       "content": "التسويق بالمحتوى",
@@ -239,10 +249,13 @@
       "china": "الصين",
       "greece": "اليونان",
       "israel": "إسرائيل",
+      "japan": "اليابان",
+      "netherlands": "هولندا",
       "uae": "الإمارات"
     },
     "languages": {
-      "english": "الإنجليزية"
+      "english": "الإنجليزية",
+      "italian": "الإيطالية"
     },
     "positions": {
       "seo-expert": "خبير SEO"

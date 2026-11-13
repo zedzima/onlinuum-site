@@ -92,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -128,7 +129,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english"
@@ -172,11 +175,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -199,7 +204,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -211,6 +218,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Search marketing",
+      "product-marketing": "Marketing di prodotto",
       "community-marketing": "Marketing della community",
       "app-marketing": "Marketing per app"
     },
@@ -222,7 +230,8 @@
       "aso-optimization": "Ottimizzazione ASO",
       "content-strategy": "Content strategy",
       "ppc-audit": "Audit PPC",
-      "google-ads-search": "Campagne Google Ads"
+      "google-ads-search": "Campagne Google Ads",
+      "youtube-ads": "Campagne YouTube Ads"
     },
     "services": {
       "content": "Content marketing",
@@ -241,7 +250,9 @@
       "china": "Cina",
       "greece": "Grecia",
       "israel": "Israele",
-      "italy": "Italia"
+      "italy": "Italia",
+      "japan": "Giappone",
+      "netherlands": "Paesi Bassi"
     },
     "languages": {
       "english": "Inglese",

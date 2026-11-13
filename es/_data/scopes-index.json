@@ -35,11 +35,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -86,11 +89,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -138,11 +144,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -168,7 +177,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -220,7 +230,8 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "services": [
           "content",
@@ -355,7 +366,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -380,11 +392,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -438,11 +453,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -495,13 +513,58 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "YouTube Ads: Gestión de Campañas de Publicidad",
+      "description": "Gestión de YouTube Ads: montaje de campañas, públicos, estrategia creativa e informes. Publicidad en YouTube con montaje desde 400 $. Ver precios.",
+      "menu": "YouTube Ads",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "spain"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "Marketing de apps",
       "search-marketing": "Marketing en buscadores",
-      "community-marketing": "Marketing de comunidad"
+      "community-marketing": "Marketing de comunidad",
+      "product-marketing": "Marketing de producto"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -523,11 +586,14 @@
       "china": "China",
       "eu": "Unión Europea",
       "greece": "Grecia",
-      "israel": "Israel"
+      "israel": "Israel",
+      "japan": "Japón",
+      "netherlands": "Países Bajos"
     },
     "languages": {
       "english": "Inglés",
-      "spanish": "Español"
+      "spanish": "Español",
+      "italian": "Italiano"
     },
     "positions": {
       "aso-specialist": "ASO manager",

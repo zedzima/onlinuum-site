@@ -43,10 +43,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -71,12 +74,14 @@
       "language_count": 7,
       "domains": [
         "search-marketing",
-        "community-marketing"
+        "community-marketing",
+        "product-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -100,10 +105,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "business-development-manager",
@@ -119,7 +127,7 @@
       "description": "ניהול קמפיינים ממומנים בחיפוש, ב-Shopping וברימרקטינג, עם פרסום ממומן שמתומחר לכל שוק. התחילו מ-PPC Starter ב-$400 לחודש.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -135,7 +143,8 @@
         ],
         "scopes": [
           "ppc-audit",
-          "google-ads-search"
+          "google-ads-search",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -158,10 +167,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "ppc-specialist",
@@ -215,10 +227,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -264,10 +279,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
@@ -279,7 +297,8 @@
     "domains": {
       "app-marketing": "שיווק אפליקציות",
       "search-marketing": "שיווק במנועי חיפוש",
-      "community-marketing": "ניהול קהילה"
+      "community-marketing": "ניהול קהילה",
+      "product-marketing": "שיווק מוצר"
     },
     "scopes": {
       "aso-optimization": "אופטימיזציית ASO",
@@ -289,6 +308,7 @@
       "content-writing": "כתיבת תוכן",
       "ppc-audit": "אודיט PPC",
       "google-ads-search": "קמפיין חיפוש בגוגל",
+      "youtube-ads": "פרסום ביוטיוב",
       "technical-seo": "קידום אתרים טכני",
       "telegram-ads": "פרסום בטלגרם"
     },
@@ -311,10 +331,13 @@
       "china": "סין",
       "eu": "האיחוד האירופי",
       "greece": "יוון",
-      "israel": "ישראל"
+      "israel": "ישראל",
+      "japan": "יפן",
+      "netherlands": "הולנד"
     },
     "languages": {
-      "english": "אנגלית"
+      "english": "אנגלית",
+      "italian": "איטלקית"
     },
     "positions": {
       "aso-specialist": "מומחה ASO",

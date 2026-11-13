@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -35,7 +36,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -62,6 +64,7 @@
           "fintech"
         ],
         "countries": [
+          "netherlands",
           "poland",
           "israel",
           "greece",
@@ -79,6 +82,68 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "italian",
+      "url": "/languages/italian",
+      "title": "이탈리아 광고와 마케팅: 이탈리아어 원어민 전문가",
+      "description": "이탈리아와 이탈리아어권 시장에 진출하는 브랜드를 위한 이탈리아 광고와 마케팅. 이탈리아어 원어민 전문가가 상품화된 방식으로 실행합니다.",
+      "menu": "이탈리아어",
+      "featured": false,
+      "flag": "",
+      "code": "IT",
+      "native_speakers_l1": "68.5M",
+      "market_speakers_display": "68.5M",
+      "market_speakers_est": 68523540,
+      "market_country_count": 9,
+      "official_countries_count": 9,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -114,6 +179,7 @@
   "labels": {
     "domains": {
       "search-marketing": "검색엔진 마케팅",
+      "product-marketing": "프로덕트 마케팅",
       "community-marketing": "커뮤니티 마케팅",
       "app-marketing": "앱 마케팅"
     },
@@ -127,7 +193,8 @@
       "content-writing": "블로그 대행",
       "google-ads-search": "구글 검색광고",
       "ppc-audit": "광고 성과 분석",
-      "telegram-ads": "텔레그램 광고"
+      "telegram-ads": "텔레그램 광고",
+      "youtube-ads": "유튜브 광고"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -154,6 +221,7 @@
       "fintech": "핀테크"
     },
     "countries": {
+      "netherlands": "네덜란드",
       "poland": "폴란드",
       "israel": "이스라엘",
       "greece": "그리스",

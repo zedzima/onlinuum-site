@@ -161,7 +161,8 @@
           "fintech"
         ],
         "countries": [
-          "italy"
+          "italy",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -268,7 +269,9 @@
         ],
         "countries": [
           "italy",
-          "poland"
+          "netherlands",
+          "poland",
+          "japan"
         ],
         "languages": [
           "italian",
@@ -371,6 +374,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "youtube-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -491,7 +495,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -661,6 +667,7 @@
       "telegram-ads": "Campagne Telegram Ads",
       "ppc-audit": "Audit PPC",
       "google-ads-search": "Campagne Google Ads",
+      "youtube-ads": "Campagne YouTube Ads",
       "technical-seo": "SEO tecnica"
     },
     "solutions": {
@@ -682,6 +689,8 @@
     "countries": {
       "poland": "Polonia",
       "italy": "Italia",
+      "netherlands": "Paesi Bassi",
+      "japan": "Giappone",
       "china": "Cina",
       "eu": "Unione Europea",
       "greece": "Grecia",

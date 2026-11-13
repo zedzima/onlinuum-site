@@ -160,8 +160,12 @@
           "ecommerce",
           "fintech"
         ],
+        "countries": [
+          "netherlands"
+        ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ]
       },
       "services": [
@@ -263,9 +267,12 @@
           "fintech"
         ],
         "countries": [
-          "poland"
+          "netherlands",
+          "poland",
+          "japan"
         ],
         "languages": [
+          "italian",
           "english"
         ]
       },
@@ -365,6 +372,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "youtube-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -484,11 +492,14 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
-          "hebrew"
+          "hebrew",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -654,6 +665,7 @@
       "telegram-ads": "פרסום בטלגרם",
       "ppc-audit": "אודיט PPC",
       "google-ads-search": "קמפיין חיפוש בגוגל",
+      "youtube-ads": "פרסום ביוטיוב",
       "technical-seo": "קידום אתרים טכני"
     },
     "solutions": {
@@ -674,6 +686,8 @@
     },
     "countries": {
       "poland": "פולין",
+      "netherlands": "הולנד",
+      "japan": "יפן",
       "china": "סין",
       "eu": "האיחוד האירופי",
       "greece": "יוון",
@@ -681,6 +695,7 @@
     },
     "languages": {
       "english": "אנגלית",
+      "italian": "איטלקית",
       "hebrew": "עברית"
     },
     "experts": {

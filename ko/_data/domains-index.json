@@ -39,10 +39,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -89,13 +92,67 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "product-marketing",
+      "url": "/domains/product-marketing",
+      "title": "프로덕트 마케팅: 포지셔닝 전략, 메시지, GTM 전략",
+      "description": "더 선명한 제품 포지셔닝과 경쟁 프레이밍, 시장 출시 실행을 위한 프로덕트 마케팅 서비스: 메시지, 리서치, 출시. 지금 시작하기.",
+      "menu": "프로덕트 마케팅",
+      "featured": true,
+      "icon": "compass",
+      "service_count": 1,
+      "scope_count": 3,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "south-korea"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ]
       }
     },
@@ -150,10 +207,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "south-korea"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -176,10 +236,10 @@
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO 키워드 분석",
       "content-strategy": "콘텐츠 기획",
+      "content-writing": "블로그 대행",
       "technical-seo": "테크니컬 SEO",
       "ppc-audit": "광고 성과 분석",
-      "google-ads-search": "구글 검색광고",
-      "content-writing": "블로그 대행"
+      "google-ads-search": "구글 검색광고"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -208,10 +268,13 @@
       "eu": "유럽연합",
       "greece": "그리스",
       "israel": "이스라엘",
+      "japan": "일본",
+      "netherlands": "네덜란드",
       "south-korea": "대한민국"
     },
     "languages": {
-      "english": "영어"
+      "english": "영어",
+      "italian": "이탈리아어"
     },
     "positions": {
       "aso-specialist": "ASO 전문가",

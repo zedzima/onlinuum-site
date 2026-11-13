@@ -34,10 +34,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -83,10 +86,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -133,10 +139,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -162,7 +171,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -212,7 +222,8 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "services": [
           "content",
@@ -346,7 +357,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -371,10 +383,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "blog-posts": [
@@ -429,10 +444,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "blog-posts": [
@@ -487,13 +505,56 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "YouTube Reklam Verme ve Kampanya Yönetimi",
+      "description": "YouTube reklam verme ve yönetimi: kampanya kurulumu, hedefleme, kreatif strateji ve raporlama. Kurulum 400 $'dan. YouTube reklam fiyatlarını görün.",
+      "menu": "YouTube Ads",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "Mobil Uygulama Pazarlama",
       "search-marketing": "Arama Motoru Pazarlaması",
-      "community-marketing": "Topluluk Pazarlaması"
+      "community-marketing": "Topluluk Pazarlaması",
+      "product-marketing": "Ürün Pazarlaması"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -515,10 +576,13 @@
       "eu": "Avrupa Birliği",
       "greece": "Yunanistan",
       "israel": "İsrail",
+      "japan": "Japonya",
+      "netherlands": "Hollanda",
       "turkey": "Türkiye"
     },
     "languages": {
       "english": "İngilizce",
+      "italian": "İtalyanca",
       "turkish": "Türkçe"
     },
     "positions": {

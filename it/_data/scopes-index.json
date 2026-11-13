@@ -35,7 +35,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -86,7 +88,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -138,7 +142,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -168,7 +174,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -218,7 +225,8 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "services": [
           "content",
@@ -348,7 +356,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -373,7 +382,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -431,7 +442,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -488,13 +501,56 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "YouTube Ads: Gestione della Pubblicità su YouTube",
+      "description": "Gestione YouTube Ads: configurazione delle campagne, targeting del pubblico, strategia creativa e report. Configurazione da 400 $. Scoprite i prezzi.",
+      "menu": "Campagne YouTube Ads",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "Marketing per app",
       "search-marketing": "Search marketing",
-      "community-marketing": "Marketing della community"
+      "community-marketing": "Marketing della community",
+      "product-marketing": "Marketing di prodotto"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -516,7 +572,9 @@
       "eu": "Unione Europea",
       "greece": "Grecia",
       "israel": "Israele",
-      "italy": "Italia"
+      "italy": "Italia",
+      "japan": "Giappone",
+      "netherlands": "Paesi Bassi"
     },
     "languages": {
       "english": "Inglese",

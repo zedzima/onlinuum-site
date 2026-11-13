@@ -38,10 +38,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -87,13 +90,66 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "product-marketing",
+      "url": "/domains/product-marketing",
+      "title": "שיווק מוצר: מיצוב, מסרים ו-go to market",
+      "description": "שירותי שיווק מוצר למיצוב חד יותר, מסגור תחרותי וביצוע go to market: מסרים, מחקר והשקת מוצר. בואו נתחיל.",
+      "menu": "שיווק מוצר",
+      "featured": true,
+      "icon": "compass",
+      "service_count": 1,
+      "scope_count": 3,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ]
       }
     },
@@ -147,10 +203,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -173,10 +232,10 @@
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "מחקר SEO",
       "content-strategy": "אסטרטגיית תוכן",
+      "content-writing": "כתיבת תוכן",
       "technical-seo": "קידום אתרים טכני",
       "ppc-audit": "אודיט PPC",
-      "google-ads-search": "קמפיין חיפוש בגוגל",
-      "content-writing": "כתיבת תוכן"
+      "google-ads-search": "קמפיין חיפוש בגוגל"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
@@ -204,10 +263,13 @@
       "china": "סין",
       "eu": "האיחוד האירופי",
       "greece": "יוון",
-      "israel": "ישראל"
+      "israel": "ישראל",
+      "japan": "יפן",
+      "netherlands": "הולנד"
     },
     "languages": {
-      "english": "אנגלית"
+      "english": "אנגלית",
+      "italian": "איטלקית"
     },
     "positions": {
       "aso-specialist": "מומחה ASO",

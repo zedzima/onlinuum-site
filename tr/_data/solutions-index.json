@@ -15,6 +15,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -27,7 +28,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -50,10 +52,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "blog-posts": [
@@ -84,7 +89,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -108,10 +114,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "blog-posts": [
@@ -128,6 +137,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Arama Motoru Pazarlaması",
+      "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
       "app-marketing": "Mobil Uygulama Pazarlama"
     },
@@ -140,7 +150,8 @@
       "content-strategy": "İçerik Stratejisi",
       "google-ads-search": "Google Ads Arama Ağı",
       "ppc-audit": "Reklam Analizi",
-      "telegram-ads": "Telegram Reklamları"
+      "telegram-ads": "Telegram Reklamları",
+      "youtube-ads": "YouTube Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -163,10 +174,13 @@
       "eu": "Avrupa Birliği",
       "greece": "Yunanistan",
       "israel": "İsrail",
+      "japan": "Japonya",
+      "netherlands": "Hollanda",
       "turkey": "Türkiye"
     },
     "languages": {
       "english": "İngilizce",
+      "italian": "İtalyanca",
       "turkish": "Türkçe"
     },
     "blog-posts": {

@@ -22,6 +22,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -79,6 +80,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -115,7 +117,8 @@
           "fintech"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "seo-expert"
@@ -144,6 +147,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -204,6 +208,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -245,6 +250,128 @@
       }
     },
     {
+      "slug": "japan",
+      "url": "/countries/japan",
+      "title": "Digital Marketing Japan: التسويق الرقمي في اليابان",
+      "description": "التسويق الرقمي في اليابان للعلامات الدولية: خدمات ذات نطاق محدد ينفذها خبراء يابانيون أصليون على Yahoo Japan وGoogle وLINE. ابدأوا الآن.",
+      "menu": "اليابان",
+      "featured": false,
+      "flag": "🇯🇵",
+      "population_total": "123M",
+      "population_total_raw": 123202000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "اليابانية",
+      "dominant_language_code": "ja",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "netherlands",
+      "url": "/countries/netherlands",
+      "title": "Digital Marketing Netherlands: التسويق الرقمي في هولندا",
+      "description": "التسويق الرقمي في هولندا للعلامات الدولية: خدمات ذات نطاق محدد ينفذها خبراء هولنديون أصليون، دون مكتب في أمستردام. ابدأوا الآن.",
+      "menu": "هولندا",
+      "featured": false,
+      "flag": "🇳🇱",
+      "population_total": "17.8M",
+      "population_total_raw": 17772400,
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "الهولندية",
+      "dominant_language_code": "nl",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "product-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "poland",
       "url": "/countries/poland",
       "title": "Digital Marketing Poland: التسويق والعلاقات العامة الرقمية",
@@ -258,7 +385,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "البولندية",
       "dominant_language_code": "pl",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -267,6 +394,7 @@
         "domains": [
           "search-marketing",
           "community-marketing",
+          "product-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -278,7 +406,8 @@
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -338,6 +467,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -386,6 +516,7 @@
   "labels": {
     "domains": {
       "search-marketing": "التسويق عبر محركات البحث",
+      "product-marketing": "تسويق المنتجات",
       "community-marketing": "التسويق المجتمعي",
       "app-marketing": "تسويق التطبيقات"
     },
@@ -398,7 +529,8 @@
       "content-strategy": "استراتيجية المحتوى",
       "google-ads-search": "إعلانات جوجل للبحث",
       "ppc-audit": "تدقيق PPC",
-      "telegram-ads": "إعلانات تليجرام"
+      "telegram-ads": "إعلانات تليجرام",
+      "youtube-ads": "YouTube Ads"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
@@ -424,10 +556,10 @@
     "positions": {
       "seo-expert": "خبير SEO",
       "social-media-manager": "أخصائي سوشيال ميديا",
-      "aso-specialist": "متخصص ASO",
       "marketing-consultant": "مستشار تسويق",
-      "ppc-specialist": "متخصص PPC",
-      "business-development-manager": "مدير تطوير الأعمال"
+      "business-development-manager": "مدير تطوير الأعمال",
+      "aso-specialist": "متخصص ASO",
+      "ppc-specialist": "متخصص PPC"
     },
     "cases": {
       "alvadi": "ALVADI",
@@ -435,6 +567,7 @@
     },
     "languages": {
       "english": "الإنجليزية",
+      "italian": "الإيطالية",
       "arabic": "العربية"
     },
     "blog-posts": {

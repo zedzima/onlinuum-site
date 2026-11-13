@@ -43,10 +43,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -71,12 +74,14 @@
       "language_count": 7,
       "domains": [
         "search-marketing",
-        "community-marketing"
+        "community-marketing",
+        "product-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -101,10 +106,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "positions": [
@@ -121,7 +129,7 @@
       "description": "Arama, Shopping ve yeniden pazarlama için dijital reklam yönetimi. Pazara göre fiyatlanan kampanyalar. Starter planı aylık 400 $'dan başlar.",
       "menu": "Performans Pazarlama",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -137,7 +145,8 @@
         ],
         "scopes": [
           "ppc-audit",
-          "google-ads-search"
+          "google-ads-search",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -161,10 +170,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "positions": [
@@ -220,10 +232,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
           "english",
+          "italian",
           "turkish"
         ],
         "blog-posts": [
@@ -270,10 +285,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
@@ -285,7 +303,8 @@
     "domains": {
       "app-marketing": "Mobil Uygulama Pazarlama",
       "search-marketing": "Arama Motoru Pazarlaması",
-      "community-marketing": "Topluluk Pazarlaması"
+      "community-marketing": "Topluluk Pazarlaması",
+      "product-marketing": "Ürün Pazarlaması"
     },
     "scopes": {
       "aso-optimization": "ASO Çalışması",
@@ -295,6 +314,7 @@
       "content-writing": "İçerik Yazarlığı",
       "ppc-audit": "Reklam Analizi",
       "google-ads-search": "Google Ads Arama Ağı",
+      "youtube-ads": "YouTube Ads",
       "technical-seo": "Teknik SEO",
       "telegram-ads": "Telegram Reklamları"
     },
@@ -318,10 +338,13 @@
       "eu": "Avrupa Birliği",
       "greece": "Yunanistan",
       "israel": "İsrail",
+      "japan": "Japonya",
+      "netherlands": "Hollanda",
       "turkey": "Türkiye"
     },
     "languages": {
       "english": "İngilizce",
+      "italian": "İtalyanca",
       "turkish": "Türkçe"
     },
     "positions": {

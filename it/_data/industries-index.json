@@ -8,7 +8,7 @@
       "menu": "Ecommerce",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -16,6 +16,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -29,7 +30,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -56,7 +58,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -85,7 +89,7 @@
       "menu": "Fintech e finanza",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -93,6 +97,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -106,7 +111,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "vitali-bakun",
@@ -128,7 +134,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -157,7 +165,7 @@
       "menu": "SaaS e software",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -165,6 +173,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -178,7 +187,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -205,7 +215,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -230,6 +242,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Search marketing",
+      "product-marketing": "Marketing di prodotto",
       "community-marketing": "Marketing della community",
       "app-marketing": "Marketing per app"
     },
@@ -243,7 +256,8 @@
       "content-writing": "Creazione contenuti",
       "google-ads-search": "Campagne Google Ads",
       "ppc-audit": "Audit PPC",
-      "telegram-ads": "Campagne Telegram Ads"
+      "telegram-ads": "Campagne Telegram Ads",
+      "youtube-ads": "Campagne YouTube Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -271,7 +285,9 @@
       "eu": "Unione Europea",
       "greece": "Grecia",
       "israel": "Israele",
-      "italy": "Italia"
+      "italy": "Italia",
+      "japan": "Giappone",
+      "netherlands": "Paesi Bassi"
     },
     "languages": {
       "english": "Inglese",

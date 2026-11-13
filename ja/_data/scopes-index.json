@@ -35,10 +35,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -85,10 +87,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -136,10 +140,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -165,7 +171,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -215,7 +222,8 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "services": [
           "content",
@@ -345,7 +353,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -370,10 +379,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -427,10 +438,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -483,13 +496,56 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "YouTube広告の運用代行｜設定・ターゲティング・クリエイティブ",
+      "description": "YouTube広告 運用代行のメニュー。キャンペーン設定、ターゲティング、クリエイティブ戦略、ご報告まで。初期設定は $400 から。費用は下記をご覧ください。",
+      "menu": "YouTube広告",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "アプリマーケティング",
       "search-marketing": "検索マーケティング",
-      "community-marketing": "コミュニティマーケティング"
+      "community-marketing": "コミュニティマーケティング",
+      "product-marketing": "プロダクトマーケティング"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
@@ -511,10 +567,12 @@
       "eu": "欧州連合",
       "greece": "ギリシャ",
       "israel": "イスラエル",
-      "japan": "日本"
+      "japan": "日本",
+      "netherlands": "オランダ"
     },
     "languages": {
-      "english": "英語"
+      "english": "英語",
+      "italian": "イタリア語"
     },
     "positions": {
       "aso-specialist": "ASO担当",

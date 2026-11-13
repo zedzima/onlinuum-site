@@ -94,6 +94,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -130,6 +131,8 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "turkey"
         ],
         "languages": [
@@ -174,11 +177,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -200,10 +205,13 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ]
       }
     }
@@ -211,6 +219,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Arama Motoru Pazarlaması",
+      "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
       "app-marketing": "Mobil Uygulama Pazarlama"
     },
@@ -222,7 +231,8 @@
       "aso-optimization": "ASO Çalışması",
       "content-strategy": "İçerik Stratejisi",
       "ppc-audit": "Reklam Analizi",
-      "google-ads-search": "Google Ads Arama Ağı"
+      "google-ads-search": "Google Ads Arama Ağı",
+      "youtube-ads": "YouTube Ads"
     },
     "services": {
       "content": "İçerik Pazarlama",
@@ -241,11 +251,14 @@
       "poland": "Polonya",
       "china": "Çin",
       "greece": "Yunanistan",
-      "israel": "İsrail"
+      "israel": "İsrail",
+      "japan": "Japonya",
+      "netherlands": "Hollanda"
     },
     "languages": {
       "english": "İngilizce",
-      "turkish": "Türkçe"
+      "turkish": "Türkçe",
+      "italian": "İtalyanca"
     },
     "positions": {
       "seo-expert": "SEO Uzmanı"

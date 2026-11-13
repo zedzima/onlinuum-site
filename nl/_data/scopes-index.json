@@ -35,11 +35,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -86,11 +88,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -138,11 +142,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -168,7 +174,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -218,7 +225,8 @@
       "task_count": 6,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "services": [
           "content",
@@ -348,7 +356,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -373,11 +382,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -431,11 +442,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -488,13 +501,56 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-ads",
+      "url": "/scopes/youtube-ads",
+      "title": "YouTube adverteren: beheer van YouTube Ads-campagnes",
+      "description": "YouTube adverteren met beheer: campagne-opzet, doelgroeptargeting, creatiestrategie en rapportage voor je YouTube advertenties. Opzet vanaf $ 400.",
+      "menu": "YouTube Ads-beheer",
+      "featured": false,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
     "domains": {
       "app-marketing": "App marketing",
       "search-marketing": "Zoekmachinemarketing",
-      "community-marketing": "Community marketing"
+      "community-marketing": "Community marketing",
+      "product-marketing": "Productmarketing"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -516,11 +572,13 @@
       "eu": "Europese Unie",
       "greece": "Griekenland",
       "israel": "Israël",
+      "japan": "Japan",
       "netherlands": "Nederland"
     },
     "languages": {
       "english": "Engels",
-      "dutch": "Nederlands"
+      "dutch": "Nederlands",
+      "italian": "Italiaans"
     },
     "positions": {
       "aso-specialist": "ASO-specialist",

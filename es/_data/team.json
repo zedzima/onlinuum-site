@@ -92,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -128,7 +129,9 @@
           "china",
           "eu",
           "greece",
-          "israel"
+          "israel",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english"
@@ -172,11 +175,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -199,10 +204,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "spain"
         ],
         "languages": [
           "english",
+          "italian",
           "spanish"
         ]
       }
@@ -211,6 +219,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing en buscadores",
+      "product-marketing": "Marketing de producto",
       "community-marketing": "Marketing de comunidad",
       "app-marketing": "Marketing de apps"
     },
@@ -222,7 +231,8 @@
       "aso-optimization": "Posicionamiento de apps",
       "content-strategy": "Estrategia de contenidos",
       "ppc-audit": "Auditoría SEM",
-      "google-ads-search": "Búsqueda en Google Ads"
+      "google-ads-search": "Búsqueda en Google Ads",
+      "youtube-ads": "YouTube Ads"
     },
     "services": {
       "content": "Marketing de contenidos",
@@ -241,10 +251,13 @@
       "spain": "España",
       "china": "China",
       "greece": "Grecia",
-      "israel": "Israel"
+      "israel": "Israel",
+      "japan": "Japón",
+      "netherlands": "Países Bajos"
     },
     "languages": {
       "english": "Inglés",
+      "italian": "Italiano",
       "spanish": "Español"
     },
     "positions": {

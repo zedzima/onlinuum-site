@@ -44,7 +44,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -73,12 +75,14 @@
       "language_count": 7,
       "domains": [
         "search-marketing",
-        "community-marketing"
+        "community-marketing",
+        "product-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -103,7 +107,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -123,7 +129,7 @@
       "description": "Agenzia PPC per campagne pay per click, Shopping e remarketing, con prezzo per mercato. Si parte dal programma Starter, 400 $/mese.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -139,7 +145,8 @@
         ],
         "scopes": [
           "ppc-audit",
-          "google-ads-search"
+          "google-ads-search",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -163,7 +170,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -222,7 +231,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -273,7 +284,9 @@
           "eu",
           "greece",
           "israel",
-          "italy"
+          "italy",
+          "japan",
+          "netherlands"
         ],
         "languages": [
           "english",
@@ -289,7 +302,8 @@
     "domains": {
       "app-marketing": "Marketing per app",
       "search-marketing": "Search marketing",
-      "community-marketing": "Marketing della community"
+      "community-marketing": "Marketing della community",
+      "product-marketing": "Marketing di prodotto"
     },
     "scopes": {
       "aso-optimization": "Ottimizzazione ASO",
@@ -299,6 +313,7 @@
       "content-writing": "Creazione contenuti",
       "ppc-audit": "Audit PPC",
       "google-ads-search": "Campagne Google Ads",
+      "youtube-ads": "Campagne YouTube Ads",
       "technical-seo": "SEO tecnica",
       "telegram-ads": "Campagne Telegram Ads"
     },
@@ -322,7 +337,9 @@
       "eu": "Unione Europea",
       "greece": "Grecia",
       "israel": "Israele",
-      "italy": "Italia"
+      "italy": "Italia",
+      "japan": "Giappone",
+      "netherlands": "Paesi Bassi"
     },
     "languages": {
       "english": "Inglese",

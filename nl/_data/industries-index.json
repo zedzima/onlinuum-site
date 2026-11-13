@@ -8,7 +8,7 @@
       "menu": "Webshops",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -16,6 +16,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -29,7 +30,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -56,11 +58,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -85,7 +89,7 @@
       "menu": "Fintechbedrijven",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -93,6 +97,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -106,7 +111,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "vitali-bakun",
@@ -128,11 +134,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -157,7 +165,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -165,6 +173,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -178,7 +187,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
-          "telegram-ads"
+          "telegram-ads",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -205,11 +215,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -230,6 +242,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Zoekmachinemarketing",
+      "product-marketing": "Productmarketing",
       "community-marketing": "Community marketing",
       "app-marketing": "App marketing"
     },
@@ -243,7 +256,8 @@
       "content-writing": "Teksten schrijven",
       "google-ads-search": "Google Ads-zoekcampagnes",
       "ppc-audit": "SEA-audit",
-      "telegram-ads": "Telegram Ads-beheer"
+      "telegram-ads": "Telegram Ads-beheer",
+      "youtube-ads": "YouTube Ads-beheer"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -271,11 +285,13 @@
       "eu": "Europese Unie",
       "greece": "Griekenland",
       "israel": "Israël",
+      "japan": "Japan",
       "netherlands": "Nederland"
     },
     "languages": {
       "english": "Engels",
-      "dutch": "Nederlands"
+      "dutch": "Nederlands",
+      "italian": "Italiaans"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Hoe AI bronnen kiest",

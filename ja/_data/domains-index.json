@@ -39,10 +39,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist"
@@ -89,13 +91,65 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "product-marketing",
+      "url": "/domains/product-marketing",
+      "title": "プロダクトマーケティング支援｜ポジショニングとGTM戦略",
+      "description": "ポジショニング、競合との差別化、GTM戦略の実行を磨くプロダクトマーケティング支援。メッセージ設計、調査、ローンチまで。まずはご相談ください。",
+      "menu": "プロダクトマーケティング",
+      "featured": true,
+      "icon": "compass",
+      "service_count": 1,
+      "scope_count": 3,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content"
+        ],
+        "industries": [
+          "ecommerce",
+          "fintech",
+          "saas"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ]
       }
     },
@@ -150,10 +204,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -176,10 +232,10 @@
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "キーワード選定",
       "content-strategy": "コンテンツ戦略",
+      "content-writing": "記事作成代行",
       "technical-seo": "テクニカルSEO",
       "ppc-audit": "広告アカウント診断",
-      "google-ads-search": "Google広告・検索広告",
-      "content-writing": "記事作成代行"
+      "google-ads-search": "Google広告・検索広告"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
@@ -208,10 +264,12 @@
       "eu": "欧州連合",
       "greece": "ギリシャ",
       "israel": "イスラエル",
-      "japan": "日本"
+      "japan": "日本",
+      "netherlands": "オランダ"
     },
     "languages": {
-      "english": "英語"
+      "english": "英語",
+      "italian": "イタリア語"
     },
     "positions": {
       "aso-specialist": "ASO担当",

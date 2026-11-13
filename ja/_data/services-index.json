@@ -44,10 +44,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "aso-specialist",
@@ -72,12 +74,14 @@
       "language_count": 7,
       "domains": [
         "search-marketing",
-        "community-marketing"
+        "community-marketing",
+        "product-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
-          "community-marketing"
+          "community-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -102,10 +106,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "business-development-manager",
@@ -121,7 +127,7 @@
       "description": "検索広告、ショッピング広告、リマーケティングまで、リスティング広告の運用代行を固定料金で。市場ごとに設計し、Starter は月額 $400 から始められます。",
       "menu": "リスティング広告",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -137,7 +143,8 @@
         ],
         "scopes": [
           "ppc-audit",
-          "google-ads-search"
+          "google-ads-search",
+          "youtube-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -161,10 +168,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "ppc-specialist",
@@ -219,10 +228,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -269,10 +280,12 @@
           "eu",
           "greece",
           "israel",
-          "japan"
+          "japan",
+          "netherlands"
         ],
         "languages": [
-          "english"
+          "english",
+          "italian"
         ],
         "positions": [
           "social-media-manager"
@@ -284,7 +297,8 @@
     "domains": {
       "app-marketing": "アプリマーケティング",
       "search-marketing": "検索マーケティング",
-      "community-marketing": "コミュニティマーケティング"
+      "community-marketing": "コミュニティマーケティング",
+      "product-marketing": "プロダクトマーケティング"
     },
     "scopes": {
       "aso-optimization": "ASO対策",
@@ -294,6 +308,7 @@
       "content-writing": "記事作成代行",
       "ppc-audit": "広告アカウント診断",
       "google-ads-search": "Google広告・検索広告",
+      "youtube-ads": "YouTube広告",
       "technical-seo": "テクニカルSEO",
       "telegram-ads": "Telegram Ads"
     },
@@ -317,10 +332,12 @@
       "eu": "欧州連合",
       "greece": "ギリシャ",
       "israel": "イスラエル",
-      "japan": "日本"
+      "japan": "日本",
+      "netherlands": "オランダ"
     },
     "languages": {
-      "english": "英語"
+      "english": "英語",
+      "italian": "イタリア語"
     },
     "positions": {
       "aso-specialist": "ASO担当",

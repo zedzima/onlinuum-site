@@ -161,10 +161,12 @@
           "fintech"
         ],
         "countries": [
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
+          "italian",
           "arabic"
         ]
       },
@@ -267,10 +269,13 @@
           "fintech"
         ],
         "countries": [
+          "netherlands",
           "poland",
+          "japan",
           "uae"
         ],
         "languages": [
+          "italian",
           "arabic",
           "english"
         ]
@@ -371,6 +376,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "youtube-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -492,11 +498,14 @@
           "eu",
           "greece",
           "israel",
+          "japan",
+          "netherlands",
           "uae"
         ],
         "languages": [
           "english",
-          "arabic"
+          "arabic",
+          "italian"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -663,6 +672,7 @@
       "telegram-ads": "إعلانات تليجرام",
       "ppc-audit": "تدقيق PPC",
       "google-ads-search": "إعلانات جوجل للبحث",
+      "youtube-ads": "YouTube Ads",
       "technical-seo": "السيو التقني"
     },
     "solutions": {
@@ -683,7 +693,9 @@
     },
     "countries": {
       "poland": "بولندا",
+      "netherlands": "هولندا",
       "uae": "الإمارات",
+      "japan": "اليابان",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
       "greece": "اليونان",
@@ -691,6 +703,7 @@
     },
     "languages": {
       "english": "الإنجليزية",
+      "italian": "الإيطالية",
       "arabic": "العربية"
     },
     "experts": {

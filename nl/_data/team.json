@@ -92,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "product-marketing",
           "community-marketing",
           "app-marketing"
         ],
@@ -128,6 +129,7 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
@@ -172,11 +174,13 @@
       "article_count": 0,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "product-marketing"
         ],
         "scopes": [
           "google-ads-search",
-          "ppc-audit"
+          "ppc-audit",
+          "youtube-ads"
         ],
         "cases": [
           "alvadi",
@@ -199,11 +203,13 @@
           "eu",
           "greece",
           "israel",
+          "japan",
           "netherlands"
         ],
         "languages": [
           "english",
-          "dutch"
+          "dutch",
+          "italian"
         ]
       }
     }
@@ -211,6 +217,7 @@
   "labels": {
     "domains": {
       "search-marketing": "Zoekmachinemarketing",
+      "product-marketing": "Productmarketing",
       "community-marketing": "Community marketing",
       "app-marketing": "App marketing"
     },
@@ -222,7 +229,8 @@
       "aso-optimization": "ASO-optimalisatie",
       "content-strategy": "Contentstrategie",
       "ppc-audit": "SEA-audit",
-      "google-ads-search": "Google Ads-zoekcampagnes"
+      "google-ads-search": "Google Ads-zoekcampagnes",
+      "youtube-ads": "YouTube Ads-beheer"
     },
     "services": {
       "content": "Contentmarketing",
@@ -241,11 +249,13 @@
       "china": "China",
       "greece": "Griekenland",
       "israel": "Israël",
+      "japan": "Japan",
       "netherlands": "Nederland"
     },
     "languages": {
       "english": "Engels",
-      "dutch": "Nederlands"
+      "dutch": "Nederlands",
+      "italian": "Italiaans"
     },
     "positions": {
       "seo-expert": "SEO-specialist"
