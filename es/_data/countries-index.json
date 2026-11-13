@@ -14,7 +14,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "chino",
       "dominant_language_code": "zh",
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -22,7 +22,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -31,7 +34,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko",
@@ -51,7 +55,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "positions": [
           "seo-expert"
@@ -72,7 +77,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "inglés",
       "dominant_language_code": "en",
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -80,7 +85,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -89,7 +97,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko",
@@ -114,7 +123,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "languages": [
           "english",
@@ -140,7 +150,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "griego",
       "dominant_language_code": "el",
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -148,7 +158,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -157,7 +170,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko",
@@ -177,7 +191,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "languages": [
           "english"
@@ -201,7 +216,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "hebreo",
       "dominant_language_code": "he",
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -209,7 +224,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -218,7 +236,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko",
@@ -238,7 +257,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "languages": [
           "english"
@@ -263,7 +283,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "japonés",
       "dominant_language_code": "ja",
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -271,7 +291,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -280,7 +303,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko",
@@ -300,7 +324,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "positions": [
           "seo-expert",
@@ -322,7 +347,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "neerlandés",
       "dominant_language_code": "nl",
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -330,7 +355,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -339,7 +367,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko",
@@ -359,7 +388,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "languages": [
           "english"
@@ -385,7 +415,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "polaco",
       "dominant_language_code": "pl",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -393,8 +423,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "performance-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -403,6 +435,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -426,7 +459,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "languages": [
           "english"
@@ -459,7 +493,7 @@
       "significant_languages_count": 3,
       "dominant_language_name": "español",
       "dominant_language_code": "es",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -467,8 +501,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "performance-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -477,6 +513,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -499,7 +536,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "languages": [
           "spanish",
@@ -524,7 +562,10 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing en buscadores",
+      "growth-marketing": "Growth marketing",
+      "performance-marketing": "Marketing de resultados",
       "product-marketing": "Marketing de producto",
+      "marketing-operations": "Operaciones de marketing",
       "community-marketing": "Marketing de comunidad",
       "app-marketing": "Marketing de apps"
     },
@@ -534,6 +575,7 @@
       "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "CRO en App Store",
       "content-strategy": "Estrategia de contenidos",
       "google-ads-search": "Búsqueda en Google Ads",
       "ppc-audit": "Auditoría SEM",
@@ -559,7 +601,8 @@
     "industries": {
       "ecommerce": "Ecommerce",
       "saas": "SaaS",
-      "fintech": "Sector fintech"
+      "fintech": "Sector fintech",
+      "manufacturing": "Industria"
     },
     "positions": {
       "seo-expert": "Especialista SEO",

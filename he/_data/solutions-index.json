@@ -15,6 +15,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -25,6 +28,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -44,7 +48,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -87,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing"
         ],
@@ -104,7 +110,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -133,6 +140,9 @@
   "labels": {
     "domains": {
       "search-marketing": "שיווק במנועי חיפוש",
+      "growth-marketing": "שיווק צמיחה",
+      "marketing-operations": "תפעול שיווק",
+      "performance-marketing": "שיווק ביצועים",
       "product-marketing": "שיווק מוצר",
       "community-marketing": "ניהול קהילה",
       "app-marketing": "שיווק אפליקציות"
@@ -143,6 +153,7 @@
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "content-strategy": "אסטרטגיית תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
       "ppc-audit": "אודיט PPC",
@@ -162,7 +173,8 @@
     "industries": {
       "saas": "SaaS",
       "ecommerce": "מסחר אלקטרוני",
-      "fintech": "פינטק"
+      "fintech": "פינטק",
+      "manufacturing": "תעשייה וייצור"
     },
     "countries": {
       "poland": "פולין",

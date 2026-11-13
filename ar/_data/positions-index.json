@@ -51,6 +51,7 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
+          "app-store-cro",
           "apple-search-ads"
         ],
         "solutions": [
@@ -146,6 +147,9 @@
         "education_requirements": "لا توجد متطلبات"
       },
       "facets": {
+        "domains": [
+          "growth-marketing"
+        ],
         "solutions": [
           "digital-marketing-consulting"
         ],
@@ -158,7 +162,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "netherlands",
@@ -245,7 +250,9 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "growth-marketing",
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -371,7 +378,8 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
@@ -388,7 +396,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -490,7 +499,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -592,7 +602,8 @@
       },
       "facets": {
         "domains": [
-          "community-marketing"
+          "community-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "telegram-ads",
@@ -661,11 +672,14 @@
     "domains": {
       "app-marketing": "تسويق التطبيقات",
       "search-marketing": "التسويق عبر محركات البحث",
+      "growth-marketing": "تسويق النمو",
+      "performance-marketing": "تسويق الأداء",
       "community-marketing": "التسويق المجتمعي"
     },
     "scopes": {
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
+      "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
@@ -689,7 +703,8 @@
     "industries": {
       "saas": "SaaS",
       "fintech": "التكنولوجيا المالية",
-      "ecommerce": "التجارة الإلكترونية"
+      "ecommerce": "التجارة الإلكترونية",
+      "manufacturing": "الصناعة"
     },
     "countries": {
       "poland": "بولندا",

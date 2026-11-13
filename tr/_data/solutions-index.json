@@ -15,6 +15,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -25,6 +28,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -44,7 +48,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -89,6 +94,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing"
         ],
@@ -106,7 +112,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -137,6 +144,9 @@
   "labels": {
     "domains": {
       "search-marketing": "Arama Motoru Pazarlaması",
+      "growth-marketing": "Growth Marketing (Büyüme)",
+      "marketing-operations": "Pazarlama Operasyonları",
+      "performance-marketing": "Performans Pazarlama",
       "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
       "app-marketing": "Mobil Uygulama Pazarlama"
@@ -147,6 +157,7 @@
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "content-strategy": "İçerik Stratejisi",
       "google-ads-search": "Google Ads Arama Ağı",
       "ppc-audit": "Reklam Analizi",
@@ -166,7 +177,8 @@
     "industries": {
       "saas": "SaaS",
       "ecommerce": "E-ticaret",
-      "fintech": "Fintech ve Bankacılık"
+      "fintech": "Fintech ve Bankacılık",
+      "manufacturing": "Sanayi"
     },
     "countries": {
       "poland": "Polonya",

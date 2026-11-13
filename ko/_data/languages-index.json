@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -22,7 +22,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -32,6 +35,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -61,7 +65,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "netherlands",
@@ -99,7 +104,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -107,7 +112,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -116,7 +124,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "vitali-bakun"
@@ -135,7 +144,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "eu"
@@ -179,7 +189,10 @@
   "labels": {
     "domains": {
       "search-marketing": "검색엔진 마케팅",
+      "growth-marketing": "그로스 마케팅",
+      "performance-marketing": "퍼포먼스 마케팅",
       "product-marketing": "프로덕트 마케팅",
+      "marketing-operations": "마케팅 오퍼레이션",
       "community-marketing": "커뮤니티 마케팅",
       "app-marketing": "앱 마케팅"
     },
@@ -189,6 +202,7 @@
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "앱스토어 CRO",
       "content-strategy": "콘텐츠 기획",
       "content-writing": "블로그 대행",
       "google-ads-search": "구글 검색광고",
@@ -218,7 +232,8 @@
     "industries": {
       "ecommerce": "이커머스",
       "saas": "SaaS",
-      "fintech": "핀테크"
+      "fintech": "핀테크",
+      "manufacturing": "제조업"
     },
     "countries": {
       "netherlands": "네덜란드",

@@ -1,6 +1,57 @@
 {
   "scopes": [
     {
+      "slug": "app-store-cro",
+      "url": "/scopes/app-store-cro",
+      "title": "App-Store-Conversion: CRO für mehr Installationen",
+      "description": "App-Store-Conversion steigern: Strategie für App Store Screenshots, A/B-Tests für Icons und Store-Einträge, die Installationen erhöhen. Tests ab 160 $.",
+      "menu": "App-Store-CRO",
+      "featured": true,
+      "from_price": 160,
+      "delivery": "one-time",
+      "expert_count": 3,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "germany",
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "apple-search-ads",
       "url": "/scopes/apple-search-ads",
       "title": "Apple Search Ads Betreuung für iOS-Apps",
@@ -177,6 +228,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing"
         ],
@@ -195,7 +247,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "germany",
@@ -240,7 +293,8 @@
         "industries": [
           "saas",
           "fintech",
-          "ecommerce"
+          "ecommerce",
+          "manufacturing"
         ],
         "countries": [
           "germany"
@@ -269,7 +323,8 @@
       "task_count": 5,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "experts": [
           "vitali-bakun"
@@ -287,7 +342,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "germany",
@@ -320,7 +376,8 @@
       "task_count": 4,
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "experts": [
           "vitali-bakun",
@@ -335,7 +392,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "germany",
@@ -369,6 +427,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing"
         ],
@@ -387,7 +446,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "germany",
@@ -448,7 +508,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "germany",
@@ -491,6 +552,9 @@
       "language_count": 4,
       "task_count": 1,
       "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
         "solutions": [
           "digital-marketing-consulting"
         ],
@@ -534,6 +598,9 @@
       "language_count": 4,
       "task_count": 5,
       "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
         "experts": [
           "vitali-bakun"
         ],
@@ -568,8 +635,10 @@
     "domains": {
       "app-marketing": "App-Marketing",
       "search-marketing": "Suchmaschinenmarketing",
+      "growth-marketing": "Growth-Marketing",
       "community-marketing": "Community-Marketing",
-      "product-marketing": "Produktmarketing"
+      "product-marketing": "Produktmarketing",
+      "performance-marketing": "Performance-Marketing"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -583,7 +652,8 @@
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintech und Banken",
-      "ecommerce": "E-Commerce"
+      "ecommerce": "E-Commerce",
+      "manufacturing": "Fertigung"
     },
     "countries": {
       "germany": "Deutschland",

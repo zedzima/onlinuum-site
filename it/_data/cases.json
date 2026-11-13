@@ -39,6 +39,7 @@
       },
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing"
         ],
         "scopes": [
@@ -97,6 +98,9 @@
         "label": "Alle prime conversioni"
       },
       "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
         "scopes": [
           "google-ads-search"
         ],
@@ -120,6 +124,7 @@
   ],
   "labels": {
     "domains": {
+      "performance-marketing": "Performance marketing",
       "search-marketing": "Search marketing"
     },
     "scopes": {

@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 3,
+      "scope_count": 4,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -17,7 +17,8 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko"
@@ -83,7 +84,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -99,6 +101,164 @@
           "italian"
         ],
         "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "growth-marketing",
+      "url": "/domains/growth-marketing",
+      "title": "Growth Marketing: CRO, Otomasyon ve Yaşam Döngüsü",
+      "description": "Tüm huni için growth marketing hizmetleri: dönüşüm oranı optimizasyonu, elde tutma, yaşam döngüsü otomasyonu ve ölçüm. Hemen başlayın.",
+      "menu": "Growth Marketing (Büyüme)",
+      "featured": true,
+      "icon": "trending-up",
+      "service_count": 0,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "turkish"
+        ],
+        "positions": [
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "marketing-operations",
+      "url": "/domains/marketing-operations",
+      "title": "Pazarlama Operasyonları (Marketing Operations) Hizmetleri",
+      "description": "Çalışan veri, pazarlama otomasyonu ve raporlama altyapısı gereken ekipler için marketing operations hizmetleri. Analitik kurulumu dâhil.",
+      "menu": "Pazarlama Operasyonları",
+      "featured": true,
+      "icon": "settings",
+      "service_count": 0,
+      "scope_count": 0,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "turkish"
+        ]
+      }
+    },
+    {
+      "slug": "performance-marketing",
+      "url": "/domains/performance-marketing",
+      "title": "Performans Pazarlaması: PPC, Sosyal Medya Reklamı ve ROAS",
+      "description": "Her doların ölçülebilir bir eyleme bağlandığı performans pazarlaması: PPC, sosyal medya reklamı, pazaryeri, affiliate ve atıf tek sistemde.",
+      "menu": "Performans Pazarlama",
+      "featured": true,
+      "icon": "target",
+      "service_count": 1,
+      "scope_count": 4,
+      "solution_count": 1,
+      "case_count": 2,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "youtube-ads",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "turkish"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "ppc-specialist",
           "social-media-manager"
         ]
       }
@@ -136,7 +296,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -196,6 +357,7 @@
           "ppc"
         ],
         "industries": [
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech"
@@ -234,12 +396,15 @@
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "seo-research": "SEO Araştırması",
       "content-strategy": "İçerik Stratejisi",
-      "content-writing": "İçerik Yazarlığı",
-      "technical-seo": "Teknik SEO",
       "ppc-audit": "Reklam Analizi",
-      "google-ads-search": "Google Ads Arama Ağı"
+      "google-ads-search": "Google Ads Arama Ağı",
+      "youtube-ads": "YouTube Ads",
+      "telegram-ads": "Telegram Reklamları",
+      "content-writing": "İçerik Yazarlığı",
+      "technical-seo": "Teknik SEO"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -254,13 +419,14 @@
       "aso": "ASO Hizmeti",
       "social-media": "Sosyal Medya",
       "content": "İçerik Pazarlama",
-      "seo": "SEO Hizmeti",
-      "ppc": "Performans Pazarlama"
+      "ppc": "Performans Pazarlama",
+      "seo": "SEO Hizmeti"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintech ve Bankacılık",
-      "ecommerce": "E-ticaret"
+      "ecommerce": "E-ticaret",
+      "manufacturing": "Sanayi"
     },
     "countries": {
       "poland": "Polonya",
@@ -280,12 +446,14 @@
     "positions": {
       "aso-specialist": "ASO Uzmanı",
       "social-media-manager": "Sosyal Medya Uzmanı",
-      "seo-expert": "SEO Uzmanı",
+      "business-development-manager": "İş Geliştirme Yöneticisi",
       "marketing-consultant": "Pazarlama Danışmanı",
-      "ppc-specialist": "Google Ads Uzmanı"
+      "ppc-specialist": "Google Ads Uzmanı",
+      "seo-expert": "SEO Uzmanı"
     },
     "cases": {
-      "alvadi": "ALVADI"
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",

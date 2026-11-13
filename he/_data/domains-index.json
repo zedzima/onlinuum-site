@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 3,
+      "scope_count": 4,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -17,7 +17,8 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko"
@@ -83,6 +84,57 @@
         "industries": [
           "ecommerce",
           "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "growth-marketing",
+      "url": "/domains/growth-marketing",
+      "title": "שיווק צמיחה (growth marketing): CRO ואוטומציה",
+      "description": "שירותי growth marketing לאופטימיזציה של המשפך כולו: שיפור יחס המרה, שימור, אוטומציה של מחזור חיי הלקוח ומדידה. בואו נתחיל.",
+      "menu": "שיווק צמיחה",
+      "featured": true,
+      "icon": "trending-up",
+      "service_count": 0,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
           "fintech"
         ],
         "countries": [
@@ -99,6 +151,108 @@
           "italian"
         ],
         "positions": [
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "marketing-operations",
+      "url": "/domains/marketing-operations",
+      "title": "תפעול שיווק (marketing operations): אנליטיקס ואוטומציה",
+      "description": "שירותי marketing operations לצוותים שצריכים נתונים שעובדים, אוטומציה שיווקית ותשתית דיווח. כולל הקמת אנליטיקס. קראו עוד.",
+      "menu": "תפעול שיווק",
+      "featured": true,
+      "icon": "settings",
+      "service_count": 0,
+      "scope_count": 0,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ]
+      }
+    },
+    {
+      "slug": "performance-marketing",
+      "url": "/domains/performance-marketing",
+      "title": "שיווק ביצועים (performance marketing): PPC ו-ROAS",
+      "description": "Performance marketing שבו כל דולר מוביל לפעולה מדידה: PPC, פרסום ממומן ברשתות, מרקטפלייסים, שותפים ואטריביוציה במערכת אחת.",
+      "menu": "שיווק ביצועים",
+      "featured": true,
+      "icon": "target",
+      "service_count": 1,
+      "scope_count": 4,
+      "solution_count": 1,
+      "case_count": 2,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "youtube-ads",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "ppc-specialist",
           "social-media-manager"
         ]
       }
@@ -136,7 +290,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -194,6 +349,7 @@
           "ppc"
         ],
         "industries": [
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech"
@@ -230,12 +386,15 @@
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "seo-research": "מחקר SEO",
       "content-strategy": "אסטרטגיית תוכן",
-      "content-writing": "כתיבת תוכן",
-      "technical-seo": "קידום אתרים טכני",
       "ppc-audit": "אודיט PPC",
-      "google-ads-search": "קמפיין חיפוש בגוגל"
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "youtube-ads": "פרסום ביוטיוב",
+      "telegram-ads": "פרסום בטלגרם",
+      "content-writing": "כתיבת תוכן",
+      "technical-seo": "קידום אתרים טכני"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
@@ -250,13 +409,14 @@
       "aso": "ASO",
       "social-media": "רשתות חברתיות",
       "content": "שיווק תוכן",
-      "seo": "קידום אתרים",
-      "ppc": "PPC"
+      "ppc": "PPC",
+      "seo": "קידום אתרים"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "פינטק",
-      "ecommerce": "מסחר אלקטרוני"
+      "ecommerce": "מסחר אלקטרוני",
+      "manufacturing": "תעשייה וייצור"
     },
     "countries": {
       "poland": "פולין",
@@ -274,12 +434,14 @@
     "positions": {
       "aso-specialist": "מומחה ASO",
       "social-media-manager": "מנהל סושיאל",
-      "seo-expert": "מומחה קידום אתרים",
+      "business-development-manager": "מנהל פיתוח עסקי",
       "marketing-consultant": "יועץ שיווק",
-      "ppc-specialist": "מנהל קמפיינים PPC"
+      "ppc-specialist": "מנהל קמפיינים PPC",
+      "seo-expert": "מומחה קידום אתרים"
     },
     "cases": {
-      "alvadi": "ALVADI"
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "איך AI בוחר מקורות",

@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 3,
+      "scope_count": 4,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -17,7 +17,8 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko"
@@ -84,6 +85,58 @@
         "industries": [
           "ecommerce",
           "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "growth-marketing",
+      "url": "/domains/growth-marketing",
+      "title": "Growth marketing bureau: conversie, automation en lifecycle",
+      "description": "Growth marketing bureau voor de hele funnel: conversie optimalisatie, klantbehoud, lifecycle marketing, automation en meting. Aan de slag.",
+      "menu": "Growth marketing",
+      "featured": true,
+      "icon": "trending-up",
+      "service_count": 0,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
           "fintech"
         ],
         "countries": [
@@ -101,6 +154,110 @@
           "italian"
         ],
         "positions": [
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "marketing-operations",
+      "url": "/domains/marketing-operations",
+      "title": "Marketing operations: analytics, automation en martech",
+      "description": "Marketing operations voor teams die werkende data, marketing automation en rapportage nodig hebben. Inrichting van analytics inbegrepen. Lees meer.",
+      "menu": "Marketingoperations",
+      "featured": true,
+      "icon": "settings",
+      "service_count": 0,
+      "scope_count": 0,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ]
+      }
+    },
+    {
+      "slug": "performance-marketing",
+      "url": "/domains/performance-marketing",
+      "title": "Performance marketing bureau: SEA, paid social en ROAS",
+      "description": "Performance marketing waarin elke euro te herleiden is tot een meetbare actie: SEA, paid social, marketplace-ads, affiliate en attributie in één systeem.",
+      "menu": "Performancemarketing",
+      "featured": true,
+      "icon": "target",
+      "service_count": 1,
+      "scope_count": 4,
+      "solution_count": 1,
+      "case_count": 2,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "youtube-ads",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "ppc-specialist",
           "social-media-manager"
         ]
       }
@@ -138,7 +295,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -197,6 +355,7 @@
           "ppc"
         ],
         "industries": [
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech"
@@ -234,12 +393,15 @@
       "aso-optimization": "ASO-optimalisatie",
       "aso-localization": "App vertalen",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App store-CRO",
       "seo-research": "Zoekwoordenonderzoek",
       "content-strategy": "Contentstrategie",
-      "content-writing": "Teksten schrijven",
-      "technical-seo": "Technische SEO",
       "ppc-audit": "SEA-audit",
-      "google-ads-search": "Google Ads-zoekcampagnes"
+      "google-ads-search": "Google Ads-zoekcampagnes",
+      "youtube-ads": "YouTube Ads-beheer",
+      "telegram-ads": "Telegram Ads-beheer",
+      "content-writing": "Teksten schrijven",
+      "technical-seo": "Technische SEO"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -254,13 +416,14 @@
       "aso": "ASO",
       "social-media": "Social media",
       "content": "Contentmarketing",
-      "seo": "SEO",
-      "ppc": "SEA"
+      "ppc": "SEA",
+      "seo": "SEO"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintechbedrijven",
-      "ecommerce": "Webshops"
+      "ecommerce": "Webshops",
+      "manufacturing": "Maakindustrie"
     },
     "countries": {
       "poland": "Polen",
@@ -279,12 +442,14 @@
     "positions": {
       "aso-specialist": "ASO-specialist",
       "social-media-manager": "Social media manager",
-      "seo-expert": "SEO-specialist",
+      "business-development-manager": "Business development manager",
       "marketing-consultant": "Marketing consultant",
-      "ppc-specialist": "SEA-specialist"
+      "ppc-specialist": "SEA-specialist",
+      "seo-expert": "SEO-specialist"
     },
     "cases": {
-      "alvadi": "ALVADI"
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Hoe AI bronnen kiest",

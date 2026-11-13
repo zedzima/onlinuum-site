@@ -22,7 +22,10 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "product-marketing"
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
         ],
         "scopes": [
           "aso-localization",
@@ -71,7 +74,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -79,7 +82,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -89,6 +95,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -118,7 +125,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "netherlands",
@@ -157,7 +165,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -165,7 +173,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -174,7 +185,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "vitali-bakun"
@@ -193,7 +205,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "eu"
@@ -209,7 +222,10 @@
   "labels": {
     "domains": {
       "search-marketing": "التسويق عبر محركات البحث",
+      "growth-marketing": "تسويق النمو",
+      "performance-marketing": "تسويق الأداء",
       "product-marketing": "تسويق المنتجات",
+      "marketing-operations": "عمليات التسويق",
       "community-marketing": "التسويق المجتمعي",
       "app-marketing": "تسويق التطبيقات"
     },
@@ -221,6 +237,7 @@
       "technical-seo": "السيو التقني",
       "aso-optimization": "تحسين ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "content-strategy": "استراتيجية المحتوى",
       "content-writing": "كتابة المحتوى",
       "telegram-ads": "إعلانات تليجرام",
@@ -240,7 +257,8 @@
     "industries": {
       "ecommerce": "التجارة الإلكترونية",
       "saas": "SaaS",
-      "fintech": "التكنولوجيا المالية"
+      "fintech": "التكنولوجيا المالية",
+      "manufacturing": "الصناعة"
     },
     "countries": {
       "uae": "الإمارات",

@@ -8,7 +8,7 @@
       "menu": "מסחר אלקטרוני",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -16,8 +16,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -26,6 +29,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -88,7 +92,7 @@
       "menu": "פינטק",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -96,8 +100,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -106,6 +113,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -156,6 +164,74 @@
       }
     },
     {
+      "slug": "manufacturing",
+      "url": "/industries/manufacturing",
+      "title": "שיווק תעשייתי ודיגיטלי ליצרנים ב-B2B",
+      "description": "שיווק תעשייתי ושיווק דיגיטלי ליצרנים ולחברות B2B: SEO, תוכן ויצירת ביקוש שבנויים למכירות יצוא. בקשו בריף.",
+      "menu": "תעשייה וייצור",
+      "featured": false,
+      "icon": "manufacturing",
+      "scope_count": 6,
+      "service_count": 3,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "community-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "saas",
       "url": "/industries/saas",
       "title": "שיווק דיגיטלי B2B לחברות SaaS",
@@ -163,7 +239,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -171,8 +247,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -181,6 +260,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -239,8 +319,11 @@
   "labels": {
     "domains": {
       "search-marketing": "שיווק במנועי חיפוש",
+      "growth-marketing": "שיווק צמיחה",
+      "performance-marketing": "שיווק ביצועים",
       "product-marketing": "שיווק מוצר",
       "community-marketing": "ניהול קהילה",
+      "marketing-operations": "תפעול שיווק",
       "app-marketing": "שיווק אפליקציות"
     },
     "scopes": {
@@ -249,6 +332,7 @@
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "content-strategy": "אסטרטגיית תוכן",
       "content-writing": "כתיבת תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",

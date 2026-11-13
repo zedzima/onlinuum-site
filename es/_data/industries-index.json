@@ -8,7 +8,7 @@
       "menu": "Ecommerce",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -16,8 +16,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -26,6 +29,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -90,7 +94,7 @@
       "menu": "Sector fintech",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -98,8 +102,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -108,6 +115,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -160,6 +168,76 @@
       }
     },
     {
+      "slug": "manufacturing",
+      "url": "/industries/manufacturing",
+      "title": "Agencia de Marketing Industrial para Exportadores",
+      "description": "Agencia de marketing industrial para fabricantes y B2B: SEO, contenido técnico y generación de demanda para vender en exportación. Solicita tu briefing.",
+      "menu": "Industria",
+      "featured": false,
+      "icon": "manufacturing",
+      "scope_count": 6,
+      "service_count": 3,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "community-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "poland",
+          "spain",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "italian"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "saas",
       "url": "/industries/saas",
       "title": "Marketing Digital para SaaS y Crecimiento B2B",
@@ -167,7 +245,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -175,8 +253,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -185,6 +266,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -245,8 +327,11 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing en buscadores",
+      "growth-marketing": "Growth marketing",
+      "performance-marketing": "Marketing de resultados",
       "product-marketing": "Marketing de producto",
       "community-marketing": "Marketing de comunidad",
+      "marketing-operations": "Operaciones de marketing",
       "app-marketing": "Marketing de apps"
     },
     "scopes": {
@@ -255,6 +340,7 @@
       "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "CRO en App Store",
       "content-strategy": "Estrategia de contenidos",
       "content-writing": "Redacción de contenidos",
       "google-ads-search": "Búsqueda en Google Ads",

@@ -51,6 +51,7 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
+          "app-store-cro",
           "apple-search-ads"
         ],
         "solutions": [
@@ -146,6 +147,9 @@
         "education_requirements": "학력 요건 없음"
       },
       "facets": {
+        "domains": [
+          "growth-marketing"
+        ],
         "solutions": [
           "digital-marketing-consulting"
         ],
@@ -158,7 +162,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "netherlands"
@@ -243,7 +248,9 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "growth-marketing",
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -367,7 +374,8 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
@@ -384,7 +392,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland"
@@ -485,7 +494,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -587,7 +597,8 @@
       },
       "facets": {
         "domains": [
-          "community-marketing"
+          "community-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "telegram-ads",
@@ -655,11 +666,14 @@
     "domains": {
       "app-marketing": "앱 마케팅",
       "search-marketing": "검색엔진 마케팅",
+      "growth-marketing": "그로스 마케팅",
+      "performance-marketing": "퍼포먼스 마케팅",
       "community-marketing": "커뮤니티 마케팅"
     },
     "scopes": {
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
+      "app-store-cro": "앱스토어 CRO",
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO 키워드 분석",
       "content-strategy": "콘텐츠 기획",
@@ -683,7 +697,8 @@
     "industries": {
       "saas": "SaaS",
       "fintech": "핀테크",
-      "ecommerce": "이커머스"
+      "ecommerce": "이커머스",
+      "manufacturing": "제조업"
     },
     "countries": {
       "poland": "폴란드",

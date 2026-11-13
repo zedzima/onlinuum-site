@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -22,7 +22,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -32,6 +35,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -61,7 +65,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "netherlands",
@@ -127,7 +132,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -135,7 +140,10 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
+          "marketing-operations",
           "community-marketing",
           "app-marketing"
         ],
@@ -144,7 +152,8 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "vitali-bakun"
@@ -163,7 +172,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "eu"
@@ -179,7 +189,10 @@
   "labels": {
     "domains": {
       "search-marketing": "שיווק במנועי חיפוש",
+      "growth-marketing": "שיווק צמיחה",
+      "performance-marketing": "שיווק ביצועים",
       "product-marketing": "שיווק מוצר",
+      "marketing-operations": "תפעול שיווק",
       "community-marketing": "ניהול קהילה",
       "app-marketing": "שיווק אפליקציות"
     },
@@ -189,6 +202,7 @@
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "content-strategy": "אסטרטגיית תוכן",
       "content-writing": "כתיבת תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
@@ -218,7 +232,8 @@
     "industries": {
       "ecommerce": "מסחר אלקטרוני",
       "saas": "SaaS",
-      "fintech": "פינטק"
+      "fintech": "פינטק",
+      "manufacturing": "תעשייה וייצור"
     },
     "countries": {
       "netherlands": "הולנד",

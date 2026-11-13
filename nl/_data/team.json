@@ -82,7 +82,8 @@
       "industries": [
         "ecommerce",
         "saas",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -92,6 +93,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -99,6 +103,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "app-store-cro",
           "apple-search-ads",
           "aso-localization",
           "aso-optimization",
@@ -121,7 +126,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -165,7 +171,8 @@
       "industries": [
         "saas",
         "ecommerce",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -174,8 +181,11 @@
       "article_count": 0,
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing",
-          "product-marketing"
+          "growth-marketing",
+          "product-marketing",
+          "marketing-operations"
         ],
         "scopes": [
           "google-ads-search",
@@ -195,7 +205,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -217,6 +228,9 @@
   "labels": {
     "domains": {
       "search-marketing": "Zoekmachinemarketing",
+      "growth-marketing": "Growth marketing",
+      "marketing-operations": "Marketingoperations",
+      "performance-marketing": "Performancemarketing",
       "product-marketing": "Productmarketing",
       "community-marketing": "Community marketing",
       "app-marketing": "App marketing"
@@ -224,6 +238,7 @@
     "scopes": {
       "seo-research": "Zoekwoordenonderzoek",
       "technical-seo": "Technische SEO",
+      "app-store-cro": "App store-CRO",
       "apple-search-ads": "Apple Search Ads",
       "aso-localization": "App vertalen",
       "aso-optimization": "ASO-optimalisatie",
@@ -241,7 +256,8 @@
     "industries": {
       "ecommerce": "Webshops",
       "saas": "SaaS",
-      "fintech": "Fintechbedrijven"
+      "fintech": "Fintechbedrijven",
+      "manufacturing": "Maakindustrie"
     },
     "countries": {
       "eu": "Europese Unie",

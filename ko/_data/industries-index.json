@@ -8,7 +8,7 @@
       "menu": "이커머스",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -16,8 +16,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -26,6 +29,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -89,7 +93,7 @@
       "menu": "핀테크",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -97,8 +101,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -107,6 +114,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -158,6 +166,75 @@
       }
     },
     {
+      "slug": "manufacturing",
+      "url": "/industries/manufacturing",
+      "title": "제조업 마케팅: 수출 제조사를 위한 B2B 디지털 마케팅",
+      "description": "제조사와 산업재 B2B를 위한 제조업 마케팅: 수출 마케팅과 해외 바이어 확보를 위한 SEO, 콘텐츠, 수요 창출. 브리프를 요청하십시오.",
+      "menu": "제조업",
+      "featured": false,
+      "icon": "manufacturing",
+      "scope_count": 6,
+      "service_count": 3,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "community-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "south-korea"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "saas",
       "url": "/industries/saas",
       "title": "SaaS 마케팅: B2B 수요 창출과 CAC 절감",
@@ -165,7 +242,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -173,8 +250,11 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "marketing-operations",
           "app-marketing"
         ],
         "scopes": [
@@ -183,6 +263,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -242,8 +323,11 @@
   "labels": {
     "domains": {
       "search-marketing": "검색엔진 마케팅",
+      "growth-marketing": "그로스 마케팅",
+      "performance-marketing": "퍼포먼스 마케팅",
       "product-marketing": "프로덕트 마케팅",
       "community-marketing": "커뮤니티 마케팅",
+      "marketing-operations": "마케팅 오퍼레이션",
       "app-marketing": "앱 마케팅"
     },
     "scopes": {
@@ -252,6 +336,7 @@
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "앱스토어 CRO",
       "content-strategy": "콘텐츠 기획",
       "content-writing": "블로그 대행",
       "google-ads-search": "구글 검색광고",

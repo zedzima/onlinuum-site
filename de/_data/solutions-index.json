@@ -15,6 +15,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -25,6 +28,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -44,7 +48,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "germany",
@@ -89,6 +94,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing"
         ],
@@ -106,7 +112,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "germany",
@@ -137,6 +144,9 @@
   "labels": {
     "domains": {
       "search-marketing": "Suchmaschinenmarketing",
+      "growth-marketing": "Growth-Marketing",
+      "marketing-operations": "Marketing-Operations",
+      "performance-marketing": "Performance-Marketing",
       "product-marketing": "Produktmarketing",
       "community-marketing": "Community-Marketing",
       "app-marketing": "App-Marketing"
@@ -147,6 +157,7 @@
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App-Store-CRO",
       "content-strategy": "Content-Strategie",
       "google-ads-search": "Google Ads Suchkampagnen",
       "ppc-audit": "Google Ads Audit",
@@ -166,7 +177,8 @@
     "industries": {
       "saas": "SaaS",
       "ecommerce": "E-Commerce",
-      "fintech": "Fintech und Banken"
+      "fintech": "Fintech und Banken",
+      "manufacturing": "Fertigung"
     },
     "countries": {
       "germany": "Deutschland",

@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 3,
+      "scope_count": 4,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -17,7 +17,8 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko"
@@ -84,6 +85,58 @@
         "industries": [
           "ecommerce",
           "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "south-korea"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "growth-marketing",
+      "url": "/domains/growth-marketing",
+      "title": "그로스 마케팅: 전환율 최적화, CRM 마케팅, 자동화",
+      "description": "퍼널 전체를 최적화하는 그로스 마케팅 서비스: 전환율 최적화, 리텐션, CRM 마케팅과 라이프사이클 자동화, 측정. 지금 시작하기.",
+      "menu": "그로스 마케팅",
+      "featured": true,
+      "icon": "trending-up",
+      "service_count": 0,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
           "fintech"
         ],
         "countries": [
@@ -101,6 +154,110 @@
           "italian"
         ],
         "positions": [
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "marketing-operations",
+      "url": "/domains/marketing-operations",
+      "title": "마케팅 오퍼레이션: 마케팅 자동화, 데이터 분석, 대시보드",
+      "description": "제대로 작동하는 데이터, 마케팅 자동화, 리포트 인프라가 필요한 팀을 위한 마케팅 오퍼레이션 서비스. 마케팅 데이터 분석 구축 포함. 자세히 보기.",
+      "menu": "마케팅 오퍼레이션",
+      "featured": true,
+      "icon": "settings",
+      "service_count": 0,
+      "scope_count": 0,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "south-korea"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ]
+      }
+    },
+    {
+      "slug": "performance-marketing",
+      "url": "/domains/performance-marketing",
+      "title": "퍼포먼스 마케팅 대행사: 검색광고, SNS 광고, ROAS",
+      "description": "광고비 1달러마다 측정 가능한 행동으로 이어지는 퍼포먼스 마케팅: 검색광고, SNS 광고, 마켓플레이스 광고, 제휴, 기여도 분석을 하나의 체계로.",
+      "menu": "퍼포먼스 마케팅",
+      "featured": true,
+      "icon": "target",
+      "service_count": 1,
+      "scope_count": 4,
+      "solution_count": 1,
+      "case_count": 2,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "youtube-ads",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "south-korea"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "ppc-specialist",
           "social-media-manager"
         ]
       }
@@ -138,7 +295,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -197,6 +355,7 @@
           "ppc"
         ],
         "industries": [
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech"
@@ -234,12 +393,15 @@
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "앱스토어 CRO",
       "seo-research": "SEO 키워드 분석",
       "content-strategy": "콘텐츠 기획",
-      "content-writing": "블로그 대행",
-      "technical-seo": "테크니컬 SEO",
       "ppc-audit": "광고 성과 분석",
-      "google-ads-search": "구글 검색광고"
+      "google-ads-search": "구글 검색광고",
+      "youtube-ads": "유튜브 광고",
+      "telegram-ads": "텔레그램 광고",
+      "content-writing": "블로그 대행",
+      "technical-seo": "테크니컬 SEO"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -254,13 +416,14 @@
       "aso": "ASO 최적화",
       "social-media": "SNS 마케팅",
       "content": "콘텐츠 마케팅",
-      "seo": "SEO 대행",
-      "ppc": "검색광고"
+      "ppc": "검색광고",
+      "seo": "SEO 대행"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "핀테크",
-      "ecommerce": "이커머스"
+      "ecommerce": "이커머스",
+      "manufacturing": "제조업"
     },
     "countries": {
       "poland": "폴란드",
@@ -279,12 +442,14 @@
     "positions": {
       "aso-specialist": "ASO 전문가",
       "social-media-manager": "SNS 마케터",
-      "seo-expert": "SEO 채용",
+      "business-development-manager": "사업개발 매니저",
       "marketing-consultant": "마케팅 컨설턴트",
-      "ppc-specialist": "퍼포먼스 마케터"
+      "ppc-specialist": "퍼포먼스 마케터",
+      "seo-expert": "SEO 채용"
     },
     "cases": {
-      "alvadi": "ALVADI"
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AI가 출처를 고르는 방식",

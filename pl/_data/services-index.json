@@ -99,7 +99,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -137,11 +138,13 @@
       "country_count": 6,
       "language_count": 4,
       "domains": [
-        "search-marketing"
+        "search-marketing",
+        "performance-marketing"
       ],
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
@@ -162,7 +165,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -222,7 +226,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -301,7 +306,8 @@
       "app-marketing": "Marketing aplikacji",
       "search-marketing": "Marketing w wyszukiwarkach",
       "community-marketing": "Marketing społecznościowy",
-      "product-marketing": "Marketing produktu"
+      "product-marketing": "Marketing produktu",
+      "performance-marketing": "Marketing efektywnościowy"
     },
     "scopes": {
       "aso-optimization": "Optymalizacja aplikacji",
@@ -327,7 +333,8 @@
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintech i usługi finansowe",
-      "ecommerce": "Sklepy internetowe"
+      "ecommerce": "Sklepy internetowe",
+      "manufacturing": "Przemysł i produkcja"
     },
     "countries": {
       "poland": "Polska",

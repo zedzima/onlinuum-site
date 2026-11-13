@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 3,
+      "scope_count": 4,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -17,7 +17,8 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko"
@@ -83,6 +84,57 @@
         "industries": [
           "ecommerce",
           "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "growth-marketing",
+      "url": "/domains/growth-marketing",
+      "title": "グロースマーケティング支援｜CVR改善・自動化・LTV向上",
+      "description": "ファネル全体を最適化するグロースマーケティング支援。CVR改善、継続率、ライフサイクルの自動化、計測までを一つの仕組みに。まずはご相談ください。",
+      "menu": "グロースマーケティング",
+      "featured": true,
+      "icon": "trending-up",
+      "service_count": 0,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
           "fintech"
         ],
         "countries": [
@@ -99,6 +151,108 @@
           "italian"
         ],
         "positions": [
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "marketing-operations",
+      "url": "/domains/marketing-operations",
+      "title": "マーケティングオペレーション支援｜分析とMAツールの整備",
+      "description": "データ、自動化、レポートの基盤を整えるマーケティングオペレーション支援。マーケティング分析の設計からMAツールの運用まで。詳しくはこちら。",
+      "menu": "マーケティングオペレーション",
+      "featured": true,
+      "icon": "settings",
+      "service_count": 0,
+      "scope_count": 0,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ]
+      }
+    },
+    {
+      "slug": "performance-marketing",
+      "url": "/domains/performance-marketing",
+      "title": "パフォーマンスマーケティング｜広告運用代行とROAS改善",
+      "description": "1ドル単位で成果まで追えるパフォーマンスマーケティング。リスティング広告、SNS広告、マーケットプレイス広告、アフィリエイトなどのWeb広告を一つの仕組みで運用代行します。",
+      "menu": "パフォーマンスマーケティング",
+      "featured": true,
+      "icon": "target",
+      "service_count": 1,
+      "scope_count": 4,
+      "solution_count": 1,
+      "case_count": 2,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "youtube-ads",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "ppc-specialist",
           "social-media-manager"
         ]
       }
@@ -136,7 +290,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -194,6 +349,7 @@
           "ppc"
         ],
         "industries": [
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech"
@@ -230,12 +386,15 @@
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "seo-research": "キーワード選定",
       "content-strategy": "コンテンツ戦略",
-      "content-writing": "記事作成代行",
-      "technical-seo": "テクニカルSEO",
       "ppc-audit": "広告アカウント診断",
-      "google-ads-search": "Google広告・検索広告"
+      "google-ads-search": "Google広告・検索広告",
+      "youtube-ads": "YouTube広告",
+      "telegram-ads": "Telegram Ads",
+      "content-writing": "記事作成代行",
+      "technical-seo": "テクニカルSEO"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
@@ -250,13 +409,14 @@
       "aso": "ASO対策",
       "social-media": "SNS運用代行",
       "content": "コンテンツマーケティング",
-      "seo": "SEO対策",
-      "ppc": "リスティング広告"
+      "ppc": "リスティング広告",
+      "seo": "SEO対策"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "フィンテック",
-      "ecommerce": "EC"
+      "ecommerce": "EC",
+      "manufacturing": "製造業"
     },
     "countries": {
       "poland": "ポーランド",
@@ -274,12 +434,14 @@
     "positions": {
       "aso-specialist": "ASO担当",
       "social-media-manager": "SNS運用担当",
-      "seo-expert": "SEO担当",
+      "business-development-manager": "事業開発マネージャー",
       "marketing-consultant": "マーケティングコンサルタント",
-      "ppc-specialist": "広告運用担当"
+      "ppc-specialist": "広告運用担当",
+      "seo-expert": "SEO担当"
     },
     "cases": {
-      "alvadi": "ALVADI"
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AIが引用先を選ぶ基準",

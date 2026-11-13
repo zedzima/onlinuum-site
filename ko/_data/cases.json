@@ -39,6 +39,7 @@
       },
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing"
         ],
         "scopes": [
@@ -97,6 +98,9 @@
         "label": "첫 전환까지"
       },
       "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
         "scopes": [
           "google-ads-search"
         ],
@@ -120,6 +124,7 @@
   ],
   "labels": {
     "domains": {
+      "performance-marketing": "퍼포먼스 마케팅",
       "search-marketing": "검색엔진 마케팅"
     },
     "scopes": {

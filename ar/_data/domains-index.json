@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 3,
+      "scope_count": 4,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -17,7 +17,8 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-store-cro"
         ],
         "experts": [
           "dima-gerko"
@@ -84,7 +85,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -101,6 +103,164 @@
           "italian"
         ],
         "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "growth-marketing",
+      "url": "/domains/growth-marketing",
+      "title": "Growth Marketing: تسويق النمو عبر CRO والأتمتة",
+      "description": "خدمات growth marketing لتحسين القمع كاملا: التحويل، والاحتفاظ بالعملاء، وأتمتة دورة حياة العميل، والقياس. ابدأوا الآن.",
+      "menu": "تسويق النمو",
+      "featured": true,
+      "icon": "trending-up",
+      "service_count": 0,
+      "scope_count": 2,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "italian"
+        ],
+        "positions": [
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "marketing-operations",
+      "url": "/domains/marketing-operations",
+      "title": "عمليات التسويق: التحليلات والأتمتة والتقارير",
+      "description": "خدمات عمليات التسويق للفرق التي تحتاج إلى بيانات موثوقة وأتمتة وبنية تقارير: marketing operations مع إعداد التحليلات. اعرفوا المزيد.",
+      "menu": "عمليات التسويق",
+      "featured": true,
+      "icon": "settings",
+      "service_count": 0,
+      "scope_count": 0,
+      "solution_count": 1,
+      "case_count": 0,
+      "expert_count": 2,
+      "facets": {
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "italian"
+        ]
+      }
+    },
+    {
+      "slug": "performance-marketing",
+      "url": "/domains/performance-marketing",
+      "title": "Performance Marketing: تسويق الأداء عبر PPC وROAS",
+      "description": "Performance marketing يرتبط فيه كل دولار بإجراء قابل للقياس: PPC، والإعلانات الاجتماعية، وإعلانات الأسواق الإلكترونية، والتسويق بالعمولة، والإسناد.",
+      "menu": "تسويق الأداء",
+      "featured": true,
+      "icon": "target",
+      "service_count": 1,
+      "scope_count": 4,
+      "solution_count": 1,
+      "case_count": 2,
+      "expert_count": 2,
+      "facets": {
+        "scopes": [
+          "ppc-audit",
+          "google-ads-search",
+          "youtube-ads",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "cases": [
+          "alvadi",
+          "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "manufacturing",
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "italian"
+        ],
+        "positions": [
+          "marketing-consultant",
+          "ppc-specialist",
           "social-media-manager"
         ]
       }
@@ -138,7 +298,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -198,6 +359,7 @@
           "ppc"
         ],
         "industries": [
+          "manufacturing",
           "ecommerce",
           "saas",
           "fintech"
@@ -236,12 +398,15 @@
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
-      "content-writing": "كتابة المحتوى",
-      "technical-seo": "السيو التقني",
       "ppc-audit": "تدقيق PPC",
-      "google-ads-search": "إعلانات جوجل للبحث"
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "youtube-ads": "YouTube Ads",
+      "telegram-ads": "إعلانات تليجرام",
+      "content-writing": "كتابة المحتوى",
+      "technical-seo": "السيو التقني"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
@@ -256,13 +421,14 @@
       "aso": "تحسين متجر التطبيقات ASO",
       "social-media": "وسائل التواصل الاجتماعي",
       "content": "التسويق بالمحتوى",
-      "seo": "سيو SEO",
-      "ppc": "PPC"
+      "ppc": "PPC",
+      "seo": "سيو SEO"
     },
     "industries": {
       "saas": "SaaS",
       "fintech": "التكنولوجيا المالية",
-      "ecommerce": "التجارة الإلكترونية"
+      "ecommerce": "التجارة الإلكترونية",
+      "manufacturing": "الصناعة"
     },
     "countries": {
       "poland": "بولندا",
@@ -282,12 +448,14 @@
     "positions": {
       "aso-specialist": "متخصص ASO",
       "social-media-manager": "أخصائي سوشيال ميديا",
-      "seo-expert": "خبير SEO",
+      "business-development-manager": "مدير تطوير الأعمال",
       "marketing-consultant": "مستشار تسويق",
-      "ppc-specialist": "متخصص PPC"
+      "ppc-specialist": "متخصص PPC",
+      "seo-expert": "خبير SEO"
     },
     "cases": {
-      "alvadi": "ALVADI"
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",

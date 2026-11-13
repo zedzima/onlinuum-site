@@ -15,6 +15,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -25,6 +28,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -44,7 +48,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -87,6 +92,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing"
         ],
@@ -104,7 +110,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -133,6 +140,9 @@
   "labels": {
     "domains": {
       "search-marketing": "検索マーケティング",
+      "growth-marketing": "グロースマーケティング",
+      "marketing-operations": "マーケティングオペレーション",
+      "performance-marketing": "パフォーマンスマーケティング",
       "product-marketing": "プロダクトマーケティング",
       "community-marketing": "コミュニティマーケティング",
       "app-marketing": "アプリマーケティング"
@@ -143,6 +153,7 @@
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "App Store CRO",
       "content-strategy": "コンテンツ戦略",
       "google-ads-search": "Google広告・検索広告",
       "ppc-audit": "広告アカウント診断",
@@ -162,7 +173,8 @@
     "industries": {
       "saas": "SaaS",
       "ecommerce": "EC",
-      "fintech": "フィンテック"
+      "fintech": "フィンテック",
+      "manufacturing": "製造業"
     },
     "countries": {
       "poland": "ポーランド",

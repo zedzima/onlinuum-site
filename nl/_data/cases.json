@@ -39,6 +39,7 @@
       },
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing"
         ],
         "scopes": [
@@ -97,6 +98,9 @@
         "label": "Tot de eerste conversies"
       },
       "facets": {
+        "domains": [
+          "performance-marketing"
+        ],
         "scopes": [
           "google-ads-search"
         ],
@@ -120,6 +124,7 @@
   ],
   "labels": {
     "domains": {
+      "performance-marketing": "Performancemarketing",
       "search-marketing": "Zoekmachinemarketing"
     },
     "scopes": {

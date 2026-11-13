@@ -82,7 +82,8 @@
       "industries": [
         "ecommerce",
         "saas",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -92,6 +93,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -99,6 +103,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "app-store-cro",
           "apple-search-ads",
           "aso-localization",
           "aso-optimization",
@@ -121,7 +126,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -165,7 +171,8 @@
       "industries": [
         "saas",
         "ecommerce",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -174,8 +181,11 @@
       "article_count": 0,
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing",
-          "product-marketing"
+          "growth-marketing",
+          "product-marketing",
+          "marketing-operations"
         ],
         "scopes": [
           "google-ads-search",
@@ -195,7 +205,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -216,6 +227,9 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing w wyszukiwarkach",
+      "growth-marketing": "Growth marketing",
+      "marketing-operations": "Operacje marketingowe",
+      "performance-marketing": "Marketing efektywnościowy",
       "product-marketing": "Marketing produktu",
       "community-marketing": "Marketing społecznościowy",
       "app-marketing": "Marketing aplikacji"
@@ -223,6 +237,7 @@
     "scopes": {
       "seo-research": "Analiza SEO",
       "technical-seo": "SEO techniczne",
+      "app-store-cro": "CRO karty aplikacji",
       "apple-search-ads": "Apple Search Ads",
       "aso-localization": "Lokalizacja aplikacji",
       "aso-optimization": "Optymalizacja aplikacji",
@@ -240,7 +255,8 @@
     "industries": {
       "ecommerce": "Sklepy internetowe",
       "saas": "SaaS",
-      "fintech": "Fintech i usługi finansowe"
+      "fintech": "Fintech i usługi finansowe",
+      "manufacturing": "Przemysł i produkcja"
     },
     "countries": {
       "eu": "Unia Europejska",

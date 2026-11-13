@@ -82,7 +82,8 @@
       "industries": [
         "ecommerce",
         "saas",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -92,6 +93,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -99,6 +103,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "app-store-cro",
           "apple-search-ads",
           "aso-localization",
           "aso-optimization",
@@ -121,7 +126,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -165,7 +171,8 @@
       "industries": [
         "saas",
         "ecommerce",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -174,8 +181,11 @@
       "article_count": 0,
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing",
-          "product-marketing"
+          "growth-marketing",
+          "product-marketing",
+          "marketing-operations"
         ],
         "scopes": [
           "google-ads-search",
@@ -195,7 +205,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -216,6 +227,9 @@
   "labels": {
     "domains": {
       "search-marketing": "検索マーケティング",
+      "growth-marketing": "グロースマーケティング",
+      "marketing-operations": "マーケティングオペレーション",
+      "performance-marketing": "パフォーマンスマーケティング",
       "product-marketing": "プロダクトマーケティング",
       "community-marketing": "コミュニティマーケティング",
       "app-marketing": "アプリマーケティング"
@@ -223,6 +237,7 @@
     "scopes": {
       "seo-research": "キーワード選定",
       "technical-seo": "テクニカルSEO",
+      "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "aso-localization": "アプリの多言語対応",
       "aso-optimization": "ASO対策",
@@ -240,7 +255,8 @@
     "industries": {
       "ecommerce": "EC",
       "saas": "SaaS",
-      "fintech": "フィンテック"
+      "fintech": "フィンテック",
+      "manufacturing": "製造業"
     },
     "countries": {
       "eu": "欧州連合",

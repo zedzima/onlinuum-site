@@ -51,6 +51,7 @@
         "scopes": [
           "aso-optimization",
           "aso-localization",
+          "app-store-cro",
           "apple-search-ads"
         ],
         "solutions": [
@@ -148,6 +149,9 @@
         "education_requirements": "sin requisitos"
       },
       "facets": {
+        "domains": [
+          "growth-marketing"
+        ],
         "solutions": [
           "digital-marketing-consulting"
         ],
@@ -160,7 +164,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "spain",
@@ -247,7 +252,9 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "growth-marketing",
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -373,7 +380,8 @@
       },
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
@@ -390,7 +398,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -493,7 +502,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -595,7 +605,8 @@
       },
       "facets": {
         "domains": [
-          "community-marketing"
+          "community-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "telegram-ads",
@@ -665,11 +676,14 @@
     "domains": {
       "app-marketing": "Marketing de apps",
       "search-marketing": "Marketing en buscadores",
+      "growth-marketing": "Growth marketing",
+      "performance-marketing": "Marketing de resultados",
       "community-marketing": "Marketing de comunidad"
     },
     "scopes": {
       "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
+      "app-store-cro": "CRO en App Store",
       "apple-search-ads": "Apple Search Ads",
       "seo-research": "Keyword research",
       "content-strategy": "Estrategia de contenidos",
@@ -693,7 +707,8 @@
     "industries": {
       "saas": "SaaS",
       "fintech": "Sector fintech",
-      "ecommerce": "Ecommerce"
+      "ecommerce": "Ecommerce",
+      "manufacturing": "Industria"
     },
     "countries": {
       "poland": "Polonia",

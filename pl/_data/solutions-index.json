@@ -15,6 +15,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -25,6 +28,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "app-store-cro",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -44,7 +48,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -88,6 +93,7 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
           "community-marketing",
           "product-marketing"
         ],
@@ -105,7 +111,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -135,6 +142,9 @@
   "labels": {
     "domains": {
       "search-marketing": "Marketing w wyszukiwarkach",
+      "growth-marketing": "Growth marketing",
+      "marketing-operations": "Operacje marketingowe",
+      "performance-marketing": "Marketing efektywnościowy",
       "product-marketing": "Marketing produktu",
       "community-marketing": "Marketing społecznościowy",
       "app-marketing": "Marketing aplikacji"
@@ -145,6 +155,7 @@
       "aso-optimization": "Optymalizacja aplikacji",
       "aso-localization": "Lokalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
+      "app-store-cro": "CRO karty aplikacji",
       "content-strategy": "Strategia treści",
       "google-ads-search": "Reklama w Google",
       "ppc-audit": "Audyt Google Ads",
@@ -164,7 +175,8 @@
     "industries": {
       "saas": "SaaS",
       "ecommerce": "Sklepy internetowe",
-      "fintech": "Fintech i usługi finansowe"
+      "fintech": "Fintech i usługi finansowe",
+      "manufacturing": "Przemysł i produkcja"
     },
     "countries": {
       "poland": "Polska",

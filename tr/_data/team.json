@@ -84,7 +84,8 @@
       "industries": [
         "ecommerce",
         "saas",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -94,6 +95,9 @@
       "facets": {
         "domains": [
           "search-marketing",
+          "growth-marketing",
+          "marketing-operations",
+          "performance-marketing",
           "product-marketing",
           "community-marketing",
           "app-marketing"
@@ -101,6 +105,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "app-store-cro",
           "apple-search-ads",
           "aso-localization",
           "aso-optimization",
@@ -123,7 +128,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -168,7 +174,8 @@
       "industries": [
         "saas",
         "ecommerce",
-        "fintech"
+        "fintech",
+        "manufacturing"
       ],
       "cases": [
         "alvadi"
@@ -177,8 +184,11 @@
       "article_count": 0,
       "facets": {
         "domains": [
+          "performance-marketing",
           "search-marketing",
-          "product-marketing"
+          "growth-marketing",
+          "product-marketing",
+          "marketing-operations"
         ],
         "scopes": [
           "google-ads-search",
@@ -198,7 +208,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -219,6 +230,9 @@
   "labels": {
     "domains": {
       "search-marketing": "Arama Motoru Pazarlaması",
+      "growth-marketing": "Growth Marketing (Büyüme)",
+      "marketing-operations": "Pazarlama Operasyonları",
+      "performance-marketing": "Performans Pazarlama",
       "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
       "app-marketing": "Mobil Uygulama Pazarlama"
@@ -226,6 +240,7 @@
     "scopes": {
       "seo-research": "SEO Araştırması",
       "technical-seo": "Teknik SEO",
+      "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "aso-localization": "ASO Yerelleştirme",
       "aso-optimization": "ASO Çalışması",
@@ -243,7 +258,8 @@
     "industries": {
       "ecommerce": "E-ticaret",
       "saas": "SaaS",
-      "fintech": "Fintech ve Bankacılık"
+      "fintech": "Fintech ve Bankacılık",
+      "manufacturing": "Sanayi"
     },
     "countries": {
       "eu": "Avrupa Birliği",

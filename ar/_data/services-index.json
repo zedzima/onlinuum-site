@@ -99,7 +99,8 @@
         "industries": [
           "ecommerce",
           "fintech",
-          "saas"
+          "saas",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -138,11 +139,13 @@
       "country_count": 6,
       "language_count": 4,
       "domains": [
-        "search-marketing"
+        "search-marketing",
+        "performance-marketing"
       ],
       "facets": {
         "domains": [
-          "search-marketing"
+          "search-marketing",
+          "performance-marketing"
         ],
         "scopes": [
           "ppc-audit",
@@ -163,7 +166,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -225,7 +229,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "manufacturing"
         ],
         "countries": [
           "poland",
@@ -307,7 +312,8 @@
       "app-marketing": "تسويق التطبيقات",
       "search-marketing": "التسويق عبر محركات البحث",
       "community-marketing": "التسويق المجتمعي",
-      "product-marketing": "تسويق المنتجات"
+      "product-marketing": "تسويق المنتجات",
+      "performance-marketing": "تسويق الأداء"
     },
     "scopes": {
       "aso-optimization": "تحسين ASO",
@@ -333,7 +339,8 @@
     "industries": {
       "saas": "SaaS",
       "fintech": "التكنولوجيا المالية",
-      "ecommerce": "التجارة الإلكترونية"
+      "ecommerce": "التجارة الإلكترونية",
+      "manufacturing": "الصناعة"
     },
     "countries": {
       "poland": "بولندا",
