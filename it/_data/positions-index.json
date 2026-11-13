@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -62,6 +63,9 @@
           "saas",
           "fintech",
           "ecommerce"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -263,7 +267,8 @@
           "fintech"
         ],
         "countries": [
-          "italy"
+          "italy",
+          "poland"
         ],
         "languages": [
           "italian",
@@ -379,6 +384,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -478,7 +486,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "italy"
         ],
         "languages": [
@@ -588,6 +600,10 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "israel",
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -639,6 +655,7 @@
     "scopes": {
       "aso-optimization": "Ottimizzazione ASO",
       "aso-localization": "Localizzazione ASO",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "Ricerca SEO",
       "content-strategy": "Content strategy",
       "telegram-ads": "Campagne Telegram Ads",
@@ -662,13 +679,17 @@
       "fintech": "Fintech e finanza",
       "ecommerce": "Ecommerce"
     },
+    "countries": {
+      "poland": "Polonia",
+      "italy": "Italia",
+      "china": "Cina",
+      "eu": "Unione Europea",
+      "greece": "Grecia",
+      "israel": "Israele"
+    },
     "languages": {
       "english": "Inglese",
       "italian": "Italiano"
-    },
-    "countries": {
-      "italy": "Italia",
-      "eu": "Unione Europea"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

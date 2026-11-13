@@ -1,6 +1,63 @@
 {
   "countries": [
     {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "中国マーケティング｜Baidu SEOとWeChatで中国進出を支援",
+      "description": "中国進出を目指す海外ブランドのための中国マーケティング。中国語ネイティブの専門家が、Baidu SEO、WeChat、中国SNSでパッケージ化されたサービスを実行します。",
+      "menu": "中国",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "中国語",
+      "dominant_language_code": "zh",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "eu",
       "url": "/countries/eu",
       "title": "ヨーロッパ市場のデジタルマーケティング｜欧州進出を支援",
@@ -14,7 +71,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "英語",
       "dominant_language_code": "en",
-      "scope_count": 4,
+      "scope_count": 5,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -29,7 +86,8 @@
           "technical-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -65,20 +123,20 @@
       }
     },
     {
-      "slug": "japan",
-      "url": "/countries/japan",
-      "title": "日本市場のマーケティング｜日本進出とインバウンド集客を支援",
-      "description": "海外ブランドの日本進出を支援するマーケティング会社。日本語ネイティブの担当者が、固定料金のメニューでインバウンド集客までを実行します。",
-      "menu": "日本",
+      "slug": "greece",
+      "url": "/countries/greece",
+      "title": "ギリシャ市場のデジタルマーケティング｜進出を支援",
+      "description": "ギリシャ市場に進出する海外ブランドのためのデジタルマーケティング。ギリシャ語ネイティブの専門家が、パッケージ化されたサービスで実行します。",
+      "menu": "ギリシャ",
       "featured": false,
-      "flag": "🇯🇵",
-      "population_total": "123M",
-      "population_total_raw": 123202000,
-      "official_languages_count": 1,
-      "significant_languages_count": 1,
-      "dominant_language_name": "日本語",
-      "dominant_language_code": "ja",
-      "scope_count": 4,
+      "flag": "🇬🇷",
+      "population_total": "10.5M",
+      "population_total_raw": 10461100,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "ギリシャ語",
+      "dominant_language_code": "el",
+      "scope_count": 5,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -93,7 +151,129 @@
           "technical-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "israel",
+      "url": "/countries/israel",
+      "title": "イスラエル市場のデジタルマーケティング｜ヘブライ語と英語",
+      "description": "イスラエル市場に進出する海外ブランドのためのデジタルマーケティング。ヘブライ語ネイティブの専門家が、パッケージ化されたサービスで実行します。",
+      "menu": "イスラエル",
+      "featured": false,
+      "flag": "🇮🇱",
+      "population_total": "9.4M",
+      "population_total_raw": 9402620,
+      "official_languages_count": 7,
+      "significant_languages_count": 7,
+      "dominant_language_name": "ヘブライ語",
+      "dominant_language_code": "he",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "japan",
+      "url": "/countries/japan",
+      "title": "日本市場のマーケティング｜日本進出とインバウンド集客を支援",
+      "description": "海外ブランドの日本進出を支援するマーケティング会社。日本語ネイティブの担当者が、固定料金のメニューでインバウンド集客までを実行します。",
+      "menu": "日本",
+      "featured": false,
+      "flag": "🇯🇵",
+      "population_total": "123M",
+      "population_total_raw": 123202000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "日本語",
+      "dominant_language_code": "ja",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -123,6 +303,78 @@
           "marketing-consultant"
         ]
       }
+    },
+    {
+      "slug": "poland",
+      "url": "/countries/poland",
+      "title": "ポーランドのマーケティングとデジタルPR｜市場進出を支援",
+      "description": "海外企業のためのポーランドのマーケティングとデジタルPR。ポーランド語ネイティブの専門家、中東欧を踏まえた戦略、固定料金のメニューです。",
+      "menu": "ポーランド",
+      "featured": false,
+      "flag": "🇵🇱",
+      "population_total": "38.7M",
+      "population_total_raw": 38746300,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "ポーランド語",
+      "dominant_language_code": "pl",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
     }
   ],
   "labels": {
@@ -135,16 +387,17 @@
       "technical-seo": "テクニカルSEO",
       "seo-research": "キーワード選定",
       "aso-optimization": "ASO対策",
-      "aso-localization": "アプリの多言語対応"
+      "aso-localization": "アプリの多言語対応",
+      "apple-search-ads": "Apple Search Ads",
+      "content-strategy": "コンテンツ戦略",
+      "google-ads-search": "Google広告・検索広告",
+      "ppc-audit": "広告アカウント診断",
+      "telegram-ads": "Telegram Ads"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
       "vitali-bakun": "ヴィタリー・バクン",
       "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
       "digital-marketing-consulting": "マーケティングコンサルティング",
@@ -162,13 +415,25 @@
       "saas": "SaaS",
       "fintech": "フィンテック"
     },
+    "positions": {
+      "seo-expert": "SEO担当",
+      "social-media-manager": "SNS運用担当",
+      "marketing-consultant": "マーケティングコンサルタント",
+      "aso-specialist": "ASO担当",
+      "ppc-specialist": "広告運用担当"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
     "languages": {
       "english": "英語",
       "japanese": "日本語"
     },
-    "positions": {
-      "seo-expert": "SEO担当",
-      "marketing-consultant": "マーケティングコンサルタント"
+    "blog-posts": {
+      "how-ai-chooses-sources": "AIが引用先を選ぶ基準",
+      "seo-packages-comparison": "SEO対策の費用比較",
+      "why-seo-matters-in-2026": "2026年のSEOの必要性"
     }
   }
 }

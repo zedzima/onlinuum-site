@@ -8,7 +8,7 @@
       "menu": "E-ticaret",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -24,6 +24,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -50,7 +51,11 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -80,7 +85,7 @@
       "menu": "Fintech ve Bankacılık",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -96,6 +101,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -117,7 +123,11 @@
           "ppc"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -147,7 +157,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -163,6 +173,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -189,7 +200,11 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -223,6 +238,7 @@
       "technical-seo": "Teknik SEO",
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "İçerik Stratejisi",
       "content-writing": "İçerik Yazarlığı",
       "google-ads-search": "Google Ads Arama Ağı",
@@ -250,7 +266,11 @@
       "social-media": "Sosyal Medya"
     },
     "countries": {
+      "poland": "Polonya",
+      "china": "Çin",
       "eu": "Avrupa Birliği",
+      "greece": "Yunanistan",
+      "israel": "İsrail",
       "turkey": "Türkiye"
     },
     "languages": {

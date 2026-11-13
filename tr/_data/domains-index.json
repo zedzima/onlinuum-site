@@ -9,14 +9,15 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 2,
+      "scope_count": 3,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko"
@@ -33,7 +34,11 @@
           "ecommerce"
         ],
         "countries": [
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -78,7 +83,11 @@
           "fintech"
         ],
         "countries": [
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -134,7 +143,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -159,6 +172,7 @@
     "scopes": {
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO Araştırması",
       "content-strategy": "İçerik Stratejisi",
       "technical-seo": "Teknik SEO",
@@ -188,7 +202,11 @@
       "ecommerce": "E-ticaret"
     },
     "countries": {
+      "poland": "Polonya",
+      "china": "Çin",
       "eu": "Avrupa Birliği",
+      "greece": "Yunanistan",
+      "israel": "İsrail",
       "turkey": "Türkiye"
     },
     "languages": {

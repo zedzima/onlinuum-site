@@ -40,7 +40,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -95,7 +99,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -151,7 +159,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -206,7 +218,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -254,7 +270,10 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -299,7 +318,11 @@
     },
     "countries": {
       "germany": "Deutschland",
-      "eu": "Europäische Union"
+      "poland": "Polen",
+      "china": "China",
+      "eu": "Europäische Union",
+      "greece": "Griechenland",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Englisch",

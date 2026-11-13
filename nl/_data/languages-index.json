@@ -14,7 +14,7 @@
       "market_speakers_est": 31930799,
       "market_country_count": 3,
       "official_countries_count": 3,
-      "scope_count": 4,
+      "scope_count": 5,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -29,7 +29,8 @@
           "technical-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "vitali-bakun"
@@ -75,7 +76,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -91,6 +92,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -123,6 +125,9 @@
         ],
         "countries": [
           "netherlands",
+          "poland",
+          "israel",
+          "greece",
           "eu"
         ],
         "blog-posts": [
@@ -152,6 +157,7 @@
       "seo-research": "Zoekwoordenonderzoek",
       "aso-optimization": "ASO-optimalisatie",
       "aso-localization": "App vertalen",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "Contentstrategie",
       "content-writing": "Teksten schrijven",
       "google-ads-search": "Google Ads-zoekcampagnes",
@@ -181,7 +187,10 @@
     },
     "countries": {
       "netherlands": "Nederland",
-      "eu": "Europese Unie"
+      "eu": "Europese Unie",
+      "poland": "Polen",
+      "israel": "Israël",
+      "greece": "Griekenland"
     },
     "positions": {
       "seo-expert": "SEO-specialist",

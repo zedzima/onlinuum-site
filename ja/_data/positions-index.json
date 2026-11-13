@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -62,6 +63,9 @@
           "saas",
           "fintech",
           "ecommerce"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -259,6 +263,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "japan"
         ],
         "languages": [
@@ -375,6 +380,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -474,7 +482,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -584,6 +596,10 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "israel",
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -635,6 +651,7 @@
     "scopes": {
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "キーワード選定",
       "content-strategy": "コンテンツ戦略",
       "telegram-ads": "Telegram Ads",
@@ -658,13 +675,17 @@
       "fintech": "フィンテック",
       "ecommerce": "EC"
     },
+    "countries": {
+      "poland": "ポーランド",
+      "japan": "日本",
+      "china": "中国",
+      "eu": "欧州連合",
+      "greece": "ギリシャ",
+      "israel": "イスラエル"
+    },
     "languages": {
       "english": "英語",
       "japanese": "日本語"
-    },
-    "countries": {
-      "japan": "日本",
-      "eu": "欧州連合"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"

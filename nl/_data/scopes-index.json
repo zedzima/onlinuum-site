@@ -1,6 +1,54 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Apple Search Ads beheer voor groei op iOS",
+      "description": "Apple Search Ads beheer: accountinrichting, zoekwoordstrategie en biedoptimalisatie voor iOS-installaties. Specialist met naam, vanaf $ 400/maand.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "netherlands"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "App Vertalen: Native Metadata per Markt",
@@ -33,7 +81,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "netherlands"
         ],
         "languages": [
@@ -81,7 +133,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "netherlands"
         ],
         "languages": [
@@ -130,6 +186,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -213,6 +272,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -255,6 +317,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -303,7 +368,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "netherlands"
         ],
         "languages": [
@@ -357,7 +426,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "netherlands"
         ],
         "languages": [
@@ -401,6 +474,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -429,20 +505,17 @@
       "digital-marketing-consulting": "Online marketing advies",
       "multilingual-seo": "Meertalige SEO"
     },
-    "services": {
-      "aso": "ASO",
-      "content": "Contentmarketing",
-      "seo": "SEO",
-      "social-media": "Social media",
-      "ppc": "SEA"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintechbedrijven",
       "ecommerce": "Webshops"
     },
     "countries": {
+      "poland": "Polen",
+      "china": "China",
       "eu": "Europese Unie",
+      "greece": "Griekenland",
+      "israel": "Israël",
       "netherlands": "Nederland"
     },
     "languages": {
@@ -455,6 +528,13 @@
       "seo-expert": "SEO-specialist",
       "social-media-manager": "Social media manager",
       "ppc-specialist": "SEA-specialist"
+    },
+    "services": {
+      "aso": "ASO",
+      "content": "Contentmarketing",
+      "seo": "SEO",
+      "social-media": "Social media",
+      "ppc": "SEA"
     },
     "cases": {
       "alvadi": "ALVADI",

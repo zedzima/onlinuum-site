@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -64,7 +65,8 @@
           "ecommerce"
         ],
         "countries": [
-          "germany"
+          "germany",
+          "poland"
         ],
         "languages": [
           "english",
@@ -267,7 +269,8 @@
           "fintech"
         ],
         "countries": [
-          "germany"
+          "germany",
+          "poland"
         ],
         "languages": [
           "german",
@@ -384,7 +387,8 @@
           "fintech"
         ],
         "countries": [
-          "germany"
+          "germany",
+          "poland"
         ],
         "languages": [
           "english",
@@ -487,7 +491,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -597,7 +605,9 @@
           "fintech"
         ],
         "countries": [
-          "germany"
+          "israel",
+          "germany",
+          "poland"
         ],
         "languages": [
           "english",
@@ -651,6 +661,7 @@
     "scopes": {
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO-Recherche",
       "content-strategy": "Content-Strategie",
       "telegram-ads": "Telegram-Werbung",
@@ -676,7 +687,11 @@
     },
     "countries": {
       "germany": "Deutschland",
-      "eu": "Europäische Union"
+      "poland": "Polen",
+      "china": "China",
+      "eu": "Europäische Union",
+      "greece": "Griechenland",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Englisch",

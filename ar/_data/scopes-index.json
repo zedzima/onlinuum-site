@@ -1,6 +1,53 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "إدارة Apple Search Ads لنمو تطبيقات iOS",
+      "description": "إدارة Apple Search Ads: إعداد الحساب، واستراتيجية الكلمات المفتاحية، وتحسين المزايدات لتثبيتات تطبيقات iOS. خبير بالاسم، من $400 شهريًا.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "uae"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "ASO Localization: ترجمة التطبيقات لكل سوق",
@@ -33,7 +80,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "uae"
         ],
         "languages": [
@@ -81,7 +132,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "uae"
         ],
         "languages": [
@@ -129,6 +184,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -213,6 +271,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "uae"
         ],
         "languages": [
@@ -260,6 +319,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "uae"
         ],
         "languages": [
@@ -310,7 +370,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "uae"
         ],
         "languages": [
@@ -364,7 +428,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "uae"
         ],
         "languages": [
@@ -408,6 +476,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -436,20 +507,17 @@
       "digital-marketing-consulting": "استشارات التسويق الرقمي",
       "multilingual-seo": "multilingual SEO"
     },
-    "services": {
-      "aso": "تحسين متجر التطبيقات ASO",
-      "content": "التسويق بالمحتوى",
-      "seo": "سيو SEO",
-      "social-media": "وسائل التواصل الاجتماعي",
-      "ppc": "PPC"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "التكنولوجيا المالية",
       "ecommerce": "التجارة الإلكترونية"
     },
     "countries": {
+      "poland": "بولندا",
+      "china": "الصين",
       "eu": "الاتحاد الأوروبي",
+      "greece": "اليونان",
+      "israel": "إسرائيل",
       "uae": "الإمارات"
     },
     "languages": {
@@ -462,6 +530,13 @@
       "seo-expert": "خبير SEO",
       "social-media-manager": "أخصائي سوشيال ميديا",
       "ppc-specialist": "متخصص PPC"
+    },
+    "services": {
+      "aso": "تحسين متجر التطبيقات ASO",
+      "content": "التسويق بالمحتوى",
+      "seo": "سيو SEO",
+      "social-media": "وسائل التواصل الاجتماعي",
+      "ppc": "PPC"
     },
     "cases": {
       "alvadi": "ALVADI",

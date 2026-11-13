@@ -23,6 +23,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -44,7 +45,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -98,7 +103,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -127,6 +136,7 @@
       "technical-seo": "Teknik SEO",
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "İçerik Stratejisi",
       "google-ads-search": "Google Ads Arama Ağı",
       "ppc-audit": "Reklam Analizi",
@@ -148,7 +158,11 @@
       "fintech": "Fintech ve Bankacılık"
     },
     "countries": {
+      "poland": "Polonya",
+      "china": "Çin",
       "eu": "Avrupa Birliği",
+      "greece": "Yunanistan",
+      "israel": "İsrail",
       "turkey": "Türkiye"
     },
     "languages": {

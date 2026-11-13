@@ -1,6 +1,53 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Apple Search Ads: prowadzenie kampanii dla aplikacji iOS",
+      "description": "Apple Search Ads: konfiguracja konta, strategia słów kluczowych i optymalizacja stawek dla instalacji iOS. Wskazany specjalista, od 400 USD/mies.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
+        ],
+        "languages": [
+          "english",
+          "polish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "Lokalizacja aplikacji: natywne metadane na rynek",
@@ -34,7 +81,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -82,7 +132,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -314,7 +367,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -368,7 +424,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -443,13 +502,6 @@
       "digital-marketing-consulting": "Doradztwo marketingowe",
       "multilingual-seo": "Pozycjonowanie zagraniczne"
     },
-    "services": {
-      "aso": "ASO aplikacji",
-      "content": "Content marketing",
-      "seo": "Pozycjonowanie",
-      "social-media": "Social media",
-      "ppc": "Google Ads"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintech i usługi finansowe",
@@ -457,7 +509,10 @@
     },
     "countries": {
       "poland": "Polska",
-      "eu": "Unia Europejska"
+      "china": "Chiny",
+      "eu": "Unia Europejska",
+      "greece": "Grecja",
+      "israel": "Izrael"
     },
     "languages": {
       "english": "Angielski",
@@ -469,6 +524,13 @@
       "seo-expert": "Specjalista SEO",
       "social-media-manager": "Social media manager",
       "ppc-specialist": "Specjalista Google Ads"
+    },
+    "services": {
+      "aso": "ASO aplikacji",
+      "content": "Content marketing",
+      "seo": "Pozycjonowanie",
+      "social-media": "Social media",
+      "ppc": "Google Ads"
     },
     "cases": {
       "alvadi": "ALVADI",

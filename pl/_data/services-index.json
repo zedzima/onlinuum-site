@@ -40,7 +40,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -95,7 +98,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -151,7 +157,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -205,7 +214,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -252,7 +264,10 @@
           "saas"
         ],
         "countries": [
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -296,7 +311,10 @@
     },
     "countries": {
       "poland": "Polska",
-      "eu": "Unia Europejska"
+      "china": "Chiny",
+      "eu": "Unia Europejska",
+      "greece": "Grecja",
+      "israel": "Izrael"
     },
     "languages": {
       "english": "Angielski",

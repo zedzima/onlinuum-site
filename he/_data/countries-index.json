@@ -1,6 +1,63 @@
 {
   "countries": [
     {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "שיווק דיגיטלי בסין: Baidu ו-WeChat",
+      "description": "שיווק דיגיטלי בסין למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים למנדרינית ב-Baidu, ב-WeChat וב-Douyin. בואו נתחיל.",
+      "menu": "סין",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "סינית",
+      "dominant_language_code": "zh",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "eu",
       "url": "/countries/eu",
       "title": "יצוא לאירופה: שיווק דיגיטלי בכל מדינה",
@@ -14,7 +71,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "אנגלית",
       "dominant_language_code": "en",
-      "scope_count": 4,
+      "scope_count": 5,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -29,7 +86,8 @@
           "technical-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -39,6 +97,66 @@
         "cases": [
           "alvadi",
           "bamboo-ppc-landing-pages"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "greece",
+      "url": "/countries/greece",
+      "title": "שיווק דיגיטלי ביוון למותגים בינלאומיים",
+      "description": "שיווק דיגיטלי ביוון למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים ליוונית. בואו נתחיל.",
+      "menu": "יוון",
+      "featured": false,
+      "flag": "🇬🇷",
+      "population_total": "10.5M",
+      "population_total_raw": 10461100,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "יוונית",
+      "dominant_language_code": "el",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
         ],
         "solutions": [
           "digital-marketing-consulting",
@@ -78,7 +196,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "עברית",
       "dominant_language_code": "he",
-      "scope_count": 4,
+      "scope_count": 5,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -93,7 +211,8 @@
           "technical-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -124,6 +243,78 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "poland",
+      "url": "/countries/poland",
+      "title": "עסקים בפולין: שיווק דיגיטלי ויחסי ציבור",
+      "description": "עסקים בפולין: שיווק דיגיטלי ויחסי ציבור דיגיטליים לחברות בינלאומיות. מומחים ילידיים לפולנית, אסטרטגיה לאזור והיקפים במחיר קבוע.",
+      "menu": "פולין",
+      "featured": false,
+      "flag": "🇵🇱",
+      "population_total": "38.7M",
+      "population_total_raw": 38746300,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "פולנית",
+      "dominant_language_code": "pl",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
     }
   ],
   "labels": {
@@ -136,16 +327,17 @@
       "technical-seo": "קידום אתרים טכני",
       "seo-research": "מחקר SEO",
       "aso-optimization": "אופטימיזציית ASO",
-      "aso-localization": "לוקליזציית ASO"
+      "aso-localization": "לוקליזציית ASO",
+      "apple-search-ads": "Apple Search Ads",
+      "content-strategy": "אסטרטגיית תוכן",
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "ppc-audit": "אודיט PPC",
+      "telegram-ads": "פרסום בטלגרם"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
       "vitali-bakun": "ויטלי בקון",
       "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
       "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
@@ -163,13 +355,25 @@
       "saas": "SaaS",
       "fintech": "פינטק"
     },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים",
+      "social-media-manager": "מנהל סושיאל",
+      "aso-specialist": "מומחה ASO",
+      "marketing-consultant": "יועץ שיווק",
+      "ppc-specialist": "מנהל קמפיינים PPC"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
     "languages": {
       "english": "אנגלית",
       "hebrew": "עברית"
     },
-    "positions": {
-      "seo-expert": "מומחה קידום אתרים",
-      "social-media-manager": "מנהל סושיאל"
+    "blog-posts": {
+      "how-ai-chooses-sources": "איך AI בוחר מקורות",
+      "seo-packages-comparison": "השוואת חבילות SEO",
+      "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
     }
   }
 }

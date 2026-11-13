@@ -8,7 +8,7 @@
       "menu": "E-Commerce",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -24,6 +24,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -51,7 +52,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -80,7 +85,7 @@
       "menu": "Fintech und Banken",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -96,6 +101,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -118,7 +124,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -147,7 +157,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -163,6 +173,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -190,7 +201,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -223,6 +238,7 @@
       "technical-seo": "Technisches SEO",
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "Content-Strategie",
       "content-writing": "Texterstellung",
       "google-ads-search": "Google Ads Suchkampagnen",
@@ -251,7 +267,11 @@
     },
     "countries": {
       "germany": "Deutschland",
-      "eu": "Europäische Union"
+      "poland": "Polen",
+      "china": "China",
+      "eu": "Europäische Union",
+      "greece": "Griechenland",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Englisch",

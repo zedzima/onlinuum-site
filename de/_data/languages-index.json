@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -30,6 +30,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -62,6 +63,9 @@
         ],
         "countries": [
           "germany",
+          "poland",
+          "israel",
+          "greece",
           "eu"
         ],
         "blog-posts": [
@@ -93,7 +97,7 @@
       "market_speakers_est": 138313919,
       "market_country_count": 22,
       "official_countries_count": 22,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -109,6 +113,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -136,6 +141,8 @@
         ],
         "countries": [
           "germany",
+          "poland",
+          "greece",
           "eu"
         ],
         "blog-posts": [
@@ -165,6 +172,7 @@
       "seo-research": "SEO-Recherche",
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "Content-Strategie",
       "content-writing": "Texterstellung",
       "google-ads-search": "Google Ads Suchkampagnen",
@@ -197,6 +205,9 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "poland": "Polen",
+      "israel": "Israel",
+      "greece": "Griechenland",
       "eu": "Europäische Union"
     },
     "blog-posts": {

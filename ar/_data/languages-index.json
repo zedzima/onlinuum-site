@@ -46,7 +46,8 @@
           "fintech"
         ],
         "countries": [
-          "uae"
+          "uae",
+          "israel"
         ],
         "positions": [
           "seo-expert",
@@ -69,7 +70,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -85,6 +86,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -116,6 +118,9 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "israel",
+          "greece",
           "uae",
           "eu"
         ],
@@ -148,6 +153,7 @@
       "seo-research": "أبحاث السيو",
       "technical-seo": "السيو التقني",
       "aso-optimization": "تحسين ASO",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "استراتيجية المحتوى",
       "content-writing": "كتابة المحتوى",
       "telegram-ads": "إعلانات تليجرام"
@@ -170,6 +176,9 @@
     },
     "countries": {
       "uae": "الإمارات",
+      "israel": "إسرائيل",
+      "poland": "بولندا",
+      "greece": "اليونان",
       "eu": "الاتحاد الأوروبي"
     },
     "positions": {

@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -30,6 +30,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -61,7 +62,10 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain",
+          "israel",
+          "greece",
           "eu"
         ],
         "blog-posts": [
@@ -93,7 +97,7 @@
       "market_speakers_est": 485723043,
       "market_country_count": 24,
       "official_countries_count": 24,
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
@@ -109,6 +113,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -163,6 +168,7 @@
       "seo-research": "Keyword research",
       "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "Estrategia de contenidos",
       "content-writing": "Redacción de contenidos",
       "google-ads-search": "Búsqueda en Google Ads",
@@ -194,7 +200,10 @@
       "fintech": "Sector fintech"
     },
     "countries": {
+      "poland": "Polonia",
       "spain": "España",
+      "israel": "Israel",
+      "greece": "Grecia",
       "eu": "Unión Europea"
     },
     "blog-posts": {

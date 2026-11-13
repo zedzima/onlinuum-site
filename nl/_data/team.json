@@ -98,6 +98,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "apple-search-ads",
           "aso-localization",
           "aso-optimization",
           "content-strategy",
@@ -122,7 +123,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "netherlands"
         ],
         "languages": [
@@ -189,7 +194,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "netherlands"
         ],
         "languages": [
@@ -208,6 +217,7 @@
     "scopes": {
       "seo-research": "Zoekwoordenonderzoek",
       "technical-seo": "Technische SEO",
+      "apple-search-ads": "Apple Search Ads",
       "aso-localization": "App vertalen",
       "aso-optimization": "ASO-optimalisatie",
       "content-strategy": "Contentstrategie",
@@ -227,6 +237,10 @@
     },
     "countries": {
       "eu": "Europese Unie",
+      "poland": "Polen",
+      "china": "China",
+      "greece": "Griekenland",
+      "israel": "Israël",
       "netherlands": "Nederland"
     },
     "languages": {

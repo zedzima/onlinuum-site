@@ -1,6 +1,63 @@
 {
   "countries": [
     {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "Digital Marketing China: التسويق عبر Baidu وWeChat",
+      "description": "التسويق الرقمي في الصين للعلامات الدولية: خدمات ذات نطاق محدد ينفذها خبراء أصليون بلغة الماندرين على Baidu وWeChat وDouyin. ابدأوا الآن.",
+      "menu": "الصين",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "الصينية",
+      "dominant_language_code": "zh",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "eu",
       "url": "/countries/eu",
       "title": "السوق الأوروبي: سيو وPPC بلغات كل دولة",
@@ -14,7 +71,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "الإنجليزية",
       "dominant_language_code": "en",
-      "scope_count": 4,
+      "scope_count": 5,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -29,7 +86,8 @@
           "technical-seo",
           "seo-research",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -65,6 +123,200 @@
       }
     },
     {
+      "slug": "greece",
+      "url": "/countries/greece",
+      "title": "التسويق الرقمي في اليونان للشركات الدولية",
+      "description": "التسويق الرقمي في اليونان للعلامات الدولية: خدمات ذات نطاق محدد ينفذها خبراء يونانيون أصليون، دون مكتب في أثينا. ابدأوا الآن.",
+      "menu": "اليونان",
+      "featured": false,
+      "flag": "🇬🇷",
+      "population_total": "10.5M",
+      "population_total_raw": 10461100,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "اليونانية",
+      "dominant_language_code": "el",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "israel",
+      "url": "/countries/israel",
+      "title": "التسويق الرقمي في إسرائيل: العبرية والإنجليزية",
+      "description": "التسويق الرقمي في إسرائيل للعلامات الدولية: خدمات ذات نطاق محدد ينفذها خبراء أصليون باللغة العبرية، دون مكتب في تل أبيب. ابدأوا الآن.",
+      "menu": "إسرائيل",
+      "featured": false,
+      "flag": "🇮🇱",
+      "population_total": "9.4M",
+      "population_total_raw": 9402620,
+      "official_languages_count": 7,
+      "significant_languages_count": 7,
+      "dominant_language_name": "العبرية",
+      "dominant_language_code": "he",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "arabic"
+        ],
+        "positions": [
+          "seo-expert",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "poland",
+      "url": "/countries/poland",
+      "title": "Digital Marketing Poland: التسويق والعلاقات العامة الرقمية",
+      "description": "التسويق الرقمي والعلاقات العامة الرقمية في بولندا للشركات الدولية: متخصصون بولنديون أصليون، واستراتيجية تفهم وسط وشرق أوروبا، ونطاقات بسعر ثابت.",
+      "menu": "بولندا",
+      "featured": false,
+      "flag": "🇵🇱",
+      "population_total": "38.7M",
+      "population_total_raw": 38746300,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "البولندية",
+      "dominant_language_code": "pl",
+      "scope_count": 9,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "content-strategy",
+          "google-ads-search",
+          "ppc-audit",
+          "telegram-ads"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "uae",
       "url": "/countries/uae",
       "title": "شركات التسويق في دبي والإمارات",
@@ -78,7 +330,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "العربية",
       "dominant_language_code": "ar",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -95,7 +347,8 @@
           "google-ads-search",
           "ppc-audit",
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko"
@@ -141,17 +394,16 @@
       "seo-research": "أبحاث السيو",
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
+      "apple-search-ads": "Apple Search Ads",
+      "content-strategy": "استراتيجية المحتوى",
       "google-ads-search": "إعلانات جوجل للبحث",
-      "ppc-audit": "تدقيق PPC"
+      "ppc-audit": "تدقيق PPC",
+      "telegram-ads": "إعلانات تليجرام"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
       "vitali-bakun": "فيتالي باكون",
       "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
       "digital-marketing-consulting": "استشارات التسويق الرقمي",
@@ -169,16 +421,26 @@
       "saas": "SaaS",
       "fintech": "التكنولوجيا المالية"
     },
+    "positions": {
+      "seo-expert": "خبير SEO",
+      "social-media-manager": "أخصائي سوشيال ميديا",
+      "aso-specialist": "متخصص ASO",
+      "marketing-consultant": "مستشار تسويق",
+      "ppc-specialist": "متخصص PPC",
+      "business-development-manager": "مدير تطوير الأعمال"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
+    },
     "languages": {
       "english": "الإنجليزية",
       "arabic": "العربية"
     },
-    "positions": {
-      "seo-expert": "خبير SEO",
-      "ppc-specialist": "متخصص PPC",
-      "business-development-manager": "مدير تطوير الأعمال",
-      "marketing-consultant": "مستشار تسويق",
-      "social-media-manager": "أخصائي سوشيال ميديا"
+    "blog-posts": {
+      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
+      "seo-packages-comparison": "مقارنة باقات السيو",
+      "why-seo-matters-in-2026": "أهمية السيو في 2026"
     }
   }
 }

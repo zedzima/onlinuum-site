@@ -8,7 +8,7 @@
       "menu": "Ecommerce",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -24,6 +24,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -50,7 +51,11 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "italy"
         ],
         "languages": [
@@ -80,7 +85,7 @@
       "menu": "Fintech e finanza",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -96,6 +101,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -117,7 +123,11 @@
           "ppc"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "italy"
         ],
         "languages": [
@@ -147,7 +157,7 @@
       "menu": "SaaS e software",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -163,6 +173,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -189,7 +200,11 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "italy"
         ],
         "languages": [
@@ -223,6 +238,7 @@
       "technical-seo": "SEO tecnica",
       "aso-optimization": "Ottimizzazione ASO",
       "aso-localization": "Localizzazione ASO",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "Content strategy",
       "content-writing": "Creazione contenuti",
       "google-ads-search": "Campagne Google Ads",
@@ -250,7 +266,11 @@
       "social-media": "Social media"
     },
     "countries": {
+      "poland": "Polonia",
+      "china": "Cina",
       "eu": "Unione Europea",
+      "greece": "Grecia",
+      "israel": "Israele",
       "italy": "Italia"
     },
     "languages": {

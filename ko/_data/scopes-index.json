@@ -1,6 +1,53 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Apple Search Ads 운영 대행: iOS 앱 설치 성장",
+      "description": "Apple Search Ads 운영 대행: 계정 설정, 키워드 전략, 입찰 최적화로 iOS 앱 설치를 늘립니다. 담당 전문가 공개, $400/월부터.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "south-korea"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "앱 번역과 현지화: 시장별 원어민 메타데이터",
@@ -33,7 +80,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "south-korea"
         ],
         "languages": [
@@ -80,7 +131,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "south-korea"
         ],
         "languages": [
@@ -128,6 +183,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -211,6 +269,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -253,6 +314,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -301,7 +365,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "south-korea"
         ],
         "languages": [
@@ -354,7 +422,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "south-korea"
         ],
         "languages": [
@@ -397,6 +469,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -425,20 +500,17 @@
       "digital-marketing-consulting": "디지털 마케팅 컨설팅",
       "multilingual-seo": "다국어 SEO"
     },
-    "services": {
-      "aso": "ASO 최적화",
-      "content": "콘텐츠 마케팅",
-      "seo": "SEO 대행",
-      "social-media": "SNS 마케팅",
-      "ppc": "검색광고"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "핀테크",
       "ecommerce": "이커머스"
     },
     "countries": {
+      "poland": "폴란드",
+      "china": "중국",
       "eu": "유럽연합",
+      "greece": "그리스",
+      "israel": "이스라엘",
       "south-korea": "대한민국"
     },
     "languages": {
@@ -450,6 +522,13 @@
       "seo-expert": "SEO 채용",
       "social-media-manager": "SNS 마케터",
       "ppc-specialist": "퍼포먼스 마케터"
+    },
+    "services": {
+      "aso": "ASO 최적화",
+      "content": "콘텐츠 마케팅",
+      "seo": "SEO 대행",
+      "social-media": "SNS 마케팅",
+      "ppc": "검색광고"
     },
     "cases": {
       "alvadi": "ALVADI",

@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -62,6 +63,9 @@
           "saas",
           "fintech",
           "ecommerce"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -258,6 +262,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -371,6 +378,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -470,7 +480,10 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -581,7 +594,8 @@
           "fintech"
         ],
         "countries": [
-          "israel"
+          "israel",
+          "poland"
         ],
         "languages": [
           "english"
@@ -634,6 +648,7 @@
     "scopes": {
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "מחקר SEO",
       "content-strategy": "אסטרטגיית תוכן",
       "telegram-ads": "פרסום בטלגרם",
@@ -657,16 +672,19 @@
       "fintech": "פינטק",
       "ecommerce": "מסחר אלקטרוני"
     },
+    "countries": {
+      "poland": "פולין",
+      "china": "סין",
+      "eu": "האיחוד האירופי",
+      "greece": "יוון",
+      "israel": "ישראל"
+    },
     "languages": {
       "english": "אנגלית",
       "hebrew": "עברית"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
-    },
-    "countries": {
-      "eu": "האיחוד האירופי",
-      "israel": "ישראל"
     },
     "blog-posts": {
       "seo-packages-comparison": "השוואת חבילות SEO",

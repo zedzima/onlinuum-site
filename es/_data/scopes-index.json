@@ -1,6 +1,54 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Apple Search Ads: Gestión de Campañas para iOS",
+      "description": "Gestión de Apple Search Ads: configuración de cuenta, estrategia de palabras clave y pujas para instalaciones iOS. Publicidad en App Store desde 400 $/mes.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "spain",
+          "china",
+          "eu",
+          "greece",
+          "israel"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "Localización de Software y Fichas de Apps por Mercado",
@@ -33,8 +81,12 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -81,8 +133,12 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -132,6 +188,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain"
         ],
         "languages": [
@@ -219,6 +276,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain"
         ],
         "languages": [
@@ -266,6 +324,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain"
         ],
         "languages": [
@@ -316,8 +375,12 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -370,8 +433,12 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -414,6 +481,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -442,21 +512,18 @@
       "digital-marketing-consulting": "Consultoría de marketing digital",
       "multilingual-seo": "SEO internacional"
     },
-    "services": {
-      "aso": "ASO",
-      "content": "Marketing de contenidos",
-      "seo": "SEO",
-      "social-media": "Redes sociales",
-      "ppc": "PPC"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "Sector fintech",
       "ecommerce": "Ecommerce"
     },
     "countries": {
+      "poland": "Polonia",
       "spain": "España",
-      "eu": "Unión Europea"
+      "china": "China",
+      "eu": "Unión Europea",
+      "greece": "Grecia",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Inglés",
@@ -468,6 +535,13 @@
       "seo-expert": "Especialista SEO",
       "social-media-manager": "Social media manager",
       "ppc-specialist": "Especialista SEM"
+    },
+    "services": {
+      "aso": "ASO",
+      "content": "Marketing de contenidos",
+      "seo": "SEO",
+      "social-media": "Redes sociales",
+      "ppc": "PPC"
     },
     "cases": {
       "alvadi": "ALVADI",

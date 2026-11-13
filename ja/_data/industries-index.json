@@ -8,7 +8,7 @@
       "menu": "EC",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -24,6 +24,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -50,7 +51,11 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -79,7 +84,7 @@
       "menu": "フィンテック",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -95,6 +100,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -116,7 +122,11 @@
           "ppc"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -145,7 +155,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -161,6 +171,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -187,7 +198,11 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -220,6 +235,7 @@
       "technical-seo": "テクニカルSEO",
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "コンテンツ戦略",
       "content-writing": "記事作成代行",
       "google-ads-search": "Google広告・検索広告",
@@ -247,7 +263,11 @@
       "social-media": "SNS運用代行"
     },
     "countries": {
+      "poland": "ポーランド",
+      "china": "中国",
       "eu": "欧州連合",
+      "greece": "ギリシャ",
+      "israel": "イスラエル",
       "japan": "日本"
     },
     "languages": {

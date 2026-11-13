@@ -56,13 +56,33 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/it/countries/china/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/it/countries/eu/</loc>
     <lastmod>2026-11-08</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/it/countries/greece/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/it/countries/israel/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/it/countries/italy/</loc>
     <lastmod>2026-11-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/it/countries/poland/</loc>
+    <lastmod>2026-11-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -164,6 +184,11 @@
     <loc>https://onlinuum.com/it/scopes/</loc>
     <lastmod>2026-09-23</lastmod>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/it/scopes/apple-search-ads/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/it/scopes/aso-localization/</loc>

@@ -23,6 +23,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -45,7 +46,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -99,7 +103,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -127,6 +134,7 @@
       "technical-seo": "SEO techniczne",
       "aso-optimization": "Optymalizacja aplikacji",
       "aso-localization": "Lokalizacja aplikacji",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "Strategia treści",
       "google-ads-search": "Reklama w Google",
       "ppc-audit": "Audyt Google Ads",
@@ -149,7 +157,10 @@
     },
     "countries": {
       "poland": "Polska",
-      "eu": "Unia Europejska"
+      "china": "Chiny",
+      "eu": "Unia Europejska",
+      "greece": "Grecja",
+      "israel": "Izrael"
     },
     "languages": {
       "english": "Angielski",

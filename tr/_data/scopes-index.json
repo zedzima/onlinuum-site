@@ -1,6 +1,52 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "iOS Uygulamaları İçin Apple Search Ads Yönetimi",
+      "description": "Apple Search Ads yönetimi: hesap kurulumu, anahtar kelime stratejisi ve iOS kurulumları için teklif optimizasyonu. İsimli uzman, aylık 400 $'dan.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "Yerelleştirme Hizmeti: Pazara Özel Uygulama Metni",
@@ -33,7 +79,11 @@
           "ecommerce"
         ],
         "countries": [
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -79,7 +129,11 @@
           "ecommerce"
         ],
         "countries": [
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -126,6 +180,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -210,6 +267,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "turkey"
         ],
         "languages": [
@@ -257,6 +315,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "turkey"
         ],
         "languages": [
@@ -307,7 +366,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -361,7 +424,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -406,6 +473,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "turkey"
         ],
         "languages": [
@@ -436,20 +504,17 @@
       "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
       "multilingual-seo": "Uluslararası SEO"
     },
-    "services": {
-      "aso": "ASO Hizmeti",
-      "content": "İçerik Pazarlama",
-      "seo": "SEO Hizmeti",
-      "social-media": "Sosyal Medya",
-      "ppc": "Performans Pazarlama"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintech ve Bankacılık",
       "ecommerce": "E-ticaret"
     },
     "countries": {
+      "poland": "Polonya",
+      "china": "Çin",
       "eu": "Avrupa Birliği",
+      "greece": "Yunanistan",
+      "israel": "İsrail",
       "turkey": "Türkiye"
     },
     "languages": {
@@ -462,6 +527,13 @@
       "seo-expert": "SEO Uzmanı",
       "social-media-manager": "Sosyal Medya Uzmanı",
       "ppc-specialist": "Google Ads Uzmanı"
+    },
+    "services": {
+      "aso": "ASO Hizmeti",
+      "content": "İçerik Pazarlama",
+      "seo": "SEO Hizmeti",
+      "social-media": "Sosyal Medya",
+      "ppc": "Performans Pazarlama"
     },
     "cases": {
       "alvadi": "ALVADI",

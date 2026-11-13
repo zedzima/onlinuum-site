@@ -98,6 +98,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "apple-search-ads",
           "aso-localization",
           "aso-optimization",
           "content-strategy",
@@ -123,7 +124,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -190,7 +195,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -208,6 +217,7 @@
     "scopes": {
       "seo-research": "SEO-Recherche",
       "technical-seo": "Technisches SEO",
+      "apple-search-ads": "Apple Search Ads",
       "aso-localization": "App-Lokalisierung",
       "aso-optimization": "ASO-Optimierung",
       "content-strategy": "Content-Strategie",
@@ -227,7 +237,11 @@
     },
     "countries": {
       "eu": "Europäische Union",
-      "germany": "Deutschland"
+      "germany": "Deutschland",
+      "poland": "Polen",
+      "china": "China",
+      "greece": "Griechenland",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Englisch",

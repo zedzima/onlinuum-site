@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -482,7 +483,10 @@
         ],
         "countries": [
           "poland",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -592,6 +596,7 @@
           "fintech"
         ],
         "countries": [
+          "israel",
           "poland"
         ],
         "languages": [
@@ -646,6 +651,7 @@
     "scopes": {
       "aso-optimization": "Optymalizacja aplikacji",
       "aso-localization": "Lokalizacja aplikacji",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "Analiza SEO",
       "content-strategy": "Strategia treści",
       "telegram-ads": "Reklama na Telegramie",
@@ -671,7 +677,10 @@
     },
     "countries": {
       "poland": "Polska",
-      "eu": "Unia Europejska"
+      "china": "Chiny",
+      "eu": "Unia Europejska",
+      "greece": "Grecja",
+      "israel": "Izrael"
     },
     "languages": {
       "english": "Angielski",

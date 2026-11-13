@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -62,6 +63,9 @@
           "saas",
           "fintech",
           "ecommerce"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -259,6 +263,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "turkey"
         ],
         "languages": [
@@ -375,6 +380,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -474,7 +482,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -585,7 +597,9 @@
           "fintech"
         ],
         "countries": [
-          "turkey"
+          "turkey",
+          "israel",
+          "poland"
         ],
         "languages": [
           "english",
@@ -639,6 +653,7 @@
     "scopes": {
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO Araştırması",
       "content-strategy": "İçerik Stratejisi",
       "telegram-ads": "Telegram Reklamları",
@@ -662,13 +677,17 @@
       "fintech": "Fintech ve Bankacılık",
       "ecommerce": "E-ticaret"
     },
+    "countries": {
+      "poland": "Polonya",
+      "turkey": "Türkiye",
+      "china": "Çin",
+      "eu": "Avrupa Birliği",
+      "greece": "Yunanistan",
+      "israel": "İsrail"
+    },
     "languages": {
       "english": "İngilizce",
       "turkish": "Türkçe"
-    },
-    "countries": {
-      "turkey": "Türkiye",
-      "eu": "Avrupa Birliği"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

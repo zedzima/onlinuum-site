@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -62,6 +63,9 @@
           "saas",
           "fintech",
           "ecommerce"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -263,7 +267,8 @@
           "fintech"
         ],
         "countries": [
-          "netherlands"
+          "netherlands",
+          "poland"
         ],
         "languages": [
           "dutch",
@@ -379,6 +384,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -478,7 +486,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "netherlands"
         ],
         "languages": [
@@ -588,6 +600,10 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "israel",
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -639,6 +655,7 @@
     "scopes": {
       "aso-optimization": "ASO-optimalisatie",
       "aso-localization": "App vertalen",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "Zoekwoordenonderzoek",
       "content-strategy": "Contentstrategie",
       "telegram-ads": "Telegram Ads-beheer",
@@ -662,13 +679,17 @@
       "fintech": "Fintechbedrijven",
       "ecommerce": "Webshops"
     },
+    "countries": {
+      "poland": "Polen",
+      "netherlands": "Nederland",
+      "china": "China",
+      "eu": "Europese Unie",
+      "greece": "Griekenland",
+      "israel": "Israël"
+    },
     "languages": {
       "english": "Engels",
       "dutch": "Nederlands"
-    },
-    "countries": {
-      "netherlands": "Nederland",
-      "eu": "Europese Unie"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

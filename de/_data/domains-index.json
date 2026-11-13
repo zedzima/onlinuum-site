@@ -9,14 +9,15 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 2,
+      "scope_count": 3,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "experts": [
           "dima-gerko"
@@ -34,7 +35,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -81,7 +86,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -139,7 +148,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -163,6 +176,7 @@
     "scopes": {
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO-Recherche",
       "content-strategy": "Content-Strategie",
       "technical-seo": "Technisches SEO",
@@ -193,7 +207,11 @@
     },
     "countries": {
       "germany": "Deutschland",
-      "eu": "Europäische Union"
+      "poland": "Polen",
+      "china": "China",
+      "eu": "Europäische Union",
+      "greece": "Griechenland",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Englisch",

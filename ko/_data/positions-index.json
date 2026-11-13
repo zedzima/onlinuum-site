@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -62,6 +63,9 @@
           "saas",
           "fintech",
           "ecommerce"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -258,6 +262,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -371,6 +378,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -470,7 +480,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "south-korea"
         ],
         "languages": [
@@ -580,6 +594,10 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "israel",
+          "poland"
+        ],
         "languages": [
           "english"
         ]
@@ -631,6 +649,7 @@
     "scopes": {
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "SEO 키워드 분석",
       "content-strategy": "콘텐츠 기획",
       "telegram-ads": "텔레그램 광고",
@@ -654,16 +673,20 @@
       "fintech": "핀테크",
       "ecommerce": "이커머스"
     },
+    "countries": {
+      "poland": "폴란드",
+      "china": "중국",
+      "eu": "유럽연합",
+      "greece": "그리스",
+      "israel": "이스라엘",
+      "south-korea": "대한민국"
+    },
     "languages": {
       "english": "영어",
       "korean": "한국어"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "알라딘 사라차쿠포글루"
-    },
-    "countries": {
-      "eu": "유럽연합",
-      "south-korea": "대한민국"
     },
     "blog-posts": {
       "seo-packages-comparison": "SEO 패키지 비교",

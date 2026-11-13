@@ -39,8 +39,12 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -94,8 +98,12 @@
           "saas"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -150,8 +158,12 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -205,8 +217,12 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -253,7 +269,10 @@
           "saas"
         ],
         "countries": [
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -296,8 +315,12 @@
       "ecommerce": "Ecommerce"
     },
     "countries": {
+      "poland": "Polonia",
       "spain": "España",
-      "eu": "Unión Europea"
+      "china": "China",
+      "eu": "Unión Europea",
+      "greece": "Grecia",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Inglés",

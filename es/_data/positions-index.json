@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -64,6 +65,7 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
           "spain"
         ],
         "languages": [
@@ -267,7 +269,8 @@
           "fintech"
         ],
         "countries": [
-          "spain"
+          "spain",
+          "poland"
         ],
         "languages": [
           "spanish",
@@ -384,6 +387,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain"
         ],
         "languages": [
@@ -486,8 +490,12 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "spain",
-          "eu"
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -597,6 +605,8 @@
           "fintech"
         ],
         "countries": [
+          "israel",
+          "poland",
           "spain"
         ],
         "languages": [
@@ -651,6 +661,7 @@
     "scopes": {
       "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "Keyword research",
       "content-strategy": "Estrategia de contenidos",
       "telegram-ads": "Telegram Ads",
@@ -675,8 +686,12 @@
       "ecommerce": "Ecommerce"
     },
     "countries": {
+      "poland": "Polonia",
       "spain": "España",
-      "eu": "Unión Europea"
+      "china": "China",
+      "eu": "Unión Europea",
+      "greece": "Grecia",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Inglés",

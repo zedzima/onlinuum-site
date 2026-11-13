@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -30,6 +30,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -62,6 +63,9 @@
         ],
         "countries": [
           "turkey",
+          "poland",
+          "israel",
+          "greece",
           "eu"
         ],
         "blog-posts": [
@@ -126,7 +130,8 @@
           "fintech"
         ],
         "countries": [
-          "turkey"
+          "turkey",
+          "greece"
         ],
         "positions": [
           "seo-expert",
@@ -147,6 +152,7 @@
       "seo-research": "SEO Araştırması",
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "İçerik Stratejisi",
       "content-writing": "İçerik Yazarlığı",
       "google-ads-search": "Google Ads Arama Ağı",
@@ -179,6 +185,9 @@
     },
     "countries": {
       "turkey": "Türkiye",
+      "poland": "Polonya",
+      "israel": "İsrail",
+      "greece": "Yunanistan",
       "eu": "Avrupa Birliği"
     },
     "blog-posts": {

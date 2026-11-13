@@ -8,7 +8,7 @@
       "menu": "מסחר אלקטרוני",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -24,6 +24,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -50,7 +51,10 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -79,7 +83,7 @@
       "menu": "פינטק",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -95,6 +99,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -116,7 +121,10 @@
           "ppc"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -145,7 +153,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -161,6 +169,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -187,7 +196,10 @@
           "social-media"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -220,6 +232,7 @@
       "technical-seo": "קידום אתרים טכני",
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "אסטרטגיית תוכן",
       "content-writing": "כתיבת תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
@@ -247,7 +260,10 @@
       "social-media": "רשתות חברתיות"
     },
     "countries": {
+      "poland": "פולין",
+      "china": "סין",
       "eu": "האיחוד האירופי",
+      "greece": "יוון",
       "israel": "ישראל"
     },
     "languages": {

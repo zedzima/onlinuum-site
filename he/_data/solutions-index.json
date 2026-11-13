@@ -23,6 +23,7 @@
           "technical-seo",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "google-ads-search",
           "ppc-audit",
@@ -44,7 +45,10 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -97,7 +101,10 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -125,6 +132,7 @@
       "technical-seo": "קידום אתרים טכני",
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "אסטרטגיית תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
       "ppc-audit": "אודיט PPC",
@@ -146,7 +154,10 @@
       "fintech": "פינטק"
     },
     "countries": {
+      "poland": "פולין",
+      "china": "סין",
       "eu": "האיחוד האירופי",
+      "greece": "יוון",
       "israel": "ישראל"
     },
     "languages": {

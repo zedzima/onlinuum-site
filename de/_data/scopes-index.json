@@ -1,6 +1,54 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Apple Search Ads Betreuung für iOS-Apps",
+      "description": "Apple Search Ads Betreuung: Kontoeinrichtung, Keyword-Strategie und Gebotsoptimierung für iOS-Installationen. Experte mit Namen, ab 400 $/Monat.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "germany",
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "App-Lokalisierung: Store-Metadaten je Markt",
@@ -34,7 +82,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -82,7 +134,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -132,7 +188,8 @@
           "fintech"
         ],
         "countries": [
-          "germany"
+          "germany",
+          "poland"
         ],
         "languages": [
           "english",
@@ -222,7 +279,8 @@
           "fintech"
         ],
         "countries": [
-          "germany"
+          "germany",
+          "poland"
         ],
         "languages": [
           "english",
@@ -269,7 +327,8 @@
           "fintech"
         ],
         "countries": [
-          "germany"
+          "germany",
+          "poland"
         ],
         "languages": [
           "english",
@@ -320,7 +379,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -374,7 +437,11 @@
         ],
         "countries": [
           "germany",
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english",
@@ -418,7 +485,8 @@
           "fintech"
         ],
         "countries": [
-          "germany"
+          "germany",
+          "poland"
         ],
         "languages": [
           "english",
@@ -449,13 +517,6 @@
       "digital-marketing-consulting": "Online-Marketing-Beratung",
       "multilingual-seo": "Mehrsprachige SEO"
     },
-    "services": {
-      "aso": "App-Store-Optimierung",
-      "content": "Content-Marketing",
-      "seo": "SEO-Leistungen",
-      "social-media": "Social Media Betreuung",
-      "ppc": "Google Ads"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "Fintech und Banken",
@@ -463,7 +524,11 @@
     },
     "countries": {
       "germany": "Deutschland",
-      "eu": "Europäische Union"
+      "poland": "Polen",
+      "china": "China",
+      "eu": "Europäische Union",
+      "greece": "Griechenland",
+      "israel": "Israel"
     },
     "languages": {
       "english": "Englisch",
@@ -475,6 +540,13 @@
       "seo-expert": "SEO Manager",
       "social-media-manager": "Social-Media-Manager",
       "ppc-specialist": "SEA Manager"
+    },
+    "services": {
+      "aso": "App-Store-Optimierung",
+      "content": "Content-Marketing",
+      "seo": "SEO-Leistungen",
+      "social-media": "Social Media Betreuung",
+      "ppc": "Google Ads"
     },
     "cases": {
       "alvadi": "ALVADI",

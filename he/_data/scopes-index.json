@@ -1,6 +1,52 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "ניהול Apple Search Ads לצמיחה ב-iOS",
+      "description": "ניהול Apple Search Ads: הקמת חשבון, אסטרטגיית מילות מפתח ואופטימיזציית הצעות מחיר להתקנות iOS. מומחה בשמו, החל מ-$400 לחודש.",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "תרגום אפליקציות: מטאדאטה ילידית לכל שוק",
@@ -33,7 +79,10 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -80,7 +129,10 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -128,6 +180,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -211,6 +266,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -253,6 +311,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -301,7 +362,10 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -354,7 +418,10 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
           "israel"
         ],
         "languages": [
@@ -397,6 +464,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -425,20 +495,16 @@
       "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
       "multilingual-seo": "קידום אתרים בינלאומי"
     },
-    "services": {
-      "aso": "ASO",
-      "content": "שיווק תוכן",
-      "seo": "קידום אתרים",
-      "social-media": "רשתות חברתיות",
-      "ppc": "PPC"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "פינטק",
       "ecommerce": "מסחר אלקטרוני"
     },
     "countries": {
+      "poland": "פולין",
+      "china": "סין",
       "eu": "האיחוד האירופי",
+      "greece": "יוון",
       "israel": "ישראל"
     },
     "languages": {
@@ -450,6 +516,13 @@
       "seo-expert": "מומחה קידום אתרים",
       "social-media-manager": "מנהל סושיאל",
       "ppc-specialist": "מנהל קמפיינים PPC"
+    },
+    "services": {
+      "aso": "ASO",
+      "content": "שיווק תוכן",
+      "seo": "קידום אתרים",
+      "social-media": "רשתות חברתיות",
+      "ppc": "PPC"
     },
     "cases": {
       "alvadi": "ALVADI",

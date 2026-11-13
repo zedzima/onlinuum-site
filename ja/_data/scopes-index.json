@@ -1,6 +1,53 @@
 {
   "scopes": [
     {
+      "slug": "apple-search-ads",
+      "url": "/scopes/apple-search-ads",
+      "title": "Apple Search Ads運用代行｜iOSアプリのインストールを伸ばす",
+      "description": "Apple Search Adsの運用代行。アカウント設定、キーワード戦略、入札の最適化でiOSアプリのインストールを伸ばします。担当者を明示し、月額 $400 から。",
+      "menu": "Apple Search Ads",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "aso-localization",
       "url": "/scopes/aso-localization",
       "title": "アプリの多言語対応｜ストア情報をネイティブが現地化",
@@ -33,7 +80,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -80,7 +131,11 @@
           "ecommerce"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -128,6 +183,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -211,6 +269,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -253,6 +314,9 @@
           "ecommerce",
           "saas",
           "fintech"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -301,7 +365,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -354,7 +422,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "japan"
         ],
         "languages": [
@@ -397,6 +469,9 @@
           "saas",
           "fintech"
         ],
+        "countries": [
+          "poland"
+        ],
         "languages": [
           "english"
         ],
@@ -425,20 +500,17 @@
       "digital-marketing-consulting": "マーケティングコンサルティング",
       "multilingual-seo": "多言語SEO"
     },
-    "services": {
-      "aso": "ASO対策",
-      "content": "コンテンツマーケティング",
-      "seo": "SEO対策",
-      "social-media": "SNS運用代行",
-      "ppc": "リスティング広告"
-    },
     "industries": {
       "saas": "SaaS",
       "fintech": "フィンテック",
       "ecommerce": "EC"
     },
     "countries": {
+      "poland": "ポーランド",
+      "china": "中国",
       "eu": "欧州連合",
+      "greece": "ギリシャ",
+      "israel": "イスラエル",
       "japan": "日本"
     },
     "languages": {
@@ -450,6 +522,13 @@
       "seo-expert": "SEO担当",
       "social-media-manager": "SNS運用担当",
       "ppc-specialist": "広告運用担当"
+    },
+    "services": {
+      "aso": "ASO対策",
+      "content": "コンテンツマーケティング",
+      "seo": "SEO対策",
+      "social-media": "SNS運用代行",
+      "ppc": "リスティング広告"
     },
     "cases": {
       "alvadi": "ALVADI",

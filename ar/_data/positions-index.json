@@ -50,7 +50,8 @@
         ],
         "scopes": [
           "aso-optimization",
-          "aso-localization"
+          "aso-localization",
+          "apple-search-ads"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -62,6 +63,9 @@
           "saas",
           "fintech",
           "ecommerce"
+        ],
+        "countries": [
+          "poland"
         ],
         "languages": [
           "english"
@@ -263,6 +267,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "uae"
         ],
         "languages": [
@@ -380,6 +385,7 @@
           "fintech"
         ],
         "countries": [
+          "poland",
           "uae"
         ],
         "languages": [
@@ -481,7 +487,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "uae"
         ],
         "languages": [
@@ -592,7 +602,9 @@
           "fintech"
         ],
         "countries": [
-          "uae"
+          "uae",
+          "israel",
+          "poland"
         ],
         "languages": [
           "english"
@@ -645,6 +657,7 @@
     "scopes": {
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
+      "apple-search-ads": "Apple Search Ads",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
       "telegram-ads": "إعلانات تليجرام",
@@ -668,13 +681,17 @@
       "fintech": "التكنولوجيا المالية",
       "ecommerce": "التجارة الإلكترونية"
     },
+    "countries": {
+      "poland": "بولندا",
+      "uae": "الإمارات",
+      "china": "الصين",
+      "eu": "الاتحاد الأوروبي",
+      "greece": "اليونان",
+      "israel": "إسرائيل"
+    },
     "languages": {
       "english": "الإنجليزية",
       "arabic": "العربية"
-    },
-    "countries": {
-      "uae": "الإمارات",
-      "eu": "الاتحاد الأوروبي"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"

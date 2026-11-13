@@ -100,6 +100,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "apple-search-ads",
           "aso-localization",
           "aso-optimization",
           "content-strategy",
@@ -124,7 +125,11 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "china",
           "eu",
+          "greece",
+          "israel",
           "turkey"
         ],
         "languages": [
@@ -191,7 +196,11 @@
           "fintech"
         ],
         "countries": [
-          "eu"
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel"
         ],
         "languages": [
           "english"
@@ -208,6 +217,7 @@
     "scopes": {
       "seo-research": "SEO Araştırması",
       "technical-seo": "Teknik SEO",
+      "apple-search-ads": "Apple Search Ads",
       "aso-localization": "ASO Yerelleştirme",
       "aso-optimization": "ASO Çalışması",
       "content-strategy": "İçerik Stratejisi",
@@ -227,7 +237,11 @@
     },
     "countries": {
       "eu": "Avrupa Birliği",
-      "turkey": "Türkiye"
+      "turkey": "Türkiye",
+      "poland": "Polonya",
+      "china": "Çin",
+      "greece": "Yunanistan",
+      "israel": "İsrail"
     },
     "languages": {
       "english": "İngilizce",

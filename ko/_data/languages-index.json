@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -30,6 +30,7 @@
           "seo-research",
           "aso-optimization",
           "aso-localization",
+          "apple-search-ads",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -61,6 +62,9 @@
           "fintech"
         ],
         "countries": [
+          "poland",
+          "israel",
+          "greece",
           "eu"
         ],
         "blog-posts": [
@@ -118,6 +122,7 @@
       "seo-research": "SEO 키워드 분석",
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
+      "apple-search-ads": "Apple Search Ads",
       "content-strategy": "콘텐츠 기획",
       "content-writing": "블로그 대행",
       "google-ads-search": "구글 검색광고",
@@ -149,6 +154,9 @@
       "fintech": "핀테크"
     },
     "countries": {
+      "poland": "폴란드",
+      "israel": "이스라엘",
+      "greece": "그리스",
       "eu": "유럽연합",
       "south-korea": "대한민국"
     },
