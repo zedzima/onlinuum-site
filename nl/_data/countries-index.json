@@ -1,6 +1,74 @@
 {
   "countries": [
     {
+      "slug": "austria",
+      "url": "/countries/austria",
+      "title": "Online marketing in Oostenrijk en de DACH-regio",
+      "description": "Online marketing in Oostenrijk en de DACH-regio voor internationale bedrijven: specialisten in Oostenrijks Duits, een DACH-strategie en vaste pakketten.",
+      "menu": "Oostenrijk",
+      "featured": false,
+      "flag": "🇦🇹",
+      "population_total": "8.97M",
+      "population_total_raw": 8967980,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "Duits",
+      "dominant_language_code": "de",
+      "scope_count": 8,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "china",
       "url": "/countries/china",
       "title": "Online marketing voor de Chinese markt: Baidu en WeChat",
@@ -14,7 +82,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Chinees",
       "dominant_language_code": "zh",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -35,7 +103,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -77,7 +146,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "Engels",
       "dominant_language_code": "en",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -98,7 +167,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -150,7 +220,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Grieks",
       "dominant_language_code": "el",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -171,7 +241,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -216,7 +287,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "Hebreeuws",
       "dominant_language_code": "he",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -237,7 +308,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -283,7 +355,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Japans",
       "dominant_language_code": "ja",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -304,7 +376,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -347,7 +420,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "Nederlands",
       "dominant_language_code": "nl",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -368,7 +441,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -416,7 +490,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Pools",
       "dominant_language_code": "pl",
-      "scope_count": 11,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -437,8 +511,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -479,17 +555,153 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "sweden",
+      "url": "/countries/sweden",
+      "title": "Online marketing voor de Zweedse markt en Scandinavië",
+      "description": "Online marketing voor de Zweedse markt en heel Scandinavië: native uitvoering in het Zweeds, Noors, Deens en Fins vanuit één Noords team.",
+      "menu": "Zweden",
+      "featured": false,
+      "flag": "🇸🇪",
+      "population_total": "10.6M",
+      "population_total_raw": 10589800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "Zweeds",
+      "dominant_language_code": "sv",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "switzerland",
+      "url": "/countries/switzerland",
+      "title": "Exporteren naar Zwitserland: online marketing in DE, FR, IT",
+      "description": "Exporteren naar Zwitserland? Online adverteren en marketing in de Duits-, Frans- en Italiaanstalige regio's, met native specialisten en vaste pakketten.",
+      "menu": "Zwitserland",
+      "featured": false,
+      "flag": "🇨🇭",
+      "population_total": "8.86M",
+      "population_total_raw": 8860570,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "Duits",
+      "dominant_language_code": "de",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "Zoekmachinemarketing",
       "growth-marketing": "Growth marketing",
-      "performance-marketing": "Performancemarketing",
-      "product-marketing": "Productmarketing",
-      "marketing-operations": "Marketingoperations",
       "community-marketing": "Community marketing",
-      "app-marketing": "App marketing"
+      "product-marketing": "Productmarketing",
+      "app-marketing": "App marketing",
+      "performance-marketing": "Performancemarketing",
+      "marketing-operations": "Marketingoperations"
     },
     "scopes": {
       "technical-seo": "Technische SEO",
@@ -498,8 +710,10 @@
       "aso-localization": "App vertalen",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App store-CRO",
+      "app-retention": "App retention",
       "content-strategy": "Contentstrategie",
       "google-ads-search": "Google Ads-zoekcampagnes",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "SEA-audit",
       "telegram-ads": "Telegram Ads-beheer",
       "youtube-ads": "YouTube Ads-beheer"
@@ -510,33 +724,21 @@
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "solutions": {
-      "digital-marketing-consulting": "Online marketing advies",
-      "multilingual-seo": "Meertalige SEO"
+      "multilingual-seo": "Meertalige SEO",
+      "digital-marketing-consulting": "Online marketing advies"
     },
     "services": {
       "content": "Contentmarketing",
-      "social-media": "Social media",
       "aso": "ASO",
       "seo": "SEO",
+      "social-media": "Social media",
       "ppc": "SEA"
     },
     "industries": {
       "ecommerce": "Webshops",
       "saas": "SaaS",
-      "fintech": "Fintechbedrijven",
-      "manufacturing": "Maakindustrie"
-    },
-    "positions": {
-      "seo-expert": "SEO-specialist",
-      "social-media-manager": "Social media manager",
-      "marketing-consultant": "Marketing consultant",
-      "business-development-manager": "Business development manager",
-      "aso-specialist": "ASO-specialist",
-      "ppc-specialist": "SEA-specialist"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "manufacturing": "Maakindustrie",
+      "fintech": "Fintechbedrijven"
     },
     "languages": {
       "english": "Engels",
@@ -544,9 +746,21 @@
       "dutch": "Nederlands"
     },
     "blog-posts": {
-      "how-ai-chooses-sources": "Hoe AI bronnen kiest",
       "seo-packages-comparison": "SEO-pakketten vergeleken",
+      "how-ai-chooses-sources": "Hoe AI bronnen kiest",
       "why-seo-matters-in-2026": "Waarom SEO belangrijk is in 2026"
+    },
+    "positions": {
+      "seo-expert": "SEO-specialist",
+      "aso-specialist": "ASO-specialist",
+      "social-media-manager": "Social media manager",
+      "marketing-consultant": "Marketing consultant",
+      "business-development-manager": "Business development manager",
+      "ppc-specialist": "SEA-specialist"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

@@ -1,6 +1,59 @@
 {
   "scopes": [
     {
+      "slug": "app-retention",
+      "url": "/scopes/app-retention",
+      "title": "App Retention: Onboarding, CRM, Notifiche Push e Paywall",
+      "description": "App retention: onboarding app, CRM, notifiche push e paywall che rendono redditizia la spesa di acquisizione. Audit della retention da 400 $.",
+      "menu": "App retention",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "austria",
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "app-store-cro",
       "url": "/scopes/app-store-cro",
       "title": "Conversion Rate App Store: Screenshot e A/B Test",
@@ -30,6 +83,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -37,7 +91,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -80,6 +136,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -87,7 +144,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -133,6 +192,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -140,7 +200,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -187,6 +249,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -194,7 +257,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -247,6 +312,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -349,6 +415,51 @@
       "article_count": 0
     },
     {
+      "slug": "google-shopping",
+      "url": "/scopes/google-shopping",
+      "title": "Gestione Google Shopping: Feed, Merchant Center e ROAS",
+      "description": "Google Shopping gestito: audit di Google Merchant Center, ottimizzazione del feed e controllo del ROAS, da 400 $/mese. Scoprite i prezzi.",
+      "menu": "Google Shopping",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 7,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "ppc-audit",
       "url": "/scopes/ppc-audit",
       "title": "Audit Google Ads: Analisi Account e Sprechi",
@@ -436,6 +547,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -443,7 +555,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -497,6 +611,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -504,7 +619,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -636,6 +753,7 @@
       "manufacturing": "Manifatturiero"
     },
     "countries": {
+      "austria": "Austria",
       "poland": "Polonia",
       "china": "Cina",
       "eu": "Unione Europea",
@@ -643,7 +761,9 @@
       "israel": "Israele",
       "italy": "Italia",
       "japan": "Giappone",
-      "netherlands": "Paesi Bassi"
+      "netherlands": "Paesi Bassi",
+      "sweden": "Svezia",
+      "switzerland": "Svizzera"
     },
     "languages": {
       "english": "Inglese",

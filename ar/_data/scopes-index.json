@@ -1,6 +1,58 @@
 {
   "scopes": [
     {
+      "slug": "app-retention",
+      "url": "/scopes/app-retention",
+      "title": "App Retention: رفع معدل الاحتفاظ بمستخدمي التطبيق",
+      "description": "خدمات App Retention: تحسين التهيئة الأولى وCRM وpush notifications وpaywall لتصبح ميزانية الاكتساب مربحة. تدقيق الاحتفاظ من $400.",
+      "menu": "الاحتفاظ بمستخدمي التطبيقات",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "austria",
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "app-store-cro",
       "url": "/scopes/app-store-cro",
       "title": "App Store CRO: رفع app store conversion rate",
@@ -30,13 +82,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -79,6 +134,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -86,6 +142,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -132,6 +190,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -139,6 +198,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -187,6 +248,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -194,6 +256,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -247,6 +311,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -351,6 +416,52 @@
       "article_count": 0
     },
     {
+      "slug": "google-shopping",
+      "url": "/scopes/google-shopping",
+      "title": "Google Shopping Ads: إدارة خلاصة المنتجات وROAS",
+      "description": "إدارة Google Shopping Ads: تدقيق Merchant Center، وتحسين خلاصة المنتجات، وحوكمة ROAS، من $400 شهريًا. اطلعوا على الأسعار.",
+      "menu": "Google Shopping",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 7,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland",
+          "uae"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "ppc-audit",
       "url": "/scopes/ppc-audit",
       "title": "PPC Audit: مراجعة الإنفاق والتتبع وفرص النمو",
@@ -440,6 +551,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -447,6 +559,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -502,6 +616,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -509,6 +624,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -642,6 +759,7 @@
       "manufacturing": "الصناعة"
     },
     "countries": {
+      "austria": "النمسا",
       "poland": "بولندا",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
@@ -649,6 +767,8 @@
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "sweden": "السويد",
+      "switzerland": "سويسرا",
       "uae": "الإمارات"
     },
     "languages": {

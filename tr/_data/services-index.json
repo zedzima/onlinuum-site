@@ -39,13 +39,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -102,6 +105,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -109,6 +113,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -130,7 +136,7 @@
       "description": "Arama, Shopping ve yeniden pazarlama için dijital reklam yönetimi. Pazara göre fiyatlanan kampanyalar. Starter planı aylık 400 $'dan başlar.",
       "menu": "Performans Pazarlama",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -149,6 +155,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -176,6 +183,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -232,6 +241,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -239,6 +249,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -292,7 +304,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -320,6 +334,7 @@
       "content-writing": "İçerik Yazarlığı",
       "ppc-audit": "Reklam Analizi",
       "google-ads-search": "Google Ads Arama Ağı",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "Teknik SEO",
       "telegram-ads": "Telegram Reklamları"
@@ -340,6 +355,7 @@
       "manufacturing": "Sanayi"
     },
     "countries": {
+      "austria": "Avusturya",
       "poland": "Polonya",
       "china": "Çin",
       "eu": "Avrupa Birliği",
@@ -347,6 +363,8 @@
       "israel": "İsrail",
       "japan": "Japonya",
       "netherlands": "Hollanda",
+      "sweden": "İsveç",
+      "switzerland": "İsviçre",
       "turkey": "Türkiye"
     },
     "languages": {

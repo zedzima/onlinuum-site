@@ -1,6 +1,74 @@
 {
   "countries": [
     {
+      "slug": "austria",
+      "url": "/countries/austria",
+      "title": "التسويق الرقمي في النمسا ومنطقة DACH",
+      "description": "التسويق الرقمي في النمسا للشركات الدولية: متخصصون أصليون بالألمانية النمساوية، واستراتيجية تراعي DACH، ونطاقات بسعر ثابت.",
+      "menu": "النمسا",
+      "featured": false,
+      "flag": "🇦🇹",
+      "population_total": "8.97M",
+      "population_total_raw": 8967980,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "الألمانية",
+      "dominant_language_code": "de",
+      "scope_count": 8,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "china",
       "url": "/countries/china",
       "title": "Digital Marketing China: التسويق عبر Baidu وWeChat",
@@ -14,7 +82,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "الصينية",
       "dominant_language_code": "zh",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -35,7 +103,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -77,7 +146,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "الإنجليزية",
       "dominant_language_code": "en",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -98,7 +167,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -149,7 +219,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "اليونانية",
       "dominant_language_code": "el",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -170,7 +240,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -215,7 +286,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "العبرية",
       "dominant_language_code": "he",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -236,7 +307,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -283,7 +355,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "اليابانية",
       "dominant_language_code": "ja",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -304,7 +376,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -347,7 +420,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "الهولندية",
       "dominant_language_code": "nl",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -368,7 +441,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -415,7 +489,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "البولندية",
       "dominant_language_code": "pl",
-      "scope_count": 11,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -436,8 +510,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -480,6 +556,142 @@
       }
     },
     {
+      "slug": "sweden",
+      "url": "/countries/sweden",
+      "title": "Digital Marketing Sweden: السويد والدول الإسكندنافية",
+      "description": "التسويق الرقمي في السويد والدول الإسكندنافية: تنفيذ أصلي بالسويدية والنرويجية والدنماركية والفنلندية من فريق شمالي واحد.",
+      "menu": "السويد",
+      "featured": false,
+      "flag": "🇸🇪",
+      "population_total": "10.6M",
+      "population_total_raw": 10589800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "السويدية",
+      "dominant_language_code": "sv",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "switzerland",
+      "url": "/countries/switzerland",
+      "title": "Digital Marketing Switzerland: التسويق الرقمي في سويسرا",
+      "description": "إعلان وتسويق رقمي في كل سويسرا بالألمانية والفرنسية والإيطالية: متخصصون أصليون لكل لغة، ونطاقات عمل بسعر ثابت. ابدأوا الآن.",
+      "menu": "سويسرا",
+      "featured": false,
+      "flag": "🇨🇭",
+      "population_total": "8.86M",
+      "population_total_raw": 8860570,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "الألمانية",
+      "dominant_language_code": "de",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "uae",
       "url": "/countries/uae",
       "title": "شركات التسويق في دبي والإمارات",
@@ -493,7 +705,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "العربية",
       "dominant_language_code": "ar",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -512,6 +724,7 @@
           "technical-seo",
           "seo-research",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "aso-optimization",
           "aso-localization",
@@ -554,11 +767,11 @@
     "domains": {
       "search-marketing": "التسويق عبر محركات البحث",
       "growth-marketing": "تسويق النمو",
-      "performance-marketing": "تسويق الأداء",
-      "product-marketing": "تسويق المنتجات",
-      "marketing-operations": "عمليات التسويق",
       "community-marketing": "التسويق المجتمعي",
-      "app-marketing": "تسويق التطبيقات"
+      "product-marketing": "تسويق المنتجات",
+      "app-marketing": "تسويق التطبيقات",
+      "performance-marketing": "تسويق الأداء",
+      "marketing-operations": "عمليات التسويق"
     },
     "scopes": {
       "technical-seo": "السيو التقني",
@@ -567,8 +780,10 @@
       "aso-localization": "توطين ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "content-strategy": "استراتيجية المحتوى",
       "google-ads-search": "إعلانات جوجل للبحث",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "تدقيق PPC",
       "telegram-ads": "إعلانات تليجرام",
       "youtube-ads": "YouTube Ads"
@@ -579,33 +794,21 @@
       "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
     },
     "solutions": {
-      "digital-marketing-consulting": "استشارات التسويق الرقمي",
-      "multilingual-seo": "multilingual SEO"
+      "multilingual-seo": "multilingual SEO",
+      "digital-marketing-consulting": "استشارات التسويق الرقمي"
     },
     "services": {
       "content": "التسويق بالمحتوى",
-      "social-media": "وسائل التواصل الاجتماعي",
       "aso": "تحسين متجر التطبيقات ASO",
       "seo": "سيو SEO",
+      "social-media": "وسائل التواصل الاجتماعي",
       "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "التجارة الإلكترونية",
       "saas": "SaaS",
-      "fintech": "التكنولوجيا المالية",
-      "manufacturing": "الصناعة"
-    },
-    "positions": {
-      "seo-expert": "خبير SEO",
-      "social-media-manager": "أخصائي سوشيال ميديا",
-      "marketing-consultant": "مستشار تسويق",
-      "business-development-manager": "مدير تطوير الأعمال",
-      "aso-specialist": "متخصص ASO",
-      "ppc-specialist": "متخصص PPC"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "manufacturing": "الصناعة",
+      "fintech": "التكنولوجيا المالية"
     },
     "languages": {
       "english": "الإنجليزية",
@@ -613,9 +816,21 @@
       "arabic": "العربية"
     },
     "blog-posts": {
-      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
       "seo-packages-comparison": "مقارنة باقات السيو",
+      "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",
       "why-seo-matters-in-2026": "أهمية السيو في 2026"
+    },
+    "positions": {
+      "seo-expert": "خبير SEO",
+      "aso-specialist": "متخصص ASO",
+      "social-media-manager": "أخصائي سوشيال ميديا",
+      "marketing-consultant": "مستشار تسويق",
+      "business-development-manager": "مدير تطوير الأعمال",
+      "ppc-specialist": "متخصص PPC"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

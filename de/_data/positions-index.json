@@ -52,7 +52,8 @@
           "aso-optimization",
           "aso-localization",
           "app-store-cro",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -67,6 +68,7 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland"
         ],
         "languages": [
@@ -281,6 +283,7 @@
           "germany",
           "netherlands",
           "poland",
+          "sweden",
           "japan"
         ],
         "languages": [
@@ -386,6 +389,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -507,13 +511,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -685,11 +692,13 @@
       "aso-localization": "App-Lokalisierung",
       "app-store-cro": "App-Store-CRO",
       "apple-search-ads": "Apple Search Ads",
+      "app-retention": "App-Retention",
       "seo-research": "SEO-Recherche",
       "content-strategy": "Content-Strategie",
       "telegram-ads": "Telegram-Werbung",
       "ppc-audit": "Google Ads Audit",
       "google-ads-search": "Google Ads Suchkampagnen",
+      "google-shopping": "Google Shopping Ads",
       "youtube-ads": "YouTube-Werbung",
       "technical-seo": "Technisches SEO"
     },
@@ -712,13 +721,16 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "austria": "Österreich",
       "poland": "Polen",
       "netherlands": "Niederlande",
+      "sweden": "Schweden",
       "japan": "Japan",
       "china": "China",
       "eu": "Europäische Union",
       "greece": "Griechenland",
-      "israel": "Israel"
+      "israel": "Israel",
+      "switzerland": "Schweiz"
     },
     "languages": {
       "english": "Englisch",

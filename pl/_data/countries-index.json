@@ -1,6 +1,74 @@
 {
   "countries": [
     {
+      "slug": "austria",
+      "url": "/countries/austria",
+      "title": "Marketing internetowy w Austrii i na rynku DACH",
+      "description": "Marketing internetowy w Austrii dla firm międzynarodowych: natywni specjaliści od austriackiego niemieckiego, strategia na rynek DACH, stałe ceny.",
+      "menu": "Austria",
+      "featured": false,
+      "flag": "🇦🇹",
+      "population_total": "8.97M",
+      "population_total_raw": 8967980,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "niemiecki",
+      "dominant_language_code": "de",
+      "scope_count": 8,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "china",
       "url": "/countries/china",
       "title": "Rynek chiński: marketing w Baidu i WeChat",
@@ -14,7 +82,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "chiński",
       "dominant_language_code": "zh",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -35,7 +103,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -77,7 +146,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "angielski",
       "dominant_language_code": "en",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -98,7 +167,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -150,7 +220,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "grecki",
       "dominant_language_code": "el",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -171,7 +241,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -216,7 +287,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "hebrajski",
       "dominant_language_code": "he",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -237,7 +308,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -284,7 +356,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "japoński",
       "dominant_language_code": "ja",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -305,7 +377,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -348,7 +421,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "niderlandzki",
       "dominant_language_code": "nl",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -369,7 +442,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -416,7 +490,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "polski",
       "dominant_language_code": "pl",
-      "scope_count": 11,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -437,8 +511,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -480,17 +556,153 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "sweden",
+      "url": "/countries/sweden",
+      "title": "Rynek szwedzki i Skandynawia: marketing internetowy",
+      "description": "Rynek szwedzki i cała Skandynawia: marketing internetowy z natywnym wykonaniem po szwedzku, norwesku, duńsku i fińsku w jednym zespole nordyckim.",
+      "menu": "Szwecja",
+      "featured": false,
+      "flag": "🇸🇪",
+      "population_total": "10.6M",
+      "population_total_raw": 10589800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "szwedzki",
+      "dominant_language_code": "sv",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "switzerland",
+      "url": "/countries/switzerland",
+      "title": "Eksport do Szwajcarii: reklama internetowa DE, FR, IT",
+      "description": "Eksport do Szwajcarii: reklama i marketing internetowy w regionach niemiecko-, francusko- i włoskojęzycznych. Natywni specjaliści, stałe ceny.",
+      "menu": "Szwajcaria",
+      "featured": false,
+      "flag": "🇨🇭",
+      "population_total": "8.86M",
+      "population_total_raw": 8860570,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "niemiecki",
+      "dominant_language_code": "de",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "Marketing w wyszukiwarkach",
       "growth-marketing": "Growth marketing",
-      "performance-marketing": "Marketing efektywnościowy",
-      "product-marketing": "Marketing produktu",
-      "marketing-operations": "Operacje marketingowe",
       "community-marketing": "Marketing społecznościowy",
-      "app-marketing": "Marketing aplikacji"
+      "product-marketing": "Marketing produktu",
+      "app-marketing": "Marketing aplikacji",
+      "performance-marketing": "Marketing efektywnościowy",
+      "marketing-operations": "Operacje marketingowe"
     },
     "scopes": {
       "technical-seo": "SEO techniczne",
@@ -499,8 +711,10 @@
       "aso-localization": "Lokalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "CRO karty aplikacji",
+      "app-retention": "Retencja aplikacji",
       "content-strategy": "Strategia treści",
       "google-ads-search": "Reklama w Google",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Audyt Google Ads",
       "telegram-ads": "Reklama na Telegramie",
       "youtube-ads": "YouTube Ads"
@@ -511,33 +725,21 @@
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "solutions": {
-      "digital-marketing-consulting": "Doradztwo marketingowe",
-      "multilingual-seo": "Pozycjonowanie zagraniczne"
+      "multilingual-seo": "Pozycjonowanie zagraniczne",
+      "digital-marketing-consulting": "Doradztwo marketingowe"
     },
     "services": {
       "content": "Content marketing",
-      "social-media": "Social media",
       "aso": "ASO aplikacji",
       "seo": "Pozycjonowanie",
+      "social-media": "Social media",
       "ppc": "Google Ads"
     },
     "industries": {
       "ecommerce": "Sklepy internetowe",
       "saas": "SaaS",
-      "fintech": "Fintech i usługi finansowe",
-      "manufacturing": "Przemysł i produkcja"
-    },
-    "positions": {
-      "seo-expert": "Specjalista SEO",
-      "social-media-manager": "Social media manager",
-      "marketing-consultant": "Doradca marketingowy",
-      "business-development-manager": "Business development manager",
-      "aso-specialist": "Specjalista ASO",
-      "ppc-specialist": "Specjalista Google Ads"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "manufacturing": "Przemysł i produkcja",
+      "fintech": "Fintech i usługi finansowe"
     },
     "languages": {
       "english": "Angielski",
@@ -545,9 +747,21 @@
       "polish": "Polski"
     },
     "blog-posts": {
-      "how-ai-chooses-sources": "Jak AI wybiera źródła",
       "seo-packages-comparison": "Porównanie pakietów SEO",
+      "how-ai-chooses-sources": "Jak AI wybiera źródła",
       "why-seo-matters-in-2026": "Czy SEO opłaca się w 2026"
+    },
+    "positions": {
+      "seo-expert": "Specjalista SEO",
+      "aso-specialist": "Specjalista ASO",
+      "social-media-manager": "Social media manager",
+      "marketing-consultant": "Doradca marketingowy",
+      "business-development-manager": "Business development manager",
+      "ppc-specialist": "Specjalista Google Ads"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -18,7 +18,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko"
@@ -36,13 +37,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -91,13 +95,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -143,13 +150,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -196,7 +206,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -214,7 +226,7 @@
       "featured": true,
       "icon": "target",
       "service_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 1,
       "case_count": 2,
       "expert_count": 2,
@@ -222,6 +234,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -253,7 +266,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -305,13 +320,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -329,7 +347,7 @@
       "featured": true,
       "icon": "search-new",
       "service_count": 4,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 1,
       "expert_count": 3,
@@ -339,6 +357,7 @@
           "seo-research",
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "content-strategy",
           "content-writing"
         ],
@@ -368,13 +387,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -401,10 +423,12 @@
       "aso-localization": "App-Lokalisierung",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App-Store-CRO",
+      "app-retention": "App-Retention",
       "seo-research": "SEO-Recherche",
       "content-strategy": "Content-Strategie",
       "ppc-audit": "Google Ads Audit",
       "google-ads-search": "Google Ads Suchkampagnen",
+      "google-shopping": "Google Shopping Ads",
       "youtube-ads": "YouTube-Werbung",
       "telegram-ads": "Telegram-Werbung",
       "content-writing": "Texterstellung",
@@ -434,13 +458,16 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "austria": "Österreich",
       "poland": "Polen",
       "china": "China",
       "eu": "Europäische Union",
       "greece": "Griechenland",
       "israel": "Israel",
       "japan": "Japan",
-      "netherlands": "Niederlande"
+      "netherlands": "Niederlande",
+      "sweden": "Schweden",
+      "switzerland": "Schweiz"
     },
     "languages": {
       "english": "Englisch",

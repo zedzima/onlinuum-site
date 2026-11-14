@@ -29,8 +29,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -52,6 +54,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -59,6 +62,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -116,6 +121,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -123,6 +129,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -158,8 +166,10 @@
       "aso-localization": "توطين ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "content-strategy": "استراتيجية المحتوى",
       "google-ads-search": "إعلانات جوجل للبحث",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "تدقيق PPC",
       "telegram-ads": "إعلانات تليجرام",
       "youtube-ads": "YouTube Ads"
@@ -181,6 +191,7 @@
       "manufacturing": "الصناعة"
     },
     "countries": {
+      "austria": "النمسا",
       "poland": "بولندا",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
@@ -188,6 +199,8 @@
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "sweden": "السويد",
+      "switzerland": "سويسرا",
       "uae": "الإمارات"
     },
     "languages": {

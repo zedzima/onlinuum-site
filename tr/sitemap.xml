@@ -51,9 +51,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/tr/company-deck/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/tr/countries/</loc>
     <lastmod>2026-09-23</lastmod>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/tr/countries/austria/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/tr/countries/china/</loc>
@@ -82,12 +92,22 @@
   </url>
   <url>
     <loc>https://onlinuum.com/tr/countries/netherlands/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/tr/countries/poland/</loc>
     <lastmod>2026-11-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/tr/countries/sweden/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/tr/countries/switzerland/</loc>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -112,7 +132,7 @@
   </url>
   <url>
     <loc>https://onlinuum.com/tr/domains/growth-marketing/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -152,7 +172,7 @@
   </url>
   <url>
     <loc>https://onlinuum.com/tr/industries/manufacturing/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -172,7 +192,7 @@
   </url>
   <url>
     <loc>https://onlinuum.com/tr/languages/italian/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -226,8 +246,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/tr/scopes/app-retention/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/tr/scopes/app-store-cro/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -261,6 +286,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/tr/scopes/google-shopping/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/tr/scopes/ppc-audit/</loc>
     <lastmod>2026-10-22</lastmod>
     <priority>0.8</priority>
@@ -282,7 +312,7 @@
   </url>
   <url>
     <loc>https://onlinuum.com/tr/scopes/youtube-ads/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

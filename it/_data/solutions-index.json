@@ -29,8 +29,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -52,6 +54,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -59,7 +62,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -115,6 +120,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -122,7 +128,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -156,8 +164,10 @@
       "aso-localization": "Localizzazione ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "CRO per App Store",
+      "app-retention": "App retention",
       "content-strategy": "Content strategy",
       "google-ads-search": "Campagne Google Ads",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Audit PPC",
       "telegram-ads": "Campagne Telegram Ads",
       "youtube-ads": "Campagne YouTube Ads"
@@ -179,6 +189,7 @@
       "manufacturing": "Manifatturiero"
     },
     "countries": {
+      "austria": "Austria",
       "poland": "Polonia",
       "china": "Cina",
       "eu": "Unione Europea",
@@ -186,7 +197,9 @@
       "israel": "Israele",
       "italy": "Italia",
       "japan": "Giappone",
-      "netherlands": "Paesi Bassi"
+      "netherlands": "Paesi Bassi",
+      "sweden": "Svezia",
+      "switzerland": "Svizzera"
     },
     "languages": {
       "english": "Inglese",

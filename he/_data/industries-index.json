@@ -8,7 +8,7 @@
       "menu": "מסחר אלקטרוני",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -30,9 +30,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -57,13 +59,16 @@
           "social-media"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -92,7 +97,7 @@
       "menu": "פינטק",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -114,6 +119,7 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -136,13 +142,16 @@
           "ppc"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -171,7 +180,7 @@
       "menu": "תעשייה וייצור",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -191,6 +200,7 @@
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit"
         ],
         "experts": [
@@ -207,13 +217,16 @@
           "ppc"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -239,7 +252,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -261,6 +274,7 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -288,13 +302,16 @@
           "social-media"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -333,9 +350,11 @@
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "שימור משתמשים באפליקציה",
       "content-strategy": "אסטרטגיית תוכן",
       "content-writing": "כתיבת תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
+      "google-shopping": "פרסום בגוגל שופינג",
       "ppc-audit": "אודיט PPC",
       "telegram-ads": "פרסום בטלגרם",
       "youtube-ads": "פרסום ביוטיוב"
@@ -361,13 +380,16 @@
       "social-media": "רשתות חברתיות"
     },
     "countries": {
+      "austria": "אוסטריה",
       "poland": "פולין",
       "china": "סין",
       "eu": "האיחוד האירופי",
       "greece": "יוון",
       "israel": "ישראל",
       "japan": "יפן",
-      "netherlands": "הולנד"
+      "netherlands": "הולנד",
+      "sweden": "שוודיה",
+      "switzerland": "שווייץ"
     },
     "languages": {
       "english": "אנגלית",

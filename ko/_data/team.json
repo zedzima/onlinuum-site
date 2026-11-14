@@ -103,6 +103,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "app-retention",
           "app-store-cro",
           "apple-search-ads",
           "aso-localization",
@@ -130,6 +131,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -137,7 +139,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english"
@@ -190,6 +194,7 @@
         ],
         "scopes": [
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -217,7 +222,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -239,6 +246,7 @@
     "scopes": {
       "seo-research": "SEO 키워드 분석",
       "technical-seo": "테크니컬 SEO",
+      "app-retention": "앱 리텐션",
       "app-store-cro": "앱스토어 CRO",
       "apple-search-ads": "Apple Search Ads",
       "aso-localization": "ASO 현지화",
@@ -246,6 +254,7 @@
       "content-strategy": "콘텐츠 기획",
       "ppc-audit": "광고 성과 분석",
       "google-ads-search": "구글 검색광고",
+      "google-shopping": "구글 쇼핑",
       "youtube-ads": "유튜브 광고"
     },
     "services": {
@@ -262,13 +271,16 @@
     },
     "countries": {
       "eu": "유럽연합",
+      "austria": "오스트리아",
       "poland": "폴란드",
       "china": "중국",
       "greece": "그리스",
       "israel": "이스라엘",
       "japan": "일본",
       "netherlands": "네덜란드",
-      "south-korea": "대한민국"
+      "south-korea": "대한민국",
+      "sweden": "스웨덴",
+      "switzerland": "스위스"
     },
     "languages": {
       "english": "영어",

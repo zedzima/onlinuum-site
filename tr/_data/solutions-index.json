@@ -29,8 +29,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -52,6 +54,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -59,6 +62,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -116,6 +121,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -123,6 +129,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -158,8 +166,10 @@
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
       "google-ads-search": "Google Ads Arama Ağı",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Reklam Analizi",
       "telegram-ads": "Telegram Reklamları",
       "youtube-ads": "YouTube Ads"
@@ -181,6 +191,7 @@
       "manufacturing": "Sanayi"
     },
     "countries": {
+      "austria": "Avusturya",
       "poland": "Polonya",
       "china": "Çin",
       "eu": "Avrupa Birliği",
@@ -188,6 +199,8 @@
       "israel": "İsrail",
       "japan": "Japonya",
       "netherlands": "Hollanda",
+      "sweden": "İsveç",
+      "switzerland": "İsviçre",
       "turkey": "Türkiye"
     },
     "languages": {

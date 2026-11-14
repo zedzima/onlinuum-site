@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -18,7 +18,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko"
@@ -35,6 +36,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "spain",
           "china",
@@ -42,7 +44,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -90,6 +94,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "spain",
           "china",
@@ -97,7 +102,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -142,6 +149,7 @@
           "fintech"
         ],
         "countries": [
+          "austria",
           "poland",
           "spain",
           "china",
@@ -149,7 +157,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -195,7 +205,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -212,7 +224,7 @@
       "featured": true,
       "icon": "target",
       "service_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 1,
       "case_count": 2,
       "expert_count": 2,
@@ -220,6 +232,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -251,7 +264,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -302,6 +317,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "spain",
           "china",
@@ -309,7 +325,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -327,7 +345,7 @@
       "featured": true,
       "icon": "search-new",
       "service_count": 4,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 1,
       "expert_count": 3,
@@ -337,6 +355,7 @@
           "seo-research",
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "content-strategy",
           "content-writing"
         ],
@@ -365,6 +384,7 @@
           "fintech"
         ],
         "countries": [
+          "austria",
           "poland",
           "spain",
           "china",
@@ -372,7 +392,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -399,10 +421,12 @@
       "aso-localization": "Localización ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "CRO en App Store",
+      "app-retention": "Retención de usuarios",
       "seo-research": "Keyword research",
       "content-strategy": "Estrategia de contenidos",
       "ppc-audit": "Auditoría SEM",
       "google-ads-search": "Búsqueda en Google Ads",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "telegram-ads": "Telegram Ads",
       "content-writing": "Redacción de contenidos",
@@ -431,6 +455,7 @@
       "manufacturing": "Industria"
     },
     "countries": {
+      "austria": "Austria",
       "poland": "Polonia",
       "spain": "España",
       "china": "China",
@@ -438,7 +463,9 @@
       "greece": "Grecia",
       "israel": "Israel",
       "japan": "Japón",
-      "netherlands": "Países Bajos"
+      "netherlands": "Países Bajos",
+      "sweden": "Suecia",
+      "switzerland": "Suiza"
     },
     "languages": {
       "english": "Inglés",

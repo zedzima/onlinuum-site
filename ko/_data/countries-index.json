@@ -1,6 +1,74 @@
 {
   "countries": [
     {
+      "slug": "austria",
+      "url": "/countries/austria",
+      "title": "오스트리아 마케팅: DACH 시장을 위한 온라인 마케팅",
+      "description": "해외 기업을 위한 오스트리아 마케팅: 온라인·디지털 마케팅. 오스트리아 독일어 원어민 전문가, DACH 관점의 전략, 고정 가격 모듈.",
+      "menu": "오스트리아",
+      "featured": false,
+      "flag": "🇦🇹",
+      "population_total": "8.97M",
+      "population_total_raw": 8967980,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "독일어",
+      "dominant_language_code": "de",
+      "scope_count": 8,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "china",
       "url": "/countries/china",
       "title": "중국 마케팅: 바이두와 위챗, 샤오홍슈로 시장 진출",
@@ -14,7 +82,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "중국어",
       "dominant_language_code": "zh",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -35,7 +103,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -77,7 +146,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -98,7 +167,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -149,7 +219,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "그리스어",
       "dominant_language_code": "el",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -170,7 +240,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -215,7 +286,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "히브리어",
       "dominant_language_code": "he",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -236,7 +307,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -282,7 +354,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "일본어",
       "dominant_language_code": "ja",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -303,7 +375,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -346,7 +419,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "네덜란드어",
       "dominant_language_code": "nl",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -367,7 +440,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -414,7 +488,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "폴란드어",
       "dominant_language_code": "pl",
-      "scope_count": 11,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -435,8 +509,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -492,7 +568,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "한국어",
       "dominant_language_code": "ko",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -513,7 +589,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -543,17 +620,153 @@
           "seo-expert"
         ]
       }
+    },
+    {
+      "slug": "sweden",
+      "url": "/countries/sweden",
+      "title": "스웨덴 마케팅: 스칸디나비아와 북유럽을 하나의 팀으로",
+      "description": "스웨덴과 스칸디나비아 전역의 스웨덴 마케팅. 스웨덴어, 노르웨이어, 덴마크어, 핀란드어 원어민 실행을 하나의 북유럽 팀이 맡습니다.",
+      "menu": "스웨덴",
+      "featured": false,
+      "flag": "🇸🇪",
+      "population_total": "10.6M",
+      "population_total_raw": 10589800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "스웨덴어",
+      "dominant_language_code": "sv",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "switzerland",
+      "url": "/countries/switzerland",
+      "title": "스위스 마케팅: 독일어·프랑스어·이탈리아어권 디지털 광고",
+      "description": "스위스 마케팅: 독일어, 프랑스어, 이탈리아어권을 아우르는 디지털 광고. 언어별 원어민 전문가, 고정 가격 모듈로 실행합니다.",
+      "menu": "스위스",
+      "featured": false,
+      "flag": "🇨🇭",
+      "population_total": "8.86M",
+      "population_total_raw": 8860570,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "독일어",
+      "dominant_language_code": "de",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "검색엔진 마케팅",
       "growth-marketing": "그로스 마케팅",
-      "performance-marketing": "퍼포먼스 마케팅",
-      "product-marketing": "프로덕트 마케팅",
-      "marketing-operations": "마케팅 오퍼레이션",
       "community-marketing": "커뮤니티 마케팅",
-      "app-marketing": "앱 마케팅"
+      "product-marketing": "프로덕트 마케팅",
+      "app-marketing": "앱 마케팅",
+      "performance-marketing": "퍼포먼스 마케팅",
+      "marketing-operations": "마케팅 오퍼레이션"
     },
     "scopes": {
       "technical-seo": "테크니컬 SEO",
@@ -562,8 +775,10 @@
       "aso-localization": "ASO 현지화",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "앱스토어 CRO",
+      "app-retention": "앱 리텐션",
       "content-strategy": "콘텐츠 기획",
       "google-ads-search": "구글 검색광고",
+      "google-shopping": "구글 쇼핑",
       "ppc-audit": "광고 성과 분석",
       "telegram-ads": "텔레그램 광고",
       "youtube-ads": "유튜브 광고"
@@ -574,33 +789,21 @@
       "alaaddin-saracyakupoglu": "알라딘 사라차쿠포글루"
     },
     "solutions": {
-      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
-      "multilingual-seo": "다국어 SEO"
+      "multilingual-seo": "다국어 SEO",
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅"
     },
     "services": {
       "content": "콘텐츠 마케팅",
-      "social-media": "SNS 마케팅",
       "aso": "ASO 최적화",
       "seo": "SEO 대행",
+      "social-media": "SNS 마케팅",
       "ppc": "검색광고"
     },
     "industries": {
       "ecommerce": "이커머스",
       "saas": "SaaS",
-      "fintech": "핀테크",
-      "manufacturing": "제조업"
-    },
-    "positions": {
-      "seo-expert": "SEO 채용",
-      "social-media-manager": "SNS 마케터",
-      "marketing-consultant": "마케팅 컨설턴트",
-      "business-development-manager": "사업개발 매니저",
-      "aso-specialist": "ASO 전문가",
-      "ppc-specialist": "퍼포먼스 마케터"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "manufacturing": "제조업",
+      "fintech": "핀테크"
     },
     "languages": {
       "english": "영어",
@@ -608,9 +811,21 @@
       "korean": "한국어"
     },
     "blog-posts": {
-      "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
       "seo-packages-comparison": "SEO 패키지 비교",
+      "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
       "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    },
+    "positions": {
+      "seo-expert": "SEO 채용",
+      "aso-specialist": "ASO 전문가",
+      "social-media-manager": "SNS 마케터",
+      "marketing-consultant": "마케팅 컨설턴트",
+      "business-development-manager": "사업개발 매니저",
+      "ppc-specialist": "퍼포먼스 마케터"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

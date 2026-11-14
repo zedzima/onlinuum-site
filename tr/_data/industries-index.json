@@ -8,7 +8,7 @@
       "menu": "E-ticaret",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -30,9 +30,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -57,6 +59,7 @@
           "social-media"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -64,6 +67,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -94,7 +99,7 @@
       "menu": "Fintech ve Bankacılık",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -116,6 +121,7 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -138,6 +144,7 @@
           "ppc"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -145,6 +152,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -175,7 +184,7 @@
       "menu": "Sanayi",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -195,6 +204,7 @@
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit"
         ],
         "experts": [
@@ -211,6 +221,7 @@
           "ppc"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -218,6 +229,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -245,7 +258,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -267,6 +280,7 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -294,6 +308,7 @@
           "social-media"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -301,6 +316,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -341,9 +358,11 @@
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
       "content-writing": "İçerik Yazarlığı",
       "google-ads-search": "Google Ads Arama Ağı",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Reklam Analizi",
       "telegram-ads": "Telegram Reklamları",
       "youtube-ads": "YouTube Ads"
@@ -369,6 +388,7 @@
       "social-media": "Sosyal Medya"
     },
     "countries": {
+      "austria": "Avusturya",
       "poland": "Polonya",
       "china": "Çin",
       "eu": "Avrupa Birliği",
@@ -376,6 +396,8 @@
       "israel": "İsrail",
       "japan": "Japonya",
       "netherlands": "Hollanda",
+      "sweden": "İsveç",
+      "switzerland": "İsviçre",
       "turkey": "Türkiye"
     },
     "languages": {

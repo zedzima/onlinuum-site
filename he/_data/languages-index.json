@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -36,9 +36,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -71,8 +73,11 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "israel",
+          "austria",
           "greece",
+          "switzerland",
           "eu"
         ],
         "blog-posts": [
@@ -132,7 +137,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -153,7 +158,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "vitali-bakun"
@@ -176,6 +182,8 @@
           "manufacturing"
         ],
         "countries": [
+          "switzerland",
+          "austria",
           "eu"
         ],
         "positions": [
@@ -203,9 +211,11 @@
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "שימור משתמשים באפליקציה",
       "content-strategy": "אסטרטגיית תוכן",
       "content-writing": "כתיבת תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
+      "google-shopping": "פרסום בגוגל שופינג",
       "ppc-audit": "אודיט PPC",
       "telegram-ads": "פרסום בטלגרם",
       "youtube-ads": "פרסום ביוטיוב"
@@ -238,8 +248,11 @@
     "countries": {
       "netherlands": "הולנד",
       "poland": "פולין",
+      "sweden": "שוודיה",
       "israel": "ישראל",
+      "austria": "אוסטריה",
       "greece": "יוון",
+      "switzerland": "שווייץ",
       "eu": "האיחוד האירופי"
     },
     "blog-posts": {

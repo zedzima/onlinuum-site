@@ -1,6 +1,58 @@
 {
   "scopes": [
     {
+      "slug": "app-retention",
+      "url": "/scopes/app-retention",
+      "title": "アプリのリテンション施策｜オンボーディング・CRM・ペイウォール",
+      "description": "アプリのリテンション施策。オンボーディング、CRM、プッシュ通知、ペイウォールを最適化し、集客の広告費を利益に変えます。リテンション診断は $400 から。",
+      "menu": "アプリのリテンション",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "austria",
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "app-store-cro",
       "url": "/scopes/app-store-cro",
       "title": "App Store CRO｜カスタムプロダクトページとA/Bテスト",
@@ -30,13 +82,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -79,13 +134,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -131,13 +189,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -184,13 +245,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -243,6 +307,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -345,6 +410,51 @@
       "article_count": 0
     },
     {
+      "slug": "google-shopping",
+      "url": "/scopes/google-shopping",
+      "title": "Googleショッピング広告の運用｜フィードとROASの管理",
+      "description": "Googleショッピング広告の運用代行。Google Merchant Centerの診断、商品フィードの最適化、ROASの管理まで、月額 $400 から。料金をご覧ください。",
+      "menu": "Googleショッピング広告",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 7,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "ppc-audit",
       "url": "/scopes/ppc-audit",
       "title": "リスティング広告の改善｜広告アカウント診断で無駄を可視化",
@@ -432,13 +542,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -492,13 +605,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -630,13 +746,16 @@
       "manufacturing": "製造業"
     },
     "countries": {
+      "austria": "オーストリア",
       "poland": "ポーランド",
       "china": "中国",
       "eu": "欧州連合",
       "greece": "ギリシャ",
       "israel": "イスラエル",
       "japan": "日本",
-      "netherlands": "オランダ"
+      "netherlands": "オランダ",
+      "sweden": "スウェーデン",
+      "switzerland": "スイス"
     },
     "languages": {
       "english": "英語",

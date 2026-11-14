@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -36,9 +36,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -71,8 +73,11 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "israel",
+          "austria",
           "greece",
+          "switzerland",
           "eu"
         ],
         "blog-posts": [
@@ -104,7 +109,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -125,7 +130,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "vitali-bakun"
@@ -148,6 +154,8 @@
           "manufacturing"
         ],
         "countries": [
+          "switzerland",
+          "austria",
           "eu"
         ],
         "positions": [
@@ -203,9 +211,11 @@
       "aso-localization": "ASO 현지화",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "앱스토어 CRO",
+      "app-retention": "앱 리텐션",
       "content-strategy": "콘텐츠 기획",
       "content-writing": "블로그 대행",
       "google-ads-search": "구글 검색광고",
+      "google-shopping": "구글 쇼핑",
       "ppc-audit": "광고 성과 분석",
       "telegram-ads": "텔레그램 광고",
       "youtube-ads": "유튜브 광고"
@@ -238,8 +248,11 @@
     "countries": {
       "netherlands": "네덜란드",
       "poland": "폴란드",
+      "sweden": "스웨덴",
       "israel": "이스라엘",
+      "austria": "오스트리아",
       "greece": "그리스",
+      "switzerland": "스위스",
       "eu": "유럽연합",
       "south-korea": "대한민국"
     },

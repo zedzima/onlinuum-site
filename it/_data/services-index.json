@@ -39,6 +39,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -46,7 +47,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -103,6 +106,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -110,7 +114,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -130,7 +136,7 @@
       "description": "Agenzia PPC per campagne pay per click, Shopping e remarketing, con prezzo per mercato. Si parte dal programma Starter, 400 $/mese.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -149,6 +155,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -176,7 +183,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -231,6 +240,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -238,7 +248,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -291,7 +303,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -319,6 +333,7 @@
       "content-writing": "Creazione contenuti",
       "ppc-audit": "Audit PPC",
       "google-ads-search": "Campagne Google Ads",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads",
       "technical-seo": "SEO tecnica",
       "telegram-ads": "Campagne Telegram Ads"
@@ -339,6 +354,7 @@
       "manufacturing": "Manifatturiero"
     },
     "countries": {
+      "austria": "Austria",
       "poland": "Polonia",
       "china": "Cina",
       "eu": "Unione Europea",
@@ -346,7 +362,9 @@
       "israel": "Israele",
       "italy": "Italia",
       "japan": "Giappone",
-      "netherlands": "Paesi Bassi"
+      "netherlands": "Paesi Bassi",
+      "sweden": "Svezia",
+      "switzerland": "Svizzera"
     },
     "languages": {
       "english": "Inglese",

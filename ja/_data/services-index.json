@@ -39,13 +39,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -102,13 +105,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -128,7 +134,7 @@
       "description": "検索広告、ショッピング広告、リマーケティングまで、リスティング広告の運用代行を固定料金で。市場ごとに設計し、Starter は月額 $400 から始められます。",
       "menu": "リスティング広告",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -147,6 +153,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -173,7 +180,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -228,13 +237,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -286,7 +298,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -314,6 +328,7 @@
       "content-writing": "記事作成代行",
       "ppc-audit": "広告アカウント診断",
       "google-ads-search": "Google広告・検索広告",
+      "google-shopping": "Googleショッピング広告",
       "youtube-ads": "YouTube広告",
       "technical-seo": "テクニカルSEO",
       "telegram-ads": "Telegram Ads"
@@ -334,13 +349,16 @@
       "manufacturing": "製造業"
     },
     "countries": {
+      "austria": "オーストリア",
       "poland": "ポーランド",
       "china": "中国",
       "eu": "欧州連合",
       "greece": "ギリシャ",
       "israel": "イスラエル",
       "japan": "日本",
-      "netherlands": "オランダ"
+      "netherlands": "オランダ",
+      "sweden": "スウェーデン",
+      "switzerland": "スイス"
     },
     "languages": {
       "english": "英語",

@@ -52,7 +52,8 @@
           "aso-optimization",
           "aso-localization",
           "app-store-cro",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -66,6 +67,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -276,6 +278,7 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "japan"
         ],
         "languages": [
@@ -381,6 +384,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -499,13 +503,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -675,11 +682,13 @@
       "aso-localization": "アプリの多言語対応",
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
+      "app-retention": "アプリのリテンション",
       "seo-research": "キーワード選定",
       "content-strategy": "コンテンツ戦略",
       "telegram-ads": "Telegram Ads",
       "ppc-audit": "広告アカウント診断",
       "google-ads-search": "Google広告・検索広告",
+      "google-shopping": "Googleショッピング広告",
       "youtube-ads": "YouTube広告",
       "technical-seo": "テクニカルSEO"
     },
@@ -701,13 +710,16 @@
       "manufacturing": "製造業"
     },
     "countries": {
+      "austria": "オーストリア",
       "poland": "ポーランド",
       "netherlands": "オランダ",
+      "sweden": "スウェーデン",
       "japan": "日本",
       "china": "中国",
       "eu": "欧州連合",
       "greece": "ギリシャ",
-      "israel": "イスラエル"
+      "israel": "イスラエル",
+      "switzerland": "スイス"
     },
     "languages": {
       "english": "英語",

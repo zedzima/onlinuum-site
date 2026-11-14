@@ -103,6 +103,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "app-retention",
           "app-store-cro",
           "apple-search-ads",
           "aso-localization",
@@ -130,13 +131,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english"
@@ -189,6 +193,7 @@
         ],
         "scopes": [
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -215,7 +220,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -237,6 +244,7 @@
     "scopes": {
       "seo-research": "מחקר SEO",
       "technical-seo": "קידום אתרים טכני",
+      "app-retention": "שימור משתמשים באפליקציה",
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "aso-localization": "לוקליזציית ASO",
@@ -244,6 +252,7 @@
       "content-strategy": "אסטרטגיית תוכן",
       "ppc-audit": "אודיט PPC",
       "google-ads-search": "קמפיין חיפוש בגוגל",
+      "google-shopping": "פרסום בגוגל שופינג",
       "youtube-ads": "פרסום ביוטיוב"
     },
     "services": {
@@ -260,12 +269,15 @@
     },
     "countries": {
       "eu": "האיחוד האירופי",
+      "austria": "אוסטריה",
       "poland": "פולין",
       "china": "סין",
       "greece": "יוון",
       "israel": "ישראל",
       "japan": "יפן",
-      "netherlands": "הולנד"
+      "netherlands": "הולנד",
+      "sweden": "שוודיה",
+      "switzerland": "שווייץ"
     },
     "languages": {
       "english": "אנגלית",

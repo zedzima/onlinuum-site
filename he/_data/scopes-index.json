@@ -1,6 +1,58 @@
 {
   "scopes": [
     {
+      "slug": "app-retention",
+      "url": "/scopes/app-retention",
+      "title": "App Retention: אונבורדינג, CRM ואופטימיזציית Paywall",
+      "description": "שירותי app retention: אונבורדינג, CRM, פוש ואופטימיזציית paywall שהופכים את תקציב הרכישה לרווחי. אודיט שימור החל מ-$400.",
+      "menu": "שימור משתמשים באפליקציה",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "austria",
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "app-store-cro",
       "url": "/scopes/app-store-cro",
       "title": "App Store CRO: צילומי מסך ו-Custom Product Pages",
@@ -30,13 +82,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -79,13 +134,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -131,13 +189,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -184,13 +245,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -243,6 +307,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -345,6 +410,51 @@
       "article_count": 0
     },
     {
+      "slug": "google-shopping",
+      "url": "/scopes/google-shopping",
+      "title": "פרסום בגוגל שופינג: ניהול פיד ובקרת ROAS",
+      "description": "פרסום בגוגל שופינג בניהול מקצועי: אודיט Google Merchant Center, אופטימיזציית פיד ובקרת ROAS, החל מ-$400 לחודש. ראו מחירים.",
+      "menu": "פרסום בגוגל שופינג",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 7,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "ppc-audit",
       "url": "/scopes/ppc-audit",
       "title": "Google Ads Audit: בדיקת תקציב, מעקב וצמיחה",
@@ -432,13 +542,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -492,13 +605,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -630,13 +746,16 @@
       "manufacturing": "תעשייה וייצור"
     },
     "countries": {
+      "austria": "אוסטריה",
       "poland": "פולין",
       "china": "סין",
       "eu": "האיחוד האירופי",
       "greece": "יוון",
       "israel": "ישראל",
       "japan": "יפן",
-      "netherlands": "הולנד"
+      "netherlands": "הולנד",
+      "sweden": "שוודיה",
+      "switzerland": "שווייץ"
     },
     "languages": {
       "english": "אנגלית",

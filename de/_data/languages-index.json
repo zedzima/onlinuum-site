@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -36,9 +36,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -72,8 +74,11 @@
           "germany",
           "netherlands",
           "poland",
+          "sweden",
           "israel",
+          "austria",
           "greece",
+          "switzerland",
           "eu"
         ],
         "blog-posts": [
@@ -105,7 +110,7 @@
       "market_speakers_est": 138313919,
       "market_country_count": 22,
       "official_countries_count": 22,
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -127,9 +132,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -157,7 +164,9 @@
         "countries": [
           "germany",
           "netherlands",
+          "austria",
           "poland",
+          "switzerland",
           "greece",
           "eu"
         ],
@@ -190,7 +199,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -211,7 +220,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "vitali-bakun"
@@ -235,6 +245,8 @@
         ],
         "countries": [
           "germany",
+          "switzerland",
+          "austria",
           "eu"
         ],
         "positions": [
@@ -262,9 +274,11 @@
       "aso-localization": "App-Lokalisierung",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App-Store-CRO",
+      "app-retention": "App-Retention",
       "content-strategy": "Content-Strategie",
       "content-writing": "Texterstellung",
       "google-ads-search": "Google Ads Suchkampagnen",
+      "google-shopping": "Google Shopping Ads",
       "ppc-audit": "Google Ads Audit",
       "telegram-ads": "Telegram-Werbung",
       "youtube-ads": "YouTube-Werbung"
@@ -298,8 +312,11 @@
       "germany": "Deutschland",
       "netherlands": "Niederlande",
       "poland": "Polen",
+      "sweden": "Schweden",
       "israel": "Israel",
+      "austria": "Österreich",
       "greece": "Griechenland",
+      "switzerland": "Schweiz",
       "eu": "Europäische Union"
     },
     "blog-posts": {

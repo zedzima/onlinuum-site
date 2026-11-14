@@ -52,7 +52,8 @@
           "aso-optimization",
           "aso-localization",
           "app-store-cro",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -66,6 +67,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -276,6 +278,7 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "turkey",
           "japan"
         ],
@@ -382,6 +385,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -500,6 +504,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -507,6 +512,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "turkey"
         ],
         "languages": [
@@ -679,11 +686,13 @@
       "aso-localization": "ASO Yerelleştirme",
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
+      "app-retention": "Kullanıcı Elde Tutma",
       "seo-research": "SEO Araştırması",
       "content-strategy": "İçerik Stratejisi",
       "telegram-ads": "Telegram Reklamları",
       "ppc-audit": "Reklam Analizi",
       "google-ads-search": "Google Ads Arama Ağı",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "Teknik SEO"
     },
@@ -705,14 +714,17 @@
       "manufacturing": "Sanayi"
     },
     "countries": {
+      "austria": "Avusturya",
       "poland": "Polonya",
       "netherlands": "Hollanda",
+      "sweden": "İsveç",
       "turkey": "Türkiye",
       "japan": "Japonya",
       "china": "Çin",
       "eu": "Avrupa Birliği",
       "greece": "Yunanistan",
-      "israel": "İsrail"
+      "israel": "İsrail",
+      "switzerland": "İsviçre"
     },
     "languages": {
       "english": "İngilizce",

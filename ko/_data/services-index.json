@@ -39,6 +39,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -46,7 +47,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -103,6 +106,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -110,7 +114,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -130,7 +136,7 @@
       "description": "검색광고와 쇼핑, 리마케팅을 다루는 PPC 대행 서비스입니다. 시장별로 가격이 공개되며 PPC Starter는 $400/월부터 시작합니다.",
       "menu": "검색광고",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -149,6 +155,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -176,7 +183,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -231,6 +240,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -238,7 +248,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -291,7 +303,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -319,6 +333,7 @@
       "content-writing": "블로그 대행",
       "ppc-audit": "광고 성과 분석",
       "google-ads-search": "구글 검색광고",
+      "google-shopping": "구글 쇼핑",
       "youtube-ads": "유튜브 광고",
       "technical-seo": "테크니컬 SEO",
       "telegram-ads": "텔레그램 광고"
@@ -339,6 +354,7 @@
       "manufacturing": "제조업"
     },
     "countries": {
+      "austria": "오스트리아",
       "poland": "폴란드",
       "china": "중국",
       "eu": "유럽연합",
@@ -346,7 +362,9 @@
       "israel": "이스라엘",
       "japan": "일본",
       "netherlands": "네덜란드",
-      "south-korea": "대한민국"
+      "south-korea": "대한민국",
+      "sweden": "스웨덴",
+      "switzerland": "스위스"
     },
     "languages": {
       "english": "영어",

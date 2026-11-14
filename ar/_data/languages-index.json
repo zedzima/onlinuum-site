@@ -74,7 +74,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -96,9 +96,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -131,9 +133,12 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "israel",
+          "austria",
           "greece",
           "uae",
+          "switzerland",
           "eu"
         ],
         "blog-posts": [
@@ -165,7 +170,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -186,7 +191,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "vitali-bakun"
@@ -209,6 +215,8 @@
           "manufacturing"
         ],
         "countries": [
+          "switzerland",
+          "austria",
           "eu"
         ],
         "positions": [
@@ -238,8 +246,10 @@
       "aso-optimization": "تحسين ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "content-strategy": "استراتيجية المحتوى",
       "content-writing": "كتابة المحتوى",
+      "google-shopping": "Google Shopping",
       "telegram-ads": "إعلانات تليجرام",
       "youtube-ads": "YouTube Ads"
     },
@@ -265,7 +275,10 @@
       "israel": "إسرائيل",
       "netherlands": "هولندا",
       "poland": "بولندا",
+      "sweden": "السويد",
+      "austria": "النمسا",
       "greece": "اليونان",
+      "switzerland": "سويسرا",
       "eu": "الاتحاد الأوروبي"
     },
     "positions": {

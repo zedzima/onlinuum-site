@@ -29,8 +29,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -52,6 +54,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "spain",
           "china",
@@ -59,7 +62,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -116,6 +121,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "spain",
           "china",
@@ -123,7 +129,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -158,8 +166,10 @@
       "aso-localization": "Localización ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "CRO en App Store",
+      "app-retention": "Retención de usuarios",
       "content-strategy": "Estrategia de contenidos",
       "google-ads-search": "Búsqueda en Google Ads",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Auditoría SEM",
       "telegram-ads": "Telegram Ads",
       "youtube-ads": "YouTube Ads"
@@ -181,6 +191,7 @@
       "manufacturing": "Industria"
     },
     "countries": {
+      "austria": "Austria",
       "poland": "Polonia",
       "spain": "España",
       "china": "China",
@@ -188,7 +199,9 @@
       "greece": "Grecia",
       "israel": "Israel",
       "japan": "Japón",
-      "netherlands": "Países Bajos"
+      "netherlands": "Países Bajos",
+      "sweden": "Suecia",
+      "switzerland": "Suiza"
     },
     "languages": {
       "english": "Inglés",

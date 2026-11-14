@@ -103,6 +103,7 @@
         "scopes": [
           "seo-research",
           "technical-seo",
+          "app-retention",
           "app-store-cro",
           "apple-search-ads",
           "aso-localization",
@@ -130,6 +131,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -137,7 +139,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english"
@@ -190,6 +194,7 @@
         ],
         "scopes": [
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -217,7 +222,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -239,6 +246,7 @@
     "scopes": {
       "seo-research": "Ricerca SEO",
       "technical-seo": "SEO tecnica",
+      "app-retention": "App retention",
       "app-store-cro": "CRO per App Store",
       "apple-search-ads": "Apple Search Ads",
       "aso-localization": "Localizzazione ASO",
@@ -246,6 +254,7 @@
       "content-strategy": "Content strategy",
       "ppc-audit": "Audit PPC",
       "google-ads-search": "Campagne Google Ads",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads"
     },
     "services": {
@@ -262,13 +271,16 @@
     },
     "countries": {
       "eu": "Unione Europea",
+      "austria": "Austria",
       "poland": "Polonia",
       "china": "Cina",
       "greece": "Grecia",
       "israel": "Israele",
       "italy": "Italia",
       "japan": "Giappone",
-      "netherlands": "Paesi Bassi"
+      "netherlands": "Paesi Bassi",
+      "sweden": "Svezia",
+      "switzerland": "Svizzera"
     },
     "languages": {
       "english": "Inglese",

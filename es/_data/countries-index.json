@@ -1,6 +1,74 @@
 {
   "countries": [
     {
+      "slug": "austria",
+      "url": "/countries/austria",
+      "title": "Marketing Digital en Austria y el Mercado DACH",
+      "description": "Marketing digital en Austria para empresas internacionales: nativos en alemán austriaco, estrategia para el mercado DACH y planes a precio fijo.",
+      "menu": "Austria",
+      "featured": false,
+      "flag": "🇦🇹",
+      "population_total": "8.97M",
+      "population_total_raw": 8967980,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "alemán",
+      "dominant_language_code": "de",
+      "scope_count": 8,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "china",
       "url": "/countries/china",
       "title": "Marketing Digital en China: Baidu y WeChat",
@@ -14,7 +82,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "chino",
       "dominant_language_code": "zh",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -35,7 +103,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -77,7 +146,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "inglés",
       "dominant_language_code": "en",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -98,7 +167,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -150,7 +220,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "griego",
       "dominant_language_code": "el",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -171,7 +241,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -216,7 +287,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "hebreo",
       "dominant_language_code": "he",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -237,7 +308,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -283,7 +355,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "japonés",
       "dominant_language_code": "ja",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -304,7 +376,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -347,7 +420,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "neerlandés",
       "dominant_language_code": "nl",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -368,7 +441,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -415,7 +489,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "polaco",
       "dominant_language_code": "pl",
-      "scope_count": 11,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -436,8 +510,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -493,7 +569,7 @@
       "significant_languages_count": 3,
       "dominant_language_name": "español",
       "dominant_language_code": "es",
-      "scope_count": 10,
+      "scope_count": 12,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -514,8 +590,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -557,17 +635,153 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "sweden",
+      "url": "/countries/sweden",
+      "title": "Mercado Sueco y Países Nórdicos: Marketing Digital",
+      "description": "Marketing digital en Suecia y los países nórdicos: ejecución nativa en sueco, noruego, danés y finés con un solo equipo nórdico para el mercado sueco.",
+      "menu": "Suecia",
+      "featured": false,
+      "flag": "🇸🇪",
+      "population_total": "10.6M",
+      "population_total_raw": 10589800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "sueco",
+      "dominant_language_code": "sv",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "switzerland",
+      "url": "/countries/switzerland",
+      "title": "Mercado Suizo: Publicidad Digital en DE, FR e IT",
+      "description": "Publicidad y marketing digital en todo el mercado suizo: regiones de habla alemana, francesa e italiana con especialistas nativos y planes a precio fijo.",
+      "menu": "Suiza",
+      "featured": false,
+      "flag": "🇨🇭",
+      "population_total": "8.86M",
+      "population_total_raw": 8860570,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "alemán",
+      "dominant_language_code": "de",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "Marketing en buscadores",
       "growth-marketing": "Growth marketing",
-      "performance-marketing": "Marketing de resultados",
-      "product-marketing": "Marketing de producto",
-      "marketing-operations": "Operaciones de marketing",
       "community-marketing": "Marketing de comunidad",
-      "app-marketing": "Marketing de apps"
+      "product-marketing": "Marketing de producto",
+      "app-marketing": "Marketing de apps",
+      "performance-marketing": "Marketing de resultados",
+      "marketing-operations": "Operaciones de marketing"
     },
     "scopes": {
       "technical-seo": "SEO técnico",
@@ -576,8 +790,10 @@
       "aso-localization": "Localización ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "CRO en App Store",
+      "app-retention": "Retención de usuarios",
       "content-strategy": "Estrategia de contenidos",
       "google-ads-search": "Búsqueda en Google Ads",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Auditoría SEM",
       "telegram-ads": "Telegram Ads",
       "youtube-ads": "YouTube Ads"
@@ -588,33 +804,21 @@
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "solutions": {
-      "digital-marketing-consulting": "Consultoría de marketing digital",
-      "multilingual-seo": "SEO internacional"
+      "multilingual-seo": "SEO internacional",
+      "digital-marketing-consulting": "Consultoría de marketing digital"
     },
     "services": {
       "content": "Marketing de contenidos",
-      "social-media": "Redes sociales",
       "aso": "ASO",
       "seo": "SEO",
+      "social-media": "Redes sociales",
       "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "Ecommerce",
       "saas": "SaaS",
-      "fintech": "Sector fintech",
-      "manufacturing": "Industria"
-    },
-    "positions": {
-      "seo-expert": "Especialista SEO",
-      "social-media-manager": "Social media manager",
-      "marketing-consultant": "Consultor de marketing",
-      "business-development-manager": "Responsable de desarrollo de negocio",
-      "aso-specialist": "ASO manager",
-      "ppc-specialist": "Especialista SEM"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "manufacturing": "Industria",
+      "fintech": "Sector fintech"
     },
     "languages": {
       "english": "Inglés",
@@ -622,9 +826,21 @@
       "spanish": "Español"
     },
     "blog-posts": {
-      "how-ai-chooses-sources": "Cómo la IA elige sus fuentes",
       "seo-packages-comparison": "Comparativa de paquetes SEO",
+      "how-ai-chooses-sources": "Cómo la IA elige sus fuentes",
       "why-seo-matters-in-2026": "Para qué sirve el SEO"
+    },
+    "positions": {
+      "seo-expert": "Especialista SEO",
+      "aso-specialist": "ASO manager",
+      "social-media-manager": "Social media manager",
+      "marketing-consultant": "Consultor de marketing",
+      "business-development-manager": "Responsable de desarrollo de negocio",
+      "ppc-specialist": "Especialista SEM"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

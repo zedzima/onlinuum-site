@@ -14,7 +14,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -36,9 +36,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -71,8 +73,11 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "israel",
+          "austria",
           "greece",
+          "switzerland",
           "eu"
         ],
         "blog-posts": [
@@ -104,7 +109,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -125,7 +130,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "vitali-bakun"
@@ -148,6 +154,8 @@
           "manufacturing"
         ],
         "countries": [
+          "switzerland",
+          "austria",
           "eu"
         ],
         "positions": [
@@ -204,9 +212,11 @@
       "aso-localization": "アプリの多言語対応",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "アプリのリテンション",
       "content-strategy": "コンテンツ戦略",
       "content-writing": "記事作成代行",
       "google-ads-search": "Google広告・検索広告",
+      "google-shopping": "Googleショッピング広告",
       "ppc-audit": "広告アカウント診断",
       "telegram-ads": "Telegram Ads",
       "youtube-ads": "YouTube広告"
@@ -239,8 +249,11 @@
     "countries": {
       "netherlands": "オランダ",
       "poland": "ポーランド",
+      "sweden": "スウェーデン",
       "israel": "イスラエル",
+      "austria": "オーストリア",
       "greece": "ギリシャ",
+      "switzerland": "スイス",
       "eu": "欧州連合",
       "japan": "日本"
     },

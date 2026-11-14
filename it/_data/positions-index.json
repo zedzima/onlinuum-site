@@ -52,7 +52,8 @@
           "aso-optimization",
           "aso-localization",
           "app-store-cro",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -66,6 +67,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -278,6 +280,7 @@
           "italy",
           "netherlands",
           "poland",
+          "sweden",
           "japan"
         ],
         "languages": [
@@ -382,6 +385,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -500,6 +504,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -507,7 +512,9 @@
           "israel",
           "italy",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -676,11 +683,13 @@
       "aso-localization": "Localizzazione ASO",
       "app-store-cro": "CRO per App Store",
       "apple-search-ads": "Apple Search Ads",
+      "app-retention": "App retention",
       "seo-research": "Ricerca SEO",
       "content-strategy": "Content strategy",
       "telegram-ads": "Campagne Telegram Ads",
       "ppc-audit": "Audit PPC",
       "google-ads-search": "Campagne Google Ads",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads",
       "technical-seo": "SEO tecnica"
     },
@@ -702,14 +711,17 @@
       "manufacturing": "Manifatturiero"
     },
     "countries": {
+      "austria": "Austria",
       "poland": "Polonia",
       "italy": "Italia",
       "netherlands": "Paesi Bassi",
+      "sweden": "Svezia",
       "japan": "Giappone",
       "china": "Cina",
       "eu": "Unione Europea",
       "greece": "Grecia",
-      "israel": "Israele"
+      "israel": "Israele",
+      "switzerland": "Svizzera"
     },
     "languages": {
       "english": "Inglese",

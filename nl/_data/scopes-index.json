@@ -1,6 +1,59 @@
 {
   "scopes": [
     {
+      "slug": "app-retention",
+      "url": "/scopes/app-retention",
+      "title": "App retention: onboarding, pushnotificaties en paywalls",
+      "description": "App retention: onboarding, CRM, push notificaties en paywalls optimaliseren, zodat je acquisitiebudget rendeert. Retentie-audits vanaf $ 400.",
+      "menu": "App retention",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "one-time",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "austria",
+          "poland",
+          "china",
+          "eu",
+          "greece",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "app-store-cro",
       "url": "/scopes/app-store-cro",
       "title": "App store CRO: screenshots en icoontests voor meer installs",
@@ -30,13 +83,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -80,13 +136,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -133,13 +192,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -187,13 +249,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -247,6 +312,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -349,6 +415,51 @@
       "article_count": 0
     },
     {
+      "slug": "google-shopping",
+      "url": "/scopes/google-shopping",
+      "title": "Google Shopping uitbesteden: feed, Merchant Center en ROAS",
+      "description": "Google Shopping uitbesteden: audit van Google Merchant Center, optimalisatie van je productfeed en grip op ROAS, vanaf $ 400/maand. Bekijk de prijzen.",
+      "menu": "Google Shopping",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 7,
+      "industry_count": 5,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 6,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "manufacturing"
+        ],
+        "countries": [
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "ppc-audit",
       "url": "/scopes/ppc-audit",
       "title": "Google Ads Audit: Budget, Tracking en Groei",
@@ -436,13 +547,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -497,13 +611,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -636,13 +753,16 @@
       "manufacturing": "Maakindustrie"
     },
     "countries": {
+      "austria": "Oostenrijk",
       "poland": "Polen",
       "china": "China",
       "eu": "Europese Unie",
       "greece": "Griekenland",
       "israel": "Israël",
       "japan": "Japan",
-      "netherlands": "Nederland"
+      "netherlands": "Nederland",
+      "sweden": "Zweden",
+      "switzerland": "Zwitserland"
     },
     "languages": {
       "english": "Engels",

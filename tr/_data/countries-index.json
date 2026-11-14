@@ -1,6 +1,74 @@
 {
   "countries": [
     {
+      "slug": "austria",
+      "url": "/countries/austria",
+      "title": "Avusturya Pazarı İçin Online Pazarlama: DACH Ajansı",
+      "description": "Avusturya pazarına giren uluslararası şirketler için online ve dijital pazarlama. Anadil Avusturya Almancası uzmanları, DACH stratejisi, sabit fiyat.",
+      "menu": "Avusturya",
+      "featured": false,
+      "flag": "🇦🇹",
+      "population_total": "8.97M",
+      "population_total_raw": 8967980,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "Almanca",
+      "dominant_language_code": "de",
+      "scope_count": 8,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "china",
       "url": "/countries/china",
       "title": "Çin Pazarı İçin Dijital Pazarlama: Baidu ve WeChat",
@@ -14,7 +82,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Çince",
       "dominant_language_code": "zh",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -35,7 +103,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -77,7 +146,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "İngilizce",
       "dominant_language_code": "en",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -98,7 +167,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -149,7 +219,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Yunanca",
       "dominant_language_code": "el",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -170,7 +240,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -216,7 +287,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "İbranice",
       "dominant_language_code": "he",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -237,7 +308,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -283,7 +355,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Japonca",
       "dominant_language_code": "ja",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -304,7 +376,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -347,7 +420,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "Felemenkçe",
       "dominant_language_code": "nl",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -368,7 +441,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -416,7 +490,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Lehçe",
       "dominant_language_code": "pl",
-      "scope_count": 11,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -437,8 +511,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -477,6 +553,142 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "sweden",
+      "url": "/countries/sweden",
+      "title": "İsveç E-Ticaret ve İskandinavya İçin Dijital Pazarlama",
+      "description": "İsveç e-ticaret ve B2B pazarında, tüm İskandinavya'da dijital pazarlama. Tek Nordik ekipten anadil İsveççe, Norveççe, Danca ve Fince uygulama.",
+      "menu": "İsveç",
+      "featured": false,
+      "flag": "🇸🇪",
+      "population_total": "10.6M",
+      "population_total_raw": 10589800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "İsveççe",
+      "dominant_language_code": "sv",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "switzerland",
+      "url": "/countries/switzerland",
+      "title": "İsviçre Pazarı İçin Dijital Reklam: DE, FR, IT",
+      "description": "İsviçre pazarında Almanca, Fransızca ve İtalyanca bölgelerde dijital reklam ve pazarlama. Her dilde anadil uzmanı, sabit fiyatlı paketler.",
+      "menu": "İsviçre",
+      "featured": false,
+      "flag": "🇨🇭",
+      "population_total": "8.86M",
+      "population_total_raw": 8860570,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "Almanca",
+      "dominant_language_code": "de",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -549,11 +761,11 @@
     "domains": {
       "search-marketing": "Arama Motoru Pazarlaması",
       "growth-marketing": "Growth Marketing (Büyüme)",
-      "performance-marketing": "Performans Pazarlama",
-      "product-marketing": "Ürün Pazarlaması",
-      "marketing-operations": "Pazarlama Operasyonları",
       "community-marketing": "Topluluk Pazarlaması",
-      "app-marketing": "Mobil Uygulama Pazarlama"
+      "product-marketing": "Ürün Pazarlaması",
+      "app-marketing": "Mobil Uygulama Pazarlama",
+      "performance-marketing": "Performans Pazarlama",
+      "marketing-operations": "Pazarlama Operasyonları"
     },
     "scopes": {
       "technical-seo": "Teknik SEO",
@@ -562,8 +774,10 @@
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
       "google-ads-search": "Google Ads Arama Ağı",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Reklam Analizi",
       "telegram-ads": "Telegram Reklamları",
       "youtube-ads": "YouTube Ads"
@@ -574,33 +788,21 @@
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "solutions": {
-      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
-      "multilingual-seo": "Uluslararası SEO"
+      "multilingual-seo": "Uluslararası SEO",
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı"
     },
     "services": {
       "content": "İçerik Pazarlama",
-      "social-media": "Sosyal Medya",
       "aso": "ASO Hizmeti",
       "seo": "SEO Hizmeti",
+      "social-media": "Sosyal Medya",
       "ppc": "Performans Pazarlama"
     },
     "industries": {
       "ecommerce": "E-ticaret",
       "saas": "SaaS",
-      "fintech": "Fintech ve Bankacılık",
-      "manufacturing": "Sanayi"
-    },
-    "positions": {
-      "seo-expert": "SEO Uzmanı",
-      "social-media-manager": "Sosyal Medya Uzmanı",
-      "marketing-consultant": "Pazarlama Danışmanı",
-      "business-development-manager": "İş Geliştirme Yöneticisi",
-      "aso-specialist": "ASO Uzmanı",
-      "ppc-specialist": "Google Ads Uzmanı"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "manufacturing": "Sanayi",
+      "fintech": "Fintech ve Bankacılık"
     },
     "languages": {
       "english": "İngilizce",
@@ -608,9 +810,21 @@
       "turkish": "Türkçe"
     },
     "blog-posts": {
-      "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",
       "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",
       "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    },
+    "positions": {
+      "seo-expert": "SEO Uzmanı",
+      "aso-specialist": "ASO Uzmanı",
+      "social-media-manager": "Sosyal Medya Uzmanı",
+      "marketing-consultant": "Pazarlama Danışmanı",
+      "business-development-manager": "İş Geliştirme Yöneticisi",
+      "ppc-specialist": "Google Ads Uzmanı"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

@@ -39,13 +39,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -103,13 +106,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -130,7 +136,7 @@
       "description": "SEA bureau voor Google Ads, Shopping en remarketing, met meertalige campagnes per markt geprijsd. Start met PPC Starter vanaf $ 400/maand.",
       "menu": "SEA",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -149,6 +155,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -175,7 +182,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -231,13 +240,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -290,7 +302,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -319,6 +333,7 @@
       "content-writing": "Teksten schrijven",
       "ppc-audit": "SEA-audit",
       "google-ads-search": "Google Ads-zoekcampagnes",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads-beheer",
       "technical-seo": "Technische SEO",
       "telegram-ads": "Telegram Ads-beheer"
@@ -339,13 +354,16 @@
       "manufacturing": "Maakindustrie"
     },
     "countries": {
+      "austria": "Oostenrijk",
       "poland": "Polen",
       "china": "China",
       "eu": "Europese Unie",
       "greece": "Griekenland",
       "israel": "Israël",
       "japan": "Japan",
-      "netherlands": "Nederland"
+      "netherlands": "Nederland",
+      "sweden": "Zweden",
+      "switzerland": "Zwitserland"
     },
     "languages": {
       "english": "Engels",

@@ -40,13 +40,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -105,13 +108,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -132,7 +138,7 @@
       "description": "Google Ads Agentur für Suche, Shopping und Remarketing: Kampagnen je Markt, fester Preis pro Modul. Start mit PPC Starter ab 400 $/Monat.",
       "menu": "Google Ads",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -151,6 +157,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -178,7 +185,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -235,13 +244,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -295,7 +307,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -324,6 +338,7 @@
       "content-writing": "Texterstellung",
       "ppc-audit": "Google Ads Audit",
       "google-ads-search": "Google Ads Suchkampagnen",
+      "google-shopping": "Google Shopping Ads",
       "youtube-ads": "YouTube-Werbung",
       "technical-seo": "Technisches SEO",
       "telegram-ads": "Telegram-Werbung"
@@ -345,13 +360,16 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "austria": "Österreich",
       "poland": "Polen",
       "china": "China",
       "eu": "Europäische Union",
       "greece": "Griechenland",
       "israel": "Israel",
       "japan": "Japan",
-      "netherlands": "Niederlande"
+      "netherlands": "Niederlande",
+      "sweden": "Schweden",
+      "switzerland": "Schweiz"
     },
     "languages": {
       "english": "Englisch",

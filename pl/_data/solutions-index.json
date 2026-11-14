@@ -29,8 +29,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -52,13 +54,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -115,13 +120,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -156,8 +164,10 @@
       "aso-localization": "Lokalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "CRO karty aplikacji",
+      "app-retention": "Retencja aplikacji",
       "content-strategy": "Strategia treści",
       "google-ads-search": "Reklama w Google",
+      "google-shopping": "Google Shopping",
       "ppc-audit": "Audyt Google Ads",
       "telegram-ads": "Reklama na Telegramie",
       "youtube-ads": "YouTube Ads"
@@ -179,13 +189,16 @@
       "manufacturing": "Przemysł i produkcja"
     },
     "countries": {
+      "austria": "Austria",
       "poland": "Polska",
       "china": "Chiny",
       "eu": "Unia Europejska",
       "greece": "Grecja",
       "israel": "Izrael",
       "japan": "Japonia",
-      "netherlands": "Holandia"
+      "netherlands": "Holandia",
+      "sweden": "Szwecja",
+      "switzerland": "Szwajcaria"
     },
     "languages": {
       "english": "Angielski",

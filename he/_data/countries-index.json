@@ -1,6 +1,74 @@
 {
   "countries": [
     {
+      "slug": "austria",
+      "url": "/countries/austria",
+      "title": "שיווק דיגיטלי באוסטריה: סוכנות לאזור DACH",
+      "description": "שיווק אונליין ושיווק דיגיטלי באוסטריה לחברות בינלאומיות: מומחים ילידיים לגרמנית אוסטרית, אסטרטגיה ל-DACH ומודולים במחיר קבוע.",
+      "menu": "אוסטריה",
+      "featured": false,
+      "flag": "🇦🇹",
+      "population_total": "8.97M",
+      "population_total_raw": 8967980,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "גרמנית",
+      "dominant_language_code": "de",
+      "scope_count": 8,
+      "service_count": 3,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "china",
       "url": "/countries/china",
       "title": "שיווק דיגיטלי בסין: Baidu ו-WeChat",
@@ -14,7 +82,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "סינית",
       "dominant_language_code": "zh",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -35,7 +103,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -77,7 +146,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "אנגלית",
       "dominant_language_code": "en",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 2,
@@ -98,7 +167,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -149,7 +219,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "יוונית",
       "dominant_language_code": "el",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -170,7 +240,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -215,7 +286,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "עברית",
       "dominant_language_code": "he",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -236,7 +307,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -283,7 +355,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "יפנית",
       "dominant_language_code": "ja",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -304,7 +376,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -347,7 +420,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "הולנדית",
       "dominant_language_code": "nl",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -368,7 +441,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko",
@@ -415,7 +489,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "פולנית",
       "dominant_language_code": "pl",
-      "scope_count": 11,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -436,8 +510,10 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -478,17 +554,153 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "sweden",
+      "url": "/countries/sweden",
+      "title": "שיווק דיגיטלי בשוודיה ובסקנדינביה",
+      "description": "שיווק דיגיטלי בשוודיה ובכל סקנדינביה: ביצוע ילידי בשוודית, בנורווגית, בדנית ובפינית מצוות נורדי אחד.",
+      "menu": "שוודיה",
+      "featured": false,
+      "flag": "🇸🇪",
+      "population_total": "10.6M",
+      "population_total_raw": 10589800,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "שוודית",
+      "dominant_language_code": "sv",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "switzerland",
+      "url": "/countries/switzerland",
+      "title": "פרסום ושיווק דיגיטלי בשווייץ: DE, FR, IT",
+      "description": "שיווק דיגיטלי בשווייץ ופרסום בכל אזורי השפה: גרמנית, צרפתית ואיטלקית. מומחים ילידיים לכל שפה ומודולים במחיר קבוע.",
+      "menu": "שווייץ",
+      "featured": false,
+      "flag": "🇨🇭",
+      "population_total": "8.86M",
+      "population_total_raw": 8860570,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "גרמנית",
+      "dominant_language_code": "de",
+      "scope_count": 7,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
     "domains": {
       "search-marketing": "שיווק במנועי חיפוש",
       "growth-marketing": "שיווק צמיחה",
-      "performance-marketing": "שיווק ביצועים",
-      "product-marketing": "שיווק מוצר",
-      "marketing-operations": "תפעול שיווק",
       "community-marketing": "ניהול קהילה",
-      "app-marketing": "שיווק אפליקציות"
+      "product-marketing": "שיווק מוצר",
+      "app-marketing": "שיווק אפליקציות",
+      "performance-marketing": "שיווק ביצועים",
+      "marketing-operations": "תפעול שיווק"
     },
     "scopes": {
       "technical-seo": "קידום אתרים טכני",
@@ -497,8 +709,10 @@
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "שימור משתמשים באפליקציה",
       "content-strategy": "אסטרטגיית תוכן",
       "google-ads-search": "קמפיין חיפוש בגוגל",
+      "google-shopping": "פרסום בגוגל שופינג",
       "ppc-audit": "אודיט PPC",
       "telegram-ads": "פרסום בטלגרם",
       "youtube-ads": "פרסום ביוטיוב"
@@ -509,33 +723,21 @@
       "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
     },
     "solutions": {
-      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
-      "multilingual-seo": "קידום אתרים בינלאומי"
+      "multilingual-seo": "קידום אתרים בינלאומי",
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי"
     },
     "services": {
       "content": "שיווק תוכן",
-      "social-media": "רשתות חברתיות",
       "aso": "ASO",
       "seo": "קידום אתרים",
+      "social-media": "רשתות חברתיות",
       "ppc": "PPC"
     },
     "industries": {
       "ecommerce": "מסחר אלקטרוני",
       "saas": "SaaS",
-      "fintech": "פינטק",
-      "manufacturing": "תעשייה וייצור"
-    },
-    "positions": {
-      "seo-expert": "מומחה קידום אתרים",
-      "social-media-manager": "מנהל סושיאל",
-      "marketing-consultant": "יועץ שיווק",
-      "business-development-manager": "מנהל פיתוח עסקי",
-      "aso-specialist": "מומחה ASO",
-      "ppc-specialist": "מנהל קמפיינים PPC"
-    },
-    "cases": {
-      "alvadi": "ALVADI",
-      "bamboo-ppc-landing-pages": "Bamboo Group"
+      "manufacturing": "תעשייה וייצור",
+      "fintech": "פינטק"
     },
     "languages": {
       "english": "אנגלית",
@@ -543,9 +745,21 @@
       "hebrew": "עברית"
     },
     "blog-posts": {
-      "how-ai-chooses-sources": "איך AI בוחר מקורות",
       "seo-packages-comparison": "השוואת חבילות SEO",
+      "how-ai-chooses-sources": "איך AI בוחר מקורות",
       "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
+    },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים",
+      "aso-specialist": "מומחה ASO",
+      "social-media-manager": "מנהל סושיאל",
+      "marketing-consultant": "יועץ שיווק",
+      "business-development-manager": "מנהל פיתוח עסקי",
+      "ppc-specialist": "מנהל קמפיינים PPC"
+    },
+    "cases": {
+      "alvadi": "ALVADI",
+      "bamboo-ppc-landing-pages": "Bamboo Group"
     }
   }
 }

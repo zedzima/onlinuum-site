@@ -39,13 +39,16 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -102,13 +105,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -128,7 +134,7 @@
       "description": "ניהול קמפיינים ממומנים בחיפוש, ב-Shopping וברימרקטינג, עם פרסום ממומן שמתומחר לכל שוק. התחילו מ-PPC Starter ב-$400 לחודש.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -147,6 +153,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -173,7 +180,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -228,13 +237,16 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -286,7 +298,9 @@
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -314,6 +328,7 @@
       "content-writing": "כתיבת תוכן",
       "ppc-audit": "אודיט PPC",
       "google-ads-search": "קמפיין חיפוש בגוגל",
+      "google-shopping": "פרסום בגוגל שופינג",
       "youtube-ads": "פרסום ביוטיוב",
       "technical-seo": "קידום אתרים טכני",
       "telegram-ads": "פרסום בטלגרם"
@@ -334,13 +349,16 @@
       "manufacturing": "תעשייה וייצור"
     },
     "countries": {
+      "austria": "אוסטריה",
       "poland": "פולין",
       "china": "סין",
       "eu": "האיחוד האירופי",
       "greece": "יוון",
       "israel": "ישראל",
       "japan": "יפן",
-      "netherlands": "הולנד"
+      "netherlands": "הולנד",
+      "sweden": "שוודיה",
+      "switzerland": "שווייץ"
     },
     "languages": {
       "english": "אנגלית",

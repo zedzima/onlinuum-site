@@ -8,7 +8,7 @@
       "menu": "E-Commerce",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 12,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -30,9 +30,11 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit",
           "telegram-ads",
           "youtube-ads"
@@ -58,13 +60,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -94,7 +99,7 @@
       "menu": "Fintech und Banken",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -116,6 +121,7 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -139,13 +145,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -175,7 +184,7 @@
       "menu": "Fertigung",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 6,
+      "scope_count": 7,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -195,6 +204,7 @@
           "content-strategy",
           "content-writing",
           "google-ads-search",
+          "google-shopping",
           "ppc-audit"
         ],
         "experts": [
@@ -212,13 +222,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -245,7 +258,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 5,
       "expert_count": 3,
       "case_count": 1,
@@ -267,6 +280,7 @@
           "aso-localization",
           "apple-search-ads",
           "app-store-cro",
+          "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
@@ -295,13 +309,16 @@
         ],
         "countries": [
           "germany",
+          "austria",
           "poland",
           "china",
           "eu",
           "greece",
           "israel",
           "japan",
-          "netherlands"
+          "netherlands",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -341,9 +358,11 @@
       "aso-localization": "App-Lokalisierung",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App-Store-CRO",
+      "app-retention": "App-Retention",
       "content-strategy": "Content-Strategie",
       "content-writing": "Texterstellung",
       "google-ads-search": "Google Ads Suchkampagnen",
+      "google-shopping": "Google Shopping Ads",
       "ppc-audit": "Google Ads Audit",
       "telegram-ads": "Telegram-Werbung",
       "youtube-ads": "YouTube-Werbung"
@@ -370,13 +389,16 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "austria": "Österreich",
       "poland": "Polen",
       "china": "China",
       "eu": "Europäische Union",
       "greece": "Griechenland",
       "israel": "Israel",
       "japan": "Japan",
-      "netherlands": "Niederlande"
+      "netherlands": "Niederlande",
+      "sweden": "Schweden",
+      "switzerland": "Schweiz"
     },
     "languages": {
       "english": "Englisch",

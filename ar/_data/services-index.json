@@ -39,6 +39,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -46,6 +47,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -103,6 +106,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -110,6 +114,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -131,7 +137,7 @@
       "description": "الإعلانات الممولة للبحث والتسوق وإعادة الاستهداف، بحملات لكل سوق وسعر معلن. ابدأوا بباقة PPC Starter من $400 شهريًا.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -150,6 +156,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads"
         ],
         "experts": [
@@ -177,6 +184,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -233,6 +242,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -240,6 +250,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -294,6 +306,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -323,6 +337,7 @@
       "content-writing": "كتابة المحتوى",
       "ppc-audit": "تدقيق PPC",
       "google-ads-search": "إعلانات جوجل للبحث",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "السيو التقني",
       "telegram-ads": "إعلانات تليجرام"
@@ -343,6 +358,7 @@
       "manufacturing": "الصناعة"
     },
     "countries": {
+      "austria": "النمسا",
       "poland": "بولندا",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
@@ -350,6 +366,8 @@
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "sweden": "السويد",
+      "switzerland": "سويسرا",
       "uae": "الإمارات"
     },
     "languages": {

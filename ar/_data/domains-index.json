@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -18,7 +18,8 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
-          "app-store-cro"
+          "app-store-cro",
+          "app-retention"
         ],
         "experts": [
           "dima-gerko"
@@ -35,6 +36,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -42,6 +44,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -89,6 +93,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -96,6 +101,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -140,6 +147,7 @@
           "fintech"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -147,6 +155,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -194,6 +204,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -212,7 +224,7 @@
       "featured": true,
       "icon": "target",
       "service_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 1,
       "case_count": 2,
       "expert_count": 2,
@@ -220,6 +232,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -251,6 +264,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -302,6 +317,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -309,6 +325,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -327,7 +345,7 @@
       "featured": true,
       "icon": "search-new",
       "service_count": 4,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 1,
       "expert_count": 3,
@@ -337,6 +355,7 @@
           "seo-research",
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "content-strategy",
           "content-writing"
         ],
@@ -365,6 +384,7 @@
           "fintech"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -372,6 +392,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -399,10 +421,12 @@
       "aso-localization": "توطين ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
+      "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
       "ppc-audit": "تدقيق PPC",
       "google-ads-search": "إعلانات جوجل للبحث",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "telegram-ads": "إعلانات تليجرام",
       "content-writing": "كتابة المحتوى",
@@ -431,6 +455,7 @@
       "manufacturing": "الصناعة"
     },
     "countries": {
+      "austria": "النمسا",
       "poland": "بولندا",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
@@ -438,6 +463,8 @@
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "sweden": "السويد",
+      "switzerland": "سويسرا",
       "uae": "الإمارات"
     },
     "languages": {

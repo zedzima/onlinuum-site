@@ -52,7 +52,8 @@
           "aso-optimization",
           "aso-localization",
           "app-store-cro",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -66,6 +67,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -276,6 +278,7 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "japan"
         ],
         "languages": [
@@ -380,6 +383,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -498,6 +502,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -505,7 +510,9 @@
           "israel",
           "japan",
           "netherlands",
-          "south-korea"
+          "south-korea",
+          "sweden",
+          "switzerland"
         ],
         "languages": [
           "english",
@@ -675,11 +682,13 @@
       "aso-localization": "ASO 현지화",
       "app-store-cro": "앱스토어 CRO",
       "apple-search-ads": "Apple Search Ads",
+      "app-retention": "앱 리텐션",
       "seo-research": "SEO 키워드 분석",
       "content-strategy": "콘텐츠 기획",
       "telegram-ads": "텔레그램 광고",
       "ppc-audit": "광고 성과 분석",
       "google-ads-search": "구글 검색광고",
+      "google-shopping": "구글 쇼핑",
       "youtube-ads": "유튜브 광고",
       "technical-seo": "테크니컬 SEO"
     },
@@ -701,14 +710,17 @@
       "manufacturing": "제조업"
     },
     "countries": {
+      "austria": "오스트리아",
       "poland": "폴란드",
       "netherlands": "네덜란드",
+      "sweden": "스웨덴",
       "japan": "일본",
       "china": "중국",
       "eu": "유럽연합",
       "greece": "그리스",
       "israel": "이스라엘",
-      "south-korea": "대한민국"
+      "south-korea": "대한민국",
+      "switzerland": "스위스"
     },
     "languages": {
       "english": "영어",

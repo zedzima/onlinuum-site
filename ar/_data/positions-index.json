@@ -52,7 +52,8 @@
           "aso-optimization",
           "aso-localization",
           "app-store-cro",
-          "apple-search-ads"
+          "apple-search-ads",
+          "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -66,6 +67,7 @@
           "ecommerce"
         ],
         "countries": [
+          "austria",
           "poland"
         ],
         "languages": [
@@ -278,6 +280,7 @@
         "countries": [
           "netherlands",
           "poland",
+          "sweden",
           "japan",
           "uae"
         ],
@@ -384,6 +387,7 @@
         "scopes": [
           "ppc-audit",
           "google-ads-search",
+          "google-shopping",
           "youtube-ads",
           "telegram-ads"
         ],
@@ -503,6 +507,7 @@
           "manufacturing"
         ],
         "countries": [
+          "austria",
           "poland",
           "china",
           "eu",
@@ -510,6 +515,8 @@
           "israel",
           "japan",
           "netherlands",
+          "sweden",
+          "switzerland",
           "uae"
         ],
         "languages": [
@@ -681,11 +688,13 @@
       "aso-localization": "توطين ASO",
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
+      "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
       "telegram-ads": "إعلانات تليجرام",
       "ppc-audit": "تدقيق PPC",
       "google-ads-search": "إعلانات جوجل للبحث",
+      "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "السيو التقني"
     },
@@ -707,14 +716,17 @@
       "manufacturing": "الصناعة"
     },
     "countries": {
+      "austria": "النمسا",
       "poland": "بولندا",
       "netherlands": "هولندا",
       "uae": "الإمارات",
+      "sweden": "السويد",
       "japan": "اليابان",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
       "greece": "اليونان",
-      "israel": "إسرائيل"
+      "israel": "إسرائيل",
+      "switzerland": "سويسرا"
     },
     "languages": {
       "english": "الإنجليزية",
