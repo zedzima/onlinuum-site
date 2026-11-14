@@ -39,10 +39,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -105,13 +108,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -126,6 +133,49 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "orm",
+      "url": "/services/orm",
+      "title": "Online İtibar Yönetimi Hizmetleri",
+      "description": "Arama sonuçlarını, yorumları ve sosyal medya bahsetmelerini izlemek, korumak ve iyileştirmek isteyen markalar için itibar yönetimi. Randevu alın.",
+      "menu": "İtibar Yönetimi",
+      "featured": true,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 6,
+      "country_count": 3,
+      "language_count": 3,
+      "domains": [],
+      "facets": {
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "uk",
+          "belgium",
+          "china",
+          "eu",
+          "finland",
+          "greece",
+          "israel",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "turkish"
         ]
       }
     },
@@ -176,12 +226,16 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -241,13 +295,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -299,11 +357,15 @@
           "saas"
         ],
         "countries": [
+          "uk",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -355,16 +417,20 @@
       "manufacturing": "Sanayi"
     },
     "countries": {
+      "uk": "Birleşik Krallık",
       "austria": "Avusturya",
       "poland": "Polonya",
+      "belgium": "Belçika",
       "china": "Çin",
       "eu": "Avrupa Birliği",
+      "finland": "Finlandiya",
       "greece": "Yunanistan",
       "israel": "İsrail",
       "japan": "Japonya",
       "netherlands": "Hollanda",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
+      "malaysia": "Malezya",
       "turkey": "Türkiye"
     },
     "languages": {

@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -61,6 +61,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -71,14 +72,18 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "italy",
           "netherlands",
           "poland",
           "sweden",
           "israel",
+          "malaysia",
+          "belgium",
           "austria",
           "greece",
           "switzerland",
+          "finland",
           "eu"
         ],
         "blog-posts": [
@@ -111,7 +116,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -145,6 +150,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -210,6 +216,7 @@
       "content": "Content marketing",
       "social-media": "Social media",
       "aso": "ASO",
+      "orm": "Web reputation",
       "seo": "SEO",
       "ppc": "PPC"
     },
@@ -220,14 +227,18 @@
       "manufacturing": "Manifatturiero"
     },
     "countries": {
+      "uk": "Regno Unito",
       "italy": "Italia",
       "netherlands": "Paesi Bassi",
       "poland": "Polonia",
       "sweden": "Svezia",
       "israel": "Israele",
+      "malaysia": "Malesia",
+      "belgium": "Belgio",
       "austria": "Austria",
       "greece": "Grecia",
       "switzerland": "Svizzera",
+      "finland": "Finlandia",
       "eu": "Unione Europea"
     },
     "blog-posts": {

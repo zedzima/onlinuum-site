@@ -67,6 +67,7 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland"
         ],
@@ -168,6 +169,7 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "netherlands"
         ],
         "languages": [
@@ -402,7 +404,9 @@
           "manufacturing"
         ],
         "countries": [
-          "poland"
+          "uk",
+          "poland",
+          "malaysia"
         ],
         "languages": [
           "english"
@@ -505,12 +509,16 @@
         ],
         "countries": [
           "austria",
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -626,7 +634,8 @@
         ],
         "countries": [
           "israel",
-          "poland"
+          "poland",
+          "uk"
         ],
         "languages": [
           "english"
@@ -711,13 +720,17 @@
       "manufacturing": "Maakindustrie"
     },
     "countries": {
+      "uk": "Verenigd Koninkrijk",
       "austria": "Oostenrijk",
       "poland": "Polen",
       "netherlands": "Nederland",
       "sweden": "Zweden",
       "japan": "Japan",
+      "malaysia": "Maleisië",
+      "belgium": "België",
       "china": "China",
       "eu": "Europese Unie",
+      "finland": "Finland",
       "greece": "Griekenland",
       "israel": "Israël",
       "switzerland": "Zwitserland"

@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -61,6 +61,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -71,13 +72,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "netherlands",
           "poland",
           "sweden",
           "israel",
+          "malaysia",
+          "belgium",
           "austria",
           "greece",
           "switzerland",
+          "finland",
           "eu"
         ],
         "blog-posts": [
@@ -110,7 +115,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -144,6 +149,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -237,6 +243,7 @@
       "content": "コンテンツマーケティング",
       "social-media": "SNS運用代行",
       "aso": "ASO対策",
+      "orm": "風評被害対策",
       "seo": "SEO対策",
       "ppc": "リスティング広告"
     },
@@ -247,13 +254,17 @@
       "manufacturing": "製造業"
     },
     "countries": {
+      "uk": "イギリス",
       "netherlands": "オランダ",
       "poland": "ポーランド",
       "sweden": "スウェーデン",
       "israel": "イスラエル",
+      "malaysia": "マレーシア",
+      "belgium": "ベルギー",
       "austria": "オーストリア",
       "greece": "ギリシャ",
       "switzerland": "スイス",
+      "finland": "フィンランド",
       "eu": "欧州連合",
       "japan": "日本"
     },

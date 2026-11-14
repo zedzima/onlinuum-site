@@ -69,21 +69,21 @@
       }
     },
     {
-      "slug": "china",
-      "url": "/countries/china",
-      "title": "중국 마케팅: 바이두와 위챗, 샤오홍슈로 시장 진출",
-      "description": "중국 진출을 준비하는 해외 브랜드를 위한 중국 마케팅 대행. 중국어 원어민 전문가가 상품화된 서비스로 실행합니다. 지금 시작하십시오.",
-      "menu": "중국",
+      "slug": "belgium",
+      "url": "/countries/belgium",
+      "title": "벨기에 시장 디지털 마케팅: 네덜란드어·프랑스어·독일어",
+      "description": "네덜란드어, 프랑스어, 독일어권을 아우르는 벨기에 시장 디지털 마케팅과 디지털 PR. 언어별 원어민 전문가, 고정 가격 모듈로 실행합니다.",
+      "menu": "벨기에",
       "featured": false,
-      "flag": "🇨🇳",
-      "population_total": "1.42B",
-      "population_total_raw": 1416040000,
-      "official_languages_count": 1,
-      "significant_languages_count": 1,
-      "dominant_language_name": "중국어",
-      "dominant_language_code": "zh",
+      "flag": "🇧🇪",
+      "population_total": "12M",
+      "population_total_raw": 11977600,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "영어",
+      "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -118,6 +118,75 @@
           "content",
           "social-media",
           "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "중국 마케팅: 바이두와 위챗, 샤오홍슈로 시장 진출",
+      "description": "중국 진출을 준비하는 해외 브랜드를 위한 중국 마케팅 대행. 중국어 원어민 전문가가 상품화된 서비스로 실행합니다. 지금 시작하십시오.",
+      "menu": "중국",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "중국어",
+      "dominant_language_code": "zh",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -147,7 +216,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -187,6 +256,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -199,6 +269,70 @@
         "languages": [
           "english",
           "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "finland",
+      "url": "/countries/finland",
+      "title": "핀란드 마케팅: 핀란드어 원어민 실행과 현지 키워드 분석",
+      "description": "핀란드 밖에서 운영하는 핀란드 마케팅. 고정 가격 모듈, 핀란드어로 진행하는 키워드 분석, 헬싱키 사무실 없이 실행합니다. 서비스를 둘러보십시오.",
+      "menu": "핀란드",
+      "featured": false,
+      "flag": "🇫🇮",
+      "population_total": "5.63M",
+      "population_total_raw": 5626410,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "핀란드어",
+      "dominant_language_code": "fi",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -220,7 +354,7 @@
       "dominant_language_name": "그리스어",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -255,6 +389,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -287,7 +422,7 @@
       "dominant_language_name": "히브리어",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -322,6 +457,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -355,7 +491,7 @@
       "dominant_language_name": "일본어",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -390,6 +526,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -402,6 +539,69 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "malaysia",
+      "url": "/countries/malaysia",
+      "title": "말레이시아 시장 진출: SEO, 구글 광고, Shopee·Lazada",
+      "description": "말레이시아 시장에 진출하는 해외 브랜드를 위한 디지털 마케팅 대행사. 말레이어, 영어, 중국어 검색에서 상품화된 SEO, 검색광고, 이커머스를 실행합니다.",
+      "menu": "말레이시아",
+      "featured": false,
+      "flag": "🇲🇾",
+      "population_total": "34.6M",
+      "population_total_raw": 34564800,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "말레이어",
+      "dominant_language_code": "ms",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
         ]
       }
     },
@@ -420,7 +620,7 @@
       "dominant_language_name": "네덜란드어",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -455,6 +655,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -569,7 +770,7 @@
       "dominant_language_name": "한국어",
       "dominant_language_code": "ko",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -604,6 +805,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -636,7 +838,7 @@
       "dominant_language_name": "스웨덴어",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -671,6 +873,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -704,7 +907,7 @@
       "dominant_language_name": "독일어",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -739,6 +942,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -754,6 +958,90 @@
         ],
         "positions": [
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "uk",
+      "url": "/countries/uk",
+      "title": "영국 시장 진출: 영국 영어 원어민의 SEO와 디지털 마케팅",
+      "description": "영국 시장에 진출하는 해외 브랜드를 위한 디지털 마케팅. 영국 원어민 전문가가 SEO와 영국 광고를 상품화된 서비스로 실행합니다. 지금 시작하기.",
+      "menu": "영국",
+      "featured": false,
+      "flag": "🇬🇧",
+      "population_total": "68.5M",
+      "population_total_raw": 68459100,
+      "official_languages_count": 9,
+      "significant_languages_count": 9,
+      "dominant_language_name": "영어",
+      "dominant_language_code": "en",
+      "scope_count": 14,
+      "service_count": 6,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -781,7 +1069,8 @@
       "google-shopping": "구글 쇼핑",
       "ppc-audit": "광고 성과 분석",
       "telegram-ads": "텔레그램 광고",
-      "youtube-ads": "유튜브 광고"
+      "youtube-ads": "유튜브 광고",
+      "content-writing": "블로그 대행"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -797,6 +1086,7 @@
       "aso": "ASO 최적화",
       "seo": "SEO 대행",
       "social-media": "SNS 마케팅",
+      "orm": "평판 관리",
       "ppc": "검색광고"
     },
     "industries": {
@@ -820,8 +1110,8 @@
       "aso-specialist": "ASO 전문가",
       "social-media-manager": "SNS 마케터",
       "marketing-consultant": "마케팅 컨설턴트",
-      "business-development-manager": "사업개발 매니저",
-      "ppc-specialist": "퍼포먼스 마케터"
+      "ppc-specialist": "퍼포먼스 마케터",
+      "business-development-manager": "사업개발 매니저"
     },
     "cases": {
       "alvadi": "ALVADI",

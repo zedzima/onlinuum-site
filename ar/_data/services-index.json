@@ -39,10 +39,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -106,13 +109,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -127,6 +134,49 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "orm",
+      "url": "/services/orm",
+      "title": "Online Reputation Management: إدارة السمعة الرقمية",
+      "description": "إدارة السمعة الرقمية للعلامات التي تحتاج إلى مراقبة نتائج البحث والتقييمات والإشارات على وسائل التواصل وحمايتها وتحسينها. احجزوا استشارة.",
+      "menu": "ORM",
+      "featured": true,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 6,
+      "country_count": 3,
+      "language_count": 3,
+      "domains": [],
+      "facets": {
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "uk",
+          "belgium",
+          "china",
+          "eu",
+          "finland",
+          "greece",
+          "israel",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "italian"
         ]
       }
     },
@@ -177,12 +227,16 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -242,13 +296,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -300,11 +358,15 @@
           "saas"
         ],
         "countries": [
+          "uk",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -358,17 +420,21 @@
       "manufacturing": "الصناعة"
     },
     "countries": {
+      "uk": "المملكة المتحدة",
       "austria": "النمسا",
       "poland": "بولندا",
+      "belgium": "بلجيكا",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
+      "finland": "فنلندا",
       "greece": "اليونان",
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
       "sweden": "السويد",
       "switzerland": "سويسرا",
-      "uae": "الإمارات"
+      "uae": "الإمارات",
+      "malaysia": "ماليزيا"
     },
     "languages": {
       "english": "الإنجليزية",

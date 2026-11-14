@@ -39,10 +39,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -105,13 +108,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -124,6 +131,47 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "orm",
+      "url": "/services/orm",
+      "title": "風評被害対策・レピュテーションマネジメント",
+      "description": "検索結果、口コミ、SNSでの言及を監視・保護・改善する風評被害対策。口コミ対策から炎上対策まで、固定料金のプランでご提供します。まずはご相談ください。",
+      "menu": "風評被害対策",
+      "featured": true,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 6,
+      "country_count": 3,
+      "language_count": 3,
+      "domains": [],
+      "facets": {
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "uk",
+          "belgium",
+          "china",
+          "eu",
+          "finland",
+          "greece",
+          "israel",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ]
       }
     },
@@ -174,12 +222,16 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -237,13 +289,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -293,11 +349,15 @@
           "saas"
         ],
         "countries": [
+          "uk",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -349,16 +409,20 @@
       "manufacturing": "製造業"
     },
     "countries": {
+      "uk": "イギリス",
       "austria": "オーストリア",
       "poland": "ポーランド",
+      "belgium": "ベルギー",
       "china": "中国",
       "eu": "欧州連合",
+      "finland": "フィンランド",
       "greece": "ギリシャ",
       "israel": "イスラエル",
       "japan": "日本",
       "netherlands": "オランダ",
       "sweden": "スウェーデン",
-      "switzerland": "スイス"
+      "switzerland": "スイス",
+      "malaysia": "マレーシア"
     },
     "languages": {
       "english": "英語",

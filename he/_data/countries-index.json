@@ -69,21 +69,21 @@
       }
     },
     {
-      "slug": "china",
-      "url": "/countries/china",
-      "title": "שיווק דיגיטלי בסין: Baidu ו-WeChat",
-      "description": "שיווק דיגיטלי בסין למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים למנדרינית ב-Baidu, ב-WeChat וב-Douyin. בואו נתחיל.",
-      "menu": "סין",
+      "slug": "belgium",
+      "url": "/countries/belgium",
+      "title": "שיווק דיגיטלי בבלגיה: הולנדית, צרפתית וגרמנית",
+      "description": "שיווק דיגיטלי ויחסי ציבור דיגיטליים בבלגיה באזורים דוברי ההולנדית, הצרפתית והגרמנית. מומחים ילידיים לכל שפה ומודולים במחיר קבוע.",
+      "menu": "בלגיה",
       "featured": false,
-      "flag": "🇨🇳",
-      "population_total": "1.42B",
-      "population_total_raw": 1416040000,
-      "official_languages_count": 1,
-      "significant_languages_count": 1,
-      "dominant_language_name": "סינית",
-      "dominant_language_code": "zh",
+      "flag": "🇧🇪",
+      "population_total": "12M",
+      "population_total_raw": 11977600,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "אנגלית",
+      "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -118,6 +118,75 @@
           "content",
           "social-media",
           "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "שיווק דיגיטלי בסין: Baidu ו-WeChat",
+      "description": "שיווק דיגיטלי בסין למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים למנדרינית ב-Baidu, ב-WeChat וב-Douyin. בואו נתחיל.",
+      "menu": "סין",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "סינית",
+      "dominant_language_code": "zh",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -147,7 +216,7 @@
       "dominant_language_name": "אנגלית",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -187,6 +256,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -199,6 +269,70 @@
         "languages": [
           "english",
           "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "finland",
+      "url": "/countries/finland",
+      "title": "שיווק דיגיטלי בפינלנד: ביצוע ילידי בפינית",
+      "description": "שיווק דיגיטלי בפינלנד שמנוהל מבחוץ: מודולים במחיר קבוע, מחקר מילות מפתח בפינית ובלי משרד בהלסינקי. עיינו בשירותים.",
+      "menu": "פינלנד",
+      "featured": false,
+      "flag": "🇫🇮",
+      "population_total": "5.63M",
+      "population_total_raw": 5626410,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "פינית",
+      "dominant_language_code": "fi",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -220,7 +354,7 @@
       "dominant_language_name": "יוונית",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -255,6 +389,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -287,7 +422,7 @@
       "dominant_language_name": "עברית",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -322,6 +457,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -356,7 +492,7 @@
       "dominant_language_name": "יפנית",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -391,6 +527,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -403,6 +540,69 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "malaysia",
+      "url": "/countries/malaysia",
+      "title": "שיווק דיגיטלי במלזיה למותגים בינלאומיים",
+      "description": "שיווק דיגיטלי במלזיה למותגים בינלאומיים: SEO, PPC ועבודת מסחר אלקטרוני מוצריים בחיפוש במלאית, באנגלית ובסינית.",
+      "menu": "מלזיה",
+      "featured": false,
+      "flag": "🇲🇾",
+      "population_total": "34.6M",
+      "population_total_raw": 34564800,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "מלאית",
+      "dominant_language_code": "ms",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
         ]
       }
     },
@@ -421,7 +621,7 @@
       "dominant_language_name": "הולנדית",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -456,6 +656,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -570,7 +771,7 @@
       "dominant_language_name": "שוודית",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -605,6 +806,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -638,7 +840,7 @@
       "dominant_language_name": "גרמנית",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -673,6 +875,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -688,6 +891,90 @@
         ],
         "positions": [
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "uk",
+      "url": "/countries/uk",
+      "title": "פתיחת עסק באנגליה: SEO ושיווק דיגיטלי בבריטניה",
+      "description": "שיווק דיגיטלי בבריטניה למותגים בינלאומיים, בלי פתיחת עסק באנגליה: שירותים מוצריים עם מומחים בריטים ילידיים. בואו נתחיל.",
+      "menu": "בריטניה",
+      "featured": false,
+      "flag": "🇬🇧",
+      "population_total": "68.5M",
+      "population_total_raw": 68459100,
+      "official_languages_count": 9,
+      "significant_languages_count": 9,
+      "dominant_language_name": "אנגלית",
+      "dominant_language_code": "en",
+      "scope_count": 14,
+      "service_count": 6,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -715,7 +1002,8 @@
       "google-shopping": "פרסום בגוגל שופינג",
       "ppc-audit": "אודיט PPC",
       "telegram-ads": "פרסום בטלגרם",
-      "youtube-ads": "פרסום ביוטיוב"
+      "youtube-ads": "פרסום ביוטיוב",
+      "content-writing": "כתיבת תוכן"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
@@ -731,6 +1019,7 @@
       "aso": "ASO",
       "seo": "קידום אתרים",
       "social-media": "רשתות חברתיות",
+      "orm": "ניהול מוניטין",
       "ppc": "PPC"
     },
     "industries": {
@@ -754,8 +1043,8 @@
       "aso-specialist": "מומחה ASO",
       "social-media-manager": "מנהל סושיאל",
       "marketing-consultant": "יועץ שיווק",
-      "business-development-manager": "מנהל פיתוח עסקי",
-      "ppc-specialist": "מנהל קמפיינים PPC"
+      "ppc-specialist": "מנהל קמפיינים PPC",
+      "business-development-manager": "מנהל פיתוח עסקי"
     },
     "cases": {
       "alvadi": "ALVADI",

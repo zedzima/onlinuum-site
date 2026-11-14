@@ -30,10 +30,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -83,10 +86,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -136,10 +142,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -192,10 +201,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -249,10 +261,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -312,6 +327,7 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland"
         ],
@@ -355,6 +371,9 @@
           "fintech",
           "ecommerce",
           "manufacturing"
+        ],
+        "countries": [
+          "uk"
         ],
         "languages": [
           "english"
@@ -402,7 +421,9 @@
           "manufacturing"
         ],
         "countries": [
-          "poland"
+          "uk",
+          "poland",
+          "malaysia"
         ],
         "languages": [
           "english"
@@ -447,7 +468,9 @@
           "manufacturing"
         ],
         "countries": [
-          "poland"
+          "uk",
+          "poland",
+          "malaysia"
         ],
         "languages": [
           "english"
@@ -495,7 +518,9 @@
           "manufacturing"
         ],
         "countries": [
-          "poland"
+          "uk",
+          "poland",
+          "malaysia"
         ],
         "languages": [
           "english"
@@ -547,13 +572,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -611,13 +640,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -668,6 +701,7 @@
           "fintech"
         ],
         "countries": [
+          "uk",
           "poland"
         ],
         "languages": [
@@ -715,6 +749,7 @@
           "fintech"
         ],
         "countries": [
+          "uk",
           "poland"
         ],
         "languages": [
@@ -753,16 +788,20 @@
       "manufacturing": "Maakindustrie"
     },
     "countries": {
+      "uk": "Verenigd Koninkrijk",
       "austria": "Oostenrijk",
       "poland": "Polen",
+      "belgium": "België",
       "china": "China",
       "eu": "Europese Unie",
+      "finland": "Finland",
       "greece": "Griekenland",
       "israel": "Israël",
       "japan": "Japan",
       "netherlands": "Nederland",
       "sweden": "Zweden",
-      "switzerland": "Zwitserland"
+      "switzerland": "Zwitserland",
+      "malaysia": "Maleisië"
     },
     "languages": {
       "english": "Engels",

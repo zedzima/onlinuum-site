@@ -70,21 +70,21 @@
       }
     },
     {
-      "slug": "china",
-      "url": "/countries/china",
-      "title": "China Marketing: Baidu, WeChat und Markteintritt",
-      "description": "China-Marketing für internationale Marken: Baidu-SEO, WeChat und Douyin mit chinesischen Muttersprachlern, feste Leistungspakete. Jetzt starten.",
-      "menu": "China",
+      "slug": "belgium",
+      "url": "/countries/belgium",
+      "title": "Marketing Agentur Belgien: Märkte auf NL, FR und DE",
+      "description": "Marketing Agentur für Belgien: Online-Marketing und Digital PR für die niederländisch-, französisch- und deutschsprachigen Regionen, Festpreis je Modul.",
+      "menu": "Belgien",
       "featured": false,
-      "flag": "🇨🇳",
-      "population_total": "1.42B",
-      "population_total_raw": 1416040000,
-      "official_languages_count": 1,
-      "significant_languages_count": 1,
-      "dominant_language_name": "Chinesisch",
-      "dominant_language_code": "zh",
+      "flag": "🇧🇪",
+      "population_total": "12M",
+      "population_total_raw": 11977600,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Englisch",
+      "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -119,6 +119,76 @@
           "content",
           "social-media",
           "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "China Marketing: Baidu, WeChat und Markteintritt",
+      "description": "China-Marketing für internationale Marken: Baidu-SEO, WeChat und Douyin mit chinesischen Muttersprachlern, feste Leistungspakete. Jetzt starten.",
+      "menu": "China",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "Chinesisch",
+      "dominant_language_code": "zh",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -148,7 +218,7 @@
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -188,6 +258,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -201,6 +272,71 @@
           "english",
           "german",
           "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "finland",
+      "url": "/countries/finland",
+      "title": "Marketing Agentur Finnland: Umsetzung auf Finnisch",
+      "description": "Marketing Agentur für Finnland, gesteuert von außerhalb: Module zum Festpreis, Keyword-Recherche auf Finnisch, kein Büro in Helsinki. Leistungen ansehen.",
+      "menu": "Finnland",
+      "featured": false,
+      "flag": "🇫🇮",
+      "population_total": "5.63M",
+      "population_total_raw": 5626410,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Finnisch",
+      "dominant_language_code": "fi",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "german"
         ],
         "positions": [
           "seo-expert"
@@ -222,7 +358,7 @@
       "dominant_language_name": "Deutsch",
       "dominant_language_code": "de",
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -264,6 +400,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -308,7 +445,7 @@
       "dominant_language_name": "Griechisch",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -343,6 +480,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -376,7 +514,7 @@
       "dominant_language_name": "Hebräisch",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -411,6 +549,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -444,7 +583,7 @@
       "dominant_language_name": "Japanisch",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -479,6 +618,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -491,6 +631,69 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "malaysia",
+      "url": "/countries/malaysia",
+      "title": "SEO Malaysia: Online-Marketing für den malaysischen Markt",
+      "description": "SEO Malaysia für internationale Marken: feste Module für SEO, Google Ads und E-Commerce, in der Suche auf Malaiisch, Englisch und Chinesisch.",
+      "menu": "Malaysia",
+      "featured": false,
+      "flag": "🇲🇾",
+      "population_total": "34.6M",
+      "population_total_raw": 34564800,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Malaiisch",
+      "dominant_language_code": "ms",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
         ]
       }
     },
@@ -509,7 +712,7 @@
       "dominant_language_name": "Niederländisch",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -544,6 +747,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -660,7 +864,7 @@
       "dominant_language_name": "Schwedisch",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -695,6 +899,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -728,7 +933,7 @@
       "dominant_language_name": "Deutsch",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -763,6 +968,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -779,6 +985,91 @@
         ],
         "positions": [
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "uk",
+      "url": "/countries/uk",
+      "title": "SEO UK: Online-Marketing für Großbritannien und London",
+      "description": "SEO UK und Online-Marketing für internationale Marken: feste Leistungspakete mit britischen Muttersprachlern, ohne Büro in London. Jetzt starten.",
+      "menu": "Vereinigtes Königreich",
+      "featured": false,
+      "flag": "🇬🇧",
+      "population_total": "68.5M",
+      "population_total_raw": 68459100,
+      "official_languages_count": 9,
+      "significant_languages_count": 9,
+      "dominant_language_name": "Englisch",
+      "dominant_language_code": "en",
+      "scope_count": 14,
+      "service_count": 6,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -823,6 +1114,7 @@
       "aso": "App-Store-Optimierung",
       "seo": "SEO-Leistungen",
       "social-media": "Social Media Betreuung",
+      "orm": "Reputationsmanagement",
       "ppc": "Google Ads"
     },
     "industries": {

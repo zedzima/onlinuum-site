@@ -66,8 +66,13 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/de/countries/belgium/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/de/countries/china/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -76,23 +81,33 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/de/countries/finland/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/de/countries/germany/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/de/countries/greece/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/de/countries/israel/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/de/countries/japan/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/de/countries/malaysia/</loc>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -102,7 +117,7 @@
   </url>
   <url>
     <loc>https://onlinuum.com/de/countries/poland/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -112,6 +127,11 @@
   </url>
   <url>
     <loc>https://onlinuum.com/de/countries/switzerland/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/de/countries/uk/</loc>
     <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
@@ -328,6 +348,11 @@
   <url>
     <loc>https://onlinuum.com/de/services/content/</loc>
     <lastmod>2026-11-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/de/services/orm/</loc>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

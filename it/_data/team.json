@@ -44,7 +44,8 @@
           "saas"
         ],
         "countries": [
-          "eu"
+          "eu",
+          "uk"
         ],
         "languages": [
           "english"
@@ -132,13 +133,16 @@
         ],
         "countries": [
           "austria",
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
           "greece",
           "israel",
           "italy",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -216,6 +220,7 @@
         ],
         "countries": [
           "poland",
+          "belgium",
           "china",
           "eu",
           "greece",
@@ -224,7 +229,8 @@
           "japan",
           "netherlands",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "uk"
         ],
         "languages": [
           "english",
@@ -271,13 +277,16 @@
     },
     "countries": {
       "eu": "Unione Europea",
+      "uk": "Regno Unito",
       "austria": "Austria",
       "poland": "Polonia",
+      "belgium": "Belgio",
       "china": "Cina",
       "greece": "Grecia",
       "israel": "Israele",
       "italy": "Italia",
       "japan": "Giappone",
+      "malaysia": "Malesia",
       "netherlands": "Paesi Bassi",
       "sweden": "Svezia",
       "switzerland": "Svizzera"

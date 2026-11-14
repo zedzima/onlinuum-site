@@ -66,8 +66,13 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/nl/countries/belgium/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/nl/countries/china/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -76,18 +81,28 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/nl/countries/finland/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/nl/countries/greece/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/nl/countries/israel/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinuum.com/nl/countries/japan/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/nl/countries/malaysia/</loc>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -97,7 +112,7 @@
   </url>
   <url>
     <loc>https://onlinuum.com/nl/countries/poland/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -107,6 +122,11 @@
   </url>
   <url>
     <loc>https://onlinuum.com/nl/countries/switzerland/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/nl/countries/uk/</loc>
     <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
@@ -323,6 +343,11 @@
   <url>
     <loc>https://onlinuum.com/nl/services/content/</loc>
     <lastmod>2026-11-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/nl/services/orm/</loc>
+    <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

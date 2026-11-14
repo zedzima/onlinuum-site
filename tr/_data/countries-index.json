@@ -69,21 +69,21 @@
       }
     },
     {
-      "slug": "china",
-      "url": "/countries/china",
-      "title": "Çin Pazarı İçin Dijital Pazarlama: Baidu ve WeChat",
-      "description": "Çin pazarına giren uluslararası markalar için dijital pazarlama: anadili Mandarin Çincesi olan uzmanlarla paketlenmiş hizmetler. Hemen başlayın.",
-      "menu": "Çin",
+      "slug": "belgium",
+      "url": "/countries/belgium",
+      "title": "Belçika Pazarı İçin Dijital Pazarlama: NL, FR ve DE",
+      "description": "Belçika pazarında Felemenkçe, Fransızca ve Almanca konuşulan bölgelerde dijital pazarlama ve dijital PR. Dil başına anadil uzmanı, sabit fiyatlar.",
+      "menu": "Belçika",
       "featured": false,
-      "flag": "🇨🇳",
-      "population_total": "1.42B",
-      "population_total_raw": 1416040000,
-      "official_languages_count": 1,
-      "significant_languages_count": 1,
-      "dominant_language_name": "Çince",
-      "dominant_language_code": "zh",
+      "flag": "🇧🇪",
+      "population_total": "12M",
+      "population_total_raw": 11977600,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "İngilizce",
+      "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -118,6 +118,75 @@
           "content",
           "social-media",
           "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "Çin Pazarı İçin Dijital Pazarlama: Baidu ve WeChat",
+      "description": "Çin pazarına giren uluslararası markalar için dijital pazarlama: anadili Mandarin Çincesi olan uzmanlarla paketlenmiş hizmetler. Hemen başlayın.",
+      "menu": "Çin",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "Çince",
+      "dominant_language_code": "zh",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -147,7 +216,7 @@
       "dominant_language_name": "İngilizce",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -187,6 +256,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -199,6 +269,70 @@
         "languages": [
           "english",
           "italian"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "finland",
+      "url": "/countries/finland",
+      "title": "Finlandiya İhracatı İçin Pazarlama Ajansı: Anadil Fince",
+      "description": "Finlandiya ihracat pazarı için dışarıdan ajans hizmeti: sabit fiyatlı paketler, Fince anahtar kelime araştırması, Helsinki ofisi yok. Hizmetleri inceleyin.",
+      "menu": "Finlandiya",
+      "featured": false,
+      "flag": "🇫🇮",
+      "population_total": "5.63M",
+      "population_total_raw": 5626410,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Fince",
+      "dominant_language_code": "fi",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -220,7 +354,7 @@
       "dominant_language_name": "Yunanca",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -255,6 +389,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -288,7 +423,7 @@
       "dominant_language_name": "İbranice",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -323,6 +458,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -356,7 +492,7 @@
       "dominant_language_name": "Japonca",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -391,6 +527,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -403,6 +540,69 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "malaysia",
+      "url": "/countries/malaysia",
+      "title": "Malezya İhracatı İçin Dijital Pazarlama Ajansı",
+      "description": "Malezya ihracat pazarına açılan uluslararası markalar için dijital pazarlama ajansı: Malayca, İngilizce ve Çince aramada SEO, reklam ve e-ticaret.",
+      "menu": "Malezya",
+      "featured": false,
+      "flag": "🇲🇾",
+      "population_total": "34.6M",
+      "population_total_raw": 34564800,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Malayca",
+      "dominant_language_code": "ms",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
         ]
       }
     },
@@ -421,7 +621,7 @@
       "dominant_language_name": "Felemenkçe",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -456,6 +656,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -571,7 +772,7 @@
       "dominant_language_name": "İsveççe",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -606,6 +807,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -639,7 +841,7 @@
       "dominant_language_name": "Almanca",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -674,6 +876,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -707,7 +910,7 @@
       "dominant_language_name": "Türkçe",
       "dominant_language_code": "tr",
       "scope_count": 5,
-      "service_count": 3,
+      "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -736,6 +939,7 @@
         ],
         "services": [
           "content",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -752,6 +956,90 @@
         "positions": [
           "seo-expert",
           "marketing-consultant",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "uk",
+      "url": "/countries/uk",
+      "title": "İngiltere Pazarı İçin SEO ve Dijital Pazarlama",
+      "description": "İngiltere pazarına açılan uluslararası markalar için dijital pazarlama: anadili İngiliz İngilizcesi olan uzmanlarla paketlenmiş hizmetler. Başlayın.",
+      "menu": "Birleşik Krallık",
+      "featured": false,
+      "flag": "🇬🇧",
+      "population_total": "68.5M",
+      "population_total_raw": 68459100,
+      "official_languages_count": 9,
+      "significant_languages_count": 9,
+      "dominant_language_name": "İngilizce",
+      "dominant_language_code": "en",
+      "scope_count": 14,
+      "service_count": 6,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
           "social-media-manager"
         ]
       }
@@ -780,7 +1068,8 @@
       "google-shopping": "Google Shopping",
       "ppc-audit": "Reklam Analizi",
       "telegram-ads": "Telegram Reklamları",
-      "youtube-ads": "YouTube Ads"
+      "youtube-ads": "YouTube Ads",
+      "content-writing": "İçerik Yazarlığı"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -796,6 +1085,7 @@
       "aso": "ASO Hizmeti",
       "seo": "SEO Hizmeti",
       "social-media": "Sosyal Medya",
+      "orm": "İtibar Yönetimi",
       "ppc": "Performans Pazarlama"
     },
     "industries": {
@@ -819,8 +1109,8 @@
       "aso-specialist": "ASO Uzmanı",
       "social-media-manager": "Sosyal Medya Uzmanı",
       "marketing-consultant": "Pazarlama Danışmanı",
-      "business-development-manager": "İş Geliştirme Yöneticisi",
-      "ppc-specialist": "Google Ads Uzmanı"
+      "ppc-specialist": "Google Ads Uzmanı",
+      "business-development-manager": "İş Geliştirme Yöneticisi"
     },
     "cases": {
       "alvadi": "ALVADI",

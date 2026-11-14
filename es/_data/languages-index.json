@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -61,6 +61,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -71,14 +72,18 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "netherlands",
           "poland",
           "spain",
           "sweden",
           "israel",
+          "malaysia",
+          "belgium",
           "austria",
           "greece",
           "switzerland",
+          "finland",
           "eu"
         ],
         "blog-posts": [
@@ -111,7 +116,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -145,6 +150,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -230,6 +236,7 @@
         ],
         "countries": [
           "spain",
+          "uk",
           "eu"
         ],
         "blog-posts": [
@@ -290,6 +297,7 @@
       "content": "Marketing de contenidos",
       "social-media": "Redes sociales",
       "aso": "ASO",
+      "orm": "Reputación online",
       "seo": "SEO",
       "ppc": "PPC"
     },
@@ -300,14 +308,18 @@
       "manufacturing": "Industria"
     },
     "countries": {
+      "uk": "Reino Unido",
       "netherlands": "Países Bajos",
       "poland": "Polonia",
       "spain": "España",
       "sweden": "Suecia",
       "israel": "Israel",
+      "malaysia": "Malasia",
+      "belgium": "Bélgica",
       "austria": "Austria",
       "greece": "Grecia",
       "switzerland": "Suiza",
+      "finland": "Finlandia",
       "eu": "Unión Europea"
     },
     "blog-posts": {

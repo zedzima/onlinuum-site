@@ -30,10 +30,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -82,10 +85,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -134,10 +140,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -190,10 +199,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -248,10 +260,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -311,6 +326,7 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland"
         ],
@@ -354,6 +370,9 @@
           "fintech",
           "ecommerce",
           "manufacturing"
+        ],
+        "countries": [
+          "uk"
         ],
         "languages": [
           "english"
@@ -401,7 +420,9 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "poland",
+          "malaysia",
           "uae"
         ],
         "languages": [
@@ -448,7 +469,9 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "poland",
+          "malaysia",
           "uae"
         ],
         "languages": [
@@ -497,7 +520,9 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "poland",
+          "malaysia",
           "uae"
         ],
         "languages": [
@@ -551,13 +576,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -616,13 +645,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland",
@@ -674,6 +707,7 @@
           "fintech"
         ],
         "countries": [
+          "uk",
           "poland"
         ],
         "languages": [
@@ -721,6 +755,7 @@
           "fintech"
         ],
         "countries": [
+          "uk",
           "poland"
         ],
         "languages": [
@@ -759,17 +794,21 @@
       "manufacturing": "الصناعة"
     },
     "countries": {
+      "uk": "المملكة المتحدة",
       "austria": "النمسا",
       "poland": "بولندا",
+      "belgium": "بلجيكا",
       "china": "الصين",
       "eu": "الاتحاد الأوروبي",
+      "finland": "فنلندا",
       "greece": "اليونان",
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
       "sweden": "السويد",
       "switzerland": "سويسرا",
-      "uae": "الإمارات"
+      "uae": "الإمارات",
+      "malaysia": "ماليزيا"
     },
     "languages": {
       "english": "الإنجليزية",

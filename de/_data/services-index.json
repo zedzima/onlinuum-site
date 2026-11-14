@@ -40,10 +40,13 @@
         ],
         "countries": [
           "germany",
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -108,13 +111,17 @@
         ],
         "countries": [
           "germany",
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -128,6 +135,49 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "orm",
+      "url": "/services/orm",
+      "title": "Online Reputation Management für Suche und Bewertungen",
+      "description": "Online Reputation Management für Marken: Suchergebnisse, Bewertungen und Erwähnungen in Social Media überwachen, schützen und verbessern. Beratung buchen.",
+      "menu": "Reputationsmanagement",
+      "featured": true,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 6,
+      "country_count": 3,
+      "language_count": 3,
+      "domains": [],
+      "facets": {
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "uk",
+          "germany",
+          "belgium",
+          "china",
+          "eu",
+          "finland",
+          "greece",
+          "israel",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "italian"
         ]
       }
     },
@@ -178,13 +228,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "germany",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -244,13 +298,17 @@
         ],
         "countries": [
           "germany",
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -301,12 +359,16 @@
           "saas"
         ],
         "countries": [
+          "uk",
           "germany",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -360,16 +422,20 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "uk": "Vereinigtes Königreich",
       "austria": "Österreich",
       "poland": "Polen",
+      "belgium": "Belgien",
       "china": "China",
       "eu": "Europäische Union",
+      "finland": "Finnland",
       "greece": "Griechenland",
       "israel": "Israel",
       "japan": "Japan",
       "netherlands": "Niederlande",
       "sweden": "Schweden",
-      "switzerland": "Schweiz"
+      "switzerland": "Schweiz",
+      "malaysia": "Malaysia"
     },
     "languages": {
       "english": "Englisch",

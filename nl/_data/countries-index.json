@@ -69,21 +69,21 @@
       }
     },
     {
-      "slug": "china",
-      "url": "/countries/china",
-      "title": "Online marketing voor de Chinese markt: Baidu en WeChat",
-      "description": "Online marketing voor de Chinese markt, voor internationale merken: vaste dienstpakketten met Mandarijnstalige specialisten. Ga aan de slag.",
-      "menu": "China",
+      "slug": "belgium",
+      "url": "/countries/belgium",
+      "title": "Online marketing voor de Belgische markt: NL, FR en DE",
+      "description": "Online marketing en digital PR voor de Belgische markt, in Nederlandstalig, Franstalig en Duitstalig België. Native specialisten per taal, vaste prijzen.",
+      "menu": "België",
       "featured": false,
-      "flag": "🇨🇳",
-      "population_total": "1.42B",
-      "population_total_raw": 1416040000,
-      "official_languages_count": 1,
-      "significant_languages_count": 1,
-      "dominant_language_name": "Chinees",
-      "dominant_language_code": "zh",
+      "flag": "🇧🇪",
+      "population_total": "12M",
+      "population_total_raw": 11977600,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Engels",
+      "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -118,6 +118,76 @@
           "content",
           "social-media",
           "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "dutch"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "china",
+      "url": "/countries/china",
+      "title": "Online marketing voor de Chinese markt: Baidu en WeChat",
+      "description": "Online marketing voor de Chinese markt, voor internationale merken: vaste dienstpakketten met Mandarijnstalige specialisten. Ga aan de slag.",
+      "menu": "China",
+      "featured": false,
+      "flag": "🇨🇳",
+      "population_total": "1.42B",
+      "population_total_raw": 1416040000,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "Chinees",
+      "dominant_language_code": "zh",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -147,7 +217,7 @@
       "dominant_language_name": "Engels",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -187,6 +257,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -200,6 +271,70 @@
           "english",
           "italian",
           "dutch"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "finland",
+      "url": "/countries/finland",
+      "title": "Online marketing voor de Finse markt: onderzoek in het Fins",
+      "description": "Online marketing voor de Finse markt, vanuit het buitenland: pakketten met een vaste prijs, zoekwoordenonderzoek in het Fins, geen kantoor in Helsinki.",
+      "menu": "Finland",
+      "featured": false,
+      "flag": "🇫🇮",
+      "population_total": "5.63M",
+      "population_total_raw": 5626410,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Fins",
+      "dominant_language_code": "fi",
+      "scope_count": 7,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -221,7 +356,7 @@
       "dominant_language_name": "Grieks",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -256,6 +391,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -288,7 +424,7 @@
       "dominant_language_name": "Hebreeuws",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -323,6 +459,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -356,7 +493,7 @@
       "dominant_language_name": "Japans",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -391,6 +528,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -403,6 +541,69 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "malaysia",
+      "url": "/countries/malaysia",
+      "title": "Online marketing voor de Maleisische markt",
+      "description": "Online marketing voor de Maleisische markt, voor internationale merken: vaste pakketten voor SEO, SEA en e-commerce in het Maleis, Engels en Chinees.",
+      "menu": "Maleisië",
+      "featured": false,
+      "flag": "🇲🇾",
+      "population_total": "34.6M",
+      "population_total_raw": 34564800,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Maleis",
+      "dominant_language_code": "ms",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist",
+          "seo-expert"
         ]
       }
     },
@@ -421,7 +622,7 @@
       "dominant_language_name": "Nederlands",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -456,6 +657,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -571,7 +773,7 @@
       "dominant_language_name": "Zweeds",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -606,6 +808,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -639,7 +842,7 @@
       "dominant_language_name": "Duits",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -674,6 +877,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -689,6 +893,90 @@
         ],
         "positions": [
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "uk",
+      "url": "/countries/uk",
+      "title": "Exporteren naar Engeland: online marketing in Brits Engels",
+      "description": "Exporteren naar Engeland? Online marketing in het VK voor internationale merken: vaste dienstpakketten met Britse specialisten. Aan de slag.",
+      "menu": "Verenigd Koninkrijk",
+      "featured": false,
+      "flag": "🇬🇧",
+      "population_total": "68.5M",
+      "population_total_raw": 68459100,
+      "official_languages_count": 9,
+      "significant_languages_count": 9,
+      "dominant_language_name": "Engels",
+      "dominant_language_code": "en",
+      "scope_count": 14,
+      "service_count": 6,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     }
@@ -716,7 +1004,8 @@
       "google-shopping": "Google Shopping",
       "ppc-audit": "SEA-audit",
       "telegram-ads": "Telegram Ads-beheer",
-      "youtube-ads": "YouTube Ads-beheer"
+      "youtube-ads": "YouTube Ads-beheer",
+      "content-writing": "Teksten schrijven"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -732,6 +1021,7 @@
       "aso": "ASO",
       "seo": "SEO",
       "social-media": "Social media",
+      "orm": "ORM",
       "ppc": "SEA"
     },
     "industries": {
@@ -755,8 +1045,8 @@
       "aso-specialist": "ASO-specialist",
       "social-media-manager": "Social media manager",
       "marketing-consultant": "Marketing consultant",
-      "business-development-manager": "Business development manager",
-      "ppc-specialist": "SEA-specialist"
+      "ppc-specialist": "SEA-specialist",
+      "business-development-manager": "Business development manager"
     },
     "cases": {
       "alvadi": "ALVADI",

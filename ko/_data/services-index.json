@@ -39,10 +39,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -106,13 +109,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "south-korea",
           "sweden",
@@ -126,6 +133,48 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "orm",
+      "url": "/services/orm",
+      "title": "온라인 평판 관리 서비스: 검색 결과·리뷰·SNS 언급",
+      "description": "검색 결과, 리뷰, SNS 언급을 모니터링하고 지키고 개선해야 하는 브랜드를 위한 온라인 평판 관리와 리뷰 관리. 상담을 예약해 보십시오.",
+      "menu": "평판 관리",
+      "featured": true,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 6,
+      "country_count": 3,
+      "language_count": 3,
+      "domains": [],
+      "facets": {
+        "industries": [
+          "saas",
+          "ecommerce",
+          "fintech"
+        ],
+        "countries": [
+          "uk",
+          "belgium",
+          "china",
+          "eu",
+          "finland",
+          "greece",
+          "israel",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "south-korea",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ]
       }
     },
@@ -176,12 +225,16 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "south-korea",
           "sweden",
@@ -240,13 +293,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "south-korea",
           "sweden",
@@ -297,11 +354,15 @@
           "saas"
         ],
         "countries": [
+          "uk",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "south-korea",
           "sweden",
@@ -354,17 +415,21 @@
       "manufacturing": "제조업"
     },
     "countries": {
+      "uk": "영국",
       "austria": "오스트리아",
       "poland": "폴란드",
+      "belgium": "벨기에",
       "china": "중국",
       "eu": "유럽연합",
+      "finland": "핀란드",
       "greece": "그리스",
       "israel": "이스라엘",
       "japan": "일본",
       "netherlands": "네덜란드",
       "south-korea": "대한민국",
       "sweden": "스웨덴",
-      "switzerland": "스위스"
+      "switzerland": "스위스",
+      "malaysia": "말레이시아"
     },
     "languages": {
       "english": "영어",

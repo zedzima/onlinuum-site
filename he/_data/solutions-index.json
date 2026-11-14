@@ -54,13 +54,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -119,13 +123,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -187,13 +195,17 @@
       "manufacturing": "תעשייה וייצור"
     },
     "countries": {
+      "uk": "בריטניה",
       "austria": "אוסטריה",
       "poland": "פולין",
+      "belgium": "בלגיה",
       "china": "סין",
       "eu": "האיחוד האירופי",
+      "finland": "פינלנד",
       "greece": "יוון",
       "israel": "ישראל",
       "japan": "יפן",
+      "malaysia": "מלזיה",
       "netherlands": "הולנד",
       "sweden": "שוודיה",
       "switzerland": "שווייץ"

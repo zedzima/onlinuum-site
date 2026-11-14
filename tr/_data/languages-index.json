@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -61,6 +61,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -71,14 +72,18 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "netherlands",
           "turkey",
           "poland",
           "sweden",
           "israel",
+          "malaysia",
+          "belgium",
           "austria",
           "greece",
           "switzerland",
+          "finland",
           "eu"
         ],
         "blog-posts": [
@@ -111,7 +116,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -145,6 +150,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -181,7 +187,7 @@
       "market_country_count": 6,
       "official_countries_count": 6,
       "scope_count": 4,
-      "service_count": 3,
+      "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -208,6 +214,7 @@
         ],
         "services": [
           "content",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -272,6 +279,7 @@
       "content": "İçerik Pazarlama",
       "social-media": "Sosyal Medya",
       "aso": "ASO Hizmeti",
+      "orm": "İtibar Yönetimi",
       "seo": "SEO Hizmeti",
       "ppc": "Performans Pazarlama"
     },
@@ -282,14 +290,18 @@
       "manufacturing": "Sanayi"
     },
     "countries": {
+      "uk": "Birleşik Krallık",
       "netherlands": "Hollanda",
       "turkey": "Türkiye",
       "poland": "Polonya",
       "sweden": "İsveç",
       "israel": "İsrail",
+      "malaysia": "Malezya",
+      "belgium": "Belçika",
       "austria": "Avusturya",
       "greece": "Yunanistan",
       "switzerland": "İsviçre",
+      "finland": "Finlandiya",
       "eu": "Avrupa Birliği"
     },
     "blog-posts": {

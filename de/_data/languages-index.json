@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -61,6 +61,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -71,14 +72,18 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "germany",
           "netherlands",
           "poland",
           "sweden",
           "israel",
+          "malaysia",
+          "belgium",
           "austria",
           "greece",
           "switzerland",
+          "finland",
           "eu"
         ],
         "blog-posts": [
@@ -111,7 +116,7 @@
       "market_country_count": 22,
       "official_countries_count": 22,
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -152,6 +157,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -167,6 +173,9 @@
           "austria",
           "poland",
           "switzerland",
+          "uk",
+          "belgium",
+          "finland",
           "greece",
           "eu"
         ],
@@ -200,7 +209,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -234,6 +243,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -299,6 +309,7 @@
       "content": "Content-Marketing",
       "social-media": "Social Media Betreuung",
       "aso": "App-Store-Optimierung",
+      "orm": "Reputationsmanagement",
       "seo": "SEO-Leistungen",
       "ppc": "Google Ads"
     },
@@ -309,14 +320,18 @@
       "manufacturing": "Fertigung"
     },
     "countries": {
+      "uk": "Vereinigtes Königreich",
       "germany": "Deutschland",
       "netherlands": "Niederlande",
       "poland": "Polen",
       "sweden": "Schweden",
       "israel": "Israel",
+      "malaysia": "Malaysia",
+      "belgium": "Belgien",
       "austria": "Österreich",
       "greece": "Griechenland",
       "switzerland": "Schweiz",
+      "finland": "Finnland",
       "eu": "Europäische Union"
     },
     "blog-posts": {

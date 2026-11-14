@@ -15,7 +15,7 @@
       "market_country_count": 3,
       "official_countries_count": 3,
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -49,6 +49,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -60,6 +61,7 @@
         ],
         "countries": [
           "netherlands",
+          "belgium",
           "eu"
         ],
         "positions": [
@@ -84,7 +86,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -130,6 +132,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -140,13 +143,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "netherlands",
           "poland",
           "sweden",
           "israel",
+          "malaysia",
+          "belgium",
           "austria",
           "greece",
           "switzerland",
+          "finland",
           "eu"
         ],
         "blog-posts": [
@@ -179,7 +186,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -213,6 +220,7 @@
           "content",
           "social-media",
           "aso",
+          "orm",
           "seo",
           "ppc"
         ],
@@ -274,6 +282,7 @@
       "content": "Contentmarketing",
       "social-media": "Social media",
       "aso": "ASO",
+      "orm": "ORM",
       "seo": "SEO",
       "ppc": "SEA"
     },
@@ -285,13 +294,17 @@
     },
     "countries": {
       "netherlands": "Nederland",
+      "belgium": "België",
       "eu": "Europese Unie",
+      "uk": "Verenigd Koninkrijk",
       "poland": "Polen",
       "sweden": "Zweden",
       "israel": "Israël",
+      "malaysia": "Maleisië",
       "austria": "Oostenrijk",
       "greece": "Griekenland",
-      "switzerland": "Zwitserland"
+      "switzerland": "Zwitserland",
+      "finland": "Finland"
     },
     "positions": {
       "seo-expert": "SEO-specialist",

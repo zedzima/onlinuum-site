@@ -36,10 +36,13 @@
           "ecommerce"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -92,10 +95,13 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
@@ -145,13 +151,17 @@
           "fintech"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -194,11 +204,15 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -251,12 +265,16 @@
           "fintech"
         ],
         "countries": [
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -309,13 +327,17 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -374,13 +396,17 @@
           "fintech"
         ],
         "countries": [
+          "uk",
           "austria",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -443,16 +469,20 @@
       "manufacturing": "תעשייה וייצור"
     },
     "countries": {
+      "uk": "בריטניה",
       "austria": "אוסטריה",
       "poland": "פולין",
+      "belgium": "בלגיה",
       "china": "סין",
       "eu": "האיחוד האירופי",
+      "finland": "פינלנד",
       "greece": "יוון",
       "israel": "ישראל",
       "japan": "יפן",
       "netherlands": "הולנד",
       "sweden": "שוודיה",
-      "switzerland": "שווייץ"
+      "switzerland": "שווייץ",
+      "malaysia": "מלזיה"
     },
     "languages": {
       "english": "אנגלית",

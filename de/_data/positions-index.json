@@ -68,6 +68,7 @@
         ],
         "countries": [
           "germany",
+          "uk",
           "austria",
           "poland"
         ],
@@ -171,6 +172,7 @@
         ],
         "countries": [
           "germany",
+          "uk",
           "netherlands"
         ],
         "languages": [
@@ -406,8 +408,10 @@
           "manufacturing"
         ],
         "countries": [
+          "uk",
           "germany",
-          "poland"
+          "poland",
+          "malaysia"
         ],
         "languages": [
           "english",
@@ -512,12 +516,16 @@
         "countries": [
           "germany",
           "austria",
+          "uk",
           "poland",
+          "belgium",
           "china",
           "eu",
+          "finland",
           "greece",
           "israel",
           "japan",
+          "malaysia",
           "netherlands",
           "sweden",
           "switzerland"
@@ -634,7 +642,8 @@
         "countries": [
           "israel",
           "germany",
-          "poland"
+          "poland",
+          "uk"
         ],
         "languages": [
           "english",
@@ -721,13 +730,17 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "uk": "Vereinigtes Königreich",
       "austria": "Österreich",
       "poland": "Polen",
       "netherlands": "Niederlande",
       "sweden": "Schweden",
       "japan": "Japan",
+      "malaysia": "Malaysia",
+      "belgium": "Belgien",
       "china": "China",
       "eu": "Europäische Union",
+      "finland": "Finnland",
       "greece": "Griechenland",
       "israel": "Israel",
       "switzerland": "Schweiz"
