@@ -879,7 +879,7 @@
       "scope": "cross-market-setup",
       "industry": "saas",
       "starting_price": 3000.0,
-      "expert_count": 14,
+      "expert_count": 15,
       "case_count": 3,
       "facets": {
         "domains": [
@@ -953,6 +953,7 @@
           "muhammad-hijazi-siddiqui",
           "netanel-kugler",
           "rita-pavide",
+          "shani-mor",
           "valentina-soldatkina"
         ],
         "cases": [
@@ -1820,6 +1821,7 @@
       "md-solayman-rumon": "Мд Солайман Румон",
       "netanel-kugler": "Нетанель Куглер",
       "rita-pavide": "Рита Павиде",
+      "shani-mor": "Шани Мор",
       "valentina-soldatkina": "Валентина Солдаткина",
       "tri-huy-do": "Чи-Хюи До",
       "ismail-aydogdu": "Исмаил Айдогду",

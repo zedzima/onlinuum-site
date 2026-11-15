@@ -1832,6 +1832,81 @@
       }
     },
     {
+      "slug": "shani-mor",
+      "url": "/team/shani-mor",
+      "title": "Шани Мор",
+      "description": "Глобальное ASO для B2C- и B2B-приложений: стратегия и локализация на многих рынках, эксперименты с конверсией и Custom Product Pages на 30+ рынках.",
+      "role": "ASO-специалист",
+      "avatar": "_media/images/team/Shani-Mor.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "arabic",
+        "english",
+        "french",
+        "german",
+        "hebrew",
+        "italian",
+        "japanese",
+        "spanish",
+        "swedish"
+      ],
+      "countries": [
+        "germany"
+      ],
+      "industries": [
+        "ecommerce",
+        "hospitality",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "app-store-cro",
+          "aso-localization",
+          "aso-optimization"
+        ],
+        "solutions": [
+          "international-marketing"
+        ],
+        "services": [
+          "app-conversion-retention",
+          "app-user-acquisition",
+          "aso",
+          "cro"
+        ],
+        "industries": [
+          "ecommerce",
+          "hospitality",
+          "retail"
+        ],
+        "countries": [
+          "germany"
+        ],
+        "languages": [
+          "arabic",
+          "english",
+          "french",
+          "german",
+          "hebrew",
+          "italian",
+          "japanese",
+          "spanish",
+          "swedish"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "syed-rafey",
       "url": "/team/syed-rafey",
       "title": "Сайед Рафи",
@@ -2374,7 +2449,8 @@
       "arabic": "Арабский",
       "urdu": "Урду",
       "hebrew": "Иврит",
-      "latvian": "Латышский"
+      "latvian": "Латышский",
+      "japanese": "Японский"
     },
     "positions": {
       "seo-expert": "SEO-специалист",
