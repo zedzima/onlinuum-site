@@ -8,7 +8,7 @@
       "menu": "이커머스",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -29,6 +29,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -37,7 +38,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -79,6 +82,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "south-korea",
           "sweden",
           "switzerland"
@@ -86,6 +90,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -112,7 +117,7 @@
       "menu": "핀테크",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -133,6 +138,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -177,6 +183,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "south-korea",
           "sweden",
           "switzerland"
@@ -184,6 +191,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ],
         "blog-posts": [
@@ -264,12 +272,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "south-korea",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "blog-posts": [
@@ -292,7 +302,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 13,
+      "scope_count": 16,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -313,6 +323,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -320,7 +331,9 @@
           "google-ads-search",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -362,6 +375,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "south-korea",
           "sweden",
           "switzerland"
@@ -369,6 +383,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -404,6 +419,7 @@
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "구글 앱 캠페인",
       "app-store-cro": "앱스토어 CRO",
       "app-retention": "앱 리텐션",
       "content-strategy": "콘텐츠 기획",
@@ -412,7 +428,9 @@
       "google-shopping": "구글 쇼핑",
       "ppc-audit": "광고 성과 분석",
       "telegram-ads": "텔레그램 광고",
-      "youtube-ads": "유튜브 광고"
+      "video-content-production": "영상 콘텐츠 제작",
+      "youtube-ads": "유튜브 광고",
+      "youtube-channel-management": "유튜브 채널 관리"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -455,6 +473,7 @@
       "japan": "일본",
       "malaysia": "말레이시아",
       "netherlands": "네덜란드",
+      "singapore": "싱가포르",
       "south-korea": "대한민국",
       "sweden": "스웨덴",
       "switzerland": "스위스"
@@ -462,6 +481,7 @@
     "languages": {
       "english": "영어",
       "arabic": "아랍어",
+      "dutch": "네덜란드어",
       "italian": "이탈리아어",
       "thai": "태국어"
     },

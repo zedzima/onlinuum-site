@@ -128,6 +128,22 @@
     "reading_time": null
   },
   {
+    "slug": "google-app-campaigns",
+    "url": "/scopes/google-app-campaigns",
+    "title": "ניהול Google App Campaigns ל-Android ו-iOS",
+    "description": "ניהול Google App Campaigns: הקמת חשבון, בדיקות קריאייטיב ואופטימיזציית הצעות מחיר לרכישת משתמשים ב-Android וב-iOS. החל מ-$400. ראו מחירים.",
+    "lang": "he",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 400,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "google-shopping",
     "url": "/scopes/google-shopping",
     "title": "פרסום בגוגל שופינג: ניהול פיד ובקרת ROAS",
@@ -208,6 +224,22 @@
     "reading_time": null
   },
   {
+    "slug": "video-content-production",
+    "url": "/scopes/video-content-production",
+    "title": "הפקת וידאו: תסריטים ועריכת סרטונים",
+    "description": "הפקת וידאו לתוכן: קונספטים קריאייטיביים, כתיבת תסריט, עריכת סרטונים וגרסאות קצרות. מודול בסיסי החל מ-$1,700 לחודש. ראו מחירים.",
+    "lang": "he",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1700,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "youtube-ads",
     "url": "/scopes/youtube-ads",
     "title": "פרסום ביוטיוב: ניהול YouTube Ads",
@@ -218,6 +250,22 @@
     "tags": [],
     "price": 1200,
     "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "youtube-channel-management",
+    "url": "/scopes/youtube-channel-management",
+    "title": "ניהול ערוץ יוטיוב החל מ-$1,200 לחודש",
+    "description": "ניהול ערוץ יוטיוב מלא: אסטרטגיה, העלאה, מטא-דאטה, תמונות ממוזערות, קהילה ואנליטיקה. גם ערוצים רב לשוניים. החל מ-$1,200 לחודש.",
+    "lang": "he",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1200,
+    "featured": true,
     "date": "",
     "author": "",
     "type": "scope",

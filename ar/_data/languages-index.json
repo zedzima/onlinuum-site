@@ -63,6 +63,79 @@
       }
     },
     {
+      "slug": "dutch",
+      "url": "/languages/dutch",
+      "title": "Dutch Marketing: التسويق باللغة الهولندية بخبراء أصليين",
+      "description": "Dutch marketing للعلامات الداخلة إلى هولندا وبلجيكا الفلمنكية: خبراء هولنديون أصليون وخدمات ذات نطاق محدد. استكشفوا الخدمات.",
+      "menu": "الهولندية",
+      "featured": false,
+      "flag": "",
+      "code": "NL",
+      "native_speakers_l1": "31.9M",
+      "market_speakers_display": "31.9M",
+      "market_speakers_est": 31930799,
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "netherlands",
+          "belgium",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "كتابة محتوى بالإنجليزية بأيدي متحدثين أصليين",
@@ -76,7 +149,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -97,6 +170,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -105,7 +179,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -146,6 +222,7 @@
           "malaysia",
           "belgium",
           "austria",
+          "singapore",
           "greece",
           "denmark",
           "ireland",
@@ -184,7 +261,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
@@ -205,6 +282,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -344,13 +422,16 @@
       "technical-seo": "السيو التقني",
       "aso-optimization": "تحسين ASO",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "حملات التطبيقات في Google",
       "app-store-cro": "App Store CRO",
       "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "content-strategy": "استراتيجية المحتوى",
       "content-writing": "كتابة المحتوى",
       "google-shopping": "Google Shopping",
       "telegram-ads": "إعلانات تليجرام",
-      "youtube-ads": "YouTube Ads"
+      "video-content-production": "إنتاج محتوى الفيديو",
+      "youtube-ads": "YouTube Ads",
+      "youtube-channel-management": "إدارة قناة YouTube"
     },
     "solutions": {
       "digital-marketing-consulting": "استشارات التسويق الرقمي",
@@ -375,22 +456,23 @@
       "uae": "الإمارات",
       "israel": "إسرائيل",
       "canada": "كندا",
+      "netherlands": "هولندا",
+      "belgium": "بلجيكا",
+      "eu": "الاتحاد الأوروبي",
       "uk": "المملكة المتحدة",
       "france": "فرنسا",
-      "netherlands": "هولندا",
       "poland": "بولندا",
       "spain": "إسبانيا",
       "sweden": "السويد",
       "malaysia": "ماليزيا",
-      "belgium": "بلجيكا",
       "austria": "النمسا",
+      "singapore": "سنغافورة",
       "greece": "اليونان",
       "denmark": "الدنمارك",
       "ireland": "أيرلندا",
       "switzerland": "سويسرا",
       "finland": "فنلندا",
       "portugal": "البرتغال",
-      "eu": "الاتحاد الأوروبي",
       "japan": "اليابان"
     },
     "positions": {
@@ -402,8 +484,8 @@
       "social-media-manager": "أخصائي سوشيال ميديا"
     },
     "experts": {
-      "dima-gerko": "ديما غيركو",
       "vitali-bakun": "فيتالي باكون",
+      "dima-gerko": "ديما غيركو",
       "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
     },
     "cases": {

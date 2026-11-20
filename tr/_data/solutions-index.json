@@ -28,6 +28,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -73,6 +74,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -80,6 +82,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -152,6 +155,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -159,6 +163,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -190,6 +195,7 @@
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
@@ -235,6 +241,7 @@
       "japan": "Japonya",
       "malaysia": "Malezya",
       "netherlands": "Hollanda",
+      "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "turkey": "Türkiye"
@@ -242,6 +249,7 @@
     "languages": {
       "english": "İngilizce",
       "arabic": "Arapça",
+      "dutch": "Felemenkçe",
       "italian": "İtalyanca",
       "thai": "Tayca",
       "turkish": "Türkçe"

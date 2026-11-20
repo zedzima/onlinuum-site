@@ -110,6 +110,7 @@
           "aso-localization",
           "aso-optimization",
           "content-strategy",
+          "google-app-campaigns",
           "ppc-audit"
         ],
         "cases": [
@@ -149,6 +150,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -236,6 +238,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "spain",
           "sweden",
           "switzerland",
@@ -268,6 +271,7 @@
       "aso-localization": "App vertalen",
       "aso-optimization": "ASO-optimalisatie",
       "content-strategy": "Contentstrategie",
+      "google-app-campaigns": "Google App Campaigns-beheer",
       "ppc-audit": "SEA-audit",
       "google-ads-search": "Google Ads-zoekcampagnes",
       "google-shopping": "Google Shopping",
@@ -303,6 +307,7 @@
       "japan": "Japan",
       "malaysia": "Maleisië",
       "netherlands": "Nederland",
+      "singapore": "Singapore",
       "sweden": "Zweden",
       "switzerland": "Zwitserland"
     },

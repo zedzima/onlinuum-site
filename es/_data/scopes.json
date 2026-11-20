@@ -128,6 +128,22 @@
     "reading_time": null
   },
   {
+    "slug": "google-app-campaigns",
+    "url": "/scopes/google-app-campaigns",
+    "title": "Gestión de Google App Campaigns para Android e iOS",
+    "description": "Gestión de Google App Campaigns: configuración de cuenta, test creativo y optimización de pujas para captar usuarios en Android e iOS. Desde 400 $.",
+    "lang": "es",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 400,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "google-shopping",
     "url": "/scopes/google-shopping",
     "title": "Gestión de Google Shopping: Feed, Merchant Center y ROAS",
@@ -208,6 +224,22 @@
     "reading_time": null
   },
   {
+    "slug": "video-content-production",
+    "url": "/scopes/video-content-production",
+    "title": "Producción de Vídeo: Guiones y Edición",
+    "description": "Producción de vídeo: conceptos creativos, guiones, edición y cortes en formato corto. Módulo base desde 1.700 $/mes. Consulta los precios.",
+    "lang": "es",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1700,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "youtube-ads",
     "url": "/scopes/youtube-ads",
     "title": "YouTube Ads: Gestión de Campañas de Publicidad",
@@ -218,6 +250,22 @@
     "tags": [],
     "price": 1200,
     "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "youtube-channel-management",
+    "url": "/scopes/youtube-channel-management",
+    "title": "Agencia de YouTube: Gestión de Canales desde 1.200 $/mes",
+    "description": "Agencia de YouTube para gestionar tu canal: estrategia, publicación, metadatos, miniaturas, comunidad y analítica. Canales multiidioma. Desde 1.200 $/mes.",
+    "lang": "es",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1200,
+    "featured": true,
     "date": "",
     "author": "",
     "type": "scope",

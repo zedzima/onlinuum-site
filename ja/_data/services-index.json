@@ -7,7 +7,7 @@
       "description": "アプリ広告の運用代行。Apple Search Ads、Google アプリキャンペーン、SNS広告でインストールを獲得します。料金プランをご覧ください。",
       "menu": "アプリの集客と広告運用",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -24,7 +24,8 @@
           "performance-marketing"
         ],
         "scopes": [
-          "apple-search-ads"
+          "apple-search-ads",
+          "google-app-campaigns"
         ],
         "experts": [
           "dima-gerko"
@@ -55,11 +56,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -123,11 +126,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -199,12 +204,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -250,12 +257,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ]
       }
@@ -323,12 +332,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -399,12 +410,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -462,12 +475,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -487,6 +502,7 @@
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google アプリキャンペーン",
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
       "seo-research": "キーワード選定",
@@ -532,12 +548,14 @@
       "israel": "イスラエル",
       "japan": "日本",
       "netherlands": "オランダ",
+      "singapore": "シンガポール",
       "sweden": "スウェーデン",
       "switzerland": "スイス",
       "malaysia": "マレーシア"
     },
     "languages": {
       "english": "英語",
+      "dutch": "オランダ語",
       "italian": "イタリア語",
       "arabic": "アラビア語",
       "thai": "タイ語"

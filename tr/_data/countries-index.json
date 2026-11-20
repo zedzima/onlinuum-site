@@ -14,7 +14,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Almanca",
       "dominant_language_code": "de",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
@@ -33,6 +33,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy"
@@ -83,7 +84,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "İngilizce",
       "dominant_language_code": "en",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -104,6 +105,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -131,7 +133,8 @@
           "manufacturing"
         ],
         "languages": [
-          "english"
+          "english",
+          "dutch"
         ],
         "positions": [
           "seo-expert"
@@ -152,7 +155,7 @@
       "significant_languages_count": 11,
       "dominant_language_name": "İngilizce",
       "dominant_language_code": "en",
-      "scope_count": 7,
+      "scope_count": 10,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -173,8 +176,11 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
-          "app-retention"
+          "app-retention",
+          "video-content-production",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -223,7 +229,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Çince",
       "dominant_language_code": "zh",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -244,6 +250,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -289,7 +296,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Danca",
       "dominant_language_code": "da",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 0,
       "case_count": 0,
@@ -310,6 +317,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -354,7 +362,7 @@
       "significant_languages_count": 20,
       "dominant_language_name": "İngilizce",
       "dominant_language_code": "en",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 2,
@@ -375,6 +383,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -408,7 +417,8 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "italian",
+          "dutch"
         ],
         "positions": [
           "seo-expert"
@@ -429,7 +439,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Fince",
       "dominant_language_code": "fi",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 0,
       "case_count": 0,
@@ -450,6 +460,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -494,7 +505,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "Fransızca",
       "dominant_language_code": "fr",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -514,6 +525,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -574,7 +586,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Yunanca",
       "dominant_language_code": "el",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -595,6 +607,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -644,7 +657,7 @@
       "significant_languages_count": 2,
       "dominant_language_name": "İngilizce",
       "dominant_language_code": "en",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -665,6 +678,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -713,7 +727,7 @@
       "significant_languages_count": 7,
       "dominant_language_name": "İbranice",
       "dominant_language_code": "he",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -734,6 +748,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -784,7 +799,7 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Japonca",
       "dominant_language_code": "ja",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -805,6 +820,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -917,7 +933,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "Felemenkçe",
       "dominant_language_code": "nl",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -938,6 +954,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -965,6 +982,7 @@
           "manufacturing"
         ],
         "languages": [
+          "dutch",
           "english",
           "turkish"
         ],
@@ -989,7 +1007,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Lehçe",
       "dominant_language_code": "pl",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -1009,6 +1027,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -1070,7 +1089,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Portekizce",
       "dominant_language_code": "pt",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -1089,6 +1108,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy"
@@ -1128,6 +1148,80 @@
       }
     },
     {
+      "slug": "singapore",
+      "url": "/countries/singapore",
+      "title": "Singapur İhracatı İçin Dijital Pazarlama Ajansı",
+      "description": "Singapur ihracat pazarından Asya-Pasifik'e açılan markalar için dijital pazarlama ajansı: paketlenmiş SEO, içerik ve reklam, yerel ofis gerekmez.",
+      "menu": "Singapur",
+      "featured": false,
+      "flag": "🇸🇬",
+      "population_total": "6.03M",
+      "population_total_raw": 6028460,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "İngilizce",
+      "dominant_language_code": "en",
+      "scope_count": 11,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "spain",
       "url": "/countries/spain",
       "title": "İspanya İhracatı İçin Dijital Pazarlama Ajansı",
@@ -1141,7 +1235,7 @@
       "significant_languages_count": 3,
       "dominant_language_name": "İspanyolca",
       "dominant_language_code": "es",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -1161,6 +1255,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -1222,7 +1317,7 @@
       "significant_languages_count": 3,
       "dominant_language_name": "İsveççe",
       "dominant_language_code": "sv",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -1243,6 +1338,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -1292,7 +1388,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Almanca",
       "dominant_language_code": "de",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -1313,6 +1409,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -1427,7 +1524,7 @@
       "significant_languages_count": 9,
       "dominant_language_name": "İngilizce",
       "dominant_language_code": "en",
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
@@ -1448,6 +1545,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -1456,7 +1554,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "vitali-bakun",
@@ -1515,9 +1615,12 @@
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
+      "video-content-production": "Video İçerik Prodüksiyonu",
+      "youtube-channel-management": "YouTube Kanal Yönetimi",
       "content-writing": "İçerik Yazarlığı",
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
@@ -1552,6 +1655,7 @@
     "languages": {
       "english": "İngilizce",
       "italian": "İtalyanca",
+      "dutch": "Felemenkçe",
       "arabic": "Arapça",
       "turkish": "Türkçe",
       "japanese": "Japonca"

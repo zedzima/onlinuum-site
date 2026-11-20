@@ -8,7 +8,7 @@
       "menu": "EC",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -29,6 +29,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -37,7 +38,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -79,12 +82,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -111,7 +116,7 @@
       "menu": "フィンテック",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -132,6 +137,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -176,12 +182,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ],
         "blog-posts": [
@@ -262,11 +270,13 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "blog-posts": [
@@ -289,7 +299,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 13,
+      "scope_count": 16,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -310,6 +320,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -317,7 +328,9 @@
           "google-ads-search",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -359,12 +372,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -400,6 +415,7 @@
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google アプリキャンペーン",
       "app-store-cro": "App Store CRO",
       "app-retention": "アプリのリテンション",
       "content-strategy": "コンテンツ戦略",
@@ -408,7 +424,9 @@
       "google-shopping": "Googleショッピング広告",
       "ppc-audit": "広告アカウント診断",
       "telegram-ads": "Telegram Ads",
-      "youtube-ads": "YouTube広告"
+      "video-content-production": "動画制作",
+      "youtube-ads": "YouTube広告",
+      "youtube-channel-management": "YouTubeチャンネル運用"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
@@ -451,12 +469,14 @@
       "japan": "日本",
       "malaysia": "マレーシア",
       "netherlands": "オランダ",
+      "singapore": "シンガポール",
       "sweden": "スウェーデン",
       "switzerland": "スイス"
     },
     "languages": {
       "english": "英語",
       "arabic": "アラビア語",
+      "dutch": "オランダ語",
       "italian": "イタリア語",
       "thai": "タイ語"
     },

@@ -128,6 +128,22 @@
     "reading_time": null
   },
   {
+    "slug": "google-app-campaigns",
+    "url": "/scopes/google-app-campaigns",
+    "title": "Gestione Google App Campaigns per Android e iOS",
+    "description": "Gestione Google App Campaigns: configurazione dell'account, test creativi e ottimizzazione delle offerte per installazioni Android e iOS. Da 400 $.",
+    "lang": "it",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 400,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "google-shopping",
     "url": "/scopes/google-shopping",
     "title": "Gestione Google Shopping: Feed, Merchant Center e ROAS",
@@ -208,6 +224,22 @@
     "reading_time": null
   },
   {
+    "slug": "video-content-production",
+    "url": "/scopes/video-content-production",
+    "title": "Produzione video: script e montaggio",
+    "description": "Produzione video aziendali: concept creativi, script video, montaggio video e versioni brevi. Modulo base da 1.700 $/mese. Vedi i prezzi.",
+    "lang": "it",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1700,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "youtube-ads",
     "url": "/scopes/youtube-ads",
     "title": "YouTube Ads: Gestione della Pubblicità su YouTube",
@@ -218,6 +250,22 @@
     "tags": [],
     "price": 1200,
     "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "youtube-channel-management",
+    "url": "/scopes/youtube-channel-management",
+    "title": "Gestione canale YouTube: servizi da 1.200 $/mese",
+    "description": "Gestione canale YouTube completa: strategia, pubblicazione, metadati, miniature, community e analisi. Anche canali multilingue. Da 1.200 $/mese.",
+    "lang": "it",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1200,
+    "featured": true,
     "date": "",
     "author": "",
     "type": "scope",

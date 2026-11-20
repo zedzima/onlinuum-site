@@ -47,11 +47,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -108,11 +110,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -172,11 +176,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -236,12 +242,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -302,11 +310,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -458,7 +468,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -470,6 +481,72 @@
         ]
       },
       "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Google アプリキャンペーンの運用代行｜Android・iOS",
+      "description": "Google アプリキャンペーンの運用代行。アカウント設定、クリエイティブのテスト、入札の最適化でAndroidとiOSの集客を伸ばします。$400 から。",
+      "menu": "Google アプリキャンペーン",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
       "article_count": 0
     },
     {
@@ -509,7 +586,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -561,7 +639,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -633,12 +712,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -708,12 +789,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -774,6 +857,40 @@
       "article_count": 0
     },
     {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "動画制作｜企画・台本・編集を月額 $1,700から",
+      "description": "動画制作のメニュー。企画、台本作成、編集、ショート動画への切り出しまで。基本モジュールは月額 $1,700 から。料金は下記をご覧ください。",
+      "menu": "動画制作",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "youtube-ads",
       "url": "/scopes/youtube-ads",
       "title": "YouTube広告の運用代行｜設定・ターゲティング・クリエイティブ",
@@ -816,6 +933,42 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "YouTube運用代行｜月額 $1,200からのチャンネル運用",
+      "description": "YouTube運用代行のメニュー。戦略、公開、メタデータ（YouTube SEO）、サムネイル、コミュニティ、分析まで。多言語チャンネルにも対応、月額 $1,200 から。",
+      "menu": "YouTubeチャンネル運用",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -864,12 +1017,14 @@
       "israel": "イスラエル",
       "japan": "日本",
       "netherlands": "オランダ",
+      "singapore": "シンガポール",
       "sweden": "スウェーデン",
       "switzerland": "スイス",
       "malaysia": "マレーシア"
     },
     "languages": {
       "english": "英語",
+      "dutch": "オランダ語",
       "italian": "イタリア語",
       "arabic": "アラビア語",
       "thai": "タイ語"

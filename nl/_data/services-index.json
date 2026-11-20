@@ -7,7 +7,7 @@
       "description": "App user acquisition: Apple Search Ads, Google App Campaigns en betaalde social voor app installs. Vanaf $ 400/maand. Bekijk de prijzen.",
       "menu": "App user acquisition",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -24,7 +24,8 @@
           "performance-marketing"
         ],
         "scopes": [
-          "apple-search-ads"
+          "apple-search-ads",
+          "google-app-campaigns"
         ],
         "experts": [
           "dima-gerko"
@@ -55,6 +56,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -124,6 +126,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -201,6 +204,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -253,6 +257,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -327,6 +332,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -404,6 +410,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -468,6 +475,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -494,6 +502,7 @@
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns-beheer",
       "aso-optimization": "ASO-optimalisatie",
       "aso-localization": "App vertalen",
       "seo-research": "Zoekwoordenonderzoek",
@@ -539,6 +548,7 @@
       "israel": "Israël",
       "japan": "Japan",
       "netherlands": "Nederland",
+      "singapore": "Singapore",
       "sweden": "Zweden",
       "switzerland": "Zwitserland",
       "malaysia": "Maleisië"

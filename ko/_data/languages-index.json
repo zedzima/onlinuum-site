@@ -62,6 +62,79 @@
       }
     },
     {
+      "slug": "dutch",
+      "url": "/languages/dutch",
+      "title": "네덜란드어 마케팅: 네덜란드·플랑드르 원어민 전문가",
+      "description": "네덜란드와 벨기에 플랑드르 지역에 진출하는 브랜드를 위한 네덜란드어 마케팅. 네덜란드어 원어민 전문가가 상품화된 방식으로 실행합니다.",
+      "menu": "네덜란드어",
+      "featured": false,
+      "flag": "",
+      "code": "NL",
+      "native_speakers_l1": "31.9M",
+      "market_speakers_display": "31.9M",
+      "market_speakers_est": 31930799,
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "netherlands",
+          "belgium",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "미국 마케팅: 영문 사이트와 영어 광고 운영",
@@ -75,7 +148,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -96,6 +169,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -104,7 +178,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -145,6 +221,7 @@
           "malaysia",
           "belgium",
           "austria",
+          "singapore",
           "greece",
           "denmark",
           "ireland",
@@ -182,7 +259,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
@@ -203,6 +280,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -370,13 +448,16 @@
       "technical-seo": "테크니컬 SEO",
       "aso-optimization": "ASO 최적화",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "구글 앱 캠페인",
       "app-store-cro": "앱스토어 CRO",
       "app-retention": "앱 리텐션",
       "content-strategy": "콘텐츠 기획",
       "content-writing": "블로그 대행",
       "google-shopping": "구글 쇼핑",
       "telegram-ads": "텔레그램 광고",
-      "youtube-ads": "유튜브 광고"
+      "video-content-production": "영상 콘텐츠 제작",
+      "youtube-ads": "유튜브 광고",
+      "youtube-channel-management": "유튜브 채널 관리"
     },
     "solutions": {
       "digital-marketing-consulting": "디지털 마케팅 컨설팅",
@@ -400,22 +481,23 @@
     "countries": {
       "israel": "이스라엘",
       "canada": "캐나다",
+      "netherlands": "네덜란드",
+      "belgium": "벨기에",
+      "eu": "유럽연합",
       "uk": "영국",
       "france": "프랑스",
-      "netherlands": "네덜란드",
       "poland": "폴란드",
       "spain": "스페인",
       "sweden": "스웨덴",
       "malaysia": "말레이시아",
-      "belgium": "벨기에",
       "austria": "오스트리아",
+      "singapore": "싱가포르",
       "greece": "그리스",
       "denmark": "덴마크",
       "ireland": "아일랜드",
       "switzerland": "스위스",
       "finland": "핀란드",
       "portugal": "포르투갈",
-      "eu": "유럽연합",
       "japan": "일본",
       "south-korea": "대한민국"
     },
@@ -428,8 +510,8 @@
       "social-media-manager": "SNS 마케터"
     },
     "experts": {
-      "dima-gerko": "디마 게르코",
       "vitali-bakun": "비탈리 바쿤",
+      "dima-gerko": "디마 게르코",
       "alaaddin-saracyakupoglu": "알라딘 사라차쿠포글루"
     },
     "cases": {

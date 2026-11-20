@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -182,6 +183,7 @@
         "languages": [
           "english",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -295,6 +297,7 @@
         ],
         "languages": [
           "italian",
+          "dutch",
           "polish",
           "japanese",
           "arabic",
@@ -419,7 +422,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -539,6 +543,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -547,6 +552,7 @@
           "polish",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -640,6 +646,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -717,6 +724,7 @@
       "app-store-cro": "CRO karty aplikacji",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "Retencja aplikacji",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "seo-research": "Analiza SEO",
       "content-strategy": "Strategia treści",
       "telegram-ads": "Reklama na Telegramie",
@@ -724,7 +732,8 @@
       "google-ads-search": "Reklama w Google",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
-      "technical-seo": "SEO techniczne"
+      "technical-seo": "SEO techniczne",
+      "youtube-channel-management": "Prowadzenie kanału na YouTube"
     },
     "solutions": {
       "digital-marketing-consulting": "Doradztwo marketingowe",
@@ -755,6 +764,7 @@
       "sweden": "Szwecja",
       "japan": "Japonia",
       "malaysia": "Malezja",
+      "singapore": "Singapur",
       "belgium": "Belgia",
       "canada": "Kanada",
       "china": "Chiny",
@@ -770,6 +780,7 @@
       "english": "Angielski",
       "polish": "Polski",
       "italian": "Włoski",
+      "dutch": "Niderlandzki",
       "arabic": "Arabski",
       "japanese": "Japoński",
       "thai": "Tajski"

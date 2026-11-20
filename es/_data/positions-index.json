@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -183,6 +184,7 @@
           "english",
           "spanish",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -297,6 +299,7 @@
         "languages": [
           "spanish",
           "italian",
+          "dutch",
           "japanese",
           "arabic",
           "english"
@@ -420,7 +423,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -541,6 +545,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -549,6 +554,7 @@
           "spanish",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -642,6 +648,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -719,6 +726,7 @@
       "app-store-cro": "CRO en App Store",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "Retención de usuarios",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "seo-research": "Keyword research",
       "content-strategy": "Estrategia de contenidos",
       "telegram-ads": "Telegram Ads",
@@ -726,7 +734,8 @@
       "google-ads-search": "Búsqueda en Google Ads",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
-      "technical-seo": "SEO técnico"
+      "technical-seo": "SEO técnico",
+      "youtube-channel-management": "Gestión de canales de YouTube"
     },
     "solutions": {
       "digital-marketing-consulting": "Consultoría de marketing digital",
@@ -757,6 +766,7 @@
       "sweden": "Suecia",
       "japan": "Japón",
       "malaysia": "Malasia",
+      "singapore": "Singapur",
       "belgium": "Bélgica",
       "canada": "Canadá",
       "china": "China",
@@ -772,6 +782,7 @@
       "english": "Inglés",
       "spanish": "Español",
       "italian": "Italiano",
+      "dutch": "Neerlandés",
       "arabic": "Árabe",
       "japanese": "Japonés",
       "thai": "Tailandés"

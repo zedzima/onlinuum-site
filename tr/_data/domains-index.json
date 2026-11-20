@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -18,6 +18,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -54,11 +55,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -75,13 +78,15 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 2,
+      "scope_count": 4,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "youtube-channel-management",
+          "video-content-production",
           "content-strategy"
         ],
         "experts": [
@@ -119,11 +124,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -182,6 +189,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -189,6 +197,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -240,6 +249,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -247,6 +257,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -262,7 +273,7 @@
       "featured": true,
       "icon": "target",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 1,
       "case_count": 2,
       "expert_count": 2,
@@ -272,6 +283,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "video-content-production",
           "telegram-ads"
         ],
         "experts": [
@@ -312,6 +324,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -319,6 +332,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -385,6 +399,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -392,6 +407,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -464,6 +480,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -471,6 +488,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -494,9 +512,12 @@
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "seo-research": "SEO Araştırması",
+      "youtube-channel-management": "YouTube Kanal Yönetimi",
+      "video-content-production": "Video İçerik Prodüksiyonu",
       "content-strategy": "İçerik Stratejisi",
       "ppc-audit": "Reklam Analizi",
       "google-ads-search": "Google Ads Arama Ağı",
@@ -547,6 +568,7 @@
       "israel": "İsrail",
       "japan": "Japonya",
       "netherlands": "Hollanda",
+      "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "malaysia": "Malezya",
@@ -554,6 +576,7 @@
     },
     "languages": {
       "english": "İngilizce",
+      "dutch": "Felemenkçe",
       "italian": "İtalyanca",
       "arabic": "Arapça",
       "thai": "Tayca",

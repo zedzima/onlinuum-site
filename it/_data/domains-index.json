@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -18,6 +18,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -55,11 +56,13 @@
           "italy",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -76,13 +79,15 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 2,
+      "scope_count": 4,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "youtube-channel-management",
+          "video-content-production",
           "content-strategy"
         ],
         "experts": [
@@ -121,11 +126,13 @@
           "italy",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -185,12 +192,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -242,12 +251,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ]
@@ -262,7 +273,7 @@
       "featured": true,
       "icon": "target",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 1,
       "case_count": 2,
       "expert_count": 2,
@@ -272,6 +283,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "video-content-production",
           "telegram-ads"
         ],
         "experts": [
@@ -313,12 +325,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -385,12 +399,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ]
@@ -463,12 +479,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -491,9 +509,12 @@
       "aso-optimization": "Ottimizzazione ASO",
       "aso-localization": "Localizzazione ASO",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Gestione Google App Campaigns",
       "app-store-cro": "CRO per App Store",
       "app-retention": "App retention",
       "seo-research": "Ricerca SEO",
+      "youtube-channel-management": "Gestione canale YouTube",
+      "video-content-production": "Produzione di contenuti video",
       "content-strategy": "Content strategy",
       "ppc-audit": "Audit PPC",
       "google-ads-search": "Campagne Google Ads",
@@ -545,12 +566,14 @@
       "italy": "Italia",
       "japan": "Giappone",
       "netherlands": "Paesi Bassi",
+      "singapore": "Singapore",
       "sweden": "Svezia",
       "switzerland": "Svizzera",
       "malaysia": "Malesia"
     },
     "languages": {
       "english": "Inglese",
+      "dutch": "Olandese",
       "italian": "Italiano",
       "arabic": "Arabo",
       "thai": "Tailandese"

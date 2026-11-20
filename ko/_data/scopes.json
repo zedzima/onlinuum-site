@@ -128,6 +128,22 @@
     "reading_time": null
   },
   {
+    "slug": "google-app-campaigns",
+    "url": "/scopes/google-app-campaigns",
+    "title": "구글 앱 캠페인 운영 대행: Android·iOS 앱 설치",
+    "description": "구글 앱 캠페인 운영 대행: 계정 설정, 크리에이티브 테스트, 입찰 최적화로 Android·iOS 앱 설치를 늘립니다. $400부터, 가격은 아래에서 확인하십시오.",
+    "lang": "ko",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 400,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "google-shopping",
     "url": "/scopes/google-shopping",
     "title": "구글 쇼핑 광고 운영: 피드 최적화와 ROAS 관리",
@@ -208,6 +224,22 @@
     "reading_time": null
   },
   {
+    "slug": "video-content-production",
+    "url": "/scopes/video-content-production",
+    "title": "영상 제작: 기획, 대본, 편집, 숏폼까지",
+    "description": "영상 제작 모듈: 크리에이티브 콘셉트, 대본, 편집, 숏폼 제작까지 맡습니다. 기본 모듈은 $1,700/월부터이며 가격은 아래에서 확인하실 수 있습니다.",
+    "lang": "ko",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1700,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "youtube-ads",
     "url": "/scopes/youtube-ads",
     "title": "유튜브 광고 운영 대행: 캠페인 설계, 타기팅, 리포트",
@@ -218,6 +250,22 @@
     "tags": [],
     "price": 1200,
     "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "youtube-channel-management",
+    "url": "/scopes/youtube-channel-management",
+    "title": "유튜브 채널 관리 대행: $1,200/월부터",
+    "description": "유튜브 채널 관리: 채널 전략, 업로드, 메타데이터, 썸네일, 커뮤니티, 분석까지 맡습니다. 다국어 채널도 운영합니다. $1,200/월부터.",
+    "lang": "ko",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 1200,
+    "featured": true,
     "date": "",
     "author": "",
     "type": "scope",

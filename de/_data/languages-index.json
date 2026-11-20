@@ -62,6 +62,80 @@
       }
     },
     {
+      "slug": "dutch",
+      "url": "/languages/dutch",
+      "title": "Marketing auf Niederländisch von Muttersprachlern",
+      "description": "Marketing auf Niederländisch für Marken, die in die Niederlande und nach Flandern gehen: Muttersprachler, feste Leistungspakete. Leistungen entdecken.",
+      "menu": "Niederländisch",
+      "featured": false,
+      "flag": "",
+      "code": "NL",
+      "native_speakers_l1": "31.9M",
+      "market_speakers_display": "31.9M",
+      "market_speakers_est": 31930799,
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "netherlands",
+          "germany",
+          "belgium",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "Marketing auf Englisch: Native Texte und SEO",
@@ -75,7 +149,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -96,6 +170,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -104,7 +179,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -146,6 +223,7 @@
           "malaysia",
           "belgium",
           "austria",
+          "singapore",
           "greece",
           "denmark",
           "ireland",
@@ -183,7 +261,7 @@
       "market_speakers_est": 138313919,
       "market_country_count": 22,
       "official_countries_count": 22,
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
@@ -204,6 +282,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -212,7 +291,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "vitali-bakun"
@@ -280,7 +361,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
@@ -301,6 +382,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -441,13 +523,16 @@
       "technical-seo": "Technisches SEO",
       "aso-optimization": "ASO-Optimierung",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google-App-Kampagnen",
       "app-store-cro": "App-Store-CRO",
       "app-retention": "App-Retention",
       "content-strategy": "Content-Strategie",
       "content-writing": "Texterstellung",
       "google-shopping": "Google Shopping Ads",
       "telegram-ads": "Telegram-Werbung",
-      "youtube-ads": "YouTube-Werbung"
+      "video-content-production": "Videoproduktion",
+      "youtube-ads": "YouTube-Werbung",
+      "youtube-channel-management": "YouTube-Kanalmanagement"
     },
     "solutions": {
       "digital-marketing-consulting": "Online-Marketing-Beratung",
@@ -471,23 +556,24 @@
     "countries": {
       "israel": "Israel",
       "canada": "Kanada",
-      "uk": "Vereinigtes Königreich",
-      "germany": "Deutschland",
-      "france": "Frankreich",
       "netherlands": "Niederlande",
+      "germany": "Deutschland",
+      "belgium": "Belgien",
+      "eu": "Europäische Union",
+      "uk": "Vereinigtes Königreich",
+      "france": "Frankreich",
       "poland": "Polen",
       "spain": "Spanien",
       "sweden": "Schweden",
       "malaysia": "Malaysia",
-      "belgium": "Belgien",
       "austria": "Österreich",
+      "singapore": "Singapur",
       "greece": "Griechenland",
       "denmark": "Dänemark",
       "ireland": "Irland",
       "switzerland": "Schweiz",
       "finland": "Finnland",
       "portugal": "Portugal",
-      "eu": "Europäische Union",
       "japan": "Japan"
     },
     "positions": {
@@ -499,8 +585,8 @@
       "social-media-manager": "Social-Media-Manager"
     },
     "experts": {
-      "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun",
+      "dima-gerko": "Dima Gerko",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "cases": {

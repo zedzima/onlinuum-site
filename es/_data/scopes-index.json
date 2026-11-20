@@ -47,12 +47,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "spanish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -109,12 +111,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "spanish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -174,12 +178,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "spanish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -239,6 +245,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -246,6 +253,7 @@
           "english",
           "spanish",
           "arabic",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -306,12 +314,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "spanish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -465,7 +475,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -478,6 +489,73 @@
         ]
       },
       "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Gestión de Google App Campaigns para Android e iOS",
+      "description": "Gestión de Google App Campaigns: configuración de cuenta, test creativo y optimización de pujas para captar usuarios en Android e iOS. Desde 400 $.",
+      "menu": "Google App Campaigns (UAC)",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
       "article_count": 0
     },
     {
@@ -517,7 +595,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -570,7 +649,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -643,6 +723,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -650,6 +731,7 @@
           "english",
           "spanish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -719,6 +801,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -726,6 +809,7 @@
           "english",
           "spanish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -786,6 +870,40 @@
       "article_count": 0
     },
     {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Producción de Vídeo: Guiones y Edición",
+      "description": "Producción de vídeo: conceptos creativos, guiones, edición y cortes en formato corto. Módulo base desde 1.700 $/mes. Consulta los precios.",
+      "menu": "Producción de vídeo",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "youtube-ads",
       "url": "/scopes/youtube-ads",
       "title": "YouTube Ads: Gestión de Campañas de Publicidad",
@@ -829,6 +947,42 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "Agencia de YouTube: Gestión de Canales desde 1.200 $/mes",
+      "description": "Agencia de YouTube para gestionar tu canal: estrategia, publicación, metadatos, miniaturas, comunidad y analítica. Canales multiidioma. Desde 1.200 $/mes.",
+      "menu": "Gestión de canales de YouTube",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -877,6 +1031,7 @@
       "israel": "Israel",
       "japan": "Japón",
       "netherlands": "Países Bajos",
+      "singapore": "Singapur",
       "sweden": "Suecia",
       "switzerland": "Suiza",
       "malaysia": "Malasia"
@@ -884,6 +1039,7 @@
     "languages": {
       "english": "Inglés",
       "spanish": "Español",
+      "dutch": "Neerlandés",
       "italian": "Italiano",
       "arabic": "Árabe",
       "thai": "Tailandés"

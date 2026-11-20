@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -419,7 +420,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -539,6 +541,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -640,6 +643,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -716,6 +720,7 @@
       "app-store-cro": "App store-CRO",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "App retention",
+      "google-app-campaigns": "Google App Campaigns-beheer",
       "seo-research": "Zoekwoordenonderzoek",
       "content-strategy": "Contentstrategie",
       "telegram-ads": "Telegram Ads-beheer",
@@ -723,7 +728,8 @@
       "google-ads-search": "Google Ads-zoekcampagnes",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads-beheer",
-      "technical-seo": "Technische SEO"
+      "technical-seo": "Technische SEO",
+      "youtube-channel-management": "YouTube-kanaalbeheer"
     },
     "solutions": {
       "digital-marketing-consulting": "Online marketing advies",
@@ -754,6 +760,7 @@
       "sweden": "Zweden",
       "japan": "Japan",
       "malaysia": "Maleisië",
+      "singapore": "Singapore",
       "belgium": "België",
       "canada": "Canada",
       "china": "China",

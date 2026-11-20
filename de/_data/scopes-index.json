@@ -48,12 +48,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "german",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -111,12 +113,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "german",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -177,12 +181,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "german",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -243,6 +249,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -250,6 +257,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -311,12 +319,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "german",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -473,7 +483,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -486,6 +497,74 @@
         ]
       },
       "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Google App Campaigns Betreuung für Android und iOS",
+      "description": "Google App Campaigns mit Betreuung: Kontoeinrichtung, Kreativtests und Gebotsoptimierung für Installationen auf Android und iOS. Ab 400 $. Preise ansehen.",
+      "menu": "Google-App-Kampagnen",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "germany",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
       "article_count": 0
     },
     {
@@ -526,7 +605,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -580,7 +660,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -654,6 +735,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -661,6 +743,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -731,6 +814,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -738,6 +822,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -800,6 +885,42 @@
       "article_count": 0
     },
     {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Videoproduktion: Konzepte, Skripte und Schnitt",
+      "description": "Videoproduktion als Modul: Kreativkonzepte, Skripte, Schnitt und Kurzfassungen für Social Media. Grundmodul ab 1.700 $/Monat. Preise ansehen.",
+      "menu": "Videoproduktion",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "youtube-ads",
       "url": "/scopes/youtube-ads",
       "title": "YouTube Werbung: Betreuung von YouTube Ads",
@@ -844,6 +965,44 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "YouTube Management: Kanalbetreuung ab 1.200 $/Monat",
+      "description": "YouTube-Management für Ihren Kanal: Strategie, Veröffentlichung, Metadaten, Thumbnails, Community und Analyse. Auch mehrsprachig. Ab 1.200 $/Monat.",
+      "menu": "YouTube-Kanalmanagement",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada",
+          "germany"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -893,6 +1052,7 @@
       "israel": "Israel",
       "japan": "Japan",
       "netherlands": "Niederlande",
+      "singapore": "Singapur",
       "sweden": "Schweden",
       "switzerland": "Schweiz",
       "malaysia": "Malaysia"
@@ -900,6 +1060,7 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
+      "dutch": "Niederländisch",
       "italian": "Italienisch",
       "arabic": "Arabisch",
       "thai": "Thailändisch"

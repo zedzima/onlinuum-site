@@ -8,7 +8,7 @@
       "menu": "E-ticaret",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -29,6 +29,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -37,7 +38,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -79,6 +82,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -86,6 +90,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -113,7 +118,7 @@
       "menu": "Fintech ve Bankacılık",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -134,6 +139,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -178,6 +184,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -185,6 +192,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "turkish"
         ],
@@ -266,12 +274,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian",
           "turkish"
         ],
@@ -295,7 +305,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 13,
+      "scope_count": 16,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -316,6 +326,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -323,7 +334,9 @@
           "google-ads-search",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -365,6 +378,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -372,6 +386,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -408,6 +423,7 @@
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
@@ -416,7 +432,9 @@
       "google-shopping": "Google Shopping",
       "ppc-audit": "Reklam Analizi",
       "telegram-ads": "Telegram Reklamları",
-      "youtube-ads": "YouTube Ads"
+      "video-content-production": "Video İçerik Prodüksiyonu",
+      "youtube-ads": "YouTube Ads",
+      "youtube-channel-management": "YouTube Kanal Yönetimi"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -459,6 +477,7 @@
       "japan": "Japonya",
       "malaysia": "Malezya",
       "netherlands": "Hollanda",
+      "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "turkey": "Türkiye"
@@ -466,6 +485,7 @@
     "languages": {
       "english": "İngilizce",
       "arabic": "Arapça",
+      "dutch": "Felemenkçe",
       "italian": "İtalyanca",
       "thai": "Tayca",
       "turkish": "Türkçe"

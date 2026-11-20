@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -181,6 +182,7 @@
         "languages": [
           "english",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -294,6 +296,7 @@
         ],
         "languages": [
           "italian",
+          "dutch",
           "japanese",
           "arabic",
           "english"
@@ -417,7 +420,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -537,6 +541,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "south-korea",
           "sweden",
           "switzerland"
@@ -545,6 +550,7 @@
           "english",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "korean",
           "thai"
@@ -639,6 +645,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -715,6 +722,7 @@
       "app-store-cro": "앱스토어 CRO",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "앱 리텐션",
+      "google-app-campaigns": "구글 앱 캠페인",
       "seo-research": "SEO 키워드 분석",
       "content-strategy": "콘텐츠 기획",
       "telegram-ads": "텔레그램 광고",
@@ -722,7 +730,8 @@
       "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
       "youtube-ads": "유튜브 광고",
-      "technical-seo": "테크니컬 SEO"
+      "technical-seo": "테크니컬 SEO",
+      "youtube-channel-management": "유튜브 채널 관리"
     },
     "solutions": {
       "digital-marketing-consulting": "디지털 마케팅 컨설팅",
@@ -753,6 +762,7 @@
       "sweden": "스웨덴",
       "japan": "일본",
       "malaysia": "말레이시아",
+      "singapore": "싱가포르",
       "belgium": "벨기에",
       "canada": "캐나다",
       "china": "중국",
@@ -768,6 +778,7 @@
     "languages": {
       "english": "영어",
       "italian": "이탈리아어",
+      "dutch": "네덜란드어",
       "arabic": "아랍어",
       "japanese": "일본어",
       "korean": "한국어",

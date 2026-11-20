@@ -47,6 +47,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -109,6 +110,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -174,6 +176,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -239,6 +242,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -306,6 +310,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -463,7 +468,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -475,6 +481,72 @@
         ]
       },
       "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Beheer van Google App Campaigns voor Android en iOS",
+      "description": "Beheer van Google App Campaigns: accountinrichting, creatietests en biedoptimalisatie voor gebruikerswerving op Android en iOS. Vanaf $ 400.",
+      "menu": "Google App Campaigns-beheer",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
       "article_count": 0
     },
     {
@@ -514,7 +586,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -566,7 +639,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -638,6 +712,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -714,6 +789,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -781,6 +857,40 @@
       "article_count": 0
     },
     {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Videoproductie: concepten, scripts en montage",
+      "description": "Videoproductie als vast pakket: creatieve concepten, videoscript, video montage en korte versies. Basismodule vanaf $ 1.700/maand. Bekijk de prijzen.",
+      "menu": "Videoproductie",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "youtube-ads",
       "url": "/scopes/youtube-ads",
       "title": "YouTube adverteren: beheer van YouTube Ads-campagnes",
@@ -823,6 +933,42 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "YouTube kanaal beheer vanaf $ 1.200/maand",
+      "description": "YouTube kanaal beheer: strategie, publicatie, metadata en YouTube SEO, thumbnails, community en analyse. Ook meertalige kanalen. Vanaf $ 1.200/maand.",
+      "menu": "YouTube-kanaalbeheer",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -871,6 +1017,7 @@
       "israel": "Israël",
       "japan": "Japan",
       "netherlands": "Nederland",
+      "singapore": "Singapore",
       "sweden": "Zweden",
       "switzerland": "Zwitserland",
       "malaysia": "Maleisië"

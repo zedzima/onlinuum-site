@@ -110,6 +110,7 @@
           "aso-localization",
           "aso-optimization",
           "content-strategy",
+          "google-app-campaigns",
           "ppc-audit"
         ],
         "cases": [
@@ -149,6 +150,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -236,6 +238,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "spain",
           "sweden",
           "switzerland",
@@ -243,6 +246,7 @@
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ]
       }
@@ -267,6 +271,7 @@
       "aso-localization": "לוקליזציית ASO",
       "aso-optimization": "אופטימיזציית ASO",
       "content-strategy": "אסטרטגיית תוכן",
+      "google-app-campaigns": "קמפייני אפליקציות בגוגל",
       "ppc-audit": "אודיט PPC",
       "google-ads-search": "קמפיין חיפוש בגוגל",
       "google-shopping": "פרסום בגוגל שופינג",
@@ -302,11 +307,13 @@
       "japan": "יפן",
       "malaysia": "מלזיה",
       "netherlands": "הולנד",
+      "singapore": "סינגפור",
       "sweden": "שוודיה",
       "switzerland": "שווייץ"
     },
     "languages": {
       "english": "אנגלית",
+      "dutch": "הולנדית",
       "italian": "איטלקית"
     },
     "positions": {

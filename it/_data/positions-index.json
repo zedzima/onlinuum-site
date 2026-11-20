@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -182,6 +183,7 @@
         "languages": [
           "english",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -296,6 +298,7 @@
         ],
         "languages": [
           "italian",
+          "dutch",
           "japanese",
           "arabic",
           "english"
@@ -419,7 +422,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -540,6 +544,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -547,6 +552,7 @@
           "english",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -640,6 +646,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -716,6 +723,7 @@
       "app-store-cro": "CRO per App Store",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "App retention",
+      "google-app-campaigns": "Gestione Google App Campaigns",
       "seo-research": "Ricerca SEO",
       "content-strategy": "Content strategy",
       "telegram-ads": "Campagne Telegram Ads",
@@ -723,7 +731,8 @@
       "google-ads-search": "Campagne Google Ads",
       "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads",
-      "technical-seo": "SEO tecnica"
+      "technical-seo": "SEO tecnica",
+      "youtube-channel-management": "Gestione canale YouTube"
     },
     "solutions": {
       "digital-marketing-consulting": "Consulenza marketing",
@@ -755,6 +764,7 @@
       "sweden": "Svezia",
       "japan": "Giappone",
       "malaysia": "Malesia",
+      "singapore": "Singapore",
       "belgium": "Belgio",
       "canada": "Canada",
       "china": "Cina",
@@ -769,6 +779,7 @@
     "languages": {
       "english": "Inglese",
       "italian": "Italiano",
+      "dutch": "Olandese",
       "arabic": "Arabo",
       "japanese": "Giapponese",
       "thai": "Tailandese"

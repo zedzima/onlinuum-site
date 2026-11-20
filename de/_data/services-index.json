@@ -7,7 +7,7 @@
       "description": "App User Acquisition als Leistung: Apple Search Ads, Google App Campaigns und Paid Social für Installationen. Preise ansehen.",
       "menu": "User Acquisition für Apps",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -24,7 +24,8 @@
           "performance-marketing"
         ],
         "scopes": [
-          "apple-search-ads"
+          "apple-search-ads",
+          "google-app-campaigns"
         ],
         "experts": [
           "dima-gerko"
@@ -56,12 +57,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "german",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -126,12 +129,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "german",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -204,6 +209,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -211,6 +217,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -257,6 +264,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -264,6 +272,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian"
         ]
       }
@@ -332,6 +341,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -339,6 +349,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -410,6 +421,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -417,6 +429,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -475,6 +488,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -482,6 +496,7 @@
           "english",
           "german",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -501,6 +516,7 @@
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google-App-Kampagnen",
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
       "seo-research": "SEO-Recherche",
@@ -547,6 +563,7 @@
       "israel": "Israel",
       "japan": "Japan",
       "netherlands": "Niederlande",
+      "singapore": "Singapur",
       "sweden": "Schweden",
       "switzerland": "Schweiz",
       "malaysia": "Malaysia"
@@ -554,6 +571,7 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
+      "dutch": "Niederländisch",
       "italian": "Italienisch",
       "arabic": "Arabisch",
       "thai": "Thailändisch"

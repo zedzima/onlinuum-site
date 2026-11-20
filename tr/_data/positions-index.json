@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -181,6 +182,7 @@
         "languages": [
           "english",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -295,6 +297,7 @@
         ],
         "languages": [
           "italian",
+          "dutch",
           "turkish",
           "japanese",
           "arabic",
@@ -419,7 +422,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -539,6 +543,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -547,6 +552,7 @@
           "english",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -641,6 +647,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -719,6 +726,7 @@
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "Kullanıcı Elde Tutma",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "seo-research": "SEO Araştırması",
       "content-strategy": "İçerik Stratejisi",
       "telegram-ads": "Telegram Reklamları",
@@ -726,7 +734,8 @@
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
-      "technical-seo": "Teknik SEO"
+      "technical-seo": "Teknik SEO",
+      "youtube-channel-management": "YouTube Kanal Yönetimi"
     },
     "solutions": {
       "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
@@ -758,6 +767,7 @@
       "turkey": "Türkiye",
       "japan": "Japonya",
       "malaysia": "Malezya",
+      "singapore": "Singapur",
       "belgium": "Belçika",
       "canada": "Kanada",
       "china": "Çin",
@@ -772,6 +782,7 @@
     "languages": {
       "english": "İngilizce",
       "italian": "İtalyanca",
+      "dutch": "Felemenkçe",
       "arabic": "Arapça",
       "turkish": "Türkçe",
       "japanese": "Japonca",

@@ -47,11 +47,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -108,11 +110,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -172,11 +176,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -236,12 +242,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -302,11 +310,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -459,6 +469,7 @@
           "poland",
           "spain",
           "malaysia",
+          "singapore",
           "turkey"
         ],
         "languages": [
@@ -472,6 +483,72 @@
         ]
       },
       "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Google App Campaigns Yönetimi: Android ve iOS",
+      "description": "Google App Campaigns yönetimi: hesap kurulumu, kreatif testleri ve Android ile iOS uygulama yükleme reklamı için teklif optimizasyonu. 400 $'dan başlar.",
+      "menu": "Google App Campaigns (UAC)",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
       "article_count": 0
     },
     {
@@ -511,7 +588,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -564,6 +642,7 @@
           "poland",
           "spain",
           "malaysia",
+          "singapore",
           "turkey"
         ],
         "languages": [
@@ -637,6 +716,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -644,6 +724,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -714,6 +795,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "turkey"
@@ -721,6 +803,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai",
           "turkish"
@@ -783,6 +866,40 @@
       "article_count": 0
     },
     {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Video Prodüksiyon: Senaryo ve Kurgu Hizmeti",
+      "description": "Video prodüksiyon: kreatif konseptler, senaryo yazımı, video kurgu ve kısa format kesitler. Temel modül aylık 1.700 $'dan. Fiyatları görün.",
+      "menu": "Video İçerik Prodüksiyonu",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "youtube-ads",
       "url": "/scopes/youtube-ads",
       "title": "YouTube Reklam Verme ve Kampanya Yönetimi",
@@ -825,6 +942,42 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "YouTube Kanal Yönetimi Hizmeti, Aylık 1.200 $'dan",
+      "description": "YouTube kanal yönetimi: strateji ve YouTube danışmanlığı, yayın, meta veri, küçük resimler, topluluk ve analitik. Çok dilli kanallar. Aylık 1.200 $'dan.",
+      "menu": "YouTube Kanal Yönetimi",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -873,6 +1026,7 @@
       "israel": "İsrail",
       "japan": "Japonya",
       "netherlands": "Hollanda",
+      "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "malaysia": "Malezya",
@@ -880,6 +1034,7 @@
     },
     "languages": {
       "english": "İngilizce",
+      "dutch": "Felemenkçe",
       "italian": "İtalyanca",
       "arabic": "Arapça",
       "thai": "Tayca",

@@ -28,6 +28,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -74,12 +75,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -152,12 +155,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -188,6 +193,7 @@
       "aso-optimization": "Ottimizzazione ASO",
       "aso-localization": "Localizzazione ASO",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Gestione Google App Campaigns",
       "app-store-cro": "CRO per App Store",
       "app-retention": "App retention",
       "content-strategy": "Content strategy",
@@ -234,12 +240,14 @@
       "japan": "Giappone",
       "malaysia": "Malesia",
       "netherlands": "Paesi Bassi",
+      "singapore": "Singapore",
       "sweden": "Svezia",
       "switzerland": "Svizzera"
     },
     "languages": {
       "english": "Inglese",
       "arabic": "Arabo",
+      "dutch": "Olandese",
       "italian": "Italiano",
       "thai": "Tailandese"
     },

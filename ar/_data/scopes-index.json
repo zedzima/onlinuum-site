@@ -47,11 +47,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -108,11 +110,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -172,12 +176,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -237,6 +243,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -244,6 +251,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -304,12 +312,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -462,6 +472,7 @@
           "poland",
           "spain",
           "malaysia",
+          "singapore",
           "uae"
         ],
         "languages": [
@@ -474,6 +485,72 @@
         ]
       },
       "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "إدارة Google UAC وGoogle App Campaigns لـ Android وiOS",
+      "description": "إدارة Google UAC: إعداد الحساب، واختبار المواد الإعلانية، وتحسين المزايدات لاستقطاب مستخدمي Android وiOS. من $400. اطلعوا على الأسعار.",
+      "menu": "حملات التطبيقات في Google",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
       "article_count": 0
     },
     {
@@ -514,6 +591,7 @@
           "poland",
           "spain",
           "malaysia",
+          "singapore",
           "uae"
         ],
         "languages": [
@@ -567,6 +645,7 @@
           "poland",
           "spain",
           "malaysia",
+          "singapore",
           "uae"
         ],
         "languages": [
@@ -639,6 +718,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -646,6 +726,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -715,6 +796,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -722,6 +804,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -782,6 +865,40 @@
       "article_count": 0
     },
     {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Video Production: السيناريو والمونتاج والأفكار الإبداعية",
+      "description": "Video production: الأفكار الإبداعية والسيناريوهات وvideo editing services والنسخ القصيرة. الوحدة الأساسية من $1,700 شهريًا. اطلعوا على الأسعار.",
+      "menu": "إنتاج محتوى الفيديو",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "youtube-ads",
       "url": "/scopes/youtube-ads",
       "title": "إدارة YouTube Ads: الاستهداف والمواد الإبداعية",
@@ -824,6 +941,42 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "YouTube Channel Management: إدارة القناة من $1,200",
+      "description": "youtube channel management متكاملة: الاستراتيجية والنشر والبيانات الوصفية والصور المصغرة والمجتمع والتحليلات. قنوات متعددة اللغات. من $1,200 شهريًا.",
+      "menu": "إدارة قناة YouTube",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -872,6 +1025,7 @@
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "singapore": "سنغافورة",
       "sweden": "السويد",
       "switzerland": "سويسرا",
       "uae": "الإمارات",
@@ -879,6 +1033,7 @@
     },
     "languages": {
       "english": "الإنجليزية",
+      "dutch": "الهولندية",
       "italian": "الإيطالية",
       "arabic": "العربية",
       "thai": "التايلاندية"

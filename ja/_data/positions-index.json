@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -181,6 +182,7 @@
         "languages": [
           "english",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -294,6 +296,7 @@
         ],
         "languages": [
           "italian",
+          "dutch",
           "japanese",
           "arabic",
           "english"
@@ -417,7 +420,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -537,6 +541,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -544,6 +549,7 @@
           "english",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -637,6 +643,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -713,6 +720,7 @@
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "アプリのリテンション",
+      "google-app-campaigns": "Google アプリキャンペーン",
       "seo-research": "キーワード選定",
       "content-strategy": "コンテンツ戦略",
       "telegram-ads": "Telegram Ads",
@@ -720,7 +728,8 @@
       "google-ads-search": "Google広告・検索広告",
       "google-shopping": "Googleショッピング広告",
       "youtube-ads": "YouTube広告",
-      "technical-seo": "テクニカルSEO"
+      "technical-seo": "テクニカルSEO",
+      "youtube-channel-management": "YouTubeチャンネル運用"
     },
     "solutions": {
       "digital-marketing-consulting": "マーケティングコンサルティング",
@@ -751,6 +760,7 @@
       "sweden": "スウェーデン",
       "japan": "日本",
       "malaysia": "マレーシア",
+      "singapore": "シンガポール",
       "belgium": "ベルギー",
       "canada": "カナダ",
       "china": "中国",
@@ -765,6 +775,7 @@
     "languages": {
       "english": "英語",
       "italian": "イタリア語",
+      "dutch": "オランダ語",
       "arabic": "アラビア語",
       "japanese": "日本語",
       "thai": "タイ語"

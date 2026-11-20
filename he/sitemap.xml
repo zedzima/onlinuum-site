@@ -141,6 +141,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/he/countries/singapore/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/he/countries/spain/</loc>
     <lastmod>2026-11-20</lastmod>
     <priority>0.8</priority>
@@ -232,6 +237,11 @@
   </url>
   <url>
     <loc>https://onlinuum.com/he/languages/arabic/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/he/languages/dutch/</loc>
     <lastmod>2026-11-20</lastmod>
     <priority>0.8</priority>
   </url>
@@ -346,6 +356,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/he/scopes/google-app-campaigns/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/he/scopes/google-shopping/</loc>
     <lastmod>2026-11-14</lastmod>
     <priority>0.8</priority>
@@ -371,8 +386,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onlinuum.com/he/scopes/video-content-production/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onlinuum.com/he/scopes/youtube-ads/</loc>
     <lastmod>2026-11-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinuum.com/he/scopes/youtube-channel-management/</loc>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

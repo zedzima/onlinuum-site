@@ -8,7 +8,7 @@
       "menu": "Sklepy internetowe",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -29,6 +29,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -37,7 +38,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -79,6 +82,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -86,6 +90,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -112,7 +117,7 @@
       "menu": "Fintech i usługi finansowe",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -133,6 +138,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -177,6 +183,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -184,6 +191,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian"
         ],
         "blog-posts": [
@@ -264,12 +272,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "polish",
+          "dutch",
           "italian"
         ],
         "blog-posts": [
@@ -292,7 +302,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 13,
+      "scope_count": 16,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -313,6 +323,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -320,7 +331,9 @@
           "google-ads-search",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -362,6 +375,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -369,6 +383,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -404,6 +419,7 @@
       "aso-optimization": "Optymalizacja aplikacji",
       "aso-localization": "Lokalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "CRO karty aplikacji",
       "app-retention": "Retencja aplikacji",
       "content-strategy": "Strategia treści",
@@ -412,7 +428,9 @@
       "google-shopping": "Google Shopping",
       "ppc-audit": "Audyt Google Ads",
       "telegram-ads": "Reklama na Telegramie",
-      "youtube-ads": "YouTube Ads"
+      "video-content-production": "Produkcja treści wideo",
+      "youtube-ads": "YouTube Ads",
+      "youtube-channel-management": "Prowadzenie kanału na YouTube"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -455,6 +473,7 @@
       "japan": "Japonia",
       "malaysia": "Malezja",
       "netherlands": "Holandia",
+      "singapore": "Singapur",
       "sweden": "Szwecja",
       "switzerland": "Szwajcaria"
     },
@@ -462,6 +481,7 @@
       "english": "Angielski",
       "polish": "Polski",
       "arabic": "Arabski",
+      "dutch": "Niderlandzki",
       "italian": "Włoski",
       "thai": "Tajski"
     },

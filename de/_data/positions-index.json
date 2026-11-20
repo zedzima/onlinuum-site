@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -185,6 +186,7 @@
           "english",
           "german",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -300,6 +302,7 @@
         "languages": [
           "german",
           "italian",
+          "dutch",
           "japanese",
           "arabic",
           "english"
@@ -424,7 +427,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -546,6 +550,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -554,6 +559,7 @@
           "german",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -647,6 +653,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -725,6 +732,7 @@
       "app-store-cro": "App-Store-CRO",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "App-Retention",
+      "google-app-campaigns": "Google-App-Kampagnen",
       "seo-research": "SEO-Recherche",
       "content-strategy": "Content-Strategie",
       "telegram-ads": "Telegram-Werbung",
@@ -732,7 +740,8 @@
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
       "youtube-ads": "YouTube-Werbung",
-      "technical-seo": "Technisches SEO"
+      "technical-seo": "Technisches SEO",
+      "youtube-channel-management": "YouTube-Kanalmanagement"
     },
     "solutions": {
       "digital-marketing-consulting": "Online-Marketing-Beratung",
@@ -764,6 +773,7 @@
       "sweden": "Schweden",
       "japan": "Japan",
       "malaysia": "Malaysia",
+      "singapore": "Singapur",
       "belgium": "Belgien",
       "canada": "Kanada",
       "china": "China",
@@ -779,6 +789,7 @@
       "english": "Englisch",
       "german": "Deutsch",
       "italian": "Italienisch",
+      "dutch": "Niederländisch",
       "arabic": "Arabisch",
       "japanese": "Japanisch",
       "thai": "Thailändisch"

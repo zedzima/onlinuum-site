@@ -7,7 +7,7 @@
       "description": "שירותי app user acquisition: Apple Search Ads, Google App Campaigns ורשתות חברתיות ממומנות להתקנות. ראו מחירים.",
       "menu": "רכישת משתמשים לאפליקציות",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -24,7 +24,8 @@
           "performance-marketing"
         ],
         "scopes": [
-          "apple-search-ads"
+          "apple-search-ads",
+          "google-app-campaigns"
         ],
         "experts": [
           "dima-gerko"
@@ -55,11 +56,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -123,11 +126,13 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -199,12 +204,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -250,12 +257,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ]
       }
@@ -323,12 +332,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -399,12 +410,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -462,12 +475,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -487,6 +502,7 @@
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "קמפייני אפליקציות בגוגל",
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
       "seo-research": "מחקר SEO",
@@ -532,12 +548,14 @@
       "israel": "ישראל",
       "japan": "יפן",
       "netherlands": "הולנד",
+      "singapore": "סינגפור",
       "sweden": "שוודיה",
       "switzerland": "שווייץ",
       "malaysia": "מלזיה"
     },
     "languages": {
       "english": "אנגלית",
+      "dutch": "הולנדית",
       "italian": "איטלקית",
       "arabic": "ערבית",
       "thai": "תאית"

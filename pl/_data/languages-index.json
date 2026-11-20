@@ -62,6 +62,79 @@
       }
     },
     {
+      "slug": "dutch",
+      "url": "/languages/dutch",
+      "title": "Tłumaczenie na holenderski i marketing po niderlandzku",
+      "description": "Marketing po niderlandzku zamiast samego tłumaczenia na holenderski: natywni specjaliści dla marek wchodzących do Holandii i Flandrii. Poznaj ofertę.",
+      "menu": "Niderlandzki",
+      "featured": false,
+      "flag": "",
+      "code": "NL",
+      "native_speakers_l1": "31.9M",
+      "market_speakers_display": "31.9M",
+      "market_speakers_est": 31930799,
+      "market_country_count": 3,
+      "official_countries_count": 3,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "netherlands",
+          "belgium",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "Marketing po angielsku: natywni specjaliści EN",
@@ -75,7 +148,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 14,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -96,6 +169,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -104,7 +178,9 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management"
         ],
         "experts": [
           "dima-gerko",
@@ -145,6 +221,7 @@
           "malaysia",
           "belgium",
           "austria",
+          "singapore",
           "greece",
           "denmark",
           "ireland",
@@ -182,7 +259,7 @@
       "market_speakers_est": 68523540,
       "market_country_count": 9,
       "official_countries_count": 9,
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
@@ -203,6 +280,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -285,7 +363,7 @@
       "market_speakers_est": 40931734,
       "market_country_count": 4,
       "official_countries_count": 4,
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 0,
       "case_count": 0,
@@ -304,6 +382,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -415,13 +494,16 @@
       "technical-seo": "SEO techniczne",
       "aso-optimization": "Optymalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "CRO karty aplikacji",
       "app-retention": "Retencja aplikacji",
       "content-strategy": "Strategia treści",
       "content-writing": "Copywriting SEO",
       "google-shopping": "Google Shopping",
       "telegram-ads": "Reklama na Telegramie",
-      "youtube-ads": "YouTube Ads"
+      "video-content-production": "Produkcja treści wideo",
+      "youtube-ads": "YouTube Ads",
+      "youtube-channel-management": "Prowadzenie kanału na YouTube"
     },
     "solutions": {
       "digital-marketing-consulting": "Doradztwo marketingowe",
@@ -445,22 +527,23 @@
     "countries": {
       "israel": "Izrael",
       "canada": "Kanada",
+      "netherlands": "Holandia",
+      "belgium": "Belgia",
+      "eu": "Unia Europejska",
       "uk": "Wielka Brytania",
       "france": "Francja",
-      "netherlands": "Holandia",
       "poland": "Polska",
       "spain": "Hiszpania",
       "sweden": "Szwecja",
       "malaysia": "Malezja",
-      "belgium": "Belgia",
       "austria": "Austria",
+      "singapore": "Singapur",
       "greece": "Grecja",
       "denmark": "Dania",
       "ireland": "Irlandia",
       "switzerland": "Szwajcaria",
       "finland": "Finlandia",
       "portugal": "Portugalia",
-      "eu": "Unia Europejska",
       "japan": "Japonia"
     },
     "positions": {
@@ -472,8 +555,8 @@
       "social-media-manager": "Social media manager"
     },
     "experts": {
-      "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun",
+      "dima-gerko": "Dima Gerko",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "cases": {

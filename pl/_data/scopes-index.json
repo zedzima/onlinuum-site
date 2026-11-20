@@ -47,12 +47,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "polish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -109,12 +111,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "polish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -174,12 +178,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "polish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -239,6 +245,7 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -246,6 +253,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -306,12 +314,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "polish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -464,7 +474,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -476,6 +487,73 @@
         ]
       },
       "case_count": 2,
+      "article_count": 0
+    },
+    {
+      "slug": "google-app-campaigns",
+      "url": "/scopes/google-app-campaigns",
+      "title": "Google App Campaigns: kampanie na Androida i iOS",
+      "description": "Prowadzenie Google App Campaigns: konfiguracja konta, testy kreacji i optymalizacja stawek przy pozyskiwaniu użytkowników Android i iOS. Od 400 USD.",
+      "menu": "Google App Campaigns (UAC)",
+      "featured": true,
+      "from_price": 400,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "polish",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      },
+      "case_count": 0,
       "article_count": 0
     },
     {
@@ -515,7 +593,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -567,7 +646,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english",
@@ -639,6 +719,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -646,6 +727,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -715,6 +797,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -722,6 +805,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -783,6 +867,40 @@
       "article_count": 0
     },
     {
+      "slug": "video-content-production",
+      "url": "/scopes/video-content-production",
+      "title": "Produkcja wideo: scenariusze i montaż filmów",
+      "description": "Produkcja wideo: koncepcje kreatywne, scenariusze, montaż filmów i krótkie filmy reklamowe. Moduł bazowy od 1 700 USD/mies. Sprawdź cennik.",
+      "menu": "Produkcja treści wideo",
+      "featured": true,
+      "from_price": 1700,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 6,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "performance-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
       "slug": "youtube-ads",
       "url": "/scopes/youtube-ads",
       "title": "Reklama na YouTube: prowadzenie kampanii YouTube Ads",
@@ -825,6 +943,42 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "youtube-channel-management",
+      "url": "/scopes/youtube-channel-management",
+      "title": "Prowadzenie kanału na YouTube od 1 200 USD/mies.",
+      "description": "Prowadzenie kanału na YouTube: strategia, publikacja, metadane, miniaturki, społeczność i analityka. Także kanały wielojęzyczne. Od 1 200 USD/mies.",
+      "menu": "Prowadzenie kanału na YouTube",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "monthly",
+      "expert_count": 1,
+      "industry_count": 5,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "uk",
+          "canada"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
         ]
       },
       "case_count": 0,
@@ -873,6 +1027,7 @@
       "israel": "Izrael",
       "japan": "Japonia",
       "netherlands": "Holandia",
+      "singapore": "Singapur",
       "sweden": "Szwecja",
       "switzerland": "Szwajcaria",
       "malaysia": "Malezja"
@@ -880,6 +1035,7 @@
     "languages": {
       "english": "Angielski",
       "polish": "Polski",
+      "dutch": "Niderlandzki",
       "italian": "Włoski",
       "arabic": "Arabski",
       "thai": "Tajski"

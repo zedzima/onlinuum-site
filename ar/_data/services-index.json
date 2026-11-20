@@ -7,7 +7,7 @@
       "description": "خدمات app user acquisition: إعلانات Apple Search Ads وGoogle App Campaigns والإعلانات المدفوعة على وسائل التواصل لزيادة التثبيتات. اطلعوا على الأسعار.",
       "menu": "اكتساب مستخدمي التطبيقات",
       "featured": true,
-      "scope_count": 1,
+      "scope_count": 2,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -24,7 +24,8 @@
           "performance-marketing"
         ],
         "scopes": [
-          "apple-search-ads"
+          "apple-search-ads",
+          "google-app-campaigns"
         ],
         "experts": [
           "dima-gerko"
@@ -55,12 +56,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -124,12 +127,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
         ],
         "languages": [
           "english",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -201,6 +206,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -208,6 +214,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -253,6 +260,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -260,6 +268,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian"
         ]
       }
@@ -327,6 +336,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -334,6 +344,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -404,6 +415,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -411,6 +423,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -468,6 +481,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -475,6 +489,7 @@
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -494,6 +509,7 @@
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "حملات التطبيقات في Google",
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
       "seo-research": "أبحاث السيو",
@@ -539,6 +555,7 @@
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "singapore": "سنغافورة",
       "sweden": "السويد",
       "switzerland": "سويسرا",
       "uae": "الإمارات",
@@ -546,6 +563,7 @@
     },
     "languages": {
       "english": "الإنجليزية",
+      "dutch": "الهولندية",
       "italian": "الإيطالية",
       "arabic": "العربية",
       "thai": "التايلاندية"

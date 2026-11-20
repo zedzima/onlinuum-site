@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -181,6 +182,7 @@
         "languages": [
           "english",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -294,6 +296,7 @@
         ],
         "languages": [
           "italian",
+          "dutch",
           "japanese",
           "arabic",
           "english"
@@ -417,7 +420,8 @@
           "france",
           "poland",
           "spain",
-          "malaysia"
+          "malaysia",
+          "singapore"
         ],
         "languages": [
           "english"
@@ -537,6 +541,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -544,6 +549,7 @@
           "english",
           "japanese",
           "arabic",
+          "dutch",
           "hebrew",
           "italian",
           "thai"
@@ -638,6 +644,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -714,6 +721,7 @@
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "שימור משתמשים באפליקציה",
+      "google-app-campaigns": "קמפייני אפליקציות בגוגל",
       "seo-research": "מחקר SEO",
       "content-strategy": "אסטרטגיית תוכן",
       "telegram-ads": "פרסום בטלגרם",
@@ -721,7 +729,8 @@
       "google-ads-search": "קמפיין חיפוש בגוגל",
       "google-shopping": "פרסום בגוגל שופינג",
       "youtube-ads": "פרסום ביוטיוב",
-      "technical-seo": "קידום אתרים טכני"
+      "technical-seo": "קידום אתרים טכני",
+      "youtube-channel-management": "ניהול ערוץ יוטיוב"
     },
     "solutions": {
       "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
@@ -752,6 +761,7 @@
       "sweden": "שוודיה",
       "japan": "יפן",
       "malaysia": "מלזיה",
+      "singapore": "סינגפור",
       "belgium": "בלגיה",
       "canada": "קנדה",
       "china": "סין",
@@ -766,6 +776,7 @@
     "languages": {
       "english": "אנגלית",
       "italian": "איטלקית",
+      "dutch": "הולנדית",
       "arabic": "ערבית",
       "japanese": "יפנית",
       "hebrew": "עברית",

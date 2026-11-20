@@ -9,7 +9,7 @@
       "featured": true,
       "icon": "smartphone",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 1,
       "case_count": 0,
       "expert_count": 1,
@@ -18,6 +18,7 @@
           "aso-optimization",
           "aso-localization",
           "apple-search-ads",
+          "google-app-campaigns",
           "app-store-cro",
           "app-retention"
         ],
@@ -54,12 +55,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "polish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -76,13 +79,15 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 2,
+      "scope_count": 4,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "youtube-channel-management",
+          "video-content-production",
           "content-strategy"
         ],
         "experts": [
@@ -120,12 +125,14 @@
           "israel",
           "japan",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "polish",
+          "dutch",
           "italian"
         ],
         "positions": [
@@ -184,6 +191,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -191,6 +199,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -241,12 +250,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ]
@@ -261,7 +272,7 @@
       "featured": true,
       "icon": "target",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 1,
       "case_count": 2,
       "expert_count": 2,
@@ -271,6 +282,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "video-content-production",
           "telegram-ads"
         ],
         "experts": [
@@ -311,12 +323,14 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
         "languages": [
           "english",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -382,6 +396,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -389,6 +404,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ]
@@ -460,6 +476,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland"
         ],
@@ -467,6 +484,7 @@
           "english",
           "polish",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -489,9 +507,12 @@
       "aso-optimization": "Optymalizacja aplikacji",
       "aso-localization": "Lokalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
+      "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "CRO karty aplikacji",
       "app-retention": "Retencja aplikacji",
       "seo-research": "Analiza SEO",
+      "youtube-channel-management": "Prowadzenie kanału na YouTube",
+      "video-content-production": "Produkcja treści wideo",
       "content-strategy": "Strategia treści",
       "ppc-audit": "Audyt Google Ads",
       "google-ads-search": "Reklama w Google",
@@ -542,6 +563,7 @@
       "israel": "Izrael",
       "japan": "Japonia",
       "netherlands": "Holandia",
+      "singapore": "Singapur",
       "sweden": "Szwecja",
       "switzerland": "Szwajcaria",
       "malaysia": "Malezja"
@@ -549,6 +571,7 @@
     "languages": {
       "english": "Angielski",
       "polish": "Polski",
+      "dutch": "Niderlandzki",
       "italian": "Włoski",
       "arabic": "Arabski",
       "thai": "Tajski"

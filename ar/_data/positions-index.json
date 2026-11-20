@@ -53,7 +53,8 @@
           "aso-localization",
           "app-store-cro",
           "apple-search-ads",
-          "app-retention"
+          "app-retention",
+          "google-app-campaigns"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -182,6 +183,7 @@
         "languages": [
           "english",
           "italian",
+          "dutch",
           "arabic"
         ]
       },
@@ -296,6 +298,7 @@
         ],
         "languages": [
           "italian",
+          "dutch",
           "japanese",
           "arabic",
           "english"
@@ -420,6 +423,7 @@
           "poland",
           "spain",
           "malaysia",
+          "singapore",
           "uae"
         ],
         "languages": [
@@ -540,6 +544,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "singapore",
           "sweden",
           "switzerland",
           "uae"
@@ -548,6 +553,7 @@
           "english",
           "japanese",
           "arabic",
+          "dutch",
           "italian",
           "thai"
         ],
@@ -641,6 +647,7 @@
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-channel-management",
           "content-strategy"
         ],
         "solutions": [
@@ -718,6 +725,7 @@
       "app-store-cro": "App Store CRO",
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
+      "google-app-campaigns": "حملات التطبيقات في Google",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
       "telegram-ads": "إعلانات تليجرام",
@@ -725,7 +733,8 @@
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
-      "technical-seo": "السيو التقني"
+      "technical-seo": "السيو التقني",
+      "youtube-channel-management": "إدارة قناة YouTube"
     },
     "solutions": {
       "digital-marketing-consulting": "استشارات التسويق الرقمي",
@@ -757,6 +766,7 @@
       "sweden": "السويد",
       "japan": "اليابان",
       "malaysia": "ماليزيا",
+      "singapore": "سنغافورة",
       "belgium": "بلجيكا",
       "canada": "كندا",
       "china": "الصين",
@@ -771,6 +781,7 @@
     "languages": {
       "english": "الإنجليزية",
       "italian": "الإيطالية",
+      "dutch": "الهولندية",
       "arabic": "العربية",
       "japanese": "اليابانية",
       "thai": "التايلاندية"
