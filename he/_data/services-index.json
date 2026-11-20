@@ -1,6 +1,71 @@
 {
   "services": [
     {
+      "slug": "app-user-acquisition",
+      "url": "/services/app-user-acquisition",
+      "title": "App User Acquisition: Apple Ads ו-Google UAC",
+      "description": "שירותי app user acquisition: Apple Search Ads, Google App Campaigns ורשתות חברתיות ממומנות להתקנות. ראו מחירים.",
+      "menu": "רכישת משתמשים לאפליקציות",
+      "featured": true,
+      "scope_count": 1,
+      "expert_count": 1,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "performance-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "austria",
+          "poland",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "aso",
       "url": "/services/aso",
       "title": "קידום אפליקציות ASO ל-iOS ולאנדרואיד",
@@ -42,11 +107,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -111,11 +180,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -158,10 +231,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -224,11 +300,15 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -292,11 +372,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -351,10 +435,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -375,12 +462,13 @@
   "labels": {
     "domains": {
       "app-marketing": "שיווק אפליקציות",
+      "performance-marketing": "שיווק ביצועים",
       "search-marketing": "שיווק במנועי חיפוש",
       "community-marketing": "ניהול קהילה",
-      "product-marketing": "שיווק מוצר",
-      "performance-marketing": "שיווק ביצועים"
+      "product-marketing": "שיווק מוצר"
     },
     "scopes": {
+      "apple-search-ads": "Apple Search Ads",
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
       "seo-research": "מחקר SEO",
@@ -412,11 +500,15 @@
       "uk": "בריטניה",
       "austria": "אוסטריה",
       "poland": "פולין",
+      "spain": "ספרד",
       "belgium": "בלגיה",
+      "canada": "קנדה",
       "china": "סין",
+      "denmark": "דנמרק",
       "eu": "האיחוד האירופי",
       "finland": "פינלנד",
       "greece": "יוון",
+      "ireland": "אירלנד",
       "israel": "ישראל",
       "japan": "יפן",
       "netherlands": "הולנד",

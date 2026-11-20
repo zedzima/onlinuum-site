@@ -52,7 +52,8 @@
         ],
         "countries": [
           "uae",
-          "israel"
+          "israel",
+          "canada"
         ],
         "positions": [
           "seo-expert",
@@ -76,7 +77,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -123,6 +124,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -134,14 +136,18 @@
         ],
         "countries": [
           "uk",
+          "canada",
           "netherlands",
           "poland",
+          "spain",
           "sweden",
           "israel",
           "malaysia",
           "belgium",
           "austria",
           "greece",
+          "denmark",
+          "ireland",
           "uae",
           "switzerland",
           "finland",
@@ -177,7 +183,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -212,6 +218,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -224,6 +231,7 @@
         "countries": [
           "switzerland",
           "austria",
+          "canada",
           "eu"
         ],
         "positions": [
@@ -270,7 +278,8 @@
       "ppc": "PPC",
       "seo": "سيو SEO",
       "social-media": "وسائل التواصل الاجتماعي",
-      "aso": "تحسين متجر التطبيقات ASO"
+      "aso": "تحسين متجر التطبيقات ASO",
+      "app-user-acquisition": "اكتساب مستخدمي التطبيقات"
     },
     "industries": {
       "ecommerce": "التجارة الإلكترونية",
@@ -281,14 +290,18 @@
     "countries": {
       "uae": "الإمارات",
       "israel": "إسرائيل",
+      "canada": "كندا",
       "uk": "المملكة المتحدة",
       "netherlands": "هولندا",
       "poland": "بولندا",
+      "spain": "إسبانيا",
       "sweden": "السويد",
       "malaysia": "ماليزيا",
       "belgium": "بلجيكا",
       "austria": "النمسا",
       "greece": "اليونان",
+      "denmark": "الدنمارك",
+      "ireland": "أيرلندا",
       "switzerland": "سويسرا",
       "finland": "فنلندا",
       "eu": "الاتحاد الأوروبي"

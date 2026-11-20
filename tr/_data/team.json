@@ -125,6 +125,7 @@
           "content",
           "seo",
           "ppc",
+          "app-user-acquisition",
           "aso"
         ],
         "industries": [
@@ -137,10 +138,13 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
           "eu",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -223,12 +227,15 @@
         "countries": [
           "poland",
           "belgium",
+          "canada",
           "china",
           "eu",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
+          "spain",
           "sweden",
           "switzerland",
           "uk"
@@ -268,6 +275,7 @@
       "content": "İçerik Pazarlama",
       "seo": "SEO Hizmeti",
       "ppc": "Performans Pazarlama",
+      "app-user-acquisition": "Uygulamalar İçin User Acquisition",
       "aso": "ASO Hizmeti"
     },
     "industries": {
@@ -282,9 +290,12 @@
       "turkey": "Türkiye",
       "austria": "Avusturya",
       "poland": "Polonya",
+      "spain": "İspanya",
       "belgium": "Belçika",
+      "canada": "Kanada",
       "china": "Çin",
       "greece": "Yunanistan",
+      "ireland": "İrlanda",
       "israel": "İsrail",
       "japan": "Japonya",
       "malaysia": "Malezya",

@@ -1,6 +1,72 @@
 {
   "services": [
     {
+      "slug": "app-user-acquisition",
+      "url": "/services/app-user-acquisition",
+      "title": "모바일 앱 광고 운영: Apple Ads와 구글 UAC",
+      "description": "모바일 앱 광고 운영 서비스. Apple Search Ads, 구글 UAC(Google App Campaigns), 유료 소셜로 앱 설치를 늘립니다. 가격을 확인하십시오.",
+      "menu": "앱 사용자 획득",
+      "featured": true,
+      "scope_count": 1,
+      "expert_count": 1,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "performance-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "austria",
+          "poland",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "south-korea",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "aso",
       "url": "/services/aso",
       "title": "ASO 서비스: 앱스토어 최적화와 순위 개선",
@@ -42,11 +108,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -112,11 +182,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -160,10 +234,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -227,11 +304,15 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -296,11 +377,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -356,10 +441,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -381,12 +469,13 @@
   "labels": {
     "domains": {
       "app-marketing": "앱 마케팅",
+      "performance-marketing": "퍼포먼스 마케팅",
       "search-marketing": "검색엔진 마케팅",
       "community-marketing": "커뮤니티 마케팅",
-      "product-marketing": "프로덕트 마케팅",
-      "performance-marketing": "퍼포먼스 마케팅"
+      "product-marketing": "프로덕트 마케팅"
     },
     "scopes": {
+      "apple-search-ads": "Apple Search Ads",
       "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
       "seo-research": "SEO 키워드 분석",
@@ -418,11 +507,15 @@
       "uk": "영국",
       "austria": "오스트리아",
       "poland": "폴란드",
+      "spain": "스페인",
       "belgium": "벨기에",
+      "canada": "캐나다",
       "china": "중국",
+      "denmark": "덴마크",
       "eu": "유럽연합",
       "finland": "핀란드",
       "greece": "그리스",
+      "ireland": "아일랜드",
       "israel": "이스라엘",
       "japan": "일본",
       "netherlands": "네덜란드",

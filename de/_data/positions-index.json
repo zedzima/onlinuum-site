@@ -59,7 +59,8 @@
           "digital-marketing-consulting"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition"
         ],
         "industries": [
           "saas",
@@ -70,7 +71,8 @@
           "germany",
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english",
@@ -173,6 +175,7 @@
         "countries": [
           "germany",
           "uk",
+          "spain",
           "netherlands"
         ],
         "languages": [
@@ -283,6 +286,7 @@
         ],
         "countries": [
           "germany",
+          "spain",
           "netherlands",
           "poland",
           "sweden",
@@ -411,6 +415,7 @@
           "uk",
           "germany",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -518,11 +523,15 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -643,6 +652,7 @@
           "israel",
           "germany",
           "poland",
+          "spain",
           "uk"
         ],
         "languages": [
@@ -717,6 +727,7 @@
     },
     "services": {
       "aso": "App-Store-Optimierung",
+      "app-user-acquisition": "User Acquisition für Apps",
       "seo": "SEO-Leistungen",
       "ppc": "Google Ads",
       "content": "Content-Marketing",
@@ -733,15 +744,19 @@
       "uk": "Vereinigtes Königreich",
       "austria": "Österreich",
       "poland": "Polen",
+      "spain": "Spanien",
       "netherlands": "Niederlande",
       "sweden": "Schweden",
       "japan": "Japan",
       "malaysia": "Malaysia",
       "belgium": "Belgien",
+      "canada": "Kanada",
       "china": "China",
+      "denmark": "Dänemark",
       "eu": "Europäische Union",
       "finland": "Finnland",
       "greece": "Griechenland",
+      "ireland": "Irland",
       "israel": "Israel",
       "switzerland": "Schweiz"
     },

@@ -1,6 +1,72 @@
 {
   "services": [
     {
+      "slug": "app-user-acquisition",
+      "url": "/services/app-user-acquisition",
+      "title": "User acquisition aplikacji: Apple Ads i Google UAC",
+      "description": "User acquisition dla aplikacji: Apple Search Ads, Google App Campaigns (Google UAC) i płatne social media pod instalacje. Zobacz cennik.",
+      "menu": "Pozyskiwanie użytkowników aplikacji",
+      "featured": true,
+      "scope_count": 1,
+      "expert_count": 1,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "performance-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "austria",
+          "poland",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "polish",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "aso",
       "url": "/services/aso",
       "title": "App Store Optimization: widoczność aplikacji",
@@ -42,11 +108,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -112,11 +182,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -160,10 +234,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -226,11 +303,15 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -294,11 +375,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -354,10 +439,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -378,12 +466,13 @@
   "labels": {
     "domains": {
       "app-marketing": "Marketing aplikacji",
+      "performance-marketing": "Marketing efektywnościowy",
       "search-marketing": "Marketing w wyszukiwarkach",
       "community-marketing": "Marketing społecznościowy",
-      "product-marketing": "Marketing produktu",
-      "performance-marketing": "Marketing efektywnościowy"
+      "product-marketing": "Marketing produktu"
     },
     "scopes": {
+      "apple-search-ads": "Apple Search Ads",
       "aso-optimization": "Optymalizacja aplikacji",
       "aso-localization": "Lokalizacja aplikacji",
       "seo-research": "Analiza SEO",
@@ -415,11 +504,15 @@
       "uk": "Wielka Brytania",
       "austria": "Austria",
       "poland": "Polska",
+      "spain": "Hiszpania",
       "belgium": "Belgia",
+      "canada": "Kanada",
       "china": "Chiny",
+      "denmark": "Dania",
       "eu": "Unia Europejska",
       "finland": "Finlandia",
       "greece": "Grecja",
+      "ireland": "Irlandia",
       "israel": "Izrael",
       "japan": "Japonia",
       "netherlands": "Holandia",

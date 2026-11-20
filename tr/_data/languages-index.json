@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -62,6 +62,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -73,15 +74,19 @@
         ],
         "countries": [
           "uk",
+          "canada",
           "netherlands",
           "turkey",
           "poland",
+          "spain",
           "sweden",
           "israel",
           "malaysia",
           "belgium",
           "austria",
           "greece",
+          "denmark",
+          "ireland",
           "switzerland",
           "finland",
           "eu"
@@ -116,7 +121,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -151,6 +156,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -163,6 +169,7 @@
         "countries": [
           "switzerland",
           "austria",
+          "canada",
           "eu"
         ],
         "positions": [
@@ -280,6 +287,7 @@
       "social-media": "Sosyal Medya",
       "aso": "ASO Hizmeti",
       "orm": "İtibar Yönetimi",
+      "app-user-acquisition": "Uygulamalar İçin User Acquisition",
       "seo": "SEO Hizmeti",
       "ppc": "Performans Pazarlama"
     },
@@ -291,15 +299,19 @@
     },
     "countries": {
       "uk": "Birleşik Krallık",
+      "canada": "Kanada",
       "netherlands": "Hollanda",
       "turkey": "Türkiye",
       "poland": "Polonya",
+      "spain": "İspanya",
       "sweden": "İsveç",
       "israel": "İsrail",
       "malaysia": "Malezya",
       "belgium": "Belçika",
       "austria": "Avusturya",
       "greece": "Yunanistan",
+      "denmark": "Danimarka",
+      "ireland": "İrlanda",
       "switzerland": "İsviçre",
       "finland": "Finlandiya",
       "eu": "Avrupa Birliği"

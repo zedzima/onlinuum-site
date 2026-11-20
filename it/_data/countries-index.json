@@ -15,7 +15,7 @@
       "dominant_language_name": "tedesco",
       "dominant_language_code": "de",
       "scope_count": 8,
-      "service_count": 3,
+      "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -47,6 +47,7 @@
         "services": [
           "content",
           "aso",
+          "app-user-acquisition",
           "seo"
         ],
         "industries": [
@@ -83,7 +84,7 @@
       "dominant_language_name": "inglese",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -119,6 +120,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -130,6 +132,76 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "canada",
+      "url": "/countries/canada",
+      "title": "Marketing in Canada: inglese e francese canadese",
+      "description": "Marketing in Canada per marchi internazionali e aziende italiane in Canada: servizi a catalogo con esperti madrelingua di inglese e francese canadese.",
+      "menu": "Canada",
+      "featured": false,
+      "flag": "🇨🇦",
+      "population_total": "38.8M",
+      "population_total_raw": 38794800,
+      "official_languages_count": 11,
+      "significant_languages_count": 11,
+      "dominant_language_name": "inglese",
+      "dominant_language_code": "en",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ],
         "positions": [
           "seo-expert"
@@ -151,7 +223,7 @@
       "dominant_language_name": "cinese",
       "dominant_language_code": "zh",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -187,6 +259,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -195,6 +268,71 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "denmark",
+      "url": "/countries/denmark",
+      "title": "Marketing e SEO per aziende italiane in Danimarca",
+      "description": "Agenzia di marketing per la Danimarca, per aziende italiane e internazionali: pacchetti a prezzo fisso, danese dove rende, nessun ufficio a Copenaghen.",
+      "menu": "Danimarca",
+      "featured": false,
+      "flag": "🇩🇰",
+      "population_total": "5.97M",
+      "population_total_raw": 5973140,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "danese",
+      "dominant_language_code": "da",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -216,7 +354,7 @@
       "dominant_language_name": "inglese",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -257,6 +395,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -290,7 +429,7 @@
       "dominant_language_name": "finlandese",
       "dominant_language_code": "fi",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -322,6 +461,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -354,7 +494,7 @@
       "dominant_language_name": "greco",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -390,6 +530,76 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "ireland",
+      "url": "/countries/ireland",
+      "title": "Marketing digitale per aziende italiane in Irlanda",
+      "description": "Marketing digitale in Irlanda per marchi internazionali e aziende italiane in Irlanda: servizi a catalogo con esperti madrelingua di inglese irlandese.",
+      "menu": "Irlanda",
+      "featured": false,
+      "flag": "🇮🇪",
+      "population_total": "5.23M",
+      "population_total_raw": 5233460,
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "inglese",
+      "dominant_language_code": "en",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -422,7 +632,7 @@
       "dominant_language_name": "ebraico",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -458,6 +668,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -491,7 +702,7 @@
       "dominant_language_name": "italiano",
       "dominant_language_code": "it",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -527,6 +738,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -562,7 +774,7 @@
       "dominant_language_name": "giapponese",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -598,6 +810,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -691,7 +904,7 @@
       "dominant_language_name": "olandese",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -727,6 +940,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -761,7 +975,7 @@
       "dominant_language_name": "polacco",
       "dominant_language_code": "pl",
       "scope_count": 13,
-      "service_count": 4,
+      "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -800,6 +1014,7 @@
         "services": [
           "content",
           "aso",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -827,6 +1042,87 @@
       }
     },
     {
+      "slug": "spain",
+      "url": "/countries/spain",
+      "title": "Marketing digitale per il mercato spagnolo",
+      "description": "Marketing digitale per il mercato spagnolo, per marchi internazionali e aziende italiane in Spagna: servizi a catalogo con esperti spagnoli madrelingua.",
+      "menu": "Spagna",
+      "featured": false,
+      "flag": "🇪🇸",
+      "population_total": "47.3M",
+      "population_total_raw": 47280400,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "spagnolo",
+      "dominant_language_code": "es",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "sweden",
       "url": "/countries/sweden",
       "title": "Marketing per Aziende Italiane in Svezia e Paesi Nordici",
@@ -841,7 +1137,7 @@
       "dominant_language_name": "svedese",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -877,6 +1173,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -910,7 +1207,7 @@
       "dominant_language_name": "tedesco",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -946,6 +1243,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -979,7 +1277,7 @@
       "dominant_language_name": "inglese",
       "dominant_language_code": "en",
       "scope_count": 14,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
       "solution_count": 2,
@@ -1023,6 +1321,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -1087,6 +1386,7 @@
     "services": {
       "content": "Content marketing",
       "aso": "ASO",
+      "app-user-acquisition": "User acquisition per app",
       "seo": "SEO",
       "social-media": "Social media",
       "orm": "Web reputation",

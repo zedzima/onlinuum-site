@@ -59,7 +59,8 @@
           "digital-marketing-consulting"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition"
         ],
         "industries": [
           "saas",
@@ -69,7 +70,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -170,6 +172,7 @@
         ],
         "countries": [
           "uk",
+          "spain",
           "netherlands"
         ],
         "languages": [
@@ -278,6 +281,7 @@
           "fintech"
         ],
         "countries": [
+          "spain",
           "netherlands",
           "poland",
           "sweden",
@@ -404,6 +408,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -509,11 +514,15 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -634,6 +643,7 @@
         "countries": [
           "israel",
           "poland",
+          "spain",
           "uk"
         ],
         "languages": [
@@ -707,6 +717,7 @@
     },
     "services": {
       "aso": "ASO 최적화",
+      "app-user-acquisition": "앱 사용자 획득",
       "seo": "SEO 대행",
       "ppc": "검색광고",
       "content": "콘텐츠 마케팅",
@@ -722,15 +733,19 @@
       "uk": "영국",
       "austria": "오스트리아",
       "poland": "폴란드",
+      "spain": "스페인",
       "netherlands": "네덜란드",
       "sweden": "스웨덴",
       "japan": "일본",
       "malaysia": "말레이시아",
       "belgium": "벨기에",
+      "canada": "캐나다",
       "china": "중국",
+      "denmark": "덴마크",
       "eu": "유럽연합",
       "finland": "핀란드",
       "greece": "그리스",
+      "ireland": "아일랜드",
       "israel": "이스라엘",
       "south-korea": "대한민국",
       "switzerland": "스위스"

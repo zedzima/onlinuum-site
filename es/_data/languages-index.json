@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -62,6 +62,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -73,6 +74,7 @@
         ],
         "countries": [
           "uk",
+          "canada",
           "netherlands",
           "poland",
           "spain",
@@ -82,6 +84,8 @@
           "belgium",
           "austria",
           "greece",
+          "denmark",
+          "ireland",
           "switzerland",
           "finland",
           "eu"
@@ -116,7 +120,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -151,6 +155,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -163,6 +168,7 @@
         "countries": [
           "switzerland",
           "austria",
+          "canada",
           "eu"
         ],
         "positions": [
@@ -187,7 +193,7 @@
       "market_country_count": 24,
       "official_countries_count": 24,
       "scope_count": 13,
-      "service_count": 4,
+      "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -225,6 +231,7 @@
         "services": [
           "content",
           "aso",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -237,6 +244,7 @@
         "countries": [
           "spain",
           "uk",
+          "canada",
           "eu"
         ],
         "blog-posts": [
@@ -298,6 +306,7 @@
       "social-media": "Redes sociales",
       "aso": "ASO",
       "orm": "Reputación online",
+      "app-user-acquisition": "User acquisition para apps",
       "seo": "SEO",
       "ppc": "PPC"
     },
@@ -309,6 +318,7 @@
     },
     "countries": {
       "uk": "Reino Unido",
+      "canada": "Canadá",
       "netherlands": "Países Bajos",
       "poland": "Polonia",
       "spain": "España",
@@ -318,6 +328,8 @@
       "belgium": "Bélgica",
       "austria": "Austria",
       "greece": "Grecia",
+      "denmark": "Dinamarca",
+      "ireland": "Irlanda",
       "switzerland": "Suiza",
       "finland": "Finlandia",
       "eu": "Unión Europea"

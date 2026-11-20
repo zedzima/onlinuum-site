@@ -15,7 +15,7 @@
       "market_country_count": 69,
       "official_countries_count": 69,
       "scope_count": 14,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -62,6 +62,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -73,14 +74,18 @@
         ],
         "countries": [
           "uk",
+          "canada",
           "netherlands",
           "poland",
+          "spain",
           "sweden",
           "israel",
           "malaysia",
           "belgium",
           "austria",
           "greece",
+          "denmark",
+          "ireland",
           "switzerland",
           "finland",
           "eu"
@@ -143,7 +148,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -178,6 +183,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -190,6 +196,7 @@
         "countries": [
           "switzerland",
           "austria",
+          "canada",
           "eu"
         ],
         "positions": [
@@ -243,6 +250,7 @@
       "social-media": "רשתות חברתיות",
       "aso": "ASO",
       "orm": "ניהול מוניטין",
+      "app-user-acquisition": "רכישת משתמשים לאפליקציות",
       "seo": "קידום אתרים",
       "ppc": "PPC"
     },
@@ -254,14 +262,18 @@
     },
     "countries": {
       "uk": "בריטניה",
+      "canada": "קנדה",
       "netherlands": "הולנד",
       "poland": "פולין",
+      "spain": "ספרד",
       "sweden": "שוודיה",
       "israel": "ישראל",
       "malaysia": "מלזיה",
       "belgium": "בלגיה",
       "austria": "אוסטריה",
       "greece": "יוון",
+      "denmark": "דנמרק",
+      "ireland": "אירלנד",
       "switzerland": "שווייץ",
       "finland": "פינלנד",
       "eu": "האיחוד האירופי"

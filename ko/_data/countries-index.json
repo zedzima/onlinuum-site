@@ -15,7 +15,7 @@
       "dominant_language_name": "독일어",
       "dominant_language_code": "de",
       "scope_count": 8,
-      "service_count": 3,
+      "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -47,6 +47,7 @@
         "services": [
           "content",
           "aso",
+          "app-user-acquisition",
           "seo"
         ],
         "industries": [
@@ -83,7 +84,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -119,6 +120,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -130,6 +132,76 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "canada",
+      "url": "/countries/canada",
+      "title": "캐나다 마케팅: 캐나다 영어와 퀘벡 프랑스어 원어민 실행",
+      "description": "캐나다 시장에 진출하는 해외 브랜드를 위한 캐나다 마케팅. 캐나다 영어와 퀘벡 프랑스어 원어민 전문가가 상품화된 서비스로 실행합니다. 지금 시작하기.",
+      "menu": "캐나다",
+      "featured": false,
+      "flag": "🇨🇦",
+      "population_total": "38.8M",
+      "population_total_raw": 38794800,
+      "official_languages_count": 11,
+      "significant_languages_count": 11,
+      "dominant_language_name": "영어",
+      "dominant_language_code": "en",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ],
         "positions": [
           "seo-expert"
@@ -151,7 +223,7 @@
       "dominant_language_name": "중국어",
       "dominant_language_code": "zh",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -187,6 +259,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -195,6 +268,71 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "denmark",
+      "url": "/countries/denmark",
+      "title": "덴마크 광고와 SEO: 해외 브랜드를 위한 덴마크 시장 진출",
+      "description": "해외 기업을 위한 덴마크 광고와 SEO. 고정 가격 모듈, 효과가 있는 곳에만 덴마크어, 코펜하겐 사무실 없이 실행합니다. 서비스를 둘러보십시오.",
+      "menu": "덴마크",
+      "featured": false,
+      "flag": "🇩🇰",
+      "population_total": "5.97M",
+      "population_total_raw": 5973140,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "덴마크어",
+      "dominant_language_code": "da",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -216,7 +354,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -257,6 +395,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -290,7 +429,7 @@
       "dominant_language_name": "핀란드어",
       "dominant_language_code": "fi",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -322,6 +461,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -354,7 +494,7 @@
       "dominant_language_name": "그리스어",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -390,6 +530,76 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "ireland",
+      "url": "/countries/ireland",
+      "title": "아일랜드 마케팅: 아일랜드 영어 원어민의 시장 진출",
+      "description": "아일랜드 시장에 진출하는 해외 브랜드를 위한 아일랜드 마케팅. 아일랜드 영어 원어민 전문가가 상품화된 서비스로 실행합니다. 지금 시작하기.",
+      "menu": "아일랜드",
+      "featured": false,
+      "flag": "🇮🇪",
+      "population_total": "5.23M",
+      "population_total_raw": 5233460,
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "영어",
+      "dominant_language_code": "en",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -422,7 +632,7 @@
       "dominant_language_name": "히브리어",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -458,6 +668,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -491,7 +702,7 @@
       "dominant_language_name": "일본어",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -527,6 +738,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -620,7 +832,7 @@
       "dominant_language_name": "네덜란드어",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -656,6 +868,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -690,7 +903,7 @@
       "dominant_language_name": "폴란드어",
       "dominant_language_code": "pl",
       "scope_count": 13,
-      "service_count": 4,
+      "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -729,6 +942,7 @@
         "services": [
           "content",
           "aso",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -770,7 +984,7 @@
       "dominant_language_name": "한국어",
       "dominant_language_code": "ko",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -806,6 +1020,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -824,6 +1039,87 @@
       }
     },
     {
+      "slug": "spain",
+      "url": "/countries/spain",
+      "title": "스페인 시장 진출: 스페인어 원어민의 디지털 마케팅",
+      "description": "스페인 시장에 진출하는 해외 브랜드를 위한 스페인 마케팅. 유럽 스페인어 원어민 전문가가 상품화된 서비스로 실행합니다. 지금 시작하기.",
+      "menu": "스페인",
+      "featured": false,
+      "flag": "🇪🇸",
+      "population_total": "47.3M",
+      "population_total_raw": 47280400,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "스페인어",
+      "dominant_language_code": "es",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "sweden",
       "url": "/countries/sweden",
       "title": "스웨덴 마케팅: 스칸디나비아와 북유럽을 하나의 팀으로",
@@ -838,7 +1134,7 @@
       "dominant_language_name": "스웨덴어",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -874,6 +1170,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -907,7 +1204,7 @@
       "dominant_language_name": "독일어",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -943,6 +1240,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -976,7 +1274,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 14,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
       "solution_count": 2,
@@ -1020,6 +1318,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -1084,6 +1383,7 @@
     "services": {
       "content": "콘텐츠 마케팅",
       "aso": "ASO 최적화",
+      "app-user-acquisition": "앱 사용자 획득",
       "seo": "SEO 대행",
       "social-media": "SNS 마케팅",
       "orm": "평판 관리",

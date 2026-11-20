@@ -1,6 +1,72 @@
 {
   "services": [
     {
+      "slug": "app-user-acquisition",
+      "url": "/services/app-user-acquisition",
+      "title": "App User Acquisition: Apple Ads و Google UAC",
+      "description": "خدمات app user acquisition: إعلانات Apple Search Ads وGoogle App Campaigns والإعلانات المدفوعة على وسائل التواصل لزيادة التثبيتات. اطلعوا على الأسعار.",
+      "menu": "اكتساب مستخدمي التطبيقات",
+      "featured": true,
+      "scope_count": 1,
+      "expert_count": 1,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "performance-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "austria",
+          "poland",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "aso",
       "url": "/services/aso",
       "title": "تحسين متجر التطبيقات: خدمات ASO لـ iOS و Android",
@@ -42,11 +108,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -112,11 +182,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -161,10 +235,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -229,11 +306,15 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -299,11 +380,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -360,10 +445,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -386,12 +474,13 @@
   "labels": {
     "domains": {
       "app-marketing": "تسويق التطبيقات",
+      "performance-marketing": "تسويق الأداء",
       "search-marketing": "التسويق عبر محركات البحث",
       "community-marketing": "التسويق المجتمعي",
-      "product-marketing": "تسويق المنتجات",
-      "performance-marketing": "تسويق الأداء"
+      "product-marketing": "تسويق المنتجات"
     },
     "scopes": {
+      "apple-search-ads": "Apple Search Ads",
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
       "seo-research": "أبحاث السيو",
@@ -423,11 +512,15 @@
       "uk": "المملكة المتحدة",
       "austria": "النمسا",
       "poland": "بولندا",
+      "spain": "إسبانيا",
       "belgium": "بلجيكا",
+      "canada": "كندا",
       "china": "الصين",
+      "denmark": "الدنمارك",
       "eu": "الاتحاد الأوروبي",
       "finland": "فنلندا",
       "greece": "اليونان",
+      "ireland": "أيرلندا",
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",

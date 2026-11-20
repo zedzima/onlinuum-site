@@ -33,11 +33,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -89,11 +93,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -136,6 +144,9 @@
         "solutions": [
           "digital-marketing-consulting"
         ],
+        "services": [
+          "app-user-acquisition"
+        ],
         "industries": [
           "saas",
           "fintech",
@@ -145,11 +156,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -204,11 +219,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -264,11 +283,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -329,7 +352,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english",
@@ -424,6 +448,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -471,6 +496,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -521,6 +547,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -576,11 +603,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -644,11 +675,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -752,7 +787,8 @@
         ],
         "countries": [
           "uk",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -793,11 +829,15 @@
       "uk": "Wielka Brytania",
       "austria": "Austria",
       "poland": "Polska",
+      "spain": "Hiszpania",
       "belgium": "Belgia",
+      "canada": "Kanada",
       "china": "Chiny",
+      "denmark": "Dania",
       "eu": "Unia Europejska",
       "finland": "Finlandia",
       "greece": "Grecja",
+      "ireland": "Irlandia",
       "israel": "Izrael",
       "japan": "Japonia",
       "netherlands": "Holandia",
@@ -818,6 +858,7 @@
       "ppc-specialist": "Specjalista Google Ads"
     },
     "services": {
+      "app-user-acquisition": "Pozyskiwanie użytkowników aplikacji",
       "aso": "ASO aplikacji",
       "content": "Content marketing",
       "seo": "Pozycjonowanie",

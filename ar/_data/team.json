@@ -123,6 +123,7 @@
           "content",
           "seo",
           "ppc",
+          "app-user-acquisition",
           "aso"
         ],
         "industries": [
@@ -135,10 +136,13 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
           "eu",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -221,12 +225,15 @@
         "countries": [
           "poland",
           "belgium",
+          "canada",
           "china",
           "eu",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
+          "spain",
           "sweden",
           "switzerland",
           "uk"
@@ -266,6 +273,7 @@
       "content": "التسويق بالمحتوى",
       "seo": "سيو SEO",
       "ppc": "PPC",
+      "app-user-acquisition": "اكتساب مستخدمي التطبيقات",
       "aso": "تحسين متجر التطبيقات ASO"
     },
     "industries": {
@@ -279,9 +287,12 @@
       "uk": "المملكة المتحدة",
       "austria": "النمسا",
       "poland": "بولندا",
+      "spain": "إسبانيا",
       "belgium": "بلجيكا",
+      "canada": "كندا",
       "china": "الصين",
       "greece": "اليونان",
+      "ireland": "أيرلندا",
       "israel": "إسرائيل",
       "japan": "اليابان",
       "malaysia": "ماليزيا",

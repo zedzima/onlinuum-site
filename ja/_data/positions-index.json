@@ -59,7 +59,8 @@
           "digital-marketing-consulting"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition"
         ],
         "industries": [
           "saas",
@@ -69,7 +70,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -170,6 +172,7 @@
         ],
         "countries": [
           "uk",
+          "spain",
           "netherlands"
         ],
         "languages": [
@@ -278,6 +281,7 @@
           "fintech"
         ],
         "countries": [
+          "spain",
           "netherlands",
           "poland",
           "sweden",
@@ -405,6 +409,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -510,11 +515,15 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -634,6 +643,7 @@
         "countries": [
           "israel",
           "poland",
+          "spain",
           "uk"
         ],
         "languages": [
@@ -707,6 +717,7 @@
     },
     "services": {
       "aso": "ASO対策",
+      "app-user-acquisition": "アプリの集客と広告運用",
       "seo": "SEO対策",
       "ppc": "リスティング広告",
       "content": "コンテンツマーケティング",
@@ -722,15 +733,19 @@
       "uk": "イギリス",
       "austria": "オーストリア",
       "poland": "ポーランド",
+      "spain": "スペイン",
       "netherlands": "オランダ",
       "sweden": "スウェーデン",
       "japan": "日本",
       "malaysia": "マレーシア",
       "belgium": "ベルギー",
+      "canada": "カナダ",
       "china": "中国",
+      "denmark": "デンマーク",
       "eu": "欧州連合",
       "finland": "フィンランド",
       "greece": "ギリシャ",
+      "ireland": "アイルランド",
       "israel": "イスラエル",
       "switzerland": "スイス"
     },

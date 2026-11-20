@@ -1,6 +1,72 @@
 {
   "services": [
     {
+      "slug": "app-user-acquisition",
+      "url": "/services/app-user-acquisition",
+      "title": "App user acquisition: Apple Ads en Google App Campaigns",
+      "description": "App user acquisition: Apple Search Ads, Google App Campaigns en betaalde social voor app installs. Vanaf $ 400/maand. Bekijk de prijzen.",
+      "menu": "App user acquisition",
+      "featured": true,
+      "scope_count": 1,
+      "expert_count": 1,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "performance-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "austria",
+          "poland",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "dutch",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "aso",
       "url": "/services/aso",
       "title": "App Store Optimalisatie: ASO voor iOS en Android",
@@ -42,11 +108,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -112,11 +182,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -160,10 +234,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -227,11 +304,15 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -296,11 +377,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -356,10 +441,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -381,12 +469,13 @@
   "labels": {
     "domains": {
       "app-marketing": "App marketing",
+      "performance-marketing": "Performancemarketing",
       "search-marketing": "Zoekmachinemarketing",
       "community-marketing": "Community marketing",
-      "product-marketing": "Productmarketing",
-      "performance-marketing": "Performancemarketing"
+      "product-marketing": "Productmarketing"
     },
     "scopes": {
+      "apple-search-ads": "Apple Search Ads",
       "aso-optimization": "ASO-optimalisatie",
       "aso-localization": "App vertalen",
       "seo-research": "Zoekwoordenonderzoek",
@@ -418,11 +507,15 @@
       "uk": "Verenigd Koninkrijk",
       "austria": "Oostenrijk",
       "poland": "Polen",
+      "spain": "Spanje",
       "belgium": "België",
+      "canada": "Canada",
       "china": "China",
+      "denmark": "Denemarken",
       "eu": "Europese Unie",
       "finland": "Finland",
       "greece": "Griekenland",
+      "ireland": "Ierland",
       "israel": "Israël",
       "japan": "Japan",
       "netherlands": "Nederland",

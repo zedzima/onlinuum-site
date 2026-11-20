@@ -59,7 +59,8 @@
           "digital-marketing-consulting"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition"
         ],
         "industries": [
           "saas",
@@ -69,7 +70,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -170,6 +172,7 @@
         ],
         "countries": [
           "uk",
+          "spain",
           "netherlands",
           "uae"
         ],
@@ -280,6 +283,7 @@
           "fintech"
         ],
         "countries": [
+          "spain",
           "netherlands",
           "poland",
           "sweden",
@@ -408,6 +412,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia",
           "uae"
         ],
@@ -514,11 +519,15 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -640,6 +649,7 @@
           "uae",
           "israel",
           "poland",
+          "spain",
           "uk"
         ],
         "languages": [
@@ -713,6 +723,7 @@
     },
     "services": {
       "aso": "تحسين متجر التطبيقات ASO",
+      "app-user-acquisition": "اكتساب مستخدمي التطبيقات",
       "seo": "سيو SEO",
       "ppc": "PPC",
       "content": "التسويق بالمحتوى",
@@ -728,16 +739,20 @@
       "uk": "المملكة المتحدة",
       "austria": "النمسا",
       "poland": "بولندا",
+      "spain": "إسبانيا",
       "netherlands": "هولندا",
       "uae": "الإمارات",
       "sweden": "السويد",
       "japan": "اليابان",
       "malaysia": "ماليزيا",
       "belgium": "بلجيكا",
+      "canada": "كندا",
       "china": "الصين",
+      "denmark": "الدنمارك",
       "eu": "الاتحاد الأوروبي",
       "finland": "فنلندا",
       "greece": "اليونان",
+      "ireland": "أيرلندا",
       "israel": "إسرائيل",
       "switzerland": "سويسرا"
     },

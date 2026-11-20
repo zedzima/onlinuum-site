@@ -33,11 +33,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -89,11 +93,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -136,6 +144,9 @@
         "solutions": [
           "digital-marketing-consulting"
         ],
+        "services": [
+          "app-user-acquisition"
+        ],
         "industries": [
           "saas",
           "fintech",
@@ -145,11 +156,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -204,11 +219,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -264,11 +283,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -329,7 +352,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -423,6 +447,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -470,6 +495,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -520,6 +546,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -575,11 +602,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -643,11 +674,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -750,7 +785,8 @@
         ],
         "countries": [
           "uk",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -791,11 +827,15 @@
       "uk": "영국",
       "austria": "오스트리아",
       "poland": "폴란드",
+      "spain": "스페인",
       "belgium": "벨기에",
+      "canada": "캐나다",
       "china": "중국",
+      "denmark": "덴마크",
       "eu": "유럽연합",
       "finland": "핀란드",
       "greece": "그리스",
+      "ireland": "아일랜드",
       "israel": "이스라엘",
       "japan": "일본",
       "netherlands": "네덜란드",
@@ -816,6 +856,7 @@
       "ppc-specialist": "퍼포먼스 마케터"
     },
     "services": {
+      "app-user-acquisition": "앱 사용자 획득",
       "aso": "ASO 최적화",
       "content": "콘텐츠 마케팅",
       "seo": "SEO 대행",

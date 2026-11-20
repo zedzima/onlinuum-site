@@ -1,6 +1,72 @@
 {
   "services": [
     {
+      "slug": "app-user-acquisition",
+      "url": "/services/app-user-acquisition",
+      "title": "User Acquisition para Apps: Apple Ads y Google UAC",
+      "description": "Servicios de user acquisition para apps: Apple Search Ads, Google UAC y social de pago para conseguir instalaciones. Consulta los precios.",
+      "menu": "User acquisition para apps",
+      "featured": true,
+      "scope_count": 1,
+      "expert_count": 1,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "performance-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "austria",
+          "poland",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "aso",
       "url": "/services/aso",
       "title": "ASO: Optimización de Fichas en App Store y Play",
@@ -44,10 +110,13 @@
           "poland",
           "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -115,10 +184,13 @@
           "poland",
           "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -162,10 +234,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -230,10 +305,13 @@
           "poland",
           "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -300,10 +378,13 @@
           "poland",
           "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -359,10 +440,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -383,12 +467,13 @@
   "labels": {
     "domains": {
       "app-marketing": "Marketing de apps",
+      "performance-marketing": "Marketing de resultados",
       "search-marketing": "Marketing en buscadores",
       "community-marketing": "Marketing de comunidad",
-      "product-marketing": "Marketing de producto",
-      "performance-marketing": "Marketing de resultados"
+      "product-marketing": "Marketing de producto"
     },
     "scopes": {
+      "apple-search-ads": "Apple Search Ads",
       "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
       "seo-research": "Keyword research",
@@ -422,10 +507,13 @@
       "poland": "Polonia",
       "spain": "España",
       "belgium": "Bélgica",
+      "canada": "Canadá",
       "china": "China",
+      "denmark": "Dinamarca",
       "eu": "Unión Europea",
       "finland": "Finlandia",
       "greece": "Grecia",
+      "ireland": "Irlanda",
       "israel": "Israel",
       "japan": "Japón",
       "netherlands": "Países Bajos",

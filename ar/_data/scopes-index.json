@@ -33,11 +33,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -88,11 +92,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -134,6 +142,9 @@
         "solutions": [
           "digital-marketing-consulting"
         ],
+        "services": [
+          "app-user-acquisition"
+        ],
         "industries": [
           "saas",
           "fintech",
@@ -143,11 +154,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -202,11 +217,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -263,11 +282,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -328,7 +351,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -422,6 +446,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia",
           "uae"
         ],
@@ -471,6 +496,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia",
           "uae"
         ],
@@ -522,6 +548,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia",
           "uae"
         ],
@@ -579,11 +606,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -648,11 +679,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -756,7 +791,8 @@
         ],
         "countries": [
           "uk",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -797,11 +833,15 @@
       "uk": "المملكة المتحدة",
       "austria": "النمسا",
       "poland": "بولندا",
+      "spain": "إسبانيا",
       "belgium": "بلجيكا",
+      "canada": "كندا",
       "china": "الصين",
+      "denmark": "الدنمارك",
       "eu": "الاتحاد الأوروبي",
       "finland": "فنلندا",
       "greece": "اليونان",
+      "ireland": "أيرلندا",
       "israel": "إسرائيل",
       "japan": "اليابان",
       "netherlands": "هولندا",
@@ -823,6 +863,7 @@
       "ppc-specialist": "متخصص PPC"
     },
     "services": {
+      "app-user-acquisition": "اكتساب مستخدمي التطبيقات",
       "aso": "تحسين متجر التطبيقات ASO",
       "content": "التسويق بالمحتوى",
       "seo": "سيو SEO",

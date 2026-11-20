@@ -59,7 +59,8 @@
           "digital-marketing-consulting"
         ],
         "services": [
-          "aso"
+          "aso",
+          "app-user-acquisition"
         ],
         "industries": [
           "saas",
@@ -69,7 +70,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -170,6 +172,7 @@
         ],
         "countries": [
           "uk",
+          "spain",
           "netherlands"
         ],
         "languages": [
@@ -278,6 +281,7 @@
           "fintech"
         ],
         "countries": [
+          "spain",
           "netherlands",
           "poland",
           "sweden",
@@ -404,6 +408,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -509,11 +514,15 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -633,6 +642,7 @@
         "countries": [
           "israel",
           "poland",
+          "spain",
           "uk"
         ],
         "languages": [
@@ -706,6 +716,7 @@
     },
     "services": {
       "aso": "ASO",
+      "app-user-acquisition": "רכישת משתמשים לאפליקציות",
       "seo": "קידום אתרים",
       "ppc": "PPC",
       "content": "שיווק תוכן",
@@ -721,15 +732,19 @@
       "uk": "בריטניה",
       "austria": "אוסטריה",
       "poland": "פולין",
+      "spain": "ספרד",
       "netherlands": "הולנד",
       "sweden": "שוודיה",
       "japan": "יפן",
       "malaysia": "מלזיה",
       "belgium": "בלגיה",
+      "canada": "קנדה",
       "china": "סין",
+      "denmark": "דנמרק",
       "eu": "האיחוד האירופי",
       "finland": "פינלנד",
       "greece": "יוון",
+      "ireland": "אירלנד",
       "israel": "ישראל",
       "switzerland": "שווייץ"
     },

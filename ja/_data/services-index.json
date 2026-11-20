@@ -1,6 +1,71 @@
 {
   "services": [
     {
+      "slug": "app-user-acquisition",
+      "url": "/services/app-user-acquisition",
+      "title": "アプリ広告の運用代行｜Apple Search Ads・アプリキャンペーン",
+      "description": "アプリ広告の運用代行。Apple Search Ads、Google アプリキャンペーン、SNS広告でインストールを獲得します。料金プランをご覧ください。",
+      "menu": "アプリの集客と広告運用",
+      "featured": true,
+      "scope_count": 1,
+      "expert_count": 1,
+      "starting_price": 400.0,
+      "from_price": 400.0,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "domains": [
+        "app-marketing",
+        "performance-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "app-marketing",
+          "performance-marketing"
+        ],
+        "scopes": [
+          "apple-search-ads"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "austria",
+          "poland",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
+        ]
+      }
+    },
+    {
       "slug": "aso",
       "url": "/services/aso",
       "title": "ASO対策｜アプリストア最適化を任せられるASO会社",
@@ -42,11 +107,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -111,11 +180,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -158,10 +231,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -224,11 +300,15 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -292,11 +372,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -351,10 +435,13 @@
         "countries": [
           "uk",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -375,12 +462,13 @@
   "labels": {
     "domains": {
       "app-marketing": "アプリマーケティング",
+      "performance-marketing": "パフォーマンスマーケティング",
       "search-marketing": "検索マーケティング",
       "community-marketing": "コミュニティマーケティング",
-      "product-marketing": "プロダクトマーケティング",
-      "performance-marketing": "パフォーマンスマーケティング"
+      "product-marketing": "プロダクトマーケティング"
     },
     "scopes": {
+      "apple-search-ads": "Apple Search Ads",
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
       "seo-research": "キーワード選定",
@@ -412,11 +500,15 @@
       "uk": "イギリス",
       "austria": "オーストリア",
       "poland": "ポーランド",
+      "spain": "スペイン",
       "belgium": "ベルギー",
+      "canada": "カナダ",
       "china": "中国",
+      "denmark": "デンマーク",
       "eu": "欧州連合",
       "finland": "フィンランド",
       "greece": "ギリシャ",
+      "ireland": "アイルランド",
       "israel": "イスラエル",
       "japan": "日本",
       "netherlands": "オランダ",

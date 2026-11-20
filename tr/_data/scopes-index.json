@@ -33,11 +33,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -88,11 +92,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -134,6 +142,9 @@
         "solutions": [
           "digital-marketing-consulting"
         ],
+        "services": [
+          "app-user-acquisition"
+        ],
         "industries": [
           "saas",
           "fintech",
@@ -143,11 +154,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -201,11 +216,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -260,11 +279,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
@@ -324,7 +347,8 @@
         "countries": [
           "uk",
           "austria",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -418,6 +442,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia",
           "turkey"
         ],
@@ -467,6 +492,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia"
         ],
         "languages": [
@@ -517,6 +543,7 @@
         "countries": [
           "uk",
           "poland",
+          "spain",
           "malaysia",
           "turkey"
         ],
@@ -574,11 +601,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -643,11 +674,15 @@
           "uk",
           "austria",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
+          "denmark",
           "eu",
           "finland",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -752,7 +787,8 @@
         ],
         "countries": [
           "uk",
-          "poland"
+          "poland",
+          "spain"
         ],
         "languages": [
           "english"
@@ -793,11 +829,15 @@
       "uk": "Birleşik Krallık",
       "austria": "Avusturya",
       "poland": "Polonya",
+      "spain": "İspanya",
       "belgium": "Belçika",
+      "canada": "Kanada",
       "china": "Çin",
+      "denmark": "Danimarka",
       "eu": "Avrupa Birliği",
       "finland": "Finlandiya",
       "greece": "Yunanistan",
+      "ireland": "İrlanda",
       "israel": "İsrail",
       "japan": "Japonya",
       "netherlands": "Hollanda",
@@ -819,6 +859,7 @@
       "ppc-specialist": "Google Ads Uzmanı"
     },
     "services": {
+      "app-user-acquisition": "Uygulamalar İçin User Acquisition",
       "aso": "ASO Hizmeti",
       "content": "İçerik Pazarlama",
       "seo": "SEO Hizmeti",

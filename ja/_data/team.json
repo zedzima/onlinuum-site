@@ -123,6 +123,7 @@
           "content",
           "seo",
           "ppc",
+          "app-user-acquisition",
           "aso"
         ],
         "industries": [
@@ -135,10 +136,13 @@
           "austria",
           "uk",
           "poland",
+          "spain",
           "belgium",
+          "canada",
           "china",
           "eu",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "malaysia",
@@ -220,12 +224,15 @@
         "countries": [
           "poland",
           "belgium",
+          "canada",
           "china",
           "eu",
           "greece",
+          "ireland",
           "israel",
           "japan",
           "netherlands",
+          "spain",
           "sweden",
           "switzerland",
           "uk"
@@ -265,6 +272,7 @@
       "content": "コンテンツマーケティング",
       "seo": "SEO対策",
       "ppc": "リスティング広告",
+      "app-user-acquisition": "アプリの集客と広告運用",
       "aso": "ASO対策"
     },
     "industries": {
@@ -278,9 +286,12 @@
       "uk": "イギリス",
       "austria": "オーストリア",
       "poland": "ポーランド",
+      "spain": "スペイン",
       "belgium": "ベルギー",
+      "canada": "カナダ",
       "china": "中国",
       "greece": "ギリシャ",
+      "ireland": "アイルランド",
       "israel": "イスラエル",
       "japan": "日本",
       "malaysia": "マレーシア",

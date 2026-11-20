@@ -15,7 +15,7 @@
       "dominant_language_name": "גרמנית",
       "dominant_language_code": "de",
       "scope_count": 8,
-      "service_count": 3,
+      "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -47,6 +47,7 @@
         "services": [
           "content",
           "aso",
+          "app-user-acquisition",
           "seo"
         ],
         "industries": [
@@ -83,7 +84,7 @@
       "dominant_language_name": "אנגלית",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -119,6 +120,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -130,6 +132,76 @@
         ],
         "languages": [
           "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "canada",
+      "url": "/countries/canada",
+      "title": "עסקים בקנדה: שיווק דיגיטלי באנגלית ובצרפתית",
+      "description": "שיווק דיגיטלי בקנדה למותגים בינלאומיים: עסקים בקנדה עם שירותים מוצריים ומומחים ילידיים לאנגלית קנדית ולצרפתית. בואו נתחיל.",
+      "menu": "קנדה",
+      "featured": false,
+      "flag": "🇨🇦",
+      "population_total": "38.8M",
+      "population_total_raw": 38794800,
+      "official_languages_count": 11,
+      "significant_languages_count": 11,
+      "dominant_language_name": "אנגלית",
+      "dominant_language_code": "en",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "italian"
         ],
         "positions": [
           "seo-expert"
@@ -151,7 +223,7 @@
       "dominant_language_name": "סינית",
       "dominant_language_code": "zh",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -187,6 +259,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -195,6 +268,71 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "denmark",
+      "url": "/countries/denmark",
+      "title": "שיווק דיגיטלי בדנמרק למותגים בינלאומיים",
+      "description": "שיווק דיגיטלי בדנמרק לחברות בינלאומיות: מודולים במחיר קבוע, דנית רק איפה שהיא משתלמת ובלי משרד בקופנהגן. עיינו בשירותים.",
+      "menu": "דנמרק",
+      "featured": false,
+      "flag": "🇩🇰",
+      "population_total": "5.97M",
+      "population_total_raw": 5973140,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "דנית",
+      "dominant_language_code": "da",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -216,7 +354,7 @@
       "dominant_language_name": "אנגלית",
       "dominant_language_code": "en",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -257,6 +395,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -290,7 +429,7 @@
       "dominant_language_name": "פינית",
       "dominant_language_code": "fi",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -322,6 +461,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -354,7 +494,7 @@
       "dominant_language_name": "יוונית",
       "dominant_language_code": "el",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -390,6 +530,76 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "ireland",
+      "url": "/countries/ireland",
+      "title": "שיווק דיגיטלי באירלנד לחברות בינלאומיות",
+      "description": "שיווק דיגיטלי באירלנד למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים לאנגלית אירית. בואו נתחיל.",
+      "menu": "אירלנד",
+      "featured": false,
+      "flag": "🇮🇪",
+      "population_total": "5.23M",
+      "population_total_raw": 5233460,
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "אנגלית",
+      "dominant_language_code": "en",
+      "scope_count": 7,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -422,7 +632,7 @@
       "dominant_language_name": "עברית",
       "dominant_language_code": "he",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -458,6 +668,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -492,7 +703,7 @@
       "dominant_language_name": "יפנית",
       "dominant_language_code": "ja",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -528,6 +739,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -621,7 +833,7 @@
       "dominant_language_name": "הולנדית",
       "dominant_language_code": "nl",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -657,6 +869,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -691,7 +904,7 @@
       "dominant_language_name": "פולנית",
       "dominant_language_code": "pl",
       "scope_count": 13,
-      "service_count": 4,
+      "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -730,6 +943,7 @@
         "services": [
           "content",
           "aso",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -757,6 +971,87 @@
       }
     },
     {
+      "slug": "spain",
+      "url": "/countries/spain",
+      "title": "פתיחת עסק בספרד: שיווק דיגיטלי בספרדית ילידית",
+      "description": "שיווק דיגיטלי בספרד למותגים בינלאומיים, בלי פתיחת עסק בספרד: שירותים מוצריים עם מומחים ילידיים לספרדית. בואו נתחיל.",
+      "menu": "ספרד",
+      "featured": false,
+      "flag": "🇪🇸",
+      "population_total": "47.3M",
+      "population_total_raw": 47280400,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "ספרדית",
+      "dominant_language_code": "es",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "sweden",
       "url": "/countries/sweden",
       "title": "שיווק דיגיטלי בשוודיה ובסקנדינביה",
@@ -771,7 +1066,7 @@
       "dominant_language_name": "שוודית",
       "dominant_language_code": "sv",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -807,6 +1102,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -840,7 +1136,7 @@
       "dominant_language_name": "גרמנית",
       "dominant_language_code": "de",
       "scope_count": 7,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -876,6 +1172,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -909,7 +1206,7 @@
       "dominant_language_name": "אנגלית",
       "dominant_language_code": "en",
       "scope_count": 14,
-      "service_count": 6,
+      "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
       "solution_count": 2,
@@ -953,6 +1250,7 @@
           "social-media",
           "aso",
           "orm",
+          "app-user-acquisition",
           "seo",
           "ppc"
         ],
@@ -1017,6 +1315,7 @@
     "services": {
       "content": "שיווק תוכן",
       "aso": "ASO",
+      "app-user-acquisition": "רכישת משתמשים לאפליקציות",
       "seo": "קידום אתרים",
       "social-media": "רשתות חברתיות",
       "orm": "ניהול מוניטין",
