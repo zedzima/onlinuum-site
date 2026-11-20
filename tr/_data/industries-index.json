@@ -66,6 +66,7 @@
           "social-media"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -73,8 +74,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -92,6 +95,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -171,6 +175,7 @@
           "ppc"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -178,8 +183,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -197,6 +204,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -264,6 +272,7 @@
           "ppc"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -271,8 +280,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -290,6 +301,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "dutch",
           "greek",
           "italian",
@@ -372,6 +384,7 @@
           "social-media"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -379,8 +392,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -398,6 +413,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -475,6 +491,7 @@
       "social-media": "Sosyal Medya"
     },
     "countries": {
+      "usa": "ABD",
       "uk": "Birleşik Krallık",
       "france": "France",
       "austria": "Avusturya",
@@ -482,8 +499,10 @@
       "portugal": "Portugal",
       "spain": "İspanya",
       "belgium": "Belçika",
+      "bulgaria": "Bulgaristan",
       "canada": "Kanada",
       "china": "Çin",
+      "czechia": "Çekya",
       "denmark": "Danimarka",
       "estonia": "Estonya",
       "eu": "Avrupa Birliği",
@@ -501,6 +520,7 @@
     },
     "languages": {
       "english": "İngilizce",
+      "spanish": "İspanyolca",
       "arabic": "Arapça",
       "dutch": "Felemenkçe",
       "greek": "Yunanca",

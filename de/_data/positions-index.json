@@ -70,6 +70,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -79,7 +80,8 @@
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ]
       },
       "services": [
@@ -178,6 +180,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "spain",
@@ -186,6 +189,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "italian",
           "dutch",
           "arabic"
@@ -302,6 +306,7 @@
         ],
         "languages": [
           "german",
+          "spanish",
           "italian",
           "dutch",
           "japanese",
@@ -423,6 +428,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "france",
@@ -433,7 +439,8 @@
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ]
       },
       "services": [
@@ -536,12 +543,15 @@
           "austria",
           "uk",
           "france",
+          "usa",
           "poland",
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -559,10 +569,12 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "japanese",
           "arabic",
           "dutch",
           "greek",
+          "hebrew",
           "italian",
           "korean",
           "thai"
@@ -679,11 +691,13 @@
           "germany",
           "poland",
           "spain",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ]
       },
       "services": [
@@ -771,6 +785,7 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "usa": "USA",
       "uk": "Vereinigtes Königreich",
       "france": "Frankreich",
       "austria": "Österreich",
@@ -783,8 +798,10 @@
       "malaysia": "Malaysia",
       "singapore": "Singapur",
       "belgium": "Belgien",
+      "bulgaria": "Bulgarien",
       "canada": "Kanada",
       "china": "China",
+      "czechia": "Tschechien",
       "denmark": "Dänemark",
       "estonia": "Estland",
       "eu": "Europäische Union",
@@ -797,11 +814,13 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
+      "spanish": "Spanisch",
       "italian": "Italienisch",
       "dutch": "Niederländisch",
       "arabic": "Arabisch",
       "japanese": "Japanisch",
       "greek": "Griechisch",
+      "hebrew": "Hebräisch",
       "korean": "Koreanisch",
       "thai": "Thailändisch"
     },

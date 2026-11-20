@@ -66,6 +66,7 @@
           "social-media"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -73,8 +74,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -170,6 +173,7 @@
           "ppc"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -177,8 +181,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -262,6 +268,7 @@
           "ppc"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -269,8 +276,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -369,6 +378,7 @@
           "social-media"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -376,8 +386,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -471,6 +483,7 @@
       "social-media": "Redes sociales"
     },
     "countries": {
+      "usa": "Estados Unidos",
       "uk": "Reino Unido",
       "france": "Francia",
       "austria": "Austria",
@@ -478,8 +491,10 @@
       "portugal": "Portugal",
       "spain": "España",
       "belgium": "Bélgica",
+      "bulgaria": "Bulgaria",
       "canada": "Canadá",
       "china": "China",
+      "czechia": "Chequia",
       "denmark": "Dinamarca",
       "estonia": "Estonia",
       "eu": "Unión Europea",

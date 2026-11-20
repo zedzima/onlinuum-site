@@ -39,6 +39,7 @@
           "ecommerce"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -46,8 +47,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -112,6 +115,7 @@
           "ecommerce"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -119,8 +123,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -194,6 +200,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -201,8 +208,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -260,10 +269,13 @@
           "fintech"
         ],
         "countries": [
+          "usa",
           "uk",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -334,13 +346,16 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "poland",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -413,6 +428,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -420,8 +436,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -489,10 +507,13 @@
           "saas"
         ],
         "countries": [
+          "usa",
           "uk",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -562,6 +583,7 @@
       "manufacturing": "Industria"
     },
     "countries": {
+      "usa": "Estados Unidos",
       "uk": "Reino Unido",
       "france": "Francia",
       "austria": "Austria",
@@ -569,8 +591,10 @@
       "portugal": "Portugal",
       "spain": "España",
       "belgium": "Bélgica",
+      "bulgaria": "Bulgaria",
       "canada": "Canadá",
       "china": "China",
+      "czechia": "Chequia",
       "denmark": "Dinamarca",
       "estonia": "Estonia",
       "eu": "Unión Europea",

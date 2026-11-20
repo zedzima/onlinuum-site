@@ -45,7 +45,8 @@
         ],
         "countries": [
           "eu",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
           "english"
@@ -136,6 +137,7 @@
         ],
         "countries": [
           "austria",
+          "usa",
           "uk",
           "france",
           "poland",
@@ -144,6 +146,7 @@
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "greece",
           "ireland",
@@ -227,11 +230,13 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "portugal",
           "poland",
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "france",
           "greece",
@@ -297,6 +302,7 @@
     "countries": {
       "eu": "Unión Europea",
       "uk": "Reino Unido",
+      "usa": "Estados Unidos",
       "austria": "Austria",
       "france": "Francia",
       "poland": "Polonia",
@@ -305,6 +311,7 @@
       "belgium": "Bélgica",
       "canada": "Canadá",
       "china": "China",
+      "czechia": "Chequia",
       "greece": "Grecia",
       "ireland": "Irlanda",
       "israel": "Israel",

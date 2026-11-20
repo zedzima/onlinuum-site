@@ -146,6 +146,74 @@
       }
     },
     {
+      "slug": "bulgaria",
+      "url": "/countries/bulgaria",
+      "title": "Marketing Agentur Bulgarien für internationale Marken",
+      "description": "Marketing Agentur für Bulgarien, gesteuert von außerhalb: Module zum Festpreis, Umsetzung durch Muttersprachler, kein Büro in Sofia. Leistungen ansehen.",
+      "menu": "Bulgarien",
+      "featured": false,
+      "flag": "🇧🇬",
+      "population_total": "6.78M",
+      "population_total_raw": 6782660,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "Bulgarisch",
+      "dominant_language_code": "bg",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "canada",
       "url": "/countries/canada",
       "title": "Marketing Agentur Kanada: Englisch und Québec-Französisch",
@@ -213,6 +281,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "arabic",
           "italian",
           "german"
@@ -284,6 +353,78 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "czechia",
+      "url": "/countries/czechia",
+      "title": "Marketing Agentur Tschechien für internationale Marken",
+      "description": "Marketing Agentur für Tschechien und CEE: feste Leistungspakete mit tschechischen Muttersprachlern, kein Büro in Prag nötig. Leistungen entdecken.",
+      "menu": "Tschechien",
+      "featured": false,
+      "flag": "🇨🇿",
+      "population_total": "10.8M",
+      "population_total_raw": 10837900,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "Tschechisch",
+      "dominant_language_code": "cs",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "german"
         ],
         "positions": [
           "seo-expert"
@@ -500,6 +641,7 @@
           "english",
           "german",
           "italian",
+          "spanish",
           "dutch",
           "greek"
         ],
@@ -644,6 +786,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "german",
           "italian"
         ],
@@ -736,7 +879,8 @@
           "german",
           "english",
           "dutch",
-          "italian"
+          "italian",
+          "spanish"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -961,6 +1105,7 @@
           "manufacturing"
         ],
         "languages": [
+          "hebrew",
           "english",
           "arabic"
         ],
@@ -1326,7 +1471,8 @@
           "manufacturing"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -1480,6 +1626,7 @@
           "manufacturing"
         ],
         "languages": [
+          "spanish",
           "english"
         ],
         "blog-posts": [
@@ -1718,11 +1865,104 @@
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
           "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "usa",
+      "url": "/countries/usa",
+      "title": "Online Marketing USA für internationale Marken",
+      "description": "Online-Marketing in den USA für internationale Marken: feste Leistungspakete mit amerikanischen Muttersprachlern. Jetzt starten.",
+      "menu": "USA",
+      "featured": false,
+      "flag": "🇺🇸",
+      "population_total": "342M",
+      "population_total_raw": 341963000,
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "Englisch",
+      "dominant_language_code": "en",
+      "scope_count": 18,
+      "service_count": 7,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
         ],
         "positions": [
           "seo-expert",
@@ -1794,8 +2034,10 @@
       "english": "Englisch",
       "italian": "Italienisch",
       "dutch": "Niederländisch",
+      "spanish": "Spanisch",
       "arabic": "Arabisch",
       "greek": "Griechisch",
+      "hebrew": "Hebräisch",
       "japanese": "Japanisch"
     },
     "blog-posts": {

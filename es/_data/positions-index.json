@@ -69,6 +69,7 @@
           "ecommerce"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -176,6 +177,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "spain",
@@ -420,6 +422,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "poland",
@@ -531,12 +534,15 @@
           "austria",
           "uk",
           "france",
+          "usa",
           "poland",
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -558,6 +564,7 @@
           "arabic",
           "dutch",
           "greek",
+          "hebrew",
           "italian",
           "korean",
           "thai"
@@ -673,7 +680,8 @@
           "israel",
           "poland",
           "spain",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
           "english",
@@ -764,6 +772,7 @@
       "manufacturing": "Industria"
     },
     "countries": {
+      "usa": "Estados Unidos",
       "uk": "Reino Unido",
       "france": "Francia",
       "austria": "Austria",
@@ -776,8 +785,10 @@
       "malaysia": "Malasia",
       "singapore": "Singapur",
       "belgium": "Bélgica",
+      "bulgaria": "Bulgaria",
       "canada": "Canadá",
       "china": "China",
+      "czechia": "Chequia",
       "denmark": "Dinamarca",
       "estonia": "Estonia",
       "eu": "Unión Europea",
@@ -795,6 +806,7 @@
       "arabic": "Árabe",
       "japanese": "Japonés",
       "greek": "Griego",
+      "hebrew": "Hebreo",
       "korean": "Coreano",
       "thai": "Tailandés"
     },

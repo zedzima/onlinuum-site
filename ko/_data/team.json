@@ -45,7 +45,8 @@
         ],
         "countries": [
           "eu",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
           "english"
@@ -136,6 +137,7 @@
         ],
         "countries": [
           "austria",
+          "usa",
           "uk",
           "france",
           "poland",
@@ -144,6 +146,7 @@
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "greece",
           "ireland",
@@ -228,11 +231,13 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "portugal",
           "poland",
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "france",
           "greece",
@@ -251,7 +256,8 @@
           "english",
           "dutch",
           "greek",
-          "italian"
+          "italian",
+          "spanish"
         ]
       }
     }
@@ -298,6 +304,7 @@
     "countries": {
       "eu": "유럽연합",
       "uk": "영국",
+      "usa": "미국",
       "austria": "오스트리아",
       "france": "프랑스",
       "poland": "폴란드",
@@ -306,6 +313,7 @@
       "belgium": "벨기에",
       "canada": "캐나다",
       "china": "중국",
+      "czechia": "체코",
       "greece": "그리스",
       "ireland": "아일랜드",
       "israel": "이스라엘",
@@ -321,7 +329,8 @@
       "english": "영어",
       "dutch": "네덜란드어",
       "greek": "그리스어",
-      "italian": "이탈리아어"
+      "italian": "이탈리아어",
+      "spanish": "스페인어"
     },
     "positions": {
       "seo-expert": "SEO 채용"

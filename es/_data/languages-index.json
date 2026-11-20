@@ -214,6 +214,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "canada",
           "france",
@@ -231,7 +232,9 @@
           "ireland",
           "switzerland",
           "finland",
+          "czechia",
           "portugal",
+          "bulgaria",
           "estonia",
           "eu"
         ],
@@ -315,6 +318,34 @@
         "countries": [
           "greece",
           "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "hebrew",
+      "url": "/languages/hebrew",
+      "title": "Marketing en Hebreo con Expertos Nativos",
+      "description": "Marketing en hebreo para marcas que entran en Israel: expertos nativos, contenidos de derecha a izquierda y búsqueda en Google. Descubre servicios.",
+      "menu": "Hebreo",
+      "featured": false,
+      "flag": "",
+      "code": "HE",
+      "native_speakers_l1": "9.4M",
+      "market_speakers_display": "9.4M",
+      "market_speakers_est": 9402620,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "israel"
         ],
         "positions": [
           "seo-expert"
@@ -518,6 +549,7 @@
         ],
         "countries": [
           "spain",
+          "usa",
           "france",
           "uk",
           "canada",
@@ -649,6 +681,7 @@
       "netherlands": "Países Bajos",
       "belgium": "Bélgica",
       "eu": "Unión Europea",
+      "usa": "Estados Unidos",
       "uk": "Reino Unido",
       "france": "Francia",
       "poland": "Polonia",
@@ -662,7 +695,9 @@
       "ireland": "Irlanda",
       "switzerland": "Suiza",
       "finland": "Finlandia",
+      "czechia": "Chequia",
       "portugal": "Portugal",
+      "bulgaria": "Bulgaria",
       "estonia": "Estonia",
       "japan": "Japón"
     },

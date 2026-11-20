@@ -214,6 +214,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "canada",
           "france",
@@ -232,7 +233,9 @@
           "ireland",
           "switzerland",
           "finland",
+          "czechia",
           "portugal",
+          "bulgaria",
           "estonia",
           "eu"
         ],
@@ -316,6 +319,34 @@
         "countries": [
           "greece",
           "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "hebrew",
+      "url": "/languages/hebrew",
+      "title": "Testi in Ebraico e Marketing con Madrelingua",
+      "description": "Testi in ebraico e marketing per chi entra in Israele: esperti madrelingua, contenuti da destra a sinistra e ricerca su Google. Scopri i servizi.",
+      "menu": "Ebraico",
+      "featured": false,
+      "flag": "",
+      "code": "HE",
+      "native_speakers_l1": "9.4M",
+      "market_speakers_display": "9.4M",
+      "market_speakers_est": 9402620,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "israel"
         ],
         "positions": [
           "seo-expert"
@@ -454,6 +485,95 @@
       }
     },
     {
+      "slug": "spanish",
+      "url": "/languages/spanish",
+      "title": "Testi in Spagnolo e Marketing con Madrelingua",
+      "description": "Testi in spagnolo e marketing per chi entra in Spagna, America Latina e mercato ispanico degli USA: madrelingua per variante. Scopri i servizi.",
+      "menu": "Spagnolo",
+      "featured": false,
+      "flag": "",
+      "code": "ES",
+      "native_speakers_l1": "486M",
+      "market_speakers_display": "486M",
+      "market_speakers_est": 485723043,
+      "market_country_count": 24,
+      "official_countries_count": 24,
+      "scope_count": 14,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "spain",
+          "usa",
+          "france",
+          "uk",
+          "canada",
+          "portugal",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "thai",
       "url": "/languages/thai",
       "title": "Testi in tailandese, SEO e localizzazione",
@@ -563,6 +683,7 @@
       "netherlands": "Paesi Bassi",
       "belgium": "Belgio",
       "eu": "Unione Europea",
+      "usa": "Stati Uniti",
       "uk": "Regno Unito",
       "france": "Francia",
       "italy": "Italia",
@@ -577,7 +698,9 @@
       "ireland": "Irlanda",
       "switzerland": "Svizzera",
       "finland": "Finlandia",
+      "czechia": "Cechia",
       "portugal": "Portogallo",
+      "bulgaria": "Bulgaria",
       "estonia": "Estonia",
       "japan": "Giappone"
     },

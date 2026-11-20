@@ -214,6 +214,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "canada",
           "france",
@@ -231,7 +232,9 @@
           "ireland",
           "switzerland",
           "finland",
+          "czechia",
           "portugal",
+          "bulgaria",
           "estonia",
           "eu"
         ],
@@ -480,6 +483,95 @@
       }
     },
     {
+      "slug": "spanish",
+      "url": "/languages/spanish",
+      "title": "שיווק דיגיטלי בספרדית: מומחים ילידיים לכל גרסה",
+      "description": "שיווק דיגיטלי בספרדית למותגים שנכנסים לספרד, לאמריקה הלטינית ולשוק ההיספני בארצות הברית: מומחים ילידיים לכל גרסה. גלו את השירותים.",
+      "menu": "ספרדית",
+      "featured": false,
+      "flag": "",
+      "code": "ES",
+      "native_speakers_l1": "486M",
+      "market_speakers_display": "486M",
+      "market_speakers_est": 485723043,
+      "market_country_count": 24,
+      "official_countries_count": 24,
+      "scope_count": 14,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "spain",
+          "usa",
+          "france",
+          "uk",
+          "canada",
+          "portugal",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "thai",
       "url": "/languages/thai",
       "title": "Thai SEO ולוקליזציה לתאית: מומחים ילידיים",
@@ -589,6 +681,7 @@
       "netherlands": "הולנד",
       "belgium": "בלגיה",
       "eu": "האיחוד האירופי",
+      "usa": "ארה\"ב",
       "uk": "בריטניה",
       "france": "צרפת",
       "poland": "פולין",
@@ -602,7 +695,9 @@
       "ireland": "אירלנד",
       "switzerland": "שווייץ",
       "finland": "פינלנד",
+      "czechia": "צ'כיה",
       "portugal": "פורטוגל",
+      "bulgaria": "בולגריה",
       "estonia": "אסטוניה",
       "japan": "יפן"
     },

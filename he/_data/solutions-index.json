@@ -58,6 +58,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -65,8 +66,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -83,6 +86,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -140,6 +144,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -147,8 +152,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -165,6 +172,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -228,6 +236,7 @@
       "manufacturing": "תעשייה וייצור"
     },
     "countries": {
+      "usa": "ארה\"ב",
       "uk": "בריטניה",
       "france": "צרפת",
       "austria": "אוסטריה",
@@ -235,8 +244,10 @@
       "portugal": "פורטוגל",
       "spain": "ספרד",
       "belgium": "בלגיה",
+      "bulgaria": "בולגריה",
       "canada": "קנדה",
       "china": "סין",
+      "czechia": "צ'כיה",
       "denmark": "דנמרק",
       "estonia": "אסטוניה",
       "eu": "האיחוד האירופי",
@@ -253,6 +264,7 @@
     },
     "languages": {
       "english": "אנגלית",
+      "spanish": "ספרדית",
       "arabic": "ערבית",
       "dutch": "הולנדית",
       "greek": "יוונית",

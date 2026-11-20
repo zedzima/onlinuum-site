@@ -69,6 +69,7 @@
           "ecommerce"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -77,7 +78,8 @@
           "spain"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -175,6 +177,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "spain",
@@ -182,6 +185,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "italian",
           "dutch",
           "arabic"
@@ -297,6 +301,7 @@
           "japan"
         ],
         "languages": [
+          "spanish",
           "italian",
           "dutch",
           "turkish",
@@ -419,6 +424,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "poland",
@@ -427,7 +433,8 @@
           "singapore"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -529,12 +536,15 @@
           "austria",
           "uk",
           "france",
+          "usa",
           "poland",
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -552,10 +562,12 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "japanese",
           "arabic",
           "dutch",
           "greek",
+          "hebrew",
           "italian",
           "korean",
           "thai",
@@ -673,10 +685,12 @@
           "israel",
           "poland",
           "spain",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
           "english",
+          "spanish",
           "turkish"
         ]
       },
@@ -764,6 +778,7 @@
       "manufacturing": "Sanayi"
     },
     "countries": {
+      "usa": "ABD",
       "uk": "Birleşik Krallık",
       "france": "France",
       "austria": "Avusturya",
@@ -777,8 +792,10 @@
       "malaysia": "Malezya",
       "singapore": "Singapur",
       "belgium": "Belçika",
+      "bulgaria": "Bulgaristan",
       "canada": "Kanada",
       "china": "Çin",
+      "czechia": "Çekya",
       "denmark": "Danimarka",
       "estonia": "Estonya",
       "eu": "Avrupa Birliği",
@@ -790,12 +807,14 @@
     },
     "languages": {
       "english": "İngilizce",
+      "spanish": "İspanyolca",
       "italian": "İtalyanca",
       "dutch": "Felemenkçe",
       "arabic": "Arapça",
       "turkish": "Türkçe",
       "japanese": "Japonca",
       "greek": "Yunanca",
+      "hebrew": "İbranice",
       "korean": "Korece",
       "thai": "Tayca"
     },

@@ -45,7 +45,8 @@
         ],
         "countries": [
           "eu",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
           "english"
@@ -136,6 +137,7 @@
         ],
         "countries": [
           "austria",
+          "usa",
           "uk",
           "france",
           "poland",
@@ -144,6 +146,7 @@
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "greece",
           "ireland",
@@ -228,11 +231,13 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "portugal",
           "poland",
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "france",
           "greece",
@@ -250,7 +255,8 @@
           "english",
           "dutch",
           "greek",
-          "italian"
+          "italian",
+          "spanish"
         ]
       }
     }
@@ -297,6 +303,7 @@
     "countries": {
       "eu": "الاتحاد الأوروبي",
       "uk": "المملكة المتحدة",
+      "usa": "الولايات المتحدة",
       "austria": "النمسا",
       "france": "فرنسا",
       "poland": "بولندا",
@@ -305,6 +312,7 @@
       "belgium": "بلجيكا",
       "canada": "كندا",
       "china": "الصين",
+      "czechia": "التشيك",
       "greece": "اليونان",
       "ireland": "أيرلندا",
       "israel": "إسرائيل",
@@ -320,7 +328,8 @@
       "english": "الإنجليزية",
       "dutch": "الهولندية",
       "greek": "اليونانية",
-      "italian": "الإيطالية"
+      "italian": "الإيطالية",
+      "spanish": "الإسبانية"
     },
     "positions": {
       "seo-expert": "خبير SEO"

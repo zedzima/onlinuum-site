@@ -69,6 +69,7 @@
           "ecommerce"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -77,7 +78,8 @@
           "spain"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -175,6 +177,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "spain",
@@ -183,6 +186,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "italian",
           "dutch",
           "arabic"
@@ -298,6 +302,7 @@
           "japan"
         ],
         "languages": [
+          "spanish",
           "italian",
           "dutch",
           "japanese",
@@ -419,6 +424,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "poland",
@@ -427,7 +433,8 @@
           "singapore"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -529,12 +536,15 @@
           "austria",
           "uk",
           "france",
+          "usa",
           "poland",
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -552,10 +562,12 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "japanese",
           "arabic",
           "dutch",
           "greek",
+          "hebrew",
           "italian",
           "korean",
           "thai"
@@ -671,10 +683,12 @@
           "israel",
           "poland",
           "spain",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -761,6 +775,7 @@
       "manufacturing": "Manifatturiero"
     },
     "countries": {
+      "usa": "Stati Uniti",
       "uk": "Regno Unito",
       "france": "Francia",
       "austria": "Austria",
@@ -774,8 +789,10 @@
       "malaysia": "Malesia",
       "singapore": "Singapore",
       "belgium": "Belgio",
+      "bulgaria": "Bulgaria",
       "canada": "Canada",
       "china": "Cina",
+      "czechia": "Cechia",
       "denmark": "Danimarca",
       "estonia": "Estonia",
       "eu": "Unione Europea",
@@ -787,11 +804,13 @@
     },
     "languages": {
       "english": "Inglese",
+      "spanish": "Spagnolo",
       "italian": "Italiano",
       "dutch": "Olandese",
       "arabic": "Arabo",
       "japanese": "Giapponese",
       "greek": "Greco",
+      "hebrew": "Ebraico",
       "korean": "Coreano",
       "thai": "Tailandese"
     },

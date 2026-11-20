@@ -214,6 +214,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "canada",
           "france",
@@ -231,7 +232,9 @@
           "ireland",
           "switzerland",
           "finland",
+          "czechia",
           "portugal",
+          "bulgaria",
           "estonia",
           "eu"
         ],
@@ -315,6 +318,34 @@
         "countries": [
           "greece",
           "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "hebrew",
+      "url": "/languages/hebrew",
+      "title": "Marketing po hebrajsku: więcej niż tłumaczenie na hebrajski",
+      "description": "Marketing po hebrajsku dla marek wchodzących do Izraela: natywni specjaliści, treści od prawej do lewej i wyszukiwanie oparte na Google. Poznaj ofertę.",
+      "menu": "Hebrajski",
+      "featured": false,
+      "flag": "",
+      "code": "HE",
+      "native_speakers_l1": "9.4M",
+      "market_speakers_display": "9.4M",
+      "market_speakers_est": 9402620,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "israel"
         ],
         "positions": [
           "seo-expert"
@@ -527,6 +558,95 @@
       }
     },
     {
+      "slug": "spanish",
+      "url": "/languages/spanish",
+      "title": "Marketing po hiszpańsku: nie tylko tłumaczenie na hiszpański",
+      "description": "Marketing po hiszpańsku dla marek wchodzących do Hiszpanii, Ameryki Łacińskiej i na rynek latynoski w USA: natywni specjaliści dla każdego wariantu.",
+      "menu": "Hiszpański",
+      "featured": false,
+      "flag": "",
+      "code": "ES",
+      "native_speakers_l1": "486M",
+      "market_speakers_display": "486M",
+      "market_speakers_est": 485723043,
+      "market_country_count": 24,
+      "official_countries_count": 24,
+      "scope_count": 14,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "spain",
+          "usa",
+          "france",
+          "uk",
+          "canada",
+          "portugal",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "thai",
       "url": "/languages/thai",
       "title": "SEO po tajsku: więcej niż tłumaczenie na tajski",
@@ -636,6 +756,7 @@
       "netherlands": "Holandia",
       "belgium": "Belgia",
       "eu": "Unia Europejska",
+      "usa": "USA",
       "uk": "Wielka Brytania",
       "france": "Francja",
       "poland": "Polska",
@@ -649,7 +770,9 @@
       "ireland": "Irlandia",
       "switzerland": "Szwajcaria",
       "finland": "Finlandia",
+      "czechia": "Czechy",
       "portugal": "Portugalia",
+      "bulgaria": "Bułgaria",
       "estonia": "Estonia",
       "japan": "Japonia"
     },

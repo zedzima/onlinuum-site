@@ -144,6 +144,73 @@
       }
     },
     {
+      "slug": "bulgaria",
+      "url": "/countries/bulgaria",
+      "title": "Mercado de Bulgaria: Marketing Digital sin Oficina en Sofía",
+      "description": "Marketing digital para entrar en el mercado de Bulgaria desde fuera: planes a precio cerrado, ejecución nativa y sin oficina en Sofía. Ver servicios.",
+      "menu": "Bulgaria",
+      "featured": false,
+      "flag": "🇧🇬",
+      "population_total": "6.78M",
+      "population_total_raw": 6782660,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "búlgaro",
+      "dominant_language_code": "bg",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "canada",
       "url": "/countries/canada",
       "title": "Exportar a Canadá: Marketing Digital en Inglés y Francés",
@@ -282,6 +349,77 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "czechia",
+      "url": "/countries/czechia",
+      "title": "Exportar a Chequia: Marketing Digital con Expertos Nativos",
+      "description": "Marketing digital para exportar a Chequia con expertos nativos de checo: servicios productizados para marcas internacionales. Empieza ahora.",
+      "menu": "Chequia",
+      "featured": false,
+      "flag": "🇨🇿",
+      "population_total": "10.8M",
+      "population_total_raw": 10837900,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "checo",
+      "dominant_language_code": "cs",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -862,6 +1000,7 @@
           "manufacturing"
         ],
         "languages": [
+          "hebrew",
           "english",
           "arabic"
         ],
@@ -1632,6 +1771,98 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "usa",
+      "url": "/countries/usa",
+      "title": "Mercado de Estados Unidos: Marketing Digital Nativo",
+      "description": "Marketing digital para entrar en el mercado de Estados Unidos: servicios productizados con expertos nativos de inglés y español. Empieza ahora.",
+      "menu": "Estados Unidos",
+      "featured": false,
+      "flag": "🇺🇸",
+      "population_total": "342M",
+      "population_total_raw": 341963000,
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "inglés",
+      "dominant_language_code": "en",
+      "scope_count": 18,
+      "service_count": 7,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
     }
   ],
   "labels": {
@@ -1696,6 +1927,7 @@
       "spanish": "Español",
       "arabic": "Árabe",
       "greek": "Griego",
+      "hebrew": "Hebreo",
       "japanese": "Japonés"
     },
     "blog-posts": {

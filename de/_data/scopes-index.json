@@ -31,6 +31,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -38,8 +39,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -56,6 +59,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "dutch",
           "greek",
           "italian"
@@ -98,6 +102,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -105,8 +110,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -123,6 +130,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "dutch",
           "greek",
           "italian"
@@ -168,6 +176,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -175,8 +184,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -193,6 +204,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "dutch",
           "greek",
           "italian"
@@ -238,6 +250,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -245,8 +258,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -263,6 +278,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -310,6 +326,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -317,8 +334,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -335,6 +354,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "dutch",
           "greek",
           "italian"
@@ -388,6 +408,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -397,7 +418,8 @@
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ],
         "positions": [
           "seo-expert",
@@ -439,13 +461,15 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "france"
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ]
       },
       "case_count": 0,
@@ -490,6 +514,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "france",
@@ -501,6 +526,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "thai"
         ],
@@ -545,6 +571,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -552,8 +579,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -570,6 +599,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "dutch",
           "greek",
           "italian"
@@ -614,6 +644,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "france",
@@ -624,7 +655,8 @@
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ],
         "positions": [
           "ppc-specialist"
@@ -669,6 +701,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "france",
@@ -680,6 +713,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "thai"
         ],
@@ -732,6 +766,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -739,8 +774,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -758,6 +795,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -814,14 +852,17 @@
         "countries": [
           "germany",
           "france",
+          "usa",
           "uk",
           "austria",
           "poland",
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -839,6 +880,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -886,6 +928,7 @@
           "fintech"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "poland"
@@ -928,6 +971,7 @@
           "saas"
         ],
         "countries": [
+          "usa",
           "uk",
           "canada",
           "germany"
@@ -973,6 +1017,7 @@
           "fintech"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "france",
@@ -981,7 +1026,8 @@
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "spanish"
         ],
         "positions": [
           "ppc-specialist"
@@ -1014,6 +1060,7 @@
           "saas"
         ],
         "countries": [
+          "usa",
           "uk",
           "canada",
           "germany"
@@ -1059,6 +1106,7 @@
           "saas"
         ],
         "countries": [
+          "usa",
           "canada",
           "uk",
           "germany",
@@ -1103,6 +1151,7 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "usa": "USA",
       "uk": "Vereinigtes Königreich",
       "france": "Frankreich",
       "austria": "Österreich",
@@ -1110,8 +1159,10 @@
       "portugal": "Portugal",
       "spain": "Spanien",
       "belgium": "Belgien",
+      "bulgaria": "Bulgarien",
       "canada": "Kanada",
       "china": "China",
+      "czechia": "Tschechien",
       "denmark": "Dänemark",
       "estonia": "Estland",
       "eu": "Europäische Union",
@@ -1129,6 +1180,7 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
+      "spanish": "Spanisch",
       "dutch": "Niederländisch",
       "greek": "Griechisch",
       "italian": "Italienisch",

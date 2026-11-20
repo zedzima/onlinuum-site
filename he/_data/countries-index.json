@@ -144,6 +144,73 @@
       }
     },
     {
+      "slug": "bulgaria",
+      "url": "/countries/bulgaria",
+      "title": "עסקים בבולגריה: שיווק דיגיטלי למותגים בינלאומיים",
+      "description": "שיווק דיגיטלי בבולגריה לחברות בינלאומיות: היקפים במחיר קבוע, ביצוע ילידי בבולגרית, בלי משרד בסופיה. עיינו בשירותים.",
+      "menu": "בולגריה",
+      "featured": false,
+      "flag": "🇧🇬",
+      "population_total": "6.78M",
+      "population_total_raw": 6782660,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "בולגרית",
+      "dominant_language_code": "bg",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "canada",
       "url": "/countries/canada",
       "title": "עסקים בקנדה: שיווק דיגיטלי באנגלית ובצרפתית",
@@ -211,6 +278,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "arabic",
           "italian"
         ],
@@ -281,6 +349,77 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "czechia",
+      "url": "/countries/czechia",
+      "title": "שיווק דיגיטלי בצ'כיה: מומחים ילידיים לצ'כית",
+      "description": "שיווק דיגיטלי בצ'כיה למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים לצ'כית, בלי משרד בפראג. בואו נתחיל.",
+      "menu": "צ'כיה",
+      "featured": false,
+      "flag": "🇨🇿",
+      "population_total": "10.8M",
+      "population_total_raw": 10837900,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "צ'כית",
+      "dominant_language_code": "cs",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
         ],
         "positions": [
           "seo-expert"
@@ -495,6 +634,7 @@
         "languages": [
           "english",
           "italian",
+          "spanish",
           "dutch",
           "greek"
         ],
@@ -638,6 +778,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "italian"
         ],
         "blog-posts": [
@@ -1223,7 +1364,8 @@
           "manufacturing"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -1377,6 +1519,7 @@
           "manufacturing"
         ],
         "languages": [
+          "spanish",
           "english"
         ],
         "blog-posts": [
@@ -1613,11 +1756,104 @@
           "manufacturing"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
           "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "usa",
+      "url": "/countries/usa",
+      "title": "עסקים בארה\"ב: שיווק דיגיטלי לחברות בינלאומיות",
+      "description": "שיווק דיגיטלי בארה\"ב למותגים בינלאומיים: שירותים מוצריים עם מומחים ילידיים לאנגלית אמריקאית וגם לספרדית. בואו נתחיל.",
+      "menu": "ארה\"ב",
+      "featured": false,
+      "flag": "🇺🇸",
+      "population_total": "342M",
+      "population_total_raw": 341963000,
+      "official_languages_count": 2,
+      "significant_languages_count": 2,
+      "dominant_language_name": "אנגלית",
+      "dominant_language_code": "en",
+      "scope_count": 18,
+      "service_count": 7,
+      "expert_count": 3,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
         ],
         "positions": [
           "seo-expert",
@@ -1688,6 +1924,7 @@
       "english": "אנגלית",
       "italian": "איטלקית",
       "dutch": "הולנדית",
+      "spanish": "ספרדית",
       "arabic": "ערבית",
       "greek": "יוונית",
       "hebrew": "עברית",

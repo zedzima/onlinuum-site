@@ -69,6 +69,7 @@
           "ecommerce"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "austria",
@@ -77,7 +78,8 @@
           "spain"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -175,6 +177,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "spain",
@@ -182,6 +185,7 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "italian",
           "dutch",
           "arabic"
@@ -296,6 +300,7 @@
           "japan"
         ],
         "languages": [
+          "spanish",
           "italian",
           "dutch",
           "japanese",
@@ -417,6 +422,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "france",
           "poland",
@@ -425,7 +431,8 @@
           "singapore"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -527,12 +534,15 @@
           "austria",
           "uk",
           "france",
+          "usa",
           "poland",
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -549,10 +559,12 @@
         ],
         "languages": [
           "english",
+          "spanish",
           "japanese",
           "arabic",
           "dutch",
           "greek",
+          "hebrew",
           "italian",
           "korean",
           "thai"
@@ -668,10 +680,12 @@
           "israel",
           "poland",
           "spain",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
-          "english"
+          "english",
+          "spanish"
         ]
       },
       "services": [
@@ -758,6 +772,7 @@
       "manufacturing": "Maakindustrie"
     },
     "countries": {
+      "usa": "Verenigde Staten",
       "uk": "Verenigd Koninkrijk",
       "france": "Frankrijk",
       "austria": "Oostenrijk",
@@ -770,8 +785,10 @@
       "malaysia": "Maleisië",
       "singapore": "Singapore",
       "belgium": "België",
+      "bulgaria": "Bulgarije",
       "canada": "Canada",
       "china": "China",
+      "czechia": "Tsjechië",
       "denmark": "Denemarken",
       "estonia": "Estland",
       "eu": "Europese Unie",
@@ -783,11 +800,13 @@
     },
     "languages": {
       "english": "Engels",
+      "spanish": "Spaans",
       "italian": "Italiaans",
       "dutch": "Nederlands",
       "arabic": "Arabisch",
       "japanese": "Japans",
       "greek": "Grieks",
+      "hebrew": "Hebreeuws",
       "korean": "Koreaans",
       "thai": "Thais"
     },

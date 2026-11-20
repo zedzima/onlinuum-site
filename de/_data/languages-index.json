@@ -215,6 +215,7 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "canada",
@@ -233,7 +234,9 @@
           "ireland",
           "switzerland",
           "finland",
+          "czechia",
           "portugal",
+          "bulgaria",
           "estonia",
           "eu"
         ],
@@ -334,7 +337,9 @@
           "france",
           "denmark",
           "belgium",
+          "czechia",
           "finland",
+          "bulgaria",
           "greece",
           "canada",
           "eu"
@@ -419,6 +424,34 @@
         "countries": [
           "greece",
           "eu"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "hebrew",
+      "url": "/languages/hebrew",
+      "title": "Marketing auf Hebräisch von Muttersprachlern",
+      "description": "Marketing auf Hebräisch für Marken, die nach Israel gehen: Muttersprachler, Inhalte von rechts nach links und Google-Suche. Leistungen entdecken.",
+      "menu": "Hebräisch",
+      "featured": false,
+      "flag": "",
+      "code": "HE",
+      "native_speakers_l1": "9.4M",
+      "market_speakers_display": "9.4M",
+      "market_speakers_est": 9402620,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "israel"
         ],
         "positions": [
           "seo-expert"
@@ -557,6 +590,96 @@
       }
     },
     {
+      "slug": "spanish",
+      "url": "/languages/spanish",
+      "title": "Marketing auf Spanisch von Muttersprachlern",
+      "description": "Marketing auf Spanisch für Marken, die nach Spanien, Lateinamerika und zu Hispanics in den USA gehen: Muttersprachler je Variante. Leistungen entdecken.",
+      "menu": "Spanisch",
+      "featured": false,
+      "flag": "",
+      "code": "ES",
+      "native_speakers_l1": "486M",
+      "market_speakers_display": "486M",
+      "market_speakers_est": 485723043,
+      "market_country_count": 24,
+      "official_countries_count": 24,
+      "scope_count": 14,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "spain",
+          "usa",
+          "france",
+          "uk",
+          "germany",
+          "canada",
+          "portugal",
+          "eu"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist",
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "thai",
       "url": "/languages/thai",
       "title": "Thai SEO und Lokalisierung von Muttersprachlern",
@@ -667,6 +790,7 @@
       "germany": "Deutschland",
       "belgium": "Belgien",
       "eu": "Europäische Union",
+      "usa": "USA",
       "uk": "Vereinigtes Königreich",
       "france": "Frankreich",
       "poland": "Polen",
@@ -680,7 +804,9 @@
       "ireland": "Irland",
       "switzerland": "Schweiz",
       "finland": "Finnland",
+      "czechia": "Tschechien",
       "portugal": "Portugal",
+      "bulgaria": "Bulgarien",
       "estonia": "Estland",
       "japan": "Japan"
     },

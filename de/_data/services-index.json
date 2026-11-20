@@ -40,6 +40,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -47,8 +48,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -65,6 +68,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "dutch",
           "greek",
           "italian"
@@ -114,6 +118,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -121,8 +126,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -139,6 +146,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "dutch",
           "greek",
           "italian"
@@ -197,6 +205,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -204,8 +213,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -223,6 +234,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -263,11 +275,14 @@
           "fintech"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -339,14 +354,17 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "france",
           "poland",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -364,6 +382,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -420,6 +439,7 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "uk",
           "france",
           "austria",
@@ -427,8 +447,10 @@
           "portugal",
           "spain",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -446,6 +468,7 @@
         "languages": [
           "english",
           "german",
+          "spanish",
           "arabic",
           "dutch",
           "greek",
@@ -496,11 +519,14 @@
           "saas"
         ],
         "countries": [
+          "usa",
           "uk",
           "germany",
           "belgium",
+          "bulgaria",
           "canada",
           "china",
+          "czechia",
           "denmark",
           "estonia",
           "eu",
@@ -572,6 +598,7 @@
     },
     "countries": {
       "germany": "Deutschland",
+      "usa": "USA",
       "uk": "Vereinigtes Königreich",
       "france": "Frankreich",
       "austria": "Österreich",
@@ -579,8 +606,10 @@
       "portugal": "Portugal",
       "spain": "Spanien",
       "belgium": "Belgien",
+      "bulgaria": "Bulgarien",
       "canada": "Kanada",
       "china": "China",
+      "czechia": "Tschechien",
       "denmark": "Dänemark",
       "estonia": "Estland",
       "eu": "Europäische Union",
@@ -598,6 +627,7 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
+      "spanish": "Spanisch",
       "dutch": "Niederländisch",
       "greek": "Griechisch",
       "italian": "Italienisch",

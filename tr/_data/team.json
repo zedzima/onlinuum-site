@@ -46,6 +46,7 @@
         "countries": [
           "eu",
           "uk",
+          "usa",
           "turkey"
         ],
         "languages": [
@@ -138,6 +139,7 @@
         ],
         "countries": [
           "austria",
+          "usa",
           "uk",
           "france",
           "poland",
@@ -146,6 +148,7 @@
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "greece",
           "ireland",
@@ -230,11 +233,13 @@
           "manufacturing"
         ],
         "countries": [
+          "usa",
           "portugal",
           "poland",
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "france",
           "greece",
@@ -252,7 +257,8 @@
           "english",
           "dutch",
           "greek",
-          "italian"
+          "italian",
+          "spanish"
         ]
       }
     }
@@ -299,6 +305,7 @@
     "countries": {
       "eu": "Avrupa Birliği",
       "uk": "Birleşik Krallık",
+      "usa": "ABD",
       "turkey": "Türkiye",
       "austria": "Avusturya",
       "france": "France",
@@ -308,6 +315,7 @@
       "belgium": "Belçika",
       "canada": "Kanada",
       "china": "Çin",
+      "czechia": "Çekya",
       "greece": "Yunanistan",
       "ireland": "İrlanda",
       "israel": "İsrail",
@@ -323,7 +331,8 @@
       "turkish": "Türkçe",
       "dutch": "Felemenkçe",
       "greek": "Yunanca",
-      "italian": "İtalyanca"
+      "italian": "İtalyanca",
+      "spanish": "İspanyolca"
     },
     "positions": {
       "seo-expert": "SEO Uzmanı"

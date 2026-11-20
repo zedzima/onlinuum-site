@@ -45,7 +45,8 @@
         ],
         "countries": [
           "eu",
-          "uk"
+          "uk",
+          "usa"
         ],
         "languages": [
           "english"
@@ -137,6 +138,7 @@
         "countries": [
           "germany",
           "austria",
+          "usa",
           "uk",
           "france",
           "poland",
@@ -145,6 +147,7 @@
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "greece",
           "ireland",
@@ -229,11 +232,13 @@
         ],
         "countries": [
           "germany",
+          "usa",
           "portugal",
           "poland",
           "belgium",
           "canada",
           "china",
+          "czechia",
           "eu",
           "france",
           "greece",
@@ -252,7 +257,8 @@
           "dutch",
           "german",
           "greek",
-          "italian"
+          "italian",
+          "spanish"
         ]
       }
     }
@@ -299,6 +305,7 @@
     "countries": {
       "eu": "Europäische Union",
       "uk": "Vereinigtes Königreich",
+      "usa": "USA",
       "germany": "Deutschland",
       "austria": "Österreich",
       "france": "Frankreich",
@@ -308,6 +315,7 @@
       "belgium": "Belgien",
       "canada": "Kanada",
       "china": "China",
+      "czechia": "Tschechien",
       "greece": "Griechenland",
       "ireland": "Irland",
       "israel": "Israel",
@@ -323,7 +331,8 @@
       "dutch": "Niederländisch",
       "german": "Deutsch",
       "greek": "Griechisch",
-      "italian": "Italienisch"
+      "italian": "Italienisch",
+      "spanish": "Spanisch"
     },
     "positions": {
       "seo-expert": "SEO Manager"
