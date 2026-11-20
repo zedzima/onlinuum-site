@@ -14,7 +14,7 @@
       "significant_languages_count": 5,
       "dominant_language_name": "الألمانية",
       "dominant_language_code": "de",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
@@ -37,7 +37,8 @@
           "google-app-campaigns",
           "app-store-cro",
           "app-retention",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -55,6 +56,7 @@
         "industries": [
           "ecommerce",
           "saas",
+          "automotive",
           "manufacturing",
           "fintech"
         ],
@@ -132,6 +134,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -200,7 +203,8 @@
           "ecommerce",
           "saas",
           "fintech",
-          "manufacturing"
+          "manufacturing",
+          "automotive"
         ],
         "languages": [
           "english"
@@ -274,6 +278,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -348,6 +353,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "positions": [
@@ -416,6 +422,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -483,6 +490,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -553,6 +561,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -629,6 +638,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -724,7 +734,7 @@
       "significant_languages_count": 6,
       "dominant_language_name": "الفرنسية",
       "dominant_language_code": "fr",
-      "scope_count": 14,
+      "scope_count": 16,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -753,6 +763,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "youtube-ads"
         ],
         "experts": [
@@ -773,6 +785,7 @@
         "industries": [
           "ecommerce",
           "saas",
+          "automotive",
           "manufacturing",
           "fintech"
         ],
@@ -854,6 +867,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -926,6 +940,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -997,6 +1012,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1007,6 +1023,81 @@
         "positions": [
           "seo-expert",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "italy",
+      "url": "/countries/italy",
+      "title": "Digital Marketing Italy: التسويق في السوق الإيطالي",
+      "description": "Digital marketing italy للعلامات الدولية: خبراء إيطاليون أصليون، وخبرة في التجزئة والقطاع المالي، ونطاقات بسعر ثابت. ابدأوا الآن.",
+      "menu": "إيطاليا",
+      "featured": false,
+      "flag": "🇮🇹",
+      "population_total": "61M",
+      "population_total_raw": 60964900,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "الإيطالية",
+      "dominant_language_code": "it",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "languages": [
+          "italian",
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
         ]
       }
     },
@@ -1071,6 +1162,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1096,7 +1188,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "الملايوية",
       "dominant_language_code": "ms",
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -1112,6 +1204,7 @@
         ],
         "scopes": [
           "technical-seo",
+          "seo-audit",
           "seo-research",
           "google-ads-search",
           "google-shopping",
@@ -1207,6 +1300,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1234,7 +1328,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "البولندية",
       "dominant_language_code": "pl",
-      "scope_count": 15,
+      "scope_count": 16,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -1262,6 +1356,7 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -1285,6 +1380,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1318,7 +1414,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "البرتغالية",
       "dominant_language_code": "pt",
-      "scope_count": 9,
+      "scope_count": 10,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
@@ -1341,7 +1437,8 @@
           "google-app-campaigns",
           "app-store-cro",
           "app-retention",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko",
@@ -1361,6 +1458,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1392,7 +1490,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "الإنجليزية",
       "dominant_language_code": "en",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -1411,6 +1509,7 @@
         "scopes": [
           "technical-seo",
           "seo-research",
+          "seo-audit",
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
@@ -1467,7 +1566,7 @@
       "significant_languages_count": 3,
       "dominant_language_name": "الإسبانية",
       "dominant_language_code": "es",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -1495,6 +1594,7 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
           "youtube-ads"
         ],
         "experts": [
@@ -1516,6 +1616,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1598,6 +1699,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1670,6 +1772,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1678,6 +1781,75 @@
         ],
         "positions": [
           "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "thailand",
+      "url": "/countries/thailand",
+      "title": "Digital Marketing Agency Thailand: بانكوك وLINE وLazada",
+      "description": "Digital marketing agency thailand للعلامات الدولية: البحث في بانكوك، وLINE OA، وLazada وShopee، وتتبع متوافق مع PDPA. ابدأوا الآن.",
+      "menu": "تايلاند",
+      "featured": false,
+      "flag": "🇹🇭",
+      "population_total": "69.9M",
+      "population_total_raw": 69921000,
+      "official_languages_count": 3,
+      "significant_languages_count": 3,
+      "dominant_language_name": "التايلاندية",
+      "dominant_language_code": "th",
+      "scope_count": 6,
+      "service_count": 5,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "seo-audit",
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing",
+          "automotive"
+        ],
+        "languages": [
+          "thai",
+          "english"
+        ],
+        "positions": [
+          "seo-expert",
+          "ppc-specialist",
+          "social-media-manager"
         ]
       }
     },
@@ -1695,7 +1867,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "العربية",
       "dominant_language_code": "ar",
-      "scope_count": 8,
+      "scope_count": 10,
       "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
@@ -1713,13 +1885,15 @@
         ],
         "scopes": [
           "technical-seo",
+          "seo-audit",
           "seo-research",
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
           "aso-optimization",
           "aso-localization",
-          "apple-search-ads"
+          "apple-search-ads",
+          "social-media-audit-strategy"
         ],
         "experts": [
           "dima-gerko"
@@ -1740,7 +1914,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "languages": [
           "arabic",
@@ -1769,7 +1944,7 @@
       "significant_languages_count": 9,
       "dominant_language_name": "الإنجليزية",
       "dominant_language_code": "en",
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
@@ -1799,6 +1974,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -1827,6 +2004,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1860,7 +2038,7 @@
       "significant_languages_count": 2,
       "dominant_language_name": "الإنجليزية",
       "dominant_language_code": "en",
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
@@ -1890,6 +2068,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -1918,6 +2098,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "languages": [
@@ -1960,6 +2141,7 @@
       "app-store-cro": "App Store CRO",
       "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "content-strategy": "استراتيجية المحتوى",
+      "seo-audit": "تدقيق SEO",
       "video-content-production": "إنتاج محتوى الفيديو",
       "youtube-channel-management": "إدارة قناة YouTube",
       "youtube-creator-pilot": "تجربة صناع المحتوى على YouTube",
@@ -1967,6 +2149,7 @@
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "ppc-audit": "تدقيق PPC",
+      "social-media-audit-strategy": "تدقيق السوشيال ميديا واستراتيجيتها",
       "youtube-ads": "YouTube Ads",
       "telegram-ads": "إعلانات تليجرام"
     },
@@ -1991,6 +2174,7 @@
     "industries": {
       "ecommerce": "التجارة الإلكترونية",
       "saas": "SaaS",
+      "automotive": "السيارات",
       "manufacturing": "الصناعة",
       "fintech": "التكنولوجيا المالية"
     },
@@ -2002,7 +2186,8 @@
       "arabic": "العربية",
       "greek": "اليونانية",
       "hebrew": "العبرية",
-      "japanese": "اليابانية"
+      "japanese": "اليابانية",
+      "thai": "التايلاندية"
     },
     "blog-posts": {
       "seo-packages-comparison": "مقارنة باقات السيو",

@@ -181,6 +181,7 @@
           "uk",
           "france",
           "spain",
+          "italy",
           "netherlands"
         ],
         "languages": [
@@ -289,11 +290,13 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "france",
           "spain",
+          "italy",
           "netherlands",
           "poland",
           "sweden",
@@ -421,6 +424,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -430,7 +434,8 @@
           "poland",
           "spain",
           "malaysia",
-          "singapore"
+          "singapore",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -514,7 +519,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "alaaddin-saracyakupoglu"
@@ -530,6 +536,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -552,12 +559,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -666,7 +675,8 @@
           "telegram-ads",
           "youtube-creator-pilot",
           "youtube-channel-management",
-          "content-strategy"
+          "content-strategy",
+          "social-media-audit-strategy"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -681,6 +691,7 @@
           "fintech"
         ],
         "countries": [
+          "thailand",
           "turkey",
           "israel",
           "poland",
@@ -756,8 +767,10 @@
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "Teknik SEO",
+      "seo-audit": "SEO Analizi",
       "youtube-creator-pilot": "YouTube Influencer Pilot Projesi",
-      "youtube-channel-management": "YouTube Kanal Yönetimi"
+      "youtube-channel-management": "YouTube Kanal Yönetimi",
+      "social-media-audit-strategy": "Sosyal Medya Analizi ve Strateji"
     },
     "solutions": {
       "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
@@ -775,7 +788,8 @@
       "saas": "SaaS",
       "fintech": "Fintech ve Bankacılık",
       "ecommerce": "E-ticaret",
-      "manufacturing": "Sanayi"
+      "manufacturing": "Sanayi",
+      "automotive": "Otomotiv"
     },
     "countries": {
       "usa": "ABD",
@@ -785,12 +799,14 @@
       "poland": "Polonya",
       "portugal": "Portugal",
       "spain": "İspanya",
+      "italy": "İtalya",
       "netherlands": "Hollanda",
       "sweden": "İsveç",
       "turkey": "Türkiye",
       "japan": "Japonya",
       "malaysia": "Malezya",
       "singapore": "Singapur",
+      "thailand": "Tayland",
       "belgium": "Belçika",
       "bulgaria": "Bulgaristan",
       "canada": "Kanada",

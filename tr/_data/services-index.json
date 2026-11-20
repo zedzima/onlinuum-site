@@ -58,6 +58,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -134,6 +135,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -197,6 +199,7 @@
           "ecommerce",
           "fintech",
           "saas",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -219,12 +222,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -268,7 +273,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -285,12 +291,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -347,6 +355,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -367,12 +376,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -399,7 +410,7 @@
       "description": "Paketlenmiş SEO hizmeti: teknik, içerik ve çok dilli büyüme. 1.190 $'dan analiz, döngü başına 1.990 $'dan sabit fiyatlı teslim programları.",
       "menu": "SEO Hizmeti",
       "featured": true,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 1990.0,
       "from_price": 1990.0,
@@ -414,6 +425,7 @@
           "search-marketing"
         ],
         "scopes": [
+          "seo-audit",
           "technical-seo",
           "seo-research",
           "content-strategy",
@@ -431,6 +443,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -453,12 +466,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -489,7 +504,7 @@
       "description": "Gelire odaklı sosyal medya yönetimi: strateji, içerik, topluluk yönetimi ve dönüşümle ölçülen influencer iş birlikleri.",
       "menu": "Sosyal Medya",
       "featured": false,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -506,13 +521,15 @@
           "brand-marketing"
         ],
         "scopes": [
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -529,12 +546,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -571,7 +590,9 @@
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
+      "seo-audit": "SEO Analizi",
       "technical-seo": "Teknik SEO",
+      "social-media-audit-strategy": "Sosyal Medya Analizi ve Strateji",
       "telegram-ads": "Telegram Reklamları",
       "youtube-creator-pilot": "YouTube Influencer Pilot Projesi"
     },
@@ -588,6 +609,7 @@
       "saas": "SaaS",
       "fintech": "Fintech ve Bankacılık",
       "ecommerce": "E-ticaret",
+      "automotive": "Otomotiv",
       "manufacturing": "Sanayi"
     },
     "countries": {
@@ -610,12 +632,14 @@
       "greece": "Yunanistan",
       "ireland": "İrlanda",
       "israel": "İsrail",
+      "italy": "İtalya",
       "japan": "Japonya",
       "netherlands": "Hollanda",
       "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "malaysia": "Malezya",
+      "thailand": "Tayland",
       "turkey": "Türkiye"
     },
     "languages": {

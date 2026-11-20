@@ -57,6 +57,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -84,7 +85,7 @@
       "featured": true,
       "icon": "award",
       "service_count": 3,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
@@ -95,7 +96,8 @@
           "video-content-production",
           "youtube-creator-pilot",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "social-media-audit-strategy"
         ],
         "experts": [
           "dima-gerko"
@@ -110,6 +112,7 @@
           "orm"
         ],
         "industries": [
+          "automotive",
           "saas",
           "fintech",
           "manufacturing",
@@ -135,12 +138,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -166,7 +171,7 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
@@ -176,7 +181,8 @@
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
-          "content-strategy"
+          "content-strategy",
+          "social-media-audit-strategy"
         ],
         "experts": [
           "dima-gerko"
@@ -192,6 +198,7 @@
         "industries": [
           "ecommerce",
           "saas",
+          "automotive",
           "fintech",
           "manufacturing"
         ],
@@ -215,11 +222,13 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -263,7 +272,8 @@
           "manufacturing",
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -285,12 +295,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -332,6 +344,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -349,12 +362,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -404,6 +419,7 @@
           "app-user-acquisition"
         ],
         "industries": [
+          "automotive",
           "manufacturing",
           "ecommerce",
           "saas",
@@ -427,12 +443,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -484,6 +502,7 @@
           "ecommerce",
           "fintech",
           "saas",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -506,12 +525,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -533,7 +554,7 @@
       "featured": true,
       "icon": "search-new",
       "service_count": 4,
-      "scope_count": 7,
+      "scope_count": 8,
       "solution_count": 2,
       "case_count": 1,
       "expert_count": 3,
@@ -545,7 +566,8 @@
           "google-ads-search",
           "google-shopping",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko",
@@ -566,6 +588,7 @@
           "ppc"
         ],
         "industries": [
+          "automotive",
           "manufacturing",
           "ecommerce",
           "saas",
@@ -591,12 +614,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -635,12 +660,14 @@
       "youtube-creator-pilot": "YouTube-creatorpilot",
       "content-strategy": "Contentstrategie",
       "content-writing": "Teksten schrijven",
+      "social-media-audit-strategy": "Social media audit en strategie",
       "ppc-audit": "SEA-audit",
       "google-ads-search": "Google Ads-zoekcampagnes",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads-beheer",
       "telegram-ads": "Telegram Ads-beheer",
-      "technical-seo": "Technische SEO"
+      "technical-seo": "Technische SEO",
+      "seo-audit": "SEO-audit"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -664,6 +691,7 @@
       "saas": "SaaS",
       "fintech": "Fintechbedrijven",
       "ecommerce": "Webshops",
+      "automotive": "Autobranche",
       "manufacturing": "Maakindustrie"
     },
     "countries": {
@@ -686,12 +714,14 @@
       "greece": "Griekenland",
       "ireland": "Ierland",
       "israel": "Israël",
+      "italy": "Italië",
       "japan": "Japan",
       "netherlands": "Nederland",
       "singapore": "Singapore",
       "sweden": "Zweden",
       "switzerland": "Zwitserland",
-      "malaysia": "Maleisië"
+      "malaysia": "Maleisië",
+      "thailand": "Thailand"
     },
     "languages": {
       "english": "Engels",

@@ -1,6 +1,108 @@
 {
   "industries": [
     {
+      "slug": "automotive",
+      "url": "/industries/automotive",
+      "title": "קידום סוכנות רכב: שיווק דיגיטלי לענף הרכב",
+      "description": "שיווק דיגיטלי לענף הרכב: קידום סוכנות רכב, יצרנים ומותגי חלפים עם SEO מקומי, שיווק ביצועים וביצוע רב לשוני. בואו נתחיל.",
+      "menu": "רכב",
+      "featured": false,
+      "icon": "automotive",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "community-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "seo-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "arabic",
+          "dutch",
+          "greek",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "ecommerce",
       "url": "/industries/ecommerce",
       "title": "קידום חנות וירטואלית ואתרי מסחר",
@@ -8,7 +110,7 @@
       "menu": "מסחר אלקטרוני",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -38,6 +140,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -85,12 +189,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -124,7 +230,7 @@
       "menu": "פינטק",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 14,
+      "scope_count": 16,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -153,6 +259,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads"
         ],
@@ -192,12 +300,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -230,7 +340,7 @@
       "menu": "תעשייה וייצור",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -252,7 +362,8 @@
           "content-writing",
           "google-ads-search",
           "google-shopping",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "experts": [
           "vitali-bakun",
@@ -287,12 +398,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -321,7 +434,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 17,
+      "scope_count": 19,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -350,6 +463,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -397,12 +512,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -432,37 +549,39 @@
   "labels": {
     "domains": {
       "search-marketing": "שיווק במנועי חיפוש",
-      "growth-marketing": "שיווק צמיחה",
       "performance-marketing": "שיווק ביצועים",
       "brand-marketing": "שיווק מותג",
-      "product-marketing": "שיווק מוצר",
       "community-marketing": "ניהול קהילה",
+      "product-marketing": "שיווק מוצר",
+      "growth-marketing": "שיווק צמיחה",
       "marketing-operations": "תפעול שיווק",
       "app-marketing": "שיווק אפליקציות"
     },
     "scopes": {
       "seo-research": "מחקר SEO",
       "technical-seo": "קידום אתרים טכני",
+      "content-strategy": "אסטרטגיית תוכן",
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "google-shopping": "פרסום בגוגל שופינג",
+      "ppc-audit": "אודיט PPC",
+      "seo-audit": "אודיט SEO",
+      "telegram-ads": "פרסום בטלגרם",
+      "video-content-production": "הפקת תוכן וידאו",
+      "youtube-ads": "פרסום ביוטיוב",
+      "youtube-channel-management": "ניהול ערוץ יוטיוב",
+      "youtube-creator-pilot": "פיילוט יוצרי יוטיוב",
       "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "קמפייני אפליקציות בגוגל",
       "app-store-cro": "App Store CRO",
       "app-retention": "שימור משתמשים באפליקציה",
-      "content-strategy": "אסטרטגיית תוכן",
       "content-writing": "כתיבת תוכן",
-      "google-ads-search": "קמפיין חיפוש בגוגל",
-      "google-shopping": "פרסום בגוגל שופינג",
-      "ppc-audit": "אודיט PPC",
-      "telegram-ads": "פרסום בטלגרם",
-      "video-content-production": "הפקת תוכן וידאו",
-      "youtube-ads": "פרסום ביוטיוב",
-      "youtube-channel-management": "ניהול ערוץ יוטיוב",
-      "youtube-creator-pilot": "פיילוט יוצרי יוטיוב"
+      "social-media-audit-strategy": "אודיט ואסטרטגיית סושיאל"
     },
     "experts": {
-      "dima-gerko": "דימה גרקו",
       "vitali-bakun": "ויטלי בקון",
+      "dima-gerko": "דימה גרקו",
       "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"
     },
     "cases": {
@@ -470,17 +589,17 @@
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
-      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
-      "multilingual-seo": "קידום אתרים בינלאומי"
+      "multilingual-seo": "קידום אתרים בינלאומי",
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי"
     },
     "services": {
       "content": "שיווק תוכן",
+      "social-media": "רשתות חברתיות",
       "orm": "ניהול מוניטין",
-      "aso": "ASO",
-      "app-user-acquisition": "רכישת משתמשים לאפליקציות",
       "seo": "קידום אתרים",
       "ppc": "PPC",
-      "social-media": "רשתות חברתיות"
+      "aso": "ASO",
+      "app-user-acquisition": "רכישת משתמשים לאפליקציות"
     },
     "countries": {
       "usa": "ארה\"ב",
@@ -498,16 +617,18 @@
       "denmark": "דנמרק",
       "estonia": "אסטוניה",
       "eu": "האיחוד האירופי",
-      "finland": "פינלנד",
       "greece": "יוון",
       "ireland": "אירלנד",
       "israel": "ישראל",
+      "italy": "איטליה",
       "japan": "יפן",
-      "malaysia": "מלזיה",
       "netherlands": "הולנד",
-      "singapore": "סינגפור",
       "sweden": "שוודיה",
-      "switzerland": "שווייץ"
+      "switzerland": "שווייץ",
+      "thailand": "תאילנד",
+      "finland": "פינלנד",
+      "malaysia": "מלזיה",
+      "singapore": "סינגפור"
     },
     "languages": {
       "english": "אנגלית",
@@ -525,10 +646,10 @@
     },
     "positions": {
       "seo-expert": "מומחה קידום אתרים",
-      "aso-specialist": "מומחה ASO",
-      "business-development-manager": "מנהל פיתוח עסקי",
       "marketing-consultant": "יועץ שיווק",
       "ppc-specialist": "מנהל קמפיינים PPC",
+      "aso-specialist": "מומחה ASO",
+      "business-development-manager": "מנהל פיתוח עסקי",
       "social-media-manager": "מנהל סושיאל"
     }
   }

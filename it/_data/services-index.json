@@ -199,6 +199,7 @@
           "ecommerce",
           "fintech",
           "saas",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -227,7 +228,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -269,7 +271,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -292,7 +295,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -347,6 +351,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -373,7 +378,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -398,7 +404,7 @@
       "description": "Servizi SEO a catalogo: tecnica, contenuti e crescita multilingue. Audit da 1.190 $, programmi a prezzo fisso da 1.990 $ per ciclo.",
       "menu": "SEO",
       "featured": true,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 1990.0,
       "from_price": 1990.0,
@@ -413,6 +419,7 @@
           "search-marketing"
         ],
         "scopes": [
+          "seo-audit",
           "technical-seo",
           "seo-research",
           "content-strategy",
@@ -430,6 +437,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -458,7 +466,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -487,7 +496,7 @@
       "description": "Agenzia di social media marketing: strategia, contenuti, community management e collaborazioni con creator misurate su ciò che convertono.",
       "menu": "Social media",
       "featured": false,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -504,13 +513,15 @@
           "brand-marketing"
         ],
         "scopes": [
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -533,7 +544,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -570,7 +582,9 @@
       "google-ads-search": "Campagne Google Ads",
       "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads",
+      "seo-audit": "Audit SEO",
       "technical-seo": "SEO tecnica",
+      "social-media-audit-strategy": "Audit e strategia social media",
       "telegram-ads": "Campagne Telegram Ads",
       "youtube-creator-pilot": "Progetto pilota con creator YouTube"
     },
@@ -587,6 +601,7 @@
       "saas": "SaaS e software",
       "fintech": "Fintech e finanza",
       "ecommerce": "Ecommerce",
+      "automotive": "Settore automotive",
       "manufacturing": "Manifatturiero"
     },
     "countries": {
@@ -615,7 +630,8 @@
       "singapore": "Singapore",
       "sweden": "Svezia",
       "switzerland": "Svizzera",
-      "malaysia": "Malesia"
+      "malaysia": "Malesia",
+      "thailand": "Thailandia"
     },
     "languages": {
       "english": "Inglese",

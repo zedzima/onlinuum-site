@@ -85,6 +85,7 @@
         "ecommerce",
         "saas",
         "fintech",
+        "automotive",
         "manufacturing"
       ],
       "cases": [
@@ -113,7 +114,8 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "cases": [
           "alvadi"
@@ -133,6 +135,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -152,12 +155,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english"
@@ -192,6 +197,7 @@
       "industries": [
         "saas",
         "ecommerce",
+        "automotive",
         "fintech",
         "manufacturing"
       ],
@@ -227,6 +233,7 @@
         "industries": [
           "saas",
           "ecommerce",
+          "automotive",
           "fintech",
           "manufacturing"
         ],
@@ -244,6 +251,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -285,6 +293,7 @@
       "content-strategy": "Content-Strategie",
       "google-app-campaigns": "Google-App-Kampagnen",
       "ppc-audit": "Google Ads Audit",
+      "seo-audit": "SEO-Audit",
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
       "youtube-ads": "YouTube-Werbung"
@@ -300,6 +309,7 @@
       "ecommerce": "E-Commerce",
       "saas": "SaaS",
       "fintech": "Fintech und Banken",
+      "automotive": "Automobilbranche",
       "manufacturing": "Fertigung"
     },
     "countries": {
@@ -319,12 +329,14 @@
       "greece": "Griechenland",
       "ireland": "Irland",
       "israel": "Israel",
+      "italy": "Italien",
       "japan": "Japan",
       "malaysia": "Malaysia",
       "netherlands": "Niederlande",
       "singapore": "Singapur",
       "sweden": "Schweden",
-      "switzerland": "Schweiz"
+      "switzerland": "Schweiz",
+      "thailand": "Thailand"
     },
     "languages": {
       "english": "Englisch",

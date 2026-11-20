@@ -1,6 +1,109 @@
 {
   "industries": [
     {
+      "slug": "automotive",
+      "url": "/industries/automotive",
+      "title": "تسويق السيارات الرقمي لوكالات السيارات والمصنعين",
+      "description": "تسويق السيارات الرقمي لوكالات السيارات والمصنعين وعلامات قطع الغيار: سيو محلي، وتسويق أداء، وتنفيذ متعدد اللغات. ابدأوا الآن.",
+      "menu": "السيارات",
+      "featured": false,
+      "icon": "automotive",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "community-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "seo-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "arabic",
+          "dutch",
+          "greek",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "ecommerce",
       "url": "/industries/ecommerce",
       "title": "تسويق المتاجر الإلكترونية: SEO وإعلانات مدفوعة",
@@ -8,7 +111,7 @@
       "menu": "التجارة الإلكترونية",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -38,6 +141,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -85,12 +190,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -125,7 +232,7 @@
       "menu": "التكنولوجيا المالية",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 14,
+      "scope_count": 16,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -154,6 +261,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads"
         ],
@@ -193,12 +302,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -232,7 +343,7 @@
       "menu": "الصناعة",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -254,7 +365,8 @@
           "content-writing",
           "google-ads-search",
           "google-shopping",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "experts": [
           "vitali-bakun",
@@ -289,12 +401,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -323,7 +437,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 17,
+      "scope_count": 19,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -352,6 +466,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -399,12 +515,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -435,37 +553,39 @@
   "labels": {
     "domains": {
       "search-marketing": "التسويق عبر محركات البحث",
-      "growth-marketing": "تسويق النمو",
       "performance-marketing": "تسويق الأداء",
       "brand-marketing": "تسويق العلامة التجارية",
-      "product-marketing": "تسويق المنتجات",
       "community-marketing": "التسويق المجتمعي",
+      "product-marketing": "تسويق المنتجات",
+      "growth-marketing": "تسويق النمو",
       "marketing-operations": "عمليات التسويق",
       "app-marketing": "تسويق التطبيقات"
     },
     "scopes": {
       "seo-research": "أبحاث السيو",
       "technical-seo": "السيو التقني",
+      "content-strategy": "استراتيجية المحتوى",
+      "google-ads-search": "إعلانات جوجل للبحث",
+      "google-shopping": "Google Shopping",
+      "ppc-audit": "تدقيق PPC",
+      "seo-audit": "تدقيق SEO",
+      "telegram-ads": "إعلانات تليجرام",
+      "video-content-production": "إنتاج محتوى الفيديو",
+      "youtube-ads": "YouTube Ads",
+      "youtube-channel-management": "إدارة قناة YouTube",
+      "youtube-creator-pilot": "تجربة صناع المحتوى على YouTube",
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "حملات التطبيقات في Google",
       "app-store-cro": "App Store CRO",
       "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
-      "content-strategy": "استراتيجية المحتوى",
       "content-writing": "كتابة المحتوى",
-      "google-ads-search": "إعلانات جوجل للبحث",
-      "google-shopping": "Google Shopping",
-      "ppc-audit": "تدقيق PPC",
-      "telegram-ads": "إعلانات تليجرام",
-      "video-content-production": "إنتاج محتوى الفيديو",
-      "youtube-ads": "YouTube Ads",
-      "youtube-channel-management": "إدارة قناة YouTube",
-      "youtube-creator-pilot": "تجربة صناع المحتوى على YouTube"
+      "social-media-audit-strategy": "تدقيق السوشيال ميديا واستراتيجيتها"
     },
     "experts": {
-      "dima-gerko": "ديما غيركو",
       "vitali-bakun": "فيتالي باكون",
+      "dima-gerko": "ديما غيركو",
       "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
     },
     "cases": {
@@ -473,17 +593,17 @@
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
-      "digital-marketing-consulting": "استشارات التسويق الرقمي",
-      "multilingual-seo": "multilingual SEO"
+      "multilingual-seo": "multilingual SEO",
+      "digital-marketing-consulting": "استشارات التسويق الرقمي"
     },
     "services": {
       "content": "التسويق بالمحتوى",
+      "social-media": "وسائل التواصل الاجتماعي",
       "orm": "ORM",
-      "aso": "تحسين متجر التطبيقات ASO",
-      "app-user-acquisition": "اكتساب مستخدمي التطبيقات",
       "seo": "سيو SEO",
       "ppc": "PPC",
-      "social-media": "وسائل التواصل الاجتماعي"
+      "aso": "تحسين متجر التطبيقات ASO",
+      "app-user-acquisition": "اكتساب مستخدمي التطبيقات"
     },
     "countries": {
       "usa": "الولايات المتحدة",
@@ -501,17 +621,19 @@
       "denmark": "الدنمارك",
       "estonia": "إستونيا",
       "eu": "الاتحاد الأوروبي",
-      "finland": "فنلندا",
       "greece": "اليونان",
       "ireland": "أيرلندا",
       "israel": "إسرائيل",
+      "italy": "إيطاليا",
       "japan": "اليابان",
-      "malaysia": "ماليزيا",
       "netherlands": "هولندا",
-      "singapore": "سنغافورة",
       "sweden": "السويد",
       "switzerland": "سويسرا",
-      "uae": "الإمارات"
+      "thailand": "تايلاند",
+      "uae": "الإمارات",
+      "finland": "فنلندا",
+      "malaysia": "ماليزيا",
+      "singapore": "سنغافورة"
     },
     "languages": {
       "english": "الإنجليزية",
@@ -529,10 +651,10 @@
     },
     "positions": {
       "seo-expert": "خبير SEO",
-      "aso-specialist": "متخصص ASO",
-      "business-development-manager": "مدير تطوير الأعمال",
       "marketing-consultant": "مستشار تسويق",
       "ppc-specialist": "متخصص PPC",
+      "aso-specialist": "متخصص ASO",
+      "business-development-manager": "مدير تطوير الأعمال",
       "social-media-manager": "أخصائي سوشيال ميديا"
     }
   }

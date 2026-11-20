@@ -1,6 +1,108 @@
 {
   "industries": [
     {
+      "slug": "automotive",
+      "url": "/industries/automotive",
+      "title": "自動車マーケティング｜ディーラー・メーカー・アフターマーケット",
+      "description": "ディーラー、自動車メーカー、アフターマーケットのブランドに向けた自動車マーケティング。ローカルSEO、運用型広告、多言語での実行に対応します。",
+      "menu": "自動車",
+      "featured": false,
+      "icon": "automotive",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "community-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "seo-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "arabic",
+          "dutch",
+          "greek",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "ecommerce",
       "url": "/industries/ecommerce",
       "title": "ECマーケティング｜ECサイトのSEOと集客を多言語で",
@@ -8,7 +110,7 @@
       "menu": "EC",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -38,6 +140,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -85,12 +189,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -124,7 +230,7 @@
       "menu": "フィンテック",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 14,
+      "scope_count": 16,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -153,6 +259,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads"
         ],
@@ -192,12 +300,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -230,7 +340,7 @@
       "menu": "製造業",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -252,7 +362,8 @@
           "content-writing",
           "google-ads-search",
           "google-shopping",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "experts": [
           "vitali-bakun",
@@ -287,12 +398,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -321,7 +434,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 17,
+      "scope_count": 19,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -350,6 +463,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -397,12 +512,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -432,37 +549,39 @@
   "labels": {
     "domains": {
       "search-marketing": "検索マーケティング",
-      "growth-marketing": "グロースマーケティング",
       "performance-marketing": "パフォーマンスマーケティング",
       "brand-marketing": "ブランドマーケティング",
-      "product-marketing": "プロダクトマーケティング",
       "community-marketing": "コミュニティマーケティング",
+      "product-marketing": "プロダクトマーケティング",
+      "growth-marketing": "グロースマーケティング",
       "marketing-operations": "マーケティングオペレーション",
       "app-marketing": "アプリマーケティング"
     },
     "scopes": {
       "seo-research": "キーワード選定",
       "technical-seo": "テクニカルSEO",
+      "content-strategy": "コンテンツ戦略",
+      "google-ads-search": "Google広告・検索広告",
+      "google-shopping": "Googleショッピング広告",
+      "ppc-audit": "広告アカウント診断",
+      "seo-audit": "SEO診断",
+      "telegram-ads": "Telegram Ads",
+      "video-content-production": "動画制作",
+      "youtube-ads": "YouTube広告",
+      "youtube-channel-management": "YouTubeチャンネル運用",
+      "youtube-creator-pilot": "YouTuber PRパイロット",
       "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google アプリキャンペーン",
       "app-store-cro": "App Store CRO",
       "app-retention": "アプリのリテンション",
-      "content-strategy": "コンテンツ戦略",
       "content-writing": "記事作成代行",
-      "google-ads-search": "Google広告・検索広告",
-      "google-shopping": "Googleショッピング広告",
-      "ppc-audit": "広告アカウント診断",
-      "telegram-ads": "Telegram Ads",
-      "video-content-production": "動画制作",
-      "youtube-ads": "YouTube広告",
-      "youtube-channel-management": "YouTubeチャンネル運用",
-      "youtube-creator-pilot": "YouTuber PRパイロット"
+      "social-media-audit-strategy": "SNS診断・戦略"
     },
     "experts": {
-      "dima-gerko": "ディマ・ゲルコ",
       "vitali-bakun": "ヴィタリー・バクン",
+      "dima-gerko": "ディマ・ゲルコ",
       "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
     },
     "cases": {
@@ -470,17 +589,17 @@
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
-      "digital-marketing-consulting": "マーケティングコンサルティング",
-      "multilingual-seo": "多言語SEO"
+      "multilingual-seo": "多言語SEO",
+      "digital-marketing-consulting": "マーケティングコンサルティング"
     },
     "services": {
       "content": "コンテンツマーケティング",
+      "social-media": "SNS運用代行",
       "orm": "風評被害対策",
-      "aso": "ASO対策",
-      "app-user-acquisition": "アプリの集客と広告運用",
       "seo": "SEO対策",
       "ppc": "リスティング広告",
-      "social-media": "SNS運用代行"
+      "aso": "ASO対策",
+      "app-user-acquisition": "アプリの集客と広告運用"
     },
     "countries": {
       "usa": "アメリカ",
@@ -498,16 +617,18 @@
       "denmark": "デンマーク",
       "estonia": "エストニア",
       "eu": "欧州連合",
-      "finland": "フィンランド",
       "greece": "ギリシャ",
       "ireland": "アイルランド",
       "israel": "イスラエル",
+      "italy": "イタリア",
       "japan": "日本",
-      "malaysia": "マレーシア",
       "netherlands": "オランダ",
-      "singapore": "シンガポール",
       "sweden": "スウェーデン",
-      "switzerland": "スイス"
+      "switzerland": "スイス",
+      "thailand": "タイ",
+      "finland": "フィンランド",
+      "malaysia": "マレーシア",
+      "singapore": "シンガポール"
     },
     "languages": {
       "english": "英語",
@@ -525,10 +646,10 @@
     },
     "positions": {
       "seo-expert": "SEO担当",
-      "aso-specialist": "ASO担当",
-      "business-development-manager": "事業開発マネージャー",
       "marketing-consultant": "マーケティングコンサルタント",
       "ppc-specialist": "広告運用担当",
+      "aso-specialist": "ASO担当",
+      "business-development-manager": "事業開発マネージャー",
       "social-media-manager": "SNS運用担当"
     }
   }

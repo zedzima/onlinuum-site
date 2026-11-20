@@ -49,6 +49,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -118,6 +119,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -190,6 +192,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -262,6 +265,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -336,6 +340,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -394,6 +399,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -497,6 +503,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -507,6 +514,7 @@
           "spain",
           "malaysia",
           "singapore",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -575,6 +583,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -625,6 +634,7 @@
         ],
         "industries": [
           "ecommerce",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -634,7 +644,8 @@
           "poland",
           "spain",
           "malaysia",
-          "singapore"
+          "singapore",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -680,6 +691,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -690,6 +702,7 @@
           "spain",
           "malaysia",
           "singapore",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -705,6 +718,69 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "seo-audit",
+      "url": "/scopes/seo-audit",
+      "title": "Kapsamlı Site SEO Analizi Hizmeti",
+      "description": "SaaS, içerik ve e-ticaret siteleri için kapsamlı site SEO analizi: teknik, talep, içerik, otorite ve ölçüm. 1.190 $'dan başlar. Fiyatları görün.",
+      "menu": "SEO Analizi",
+      "featured": true,
+      "from_price": 1190,
+      "delivery": "one-time",
+      "expert_count": 9,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "malaysia",
+          "singapore",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "arabic",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
     },
     {
       "slug": "seo-research",
@@ -744,6 +820,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -766,12 +843,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -795,6 +874,51 @@
       },
       "case_count": 0,
       "article_count": 2
+    },
+    {
+      "slug": "social-media-audit-strategy",
+      "url": "/scopes/social-media-audit-strategy",
+      "title": "Sosyal Medya Analizi ve Strateji, 1.000 $'dan",
+      "description": "Sosyal medya analizi ve stratejisi: hesap incelemesi, hedef kitle ve rakip analizi, yazılı kanal planı ve profil kurulumu. Tek seferlik, 1.000 $'dan.",
+      "menu": "Sosyal Medya Analizi ve Strateji",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     },
     {
       "slug": "technical-seo",
@@ -829,6 +953,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -851,12 +976,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -907,7 +1034,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -949,7 +1077,8 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -993,7 +1122,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -1034,7 +1164,8 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -1078,7 +1209,8 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -1120,6 +1252,7 @@
       "saas": "SaaS",
       "fintech": "Fintech ve Bankacılık",
       "ecommerce": "E-ticaret",
+      "automotive": "Otomotiv",
       "manufacturing": "Sanayi"
     },
     "countries": {
@@ -1142,12 +1275,14 @@
       "greece": "Yunanistan",
       "ireland": "İrlanda",
       "israel": "İsrail",
+      "italy": "İtalya",
       "japan": "Japonya",
       "netherlands": "Hollanda",
       "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "malaysia": "Malezya",
+      "thailand": "Tayland",
       "turkey": "Türkiye"
     },
     "languages": {

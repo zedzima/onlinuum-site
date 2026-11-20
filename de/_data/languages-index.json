@@ -14,7 +14,7 @@
       "market_speakers_est": 306896549,
       "market_country_count": 16,
       "official_countries_count": 16,
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 0,
       "case_count": 0,
@@ -32,6 +32,7 @@
           "aso-localization",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
           "seo-research",
           "technical-seo"
         ],
@@ -49,7 +50,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "israel",
@@ -122,6 +124,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -151,7 +154,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -181,6 +184,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -212,6 +217,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -220,6 +226,8 @@
           "germany",
           "canada",
           "france",
+          "italy",
+          "thailand",
           "netherlands",
           "poland",
           "spain",
@@ -269,7 +277,7 @@
       "market_speakers_est": 138313919,
       "market_country_count": 22,
       "official_countries_count": 22,
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 1,
       "case_count": 0,
@@ -299,6 +307,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -325,6 +335,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -339,6 +350,7 @@
           "belgium",
           "czechia",
           "finland",
+          "italy",
           "bulgaria",
           "greece",
           "canada",
@@ -419,6 +431,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -518,9 +531,11 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
+          "italy",
           "germany",
           "switzerland",
           "france",
@@ -603,7 +618,7 @@
       "market_speakers_est": 485723043,
       "market_country_count": 24,
       "official_countries_count": 24,
-      "scope_count": 14,
+      "scope_count": 15,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -632,6 +647,7 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
           "youtube-ads"
         ],
         "experts": [
@@ -652,6 +668,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -693,7 +710,7 @@
       "market_speakers_est": 55936800,
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "service_count": 4,
       "expert_count": 0,
       "case_count": 0,
@@ -708,6 +725,7 @@
           "brand-marketing"
         ],
         "scopes": [
+          "seo-audit",
           "seo-research",
           "technical-seo",
           "google-ads-search",
@@ -725,7 +743,11 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
+        ],
+        "countries": [
+          "thailand"
         ],
         "positions": [
           "seo-expert"
@@ -748,6 +770,7 @@
       "aso-localization": "App-Lokalisierung",
       "google-ads-search": "Google Ads Suchkampagnen",
       "ppc-audit": "Google Ads Audit",
+      "seo-audit": "SEO-Audit",
       "seo-research": "SEO-Recherche",
       "technical-seo": "Technisches SEO",
       "aso-optimization": "ASO-Optimierung",
@@ -758,6 +781,7 @@
       "content-strategy": "Content-Strategie",
       "content-writing": "Texterstellung",
       "google-shopping": "Google Shopping Ads",
+      "social-media-audit-strategy": "Social-Media-Audit und -Strategie",
       "telegram-ads": "Telegram-Werbung",
       "video-content-production": "Videoproduktion",
       "youtube-ads": "YouTube-Werbung",
@@ -781,6 +805,7 @@
       "ecommerce": "E-Commerce",
       "saas": "SaaS",
       "fintech": "Fintech und Banken",
+      "automotive": "Automobilbranche",
       "manufacturing": "Fertigung"
     },
     "countries": {
@@ -793,6 +818,8 @@
       "usa": "USA",
       "uk": "Vereinigtes Königreich",
       "france": "Frankreich",
+      "italy": "Italien",
+      "thailand": "Thailand",
       "poland": "Polen",
       "spain": "Spanien",
       "sweden": "Schweden",

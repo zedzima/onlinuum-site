@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -77,12 +80,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -131,7 +136,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -143,6 +149,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -165,12 +172,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -218,6 +227,8 @@
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
       "ppc-audit": "Reklam Analizi",
+      "seo-audit": "SEO Analizi",
+      "social-media-audit-strategy": "Sosyal Medya Analizi ve Strateji",
       "telegram-ads": "Telegram Reklamları",
       "youtube-ads": "YouTube Ads",
       "youtube-creator-pilot": "YouTube Influencer Pilot Projesi"
@@ -237,6 +248,7 @@
       "saas": "SaaS",
       "ecommerce": "E-ticaret",
       "fintech": "Fintech ve Bankacılık",
+      "automotive": "Otomotiv",
       "manufacturing": "Sanayi"
     },
     "countries": {
@@ -259,12 +271,14 @@
       "greece": "Yunanistan",
       "ireland": "İrlanda",
       "israel": "İsrail",
+      "italy": "İtalya",
       "japan": "Japonya",
       "malaysia": "Malezya",
       "netherlands": "Hollanda",
       "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
+      "thailand": "Tayland",
       "turkey": "Türkiye"
     },
     "languages": {

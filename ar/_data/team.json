@@ -85,6 +85,7 @@
         "ecommerce",
         "saas",
         "fintech",
+        "automotive",
         "manufacturing"
       ],
       "cases": [
@@ -113,7 +114,8 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "cases": [
           "alvadi"
@@ -133,6 +135,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -151,12 +154,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -192,6 +197,7 @@
       "industries": [
         "saas",
         "ecommerce",
+        "automotive",
         "fintech",
         "manufacturing"
       ],
@@ -227,6 +233,7 @@
         "industries": [
           "saas",
           "ecommerce",
+          "automotive",
           "fintech",
           "manufacturing"
         ],
@@ -243,6 +250,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -283,6 +291,7 @@
       "content-strategy": "استراتيجية المحتوى",
       "google-app-campaigns": "حملات التطبيقات في Google",
       "ppc-audit": "تدقيق PPC",
+      "seo-audit": "تدقيق SEO",
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads"
@@ -298,6 +307,7 @@
       "ecommerce": "التجارة الإلكترونية",
       "saas": "SaaS",
       "fintech": "التكنولوجيا المالية",
+      "automotive": "السيارات",
       "manufacturing": "الصناعة"
     },
     "countries": {
@@ -316,12 +326,14 @@
       "greece": "اليونان",
       "ireland": "أيرلندا",
       "israel": "إسرائيل",
+      "italy": "إيطاليا",
       "japan": "اليابان",
       "malaysia": "ماليزيا",
       "netherlands": "هولندا",
       "singapore": "سنغافورة",
       "sweden": "السويد",
       "switzerland": "سويسرا",
+      "thailand": "تايلاند",
       "uae": "الإمارات"
     },
     "languages": {

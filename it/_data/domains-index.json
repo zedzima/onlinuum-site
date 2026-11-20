@@ -85,7 +85,7 @@
       "featured": true,
       "icon": "award",
       "service_count": 3,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
@@ -96,7 +96,8 @@
           "video-content-production",
           "youtube-creator-pilot",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "social-media-audit-strategy"
         ],
         "experts": [
           "dima-gerko"
@@ -111,6 +112,7 @@
           "orm"
         ],
         "industries": [
+          "automotive",
           "saas",
           "fintech",
           "manufacturing",
@@ -142,7 +144,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -168,7 +171,7 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 5,
+      "scope_count": 6,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
@@ -178,7 +181,8 @@
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
-          "content-strategy"
+          "content-strategy",
+          "social-media-audit-strategy"
         ],
         "experts": [
           "dima-gerko"
@@ -194,6 +198,7 @@
         "industries": [
           "ecommerce",
           "saas",
+          "automotive",
           "fintech",
           "manufacturing"
         ],
@@ -222,7 +227,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -266,7 +272,8 @@
           "manufacturing",
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -294,7 +301,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -336,6 +344,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -359,7 +368,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -409,6 +419,7 @@
           "app-user-acquisition"
         ],
         "industries": [
+          "automotive",
           "manufacturing",
           "ecommerce",
           "saas",
@@ -438,7 +449,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -490,6 +502,7 @@
           "ecommerce",
           "fintech",
           "saas",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -518,7 +531,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -540,7 +554,7 @@
       "featured": true,
       "icon": "search-new",
       "service_count": 4,
-      "scope_count": 7,
+      "scope_count": 8,
       "solution_count": 2,
       "case_count": 1,
       "expert_count": 3,
@@ -552,7 +566,8 @@
           "google-ads-search",
           "google-shopping",
           "content-strategy",
-          "content-writing"
+          "content-writing",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko",
@@ -573,6 +588,7 @@
           "ppc"
         ],
         "industries": [
+          "automotive",
           "manufacturing",
           "ecommerce",
           "saas",
@@ -604,7 +620,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -643,12 +660,14 @@
       "youtube-creator-pilot": "Progetto pilota con creator YouTube",
       "content-strategy": "Content strategy",
       "content-writing": "Creazione contenuti",
+      "social-media-audit-strategy": "Audit e strategia social media",
       "ppc-audit": "Audit PPC",
       "google-ads-search": "Campagne Google Ads",
       "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads",
       "telegram-ads": "Campagne Telegram Ads",
-      "technical-seo": "SEO tecnica"
+      "technical-seo": "SEO tecnica",
+      "seo-audit": "Audit SEO"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -672,6 +691,7 @@
       "saas": "SaaS e software",
       "fintech": "Fintech e finanza",
       "ecommerce": "Ecommerce",
+      "automotive": "Settore automotive",
       "manufacturing": "Manifatturiero"
     },
     "countries": {
@@ -700,7 +720,8 @@
       "singapore": "Singapore",
       "sweden": "Svezia",
       "switzerland": "Svizzera",
-      "malaysia": "Malesia"
+      "malaysia": "Malesia",
+      "thailand": "Thailandia"
     },
     "languages": {
       "english": "Inglese",

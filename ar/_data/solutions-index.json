@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -77,12 +80,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -130,7 +135,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -142,6 +148,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -164,12 +171,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -216,6 +225,8 @@
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "ppc-audit": "تدقيق PPC",
+      "seo-audit": "تدقيق SEO",
+      "social-media-audit-strategy": "تدقيق السوشيال ميديا واستراتيجيتها",
       "telegram-ads": "إعلانات تليجرام",
       "youtube-ads": "YouTube Ads",
       "youtube-creator-pilot": "تجربة صناع المحتوى على YouTube"
@@ -235,6 +246,7 @@
       "saas": "SaaS",
       "ecommerce": "التجارة الإلكترونية",
       "fintech": "التكنولوجيا المالية",
+      "automotive": "السيارات",
       "manufacturing": "الصناعة"
     },
     "countries": {
@@ -257,12 +269,14 @@
       "greece": "اليونان",
       "ireland": "أيرلندا",
       "israel": "إسرائيل",
+      "italy": "إيطاليا",
       "japan": "اليابان",
       "malaysia": "ماليزيا",
       "netherlands": "هولندا",
       "singapore": "سنغافورة",
       "sweden": "السويد",
       "switzerland": "سويسرا",
+      "thailand": "تايلاند",
       "uae": "الإمارات"
     },
     "languages": {

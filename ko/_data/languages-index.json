@@ -14,7 +14,7 @@
       "market_speakers_est": 306896549,
       "market_country_count": 16,
       "official_countries_count": 16,
-      "scope_count": 5,
+      "scope_count": 6,
       "service_count": 5,
       "expert_count": 0,
       "case_count": 0,
@@ -32,6 +32,7 @@
           "aso-localization",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
           "seo-research",
           "technical-seo"
         ],
@@ -49,7 +50,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "israel",
@@ -122,6 +124,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -150,7 +153,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -180,6 +183,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -211,6 +216,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -218,6 +224,8 @@
           "uk",
           "canada",
           "france",
+          "italy",
+          "thailand",
           "netherlands",
           "poland",
           "spain",
@@ -313,6 +321,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -412,9 +421,11 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
+          "italy",
           "switzerland",
           "france",
           "austria",
@@ -499,7 +510,7 @@
       "market_speakers_est": 485723043,
       "market_country_count": 24,
       "official_countries_count": 24,
-      "scope_count": 14,
+      "scope_count": 15,
       "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
@@ -528,6 +539,7 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
           "youtube-ads"
         ],
         "experts": [
@@ -548,6 +560,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -588,7 +601,7 @@
       "market_speakers_est": 55936800,
       "market_country_count": 1,
       "official_countries_count": 1,
-      "scope_count": 4,
+      "scope_count": 5,
       "service_count": 4,
       "expert_count": 0,
       "case_count": 0,
@@ -603,6 +616,7 @@
           "brand-marketing"
         ],
         "scopes": [
+          "seo-audit",
           "seo-research",
           "technical-seo",
           "google-ads-search",
@@ -620,7 +634,11 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
+        ],
+        "countries": [
+          "thailand"
         ],
         "positions": [
           "seo-expert"
@@ -643,6 +661,7 @@
       "aso-localization": "ASO 현지화",
       "google-ads-search": "구글 검색광고",
       "ppc-audit": "광고 성과 분석",
+      "seo-audit": "SEO 점검",
       "seo-research": "SEO 키워드 분석",
       "technical-seo": "테크니컬 SEO",
       "aso-optimization": "ASO 최적화",
@@ -653,6 +672,7 @@
       "content-strategy": "콘텐츠 기획",
       "content-writing": "블로그 대행",
       "google-shopping": "구글 쇼핑",
+      "social-media-audit-strategy": "SNS 진단·전략",
       "telegram-ads": "텔레그램 광고",
       "video-content-production": "영상 콘텐츠 제작",
       "youtube-ads": "유튜브 광고",
@@ -676,6 +696,7 @@
       "ecommerce": "이커머스",
       "saas": "SaaS",
       "fintech": "핀테크",
+      "automotive": "자동차",
       "manufacturing": "제조업"
     },
     "countries": {
@@ -687,6 +708,8 @@
       "usa": "미국",
       "uk": "영국",
       "france": "프랑스",
+      "italy": "이탈리아",
+      "thailand": "태국",
       "poland": "폴란드",
       "spain": "스페인",
       "sweden": "스웨덴",

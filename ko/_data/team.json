@@ -85,6 +85,7 @@
         "ecommerce",
         "saas",
         "fintech",
+        "automotive",
         "manufacturing"
       ],
       "cases": [
@@ -113,7 +114,8 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "cases": [
           "alvadi"
@@ -133,6 +135,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -151,13 +154,15 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "south-korea",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english"
@@ -192,6 +197,7 @@
       "industries": [
         "saas",
         "ecommerce",
+        "automotive",
         "fintech",
         "manufacturing"
       ],
@@ -227,6 +233,7 @@
         "industries": [
           "saas",
           "ecommerce",
+          "automotive",
           "fintech",
           "manufacturing"
         ],
@@ -243,6 +250,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -284,6 +292,7 @@
       "content-strategy": "콘텐츠 기획",
       "google-app-campaigns": "구글 앱 캠페인",
       "ppc-audit": "광고 성과 분석",
+      "seo-audit": "SEO 점검",
       "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
       "youtube-ads": "유튜브 광고"
@@ -299,6 +308,7 @@
       "ecommerce": "이커머스",
       "saas": "SaaS",
       "fintech": "핀테크",
+      "automotive": "자동차",
       "manufacturing": "제조업"
     },
     "countries": {
@@ -317,13 +327,15 @@
       "greece": "그리스",
       "ireland": "아일랜드",
       "israel": "이스라엘",
+      "italy": "이탈리아",
       "japan": "일본",
       "malaysia": "말레이시아",
       "netherlands": "네덜란드",
       "singapore": "싱가포르",
       "south-korea": "대한민국",
       "sweden": "스웨덴",
-      "switzerland": "스위스"
+      "switzerland": "스위스",
+      "thailand": "태국"
     },
     "languages": {
       "english": "영어",

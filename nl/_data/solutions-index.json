@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -77,12 +80,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -129,7 +134,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -141,6 +147,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -163,12 +170,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -214,6 +223,8 @@
       "google-ads-search": "Google Ads-zoekcampagnes",
       "google-shopping": "Google Shopping",
       "ppc-audit": "SEA-audit",
+      "seo-audit": "SEO-audit",
+      "social-media-audit-strategy": "Social media audit en strategie",
       "telegram-ads": "Telegram Ads-beheer",
       "youtube-ads": "YouTube Ads-beheer",
       "youtube-creator-pilot": "YouTube-creatorpilot"
@@ -233,6 +244,7 @@
       "saas": "SaaS",
       "ecommerce": "Webshops",
       "fintech": "Fintechbedrijven",
+      "automotive": "Autobranche",
       "manufacturing": "Maakindustrie"
     },
     "countries": {
@@ -255,12 +267,14 @@
       "greece": "Griekenland",
       "ireland": "Ierland",
       "israel": "Israël",
+      "italy": "Italië",
       "japan": "Japan",
       "malaysia": "Maleisië",
       "netherlands": "Nederland",
       "singapore": "Singapore",
       "sweden": "Zweden",
-      "switzerland": "Zwitserland"
+      "switzerland": "Zwitserland",
+      "thailand": "Thailand"
     },
     "languages": {
       "english": "Engels",

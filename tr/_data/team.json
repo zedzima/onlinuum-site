@@ -87,6 +87,7 @@
         "ecommerce",
         "saas",
         "fintech",
+        "automotive",
         "manufacturing"
       ],
       "cases": [
@@ -115,7 +116,8 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "cases": [
           "alvadi"
@@ -135,6 +137,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -153,12 +156,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -194,6 +199,7 @@
       "industries": [
         "saas",
         "ecommerce",
+        "automotive",
         "fintech",
         "manufacturing"
       ],
@@ -229,6 +235,7 @@
         "industries": [
           "saas",
           "ecommerce",
+          "automotive",
           "fintech",
           "manufacturing"
         ],
@@ -245,6 +252,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -285,6 +293,7 @@
       "content-strategy": "İçerik Stratejisi",
       "google-app-campaigns": "Google App Campaigns (UAC)",
       "ppc-audit": "Reklam Analizi",
+      "seo-audit": "SEO Analizi",
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads"
@@ -300,6 +309,7 @@
       "ecommerce": "E-ticaret",
       "saas": "SaaS",
       "fintech": "Fintech ve Bankacılık",
+      "automotive": "Otomotiv",
       "manufacturing": "Sanayi"
     },
     "countries": {
@@ -319,12 +329,14 @@
       "greece": "Yunanistan",
       "ireland": "İrlanda",
       "israel": "İsrail",
+      "italy": "İtalya",
       "japan": "Japonya",
       "malaysia": "Malezya",
       "netherlands": "Hollanda",
       "singapore": "Singapur",
       "sweden": "İsveç",
-      "switzerland": "İsviçre"
+      "switzerland": "İsviçre",
+      "thailand": "Tayland"
     },
     "languages": {
       "english": "İngilizce",

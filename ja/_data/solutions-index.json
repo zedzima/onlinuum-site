@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -77,12 +80,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -129,7 +134,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -141,6 +147,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -163,12 +170,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -214,6 +223,8 @@
       "google-ads-search": "Google広告・検索広告",
       "google-shopping": "Googleショッピング広告",
       "ppc-audit": "広告アカウント診断",
+      "seo-audit": "SEO診断",
+      "social-media-audit-strategy": "SNS診断・戦略",
       "telegram-ads": "Telegram Ads",
       "youtube-ads": "YouTube広告",
       "youtube-creator-pilot": "YouTuber PRパイロット"
@@ -233,6 +244,7 @@
       "saas": "SaaS",
       "ecommerce": "EC",
       "fintech": "フィンテック",
+      "automotive": "自動車",
       "manufacturing": "製造業"
     },
     "countries": {
@@ -255,12 +267,14 @@
       "greece": "ギリシャ",
       "ireland": "アイルランド",
       "israel": "イスラエル",
+      "italy": "イタリア",
       "japan": "日本",
       "malaysia": "マレーシア",
       "netherlands": "オランダ",
       "singapore": "シンガポール",
       "sweden": "スウェーデン",
-      "switzerland": "スイス"
+      "switzerland": "スイス",
+      "thailand": "タイ"
     },
     "languages": {
       "english": "英語",

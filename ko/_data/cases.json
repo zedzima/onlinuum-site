@@ -12,7 +12,7 @@
       "image": "/_media/logos/alvadi.svg",
       "image_mode": "logo",
       "service": "ppc",
-      "industry": "ecommerce",
+      "industry": "automotive",
       "country": "eu",
       "language": "",
       "results": [
@@ -53,6 +53,7 @@
           "ppc"
         ],
         "industries": [
+          "automotive",
           "ecommerce"
         ],
         "countries": [
@@ -139,6 +140,7 @@
       "ppc": "검색광고"
     },
     "industries": {
+      "automotive": "자동차",
       "ecommerce": "이커머스",
       "saas": "SaaS"
     },

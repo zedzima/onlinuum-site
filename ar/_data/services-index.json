@@ -58,6 +58,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -135,6 +136,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -199,6 +201,7 @@
           "ecommerce",
           "fintech",
           "saas",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -221,12 +224,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -269,7 +274,8 @@
         "industries": [
           "saas",
           "ecommerce",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -286,12 +292,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -347,6 +355,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -367,12 +376,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -398,7 +409,7 @@
       "description": "خدمات تحسين محركات البحث بنطاق محدد: عمل تقني ومحتوى ونمو متعدد اللغات. تدقيق من $1,190، وبرامج تنفيذ بسعر ثابت من $1,990 لكل دورة.",
       "menu": "سيو SEO",
       "featured": true,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 1990.0,
       "from_price": 1990.0,
@@ -413,6 +424,7 @@
           "search-marketing"
         ],
         "scopes": [
+          "seo-audit",
           "technical-seo",
           "seo-research",
           "content-strategy",
@@ -430,6 +442,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -452,12 +465,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -487,7 +502,7 @@
       "description": "إدارة حسابات التواصل الاجتماعي لنمو المجتمع والإيرادات: استراتيجية ومحتوى وشراكات مؤثرين تقاس بما تحققه من تحويلات.",
       "menu": "وسائل التواصل الاجتماعي",
       "featured": false,
-      "scope_count": 3,
+      "scope_count": 4,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -504,13 +519,15 @@
           "brand-marketing"
         ],
         "scopes": [
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -527,12 +544,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "uae"
         ],
         "languages": [
@@ -570,7 +589,9 @@
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
+      "seo-audit": "تدقيق SEO",
       "technical-seo": "السيو التقني",
+      "social-media-audit-strategy": "تدقيق السوشيال ميديا واستراتيجيتها",
       "telegram-ads": "إعلانات تليجرام",
       "youtube-creator-pilot": "تجربة صناع المحتوى على YouTube"
     },
@@ -587,6 +608,7 @@
       "saas": "SaaS",
       "fintech": "التكنولوجيا المالية",
       "ecommerce": "التجارة الإلكترونية",
+      "automotive": "السيارات",
       "manufacturing": "الصناعة"
     },
     "countries": {
@@ -609,13 +631,15 @@
       "greece": "اليونان",
       "ireland": "أيرلندا",
       "israel": "إسرائيل",
+      "italy": "إيطاليا",
       "japan": "اليابان",
       "netherlands": "هولندا",
       "singapore": "سنغافورة",
       "sweden": "السويد",
       "switzerland": "سويسرا",
       "uae": "الإمارات",
-      "malaysia": "ماليزيا"
+      "malaysia": "ماليزيا",
+      "thailand": "تايلاند"
     },
     "languages": {
       "english": "الإنجليزية",

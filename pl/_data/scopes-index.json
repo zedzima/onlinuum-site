@@ -49,6 +49,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -119,6 +120,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -192,6 +194,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -265,6 +268,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -340,6 +344,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -399,6 +404,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -503,6 +509,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -512,7 +519,8 @@
           "poland",
           "spain",
           "malaysia",
-          "singapore"
+          "singapore",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -579,6 +587,7 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "netherlands",
           "singapore",
@@ -630,6 +639,7 @@
         ],
         "industries": [
           "ecommerce",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -639,7 +649,8 @@
           "poland",
           "spain",
           "malaysia",
-          "singapore"
+          "singapore",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -685,6 +696,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -694,7 +706,8 @@
           "poland",
           "spain",
           "malaysia",
-          "singapore"
+          "singapore",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -708,6 +721,70 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "seo-audit",
+      "url": "/scopes/seo-audit",
+      "title": "Kompleksowy audyt SEO strony internetowej",
+      "description": "Kompleksowy audyt strony internetowej pod kątem SEO: technika, popyt, treści, autorytet i pomiar dla SaaS i sklepów. Od 1 190 USD. Sprawdź cennik.",
+      "menu": "Kompleksowy audyt SEO",
+      "featured": true,
+      "from_price": 1190,
+      "delivery": "one-time",
+      "expert_count": 9,
+      "industry_count": 7,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "search-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "france",
+          "usa",
+          "uk",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "malaysia",
+          "singapore",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "polish",
+          "arabic",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 1
     },
     {
       "slug": "seo-research",
@@ -747,6 +824,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -769,12 +847,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -797,6 +877,51 @@
       },
       "case_count": 0,
       "article_count": 2
+    },
+    {
+      "slug": "social-media-audit-strategy",
+      "url": "/scopes/social-media-audit-strategy",
+      "title": "Audyt social media i strategia od 1 000 USD",
+      "description": "Audyt social media i strategia: przegląd kont, analiza odbiorców i konkurencji, pisemny plan kanałów i konfiguracja profili. Jednorazowo od 1 000 USD.",
+      "menu": "Audyt i strategia social media",
+      "featured": true,
+      "from_price": 1000,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 6,
+      "country_count": 6,
+      "language_count": 4,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     },
     {
       "slug": "technical-seo",
@@ -831,6 +956,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -853,12 +979,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -908,7 +1036,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -950,7 +1079,8 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -994,7 +1124,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -1035,7 +1166,8 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -1079,7 +1211,8 @@
         ],
         "industries": [
           "ecommerce",
-          "saas"
+          "saas",
+          "automotive"
         ],
         "countries": [
           "usa",
@@ -1121,6 +1254,7 @@
       "saas": "SaaS",
       "fintech": "Fintech i usługi finansowe",
       "ecommerce": "Sklepy internetowe",
+      "automotive": "Motoryzacja",
       "manufacturing": "Przemysł i produkcja"
     },
     "countries": {
@@ -1143,12 +1277,14 @@
       "greece": "Grecja",
       "ireland": "Irlandia",
       "israel": "Izrael",
+      "italy": "Włochy",
       "japan": "Japonia",
       "netherlands": "Holandia",
       "singapore": "Singapur",
       "sweden": "Szwecja",
       "switzerland": "Szwajcaria",
-      "malaysia": "Malezja"
+      "malaysia": "Malezja",
+      "thailand": "Tajlandia"
     },
     "languages": {
       "english": "Angielski",

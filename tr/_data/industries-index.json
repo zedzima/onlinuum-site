@@ -1,6 +1,110 @@
 {
   "industries": [
     {
+      "slug": "automotive",
+      "url": "/industries/automotive",
+      "title": "Otomotiv Pazarlama Ajansı: Bayiler ve Üreticiler",
+      "description": "Bayiler, üreticiler ve yedek parça markaları için otomotiv pazarlama: yerel SEO, performans pazarlama, çok dilli uygulama. Hemen başlayın.",
+      "menu": "Otomotiv",
+      "featured": false,
+      "icon": "automotive",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "community-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "seo-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "thailand",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "arabic",
+          "dutch",
+          "greek",
+          "italian",
+          "thai",
+          "turkish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "ecommerce",
       "url": "/industries/ecommerce",
       "title": "E-ticaret Dijital Pazarlama Denetimi Alın",
@@ -8,7 +112,7 @@
       "menu": "E-ticaret",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -38,6 +142,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -85,12 +191,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -126,7 +234,7 @@
       "menu": "Fintech ve Bankacılık",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 14,
+      "scope_count": 16,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -155,6 +263,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads"
         ],
@@ -194,12 +304,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -234,7 +346,7 @@
       "menu": "Sanayi",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -256,7 +368,8 @@
           "content-writing",
           "google-ads-search",
           "google-shopping",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "experts": [
           "vitali-bakun",
@@ -291,12 +404,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -327,7 +442,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 17,
+      "scope_count": 19,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -356,6 +471,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -403,12 +520,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
           "switzerland",
+          "thailand",
           "turkey"
         ],
         "languages": [
@@ -440,37 +559,39 @@
   "labels": {
     "domains": {
       "search-marketing": "Arama Motoru Pazarlaması",
-      "growth-marketing": "Growth Marketing (Büyüme)",
       "performance-marketing": "Performans Pazarlama",
       "brand-marketing": "Marka Pazarlaması",
-      "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
+      "product-marketing": "Ürün Pazarlaması",
+      "growth-marketing": "Growth Marketing (Büyüme)",
       "marketing-operations": "Pazarlama Operasyonları",
       "app-marketing": "Mobil Uygulama Pazarlama"
     },
     "scopes": {
       "seo-research": "SEO Araştırması",
       "technical-seo": "Teknik SEO",
+      "content-strategy": "İçerik Stratejisi",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "google-shopping": "Google Shopping",
+      "ppc-audit": "Reklam Analizi",
+      "seo-audit": "SEO Analizi",
+      "telegram-ads": "Telegram Reklamları",
+      "video-content-production": "Video İçerik Prodüksiyonu",
+      "youtube-ads": "YouTube Ads",
+      "youtube-channel-management": "YouTube Kanal Yönetimi",
+      "youtube-creator-pilot": "YouTube Influencer Pilot Projesi",
       "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns (UAC)",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
-      "content-strategy": "İçerik Stratejisi",
       "content-writing": "İçerik Yazarlığı",
-      "google-ads-search": "Google Ads Arama Ağı",
-      "google-shopping": "Google Shopping",
-      "ppc-audit": "Reklam Analizi",
-      "telegram-ads": "Telegram Reklamları",
-      "video-content-production": "Video İçerik Prodüksiyonu",
-      "youtube-ads": "YouTube Ads",
-      "youtube-channel-management": "YouTube Kanal Yönetimi",
-      "youtube-creator-pilot": "YouTube Influencer Pilot Projesi"
+      "social-media-audit-strategy": "Sosyal Medya Analizi ve Strateji"
     },
     "experts": {
-      "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun",
+      "dima-gerko": "Dima Gerko",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "cases": {
@@ -478,17 +599,17 @@
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
-      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
-      "multilingual-seo": "Uluslararası SEO"
+      "multilingual-seo": "Uluslararası SEO",
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı"
     },
     "services": {
       "content": "İçerik Pazarlama",
+      "social-media": "Sosyal Medya",
       "orm": "İtibar Yönetimi",
-      "aso": "ASO Hizmeti",
-      "app-user-acquisition": "Uygulamalar İçin User Acquisition",
       "seo": "SEO Hizmeti",
       "ppc": "Performans Pazarlama",
-      "social-media": "Sosyal Medya"
+      "aso": "ASO Hizmeti",
+      "app-user-acquisition": "Uygulamalar İçin User Acquisition"
     },
     "countries": {
       "usa": "ABD",
@@ -506,17 +627,19 @@
       "denmark": "Danimarka",
       "estonia": "Estonya",
       "eu": "Avrupa Birliği",
-      "finland": "Finlandiya",
       "greece": "Yunanistan",
       "ireland": "İrlanda",
       "israel": "İsrail",
+      "italy": "İtalya",
       "japan": "Japonya",
-      "malaysia": "Malezya",
       "netherlands": "Hollanda",
-      "singapore": "Singapur",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
-      "turkey": "Türkiye"
+      "thailand": "Tayland",
+      "turkey": "Türkiye",
+      "finland": "Finlandiya",
+      "malaysia": "Malezya",
+      "singapore": "Singapur"
     },
     "languages": {
       "english": "İngilizce",
@@ -535,10 +658,10 @@
     },
     "positions": {
       "seo-expert": "SEO Uzmanı",
-      "aso-specialist": "ASO Uzmanı",
-      "business-development-manager": "İş Geliştirme Yöneticisi",
       "marketing-consultant": "Pazarlama Danışmanı",
       "ppc-specialist": "Google Ads Uzmanı",
+      "aso-specialist": "ASO Uzmanı",
+      "business-development-manager": "İş Geliştirme Yöneticisi",
       "social-media-manager": "Sosyal Medya Uzmanı"
     }
   }

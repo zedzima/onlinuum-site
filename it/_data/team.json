@@ -85,6 +85,7 @@
         "ecommerce",
         "saas",
         "fintech",
+        "automotive",
         "manufacturing"
       ],
       "cases": [
@@ -113,7 +114,8 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "cases": [
           "alvadi"
@@ -133,6 +135,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -157,7 +160,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english"
@@ -192,6 +196,7 @@
       "industries": [
         "saas",
         "ecommerce",
+        "automotive",
         "fintech",
         "manufacturing"
       ],
@@ -227,6 +232,7 @@
         "industries": [
           "saas",
           "ecommerce",
+          "automotive",
           "fintech",
           "manufacturing"
         ],
@@ -284,6 +290,7 @@
       "content-strategy": "Content strategy",
       "google-app-campaigns": "Gestione Google App Campaigns",
       "ppc-audit": "Audit PPC",
+      "seo-audit": "Audit SEO",
       "google-ads-search": "Campagne Google Ads",
       "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads"
@@ -299,6 +306,7 @@
       "ecommerce": "Ecommerce",
       "saas": "SaaS e software",
       "fintech": "Fintech e finanza",
+      "automotive": "Settore automotive",
       "manufacturing": "Manifatturiero"
     },
     "countries": {
@@ -323,7 +331,8 @@
       "netherlands": "Paesi Bassi",
       "singapore": "Singapore",
       "sweden": "Svezia",
-      "switzerland": "Svizzera"
+      "switzerland": "Svizzera",
+      "thailand": "Thailandia"
     },
     "languages": {
       "english": "Inglese",

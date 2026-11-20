@@ -290,7 +290,8 @@
         "industries": [
           "ecommerce",
           "saas",
-          "fintech"
+          "fintech",
+          "automotive"
         ],
         "countries": [
           "france",
@@ -421,6 +422,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -430,7 +432,8 @@
           "poland",
           "spain",
           "malaysia",
-          "singapore"
+          "singapore",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -514,7 +517,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "alaaddin-saracyakupoglu"
@@ -530,6 +534,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -558,7 +563,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -665,7 +671,8 @@
           "telegram-ads",
           "youtube-creator-pilot",
           "youtube-channel-management",
-          "content-strategy"
+          "content-strategy",
+          "social-media-audit-strategy"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -680,6 +687,7 @@
           "fintech"
         ],
         "countries": [
+          "thailand",
           "israel",
           "poland",
           "spain",
@@ -753,8 +761,10 @@
       "google-shopping": "Google Shopping",
       "youtube-ads": "Campagne YouTube Ads",
       "technical-seo": "SEO tecnica",
+      "seo-audit": "Audit SEO",
       "youtube-creator-pilot": "Progetto pilota con creator YouTube",
-      "youtube-channel-management": "Gestione canale YouTube"
+      "youtube-channel-management": "Gestione canale YouTube",
+      "social-media-audit-strategy": "Audit e strategia social media"
     },
     "solutions": {
       "digital-marketing-consulting": "Consulenza marketing",
@@ -772,7 +782,8 @@
       "saas": "SaaS e software",
       "fintech": "Fintech e finanza",
       "ecommerce": "Ecommerce",
-      "manufacturing": "Manifatturiero"
+      "manufacturing": "Manifatturiero",
+      "automotive": "Settore automotive"
     },
     "countries": {
       "usa": "Stati Uniti",
@@ -788,6 +799,7 @@
       "japan": "Giappone",
       "malaysia": "Malesia",
       "singapore": "Singapore",
+      "thailand": "Thailandia",
       "belgium": "Belgio",
       "bulgaria": "Bulgaria",
       "canada": "Canada",

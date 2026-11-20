@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -78,12 +81,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -131,7 +136,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -143,6 +149,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -166,12 +173,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -218,6 +227,8 @@
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
       "ppc-audit": "Google Ads Audit",
+      "seo-audit": "SEO-Audit",
+      "social-media-audit-strategy": "Social-Media-Audit und -Strategie",
       "telegram-ads": "Telegram-Werbung",
       "youtube-ads": "YouTube-Werbung",
       "youtube-creator-pilot": "YouTube-Creator-Pilot"
@@ -237,6 +248,7 @@
       "saas": "SaaS",
       "ecommerce": "E-Commerce",
       "fintech": "Fintech und Banken",
+      "automotive": "Automobilbranche",
       "manufacturing": "Fertigung"
     },
     "countries": {
@@ -260,12 +272,14 @@
       "greece": "Griechenland",
       "ireland": "Irland",
       "israel": "Israel",
+      "italy": "Italien",
       "japan": "Japan",
       "malaysia": "Malaysia",
       "netherlands": "Niederlande",
       "singapore": "Singapur",
       "sweden": "Schweden",
-      "switzerland": "Schweiz"
+      "switzerland": "Schweiz",
+      "thailand": "Thailand"
     },
     "languages": {
       "english": "Englisch",

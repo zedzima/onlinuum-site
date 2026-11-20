@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -83,7 +86,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -130,7 +134,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -142,6 +147,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -170,7 +176,8 @@
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -216,6 +223,8 @@
       "google-ads-search": "Campagne Google Ads",
       "google-shopping": "Google Shopping",
       "ppc-audit": "Audit PPC",
+      "seo-audit": "Audit SEO",
+      "social-media-audit-strategy": "Audit e strategia social media",
       "telegram-ads": "Campagne Telegram Ads",
       "youtube-ads": "Campagne YouTube Ads",
       "youtube-creator-pilot": "Progetto pilota con creator YouTube"
@@ -235,6 +244,7 @@
       "saas": "SaaS e software",
       "ecommerce": "Ecommerce",
       "fintech": "Fintech e finanza",
+      "automotive": "Settore automotive",
       "manufacturing": "Manifatturiero"
     },
     "countries": {
@@ -263,7 +273,8 @@
       "netherlands": "Paesi Bassi",
       "singapore": "Singapore",
       "sweden": "Svezia",
-      "switzerland": "Svizzera"
+      "switzerland": "Svizzera",
+      "thailand": "Thailandia"
     },
     "languages": {
       "english": "Inglese",

@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -77,12 +80,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -129,7 +134,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -141,6 +147,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -163,12 +170,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -214,6 +223,8 @@
       "google-ads-search": "קמפיין חיפוש בגוגל",
       "google-shopping": "פרסום בגוגל שופינג",
       "ppc-audit": "אודיט PPC",
+      "seo-audit": "אודיט SEO",
+      "social-media-audit-strategy": "אודיט ואסטרטגיית סושיאל",
       "telegram-ads": "פרסום בטלגרם",
       "youtube-ads": "פרסום ביוטיוב",
       "youtube-creator-pilot": "פיילוט יוצרי יוטיוב"
@@ -233,6 +244,7 @@
       "saas": "SaaS",
       "ecommerce": "מסחר אלקטרוני",
       "fintech": "פינטק",
+      "automotive": "רכב",
       "manufacturing": "תעשייה וייצור"
     },
     "countries": {
@@ -255,12 +267,14 @@
       "greece": "יוון",
       "ireland": "אירלנד",
       "israel": "ישראל",
+      "italy": "איטליה",
       "japan": "יפן",
       "malaysia": "מלזיה",
       "netherlands": "הולנד",
       "singapore": "סינגפור",
       "sweden": "שוודיה",
-      "switzerland": "שווייץ"
+      "switzerland": "שווייץ",
+      "thailand": "תאילנד"
     },
     "languages": {
       "english": "אנגלית",

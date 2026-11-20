@@ -1,6 +1,110 @@
 {
   "industries": [
     {
+      "slug": "automotive",
+      "url": "/industries/automotive",
+      "title": "Automotive Marketing für Autohäuser und Hersteller",
+      "description": "Automotive-Marketing für Autohäuser, Hersteller und Aftermarket-Marken: Local SEO, Performance-Marketing, mehrsprachige Umsetzung. Jetzt starten.",
+      "menu": "Automobilbranche",
+      "featured": false,
+      "icon": "automotive",
+      "scope_count": 12,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing",
+          "brand-marketing",
+          "community-marketing",
+          "product-marketing",
+          "growth-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "content-strategy",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "seo-audit",
+          "telegram-ads",
+          "video-content-production",
+          "youtube-ads",
+          "youtube-channel-management",
+          "youtube-creator-pilot"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "cases": [
+          "alvadi"
+        ],
+        "solutions": [
+          "multilingual-seo",
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "arabic",
+          "dutch",
+          "greek",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "ecommerce",
       "url": "/industries/ecommerce",
       "title": "E-Commerce Agentur: Marketing für Online-Shops",
@@ -8,7 +112,7 @@
       "menu": "E-Commerce",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 18,
+      "scope_count": 20,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -38,6 +142,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -86,12 +192,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -126,7 +234,7 @@
       "menu": "Fintech und Banken",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 14,
+      "scope_count": 16,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -155,6 +263,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads"
         ],
@@ -195,12 +305,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -234,7 +346,7 @@
       "menu": "Fertigung",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 7,
+      "scope_count": 8,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
@@ -256,7 +368,8 @@
           "content-writing",
           "google-ads-search",
           "google-shopping",
-          "ppc-audit"
+          "ppc-audit",
+          "seo-audit"
         ],
         "experts": [
           "vitali-bakun",
@@ -292,12 +405,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -327,7 +442,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 17,
+      "scope_count": 19,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -356,6 +471,8 @@
           "content-writing",
           "google-ads-search",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
@@ -404,12 +521,14 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -440,37 +559,39 @@
   "labels": {
     "domains": {
       "search-marketing": "Suchmaschinenmarketing",
-      "growth-marketing": "Growth-Marketing",
       "performance-marketing": "Performance-Marketing",
       "brand-marketing": "Markenmarketing",
-      "product-marketing": "Produktmarketing",
       "community-marketing": "Community-Marketing",
+      "product-marketing": "Produktmarketing",
+      "growth-marketing": "Growth-Marketing",
       "marketing-operations": "Marketing-Operations",
       "app-marketing": "App-Marketing"
     },
     "scopes": {
       "seo-research": "SEO-Recherche",
       "technical-seo": "Technisches SEO",
+      "content-strategy": "Content-Strategie",
+      "google-ads-search": "Google Ads Suchkampagnen",
+      "google-shopping": "Google Shopping Ads",
+      "ppc-audit": "Google Ads Audit",
+      "seo-audit": "SEO-Audit",
+      "telegram-ads": "Telegram-Werbung",
+      "video-content-production": "Videoproduktion",
+      "youtube-ads": "YouTube-Werbung",
+      "youtube-channel-management": "YouTube-Kanalmanagement",
+      "youtube-creator-pilot": "YouTube-Creator-Pilot",
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google-App-Kampagnen",
       "app-store-cro": "App-Store-CRO",
       "app-retention": "App-Retention",
-      "content-strategy": "Content-Strategie",
       "content-writing": "Texterstellung",
-      "google-ads-search": "Google Ads Suchkampagnen",
-      "google-shopping": "Google Shopping Ads",
-      "ppc-audit": "Google Ads Audit",
-      "telegram-ads": "Telegram-Werbung",
-      "video-content-production": "Videoproduktion",
-      "youtube-ads": "YouTube-Werbung",
-      "youtube-channel-management": "YouTube-Kanalmanagement",
-      "youtube-creator-pilot": "YouTube-Creator-Pilot"
+      "social-media-audit-strategy": "Social-Media-Audit und -Strategie"
     },
     "experts": {
-      "dima-gerko": "Dima Gerko",
       "vitali-bakun": "Vitali Bakun",
+      "dima-gerko": "Dima Gerko",
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "cases": {
@@ -478,17 +599,17 @@
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
-      "digital-marketing-consulting": "Online-Marketing-Beratung",
-      "multilingual-seo": "Mehrsprachige SEO"
+      "multilingual-seo": "Mehrsprachige SEO",
+      "digital-marketing-consulting": "Online-Marketing-Beratung"
     },
     "services": {
       "content": "Content-Marketing",
+      "social-media": "Social Media Betreuung",
       "orm": "Reputationsmanagement",
-      "aso": "App-Store-Optimierung",
-      "app-user-acquisition": "User Acquisition für Apps",
       "seo": "SEO-Leistungen",
       "ppc": "Google Ads",
-      "social-media": "Social Media Betreuung"
+      "aso": "App-Store-Optimierung",
+      "app-user-acquisition": "User Acquisition für Apps"
     },
     "countries": {
       "germany": "Deutschland",
@@ -507,16 +628,18 @@
       "denmark": "Dänemark",
       "estonia": "Estland",
       "eu": "Europäische Union",
-      "finland": "Finnland",
       "greece": "Griechenland",
       "ireland": "Irland",
       "israel": "Israel",
+      "italy": "Italien",
       "japan": "Japan",
-      "malaysia": "Malaysia",
       "netherlands": "Niederlande",
-      "singapore": "Singapur",
       "sweden": "Schweden",
-      "switzerland": "Schweiz"
+      "switzerland": "Schweiz",
+      "thailand": "Thailand",
+      "finland": "Finnland",
+      "malaysia": "Malaysia",
+      "singapore": "Singapur"
     },
     "languages": {
       "english": "Englisch",
@@ -535,10 +658,10 @@
     },
     "positions": {
       "seo-expert": "SEO Manager",
-      "aso-specialist": "ASO Manager",
-      "business-development-manager": "Business-Development-Manager",
       "marketing-consultant": "Marketingberater",
       "ppc-specialist": "SEA Manager",
+      "aso-specialist": "ASO Manager",
+      "business-development-manager": "Business-Development-Manager",
       "social-media-manager": "Social-Media-Manager"
     }
   }

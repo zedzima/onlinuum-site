@@ -36,6 +36,8 @@
           "google-ads-search",
           "google-shopping",
           "ppc-audit",
+          "seo-audit",
+          "social-media-audit-strategy",
           "telegram-ads",
           "youtube-ads",
           "youtube-creator-pilot"
@@ -55,6 +57,7 @@
           "saas",
           "ecommerce",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -77,13 +80,15 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "south-korea",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -130,7 +135,8 @@
         "scopes": [
           "technical-seo",
           "seo-research",
-          "content-strategy"
+          "content-strategy",
+          "seo-audit"
         ],
         "experts": [
           "dima-gerko"
@@ -142,6 +148,7 @@
           "ecommerce",
           "saas",
           "fintech",
+          "automotive",
           "manufacturing"
         ],
         "countries": [
@@ -164,13 +171,15 @@
           "greece",
           "ireland",
           "israel",
+          "italy",
           "japan",
           "malaysia",
           "netherlands",
           "singapore",
           "south-korea",
           "sweden",
-          "switzerland"
+          "switzerland",
+          "thailand"
         ],
         "languages": [
           "english",
@@ -216,6 +225,8 @@
       "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
       "ppc-audit": "광고 성과 분석",
+      "seo-audit": "SEO 점검",
+      "social-media-audit-strategy": "SNS 진단·전략",
       "telegram-ads": "텔레그램 광고",
       "youtube-ads": "유튜브 광고",
       "youtube-creator-pilot": "유튜브 크리에이터 파일럿"
@@ -235,6 +246,7 @@
       "saas": "SaaS",
       "ecommerce": "이커머스",
       "fintech": "핀테크",
+      "automotive": "자동차",
       "manufacturing": "제조업"
     },
     "countries": {
@@ -257,13 +269,15 @@
       "greece": "그리스",
       "ireland": "아일랜드",
       "israel": "이스라엘",
+      "italy": "이탈리아",
       "japan": "일본",
       "malaysia": "말레이시아",
       "netherlands": "네덜란드",
       "singapore": "싱가포르",
       "south-korea": "대한민국",
       "sweden": "스웨덴",
-      "switzerland": "스위스"
+      "switzerland": "스위스",
+      "thailand": "태국"
     },
     "languages": {
       "english": "영어",
