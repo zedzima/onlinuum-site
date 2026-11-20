@@ -978,6 +978,9 @@
           "turkish",
           "urdu"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "business-development-manager",
           "marketing-consultant",
@@ -1980,6 +1983,8 @@
           "urdu"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -2524,6 +2529,9 @@
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Як ШІ обирає джерела",
+      "seo-content-marketing": "SEO-контент-маркетинг",
+      "semrush-competitor-analysis": "Аналіз конкурентів у Semrush",
+      "seo-plan": "SEO-план і терміни",
       "seo-packages-comparison": "Порівняння пакетів SEO",
       "why-seo-matters-in-2026": "Що таке SEO"
     },

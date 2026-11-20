@@ -55,6 +55,100 @@
     ]
   },
   {
+    "slug": "semrush-competitor-analysis",
+    "url": "/blog/semrush-competitor-analysis",
+    "title": "경쟁사 분석 방법: Semrush 보고서 해석하기",
+    "description": "LED 비디오월 사이트의 Semrush 경쟁사 분석 사례: 키워드 30,000개, 자연 검색 트래픽 73%, 블로그 글 1,100개가 콘텐츠 계획에 주는 의미.",
+    "lang": "ko",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 6,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": []
+  },
+  {
+    "slug": "seo-content-marketing",
+    "url": "/blog/seo-content-marketing",
+    "title": "콘텐츠 SEO: SEO와 콘텐츠를 함께 쓰는 방법",
+    "description": "SEO와 콘텐츠 마케팅이 서로를 강화하는 방식: 7단계 로드맵, 구조와 메타 태그, KPI와 도구, 자주 겪는 문제 6가지의 해법을 정리했습니다.",
+    "lang": "ko",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 11,
+    "author_name": "",
+    "scope": "content-strategy",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-strategy",
+      "on-page-seo"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-plan",
+    "url": "/blog/seo-plan",
+    "title": "SEO 전략과 기간: 웹사이트 최적화에 걸리는 시간",
+    "description": "SEO 계획에 들어가는 작업과 기간: 조사와 SEO 전략 수립 1~2개월, 최적화 최소 2개월, 고객이 자주 묻는 질문 7가지에 대한 답.",
+    "lang": "ko",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-29",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 4,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit",
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
     "slug": "seo-packages-comparison",
     "url": "/blog/seo-packages-comparison",
     "title": "SEO 비용 비교: 패키지별 범위와 월 가격",

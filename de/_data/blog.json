@@ -55,6 +55,100 @@
     ]
   },
   {
+    "slug": "semrush-competitor-analysis",
+    "url": "/blog/semrush-competitor-analysis",
+    "title": "Konkurrenzanalyse mit Semrush: den Bericht deuten",
+    "description": "Eine Konkurrenzanalyse mit Semrush für eine LED-Videowand-Website: 30.000 Keywords, 73 % organischer Traffic, 1.100 Blogartikel und was das für den Content-Plan bedeutet.",
+    "lang": "de",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 7,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": []
+  },
+  {
+    "slug": "seo-content-marketing",
+    "url": "/blog/seo-content-marketing",
+    "title": "SEO-Content-Marketing: SEO und Content verbinden",
+    "description": "Wie sich SEO und Content-Marketing gegenseitig stärken: ein Fahrplan in 7 Schritten, Struktur und Meta-Tags, KPIs und Tools, Lösungen für sechs typische Hürden.",
+    "lang": "de",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 14,
+    "author_name": "",
+    "scope": "content-strategy",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-strategy",
+      "on-page-seo"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-plan",
+    "url": "/blog/seo-plan",
+    "title": "SEO-Plan: wie lange dauert SEO für eine Website?",
+    "description": "Was ein SEO-Plan umfasst und wie lange er dauert: 1–2 Monate Recherche und Strategie, mindestens 2 weitere für Optimierung, dazu Antworten auf 7 Kundenfragen.",
+    "lang": "de",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-29",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 6,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit",
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
     "slug": "seo-packages-comparison",
     "url": "/blog/seo-packages-comparison",
     "title": "SEO Pakete im Vergleich: Preise und Leistungen",

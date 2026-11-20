@@ -974,6 +974,9 @@
           "croatian",
           "slovenian"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "seo-expert",
           "marketing-consultant",
@@ -981,7 +984,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 0
+      "article_count": 1
     },
     {
       "slug": "content-writing",
@@ -2488,6 +2491,7 @@
           "urdu"
         ],
         "blog-posts": [
+          "seo-content-marketing",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -2496,7 +2500,7 @@
         ]
       },
       "case_count": 1,
-      "article_count": 2
+      "article_count": 3
     },
     {
       "slug": "paid-social-for-apps",
@@ -4313,6 +4317,7 @@
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",
       "why-seo-matters-in-2026": "Почему SEO важно в 2026",
+      "seo-content-marketing": "SEO и контент-маркетинг",
       "promote-business-with-articles": "Публикации в СМИ",
       "where-to-find-a-copywriter": "Как найти копирайтера",
       "international-ppc": "Контекстная реклама на разных языках",

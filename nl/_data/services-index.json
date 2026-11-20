@@ -240,6 +240,9 @@
           "italian",
           "thai"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "business-development-manager",
           "marketing-consultant",
@@ -479,6 +482,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -650,13 +655,16 @@
       "ppc-specialist": "SEA-specialist",
       "seo-expert": "SEO-specialist"
     },
+    "blog-posts": {
+      "seo-content-marketing": "SEO content marketing",
+      "semrush-competitor-analysis": "Concurrentieanalyse in Semrush",
+      "seo-plan": "SEO-plan en doorlooptijd",
+      "seo-packages-comparison": "SEO-pakketten vergeleken",
+      "why-seo-matters-in-2026": "Waarom SEO belangrijk is in 2026"
+    },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "SEO-pakketten vergeleken",
-      "why-seo-matters-in-2026": "Waarom SEO belangrijk is in 2026"
     }
   }
 }

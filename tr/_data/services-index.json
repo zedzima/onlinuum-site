@@ -242,6 +242,9 @@
           "thai",
           "turkish"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "business-development-manager",
           "marketing-consultant",
@@ -487,6 +490,8 @@
           "turkish"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -660,13 +665,16 @@
       "ppc-specialist": "Google Ads Uzmanı",
       "seo-expert": "SEO Uzmanı"
     },
+    "blog-posts": {
+      "seo-content-marketing": "SEO ve içerik pazarlaması",
+      "semrush-competitor-analysis": "Semrush ile rakip analizi",
+      "seo-plan": "SEO planı ve süresi",
+      "seo-packages-comparison": "SEO paketleri karşılaştırması",
+      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
+    },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "SEO paketleri karşılaştırması",
-      "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
     }
   }
 }

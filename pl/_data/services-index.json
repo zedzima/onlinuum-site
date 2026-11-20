@@ -243,6 +243,9 @@
           "italian",
           "thai"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "business-development-manager",
           "marketing-consultant",
@@ -483,6 +486,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -655,13 +660,16 @@
       "ppc-specialist": "Specjalista Google Ads",
       "seo-expert": "Specjalista SEO"
     },
+    "blog-posts": {
+      "seo-content-marketing": "SEO content marketing",
+      "semrush-competitor-analysis": "Analiza konkurencji w Semrush",
+      "seo-plan": "Plan SEO i harmonogram",
+      "seo-packages-comparison": "Porównanie pakietów SEO",
+      "why-seo-matters-in-2026": "Czy SEO opłaca się w 2026"
+    },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "Porównanie pakietów SEO",
-      "why-seo-matters-in-2026": "Czy SEO opłaca się w 2026"
     }
   }
 }

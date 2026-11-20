@@ -243,6 +243,9 @@
           "italian",
           "thai"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "business-development-manager",
           "marketing-consultant",
@@ -485,6 +488,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -658,13 +663,16 @@
       "ppc-specialist": "퍼포먼스 마케터",
       "seo-expert": "SEO 채용"
     },
+    "blog-posts": {
+      "seo-content-marketing": "콘텐츠 SEO",
+      "semrush-competitor-analysis": "Semrush 경쟁사 분석",
+      "seo-plan": "SEO 계획과 기간",
+      "seo-packages-comparison": "SEO 패키지 비교",
+      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "SEO 패키지 비교",
-      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
     }
   }
 }

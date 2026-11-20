@@ -420,6 +420,9 @@
           "english",
           "spanish"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "seo-expert",
           "marketing-consultant",
@@ -427,7 +430,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 0
+      "article_count": 1
     },
     {
       "slug": "content-writing",
@@ -775,6 +778,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison"
         ],
         "positions": [
@@ -782,7 +787,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 1
+      "article_count": 3
     },
     {
       "slug": "seo-research",
@@ -865,6 +870,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -874,7 +881,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 2
+      "article_count": 4
     },
     {
       "slug": "social-media-audit-strategy",
@@ -1308,13 +1315,16 @@
       "social-media": "SNS 마케팅",
       "ppc": "검색광고"
     },
+    "blog-posts": {
+      "seo-content-marketing": "콘텐츠 SEO",
+      "semrush-competitor-analysis": "Semrush 경쟁사 분석",
+      "seo-plan": "SEO 계획과 기간",
+      "seo-packages-comparison": "SEO 패키지 비교",
+      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
+    },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "SEO 패키지 비교",
-      "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
     }
   }
 }

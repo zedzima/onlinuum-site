@@ -236,7 +236,7 @@
       ],
       "cases": [],
       "case_count": 0,
-      "article_count": 2,
+      "article_count": 3,
       "facets": {
         "domains": [
           "app-marketing",
@@ -349,6 +349,7 @@
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
+          "seo-content-marketing",
           "seo-packages-comparison"
         ]
       }
@@ -2541,6 +2542,7 @@
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Как ИИ выбирает источники",
+      "seo-content-marketing": "SEO и контент-маркетинг",
       "seo-packages-comparison": "Сравнение SEO-пакетов",
       "why-seo-matters-in-2026": "Почему SEO важно в 2026",
       "analysis-of-search-demand": "Анализ поисковых запросов"

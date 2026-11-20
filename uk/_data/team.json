@@ -236,7 +236,7 @@
       ],
       "cases": [],
       "case_count": 0,
-      "article_count": 2,
+      "article_count": 3,
       "facets": {
         "domains": [
           "app-marketing",
@@ -349,6 +349,7 @@
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
+          "seo-content-marketing",
           "seo-packages-comparison"
         ]
       }
@@ -2392,6 +2393,7 @@
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Як ШІ обирає джерела",
+      "seo-content-marketing": "SEO-контент-маркетинг",
       "seo-packages-comparison": "Порівняння пакетів SEO",
       "why-seo-matters-in-2026": "Що таке SEO"
     },

@@ -55,6 +55,100 @@
     ]
   },
   {
+    "slug": "semrush-competitor-analysis",
+    "url": "/blog/semrush-competitor-analysis",
+    "title": "Semrush ile Rakip Analizi: Rapor Nasıl Yorumlanır",
+    "description": "LED video duvar sitesinin Semrush rakip analizi: 30.000 anahtar kelime, %73 organik trafik, 1.100 blog yazısı ve bunların içerik planı için anlamı.",
+    "lang": "tr",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 7,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": []
+  },
+  {
+    "slug": "seo-content-marketing",
+    "url": "/blog/seo-content-marketing",
+    "title": "İçerik Pazarlaması Nedir? SEO ile Nasıl Birleştirilir",
+    "description": "SEO ve içerik pazarlaması birbirini nasıl güçlendirir: 7 adımlı yol haritası, yapı ve meta etiketleri, KPI'lar, araçlar ve altı yaygın zorluğun çözümü.",
+    "lang": "tr",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 13,
+    "author_name": "",
+    "scope": "content-strategy",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-strategy",
+      "on-page-seo"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-plan",
+    "url": "/blog/seo-plan",
+    "title": "SEO Planı: Web Sitesi Optimizasyonu Ne Kadar Sürer?",
+    "description": "SEO planı neleri kapsar ve ne kadar sürer: 1-2 ay araştırma ve strateji, en az 2 ay daha optimizasyon ve müşterilerin sorduğu 7 sorunun yanıtı.",
+    "lang": "tr",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-29",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 5,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit",
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
     "slug": "seo-packages-comparison",
     "url": "/blog/seo-packages-comparison",
     "title": "SEO Paketleri Karşılaştırması: Fiyat ve Kapsam",

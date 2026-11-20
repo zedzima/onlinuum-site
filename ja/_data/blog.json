@@ -55,6 +55,100 @@
     ]
   },
   {
+    "slug": "semrush-competitor-analysis",
+    "url": "/blog/semrush-competitor-analysis",
+    "title": "Semrushの競合分析：レポートの読み解き方",
+    "description": "LEDビデオウォールのサイトをSemrushで競合分析した実例です。3万キーワード、オーガニック流入73%、ブログ記事1,100本がコンテンツ計画に何を意味するのかを解説します。",
+    "lang": "ja",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO",
+      "Competitor Analysis"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-16",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 1,
+    "author_name": "",
+    "scope": "seo-research",
+    "industry": "",
+    "country": "usa",
+    "language": "",
+    "scopes": [
+      "seo-research",
+      "seo-audit"
+    ],
+    "industries": [],
+    "countries": [
+      "usa"
+    ],
+    "languages": []
+  },
+  {
+    "slug": "seo-content-marketing",
+    "url": "/blog/seo-content-marketing",
+    "title": "コンテンツSEOとは：SEOとコンテンツを組み合わせる方法",
+    "description": "SEOとコンテンツマーケティングが互いを強める仕組みを解説します。7ステップのロードマップ、構成とメタタグ、KPIとツール、よくある6つの課題の解決策まで。",
+    "lang": "ja",
+    "category": "content",
+    "service": "content",
+    "tags": [
+      "Content Marketing",
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-08",
+    "author": "anastasiya-antoniuk",
+    "type": "guide",
+    "reading_time": 1,
+    "author_name": "",
+    "scope": "content-strategy",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "content-strategy",
+      "on-page-seo"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
+    "slug": "seo-plan",
+    "url": "/blog/seo-plan",
+    "title": "SEO戦略と計画：サイトの集客にかかる期間",
+    "description": "SEO計画に含まれる作業と、効果が出るまでの期間を解説します。調査と戦略に1〜2か月、最適化にさらに2か月以上。お客様からよくある7つの質問にもお答えします。",
+    "lang": "ja",
+    "category": "seo",
+    "service": "seo",
+    "tags": [
+      "SEO"
+    ],
+    "price": null,
+    "featured": false,
+    "date": "2025-08-29",
+    "author": "dima-gerko",
+    "type": "guide",
+    "reading_time": 1,
+    "author_name": "",
+    "scope": "seo-audit",
+    "industry": "",
+    "country": "",
+    "language": "",
+    "scopes": [
+      "seo-audit",
+      "seo-research"
+    ],
+    "industries": [],
+    "countries": [],
+    "languages": []
+  },
+  {
     "slug": "seo-packages-comparison",
     "url": "/blog/seo-packages-comparison",
     "title": "SEO対策の費用を比較：3つのプランと料金相場",

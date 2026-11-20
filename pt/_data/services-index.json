@@ -978,6 +978,9 @@
           "turkish",
           "urdu"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "business-development-manager",
           "marketing-consultant",
@@ -1980,6 +1983,8 @@
           "urdu"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -2524,6 +2529,9 @@
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Como a IA escolhe fontes",
+      "seo-content-marketing": "SEO e marketing de conteúdos",
+      "semrush-competitor-analysis": "Análise da concorrência no Semrush",
+      "seo-plan": "Plano de SEO e prazos",
       "seo-packages-comparison": "Comparação de planos de SEO",
       "why-seo-matters-in-2026": "A importância do SEO em 2026"
     },

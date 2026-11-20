@@ -415,6 +415,9 @@
           "english",
           "spanish"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "seo-expert",
           "marketing-consultant",
@@ -422,7 +425,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 0
+      "article_count": 1
     },
     {
       "slug": "content-writing",
@@ -769,6 +772,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison"
         ],
         "positions": [
@@ -776,7 +781,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 1
+      "article_count": 3
     },
     {
       "slug": "seo-research",
@@ -858,6 +863,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -867,7 +874,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 2
+      "article_count": 4
     },
     {
       "slug": "social-media-audit-strategy",
@@ -1299,13 +1306,16 @@
       "social-media": "Social media",
       "ppc": "PPC"
     },
+    "blog-posts": {
+      "seo-content-marketing": "SEO content marketing",
+      "semrush-competitor-analysis": "Analisi dei competitor con Semrush",
+      "seo-plan": "Piano SEO e tempi",
+      "seo-packages-comparison": "Prezzi SEO a confronto",
+      "why-seo-matters-in-2026": "A cosa serve la SEO nel 2026"
+    },
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "blog-posts": {
-      "seo-packages-comparison": "Prezzi SEO a confronto",
-      "why-seo-matters-in-2026": "A cosa serve la SEO nel 2026"
     }
   }
 }

@@ -968,6 +968,9 @@
           "croatian",
           "slovenian"
         ],
+        "blog-posts": [
+          "seo-content-marketing"
+        ],
         "positions": [
           "seo-expert",
           "marketing-consultant",
@@ -975,7 +978,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 0
+      "article_count": 1
     },
     {
       "slug": "content-writing",
@@ -2454,6 +2457,7 @@
           "urdu"
         ],
         "blog-posts": [
+          "seo-content-marketing",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -2462,7 +2466,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 2
+      "article_count": 3
     },
     {
       "slug": "paid-social-for-apps",
@@ -2933,6 +2937,8 @@
           "thai"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison"
         ],
         "positions": [
@@ -2940,7 +2946,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 1
+      "article_count": 3
     },
     {
       "slug": "seo-research",
@@ -3094,6 +3100,8 @@
           "urdu"
         ],
         "blog-posts": [
+          "semrush-competitor-analysis",
+          "seo-plan",
           "seo-packages-comparison",
           "why-seo-matters-in-2026"
         ],
@@ -3103,7 +3111,7 @@
         ]
       },
       "case_count": 0,
-      "article_count": 2
+      "article_count": 4
     },
     {
       "slug": "social-content-creation",
@@ -4255,7 +4263,10 @@
     "blog-posts": {
       "how-ai-chooses-sources": "Comment l'IA choisit ses sources",
       "why-seo-matters-in-2026": "Pourquoi le SEO compte en 2026",
-      "seo-packages-comparison": "Comparatif des offres SEO"
+      "seo-content-marketing": "SEO content marketing",
+      "seo-packages-comparison": "Comparatif des offres SEO",
+      "semrush-competitor-analysis": "Analyse de la concurrence avec Semrush",
+      "seo-plan": "Plan SEO et délais"
     },
     "positions": {
       "seo-expert": "Consultant SEO",
