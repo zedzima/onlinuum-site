@@ -20,6 +20,7 @@
           "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -36,7 +37,8 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "youtube-ads",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -66,6 +68,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -83,6 +86,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -116,7 +120,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -146,6 +151,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -163,6 +169,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -185,6 +192,7 @@
       "performance-marketing": "퍼포먼스 마케팅",
       "product-marketing": "프로덕트 마케팅",
       "community-marketing": "커뮤니티 마케팅",
+      "brand-marketing": "브랜드 마케팅",
       "app-marketing": "앱 마케팅"
     },
     "scopes": {
@@ -201,7 +209,8 @@
       "google-shopping": "구글 쇼핑",
       "ppc-audit": "광고 성과 분석",
       "telegram-ads": "텔레그램 광고",
-      "youtube-ads": "유튜브 광고"
+      "youtube-ads": "유튜브 광고",
+      "youtube-creator-pilot": "유튜브 크리에이터 파일럿"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -231,6 +240,7 @@
       "canada": "캐나다",
       "china": "중국",
       "denmark": "덴마크",
+      "estonia": "에스토니아",
       "eu": "유럽연합",
       "finland": "핀란드",
       "greece": "그리스",
@@ -248,6 +258,7 @@
       "english": "영어",
       "arabic": "아랍어",
       "dutch": "네덜란드어",
+      "greek": "그리스어",
       "italian": "이탈리아어",
       "thai": "태국어"
     },

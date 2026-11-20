@@ -48,6 +48,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -62,10 +63,91 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
           "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "brand-marketing",
+      "url": "/domains/brand-marketing",
+      "title": "Marka Pazarlaması: PR, İtibar ve Görünürlük",
+      "description": "Geniş ölçekte tanınırlık ve güven isteyen şirketler için marka pazarlaması: PR, marka iletişimi, itibar, sosyal medya ve içerik. Ayrıntıları görün.",
+      "menu": "Marka Pazarlaması",
+      "featured": true,
+      "icon": "award",
+      "service_count": 3,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "youtube-channel-management",
+          "video-content-production",
+          "youtube-creator-pilot",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content",
+          "orm"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "dutch",
+          "greek",
+          "italian",
+          "thai",
+          "turkish"
+        ],
+        "positions": [
+          "business-development-manager",
+          "social-media-manager"
         ]
       }
     },
@@ -78,7 +160,7 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
@@ -87,6 +169,7 @@
           "seo-research",
           "youtube-channel-management",
           "video-content-production",
+          "youtube-creator-pilot",
           "content-strategy"
         ],
         "experts": [
@@ -117,6 +200,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -131,6 +215,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -181,6 +266,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -198,6 +284,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -241,6 +328,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -258,6 +346,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -316,6 +405,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -333,6 +423,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -391,6 +482,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -408,6 +500,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -472,6 +565,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -489,6 +583,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -518,13 +613,14 @@
       "seo-research": "SEO Araştırması",
       "youtube-channel-management": "YouTube Kanal Yönetimi",
       "video-content-production": "Video İçerik Prodüksiyonu",
+      "youtube-creator-pilot": "YouTube Influencer Pilot Projesi",
       "content-strategy": "İçerik Stratejisi",
+      "content-writing": "İçerik Yazarlığı",
       "ppc-audit": "Reklam Analizi",
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "telegram-ads": "Telegram Reklamları",
-      "content-writing": "İçerik Yazarlığı",
       "technical-seo": "Teknik SEO"
     },
     "experts": {
@@ -541,6 +637,7 @@
       "app-user-acquisition": "Uygulamalar İçin User Acquisition",
       "social-media": "Sosyal Medya",
       "content": "İçerik Pazarlama",
+      "orm": "İtibar Yönetimi",
       "ppc": "Performans Pazarlama",
       "seo": "SEO Hizmeti"
     },
@@ -561,6 +658,7 @@
       "canada": "Kanada",
       "china": "Çin",
       "denmark": "Danimarka",
+      "estonia": "Estonya",
       "eu": "Avrupa Birliği",
       "finland": "Finlandiya",
       "greece": "Yunanistan",
@@ -577,6 +675,7 @@
     "languages": {
       "english": "İngilizce",
       "dutch": "Felemenkçe",
+      "greek": "Yunanca",
       "italian": "İtalyanca",
       "arabic": "Arapça",
       "thai": "Tayca",
@@ -584,8 +683,8 @@
     },
     "positions": {
       "aso-specialist": "ASO Uzmanı",
-      "social-media-manager": "Sosyal Medya Uzmanı",
       "business-development-manager": "İş Geliştirme Yöneticisi",
+      "social-media-manager": "Sosyal Medya Uzmanı",
       "marketing-consultant": "Pazarlama Danışmanı",
       "ppc-specialist": "Google Ads Uzmanı",
       "seo-expert": "SEO Uzmanı"

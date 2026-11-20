@@ -20,6 +20,7 @@
           "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -36,7 +37,8 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "youtube-ads",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -66,6 +68,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -83,6 +86,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -116,7 +120,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -146,6 +151,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -163,6 +169,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -185,6 +192,7 @@
       "performance-marketing": "Performance marketing",
       "product-marketing": "Marketing di prodotto",
       "community-marketing": "Marketing della community",
+      "brand-marketing": "Marketing del brand",
       "app-marketing": "Marketing per app"
     },
     "scopes": {
@@ -201,7 +209,8 @@
       "google-shopping": "Google Shopping",
       "ppc-audit": "Audit PPC",
       "telegram-ads": "Campagne Telegram Ads",
-      "youtube-ads": "Campagne YouTube Ads"
+      "youtube-ads": "Campagne YouTube Ads",
+      "youtube-creator-pilot": "Progetto pilota con creator YouTube"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -231,6 +240,7 @@
       "canada": "Canada",
       "china": "Cina",
       "denmark": "Danimarca",
+      "estonia": "Estonia",
       "eu": "Unione Europea",
       "finland": "Finlandia",
       "greece": "Grecia",
@@ -248,6 +258,7 @@
       "english": "Inglese",
       "arabic": "Arabo",
       "dutch": "Olandese",
+      "greek": "Greco",
       "italian": "Italiano",
       "thai": "Tailandese"
     },

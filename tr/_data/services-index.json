@@ -49,6 +49,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -63,6 +64,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -119,6 +121,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -133,6 +136,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -159,13 +163,15 @@
       "domains": [
         "search-marketing",
         "community-marketing",
-        "product-marketing"
+        "product-marketing",
+        "brand-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -196,6 +202,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -213,6 +220,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -238,8 +246,13 @@
       "industry_count": 6,
       "country_count": 3,
       "language_count": 3,
-      "domains": [],
+      "domains": [
+        "brand-marketing"
+      ],
       "facets": {
+        "domains": [
+          "brand-marketing"
+        ],
         "industries": [
           "saas",
           "ecommerce",
@@ -251,6 +264,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -268,6 +282,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "turkish"
         ]
@@ -328,6 +343,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -345,6 +361,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -408,6 +425,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -425,6 +443,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -447,7 +466,7 @@
       "description": "Gelire odaklı sosyal medya yönetimi: strateji, içerik, topluluk yönetimi ve dönüşümle ölçülen influencer iş birlikleri.",
       "menu": "Sosyal Medya",
       "featured": false,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -455,14 +474,17 @@
       "country_count": 3,
       "language_count": 3,
       "domains": [
-        "community-marketing"
+        "community-marketing",
+        "brand-marketing"
       ],
       "facets": {
         "domains": [
-          "community-marketing"
+          "community-marketing",
+          "brand-marketing"
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-creator-pilot",
           "content-strategy"
         ],
         "industries": [
@@ -475,6 +497,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -491,6 +514,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -506,7 +530,8 @@
       "performance-marketing": "Performans Pazarlama",
       "search-marketing": "Arama Motoru Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
-      "product-marketing": "Ürün Pazarlaması"
+      "product-marketing": "Ürün Pazarlaması",
+      "brand-marketing": "Marka Pazarlaması"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -521,7 +546,8 @@
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "Teknik SEO",
-      "telegram-ads": "Telegram Reklamları"
+      "telegram-ads": "Telegram Reklamları",
+      "youtube-creator-pilot": "YouTube Influencer Pilot Projesi"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -549,6 +575,7 @@
       "canada": "Kanada",
       "china": "Çin",
       "denmark": "Danimarka",
+      "estonia": "Estonya",
       "eu": "Avrupa Birliği",
       "finland": "Finlandiya",
       "greece": "Yunanistan",
@@ -565,6 +592,7 @@
     "languages": {
       "english": "İngilizce",
       "dutch": "Felemenkçe",
+      "greek": "Yunanca",
       "italian": "İtalyanca",
       "arabic": "Arapça",
       "thai": "Tayca",

@@ -8,7 +8,7 @@
       "menu": "E-ticaret",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -18,6 +18,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -40,7 +41,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -74,6 +76,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -91,6 +94,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -128,6 +132,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -176,6 +181,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -193,6 +199,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "turkish"
         ],
@@ -231,6 +238,7 @@
           "performance-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -266,6 +274,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -282,6 +291,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian",
           "turkish"
         ],
@@ -305,7 +315,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 16,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -315,6 +325,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -336,7 +347,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -370,6 +382,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -387,6 +400,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -412,6 +426,7 @@
       "search-marketing": "Arama Motoru Pazarlaması",
       "growth-marketing": "Growth Marketing (Büyüme)",
       "performance-marketing": "Performans Pazarlama",
+      "brand-marketing": "Marka Pazarlaması",
       "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
       "marketing-operations": "Pazarlama Operasyonları",
@@ -434,7 +449,8 @@
       "telegram-ads": "Telegram Reklamları",
       "video-content-production": "Video İçerik Prodüksiyonu",
       "youtube-ads": "YouTube Ads",
-      "youtube-channel-management": "YouTube Kanal Yönetimi"
+      "youtube-channel-management": "YouTube Kanal Yönetimi",
+      "youtube-creator-pilot": "YouTube Influencer Pilot Projesi"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -469,6 +485,7 @@
       "canada": "Kanada",
       "china": "Çin",
       "denmark": "Danimarka",
+      "estonia": "Estonya",
       "eu": "Avrupa Birliği",
       "finland": "Finlandiya",
       "greece": "Yunanistan",
@@ -486,6 +503,7 @@
       "english": "İngilizce",
       "arabic": "Arapça",
       "dutch": "Felemenkçe",
+      "greek": "Yunanca",
       "italian": "İtalyanca",
       "thai": "Tayca",
       "turkish": "Türkçe"

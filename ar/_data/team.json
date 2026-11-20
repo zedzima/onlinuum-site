@@ -99,6 +99,7 @@
           "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -248,6 +249,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ]
       }
@@ -261,6 +263,7 @@
       "performance-marketing": "تسويق الأداء",
       "product-marketing": "تسويق المنتجات",
       "community-marketing": "التسويق المجتمعي",
+      "brand-marketing": "تسويق العلامة التجارية",
       "app-marketing": "تسويق التطبيقات"
     },
     "scopes": {
@@ -316,6 +319,7 @@
     "languages": {
       "english": "الإنجليزية",
       "dutch": "الهولندية",
+      "greek": "اليونانية",
       "italian": "الإيطالية"
     },
     "positions": {

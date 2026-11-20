@@ -40,6 +40,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -55,6 +56,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -104,6 +106,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -119,6 +122,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -171,6 +175,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -186,6 +191,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -238,6 +244,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -254,6 +261,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -307,6 +315,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -322,6 +331,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -350,7 +360,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -407,7 +418,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "services": [
           "content",
@@ -531,6 +543,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -546,6 +559,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -679,7 +693,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -710,6 +725,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -727,6 +743,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -788,6 +805,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -805,6 +823,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -880,6 +899,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing",
           "performance-marketing"
         ],
@@ -962,6 +982,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing"
         ],
         "industries": [
@@ -981,6 +1002,50 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-pilot",
+      "url": "/scopes/youtube-creator-pilot",
+      "title": "유튜버 섭외 파일럿: 확장 전에 검증하기",
+      "description": "일회성 유튜버 섭외 파일럿. 크리에이터 조사, 섭외, 브리핑, 성과 분석으로 상시 운영 전에 검증합니다. $3,500부터. 가격을 확인하십시오.",
+      "menu": "유튜브 크리에이터 파일럿",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "canada",
+          "uk",
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
@@ -990,6 +1055,7 @@
       "growth-marketing": "그로스 마케팅",
       "community-marketing": "커뮤니티 마케팅",
       "product-marketing": "프로덕트 마케팅",
+      "brand-marketing": "브랜드 마케팅",
       "performance-marketing": "퍼포먼스 마케팅"
     },
     "experts": {
@@ -1018,6 +1084,7 @@
       "canada": "캐나다",
       "china": "중국",
       "denmark": "덴마크",
+      "estonia": "에스토니아",
       "eu": "유럽연합",
       "finland": "핀란드",
       "greece": "그리스",
@@ -1034,6 +1101,7 @@
     "languages": {
       "english": "영어",
       "dutch": "네덜란드어",
+      "greek": "그리스어",
       "italian": "이탈리아어",
       "arabic": "아랍어",
       "thai": "태국어"

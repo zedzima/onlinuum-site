@@ -56,7 +56,8 @@
           "ecommerce"
         ],
         "countries": [
-          "eu"
+          "eu",
+          "estonia"
         ]
       }
     },
@@ -142,7 +143,8 @@
       "saas": "SaaS"
     },
     "countries": {
-      "eu": "Avrupa Birliği"
+      "eu": "Avrupa Birliği",
+      "estonia": "Estonya"
     },
     "languages": {
       "english": "İngilizce"

@@ -40,6 +40,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -54,6 +55,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -103,6 +105,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -117,6 +120,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -169,6 +173,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -184,6 +189,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -236,6 +242,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -252,6 +259,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -305,6 +313,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -320,6 +329,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -348,7 +358,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -405,7 +416,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "services": [
           "content",
@@ -530,6 +542,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -544,6 +557,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -679,7 +693,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -710,6 +725,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -727,6 +743,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -788,6 +805,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -805,6 +823,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -880,6 +899,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing",
           "performance-marketing"
         ],
@@ -962,6 +982,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing"
         ],
         "industries": [
@@ -981,6 +1002,50 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-pilot",
+      "url": "/scopes/youtube-creator-pilot",
+      "title": "YouTube Influencer Marketing: تجربة صناع المحتوى",
+      "description": "تجربة لمرة واحدة مع صناع المحتوى على YouTube: البحث والتواصل والموجزات وتحليل الأداء قبل الإدارة المستمرة. من $3,500. اطلعوا على الأسعار.",
+      "menu": "تجربة صناع المحتوى على YouTube",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "canada",
+          "uk",
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
@@ -990,6 +1055,7 @@
       "growth-marketing": "تسويق النمو",
       "community-marketing": "التسويق المجتمعي",
       "product-marketing": "تسويق المنتجات",
+      "brand-marketing": "تسويق العلامة التجارية",
       "performance-marketing": "تسويق الأداء"
     },
     "experts": {
@@ -1018,6 +1084,7 @@
       "canada": "كندا",
       "china": "الصين",
       "denmark": "الدنمارك",
+      "estonia": "إستونيا",
       "eu": "الاتحاد الأوروبي",
       "finland": "فنلندا",
       "greece": "اليونان",
@@ -1034,6 +1101,7 @@
     "languages": {
       "english": "الإنجليزية",
       "dutch": "الهولندية",
+      "greek": "اليونانية",
       "italian": "الإيطالية",
       "arabic": "العربية",
       "thai": "التايلاندية"

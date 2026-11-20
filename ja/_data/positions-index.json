@@ -156,7 +156,8 @@
       },
       "facets": {
         "domains": [
-          "growth-marketing"
+          "growth-marketing",
+          "brand-marketing"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -533,6 +534,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -550,7 +552,9 @@
           "japanese",
           "arabic",
           "dutch",
+          "greek",
           "italian",
+          "korean",
           "thai"
         ],
         "blog-posts": [
@@ -639,10 +643,12 @@
       "facets": {
         "domains": [
           "community-marketing",
+          "brand-marketing",
           "performance-marketing"
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-creator-pilot",
           "youtube-channel-management",
           "content-strategy"
         ],
@@ -711,6 +717,7 @@
       "app-marketing": "アプリマーケティング",
       "search-marketing": "検索マーケティング",
       "growth-marketing": "グロースマーケティング",
+      "brand-marketing": "ブランドマーケティング",
       "performance-marketing": "パフォーマンスマーケティング",
       "community-marketing": "コミュニティマーケティング"
     },
@@ -729,6 +736,7 @@
       "google-shopping": "Googleショッピング広告",
       "youtube-ads": "YouTube広告",
       "technical-seo": "テクニカルSEO",
+      "youtube-creator-pilot": "YouTuber PRパイロット",
       "youtube-channel-management": "YouTubeチャンネル運用"
     },
     "solutions": {
@@ -765,6 +773,7 @@
       "canada": "カナダ",
       "china": "中国",
       "denmark": "デンマーク",
+      "estonia": "エストニア",
       "eu": "欧州連合",
       "finland": "フィンランド",
       "greece": "ギリシャ",
@@ -778,6 +787,8 @@
       "dutch": "オランダ語",
       "arabic": "アラビア語",
       "japanese": "日本語",
+      "greek": "ギリシャ語",
+      "korean": "韓国語",
       "thai": "タイ語"
     },
     "experts": {

@@ -49,6 +49,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -64,6 +65,7 @@
           "english",
           "polish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -120,6 +122,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -135,6 +138,7 @@
           "english",
           "polish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -161,13 +165,15 @@
       "domains": [
         "search-marketing",
         "community-marketing",
-        "product-marketing"
+        "product-marketing",
+        "brand-marketing"
       ],
       "facets": {
         "domains": [
           "search-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -198,6 +204,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -215,6 +222,7 @@
           "polish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -239,8 +247,13 @@
       "industry_count": 6,
       "country_count": 3,
       "language_count": 3,
-      "domains": [],
+      "domains": [
+        "brand-marketing"
+      ],
       "facets": {
+        "domains": [
+          "brand-marketing"
+        ],
         "industries": [
           "saas",
           "ecommerce",
@@ -252,6 +265,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -268,6 +282,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ]
       }
@@ -327,6 +342,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -343,6 +359,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -405,6 +422,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -422,6 +440,7 @@
           "polish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -443,7 +462,7 @@
       "description": "Prowadzenie social media nastawione na wzrost społeczności i przychód: strategia, treści i współprace z twórcami oceniane po konwersjach.",
       "menu": "Social media",
       "featured": false,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -451,14 +470,17 @@
       "country_count": 3,
       "language_count": 3,
       "domains": [
-        "community-marketing"
+        "community-marketing",
+        "brand-marketing"
       ],
       "facets": {
         "domains": [
-          "community-marketing"
+          "community-marketing",
+          "brand-marketing"
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-creator-pilot",
           "content-strategy"
         ],
         "industries": [
@@ -471,6 +493,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -487,6 +510,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -502,7 +526,8 @@
       "performance-marketing": "Marketing efektywnościowy",
       "search-marketing": "Marketing w wyszukiwarkach",
       "community-marketing": "Marketing społecznościowy",
-      "product-marketing": "Marketing produktu"
+      "product-marketing": "Marketing produktu",
+      "brand-marketing": "Marketing marki"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -517,7 +542,8 @@
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "SEO techniczne",
-      "telegram-ads": "Reklama na Telegramie"
+      "telegram-ads": "Reklama na Telegramie",
+      "youtube-creator-pilot": "Pilotaż z twórcami YouTube"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -545,6 +571,7 @@
       "canada": "Kanada",
       "china": "Chiny",
       "denmark": "Dania",
+      "estonia": "Estonia",
       "eu": "Unia Europejska",
       "finland": "Finlandia",
       "greece": "Grecja",
@@ -561,6 +588,7 @@
       "english": "Angielski",
       "polish": "Polski",
       "dutch": "Niderlandzki",
+      "greek": "Grecki",
       "italian": "Włoski",
       "arabic": "Arabski",
       "thai": "Tajski"

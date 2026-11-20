@@ -41,6 +41,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -56,6 +57,7 @@
           "english",
           "german",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -106,6 +108,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -121,6 +124,7 @@
           "english",
           "german",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -174,6 +178,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -189,6 +194,7 @@
           "english",
           "german",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -242,6 +248,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -258,6 +265,7 @@
           "german",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -312,6 +320,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -327,6 +336,7 @@
           "english",
           "german",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -355,7 +365,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -414,7 +425,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "services": [
           "content",
@@ -543,6 +555,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -558,6 +571,7 @@
           "english",
           "german",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -695,7 +709,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -727,6 +742,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -744,6 +760,7 @@
           "german",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -806,6 +823,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -823,6 +841,7 @@
           "german",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -900,6 +919,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing",
           "performance-marketing"
         ],
@@ -986,6 +1006,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing"
         ],
         "industries": [
@@ -1007,6 +1028,52 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-pilot",
+      "url": "/scopes/youtube-creator-pilot",
+      "title": "YouTube-Creator-Pilot: Influencer-Kampagne testen",
+      "description": "Einmaliger Pilot als Influencer-Kampagne auf YouTube: Recherche, Ansprache, Briefing, Auswertung vor der laufenden Betreuung. Ab 3.500 $. Preise ansehen.",
+      "menu": "YouTube-Creator-Pilot",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "canada",
+          "uk",
+          "germany",
+          "poland"
+        ],
+        "languages": [
+          "english",
+          "german"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
@@ -1016,6 +1083,7 @@
       "growth-marketing": "Growth-Marketing",
       "community-marketing": "Community-Marketing",
       "product-marketing": "Produktmarketing",
+      "brand-marketing": "Markenmarketing",
       "performance-marketing": "Performance-Marketing"
     },
     "experts": {
@@ -1045,6 +1113,7 @@
       "canada": "Kanada",
       "china": "China",
       "denmark": "Dänemark",
+      "estonia": "Estland",
       "eu": "Europäische Union",
       "finland": "Finnland",
       "greece": "Griechenland",
@@ -1061,6 +1130,7 @@
       "english": "Englisch",
       "german": "Deutsch",
       "dutch": "Niederländisch",
+      "greek": "Griechisch",
       "italian": "Italienisch",
       "arabic": "Arabisch",
       "thai": "Thailändisch"

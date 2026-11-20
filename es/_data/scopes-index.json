@@ -40,6 +40,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -55,6 +56,7 @@
           "english",
           "spanish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -104,6 +106,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -119,6 +122,7 @@
           "english",
           "spanish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -171,6 +175,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -186,6 +191,7 @@
           "english",
           "spanish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -238,6 +244,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -254,6 +261,7 @@
           "spanish",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -307,6 +315,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -322,6 +331,7 @@
           "english",
           "spanish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -350,7 +360,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -408,7 +419,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "services": [
           "content",
@@ -534,6 +546,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -549,6 +562,7 @@
           "english",
           "spanish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -684,7 +698,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -715,6 +730,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -732,6 +748,7 @@
           "spanish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -793,6 +810,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -810,6 +828,7 @@
           "spanish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -885,6 +904,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing",
           "performance-marketing"
         ],
@@ -968,6 +988,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing"
         ],
         "industries": [
@@ -987,6 +1008,50 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-pilot",
+      "url": "/scopes/youtube-creator-pilot",
+      "title": "Campaña con Influencers de YouTube: Piloto desde 3.500 $",
+      "description": "Campaña con influencers de YouTube en formato piloto: búsqueda, contacto, briefing y análisis antes de la gestión continua. Desde 3.500 $. Ver precios.",
+      "menu": "Piloto con creadores de YouTube",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "canada",
+          "uk",
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
@@ -996,6 +1061,7 @@
       "growth-marketing": "Growth marketing",
       "community-marketing": "Marketing de comunidad",
       "product-marketing": "Marketing de producto",
+      "brand-marketing": "Marketing de marca",
       "performance-marketing": "Marketing de resultados"
     },
     "experts": {
@@ -1024,6 +1090,7 @@
       "canada": "Canadá",
       "china": "China",
       "denmark": "Dinamarca",
+      "estonia": "Estonia",
       "eu": "Unión Europea",
       "finland": "Finlandia",
       "greece": "Grecia",
@@ -1040,6 +1107,7 @@
       "english": "Inglés",
       "spanish": "Español",
       "dutch": "Neerlandés",
+      "greek": "Griego",
       "italian": "Italiano",
       "arabic": "Árabe",
       "thai": "Tailandés"

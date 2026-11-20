@@ -25,6 +25,7 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -88,6 +89,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -148,7 +150,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -161,6 +163,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -180,7 +183,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -228,6 +232,7 @@
           "switzerland",
           "finland",
           "portugal",
+          "estonia",
           "eu"
         ],
         "blog-posts": [
@@ -242,6 +247,77 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "greek",
+      "url": "/languages/greek",
+      "title": "Marketing en Griego con Expertos Nativos",
+      "description": "Marketing en griego para marcas que entran en Grecia y Chipre: expertos nativos de griego y entrega productizada. Descubre servicios.",
+      "menu": "Griego",
+      "featured": false,
+      "flag": "",
+      "code": "EL",
+      "native_speakers_l1": "11.6M",
+      "market_speakers_display": "11.6M",
+      "market_speakers_est": 11610993,
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "greece",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -272,6 +348,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -350,6 +427,31 @@
       }
     },
     {
+      "slug": "korean",
+      "url": "/languages/korean",
+      "title": "Marketing en Coreano con Expertos Nativos",
+      "description": "Marketing en coreano para marcas que entran en Corea del Sur: expertos nativos en Naver, Google y KakaoTalk. Descubre servicios.",
+      "menu": "Coreano",
+      "featured": false,
+      "flag": "",
+      "code": "KO",
+      "native_speakers_l1": "52.1M",
+      "market_speakers_display": "52.1M",
+      "market_speakers_est": 52081800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "spanish",
       "url": "/languages/spanish",
       "title": "Marketing en Español con Expertos Nativos",
@@ -374,6 +476,7 @@
           "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "performance-marketing",
           "app-marketing"
         ],
@@ -461,7 +564,8 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
-          "marketing-operations"
+          "marketing-operations",
+          "brand-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -495,6 +599,7 @@
       "growth-marketing": "Growth marketing",
       "performance-marketing": "Marketing de resultados",
       "product-marketing": "Marketing de producto",
+      "brand-marketing": "Marketing de marca",
       "marketing-operations": "Operaciones de marketing",
       "community-marketing": "Marketing de comunidad",
       "app-marketing": "Marketing de apps"
@@ -516,7 +621,8 @@
       "telegram-ads": "Telegram Ads",
       "video-content-production": "Producción de vídeo",
       "youtube-ads": "YouTube Ads",
-      "youtube-channel-management": "Gestión de canales de YouTube"
+      "youtube-channel-management": "Gestión de canales de YouTube",
+      "youtube-creator-pilot": "Piloto con creadores de YouTube"
     },
     "solutions": {
       "digital-marketing-consulting": "Consultoría de marketing digital",
@@ -557,6 +663,7 @@
       "switzerland": "Suiza",
       "finland": "Finlandia",
       "portugal": "Portugal",
+      "estonia": "Estonia",
       "japan": "Japón"
     },
     "positions": {

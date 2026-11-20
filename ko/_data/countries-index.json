@@ -25,6 +25,7 @@
           "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -97,6 +98,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -155,7 +157,7 @@
       "significant_languages_count": 11,
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 7,
       "expert_count": 2,
       "case_count": 0,
@@ -168,6 +170,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -180,7 +183,8 @@
           "app-store-cro",
           "app-retention",
           "video-content-production",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -242,6 +246,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -309,6 +314,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -320,6 +326,76 @@
           "google-app-campaigns",
           "app-store-cro",
           "app-retention"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
+      "slug": "estonia",
+      "url": "/countries/estonia",
+      "title": "에스토니아 시장 진출: 해외 기업을 위한 디지털 마케팅",
+      "description": "에스토니아 시장에 진출하는 해외 기업을 위한 디지털 마케팅. 고정 가격 모듈, 원어민 실행, 탈린 사무실 없이 운영합니다. 서비스를 둘러보십시오.",
+      "menu": "에스토니아",
+      "featured": false,
+      "flag": "🇪🇪",
+      "population_total": "1.19M",
+      "population_total_raw": 1193790,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "에스토니아어",
+      "dominant_language_code": "et",
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 0,
+      "case_count": 1,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "cases": [
+          "alvadi"
         ],
         "solutions": [
           "digital-marketing-consulting",
@@ -375,6 +451,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -418,7 +495,8 @@
         "languages": [
           "english",
           "italian",
-          "dutch"
+          "dutch",
+          "greek"
         ],
         "positions": [
           "seo-expert"
@@ -452,6 +530,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -516,6 +595,7 @@
           "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "performance-marketing",
           "app-marketing"
         ],
@@ -599,6 +679,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -635,6 +716,7 @@
           "manufacturing"
         ],
         "languages": [
+          "greek",
           "english"
         ],
         "positions": [
@@ -669,6 +751,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -739,6 +822,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -811,6 +895,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -880,7 +965,8 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
-          "marketing-operations"
+          "marketing-operations",
+          "brand-marketing"
         ],
         "scopes": [
           "technical-seo",
@@ -945,6 +1031,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -1005,7 +1092,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "폴란드어",
       "dominant_language_code": "pl",
-      "scope_count": 14,
+      "scope_count": 15,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -1016,6 +1103,7 @@
           "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "performance-marketing",
           "app-marketing"
         ],
@@ -1033,7 +1121,8 @@
           "google-shopping",
           "ppc-audit",
           "telegram-ads",
-          "youtube-ads"
+          "youtube-ads",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -1098,6 +1187,7 @@
           "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -1172,6 +1262,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -1246,6 +1337,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -1314,6 +1406,7 @@
           "growth-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "performance-marketing",
           "app-marketing"
         ],
@@ -1398,6 +1491,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -1469,6 +1563,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -1527,7 +1622,7 @@
       "significant_languages_count": 9,
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 0,
@@ -1540,6 +1635,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -1559,7 +1655,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "vitali-bakun",
@@ -1608,6 +1705,7 @@
       "growth-marketing": "그로스 마케팅",
       "community-marketing": "커뮤니티 마케팅",
       "product-marketing": "프로덕트 마케팅",
+      "brand-marketing": "브랜드 마케팅",
       "app-marketing": "앱 마케팅",
       "performance-marketing": "퍼포먼스 마케팅",
       "marketing-operations": "마케팅 오퍼레이션"
@@ -1624,6 +1722,7 @@
       "content-strategy": "콘텐츠 기획",
       "video-content-production": "영상 콘텐츠 제작",
       "youtube-channel-management": "유튜브 채널 관리",
+      "youtube-creator-pilot": "유튜브 크리에이터 파일럿",
       "content-writing": "블로그 대행",
       "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
@@ -1660,6 +1759,7 @@
       "italian": "이탈리아어",
       "dutch": "네덜란드어",
       "arabic": "아랍어",
+      "greek": "그리스어",
       "japanese": "일본어",
       "korean": "한국어"
     },

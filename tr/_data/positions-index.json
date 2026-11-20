@@ -156,7 +156,8 @@
       },
       "facets": {
         "domains": [
-          "growth-marketing"
+          "growth-marketing",
+          "brand-marketing"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -535,6 +536,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -553,7 +555,9 @@
           "japanese",
           "arabic",
           "dutch",
+          "greek",
           "italian",
+          "korean",
           "thai",
           "turkish"
         ],
@@ -643,10 +647,12 @@
       "facets": {
         "domains": [
           "community-marketing",
+          "brand-marketing",
           "performance-marketing"
         ],
         "scopes": [
           "telegram-ads",
+          "youtube-creator-pilot",
           "youtube-channel-management",
           "content-strategy"
         ],
@@ -717,6 +723,7 @@
       "app-marketing": "Mobil Uygulama Pazarlama",
       "search-marketing": "Arama Motoru Pazarlaması",
       "growth-marketing": "Growth Marketing (Büyüme)",
+      "brand-marketing": "Marka Pazarlaması",
       "performance-marketing": "Performans Pazarlama",
       "community-marketing": "Topluluk Pazarlaması"
     },
@@ -735,6 +742,7 @@
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "technical-seo": "Teknik SEO",
+      "youtube-creator-pilot": "YouTube Influencer Pilot Projesi",
       "youtube-channel-management": "YouTube Kanal Yönetimi"
     },
     "solutions": {
@@ -772,6 +780,7 @@
       "canada": "Kanada",
       "china": "Çin",
       "denmark": "Danimarka",
+      "estonia": "Estonya",
       "eu": "Avrupa Birliği",
       "finland": "Finlandiya",
       "greece": "Yunanistan",
@@ -786,6 +795,8 @@
       "arabic": "Arapça",
       "turkish": "Türkçe",
       "japanese": "Japonca",
+      "greek": "Yunanca",
+      "korean": "Korece",
       "thai": "Tayca"
     },
     "experts": {

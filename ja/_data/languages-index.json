@@ -25,6 +25,7 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -88,6 +89,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -148,7 +150,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -161,6 +163,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -180,7 +183,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -228,6 +232,7 @@
           "switzerland",
           "finland",
           "portugal",
+          "estonia",
           "eu"
         ],
         "blog-posts": [
@@ -242,6 +247,77 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "greek",
+      "url": "/languages/greek",
+      "title": "ギリシャ語マーケティング｜ネイティブの専門家が対応",
+      "description": "ギリシャとキプロスへ進出するブランドのためのギリシャ語マーケティング。ギリシャ語ネイティブの専門家が、パッケージ化されたサービスで対応します。",
+      "menu": "ギリシャ語",
+      "featured": false,
+      "flag": "",
+      "code": "EL",
+      "native_speakers_l1": "11.6M",
+      "market_speakers_display": "11.6M",
+      "market_speakers_est": 11610993,
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "greece",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -272,6 +348,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -350,6 +427,31 @@
       }
     },
     {
+      "slug": "korean",
+      "url": "/languages/korean",
+      "title": "韓国語マーケティング｜Naver・Google・KakaoTalk対応",
+      "description": "韓国へ進出するブランドのための韓国語マーケティング。Naver、Google、KakaoTalkに精通した韓国語ネイティブの専門家が対応します。サービスを見る。",
+      "menu": "韓国語",
+      "featured": false,
+      "flag": "",
+      "code": "KO",
+      "native_speakers_l1": "52.1M",
+      "market_speakers_display": "52.1M",
+      "market_speakers_est": 52081800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "thai",
       "url": "/languages/thai",
       "title": "タイ語SEO対策とローカライズ｜ネイティブの専門家が対応",
@@ -374,7 +476,8 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
-          "marketing-operations"
+          "marketing-operations",
+          "brand-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -408,6 +511,7 @@
       "growth-marketing": "グロースマーケティング",
       "performance-marketing": "パフォーマンスマーケティング",
       "product-marketing": "プロダクトマーケティング",
+      "brand-marketing": "ブランドマーケティング",
       "marketing-operations": "マーケティングオペレーション",
       "community-marketing": "コミュニティマーケティング",
       "app-marketing": "アプリマーケティング"
@@ -429,7 +533,8 @@
       "telegram-ads": "Telegram Ads",
       "video-content-production": "動画制作",
       "youtube-ads": "YouTube広告",
-      "youtube-channel-management": "YouTubeチャンネル運用"
+      "youtube-channel-management": "YouTubeチャンネル運用",
+      "youtube-creator-pilot": "YouTuber PRパイロット"
     },
     "solutions": {
       "digital-marketing-consulting": "マーケティングコンサルティング",
@@ -470,6 +575,7 @@
       "switzerland": "スイス",
       "finland": "フィンランド",
       "portugal": "ポルトガル",
+      "estonia": "エストニア",
       "japan": "日本"
     },
     "positions": {

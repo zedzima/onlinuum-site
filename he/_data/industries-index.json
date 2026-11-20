@@ -8,7 +8,7 @@
       "menu": "מסחר אלקטרוני",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -18,6 +18,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -40,7 +41,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -74,6 +76,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -90,6 +93,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -126,6 +130,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -174,6 +179,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -190,6 +196,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "blog-posts": [
@@ -227,6 +234,7 @@
           "performance-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -262,6 +270,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -277,6 +286,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "blog-posts": [
@@ -299,7 +309,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 16,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -309,6 +319,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -330,7 +341,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -364,6 +376,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -380,6 +393,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -404,6 +418,7 @@
       "search-marketing": "שיווק במנועי חיפוש",
       "growth-marketing": "שיווק צמיחה",
       "performance-marketing": "שיווק ביצועים",
+      "brand-marketing": "שיווק מותג",
       "product-marketing": "שיווק מוצר",
       "community-marketing": "ניהול קהילה",
       "marketing-operations": "תפעול שיווק",
@@ -426,7 +441,8 @@
       "telegram-ads": "פרסום בטלגרם",
       "video-content-production": "הפקת תוכן וידאו",
       "youtube-ads": "פרסום ביוטיוב",
-      "youtube-channel-management": "ניהול ערוץ יוטיוב"
+      "youtube-channel-management": "ניהול ערוץ יוטיוב",
+      "youtube-creator-pilot": "פיילוט יוצרי יוטיוב"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
@@ -461,6 +477,7 @@
       "canada": "קנדה",
       "china": "סין",
       "denmark": "דנמרק",
+      "estonia": "אסטוניה",
       "eu": "האיחוד האירופי",
       "finland": "פינלנד",
       "greece": "יוון",
@@ -477,6 +494,7 @@
       "english": "אנגלית",
       "arabic": "ערבית",
       "dutch": "הולנדית",
+      "greek": "יוונית",
       "italian": "איטלקית",
       "thai": "תאית"
     },

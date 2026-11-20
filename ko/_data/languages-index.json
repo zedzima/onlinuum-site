@@ -25,6 +25,7 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -88,6 +89,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -148,7 +150,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -161,6 +163,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -180,7 +183,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -228,6 +232,7 @@
           "switzerland",
           "finland",
           "portugal",
+          "estonia",
           "eu"
         ],
         "blog-posts": [
@@ -242,6 +247,77 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "greek",
+      "url": "/languages/greek",
+      "title": "그리스어 마케팅: 그리스어 원어민 전문가의 실행",
+      "description": "그리스와 키프로스에 진출하는 브랜드를 위한 그리스어 마케팅. 그리스어 원어민 전문가가 상품화된 방식으로 실행합니다. 서비스를 살펴보십시오.",
+      "menu": "그리스어",
+      "featured": false,
+      "flag": "",
+      "code": "EL",
+      "native_speakers_l1": "11.6M",
+      "market_speakers_display": "11.6M",
+      "market_speakers_est": 11610993,
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "greece",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -272,6 +348,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -402,7 +479,8 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
-          "marketing-operations"
+          "marketing-operations",
+          "brand-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -436,6 +514,7 @@
       "growth-marketing": "그로스 마케팅",
       "performance-marketing": "퍼포먼스 마케팅",
       "product-marketing": "프로덕트 마케팅",
+      "brand-marketing": "브랜드 마케팅",
       "marketing-operations": "마케팅 오퍼레이션",
       "community-marketing": "커뮤니티 마케팅",
       "app-marketing": "앱 마케팅"
@@ -457,7 +536,8 @@
       "telegram-ads": "텔레그램 광고",
       "video-content-production": "영상 콘텐츠 제작",
       "youtube-ads": "유튜브 광고",
-      "youtube-channel-management": "유튜브 채널 관리"
+      "youtube-channel-management": "유튜브 채널 관리",
+      "youtube-creator-pilot": "유튜브 크리에이터 파일럿"
     },
     "solutions": {
       "digital-marketing-consulting": "디지털 마케팅 컨설팅",
@@ -498,6 +578,7 @@
       "switzerland": "스위스",
       "finland": "핀란드",
       "portugal": "포르투갈",
+      "estonia": "에스토니아",
       "japan": "일본",
       "south-korea": "대한민국"
     },

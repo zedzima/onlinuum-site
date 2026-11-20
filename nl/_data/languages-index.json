@@ -25,6 +25,7 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -88,6 +89,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -148,7 +150,7 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -161,6 +163,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -180,7 +183,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -228,6 +232,7 @@
           "switzerland",
           "finland",
           "portugal",
+          "estonia",
           "eu"
         ],
         "blog-posts": [
@@ -242,6 +247,77 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "greek",
+      "url": "/languages/greek",
+      "title": "Griekse teksten en marketing voor Griekenland en Cyprus",
+      "description": "Marketing in het Grieks voor merken die Griekenland en Cyprus betreden: Griekse teksten door native specialisten, als vast dienstpakket.",
+      "menu": "Grieks",
+      "featured": false,
+      "flag": "",
+      "code": "EL",
+      "native_speakers_l1": "11.6M",
+      "market_speakers_display": "11.6M",
+      "market_speakers_est": 11610993,
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 8,
+      "service_count": 7,
+      "expert_count": 1,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "greece",
+          "eu"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -272,6 +348,7 @@
           "product-marketing",
           "marketing-operations",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -350,6 +427,31 @@
       }
     },
     {
+      "slug": "korean",
+      "url": "/languages/korean",
+      "title": "Koreaanse teksten en marketing voor Zuid-Korea",
+      "description": "Marketing in het Koreaans voor merken die Zuid-Korea betreden: Koreaanse teksten door native specialisten voor Naver, Google en KakaoTalk.",
+      "menu": "Koreaans",
+      "featured": false,
+      "flag": "",
+      "code": "KO",
+      "native_speakers_l1": "52.1M",
+      "market_speakers_display": "52.1M",
+      "market_speakers_est": 52081800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "thai",
       "url": "/languages/thai",
       "title": "Thaise teksten en Thai SEO door native specialisten",
@@ -374,7 +476,8 @@
           "growth-marketing",
           "performance-marketing",
           "product-marketing",
-          "marketing-operations"
+          "marketing-operations",
+          "brand-marketing"
         ],
         "scopes": [
           "seo-research",
@@ -408,6 +511,7 @@
       "growth-marketing": "Growth marketing",
       "performance-marketing": "Performancemarketing",
       "product-marketing": "Productmarketing",
+      "brand-marketing": "Merkmarketing",
       "marketing-operations": "Marketingoperations",
       "community-marketing": "Community marketing",
       "app-marketing": "App marketing"
@@ -429,7 +533,8 @@
       "telegram-ads": "Telegram Ads-beheer",
       "video-content-production": "Videoproductie",
       "youtube-ads": "YouTube Ads-beheer",
-      "youtube-channel-management": "YouTube-kanaalbeheer"
+      "youtube-channel-management": "YouTube-kanaalbeheer",
+      "youtube-creator-pilot": "YouTube-creatorpilot"
     },
     "solutions": {
       "digital-marketing-consulting": "Online marketing advies",
@@ -470,6 +575,7 @@
       "switzerland": "Zwitserland",
       "finland": "Finland",
       "portugal": "Portugal",
+      "estonia": "Estland",
       "japan": "Japan"
     },
     "positions": {

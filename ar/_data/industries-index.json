@@ -8,7 +8,7 @@
       "menu": "التجارة الإلكترونية",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -18,6 +18,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -40,7 +41,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -74,6 +76,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -91,6 +94,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -127,6 +131,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -175,6 +180,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -192,6 +198,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "blog-posts": [
@@ -229,6 +236,7 @@
           "performance-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -264,6 +272,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -279,6 +288,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "blog-posts": [
@@ -301,7 +311,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 16,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -311,6 +321,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -332,7 +343,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -366,6 +378,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -383,6 +396,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -407,6 +421,7 @@
       "search-marketing": "التسويق عبر محركات البحث",
       "growth-marketing": "تسويق النمو",
       "performance-marketing": "تسويق الأداء",
+      "brand-marketing": "تسويق العلامة التجارية",
       "product-marketing": "تسويق المنتجات",
       "community-marketing": "التسويق المجتمعي",
       "marketing-operations": "عمليات التسويق",
@@ -429,7 +444,8 @@
       "telegram-ads": "إعلانات تليجرام",
       "video-content-production": "إنتاج محتوى الفيديو",
       "youtube-ads": "YouTube Ads",
-      "youtube-channel-management": "إدارة قناة YouTube"
+      "youtube-channel-management": "إدارة قناة YouTube",
+      "youtube-creator-pilot": "تجربة صناع المحتوى على YouTube"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
@@ -464,6 +480,7 @@
       "canada": "كندا",
       "china": "الصين",
       "denmark": "الدنمارك",
+      "estonia": "إستونيا",
       "eu": "الاتحاد الأوروبي",
       "finland": "فنلندا",
       "greece": "اليونان",
@@ -481,6 +498,7 @@
       "english": "الإنجليزية",
       "arabic": "العربية",
       "dutch": "الهولندية",
+      "greek": "اليونانية",
       "italian": "الإيطالية",
       "thai": "التايلاندية"
     },

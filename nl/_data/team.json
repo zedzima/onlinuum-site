@@ -99,6 +99,7 @@
           "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -247,6 +248,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ]
       }
@@ -260,6 +262,7 @@
       "performance-marketing": "Performancemarketing",
       "product-marketing": "Productmarketing",
       "community-marketing": "Community marketing",
+      "brand-marketing": "Merkmarketing",
       "app-marketing": "App marketing"
     },
     "scopes": {
@@ -314,6 +317,7 @@
     "languages": {
       "english": "Engels",
       "dutch": "Nederlands",
+      "greek": "Grieks",
       "italian": "Italiaans"
     },
     "positions": {

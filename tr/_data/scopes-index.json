@@ -40,6 +40,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -54,6 +55,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -103,6 +105,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -117,6 +120,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -169,6 +173,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -183,6 +188,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -235,6 +241,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -250,6 +257,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -303,6 +311,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -317,6 +326,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -345,7 +355,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko"
@@ -402,7 +413,8 @@
       "facets": {
         "domains": [
           "search-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "services": [
           "content",
@@ -528,6 +540,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -542,6 +555,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -677,7 +691,8 @@
           "search-marketing",
           "growth-marketing",
           "community-marketing",
-          "product-marketing"
+          "product-marketing",
+          "brand-marketing"
         ],
         "experts": [
           "dima-gerko",
@@ -708,6 +723,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -725,6 +741,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -787,6 +804,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -804,6 +822,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai",
           "turkish"
@@ -881,6 +900,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing",
           "performance-marketing"
         ],
@@ -963,6 +983,7 @@
       "task_count": 5,
       "facets": {
         "domains": [
+          "brand-marketing",
           "community-marketing"
         ],
         "industries": [
@@ -982,6 +1003,50 @@
       },
       "case_count": 0,
       "article_count": 0
+    },
+    {
+      "slug": "youtube-creator-pilot",
+      "url": "/scopes/youtube-creator-pilot",
+      "title": "YouTube Influencer Pilot Projesi, 3.500 $'dan",
+      "description": "Tek seferlik YouTube influencer pilotu: araştırma, iletişim, brief ve performans analizi, sürekli yönetimden önce. 3.500 $'dan. Fiyatları görün.",
+      "menu": "YouTube Influencer Pilot Projesi",
+      "featured": true,
+      "from_price": 3500,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 5,
+      "country_count": 5,
+      "language_count": 3,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "canada",
+          "uk",
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
     }
   ],
   "labels": {
@@ -991,6 +1056,7 @@
       "growth-marketing": "Growth Marketing (Büyüme)",
       "community-marketing": "Topluluk Pazarlaması",
       "product-marketing": "Ürün Pazarlaması",
+      "brand-marketing": "Marka Pazarlaması",
       "performance-marketing": "Performans Pazarlama"
     },
     "experts": {
@@ -1019,6 +1085,7 @@
       "canada": "Kanada",
       "china": "Çin",
       "denmark": "Danimarka",
+      "estonia": "Estonya",
       "eu": "Avrupa Birliği",
       "finland": "Finlandiya",
       "greece": "Yunanistan",
@@ -1035,6 +1102,7 @@
     "languages": {
       "english": "İngilizce",
       "dutch": "Felemenkçe",
+      "greek": "Yunanca",
       "italian": "İtalyanca",
       "arabic": "Arapça",
       "thai": "Tayca",

@@ -48,6 +48,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -63,10 +64,90 @@
           "english",
           "spanish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
           "aso-specialist"
+        ]
+      }
+    },
+    {
+      "slug": "brand-marketing",
+      "url": "/domains/brand-marketing",
+      "title": "Brand Marketing: PR, Reputación y Estrategia de Marca",
+      "description": "Brand marketing para empresas que necesitan reconocimiento y confianza a escala: PR, reputación, redes sociales y contenidos. Más información.",
+      "menu": "Marketing de marca",
+      "featured": true,
+      "icon": "award",
+      "service_count": 3,
+      "scope_count": 6,
+      "solution_count": 2,
+      "case_count": 0,
+      "expert_count": 1,
+      "facets": {
+        "scopes": [
+          "seo-research",
+          "youtube-channel-management",
+          "video-content-production",
+          "youtube-creator-pilot",
+          "content-strategy",
+          "content-writing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "social-media",
+          "content",
+          "orm"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "manufacturing",
+          "ecommerce"
+        ],
+        "countries": [
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "canada",
+          "china",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "singapore",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "arabic",
+          "dutch",
+          "greek",
+          "italian",
+          "thai"
+        ],
+        "positions": [
+          "business-development-manager",
+          "social-media-manager"
         ]
       }
     },
@@ -79,7 +160,7 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 4,
+      "scope_count": 5,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
@@ -88,6 +169,7 @@
           "seo-research",
           "youtube-channel-management",
           "video-content-production",
+          "youtube-creator-pilot",
           "content-strategy"
         ],
         "experts": [
@@ -118,6 +200,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -133,6 +216,7 @@
           "english",
           "spanish",
           "dutch",
+          "greek",
           "italian"
         ],
         "positions": [
@@ -183,6 +267,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -200,6 +285,7 @@
           "spanish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -242,6 +328,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -258,6 +345,7 @@
           "english",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ]
@@ -315,6 +403,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -332,6 +421,7 @@
           "spanish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -389,6 +479,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -406,6 +497,7 @@
           "spanish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ]
@@ -469,6 +561,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -486,6 +579,7 @@
           "spanish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -514,13 +608,14 @@
       "seo-research": "Keyword research",
       "youtube-channel-management": "Gestión de canales de YouTube",
       "video-content-production": "Producción de vídeo",
+      "youtube-creator-pilot": "Piloto con creadores de YouTube",
       "content-strategy": "Estrategia de contenidos",
+      "content-writing": "Redacción de contenidos",
       "ppc-audit": "Auditoría SEM",
       "google-ads-search": "Búsqueda en Google Ads",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
       "telegram-ads": "Telegram Ads",
-      "content-writing": "Redacción de contenidos",
       "technical-seo": "SEO técnico"
     },
     "experts": {
@@ -537,6 +632,7 @@
       "app-user-acquisition": "User acquisition para apps",
       "social-media": "Redes sociales",
       "content": "Marketing de contenidos",
+      "orm": "Reputación online",
       "ppc": "PPC",
       "seo": "SEO"
     },
@@ -557,6 +653,7 @@
       "canada": "Canadá",
       "china": "China",
       "denmark": "Dinamarca",
+      "estonia": "Estonia",
       "eu": "Unión Europea",
       "finland": "Finlandia",
       "greece": "Grecia",
@@ -573,14 +670,15 @@
       "english": "Inglés",
       "spanish": "Español",
       "dutch": "Neerlandés",
+      "greek": "Griego",
       "italian": "Italiano",
       "arabic": "Árabe",
       "thai": "Tailandés"
     },
     "positions": {
       "aso-specialist": "ASO manager",
-      "social-media-manager": "Social media manager",
       "business-development-manager": "Responsable de desarrollo de negocio",
+      "social-media-manager": "Social media manager",
       "marketing-consultant": "Consultor de marketing",
       "ppc-specialist": "Especialista SEM",
       "seo-expert": "Especialista SEO"

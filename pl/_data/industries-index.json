@@ -8,7 +8,7 @@
       "menu": "Sklepy internetowe",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -18,6 +18,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -40,7 +41,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -74,6 +76,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -91,6 +94,7 @@
           "polish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -127,6 +131,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -175,6 +180,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -192,6 +198,7 @@
           "polish",
           "arabic",
           "dutch",
+          "greek",
           "italian"
         ],
         "blog-posts": [
@@ -229,6 +236,7 @@
           "performance-marketing",
           "community-marketing",
           "product-marketing",
+          "brand-marketing",
           "marketing-operations"
         ],
         "scopes": [
@@ -264,6 +272,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -280,6 +289,7 @@
           "english",
           "polish",
           "dutch",
+          "greek",
           "italian"
         ],
         "blog-posts": [
@@ -302,7 +312,7 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 16,
+      "scope_count": 17,
       "service_count": 7,
       "expert_count": 3,
       "case_count": 1,
@@ -312,6 +322,7 @@
           "search-marketing",
           "growth-marketing",
           "performance-marketing",
+          "brand-marketing",
           "product-marketing",
           "community-marketing",
           "marketing-operations",
@@ -333,7 +344,8 @@
           "telegram-ads",
           "video-content-production",
           "youtube-ads",
-          "youtube-channel-management"
+          "youtube-channel-management",
+          "youtube-creator-pilot"
         ],
         "experts": [
           "dima-gerko",
@@ -367,6 +379,7 @@
           "canada",
           "china",
           "denmark",
+          "estonia",
           "eu",
           "finland",
           "greece",
@@ -384,6 +397,7 @@
           "polish",
           "arabic",
           "dutch",
+          "greek",
           "italian",
           "thai"
         ],
@@ -408,6 +422,7 @@
       "search-marketing": "Marketing w wyszukiwarkach",
       "growth-marketing": "Growth marketing",
       "performance-marketing": "Marketing efektywnościowy",
+      "brand-marketing": "Marketing marki",
       "product-marketing": "Marketing produktu",
       "community-marketing": "Marketing społecznościowy",
       "marketing-operations": "Operacje marketingowe",
@@ -430,7 +445,8 @@
       "telegram-ads": "Reklama na Telegramie",
       "video-content-production": "Produkcja treści wideo",
       "youtube-ads": "YouTube Ads",
-      "youtube-channel-management": "Prowadzenie kanału na YouTube"
+      "youtube-channel-management": "Prowadzenie kanału na YouTube",
+      "youtube-creator-pilot": "Pilotaż z twórcami YouTube"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -465,6 +481,7 @@
       "canada": "Kanada",
       "china": "Chiny",
       "denmark": "Dania",
+      "estonia": "Estonia",
       "eu": "Unia Europejska",
       "finland": "Finlandia",
       "greece": "Grecja",
@@ -482,6 +499,7 @@
       "polish": "Polski",
       "arabic": "Arabski",
       "dutch": "Niderlandzki",
+      "greek": "Grecki",
       "italian": "Włoski",
       "thai": "Tajski"
     },

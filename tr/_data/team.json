@@ -101,6 +101,7 @@
           "performance-marketing",
           "product-marketing",
           "community-marketing",
+          "brand-marketing",
           "app-marketing"
         ],
         "scopes": [
@@ -250,6 +251,7 @@
         "languages": [
           "english",
           "dutch",
+          "greek",
           "italian"
         ]
       }
@@ -263,6 +265,7 @@
       "performance-marketing": "Performans Pazarlama",
       "product-marketing": "Ürün Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
+      "brand-marketing": "Marka Pazarlaması",
       "app-marketing": "Mobil Uygulama Pazarlama"
     },
     "scopes": {
@@ -319,6 +322,7 @@
       "english": "İngilizce",
       "turkish": "Türkçe",
       "dutch": "Felemenkçe",
+      "greek": "Yunanca",
       "italian": "İtalyanca"
     },
     "positions": {
