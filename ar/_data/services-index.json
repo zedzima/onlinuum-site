@@ -39,8 +39,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -106,8 +108,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -180,8 +184,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -202,7 +208,8 @@
         "languages": [
           "english",
           "arabic",
-          "italian"
+          "italian",
+          "thai"
         ],
         "positions": [
           "business-development-manager",
@@ -305,6 +312,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "belgium",
@@ -326,7 +334,8 @@
         "languages": [
           "english",
           "arabic",
-          "italian"
+          "italian",
+          "thai"
         ],
         "positions": [
           "ppc-specialist",
@@ -378,8 +387,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -400,7 +411,8 @@
         "languages": [
           "english",
           "arabic",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -463,7 +475,8 @@
         "languages": [
           "english",
           "arabic",
-          "italian"
+          "italian",
+          "thai"
         ],
         "positions": [
           "social-media-manager"
@@ -510,8 +523,10 @@
     },
     "countries": {
       "uk": "المملكة المتحدة",
+      "france": "فرنسا",
       "austria": "النمسا",
       "poland": "بولندا",
+      "portugal": "البرتغال",
       "spain": "إسبانيا",
       "belgium": "بلجيكا",
       "canada": "كندا",
@@ -532,7 +547,8 @@
     "languages": {
       "english": "الإنجليزية",
       "italian": "الإيطالية",
-      "arabic": "العربية"
+      "arabic": "العربية",
+      "thai": "التايلاندية"
     },
     "positions": {
       "aso-specialist": "متخصص ASO",

@@ -69,8 +69,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -172,12 +174,14 @@
         ],
         "countries": [
           "uk",
+          "france",
           "spain",
           "netherlands"
         ],
         "languages": [
           "english",
-          "italian"
+          "italian",
+          "arabic"
         ]
       },
       "services": [
@@ -281,6 +285,7 @@
           "fintech"
         ],
         "countries": [
+          "france",
           "spain",
           "netherlands",
           "poland",
@@ -290,6 +295,7 @@
         "languages": [
           "italian",
           "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -408,6 +414,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -514,7 +521,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -534,7 +543,9 @@
         "languages": [
           "english",
           "japanese",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -731,8 +742,10 @@
     },
     "countries": {
       "uk": "イギリス",
+      "france": "フランス",
       "austria": "オーストリア",
       "poland": "ポーランド",
+      "portugal": "ポルトガル",
       "spain": "スペイン",
       "netherlands": "オランダ",
       "sweden": "スウェーデン",
@@ -752,7 +765,9 @@
     "languages": {
       "english": "英語",
       "italian": "イタリア語",
-      "japanese": "日本語"
+      "arabic": "アラビア語",
+      "japanese": "日本語",
+      "thai": "タイ語"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"

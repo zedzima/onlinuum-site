@@ -62,8 +62,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -83,7 +85,9 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ],
         "blog-posts": [
@@ -157,8 +161,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -178,6 +184,7 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
           "turkish"
         ],
@@ -242,8 +249,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -339,8 +348,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -360,7 +371,9 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ],
         "blog-posts": [
@@ -429,8 +442,10 @@
     },
     "countries": {
       "uk": "Birleşik Krallık",
+      "france": "France",
       "austria": "Avusturya",
       "poland": "Polonya",
+      "portugal": "Portugal",
       "spain": "İspanya",
       "belgium": "Belçika",
       "canada": "Kanada",
@@ -450,7 +465,9 @@
     },
     "languages": {
       "english": "İngilizce",
+      "arabic": "Arapça",
       "italian": "İtalyanca",
+      "thai": "Tayca",
       "turkish": "Türkçe"
     },
     "blog-posts": {

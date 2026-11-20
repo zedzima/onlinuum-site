@@ -62,8 +62,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -84,7 +86,8 @@
         "languages": [
           "english",
           "arabic",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -157,8 +160,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -242,8 +247,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -337,8 +344,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -359,7 +368,8 @@
         "languages": [
           "english",
           "arabic",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -427,8 +437,10 @@
     },
     "countries": {
       "uk": "المملكة المتحدة",
+      "france": "فرنسا",
       "austria": "النمسا",
       "poland": "بولندا",
+      "portugal": "البرتغال",
       "spain": "إسبانيا",
       "belgium": "بلجيكا",
       "canada": "كندا",
@@ -449,7 +461,8 @@
     "languages": {
       "english": "الإنجليزية",
       "arabic": "العربية",
-      "italian": "الإيطالية"
+      "italian": "الإيطالية",
+      "thai": "التايلاندية"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",

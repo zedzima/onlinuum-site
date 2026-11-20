@@ -62,8 +62,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -82,7 +84,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -155,8 +159,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -175,6 +181,7 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian"
         ],
         "blog-posts": [
@@ -238,8 +245,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -333,8 +342,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -353,7 +364,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -421,8 +434,10 @@
     },
     "countries": {
       "uk": "イギリス",
+      "france": "フランス",
       "austria": "オーストリア",
       "poland": "ポーランド",
+      "portugal": "ポルトガル",
       "spain": "スペイン",
       "belgium": "ベルギー",
       "canada": "カナダ",
@@ -441,7 +456,9 @@
     },
     "languages": {
       "english": "英語",
-      "italian": "イタリア語"
+      "arabic": "アラビア語",
+      "italian": "イタリア語",
+      "thai": "タイ語"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AIが引用先を選ぶ基準",

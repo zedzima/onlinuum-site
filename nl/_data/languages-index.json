@@ -1,6 +1,67 @@
 {
   "languages": [
     {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "Arabische teksten, SEO en contentmarketing",
+      "description": "SEO in het Arabisch, content en advertentieteksten voor de Golfstaten, de Levant en de Maghreb: standaardarabisch, dialect en rechts-naar-links.",
+      "menu": "Arabisch",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307M",
+      "market_speakers_display": "307M",
+      "market_speakers_est": 306896549,
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "aso-localization",
+          "google-ads-search",
+          "ppc-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "dutch",
       "url": "/languages/dutch",
       "title": "Nederlandse Tekstschrijver en SEO voor Nederland",
@@ -147,6 +208,7 @@
         "countries": [
           "uk",
           "canada",
+          "france",
           "netherlands",
           "poland",
           "spain",
@@ -160,6 +222,7 @@
           "ireland",
           "switzerland",
           "finland",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -239,6 +302,7 @@
         ],
         "countries": [
           "switzerland",
+          "france",
           "austria",
           "canada",
           "eu"
@@ -247,6 +311,87 @@
           "seo-expert",
           "business-development-manager",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "japanese",
+      "url": "/languages/japanese",
+      "title": "Japanse teksten en marketing voor Japan",
+      "description": "Marketing in het Japans voor merken die Japan betreden: Japanse teksten door native specialisten voor Yahoo Japan, Google Japan en LINE.",
+      "menu": "Japans",
+      "featured": false,
+      "flag": "",
+      "code": "JA",
+      "native_speakers_l1": "117M",
+      "market_speakers_display": "117M",
+      "market_speakers_est": 117041900,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "japan"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "Thaise teksten en Thai SEO door native specialisten",
+      "description": "Thaise teksten, Thai SEO en lokalisatie door native specialisten: zoekwoordenonderzoek in Thais schrift, content en advertentieteksten voor Thailand.",
+      "menu": "Thais",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_speakers_est": 55936800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 4,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     }
@@ -262,25 +407,20 @@
       "app-marketing": "App marketing"
     },
     "scopes": {
-      "technical-seo": "Technische SEO",
-      "seo-research": "Zoekwoordenonderzoek",
-      "aso-optimization": "ASO-optimalisatie",
       "aso-localization": "App vertalen",
+      "google-ads-search": "Google Ads-zoekcampagnes",
+      "ppc-audit": "SEA-audit",
+      "seo-research": "Zoekwoordenonderzoek",
+      "technical-seo": "Technische SEO",
+      "aso-optimization": "ASO-optimalisatie",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App store-CRO",
       "app-retention": "App retention",
       "content-strategy": "Contentstrategie",
       "content-writing": "Teksten schrijven",
-      "google-ads-search": "Google Ads-zoekcampagnes",
       "google-shopping": "Google Shopping",
-      "ppc-audit": "SEA-audit",
       "telegram-ads": "Telegram Ads-beheer",
       "youtube-ads": "YouTube Ads-beheer"
-    },
-    "experts": {
-      "vitali-bakun": "Vitali Bakun",
-      "dima-gerko": "Dima Gerko",
-      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "solutions": {
       "digital-marketing-consulting": "Online marketing advies",
@@ -288,12 +428,12 @@
     },
     "services": {
       "content": "Contentmarketing",
+      "orm": "ORM",
+      "ppc": "SEA",
+      "seo": "SEO",
       "social-media": "Social media",
       "aso": "ASO",
-      "orm": "ORM",
-      "app-user-acquisition": "App user acquisition",
-      "seo": "SEO",
-      "ppc": "SEA"
+      "app-user-acquisition": "App user acquisition"
     },
     "industries": {
       "ecommerce": "Webshops",
@@ -302,22 +442,25 @@
       "manufacturing": "Maakindustrie"
     },
     "countries": {
+      "israel": "Israël",
+      "canada": "Canada",
       "netherlands": "Nederland",
       "belgium": "België",
       "eu": "Europese Unie",
       "uk": "Verenigd Koninkrijk",
-      "canada": "Canada",
+      "france": "Frankrijk",
       "poland": "Polen",
       "spain": "Spanje",
       "sweden": "Zweden",
-      "israel": "Israël",
       "malaysia": "Maleisië",
       "austria": "Oostenrijk",
       "greece": "Griekenland",
       "denmark": "Denemarken",
       "ireland": "Ierland",
       "switzerland": "Zwitserland",
-      "finland": "Finland"
+      "finland": "Finland",
+      "portugal": "Portugal",
+      "japan": "Japan"
     },
     "positions": {
       "seo-expert": "SEO-specialist",
@@ -326,6 +469,11 @@
       "aso-specialist": "ASO-specialist",
       "ppc-specialist": "SEA-specialist",
       "social-media-manager": "Social media manager"
+    },
+    "experts": {
+      "vitali-bakun": "Vitali Bakun",
+      "dima-gerko": "Dima Gerko",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group"

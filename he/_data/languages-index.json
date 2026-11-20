@@ -1,6 +1,67 @@
 {
   "languages": [
     {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "קידום אתרים בערבית: Arabic SEO ושיווק בערבית",
+      "description": "קידום אתרים בערבית, תוכן וטקסטים למודעות לקהלים במפרץ, בלבנט ובמגרב: ערבית ספרותית, ניבים ואספקה מימין לשמאל. גלו את השירותים.",
+      "menu": "ערבית",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307M",
+      "market_speakers_display": "307M",
+      "market_speakers_est": 306896549,
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "aso-localization",
+          "google-ads-search",
+          "ppc-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "קידום אתרים באנגלית עם מומחים ילידיים",
@@ -75,6 +136,7 @@
         "countries": [
           "uk",
           "canada",
+          "france",
           "netherlands",
           "poland",
           "spain",
@@ -88,6 +150,7 @@
           "ireland",
           "switzerland",
           "finland",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -195,6 +258,7 @@
         ],
         "countries": [
           "switzerland",
+          "france",
           "austria",
           "canada",
           "eu"
@@ -203,6 +267,87 @@
           "seo-expert",
           "business-development-manager",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "japanese",
+      "url": "/languages/japanese",
+      "title": "שיווק דיגיטלי ביפנית: מומחים ילידיים ב-Yahoo Japan ו-LINE",
+      "description": "שיווק דיגיטלי ביפנית למותגים שנכנסים ליפן: מומחים ילידיים ב-Yahoo Japan, בגוגל יפן וב-LINE, עם שירותים מוצריים. גלו את השירותים.",
+      "menu": "יפנית",
+      "featured": false,
+      "flag": "",
+      "code": "JA",
+      "native_speakers_l1": "117M",
+      "market_speakers_display": "117M",
+      "market_speakers_est": 117041900,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "japan"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "Thai SEO ולוקליזציה לתאית: מומחים ילידיים",
+      "description": "Thai SEO ולוקליזציה לתאית: מחקר מילות מפתח בכתב תאי, תוכן וטקסטים למודעות מפי מומחים ילידיים לתאית.",
+      "menu": "תאית",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_speakers_est": 55936800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 4,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     }
@@ -218,20 +363,68 @@
       "app-marketing": "שיווק אפליקציות"
     },
     "scopes": {
-      "technical-seo": "קידום אתרים טכני",
-      "seo-research": "מחקר SEO",
-      "aso-optimization": "אופטימיזציית ASO",
       "aso-localization": "לוקליזציית ASO",
+      "google-ads-search": "קמפיין חיפוש בגוגל",
+      "ppc-audit": "אודיט PPC",
+      "seo-research": "מחקר SEO",
+      "technical-seo": "קידום אתרים טכני",
+      "aso-optimization": "אופטימיזציית ASO",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
       "app-retention": "שימור משתמשים באפליקציה",
       "content-strategy": "אסטרטגיית תוכן",
       "content-writing": "כתיבת תוכן",
-      "google-ads-search": "קמפיין חיפוש בגוגל",
       "google-shopping": "פרסום בגוגל שופינג",
-      "ppc-audit": "אודיט PPC",
       "telegram-ads": "פרסום בטלגרם",
       "youtube-ads": "פרסום ביוטיוב"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
+    },
+    "services": {
+      "content": "שיווק תוכן",
+      "orm": "ניהול מוניטין",
+      "ppc": "PPC",
+      "seo": "קידום אתרים",
+      "social-media": "רשתות חברתיות",
+      "aso": "ASO",
+      "app-user-acquisition": "רכישת משתמשים לאפליקציות"
+    },
+    "industries": {
+      "ecommerce": "מסחר אלקטרוני",
+      "saas": "SaaS",
+      "fintech": "פינטק",
+      "manufacturing": "תעשייה וייצור"
+    },
+    "countries": {
+      "israel": "ישראל",
+      "canada": "קנדה",
+      "uk": "בריטניה",
+      "france": "צרפת",
+      "netherlands": "הולנד",
+      "poland": "פולין",
+      "spain": "ספרד",
+      "sweden": "שוודיה",
+      "malaysia": "מלזיה",
+      "belgium": "בלגיה",
+      "austria": "אוסטריה",
+      "greece": "יוון",
+      "denmark": "דנמרק",
+      "ireland": "אירלנד",
+      "switzerland": "שווייץ",
+      "finland": "פינלנד",
+      "portugal": "פורטוגל",
+      "eu": "האיחוד האירופי",
+      "japan": "יפן"
+    },
+    "positions": {
+      "seo-expert": "מומחה קידום אתרים",
+      "business-development-manager": "מנהל פיתוח עסקי",
+      "marketing-consultant": "יועץ שיווק",
+      "aso-specialist": "מומחה ASO",
+      "ppc-specialist": "מנהל קמפיינים PPC",
+      "social-media-manager": "מנהל סושיאל"
     },
     "experts": {
       "dima-gerko": "דימה גרקו",
@@ -241,55 +434,10 @@
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
-    "solutions": {
-      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
-      "multilingual-seo": "קידום אתרים בינלאומי"
-    },
-    "services": {
-      "content": "שיווק תוכן",
-      "social-media": "רשתות חברתיות",
-      "aso": "ASO",
-      "orm": "ניהול מוניטין",
-      "app-user-acquisition": "רכישת משתמשים לאפליקציות",
-      "seo": "קידום אתרים",
-      "ppc": "PPC"
-    },
-    "industries": {
-      "ecommerce": "מסחר אלקטרוני",
-      "saas": "SaaS",
-      "fintech": "פינטק",
-      "manufacturing": "תעשייה וייצור"
-    },
-    "countries": {
-      "uk": "בריטניה",
-      "canada": "קנדה",
-      "netherlands": "הולנד",
-      "poland": "פולין",
-      "spain": "ספרד",
-      "sweden": "שוודיה",
-      "israel": "ישראל",
-      "malaysia": "מלזיה",
-      "belgium": "בלגיה",
-      "austria": "אוסטריה",
-      "greece": "יוון",
-      "denmark": "דנמרק",
-      "ireland": "אירלנד",
-      "switzerland": "שווייץ",
-      "finland": "פינלנד",
-      "eu": "האיחוד האירופי"
-    },
     "blog-posts": {
       "how-ai-chooses-sources": "איך AI בוחר מקורות",
       "seo-packages-comparison": "השוואת חבילות SEO",
       "why-seo-matters-in-2026": "למה SEO חשוב ב-2026"
-    },
-    "positions": {
-      "seo-expert": "מומחה קידום אתרים",
-      "aso-specialist": "מומחה ASO",
-      "business-development-manager": "מנהל פיתוח עסקי",
-      "marketing-consultant": "יועץ שיווק",
-      "ppc-specialist": "מנהל קמפיינים PPC",
-      "social-media-manager": "מנהל סושיאל"
     }
   }
 }

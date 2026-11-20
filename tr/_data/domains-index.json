@@ -39,7 +39,9 @@
         "countries": [
           "uk",
           "austria",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -101,8 +103,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -162,7 +166,9 @@
         "countries": [
           "uk",
           "austria",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -182,7 +188,9 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ],
         "positions": [
@@ -238,7 +246,9 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ]
       }
@@ -287,6 +297,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "belgium",
@@ -307,7 +318,9 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ],
         "positions": [
@@ -355,8 +368,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -376,7 +391,9 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ]
       }
@@ -430,8 +447,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -451,7 +470,9 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ],
         "blog-posts": [
@@ -511,7 +532,9 @@
     "countries": {
       "uk": "Birleşik Krallık",
       "austria": "Avusturya",
+      "france": "France",
       "poland": "Polonya",
+      "portugal": "Portugal",
       "spain": "İspanya",
       "belgium": "Belçika",
       "canada": "Kanada",
@@ -532,6 +555,8 @@
     "languages": {
       "english": "İngilizce",
       "italian": "İtalyanca",
+      "arabic": "Arapça",
+      "thai": "Tayca",
       "turkish": "Türkçe"
     },
     "positions": {

@@ -31,8 +31,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -91,8 +93,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -154,8 +158,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -217,8 +223,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -237,6 +245,7 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian"
         ],
         "positions": [
@@ -281,8 +290,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -351,8 +362,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -397,7 +410,8 @@
           "manufacturing"
         ],
         "countries": [
-          "uk"
+          "uk",
+          "france"
         ],
         "languages": [
           "english"
@@ -446,12 +460,15 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
         ],
         "languages": [
-          "english"
+          "english",
+          "arabic",
+          "thai"
         ],
         "positions": [
           "ppc-specialist"
@@ -494,6 +511,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -545,12 +563,15 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
         ],
         "languages": [
-          "english"
+          "english",
+          "arabic",
+          "thai"
         ],
         "positions": [
           "ppc-specialist"
@@ -600,8 +621,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -621,7 +644,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -671,9 +696,11 @@
           "manufacturing"
         ],
         "countries": [
+          "france",
           "uk",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -693,7 +720,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -785,6 +814,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain"
         ],
@@ -825,8 +855,10 @@
     },
     "countries": {
       "uk": "Regno Unito",
+      "france": "Francia",
       "austria": "Austria",
       "poland": "Polonia",
+      "portugal": "Portogallo",
       "spain": "Spagna",
       "belgium": "Belgio",
       "canada": "Canada",
@@ -846,7 +878,9 @@
     },
     "languages": {
       "english": "Inglese",
-      "italian": "Italiano"
+      "italian": "Italiano",
+      "arabic": "Arabo",
+      "thai": "Tailandese"
     },
     "positions": {
       "aso-specialist": "Specialista ASO",

@@ -39,8 +39,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -106,8 +108,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -180,8 +184,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -200,8 +206,10 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "dutch",
-          "italian"
+          "italian",
+          "thai"
         ],
         "positions": [
           "business-development-manager",
@@ -250,6 +258,7 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "dutch",
           "italian"
         ]
@@ -303,6 +312,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "belgium",
@@ -322,8 +332,10 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "dutch",
-          "italian"
+          "italian",
+          "thai"
         ],
         "positions": [
           "ppc-specialist",
@@ -375,8 +387,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -395,8 +409,10 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "dutch",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -457,8 +473,10 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "dutch",
-          "italian"
+          "italian",
+          "thai"
         ],
         "positions": [
           "social-media-manager"
@@ -505,8 +523,10 @@
     },
     "countries": {
       "uk": "Verenigd Koninkrijk",
+      "france": "Frankrijk",
       "austria": "Oostenrijk",
       "poland": "Polen",
+      "portugal": "Portugal",
       "spain": "Spanje",
       "belgium": "België",
       "canada": "Canada",
@@ -526,7 +546,9 @@
     "languages": {
       "english": "Engels",
       "dutch": "Nederlands",
-      "italian": "Italiaans"
+      "italian": "Italiaans",
+      "arabic": "Arabisch",
+      "thai": "Thais"
     },
     "positions": {
       "aso-specialist": "ASO-specialist",

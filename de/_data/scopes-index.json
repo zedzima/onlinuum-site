@@ -32,8 +32,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -93,8 +95,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -157,8 +161,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -221,8 +227,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -241,6 +249,7 @@
         "languages": [
           "english",
           "german",
+          "arabic",
           "italian"
         ],
         "positions": [
@@ -286,8 +295,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -357,8 +368,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -405,7 +418,8 @@
         ],
         "countries": [
           "uk",
-          "germany"
+          "germany",
+          "france"
         ],
         "languages": [
           "english",
@@ -456,13 +470,16 @@
         "countries": [
           "uk",
           "germany",
+          "france",
           "poland",
           "spain",
           "malaysia"
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "arabic",
+          "thai"
         ],
         "positions": [
           "ppc-specialist"
@@ -506,6 +523,7 @@
         "countries": [
           "uk",
           "germany",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -559,13 +577,16 @@
         "countries": [
           "uk",
           "germany",
+          "france",
           "poland",
           "spain",
           "malaysia"
         ],
         "languages": [
           "english",
-          "german"
+          "german",
+          "arabic",
+          "thai"
         ],
         "positions": [
           "ppc-specialist"
@@ -616,8 +637,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -637,7 +660,9 @@
         "languages": [
           "english",
           "german",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -688,9 +713,11 @@
         ],
         "countries": [
           "germany",
+          "france",
           "uk",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -710,7 +737,9 @@
         "languages": [
           "english",
           "german",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -805,6 +834,7 @@
         "countries": [
           "uk",
           "germany",
+          "france",
           "poland",
           "spain"
         ],
@@ -847,8 +877,10 @@
     "countries": {
       "germany": "Deutschland",
       "uk": "Vereinigtes Königreich",
+      "france": "Frankreich",
       "austria": "Österreich",
       "poland": "Polen",
+      "portugal": "Portugal",
       "spain": "Spanien",
       "belgium": "Belgien",
       "canada": "Kanada",
@@ -868,7 +900,9 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
-      "italian": "Italienisch"
+      "italian": "Italienisch",
+      "arabic": "Arabisch",
+      "thai": "Thailändisch"
     },
     "positions": {
       "aso-specialist": "ASO Manager",

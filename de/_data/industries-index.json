@@ -63,8 +63,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -84,7 +86,9 @@
         "languages": [
           "english",
           "german",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -158,8 +162,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -179,6 +185,7 @@
         "languages": [
           "english",
           "german",
+          "arabic",
           "italian"
         ],
         "blog-posts": [
@@ -243,8 +250,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -340,8 +349,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -361,7 +372,9 @@
         "languages": [
           "english",
           "german",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -430,8 +443,10 @@
     "countries": {
       "germany": "Deutschland",
       "uk": "Vereinigtes Königreich",
+      "france": "Frankreich",
       "austria": "Österreich",
       "poland": "Polen",
+      "portugal": "Portugal",
       "spain": "Spanien",
       "belgium": "Belgien",
       "canada": "Kanada",
@@ -451,7 +466,9 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
-      "italian": "Italienisch"
+      "arabic": "Arabisch",
+      "italian": "Italienisch",
+      "thai": "Thailändisch"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Wie KI Quellen wählt",

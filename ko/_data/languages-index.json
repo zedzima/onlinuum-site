@@ -1,6 +1,67 @@
 {
   "languages": [
     {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "아랍어 마케팅과 SEO: 원어민이 만드는 아랍어 콘텐츠",
+      "description": "걸프, 레반트, 마그레브 사용자를 위한 아랍어 SEO, 콘텐츠, 광고 문구. 표준 아랍어, 방언, 오른쪽에서 왼쪽 레이아웃까지 실행합니다. 서비스 살펴보기.",
+      "menu": "아랍어",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307M",
+      "market_speakers_display": "307M",
+      "market_speakers_est": 306896549,
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "aso-localization",
+          "google-ads-search",
+          "ppc-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "미국 마케팅: 영문 사이트와 영어 광고 운영",
@@ -75,6 +136,7 @@
         "countries": [
           "uk",
           "canada",
+          "france",
           "netherlands",
           "poland",
           "spain",
@@ -88,6 +150,7 @@
           "ireland",
           "switzerland",
           "finland",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -167,6 +230,7 @@
         ],
         "countries": [
           "switzerland",
+          "france",
           "austria",
           "canada",
           "eu"
@@ -174,6 +238,35 @@
         "positions": [
           "seo-expert",
           "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "japanese",
+      "url": "/languages/japanese",
+      "title": "일본어 광고와 마케팅: 일본어 원어민 전문가 실행",
+      "description": "일본 진출 브랜드를 위한 일본어 광고와 마케팅. 야후 재팬 광고, 구글 재팬, LINE까지 일본어 원어민 전문가가 실행합니다. 서비스 살펴보기.",
+      "menu": "일본어",
+      "featured": false,
+      "flag": "",
+      "code": "JA",
+      "native_speakers_l1": "117M",
+      "market_speakers_display": "117M",
+      "market_speakers_est": 117041900,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "japan"
+        ],
+        "positions": [
+          "seo-expert",
           "marketing-consultant"
         ]
       }
@@ -205,6 +298,58 @@
           "seo-expert"
         ]
       }
+    },
+    {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "태국어 SEO와 현지화: 태국어 원어민 전문가",
+      "description": "태국어 원어민 전문가가 제공하는 태국어 SEO와 현지화. 태국 시장에 판매하는 브랜드를 위한 태국 문자 키워드 분석, 콘텐츠, 광고 문구입니다.",
+      "menu": "태국어",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_speakers_est": 55936800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 4,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
@@ -218,20 +363,69 @@
       "app-marketing": "앱 마케팅"
     },
     "scopes": {
-      "technical-seo": "테크니컬 SEO",
-      "seo-research": "SEO 키워드 분석",
-      "aso-optimization": "ASO 최적화",
       "aso-localization": "ASO 현지화",
+      "google-ads-search": "구글 검색광고",
+      "ppc-audit": "광고 성과 분석",
+      "seo-research": "SEO 키워드 분석",
+      "technical-seo": "테크니컬 SEO",
+      "aso-optimization": "ASO 최적화",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "앱스토어 CRO",
       "app-retention": "앱 리텐션",
       "content-strategy": "콘텐츠 기획",
       "content-writing": "블로그 대행",
-      "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
-      "ppc-audit": "광고 성과 분석",
       "telegram-ads": "텔레그램 광고",
       "youtube-ads": "유튜브 광고"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
+      "multilingual-seo": "다국어 SEO"
+    },
+    "services": {
+      "content": "콘텐츠 마케팅",
+      "orm": "평판 관리",
+      "ppc": "검색광고",
+      "seo": "SEO 대행",
+      "social-media": "SNS 마케팅",
+      "aso": "ASO 최적화",
+      "app-user-acquisition": "앱 사용자 획득"
+    },
+    "industries": {
+      "ecommerce": "이커머스",
+      "saas": "SaaS",
+      "fintech": "핀테크",
+      "manufacturing": "제조업"
+    },
+    "countries": {
+      "israel": "이스라엘",
+      "canada": "캐나다",
+      "uk": "영국",
+      "france": "프랑스",
+      "netherlands": "네덜란드",
+      "poland": "폴란드",
+      "spain": "스페인",
+      "sweden": "스웨덴",
+      "malaysia": "말레이시아",
+      "belgium": "벨기에",
+      "austria": "오스트리아",
+      "greece": "그리스",
+      "denmark": "덴마크",
+      "ireland": "아일랜드",
+      "switzerland": "스위스",
+      "finland": "핀란드",
+      "portugal": "포르투갈",
+      "eu": "유럽연합",
+      "japan": "일본",
+      "south-korea": "대한민국"
+    },
+    "positions": {
+      "seo-expert": "SEO 채용",
+      "business-development-manager": "사업개발 매니저",
+      "marketing-consultant": "마케팅 컨설턴트",
+      "aso-specialist": "ASO 전문가",
+      "ppc-specialist": "퍼포먼스 마케터",
+      "social-media-manager": "SNS 마케터"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -241,56 +435,10 @@
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
-    "solutions": {
-      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
-      "multilingual-seo": "다국어 SEO"
-    },
-    "services": {
-      "content": "콘텐츠 마케팅",
-      "social-media": "SNS 마케팅",
-      "aso": "ASO 최적화",
-      "orm": "평판 관리",
-      "app-user-acquisition": "앱 사용자 획득",
-      "seo": "SEO 대행",
-      "ppc": "검색광고"
-    },
-    "industries": {
-      "ecommerce": "이커머스",
-      "saas": "SaaS",
-      "fintech": "핀테크",
-      "manufacturing": "제조업"
-    },
-    "countries": {
-      "uk": "영국",
-      "canada": "캐나다",
-      "netherlands": "네덜란드",
-      "poland": "폴란드",
-      "spain": "스페인",
-      "sweden": "스웨덴",
-      "israel": "이스라엘",
-      "malaysia": "말레이시아",
-      "belgium": "벨기에",
-      "austria": "오스트리아",
-      "greece": "그리스",
-      "denmark": "덴마크",
-      "ireland": "아일랜드",
-      "switzerland": "스위스",
-      "finland": "핀란드",
-      "eu": "유럽연합",
-      "south-korea": "대한민국"
-    },
     "blog-posts": {
       "how-ai-chooses-sources": "AI가 출처를 고르는 방식",
       "seo-packages-comparison": "SEO 패키지 비교",
       "why-seo-matters-in-2026": "2026년 SEO가 중요한 이유"
-    },
-    "positions": {
-      "seo-expert": "SEO 채용",
-      "aso-specialist": "ASO 전문가",
-      "business-development-manager": "사업개발 매니저",
-      "marketing-consultant": "마케팅 컨설턴트",
-      "ppc-specialist": "퍼포먼스 마케터",
-      "social-media-manager": "SNS 마케터"
     }
   }
 }

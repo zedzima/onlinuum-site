@@ -1,6 +1,67 @@
 {
   "languages": [
     {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "アラビア語のSEO対策と広告｜海外ブランド向けネイティブ対応",
+      "description": "湾岸、レバント、マグリブ向けのアラビア語SEO対策、コンテンツ、広告コピー。標準アラビア語、方言、右から左への対応まで実行します。サービスを見る。",
+      "menu": "アラビア語",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307M",
+      "market_speakers_display": "307M",
+      "market_speakers_est": 306896549,
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "aso-localization",
+          "google-ads-search",
+          "ppc-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "英語マーケティング｜ネイティブによる英語SEOとコンテンツ",
@@ -75,6 +136,7 @@
         "countries": [
           "uk",
           "canada",
+          "france",
           "netherlands",
           "poland",
           "spain",
@@ -88,6 +150,7 @@
           "ireland",
           "switzerland",
           "finland",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -167,6 +230,7 @@
         ],
         "countries": [
           "switzerland",
+          "france",
           "austria",
           "canada",
           "eu"
@@ -206,6 +270,58 @@
           "marketing-consultant"
         ]
       }
+    },
+    {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "タイ語SEO対策とローカライズ｜ネイティブの専門家が対応",
+      "description": "タイ語のSEO対策とローカライズを、ネイティブの専門家が担当。タイ文字のキーワード選定、コンテンツ、広告コピーで、タイ市場への販売を支えます。",
+      "menu": "タイ語",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_speakers_est": 55936800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 4,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
@@ -219,20 +335,68 @@
       "app-marketing": "アプリマーケティング"
     },
     "scopes": {
-      "technical-seo": "テクニカルSEO",
-      "seo-research": "キーワード選定",
-      "aso-optimization": "ASO対策",
       "aso-localization": "アプリの多言語対応",
+      "google-ads-search": "Google広告・検索広告",
+      "ppc-audit": "広告アカウント診断",
+      "seo-research": "キーワード選定",
+      "technical-seo": "テクニカルSEO",
+      "aso-optimization": "ASO対策",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
       "app-retention": "アプリのリテンション",
       "content-strategy": "コンテンツ戦略",
       "content-writing": "記事作成代行",
-      "google-ads-search": "Google広告・検索広告",
       "google-shopping": "Googleショッピング広告",
-      "ppc-audit": "広告アカウント診断",
       "telegram-ads": "Telegram Ads",
       "youtube-ads": "YouTube広告"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "マーケティングコンサルティング",
+      "multilingual-seo": "多言語SEO"
+    },
+    "services": {
+      "content": "コンテンツマーケティング",
+      "orm": "風評被害対策",
+      "ppc": "リスティング広告",
+      "seo": "SEO対策",
+      "social-media": "SNS運用代行",
+      "aso": "ASO対策",
+      "app-user-acquisition": "アプリの集客と広告運用"
+    },
+    "industries": {
+      "ecommerce": "EC",
+      "saas": "SaaS",
+      "fintech": "フィンテック",
+      "manufacturing": "製造業"
+    },
+    "countries": {
+      "israel": "イスラエル",
+      "canada": "カナダ",
+      "uk": "イギリス",
+      "france": "フランス",
+      "netherlands": "オランダ",
+      "poland": "ポーランド",
+      "spain": "スペイン",
+      "sweden": "スウェーデン",
+      "malaysia": "マレーシア",
+      "belgium": "ベルギー",
+      "austria": "オーストリア",
+      "greece": "ギリシャ",
+      "denmark": "デンマーク",
+      "ireland": "アイルランド",
+      "switzerland": "スイス",
+      "finland": "フィンランド",
+      "portugal": "ポルトガル",
+      "eu": "欧州連合",
+      "japan": "日本"
+    },
+    "positions": {
+      "seo-expert": "SEO担当",
+      "business-development-manager": "事業開発マネージャー",
+      "marketing-consultant": "マーケティングコンサルタント",
+      "aso-specialist": "ASO担当",
+      "ppc-specialist": "広告運用担当",
+      "social-media-manager": "SNS運用担当"
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
@@ -242,56 +406,10 @@
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
-    "solutions": {
-      "digital-marketing-consulting": "マーケティングコンサルティング",
-      "multilingual-seo": "多言語SEO"
-    },
-    "services": {
-      "content": "コンテンツマーケティング",
-      "social-media": "SNS運用代行",
-      "aso": "ASO対策",
-      "orm": "風評被害対策",
-      "app-user-acquisition": "アプリの集客と広告運用",
-      "seo": "SEO対策",
-      "ppc": "リスティング広告"
-    },
-    "industries": {
-      "ecommerce": "EC",
-      "saas": "SaaS",
-      "fintech": "フィンテック",
-      "manufacturing": "製造業"
-    },
-    "countries": {
-      "uk": "イギリス",
-      "canada": "カナダ",
-      "netherlands": "オランダ",
-      "poland": "ポーランド",
-      "spain": "スペイン",
-      "sweden": "スウェーデン",
-      "israel": "イスラエル",
-      "malaysia": "マレーシア",
-      "belgium": "ベルギー",
-      "austria": "オーストリア",
-      "greece": "ギリシャ",
-      "denmark": "デンマーク",
-      "ireland": "アイルランド",
-      "switzerland": "スイス",
-      "finland": "フィンランド",
-      "eu": "欧州連合",
-      "japan": "日本"
-    },
     "blog-posts": {
       "how-ai-chooses-sources": "AIが引用先を選ぶ基準",
       "seo-packages-comparison": "SEO対策の費用比較",
       "why-seo-matters-in-2026": "2026年のSEOの必要性"
-    },
-    "positions": {
-      "seo-expert": "SEO担当",
-      "aso-specialist": "ASO担当",
-      "business-development-manager": "事業開発マネージャー",
-      "marketing-consultant": "マーケティングコンサルタント",
-      "ppc-specialist": "広告運用担当",
-      "social-media-manager": "SNS運用担当"
     }
   }
 }

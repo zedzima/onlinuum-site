@@ -69,8 +69,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -172,13 +174,15 @@
         ],
         "countries": [
           "uk",
+          "france",
           "spain",
           "italy",
           "netherlands"
         ],
         "languages": [
           "english",
-          "italian"
+          "italian",
+          "arabic"
         ]
       },
       "services": [
@@ -282,6 +286,7 @@
           "fintech"
         ],
         "countries": [
+          "france",
           "spain",
           "italy",
           "netherlands",
@@ -291,6 +296,8 @@
         ],
         "languages": [
           "italian",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -409,6 +416,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -515,7 +523,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -535,7 +545,10 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "japanese",
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -732,8 +745,10 @@
     },
     "countries": {
       "uk": "Regno Unito",
+      "france": "Francia",
       "austria": "Austria",
       "poland": "Polonia",
+      "portugal": "Portogallo",
       "spain": "Spagna",
       "italy": "Italia",
       "netherlands": "Paesi Bassi",
@@ -753,7 +768,10 @@
     },
     "languages": {
       "english": "Inglese",
-      "italian": "Italiano"
+      "italian": "Italiano",
+      "arabic": "Arabo",
+      "japanese": "Giapponese",
+      "thai": "Tailandese"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

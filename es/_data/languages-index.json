@@ -1,6 +1,67 @@
 {
   "languages": [
     {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "Marketing en Árabe: SEO y Contenidos con Nativos",
+      "description": "SEO, contenidos y anuncios en idioma árabe para el Golfo, el Levante y el Magreb: árabe estándar, dialecto y escritura RTL. Descubre servicios.",
+      "menu": "Árabe",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307M",
+      "market_speakers_display": "307M",
+      "market_speakers_est": 306896549,
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "aso-localization",
+          "google-ads-search",
+          "ppc-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "Marketing en Inglés con Expertos Nativos",
@@ -75,6 +136,7 @@
         "countries": [
           "uk",
           "canada",
+          "france",
           "netherlands",
           "poland",
           "spain",
@@ -88,6 +150,7 @@
           "ireland",
           "switzerland",
           "finland",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -167,6 +230,7 @@
         ],
         "countries": [
           "switzerland",
+          "france",
           "austria",
           "canada",
           "eu"
@@ -174,6 +238,35 @@
         "positions": [
           "seo-expert",
           "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "japanese",
+      "url": "/languages/japanese",
+      "title": "Marketing en Japonés con Expertos Nativos",
+      "description": "Marketing en idioma japonés para marcas que entran en Japón: expertos nativos en Yahoo Japan, Google Japón y LINE. Descubre servicios.",
+      "menu": "Japonés",
+      "featured": false,
+      "flag": "",
+      "code": "JA",
+      "native_speakers_l1": "117M",
+      "market_speakers_display": "117M",
+      "market_speakers_est": 117041900,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "japan"
+        ],
+        "positions": [
+          "seo-expert",
           "marketing-consultant"
         ]
       }
@@ -243,8 +336,10 @@
         ],
         "countries": [
           "spain",
+          "france",
           "uk",
           "canada",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -261,6 +356,58 @@
           "social-media-manager"
         ]
       }
+    },
+    {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "Marketing en Tailandés: SEO y Localización Nativos",
+      "description": "SEO y localización en idioma tailandés con nativos: keyword research en alfabeto tailandés, contenidos y anuncios para marcas que venden en Tailandia.",
+      "menu": "Tailandés",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_speakers_est": 55936800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 4,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
@@ -274,20 +421,68 @@
       "app-marketing": "Marketing de apps"
     },
     "scopes": {
-      "technical-seo": "SEO técnico",
-      "seo-research": "Keyword research",
-      "aso-optimization": "Posicionamiento de apps",
       "aso-localization": "Localización ASO",
+      "google-ads-search": "Búsqueda en Google Ads",
+      "ppc-audit": "Auditoría SEM",
+      "seo-research": "Keyword research",
+      "technical-seo": "SEO técnico",
+      "aso-optimization": "Posicionamiento de apps",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "CRO en App Store",
       "app-retention": "Retención de usuarios",
       "content-strategy": "Estrategia de contenidos",
       "content-writing": "Redacción de contenidos",
-      "google-ads-search": "Búsqueda en Google Ads",
       "google-shopping": "Google Shopping",
-      "ppc-audit": "Auditoría SEM",
       "telegram-ads": "Telegram Ads",
       "youtube-ads": "YouTube Ads"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Consultoría de marketing digital",
+      "multilingual-seo": "SEO internacional"
+    },
+    "services": {
+      "content": "Marketing de contenidos",
+      "orm": "Reputación online",
+      "ppc": "PPC",
+      "seo": "SEO",
+      "social-media": "Redes sociales",
+      "aso": "ASO",
+      "app-user-acquisition": "User acquisition para apps"
+    },
+    "industries": {
+      "ecommerce": "Ecommerce",
+      "saas": "SaaS",
+      "fintech": "Sector fintech",
+      "manufacturing": "Industria"
+    },
+    "countries": {
+      "israel": "Israel",
+      "canada": "Canadá",
+      "uk": "Reino Unido",
+      "france": "Francia",
+      "netherlands": "Países Bajos",
+      "poland": "Polonia",
+      "spain": "España",
+      "sweden": "Suecia",
+      "malaysia": "Malasia",
+      "belgium": "Bélgica",
+      "austria": "Austria",
+      "greece": "Grecia",
+      "denmark": "Dinamarca",
+      "ireland": "Irlanda",
+      "switzerland": "Suiza",
+      "finland": "Finlandia",
+      "portugal": "Portugal",
+      "eu": "Unión Europea",
+      "japan": "Japón"
+    },
+    "positions": {
+      "seo-expert": "Especialista SEO",
+      "business-development-manager": "Responsable de desarrollo de negocio",
+      "marketing-consultant": "Consultor de marketing",
+      "aso-specialist": "ASO manager",
+      "ppc-specialist": "Especialista SEM",
+      "social-media-manager": "Social media manager"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -297,55 +492,10 @@
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
-    "solutions": {
-      "digital-marketing-consulting": "Consultoría de marketing digital",
-      "multilingual-seo": "SEO internacional"
-    },
-    "services": {
-      "content": "Marketing de contenidos",
-      "social-media": "Redes sociales",
-      "aso": "ASO",
-      "orm": "Reputación online",
-      "app-user-acquisition": "User acquisition para apps",
-      "seo": "SEO",
-      "ppc": "PPC"
-    },
-    "industries": {
-      "ecommerce": "Ecommerce",
-      "saas": "SaaS",
-      "fintech": "Sector fintech",
-      "manufacturing": "Industria"
-    },
-    "countries": {
-      "uk": "Reino Unido",
-      "canada": "Canadá",
-      "netherlands": "Países Bajos",
-      "poland": "Polonia",
-      "spain": "España",
-      "sweden": "Suecia",
-      "israel": "Israel",
-      "malaysia": "Malasia",
-      "belgium": "Bélgica",
-      "austria": "Austria",
-      "greece": "Grecia",
-      "denmark": "Dinamarca",
-      "ireland": "Irlanda",
-      "switzerland": "Suiza",
-      "finland": "Finlandia",
-      "eu": "Unión Europea"
-    },
     "blog-posts": {
       "how-ai-chooses-sources": "Cómo la IA elige sus fuentes",
       "seo-packages-comparison": "Comparativa de paquetes SEO",
       "why-seo-matters-in-2026": "Para qué sirve el SEO"
-    },
-    "positions": {
-      "seo-expert": "Especialista SEO",
-      "aso-specialist": "ASO manager",
-      "business-development-manager": "Responsable de desarrollo de negocio",
-      "marketing-consultant": "Consultor de marketing",
-      "ppc-specialist": "Especialista SEM",
-      "social-media-manager": "Social media manager"
     }
   }
 }

@@ -56,8 +56,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -77,7 +79,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources"
@@ -130,8 +134,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -151,7 +157,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -208,8 +216,10 @@
     },
     "countries": {
       "uk": "영국",
+      "france": "프랑스",
       "austria": "오스트리아",
       "poland": "폴란드",
+      "portugal": "포르투갈",
       "spain": "스페인",
       "belgium": "벨기에",
       "canada": "캐나다",
@@ -229,7 +239,9 @@
     },
     "languages": {
       "english": "영어",
-      "italian": "이탈리아어"
+      "arabic": "아랍어",
+      "italian": "이탈리아어",
+      "thai": "태국어"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AI가 출처를 고르는 방식",

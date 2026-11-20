@@ -201,6 +201,7 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian"
         ],
         "positions": [
@@ -480,6 +481,86 @@
       }
     },
     {
+      "slug": "france",
+      "url": "/countries/france",
+      "title": "프랑스 시장 진출: 프랑스어 원어민의 디지털 마케팅",
+      "description": "프랑스 시장에 진출하는 해외 브랜드를 위한 프랑스 마케팅과 프랑스 광고. 프랑스어 원어민 전문가가 상품화된 서비스로 실행합니다. 지금 시작하기.",
+      "menu": "프랑스",
+      "featured": false,
+      "flag": "🇫🇷",
+      "population_total": "68.4M",
+      "population_total_raw": 68374600,
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "프랑스어",
+      "dominant_language_code": "fr",
+      "scope_count": 13,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "greece",
       "url": "/countries/greece",
       "title": "그리스 마케팅: 그리스어 원어민이 실행하는 시장 진출",
@@ -679,7 +760,8 @@
           "manufacturing"
         ],
         "languages": [
-          "english"
+          "english",
+          "arabic"
         ],
         "positions": [
           "seo-expert",
@@ -747,6 +829,9 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "languages": [
+          "japanese"
         ],
         "positions": [
           "seo-expert",
@@ -966,6 +1051,77 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "portugal",
+      "url": "/countries/portugal",
+      "title": "포르투갈 진출: 유럽 포르투갈어 원어민 마케팅",
+      "description": "포르투갈 진출을 준비하는 해외 브랜드를 위한 포르투갈 마케팅과 디지털 PR. 유럽 포르투갈어 원어민 전문가, 고정 가격 모듈. 지금 시작하기.",
+      "menu": "포르투갈",
+      "featured": false,
+      "flag": "🇵🇹",
+      "population_total": "10.2M",
+      "population_total_raw": 10207200,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "포르투갈어",
+      "dominant_language_code": "pt",
+      "scope_count": 8,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
         ]
       }
     },
@@ -1364,12 +1520,12 @@
       "app-store-cro": "앱스토어 CRO",
       "app-retention": "앱 리텐션",
       "content-strategy": "콘텐츠 기획",
+      "content-writing": "블로그 대행",
       "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
       "ppc-audit": "광고 성과 분석",
-      "telegram-ads": "텔레그램 광고",
       "youtube-ads": "유튜브 광고",
-      "content-writing": "블로그 대행"
+      "telegram-ads": "텔레그램 광고"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -1398,6 +1554,8 @@
     "languages": {
       "english": "영어",
       "italian": "이탈리아어",
+      "arabic": "아랍어",
+      "japanese": "일본어",
       "korean": "한국어"
     },
     "blog-posts": {
@@ -1408,10 +1566,10 @@
     "positions": {
       "seo-expert": "SEO 채용",
       "aso-specialist": "ASO 전문가",
-      "social-media-manager": "SNS 마케터",
+      "business-development-manager": "사업개발 매니저",
       "marketing-consultant": "마케팅 컨설턴트",
       "ppc-specialist": "퍼포먼스 마케터",
-      "business-development-manager": "사업개발 매니저"
+      "social-media-manager": "SNS 마케터"
     },
     "cases": {
       "alvadi": "ALVADI",

@@ -69,8 +69,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -172,6 +174,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "spain",
           "netherlands",
           "uae"
@@ -283,6 +286,7 @@
           "fintech"
         ],
         "countries": [
+          "france",
           "spain",
           "netherlands",
           "poland",
@@ -292,6 +296,7 @@
         ],
         "languages": [
           "italian",
+          "japanese",
           "arabic",
           "english"
         ]
@@ -411,6 +416,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia",
@@ -518,7 +524,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -538,8 +546,10 @@
         ],
         "languages": [
           "english",
+          "japanese",
           "arabic",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -737,8 +747,10 @@
     },
     "countries": {
       "uk": "المملكة المتحدة",
+      "france": "فرنسا",
       "austria": "النمسا",
       "poland": "بولندا",
+      "portugal": "البرتغال",
       "spain": "إسبانيا",
       "netherlands": "هولندا",
       "uae": "الإمارات",
@@ -759,7 +771,9 @@
     "languages": {
       "english": "الإنجليزية",
       "italian": "الإيطالية",
-      "arabic": "العربية"
+      "arabic": "العربية",
+      "japanese": "اليابانية",
+      "thai": "التايلاندية"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"

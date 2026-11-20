@@ -202,6 +202,7 @@
         "languages": [
           "english",
           "spanish",
+          "arabic",
           "italian"
         ],
         "positions": [
@@ -482,6 +483,87 @@
       }
     },
     {
+      "slug": "france",
+      "url": "/countries/france",
+      "title": "Mercado Francés: Agencia de Marketing Digital en Francia",
+      "description": "Agencia de marketing digital en Francia para marcas que quieren exportar a Francia: servicios productizados con expertos nativos. Empieza aquí.",
+      "menu": "Francia",
+      "featured": false,
+      "flag": "🇫🇷",
+      "population_total": "68.4M",
+      "population_total_raw": 68374600,
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "francés",
+      "dominant_language_code": "fr",
+      "scope_count": 13,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "greece",
       "url": "/countries/greece",
       "title": "Mercado Griego: Marketing Digital con Expertos Nativos",
@@ -681,7 +763,8 @@
           "manufacturing"
         ],
         "languages": [
-          "english"
+          "english",
+          "arabic"
         ],
         "positions": [
           "seo-expert",
@@ -749,6 +832,9 @@
           "saas",
           "fintech",
           "manufacturing"
+        ],
+        "languages": [
+          "japanese"
         ],
         "positions": [
           "seo-expert",
@@ -968,6 +1054,78 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "portugal",
+      "url": "/countries/portugal",
+      "title": "Mercado Portugués: Marketing Digital y Mundo Lusófono",
+      "description": "Marketing digital y PR digital para exportar a Portugal: especialistas nativos de portugués europeo, mercado lusófono y planes a precio cerrado.",
+      "menu": "Portugal",
+      "featured": false,
+      "flag": "🇵🇹",
+      "population_total": "10.2M",
+      "population_total_raw": 10207200,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "portugués",
+      "dominant_language_code": "pt",
+      "scope_count": 8,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
         ]
       }
     },
@@ -1299,12 +1457,12 @@
       "app-store-cro": "CRO en App Store",
       "app-retention": "Retención de usuarios",
       "content-strategy": "Estrategia de contenidos",
+      "content-writing": "Redacción de contenidos",
       "google-ads-search": "Búsqueda en Google Ads",
       "google-shopping": "Google Shopping",
       "ppc-audit": "Auditoría SEM",
-      "telegram-ads": "Telegram Ads",
       "youtube-ads": "YouTube Ads",
-      "content-writing": "Redacción de contenidos"
+      "telegram-ads": "Telegram Ads"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -1333,7 +1491,9 @@
     "languages": {
       "english": "Inglés",
       "italian": "Italiano",
-      "spanish": "Español"
+      "spanish": "Español",
+      "arabic": "Árabe",
+      "japanese": "Japonés"
     },
     "blog-posts": {
       "seo-packages-comparison": "Comparativa de paquetes SEO",
@@ -1343,10 +1503,10 @@
     "positions": {
       "seo-expert": "Especialista SEO",
       "aso-specialist": "ASO manager",
-      "social-media-manager": "Social media manager",
+      "business-development-manager": "Responsable de desarrollo de negocio",
       "marketing-consultant": "Consultor de marketing",
       "ppc-specialist": "Especialista SEM",
-      "business-development-manager": "Responsable de desarrollo de negocio"
+      "social-media-manager": "Social media manager"
     },
     "cases": {
       "alvadi": "ALVADI",

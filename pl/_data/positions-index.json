@@ -69,8 +69,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -173,12 +175,14 @@
         ],
         "countries": [
           "uk",
+          "france",
           "spain",
           "netherlands"
         ],
         "languages": [
           "english",
-          "italian"
+          "italian",
+          "arabic"
         ]
       },
       "services": [
@@ -282,6 +286,7 @@
           "fintech"
         ],
         "countries": [
+          "france",
           "spain",
           "netherlands",
           "poland",
@@ -291,6 +296,8 @@
         "languages": [
           "italian",
           "polish",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -409,6 +416,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -515,7 +523,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -535,7 +545,10 @@
         "languages": [
           "english",
           "polish",
-          "italian"
+          "japanese",
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -733,8 +746,10 @@
     },
     "countries": {
       "uk": "Wielka Brytania",
+      "france": "Francja",
       "austria": "Austria",
       "poland": "Polska",
+      "portugal": "Portugalia",
       "spain": "Hiszpania",
       "netherlands": "Holandia",
       "sweden": "Szwecja",
@@ -754,7 +769,10 @@
     "languages": {
       "english": "Angielski",
       "polish": "Polski",
-      "italian": "Włoski"
+      "italian": "Włoski",
+      "arabic": "Arabski",
+      "japanese": "Japoński",
+      "thai": "Tajski"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

@@ -39,7 +39,9 @@
         "countries": [
           "uk",
           "austria",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -102,8 +104,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -164,7 +168,9 @@
         "countries": [
           "uk",
           "austria",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -184,7 +190,9 @@
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "positions": [
           "business-development-manager",
@@ -238,7 +246,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -286,6 +296,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "belgium",
@@ -306,7 +317,9 @@
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "positions": [
           "marketing-consultant",
@@ -353,8 +366,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -374,7 +389,9 @@
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -427,8 +444,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -448,7 +467,9 @@
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -507,7 +528,9 @@
     "countries": {
       "uk": "Reino Unido",
       "austria": "Austria",
+      "france": "Francia",
       "poland": "Polonia",
+      "portugal": "Portugal",
       "spain": "España",
       "belgium": "Bélgica",
       "canada": "Canadá",
@@ -527,7 +550,9 @@
     "languages": {
       "english": "Inglés",
       "spanish": "Español",
-      "italian": "Italiano"
+      "italian": "Italiano",
+      "arabic": "Árabe",
+      "thai": "Tailandés"
     },
     "positions": {
       "aso-specialist": "ASO manager",

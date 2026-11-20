@@ -70,8 +70,10 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -175,13 +177,15 @@
         "countries": [
           "germany",
           "uk",
+          "france",
           "spain",
           "netherlands"
         ],
         "languages": [
           "english",
           "german",
-          "italian"
+          "italian",
+          "arabic"
         ]
       },
       "services": [
@@ -286,6 +290,7 @@
         ],
         "countries": [
           "germany",
+          "france",
           "spain",
           "netherlands",
           "poland",
@@ -295,6 +300,8 @@
         "languages": [
           "german",
           "italian",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -414,6 +421,7 @@
         "countries": [
           "uk",
           "germany",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -522,7 +530,9 @@
           "germany",
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -542,7 +552,10 @@
         "languages": [
           "english",
           "german",
-          "italian"
+          "japanese",
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -742,8 +755,10 @@
     "countries": {
       "germany": "Deutschland",
       "uk": "Vereinigtes Königreich",
+      "france": "Frankreich",
       "austria": "Österreich",
       "poland": "Polen",
+      "portugal": "Portugal",
       "spain": "Spanien",
       "netherlands": "Niederlande",
       "sweden": "Schweden",
@@ -763,7 +778,10 @@
     "languages": {
       "english": "Englisch",
       "german": "Deutsch",
-      "italian": "Italienisch"
+      "italian": "Italienisch",
+      "arabic": "Arabisch",
+      "japanese": "Japanisch",
+      "thai": "Thailändisch"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

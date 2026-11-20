@@ -481,6 +481,86 @@
       }
     },
     {
+      "slug": "france",
+      "url": "/countries/france",
+      "title": "Digital Marketing France: التسويق في السوق الفرنسي",
+      "description": "Digital marketing france للعلامات الدولية: خدمات تسويقية ذات نطاق محدد مع خبراء فرنسيين أصليين في السوق الفرنسي. ابدأوا الآن.",
+      "menu": "فرنسا",
+      "featured": false,
+      "flag": "🇫🇷",
+      "population_total": "68.4M",
+      "population_total_raw": 68374600,
+      "official_languages_count": 6,
+      "significant_languages_count": 6,
+      "dominant_language_name": "الفرنسية",
+      "dominant_language_code": "fr",
+      "scope_count": 13,
+      "service_count": 5,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "performance-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy",
+          "content-writing",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "experts": [
+          "vitali-bakun",
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "manufacturing",
+          "fintech"
+        ],
+        "languages": [
+          "english",
+          "italian"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist",
+          "business-development-manager",
+          "marketing-consultant",
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "greece",
       "url": "/countries/greece",
       "title": "التسويق الرقمي في اليونان للشركات الدولية",
@@ -750,6 +830,9 @@
           "fintech",
           "manufacturing"
         ],
+        "languages": [
+          "japanese"
+        ],
         "positions": [
           "seo-expert",
           "marketing-consultant"
@@ -968,6 +1051,77 @@
           "marketing-consultant",
           "ppc-specialist",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "portugal",
+      "url": "/countries/portugal",
+      "title": "Digital Marketing Portugal: التسويق في السوق البرتغالي",
+      "description": "Digital marketing portugal وعلاقات عامة رقمية للعلامات الدولية: متخصصون أصليون في البرتغالية الأوروبية ونطاقات بسعر ثابت. ابدأوا الآن.",
+      "menu": "البرتغال",
+      "featured": false,
+      "flag": "🇵🇹",
+      "population_total": "10.2M",
+      "population_total_raw": 10207200,
+      "official_languages_count": 4,
+      "significant_languages_count": 4,
+      "dominant_language_name": "البرتغالية",
+      "dominant_language_code": "pt",
+      "scope_count": 8,
+      "service_count": 4,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "community-marketing",
+          "product-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "app-store-cro",
+          "app-retention",
+          "content-strategy"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "aso",
+          "app-user-acquisition",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "blog-posts": [
+          "how-ai-chooses-sources",
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert",
+          "aso-specialist"
         ]
       }
     },
@@ -1370,12 +1524,12 @@
       "app-store-cro": "App Store CRO",
       "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "content-strategy": "استراتيجية المحتوى",
+      "content-writing": "كتابة المحتوى",
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "ppc-audit": "تدقيق PPC",
-      "telegram-ads": "إعلانات تليجرام",
       "youtube-ads": "YouTube Ads",
-      "content-writing": "كتابة المحتوى"
+      "telegram-ads": "إعلانات تليجرام"
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
@@ -1404,7 +1558,8 @@
     "languages": {
       "english": "الإنجليزية",
       "italian": "الإيطالية",
-      "arabic": "العربية"
+      "arabic": "العربية",
+      "japanese": "اليابانية"
     },
     "blog-posts": {
       "seo-packages-comparison": "مقارنة باقات السيو",
@@ -1414,10 +1569,10 @@
     "positions": {
       "seo-expert": "خبير SEO",
       "aso-specialist": "متخصص ASO",
-      "social-media-manager": "أخصائي سوشيال ميديا",
+      "business-development-manager": "مدير تطوير الأعمال",
       "marketing-consultant": "مستشار تسويق",
       "ppc-specialist": "متخصص PPC",
-      "business-development-manager": "مدير تطوير الأعمال"
+      "social-media-manager": "أخصائي سوشيال ميديا"
     },
     "cases": {
       "alvadi": "ALVADI",

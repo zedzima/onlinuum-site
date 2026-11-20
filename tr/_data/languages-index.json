@@ -1,6 +1,67 @@
 {
   "languages": [
     {
+      "slug": "arabic",
+      "url": "/languages/arabic",
+      "title": "Yabancı Markalar için Arapça SEO ve İçerik Pazarlaması",
+      "description": "Körfez, Levant ve Mağrip kitleleri için arapça SEO, içerik ve reklam metni: standart Arapça, lehçe ve sağdan sola teslimat. Hizmetleri inceleyin.",
+      "menu": "Arapça",
+      "featured": false,
+      "flag": "",
+      "code": "AR",
+      "native_speakers_l1": "307M",
+      "market_speakers_display": "307M",
+      "market_speakers_est": 306896549,
+      "market_country_count": 16,
+      "official_countries_count": 16,
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "aso-localization",
+          "google-ads-search",
+          "ppc-audit",
+          "seo-research",
+          "technical-seo"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "orm",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech"
+        ],
+        "countries": [
+          "israel",
+          "canada"
+        ],
+        "positions": [
+          "seo-expert",
+          "business-development-manager",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
       "slug": "english",
       "url": "/languages/english",
       "title": "İngilizce SEO ve İçerik: Anadili İngilizce Uzmanlar",
@@ -75,6 +136,7 @@
         "countries": [
           "uk",
           "canada",
+          "france",
           "netherlands",
           "turkey",
           "poland",
@@ -89,6 +151,7 @@
           "ireland",
           "switzerland",
           "finland",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -168,6 +231,7 @@
         ],
         "countries": [
           "switzerland",
+          "france",
           "austria",
           "canada",
           "eu"
@@ -176,6 +240,87 @@
           "seo-expert",
           "business-development-manager",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "japanese",
+      "url": "/languages/japanese",
+      "title": "Japonca Reklam ve Pazarlama Hizmetleri",
+      "description": "Japonya'ya giren markalar için japonca reklam ve pazarlama: Yahoo Japan, Google Japan ve LINE'da anadil uzmanlar. Hizmetleri inceleyin.",
+      "menu": "Japonca",
+      "featured": false,
+      "flag": "",
+      "code": "JA",
+      "native_speakers_l1": "117M",
+      "market_speakers_display": "117M",
+      "market_speakers_est": 117041900,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "japan"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "Tayland Pazarı İçin Tayca SEO ve Yerelleştirme",
+      "description": "Tayland pazarına satış yapan markalar için Tayca SEO ve yerelleştirme: Tay alfabesiyle anahtar kelime araştırması, içerik ve reklam metni.",
+      "menu": "Tayca",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_speakers_est": 55936800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 4,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     },
@@ -255,20 +400,69 @@
       "app-marketing": "Mobil Uygulama Pazarlama"
     },
     "scopes": {
-      "technical-seo": "Teknik SEO",
-      "seo-research": "SEO Araştırması",
-      "aso-optimization": "ASO Çalışması",
       "aso-localization": "ASO Yerelleştirme",
+      "google-ads-search": "Google Ads Arama Ağı",
+      "ppc-audit": "Reklam Analizi",
+      "seo-research": "SEO Araştırması",
+      "technical-seo": "Teknik SEO",
+      "aso-optimization": "ASO Çalışması",
       "apple-search-ads": "Apple Search Ads",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
       "content-writing": "İçerik Yazarlığı",
-      "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
-      "ppc-audit": "Reklam Analizi",
       "telegram-ads": "Telegram Reklamları",
       "youtube-ads": "YouTube Ads"
+    },
+    "solutions": {
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
+    },
+    "services": {
+      "content": "İçerik Pazarlama",
+      "orm": "İtibar Yönetimi",
+      "ppc": "Performans Pazarlama",
+      "seo": "SEO Hizmeti",
+      "social-media": "Sosyal Medya",
+      "aso": "ASO Hizmeti",
+      "app-user-acquisition": "Uygulamalar İçin User Acquisition"
+    },
+    "industries": {
+      "ecommerce": "E-ticaret",
+      "saas": "SaaS",
+      "fintech": "Fintech ve Bankacılık",
+      "manufacturing": "Sanayi"
+    },
+    "countries": {
+      "israel": "İsrail",
+      "canada": "Kanada",
+      "uk": "Birleşik Krallık",
+      "france": "France",
+      "netherlands": "Hollanda",
+      "turkey": "Türkiye",
+      "poland": "Polonya",
+      "spain": "İspanya",
+      "sweden": "İsveç",
+      "malaysia": "Malezya",
+      "belgium": "Belçika",
+      "austria": "Avusturya",
+      "greece": "Yunanistan",
+      "denmark": "Danimarka",
+      "ireland": "İrlanda",
+      "switzerland": "İsviçre",
+      "finland": "Finlandiya",
+      "portugal": "Portugal",
+      "eu": "Avrupa Birliği",
+      "japan": "Japonya"
+    },
+    "positions": {
+      "seo-expert": "SEO Uzmanı",
+      "business-development-manager": "İş Geliştirme Yöneticisi",
+      "marketing-consultant": "Pazarlama Danışmanı",
+      "aso-specialist": "ASO Uzmanı",
+      "ppc-specialist": "Google Ads Uzmanı",
+      "social-media-manager": "Sosyal Medya Uzmanı"
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
@@ -278,56 +472,10 @@
     "cases": {
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
-    "solutions": {
-      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
-      "multilingual-seo": "Uluslararası SEO"
-    },
-    "services": {
-      "content": "İçerik Pazarlama",
-      "social-media": "Sosyal Medya",
-      "aso": "ASO Hizmeti",
-      "orm": "İtibar Yönetimi",
-      "app-user-acquisition": "Uygulamalar İçin User Acquisition",
-      "seo": "SEO Hizmeti",
-      "ppc": "Performans Pazarlama"
-    },
-    "industries": {
-      "ecommerce": "E-ticaret",
-      "saas": "SaaS",
-      "fintech": "Fintech ve Bankacılık",
-      "manufacturing": "Sanayi"
-    },
-    "countries": {
-      "uk": "Birleşik Krallık",
-      "canada": "Kanada",
-      "netherlands": "Hollanda",
-      "turkey": "Türkiye",
-      "poland": "Polonya",
-      "spain": "İspanya",
-      "sweden": "İsveç",
-      "israel": "İsrail",
-      "malaysia": "Malezya",
-      "belgium": "Belçika",
-      "austria": "Avusturya",
-      "greece": "Yunanistan",
-      "denmark": "Danimarka",
-      "ireland": "İrlanda",
-      "switzerland": "İsviçre",
-      "finland": "Finlandiya",
-      "eu": "Avrupa Birliği"
-    },
     "blog-posts": {
       "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",
       "seo-packages-comparison": "SEO paketleri karşılaştırması",
       "why-seo-matters-in-2026": "SEO nedir ve neden önemli"
-    },
-    "positions": {
-      "seo-expert": "SEO Uzmanı",
-      "aso-specialist": "ASO Uzmanı",
-      "business-development-manager": "İş Geliştirme Yöneticisi",
-      "marketing-consultant": "Pazarlama Danışmanı",
-      "ppc-specialist": "Google Ads Uzmanı",
-      "social-media-manager": "Sosyal Medya Uzmanı"
     }
   }
 }

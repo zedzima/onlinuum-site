@@ -56,8 +56,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -77,7 +79,9 @@
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources"
@@ -130,8 +134,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -151,7 +157,9 @@
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -208,8 +216,10 @@
     },
     "countries": {
       "uk": "Reino Unido",
+      "france": "Francia",
       "austria": "Austria",
       "poland": "Polonia",
+      "portugal": "Portugal",
       "spain": "España",
       "belgium": "Bélgica",
       "canada": "Canadá",
@@ -229,7 +239,9 @@
     "languages": {
       "english": "Inglés",
       "spanish": "Español",
-      "italian": "Italiano"
+      "arabic": "Árabe",
+      "italian": "Italiano",
+      "thai": "Tailandés"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Cómo la IA elige sus fuentes",

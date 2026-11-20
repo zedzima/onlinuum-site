@@ -69,8 +69,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -173,13 +175,15 @@
         ],
         "countries": [
           "uk",
+          "france",
           "spain",
           "netherlands"
         ],
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "italian",
+          "arabic"
         ]
       },
       "services": [
@@ -283,6 +287,7 @@
           "fintech"
         ],
         "countries": [
+          "france",
           "spain",
           "netherlands",
           "poland",
@@ -292,6 +297,8 @@
         "languages": [
           "spanish",
           "italian",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -410,6 +417,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -517,7 +525,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -537,7 +547,10 @@
         "languages": [
           "english",
           "spanish",
-          "italian"
+          "japanese",
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -735,8 +748,10 @@
     },
     "countries": {
       "uk": "Reino Unido",
+      "france": "Francia",
       "austria": "Austria",
       "poland": "Polonia",
+      "portugal": "Portugal",
       "spain": "España",
       "netherlands": "Países Bajos",
       "sweden": "Suecia",
@@ -756,7 +771,10 @@
     "languages": {
       "english": "Inglés",
       "spanish": "Español",
-      "italian": "Italiano"
+      "italian": "Italiano",
+      "arabic": "Árabe",
+      "japanese": "Japonés",
+      "thai": "Tailandés"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

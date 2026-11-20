@@ -56,8 +56,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -76,8 +78,10 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "dutch",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "how-ai-chooses-sources"
@@ -130,8 +134,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -150,8 +156,10 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "dutch",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -208,8 +216,10 @@
     },
     "countries": {
       "uk": "Verenigd Koninkrijk",
+      "france": "Frankrijk",
       "austria": "Oostenrijk",
       "poland": "Polen",
+      "portugal": "Portugal",
       "spain": "Spanje",
       "belgium": "België",
       "canada": "Canada",
@@ -228,8 +238,10 @@
     },
     "languages": {
       "english": "Engels",
+      "arabic": "Arabisch",
       "dutch": "Nederlands",
-      "italian": "Italiaans"
+      "italian": "Italiaans",
+      "thai": "Thais"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Hoe AI bronnen kiest",

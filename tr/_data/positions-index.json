@@ -69,8 +69,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -172,12 +174,14 @@
         ],
         "countries": [
           "uk",
+          "france",
           "spain",
           "netherlands"
         ],
         "languages": [
           "english",
-          "italian"
+          "italian",
+          "arabic"
         ]
       },
       "services": [
@@ -281,6 +285,7 @@
           "fintech"
         ],
         "countries": [
+          "france",
           "spain",
           "netherlands",
           "poland",
@@ -291,6 +296,8 @@
         "languages": [
           "italian",
           "turkish",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -409,6 +416,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -515,7 +523,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -535,7 +545,10 @@
         ],
         "languages": [
           "english",
+          "japanese",
+          "arabic",
           "italian",
+          "thai",
           "turkish"
         ],
         "blog-posts": [
@@ -735,8 +748,10 @@
     },
     "countries": {
       "uk": "Birleşik Krallık",
+      "france": "France",
       "austria": "Avusturya",
       "poland": "Polonya",
+      "portugal": "Portugal",
       "spain": "İspanya",
       "netherlands": "Hollanda",
       "sweden": "İsveç",
@@ -757,7 +772,10 @@
     "languages": {
       "english": "İngilizce",
       "italian": "İtalyanca",
-      "turkish": "Türkçe"
+      "arabic": "Arapça",
+      "turkish": "Türkçe",
+      "japanese": "Japonca",
+      "thai": "Tayca"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"

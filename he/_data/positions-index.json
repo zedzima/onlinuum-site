@@ -69,8 +69,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -172,12 +174,14 @@
         ],
         "countries": [
           "uk",
+          "france",
           "spain",
           "netherlands"
         ],
         "languages": [
           "english",
-          "italian"
+          "italian",
+          "arabic"
         ]
       },
       "services": [
@@ -281,6 +285,7 @@
           "fintech"
         ],
         "countries": [
+          "france",
           "spain",
           "netherlands",
           "poland",
@@ -289,6 +294,8 @@
         ],
         "languages": [
           "italian",
+          "japanese",
+          "arabic",
           "english"
         ]
       },
@@ -407,6 +414,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -513,7 +521,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -532,8 +542,11 @@
         ],
         "languages": [
           "english",
+          "japanese",
+          "arabic",
           "hebrew",
-          "italian"
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -730,8 +743,10 @@
     },
     "countries": {
       "uk": "בריטניה",
+      "france": "צרפת",
       "austria": "אוסטריה",
       "poland": "פולין",
+      "portugal": "פורטוגל",
       "spain": "ספרד",
       "netherlands": "הולנד",
       "sweden": "שוודיה",
@@ -751,7 +766,10 @@
     "languages": {
       "english": "אנגלית",
       "italian": "איטלקית",
-      "hebrew": "עברית"
+      "arabic": "ערבית",
+      "japanese": "יפנית",
+      "hebrew": "עברית",
+      "thai": "תאית"
     },
     "experts": {
       "alaaddin-saracyakupoglu": "אלאאדין סרצ'יאקופולו"

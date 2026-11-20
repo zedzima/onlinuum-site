@@ -31,8 +31,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -90,8 +92,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -152,8 +156,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -214,8 +220,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -233,6 +241,7 @@
         ],
         "languages": [
           "english",
+          "arabic",
           "italian"
         ],
         "positions": [
@@ -277,8 +286,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -346,8 +357,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain"
         ],
         "languages": [
@@ -392,7 +405,8 @@
           "manufacturing"
         ],
         "countries": [
-          "uk"
+          "uk",
+          "france"
         ],
         "languages": [
           "english"
@@ -441,12 +455,15 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
         ],
         "languages": [
-          "english"
+          "english",
+          "arabic",
+          "thai"
         ],
         "positions": [
           "ppc-specialist"
@@ -489,6 +506,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
@@ -540,12 +558,15 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain",
           "malaysia"
         ],
         "languages": [
-          "english"
+          "english",
+          "arabic",
+          "thai"
         ],
         "positions": [
           "ppc-specialist"
@@ -595,8 +616,10 @@
         ],
         "countries": [
           "uk",
+          "france",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -615,7 +638,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -665,9 +690,11 @@
           "manufacturing"
         ],
         "countries": [
+          "france",
           "uk",
           "austria",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -686,7 +713,9 @@
         ],
         "languages": [
           "english",
-          "italian"
+          "arabic",
+          "italian",
+          "thai"
         ],
         "blog-posts": [
           "seo-packages-comparison",
@@ -778,6 +807,7 @@
         ],
         "countries": [
           "uk",
+          "france",
           "poland",
           "spain"
         ],
@@ -818,8 +848,10 @@
     },
     "countries": {
       "uk": "イギリス",
+      "france": "フランス",
       "austria": "オーストリア",
       "poland": "ポーランド",
+      "portugal": "ポルトガル",
       "spain": "スペイン",
       "belgium": "ベルギー",
       "canada": "カナダ",
@@ -838,7 +870,9 @@
     },
     "languages": {
       "english": "英語",
-      "italian": "イタリア語"
+      "italian": "イタリア語",
+      "arabic": "アラビア語",
+      "thai": "タイ語"
     },
     "positions": {
       "aso-specialist": "ASO担当",

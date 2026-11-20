@@ -137,6 +137,7 @@
         "countries": [
           "uk",
           "canada",
+          "france",
           "netherlands",
           "poland",
           "spain",
@@ -151,6 +152,7 @@
           "uae",
           "switzerland",
           "finland",
+          "portugal",
           "eu"
         ],
         "blog-posts": [
@@ -230,6 +232,7 @@
         ],
         "countries": [
           "switzerland",
+          "france",
           "austria",
           "canada",
           "eu"
@@ -238,6 +241,87 @@
           "seo-expert",
           "business-development-manager",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "japanese",
+      "url": "/languages/japanese",
+      "title": "Japanese Marketing: التسويق باللغة اليابانية بخبراء أصليين",
+      "description": "Japanese marketing للعلامات الداخلة إلى اليابان: خبراء يابانيون أصليون عبر Yahoo Japan وGoogle Japan وLINE. استكشفوا الخدمات.",
+      "menu": "اليابانية",
+      "featured": false,
+      "flag": "",
+      "code": "JA",
+      "native_speakers_l1": "117M",
+      "market_speakers_display": "117M",
+      "market_speakers_est": 117041900,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 0,
+      "service_count": 0,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 0,
+      "facets": {
+        "countries": [
+          "japan"
+        ],
+        "positions": [
+          "seo-expert",
+          "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "thai",
+      "url": "/languages/thai",
+      "title": "Thai Localization: السيو والتوطين باللغة التايلاندية",
+      "description": "Thai localization وسيو تايلاندي على أيدي متخصصين أصليين: اختيار الكلمات المفتاحية بالكتابة التايلاندية ومحتوى ونصوص إعلانية لتايلاند.",
+      "menu": "التايلاندية",
+      "featured": false,
+      "flag": "",
+      "code": "TH",
+      "native_speakers_l1": "55.9M",
+      "market_speakers_display": "55.9M",
+      "market_speakers_est": 55936800,
+      "market_country_count": 1,
+      "official_countries_count": 1,
+      "scope_count": 4,
+      "service_count": 4,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations"
+        ],
+        "scopes": [
+          "seo-research",
+          "technical-seo",
+          "google-ads-search",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     }
@@ -292,6 +376,7 @@
       "israel": "إسرائيل",
       "canada": "كندا",
       "uk": "المملكة المتحدة",
+      "france": "فرنسا",
       "netherlands": "هولندا",
       "poland": "بولندا",
       "spain": "إسبانيا",
@@ -304,7 +389,9 @@
       "ireland": "أيرلندا",
       "switzerland": "سويسرا",
       "finland": "فنلندا",
-      "eu": "الاتحاد الأوروبي"
+      "portugal": "البرتغال",
+      "eu": "الاتحاد الأوروبي",
+      "japan": "اليابان"
     },
     "positions": {
       "seo-expert": "خبير SEO",

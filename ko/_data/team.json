@@ -135,7 +135,9 @@
         "countries": [
           "austria",
           "uk",
+          "france",
           "poland",
+          "portugal",
           "spain",
           "belgium",
           "canada",
@@ -223,11 +225,13 @@
           "manufacturing"
         ],
         "countries": [
+          "portugal",
           "poland",
           "belgium",
           "canada",
           "china",
           "eu",
+          "france",
           "greece",
           "ireland",
           "israel",
@@ -287,7 +291,9 @@
       "eu": "유럽연합",
       "uk": "영국",
       "austria": "오스트리아",
+      "france": "프랑스",
       "poland": "폴란드",
+      "portugal": "포르투갈",
       "spain": "스페인",
       "belgium": "벨기에",
       "canada": "캐나다",
