@@ -204,6 +204,69 @@
       }
     },
     {
+      "slug": "alessandro-mora-infante",
+      "url": "/team/alessandro-mora-infante",
+      "title": "Alessandro Mora Infante",
+      "description": "Technical SEO with hands-on implementation: WordPress and WooCommerce development, SEO migrations and local SEO for Spanish-speaking markets.",
+      "role": "Technical SEO & WordPress Specialist",
+      "avatar": "_media/images/team/Alessandro-Mora-Infante.jpg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "italian",
+        "spanish"
+      ],
+      "countries": [
+        "italy",
+        "spain",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "hospitality",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "technical-seo"
+        ],
+        "services": [
+          "seo",
+          "web-development"
+        ],
+        "industries": [
+          "ecommerce",
+          "hospitality",
+          "retail"
+        ],
+        "countries": [
+          "italy",
+          "spain",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "spanish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "anastasiya-antoniuk",
       "url": "/team/anastasiya-antoniuk",
       "title": "Anastasiya Antoniuk",
@@ -2412,13 +2475,13 @@
       "google-shopping": "Google Shopping",
       "ppc-audit": "PPC Audit",
       "youtube-ads": "YouTube Ads",
+      "local-seo": "Local SEO",
+      "seo-audit": "SEO Audit",
       "aso-localization": "ASO Localization",
       "aso-optimization": "ASO Optimization",
       "content-localization": "Content Localization",
       "content-rewriting": "Content Rewriting",
       "copywriting": "Copywriting",
-      "local-seo": "Local SEO",
-      "seo-audit": "SEO Audit",
       "transcreation": "Transcreation",
       "video-content-production": "Video Content Production",
       "video-marketing-audit": "Video Marketing Audit",
@@ -2439,12 +2502,12 @@
       "seo": "SEO",
       "paid-social": "Paid Social",
       "ppc": "PPC",
+      "web-development": "Web Development",
       "aso": "ASO",
       "video": "Video Marketing",
       "app-conversion-retention": "App Conversion & Retention",
       "cro": "CRO",
       "automation": "Marketing Automation",
-      "web-development": "Web Development",
       "app-user-acquisition": "App User Acquisition",
       "email": "Email Marketing",
       "social-media": "Social Media",
@@ -2478,6 +2541,8 @@
       "new-zealand": "New Zealand",
       "singapore": "Singapore",
       "thailand": "Thailand",
+      "italy": "Italy",
+      "spain": "Spain",
       "austria": "Austria",
       "belgium": "Belgium",
       "brazil": "Brazil",
@@ -2488,7 +2553,6 @@
       "india": "India",
       "ireland": "Ireland",
       "israel": "Israel",
-      "italy": "Italy",
       "japan": "Japan",
       "latvia": "Latvia",
       "mexico": "Mexico",
@@ -2496,7 +2560,6 @@
       "poland": "Poland",
       "portugal": "Portugal",
       "south-korea": "South Korea",
-      "spain": "Spain",
       "sweden": "Sweden",
       "switzerland": "Switzerland",
       "taiwan": "Taiwan",
@@ -2509,15 +2572,15 @@
       "french": "French",
       "turkish": "Turkish",
       "indonesian": "Indonesian",
+      "italian": "Italian",
+      "spanish": "Spanish",
       "russian": "Russian",
       "czech": "Czech",
       "dutch": "Dutch",
       "german": "German",
       "greek": "Greek",
-      "italian": "Italian",
       "polish": "Polish",
       "portuguese": "Portuguese",
-      "spanish": "Spanish",
       "swedish": "Swedish",
       "arabic": "Arabic",
       "urdu": "Urdu",

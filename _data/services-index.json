@@ -1854,7 +1854,7 @@
       "menu": "SEO",
       "featured": true,
       "scope_count": 12,
-      "expert_count": 16,
+      "expert_count": 17,
       "starting_price": 1990.0,
       "from_price": 1990.0,
       "industry_count": 7,
@@ -1889,6 +1889,7 @@
           "dmitriy-razakhatsky",
           "aina-rakotondrabe",
           "alaaddin-saracyakupoglu",
+          "alessandro-mora-infante",
           "elena-grakovich",
           "gael-balouek",
           "lalit-kumar",
@@ -2231,7 +2232,7 @@
       "menu": "Web Development",
       "featured": true,
       "scope_count": 2,
-      "expert_count": 4,
+      "expert_count": 5,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 7,
@@ -2253,6 +2254,7 @@
         "experts": [
           "dima-gerko",
           "dmitriy-razakhatsky",
+          "alessandro-mora-infante",
           "moataz-yacoubian",
           "vyacheslav-maletskiy"
         ],
@@ -2455,6 +2457,7 @@
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "can-erim": "Can Erim",
       "netanel-kugler": "Netanel Kugler",
+      "alessandro-mora-infante": "Alessandro Mora Infante",
       "valentina-soldatkina": "Valentina Soldatkina"
     },
     "solutions": {

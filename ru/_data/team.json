@@ -204,6 +204,69 @@
       }
     },
     {
+      "slug": "alessandro-mora-infante",
+      "url": "/team/alessandro-mora-infante",
+      "title": "Алессандро Мора Инфанте",
+      "description": "Техническое SEO с внедрением своими руками: разработка на WordPress и WooCommerce, SEO-миграции и локальное SEO для испаноязычных рынков.",
+      "role": "Специалист по техническому SEO и WordPress",
+      "avatar": "_media/images/team/Alessandro-Mora-Infante.jpg",
+      "experience_value": "5+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "italian",
+        "spanish"
+      ],
+      "countries": [
+        "italy",
+        "spain",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "hospitality",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "web-marketing"
+        ],
+        "scopes": [
+          "local-seo",
+          "on-page-seo",
+          "seo-audit",
+          "technical-seo"
+        ],
+        "services": [
+          "seo",
+          "web-development"
+        ],
+        "industries": [
+          "ecommerce",
+          "hospitality",
+          "retail"
+        ],
+        "countries": [
+          "italy",
+          "spain",
+          "usa"
+        ],
+        "languages": [
+          "english",
+          "italian",
+          "spanish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "anastasiya-antoniuk",
       "url": "/team/anastasiya-antoniuk",
       "title": "Анастасия Антонюк",
@@ -2409,13 +2472,13 @@
       "google-shopping": "Google Shopping",
       "ppc-audit": "Аудит контекстной рекламы",
       "youtube-ads": "Реклама на YouTube",
+      "local-seo": "Локальное SEO",
+      "seo-audit": "SEO-аудит",
       "aso-localization": "ASO-локализация",
       "aso-optimization": "ASO-оптимизация",
       "content-localization": "Локализация контента",
       "content-rewriting": "Обновление контента",
       "copywriting": "Копирайтинг",
-      "local-seo": "Локальное SEO",
-      "seo-audit": "SEO-аудит",
       "transcreation": "Транскреация",
       "video-content-production": "Видео продакшн",
       "video-marketing-audit": "Аудит видеомаркетинга",
@@ -2436,12 +2499,12 @@
       "seo": "SEO",
       "paid-social": "Таргетированная реклама",
       "ppc": "Контекстная реклама",
+      "web-development": "Разработка сайтов",
       "aso": "ASO",
       "video": "Видеомаркетинг",
       "app-conversion-retention": "Конверсия и удержание",
       "cro": "CRO",
       "automation": "Автоматизация маркетинга",
-      "web-development": "Разработка сайтов",
       "app-user-acquisition": "Привлечение пользователей",
       "email": "Email-маркетинг",
       "social-media": "Социальные сети",
@@ -2475,6 +2538,8 @@
       "new-zealand": "Новая Зеландия",
       "singapore": "Сингапур",
       "thailand": "Таиланд",
+      "italy": "Италия",
+      "spain": "Испания",
       "austria": "Австрия",
       "belgium": "Бельгия",
       "brazil": "Бразилия",
@@ -2485,7 +2550,6 @@
       "india": "Индия",
       "ireland": "Ирландия",
       "israel": "Израиль",
-      "italy": "Италия",
       "japan": "Япония",
       "latvia": "Латвия",
       "mexico": "Мексика",
@@ -2493,7 +2557,6 @@
       "poland": "Польша",
       "portugal": "Португалия",
       "south-korea": "Южная Корея",
-      "spain": "Испания",
       "sweden": "Швеция",
       "switzerland": "Швейцария",
       "taiwan": "Тайвань",
@@ -2506,15 +2569,15 @@
       "french": "Французский",
       "turkish": "Турецкий",
       "indonesian": "Индонезийский",
+      "italian": "Итальянский",
+      "spanish": "Испанский",
       "russian": "Русский",
       "czech": "Чешский",
       "dutch": "Нидерландский",
       "german": "Немецкий",
       "greek": "Греческий",
-      "italian": "Итальянский",
       "polish": "Польский",
       "portuguese": "Португальский",
-      "spanish": "Испанский",
       "swedish": "Шведский",
       "arabic": "Арабский",
       "urdu": "Урду",
