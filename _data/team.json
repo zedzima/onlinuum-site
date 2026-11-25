@@ -1581,6 +1581,65 @@
       }
     },
     {
+      "slug": "merdangeldi-bayramov",
+      "url": "/team/merdangeldi-bayramov",
+      "title": "Merdangeldi Bayramov",
+      "description": "Instagram and TikTok accounts built from scratch: content strategy, visuals, Reels and short videos in Turkmen, Turkish, English and Russian.",
+      "role": "Social Media Marketing Specialist",
+      "avatar": "_media/images/team/Merdangeldi-Bayramov.jpg",
+      "experience_value": "3+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian",
+        "turkish"
+      ],
+      "countries": [
+        "turkey"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "manufacturing"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "instagram-marketing",
+          "social-content-creation",
+          "social-media-management",
+          "tiktok-marketing"
+        ],
+        "services": [
+          "content",
+          "social-media"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "manufacturing"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "turkish"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "moataz-yacoubian",
       "url": "/team/moataz-yacoubian",
       "title": "Moataz Yacoubian",
@@ -2571,7 +2630,11 @@
       "microsoft-ads": "Microsoft Ads",
       "remarketing-display": "Remarketing & Display",
       "linkedin-ads": "LinkedIn Ads",
-      "meta-ads": "Meta Ads"
+      "meta-ads": "Meta Ads",
+      "instagram-marketing": "Instagram Marketing",
+      "social-content-creation": "Social Content Creation",
+      "social-media-management": "Social Media Management",
+      "tiktok-marketing": "TikTok Marketing"
     },
     "services": {
       "aeo": "AEO",
@@ -2670,6 +2733,7 @@
       "seo-expert": "SEO Expert",
       "ppc-specialist": "PPC Specialist",
       "aso-specialist": "ASO Specialist",
+      "social-media-manager": "Social Media Manager",
       "marketing-consultant": "Marketing Consultant"
     },
     "solutions": {

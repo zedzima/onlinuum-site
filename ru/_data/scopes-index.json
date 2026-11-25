@@ -1721,7 +1721,7 @@
       "featured": true,
       "from_price": 1100,
       "delivery": "monthly",
-      "expert_count": 0,
+      "expert_count": 1,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1730,6 +1730,9 @@
         "domains": [
           "community-marketing",
           "brand-marketing"
+        ],
+        "experts": [
+          "merdangeldi-bayramov"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -3185,7 +3188,7 @@
       "featured": true,
       "from_price": 1100,
       "delivery": "monthly",
-      "expert_count": 0,
+      "expert_count": 1,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -3194,6 +3197,9 @@
         "domains": [
           "community-marketing",
           "brand-marketing"
+        ],
+        "experts": [
+          "merdangeldi-bayramov"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -3299,7 +3305,7 @@
       "featured": true,
       "from_price": 1200,
       "delivery": "monthly",
-      "expert_count": 0,
+      "expert_count": 1,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 3,
@@ -3308,6 +3314,9 @@
         "domains": [
           "community-marketing",
           "brand-marketing"
+        ],
+        "experts": [
+          "merdangeldi-bayramov"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -3684,7 +3693,7 @@
       "featured": true,
       "from_price": 1400,
       "delivery": "monthly",
-      "expert_count": 0,
+      "expert_count": 1,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -3693,6 +3702,9 @@
         "domains": [
           "community-marketing",
           "brand-marketing"
+        ],
+        "experts": [
+          "merdangeldi-bayramov"
         ],
         "solutions": [
           "international-marketing",
@@ -4201,6 +4213,7 @@
       "netanel-kugler": "Нетанель Куглер",
       "levy-van-t-hoogt": "Леви ван 'т Хогт",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
+      "merdangeldi-bayramov": "Мердангельды Байрамов",
       "lalit-kumar": "Лалит Кумар",
       "alessandro-mora-infante": "Алессандро Мора Инфанте"
     },

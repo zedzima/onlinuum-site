@@ -1578,6 +1578,65 @@
       }
     },
     {
+      "slug": "merdangeldi-bayramov",
+      "url": "/team/merdangeldi-bayramov",
+      "title": "Мердангельды Байрамов",
+      "description": "Аккаунты в Instagram и TikTok с нуля: контент-стратегия, визуалы, Reels и короткие видео на туркменском, турецком, английском и русском.",
+      "role": "Специалист по маркетингу в соцсетях",
+      "avatar": "_media/images/team/Merdangeldi-Bayramov.jpg",
+      "experience_value": "3+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "english",
+        "russian",
+        "turkish"
+      ],
+      "countries": [
+        "turkey"
+      ],
+      "industries": [
+        "automotive",
+        "ecommerce",
+        "manufacturing"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "brand-marketing",
+          "community-marketing"
+        ],
+        "scopes": [
+          "instagram-marketing",
+          "social-content-creation",
+          "social-media-management",
+          "tiktok-marketing"
+        ],
+        "services": [
+          "content",
+          "social-media"
+        ],
+        "industries": [
+          "automotive",
+          "ecommerce",
+          "manufacturing"
+        ],
+        "countries": [
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "russian",
+          "turkish"
+        ],
+        "positions": [
+          "social-media-manager"
+        ]
+      }
+    },
+    {
       "slug": "moataz-yacoubian",
       "url": "/team/moataz-yacoubian",
       "title": "Моатаз Якубян",
@@ -2568,7 +2627,11 @@
       "microsoft-ads": "Microsoft Ads",
       "remarketing-display": "Ремаркетинг и медийная реклама",
       "linkedin-ads": "Реклама в LinkedIn",
-      "meta-ads": "Meta Ads"
+      "meta-ads": "Meta Ads",
+      "instagram-marketing": "Продвижение в Instagram",
+      "social-content-creation": "Контент для соцсетей",
+      "social-media-management": "Ведение соцсетей",
+      "tiktok-marketing": "Продвижение в TikTok"
     },
     "services": {
       "aeo": "AEO",
@@ -2667,6 +2730,7 @@
       "seo-expert": "SEO-специалист",
       "ppc-specialist": "PPC-специалист",
       "aso-specialist": "ASO-специалист",
+      "social-media-manager": "SMM-менеджер",
       "marketing-consultant": "Консультант по маркетингу"
     },
     "solutions": {

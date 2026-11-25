@@ -10,7 +10,7 @@
       "icon": "automotive",
       "scope_count": 28,
       "service_count": 8,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -62,6 +62,7 @@
           "dima-gerko",
           "can-erim",
           "md-solayman-rumon",
+          "merdangeldi-bayramov",
           "moataz-yacoubian",
           "syed-rafey"
         ],
@@ -295,7 +296,7 @@
       "icon": "ecommerce",
       "scope_count": 45,
       "service_count": 18,
-      "expert_count": 23,
+      "expert_count": 24,
       "case_count": 1,
       "solution_count": 10,
       "facets": {
@@ -376,6 +377,7 @@
           "lucresse-eunice-ganhouegnon",
           "mariia-nedbaievska",
           "md-solayman-rumon",
+          "merdangeldi-bayramov",
           "ndeye-binta-diouf",
           "netanel-kugler",
           "shani-mor",
@@ -1401,7 +1403,7 @@
       "icon": "manufacturing",
       "scope_count": 20,
       "service_count": 7,
-      "expert_count": 9,
+      "expert_count": 10,
       "case_count": 0,
       "solution_count": 10,
       "facets": {
@@ -1446,6 +1448,7 @@
           "can-erim",
           "ismail-aydogdu",
           "levy-van-t-hoogt",
+          "merdangeldi-bayramov",
           "syed-rafey"
         ],
         "solutions": [
@@ -2097,6 +2100,7 @@
       "dima-gerko": "Дима Герко",
       "can-erim": "Джан Эрим",
       "md-solayman-rumon": "Мд Солайман Румон",
+      "merdangeldi-bayramov": "Мердангельды Байрамов",
       "moataz-yacoubian": "Моатаз Якубян",
       "syed-rafey": "Сайед Рафи",
       "rita-pavide": "Рита Павиде",

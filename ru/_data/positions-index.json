@@ -793,7 +793,7 @@
       "description": "Удалённая вакансия SMM-менеджера в Onlinuum: ведение соцсетей клиентов и закупка рекламы в Telegram-каналах, доля 40% от выручки. Откликайтесь.",
       "menu": "SMM-менеджер",
       "featured": false,
-      "expert_count": 0,
+      "expert_count": 1,
       "project_count": 0,
       "hiring": {
         "status": "active",
@@ -854,6 +854,9 @@
           "social-media-audit-strategy",
           "social-media-management",
           "tiktok-marketing"
+        ],
+        "experts": [
+          "merdangeldi-bayramov"
         ],
         "solutions": [
           "international-marketing",
@@ -1015,7 +1018,8 @@
       "syed-rafey": "Сайед Рафи",
       "tri-huy-do": "Чи-Хюи До",
       "lucresse-eunice-ganhouegnon": "Люкресс Юнис Ганхуэньон",
-      "alessandro-mora-infante": "Алессандро Мора Инфанте"
+      "alessandro-mora-infante": "Алессандро Мора Инфанте",
+      "merdangeldi-bayramov": "Мердангельды Байрамов"
     },
     "solutions": {
       "digital-marketing-strategy": "Маркетинговая стратегия",
