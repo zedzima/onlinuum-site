@@ -1250,6 +1250,82 @@
       }
     },
     {
+      "slug": "levy-van-t-hoogt",
+      "url": "/team/levy-van-t-hoogt",
+      "title": "Levy van 't Hoogt",
+      "description": "Google Ads, Meta and LinkedIn Ads and SEO for B2B and e-commerce, with GA4 and Google Tag Manager conversion tracking fixed before optimisation.",
+      "role": "Performance Marketer",
+      "avatar": "_media/images/team/Levy-van-t-Hoogt.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "dutch",
+        "english"
+      ],
+      "countries": [
+        "france",
+        "germany",
+        "netherlands",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "legal",
+        "manufacturing",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "linkedin-ads",
+          "meta-ads",
+          "on-page-seo",
+          "seo-audit",
+          "technical-seo"
+        ],
+        "services": [
+          "analytics",
+          "automation",
+          "cro",
+          "email",
+          "paid-social",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "legal",
+          "manufacturing",
+          "retail"
+        ],
+        "countries": [
+          "france",
+          "germany",
+          "netherlands",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "dutch",
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "lisa-chernova",
       "url": "/team/lisa-chernova",
       "title": "Lisa Chernova",
@@ -2493,7 +2569,9 @@
       "paid-social-for-apps": "Paid Social for Apps",
       "local-services-ads": "Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
-      "remarketing-display": "Remarketing & Display"
+      "remarketing-display": "Remarketing & Display",
+      "linkedin-ads": "LinkedIn Ads",
+      "meta-ads": "Meta Ads"
     },
     "services": {
       "aeo": "AEO",

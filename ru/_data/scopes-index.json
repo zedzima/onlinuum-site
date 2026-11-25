@@ -1370,7 +1370,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 8,
+      "expert_count": 9,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1389,6 +1389,7 @@
           "ismail-aydogdu",
           "md-solayman-rumon",
           "netanel-kugler",
+          "levy-van-t-hoogt",
           "aldillah-melisa-febryana"
         ],
         "cases": [
@@ -1588,7 +1589,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 7,
+      "expert_count": 8,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -1606,6 +1607,7 @@
           "ismail-aydogdu",
           "md-solayman-rumon",
           "netanel-kugler",
+          "levy-van-t-hoogt",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -1921,7 +1923,7 @@
       "featured": true,
       "from_price": 1200,
       "delivery": "monthly",
-      "expert_count": 0,
+      "expert_count": 1,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 5,
@@ -1929,6 +1931,9 @@
       "facets": {
         "domains": [
           "performance-marketing"
+        ],
+        "experts": [
+          "levy-van-t-hoogt"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -2226,7 +2231,7 @@
       "featured": true,
       "from_price": 1000,
       "delivery": "monthly",
-      "expert_count": 0,
+      "expert_count": 1,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 6,
@@ -2234,6 +2239,9 @@
       "facets": {
         "domains": [
           "performance-marketing"
+        ],
+        "experts": [
+          "levy-van-t-hoogt"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -2348,7 +2356,7 @@
       "featured": true,
       "from_price": 250,
       "delivery": "one-time",
-      "expert_count": 13,
+      "expert_count": 14,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2375,6 +2383,7 @@
           "tri-huy-do",
           "lucresse-eunice-ganhouegnon",
           "alessandro-mora-infante",
+          "levy-van-t-hoogt",
           "alaaddin-saracyakupoglu",
           "rita-pavide"
         ],
@@ -2907,7 +2916,7 @@
       "featured": true,
       "from_price": 1190,
       "delivery": "one-time",
-      "expert_count": 10,
+      "expert_count": 11,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -2927,7 +2936,8 @@
           "syed-rafey",
           "tri-huy-do",
           "lucresse-eunice-ganhouegnon",
-          "alessandro-mora-infante"
+          "alessandro-mora-infante",
+          "levy-van-t-hoogt"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -3345,7 +3355,7 @@
       "featured": true,
       "from_price": 500,
       "delivery": "one-time",
-      "expert_count": 11,
+      "expert_count": 12,
       "industry_count": 7,
       "country_count": 8,
       "language_count": 7,
@@ -3367,6 +3377,7 @@
           "tri-huy-do",
           "lucresse-eunice-ganhouegnon",
           "alessandro-mora-infante",
+          "levy-van-t-hoogt",
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
@@ -4188,6 +4199,7 @@
       "ismail-aydogdu": "Исмаил Айдогду",
       "md-solayman-rumon": "Мд Солайман Румон",
       "netanel-kugler": "Нетанель Куглер",
+      "levy-van-t-hoogt": "Леви ван 'т Хогт",
       "aldillah-melisa-febryana": "Алдиллах Мелиса Фебрияна",
       "lalit-kumar": "Лалит Кумар",
       "alessandro-mora-infante": "Алессандро Мора Инфанте"

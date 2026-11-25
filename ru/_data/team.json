@@ -1247,6 +1247,82 @@
       }
     },
     {
+      "slug": "levy-van-t-hoogt",
+      "url": "/team/levy-van-t-hoogt",
+      "title": "Леви ван 'т Хогт",
+      "description": "Google Ads, реклама в Meta и LinkedIn и SEO для B2B и e-commerce; сначала исправляет отслеживание конверсий в GA4 и Google Tag Manager, затем оптимизирует.",
+      "role": "Performance-маркетолог",
+      "avatar": "_media/images/team/Levy-van-t-Hoogt.jpg",
+      "experience_value": "6+",
+      "projects": null,
+      "featured": false,
+      "languages": [
+        "dutch",
+        "english"
+      ],
+      "countries": [
+        "france",
+        "germany",
+        "netherlands",
+        "uk",
+        "usa"
+      ],
+      "industries": [
+        "ecommerce",
+        "legal",
+        "manufacturing",
+        "retail"
+      ],
+      "cases": [],
+      "case_count": 0,
+      "article_count": 0,
+      "facets": {
+        "domains": [
+          "performance-marketing",
+          "search-marketing"
+        ],
+        "scopes": [
+          "google-ads-search",
+          "google-shopping",
+          "linkedin-ads",
+          "meta-ads",
+          "on-page-seo",
+          "seo-audit",
+          "technical-seo"
+        ],
+        "services": [
+          "analytics",
+          "automation",
+          "cro",
+          "email",
+          "paid-social",
+          "ppc",
+          "seo",
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "legal",
+          "manufacturing",
+          "retail"
+        ],
+        "countries": [
+          "france",
+          "germany",
+          "netherlands",
+          "uk",
+          "usa"
+        ],
+        "languages": [
+          "dutch",
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "lisa-chernova",
       "url": "/team/lisa-chernova",
       "title": "Лиза Чернова",
@@ -2490,7 +2566,9 @@
       "paid-social-for-apps": "Реклама в соцсетях",
       "local-services-ads": "Реклама Local Services Ads",
       "microsoft-ads": "Microsoft Ads",
-      "remarketing-display": "Ремаркетинг и медийная реклама"
+      "remarketing-display": "Ремаркетинг и медийная реклама",
+      "linkedin-ads": "Реклама в LinkedIn",
+      "meta-ads": "Meta Ads"
     },
     "services": {
       "aeo": "AEO",
