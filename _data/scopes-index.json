@@ -1378,7 +1378,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 9,
+      "expert_count": 10,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 4,
@@ -1398,6 +1398,7 @@
           "md-solayman-rumon",
           "netanel-kugler",
           "levy-van-t-hoogt",
+          "matheus-santos",
           "aldillah-melisa-febryana"
         ],
         "cases": [
@@ -1597,7 +1598,7 @@
       "featured": true,
       "from_price": 400,
       "delivery": "monthly",
-      "expert_count": 8,
+      "expert_count": 9,
       "industry_count": 5,
       "country_count": 6,
       "language_count": 4,
@@ -1616,6 +1617,7 @@
           "md-solayman-rumon",
           "netanel-kugler",
           "levy-van-t-hoogt",
+          "matheus-santos",
           "aldillah-melisa-febryana"
         ],
         "solutions": [
@@ -2242,7 +2244,7 @@
       "featured": true,
       "from_price": 1000,
       "delivery": "monthly",
-      "expert_count": 1,
+      "expert_count": 2,
       "industry_count": 6,
       "country_count": 6,
       "language_count": 6,
@@ -2252,7 +2254,8 @@
           "performance-marketing"
         ],
         "experts": [
-          "levy-van-t-hoogt"
+          "levy-van-t-hoogt",
+          "matheus-santos"
         ],
         "solutions": [
           "b2b-digital-marketing",
@@ -4220,6 +4223,7 @@
       "md-solayman-rumon": "Md Solayman Rumon",
       "netanel-kugler": "Netanel Kugler",
       "levy-van-t-hoogt": "Levy van 't Hoogt",
+      "matheus-santos": "Matheus Santos",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "merdangeldi-bayramov": "Merdangeldi Bayramov",
       "lalit-kumar": "Lalit Kumar",

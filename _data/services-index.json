@@ -1017,7 +1017,7 @@
       "menu": "CRO",
       "featured": false,
       "scope_count": 1,
-      "expert_count": 8,
+      "expert_count": 9,
       "starting_price": 500.0,
       "from_price": 500.0,
       "industry_count": 2,
@@ -1044,6 +1044,7 @@
           "brankica-petrasinovic",
           "gael-balouek",
           "levy-van-t-hoogt",
+          "matheus-santos",
           "md-solayman-rumon",
           "muhammad-hijazi-siddiqui",
           "shani-mor",
@@ -1246,7 +1247,7 @@
       "menu": "Marketplace Management",
       "featured": false,
       "scope_count": 1,
-      "expert_count": 1,
+      "expert_count": 2,
       "starting_price": 600.0,
       "from_price": 600.0,
       "industry_count": 2,
@@ -1263,7 +1264,8 @@
           "content-rewriting"
         ],
         "experts": [
-          "vitali-bakun"
+          "vitali-bakun",
+          "matheus-santos"
         ],
         "solutions": [
           "seo-ecommerce"
@@ -1460,7 +1462,7 @@
       "menu": "Paid Social",
       "featured": true,
       "scope_count": 6,
-      "expert_count": 9,
+      "expert_count": 10,
       "starting_price": 300.0,
       "from_price": 300.0,
       "industry_count": 3,
@@ -1489,6 +1491,7 @@
           "can-erim",
           "ismail-aydogdu",
           "levy-van-t-hoogt",
+          "matheus-santos",
           "md-solayman-rumon",
           "muhammad-hijazi-siddiqui",
           "netanel-kugler"
@@ -1595,7 +1598,7 @@
       "menu": "PPC",
       "featured": true,
       "scope_count": 9,
-      "expert_count": 11,
+      "expert_count": 12,
       "starting_price": 400.0,
       "from_price": 400.0,
       "industry_count": 6,
@@ -1629,6 +1632,7 @@
           "can-erim",
           "ismail-aydogdu",
           "levy-van-t-hoogt",
+          "matheus-santos",
           "md-solayman-rumon",
           "moataz-yacoubian",
           "ndeye-binta-diouf",
@@ -2466,6 +2470,7 @@
       "merdangeldi-bayramov": "Merdangeldi Bayramov",
       "rita-pavide": "Rita Pavide",
       "robmar-macallums": "Robmar Macallums",
+      "matheus-santos": "Matheus Santos",
       "aldillah-melisa-febryana": "Aldillah Melisa Febryana",
       "can-erim": "Can Erim",
       "netanel-kugler": "Netanel Kugler",
