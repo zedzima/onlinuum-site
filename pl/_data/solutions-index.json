@@ -30,11 +30,13 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -85,6 +87,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -179,6 +182,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -206,6 +210,100 @@
           "marketing-consultant"
         ]
       }
+    },
+    {
+      "slug": "seo-ecommerce",
+      "url": "/solutions/seo-ecommerce",
+      "title": "Pozycjonowanie sklepu internetowego: katalog i produkty",
+      "description": "Pozycjonowanie sklepu internetowego: indeksacja katalogu, pozycje kart produktów i ochrona widoczności przy tysiącach SKU. Umów konsultację.",
+      "menu": "SEO dla e-commerce",
+      "featured": false,
+      "scope": "seo-audit",
+      "industry": "ecommerce",
+      "starting_price": 1990.0,
+      "expert_count": 3,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "growth-marketing"
+        ],
+        "scopes": [
+          "seo-audit",
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "polish",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
     }
   ],
   "labels": {
@@ -226,11 +324,13 @@
       "aso-localization": "Lokalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Paid social dla aplikacji",
       "app-store-cro": "CRO karty aplikacji",
       "app-retention": "Retencja aplikacji",
       "content-strategy": "Strategia treści",
       "google-ads-search": "Reklama w Google",
       "google-shopping": "Google Shopping",
+      "local-services-ads": "Prowadzenie Local Services Ads",
       "ppc-audit": "Audyt Google Ads",
       "seo-audit": "Kompleksowy audyt SEO",
       "social-media-audit-strategy": "Audyt i strategia social media",
@@ -241,14 +341,16 @@
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
-      "vitali-bakun": "Vitali Bakun"
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "services": {
       "content": "Content marketing",
       "aso": "ASO aplikacji",
       "app-user-acquisition": "Pozyskiwanie użytkowników aplikacji",
       "seo": "Pozycjonowanie",
-      "ppc": "Google Ads"
+      "ppc": "Google Ads",
+      "cro": "Optymalizacja konwersji"
     },
     "industries": {
       "saas": "SaaS",
@@ -281,6 +383,7 @@
       "japan": "Japonia",
       "malaysia": "Malezja",
       "netherlands": "Holandia",
+      "new-zealand": "Nowa Zelandia",
       "romania": "Rumunia",
       "singapore": "Singapur",
       "south-korea": "Korea Południowa",

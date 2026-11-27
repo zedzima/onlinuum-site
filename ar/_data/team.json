@@ -35,6 +35,9 @@
           "seo-research",
           "technical-seo"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "services": [
           "content",
           "seo"
@@ -114,6 +117,7 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "ppc-audit",
           "seo-audit"
         ],
@@ -121,6 +125,7 @@
           "alvadi"
         ],
         "solutions": [
+          "seo-ecommerce",
           "digital-marketing-consulting",
           "multilingual-seo"
         ],
@@ -158,6 +163,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -218,6 +224,7 @@
         "scopes": [
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -226,7 +233,8 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "ppc"
@@ -254,6 +262,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "spain",
@@ -292,11 +301,18 @@
       "aso-optimization": "تحسين ASO",
       "content-strategy": "استراتيجية المحتوى",
       "google-app-campaigns": "حملات التطبيقات في Google",
+      "paid-social-for-apps": "إعلانات التواصل للتطبيقات",
       "ppc-audit": "تدقيق PPC",
       "seo-audit": "تدقيق SEO",
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
+      "local-services-ads": "إعلانات الخدمات المحلية",
       "youtube-ads": "YouTube Ads"
+    },
+    "solutions": {
+      "seo-ecommerce": "السيو للمتاجر الإلكترونية",
+      "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "multilingual-seo": "multilingual SEO"
     },
     "services": {
       "content": "التسويق بالمحتوى",
@@ -332,6 +348,7 @@
       "japan": "اليابان",
       "malaysia": "ماليزيا",
       "netherlands": "هولندا",
+      "new-zealand": "نيوزيلندا",
       "singapore": "سنغافورة",
       "south-korea": "كوريا الجنوبية",
       "sweden": "السويد",
@@ -352,10 +369,6 @@
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "solutions": {
-      "digital-marketing-consulting": "استشارات التسويق الرقمي",
-      "multilingual-seo": "multilingual SEO"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",

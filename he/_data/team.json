@@ -35,6 +35,9 @@
           "seo-research",
           "technical-seo"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "services": [
           "content",
           "seo"
@@ -114,6 +117,7 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "ppc-audit",
           "seo-audit"
         ],
@@ -121,6 +125,7 @@
           "alvadi"
         ],
         "solutions": [
+          "seo-ecommerce",
           "digital-marketing-consulting",
           "multilingual-seo"
         ],
@@ -158,6 +163,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -217,6 +223,7 @@
         "scopes": [
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -225,7 +232,8 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "ppc"
@@ -253,6 +261,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "spain",
@@ -291,11 +300,18 @@
       "aso-optimization": "אופטימיזציית ASO",
       "content-strategy": "אסטרטגיית תוכן",
       "google-app-campaigns": "קמפייני אפליקציות בגוגל",
+      "paid-social-for-apps": "רשתות חברתיות ממומנות לאפליקציות",
       "ppc-audit": "אודיט PPC",
       "seo-audit": "אודיט SEO",
       "google-ads-search": "קמפיין חיפוש בגוגל",
       "google-shopping": "פרסום בגוגל שופינג",
+      "local-services-ads": "מודעות לשירותים מקומיים (LSA)",
       "youtube-ads": "פרסום ביוטיוב"
+    },
+    "solutions": {
+      "seo-ecommerce": "SEO למסחר אלקטרוני",
+      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
+      "multilingual-seo": "קידום אתרים בינלאומי"
     },
     "services": {
       "content": "שיווק תוכן",
@@ -331,6 +347,7 @@
       "japan": "יפן",
       "malaysia": "מלזיה",
       "netherlands": "הולנד",
+      "new-zealand": "ניו זילנד",
       "singapore": "סינגפור",
       "south-korea": "דרום קוריאה",
       "sweden": "שוודיה",
@@ -350,10 +367,6 @@
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "solutions": {
-      "digital-marketing-consulting": "ייעוץ שיווק דיגיטלי",
-      "multilingual-seo": "קידום אתרים בינלאומי"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "איך AI בוחר מקורות",

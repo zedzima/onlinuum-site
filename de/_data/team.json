@@ -35,6 +35,9 @@
           "seo-research",
           "technical-seo"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "services": [
           "content",
           "seo"
@@ -114,6 +117,7 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "ppc-audit",
           "seo-audit"
         ],
@@ -121,6 +125,7 @@
           "alvadi"
         ],
         "solutions": [
+          "seo-ecommerce",
           "digital-marketing-consulting",
           "multilingual-seo"
         ],
@@ -159,6 +164,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -218,6 +224,7 @@
         "scopes": [
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -226,7 +233,8 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "ppc"
@@ -255,6 +263,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "spain",
@@ -294,11 +303,18 @@
       "aso-optimization": "ASO-Optimierung",
       "content-strategy": "Content-Strategie",
       "google-app-campaigns": "Google-App-Kampagnen",
+      "paid-social-for-apps": "Paid Social für Apps",
       "ppc-audit": "Google Ads Audit",
       "seo-audit": "SEO-Audit",
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
+      "local-services-ads": "Local Services Ads Betreuung",
       "youtube-ads": "YouTube-Werbung"
+    },
+    "solutions": {
+      "seo-ecommerce": "SEO für Online-Shops",
+      "digital-marketing-consulting": "Online-Marketing-Beratung",
+      "multilingual-seo": "Mehrsprachige SEO"
     },
     "services": {
       "content": "Content-Marketing",
@@ -335,6 +351,7 @@
       "japan": "Japan",
       "malaysia": "Malaysia",
       "netherlands": "Niederlande",
+      "new-zealand": "Neuseeland",
       "singapore": "Singapur",
       "south-korea": "Südkorea",
       "sweden": "Schweden",
@@ -355,10 +372,6 @@
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "solutions": {
-      "digital-marketing-consulting": "Online-Marketing-Beratung",
-      "multilingual-seo": "Mehrsprachige SEO"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Wie KI Quellen wählt",

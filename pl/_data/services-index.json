@@ -7,7 +7,7 @@
       "description": "User acquisition dla aplikacji: Apple Search Ads, Google App Campaigns (Google UAC) i płatne social media pod instalacje. Zobacz cennik.",
       "menu": "Pozyskiwanie użytkowników aplikacji",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -25,7 +25,8 @@
         ],
         "scopes": [
           "apple-search-ads",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "experts": [
           "dima-gerko"
@@ -61,6 +62,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -140,6 +142,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -197,7 +200,8 @@
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "industries": [
           "ecommerce",
@@ -230,6 +234,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -283,6 +288,9 @@
           "performance-marketing",
           "product-marketing"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "industries": [
           "ecommerce",
           "saas"
@@ -306,6 +314,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -370,6 +379,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -394,7 +404,7 @@
       "description": "Prowadzenie kampanii Google Ads: wyszukiwarka, Shopping i remarketing. Kampanie osobno dla każdego rynku, Starter od 400 USD/mies.",
       "menu": "Google Ads",
       "featured": true,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -414,7 +424,8 @@
           "ppc-audit",
           "google-ads-search",
           "google-shopping",
-          "youtube-ads"
+          "youtube-ads",
+          "local-services-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -456,6 +467,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -513,6 +525,7 @@
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
+          "seo-ecommerce",
           "multilingual-seo",
           "digital-marketing-consulting"
         ],
@@ -547,6 +560,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -632,6 +646,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -666,6 +681,7 @@
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Paid social dla aplikacji",
       "aso-optimization": "Optymalizacja aplikacji",
       "aso-localization": "Lokalizacja aplikacji",
       "seo-research": "Analiza SEO",
@@ -675,6 +691,7 @@
       "google-ads-search": "Reklama w Google",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
+      "local-services-ads": "Prowadzenie Local Services Ads",
       "seo-audit": "Kompleksowy audyt SEO",
       "technical-seo": "SEO techniczne",
       "social-media-audit-strategy": "Audyt i strategia social media",
@@ -689,6 +706,7 @@
     },
     "solutions": {
       "digital-marketing-consulting": "Doradztwo marketingowe",
+      "seo-ecommerce": "SEO dla e-commerce",
       "multilingual-seo": "Pozycjonowanie zagraniczne"
     },
     "industries": {
@@ -721,6 +739,7 @@
       "italy": "Włochy",
       "japan": "Japonia",
       "netherlands": "Holandia",
+      "new-zealand": "Nowa Zelandia",
       "singapore": "Singapur",
       "south-korea": "Korea Południowa",
       "sweden": "Szwecja",

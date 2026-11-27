@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Gestione Local Services Ads: pagamento per lead",
+    "description": "Gestione Local Services Ads: configurazione del profilo, verifica e qualità dei lead. Pay per lead qualificato, da 300 $/mese. Vedi i prezzi.",
+    "lang": "it",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "Pubblicità app sui social: installazioni con Meta e TikTok",
+    "description": "Pubblicità app sui social: strategia dei canali, test creativi e ottimizzazione delle offerte su Meta e TikTok. Da 200 $/mese. Vedete i prezzi.",
+    "lang": "it",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "Audit Google Ads: Analisi Account e Sprechi",

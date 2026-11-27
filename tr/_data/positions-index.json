@@ -54,7 +54,8 @@
           "app-store-cro",
           "apple-search-ads",
           "app-retention",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -79,7 +80,8 @@
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "polish"
         ]
       },
       "services": [
@@ -307,6 +309,7 @@
           "spanish",
           "italian",
           "dutch",
+          "polish",
           "turkish",
           "japanese",
           "arabic",
@@ -412,6 +415,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -528,7 +532,8 @@
         ],
         "solutions": [
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -564,6 +569,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -575,6 +581,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "japanese",
           "arabic",
           "dutch",
@@ -705,6 +712,7 @@
         ],
         "languages": [
           "english",
+          "polish",
           "spanish",
           "turkish"
         ]
@@ -763,6 +771,7 @@
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "Kullanıcı Elde Tutma",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Uygulamalar için Ücretli Sosyal Medya",
       "seo-research": "SEO Araştırması",
       "content-strategy": "İçerik Stratejisi",
       "telegram-ads": "Telegram Reklamları",
@@ -770,6 +779,7 @@
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
+      "local-services-ads": "Local Services Ads (LSA)",
       "technical-seo": "Teknik SEO",
       "seo-audit": "SEO Analizi",
       "telegram-channel-placements": "Telegram Kanal Yerleşimleri",
@@ -779,7 +789,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
-      "multilingual-seo": "Uluslararası SEO"
+      "multilingual-seo": "Uluslararası SEO",
+      "seo-ecommerce": "E-ticaret için SEO"
     },
     "services": {
       "aso": "ASO Hizmeti",
@@ -824,6 +835,7 @@
       "greece": "Yunanistan",
       "ireland": "İrlanda",
       "israel": "İsrail",
+      "new-zealand": "Yeni Zelanda",
       "romania": "Romanya",
       "south-korea": "Güney Kore",
       "switzerland": "İsviçre"
@@ -831,6 +843,7 @@
     "languages": {
       "english": "İngilizce",
       "spanish": "İspanyolca",
+      "polish": "Lehçe",
       "italian": "İtalyanca",
       "dutch": "Felemenkçe",
       "arabic": "Arapça",

@@ -30,11 +30,13 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -85,6 +87,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -95,6 +98,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -178,6 +182,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -188,6 +193,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -202,6 +208,100 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "seo-ecommerce",
+      "url": "/solutions/seo-ecommerce",
+      "title": "ECサイトのSEO対策｜カタログのクロールと商品ページの順位",
+      "description": "ネットショップのためのECサイトのSEO対策。数千のSKUにわたるカタログのクロール、商品ページの順位、検索評価の損失を改善します。ご相談を予約する。",
+      "menu": "ECサイトのSEO対策",
+      "featured": false,
+      "scope": "seo-audit",
+      "industry": "ecommerce",
+      "starting_price": 1990.0,
+      "expert_count": 3,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "growth-marketing"
+        ],
+        "scopes": [
+          "seo-audit",
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "polish",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     }
@@ -224,11 +324,13 @@
       "aso-localization": "アプリの多言語対応",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google アプリキャンペーン",
+      "paid-social-for-apps": "アプリのSNS広告",
       "app-store-cro": "App Store CRO",
       "app-retention": "アプリのリテンション",
       "content-strategy": "コンテンツ戦略",
       "google-ads-search": "Google広告・検索広告",
       "google-shopping": "Googleショッピング広告",
+      "local-services-ads": "ローカルサービス広告",
       "ppc-audit": "広告アカウント診断",
       "seo-audit": "SEO診断",
       "social-media-audit-strategy": "SNS診断・戦略",
@@ -239,14 +341,16 @@
     },
     "experts": {
       "dima-gerko": "ディマ・ゲルコ",
-      "vitali-bakun": "ヴィタリー・バクン"
+      "vitali-bakun": "ヴィタリー・バクン",
+      "alaaddin-saracyakupoglu": "アラアッディン・サラジュヤクプオール"
     },
     "services": {
       "content": "コンテンツマーケティング",
       "aso": "ASO対策",
       "app-user-acquisition": "アプリの集客と広告運用",
       "seo": "SEO対策",
-      "ppc": "リスティング広告"
+      "ppc": "リスティング広告",
+      "cro": "CRO（CVR改善）"
     },
     "industries": {
       "saas": "SaaS",
@@ -279,6 +383,7 @@
       "japan": "日本",
       "malaysia": "マレーシア",
       "netherlands": "オランダ",
+      "new-zealand": "ニュージーランド",
       "romania": "ルーマニア",
       "singapore": "シンガポール",
       "south-korea": "韓国",
@@ -289,6 +394,7 @@
     "languages": {
       "english": "英語",
       "spanish": "スペイン語",
+      "polish": "ポーランド語",
       "arabic": "アラビア語",
       "dutch": "オランダ語",
       "greek": "ギリシャ語",

@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Gestión de Local Services Ads: Pago por Lead",
+    "description": "Gestión de Local Services Ads: alta y verificación del perfil LSA y revisión de la calidad de los leads. Pago por lead cualificado, desde 300 $/mes.",
+    "lang": "es",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "Publicidad para Apps en Meta y TikTok: Paid Social",
+    "description": "Publicidad para apps en redes sociales: estrategia de canales, test creativo y optimización de pujas en Meta y TikTok. Desde 200 $/mes. Ver precios.",
+    "lang": "es",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "Auditoría SEM: Gasto, Medición y Crecimiento",

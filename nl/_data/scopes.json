@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Beheer van Local Services Ads: betalen per lead",
+    "description": "Beheer van Local Services Ads: inrichting en verificatie van je LSA-profiel en controle op leadkwaliteit. Per lead, vanaf $ 300/maand. Bekijk de prijzen.",
+    "lang": "nl",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "Paid social voor apps: Meta app install en TikTok",
+    "description": "Paid social voor app installs: kanaalstrategie, creatietests en biedoptimalisatie voor Meta en TikTok. Vanaf $ 200/maand. Bekijk de prijzen.",
+    "lang": "nl",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "Google Ads Audit: Budget, Tracking en Groei",

@@ -54,7 +54,8 @@
           "app-store-cro",
           "apple-search-ads",
           "app-retention",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -81,7 +82,8 @@
         "languages": [
           "english",
           "german",
-          "spanish"
+          "spanish",
+          "polish"
         ]
       },
       "services": [
@@ -312,6 +314,7 @@
           "spanish",
           "italian",
           "dutch",
+          "polish",
           "japanese",
           "arabic",
           "english"
@@ -416,6 +419,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -534,7 +538,8 @@
         ],
         "solutions": [
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -571,6 +576,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -582,6 +588,7 @@
           "english",
           "german",
           "spanish",
+          "polish",
           "japanese",
           "arabic",
           "dutch",
@@ -712,6 +719,7 @@
         "languages": [
           "english",
           "german",
+          "polish",
           "spanish"
         ]
       },
@@ -769,6 +777,7 @@
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "App-Retention",
       "google-app-campaigns": "Google-App-Kampagnen",
+      "paid-social-for-apps": "Paid Social für Apps",
       "seo-research": "SEO-Recherche",
       "content-strategy": "Content-Strategie",
       "telegram-ads": "Telegram-Werbung",
@@ -776,6 +785,7 @@
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
       "youtube-ads": "YouTube-Werbung",
+      "local-services-ads": "Local Services Ads Betreuung",
       "technical-seo": "Technisches SEO",
       "seo-audit": "SEO-Audit",
       "telegram-channel-placements": "Platzierungen in Telegram-Kanälen",
@@ -785,7 +795,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "Online-Marketing-Beratung",
-      "multilingual-seo": "Mehrsprachige SEO"
+      "multilingual-seo": "Mehrsprachige SEO",
+      "seo-ecommerce": "SEO für Online-Shops"
     },
     "services": {
       "aso": "App-Store-Optimierung",
@@ -830,6 +841,7 @@
       "greece": "Griechenland",
       "ireland": "Irland",
       "israel": "Israel",
+      "new-zealand": "Neuseeland",
       "romania": "Rumänien",
       "south-korea": "Südkorea",
       "switzerland": "Schweiz"
@@ -838,6 +850,7 @@
       "english": "Englisch",
       "german": "Deutsch",
       "spanish": "Spanisch",
+      "polish": "Polnisch",
       "italian": "Italienisch",
       "dutch": "Niederländisch",
       "arabic": "Arabisch",

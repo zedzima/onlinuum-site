@@ -8,11 +8,11 @@
       "menu": "Otomotiv",
       "featured": false,
       "icon": "automotive",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -29,6 +29,7 @@
           "content-strategy",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "telegram-ads",
@@ -46,6 +47,7 @@
           "alvadi"
         ],
         "solutions": [
+          "seo-ecommerce",
           "multilingual-seo",
           "digital-marketing-consulting"
         ],
@@ -78,6 +80,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "romania",
           "south-korea",
           "sweden",
@@ -88,6 +91,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -115,11 +119,11 @@
       "menu": "E-ticaret",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 21,
+      "scope_count": 22,
       "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -138,6 +142,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -164,6 +169,7 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
+          "seo-ecommerce",
           "multilingual-seo"
         ],
         "services": [
@@ -200,6 +206,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -211,6 +218,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -242,11 +250,11 @@
       "menu": "Fintech ve Bankacılık",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -265,6 +273,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -283,7 +292,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -317,6 +327,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -328,6 +339,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -358,11 +370,11 @@
       "menu": "Sanayi",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -380,6 +392,7 @@
           "content-writing",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit"
         ],
@@ -388,6 +401,7 @@
           "dima-gerko"
         ],
         "solutions": [
+          "seo-ecommerce",
           "multilingual-seo",
           "digital-marketing-consulting"
         ],
@@ -420,6 +434,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -431,6 +446,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "indonesian",
@@ -457,11 +473,11 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 20,
+      "scope_count": 21,
       "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -480,6 +496,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -505,7 +522,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -541,6 +559,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -552,6 +571,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -593,6 +613,7 @@
       "content-strategy": "İçerik Stratejisi",
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
+      "local-services-ads": "Local Services Ads (LSA)",
       "ppc-audit": "Reklam Analizi",
       "seo-audit": "SEO Analizi",
       "telegram-ads": "Telegram Reklamları",
@@ -605,6 +626,7 @@
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Uygulamalar için Ücretli Sosyal Medya",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "content-writing": "İçerik Yazarlığı",
@@ -620,6 +642,7 @@
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
+      "seo-ecommerce": "E-ticaret için SEO",
       "multilingual-seo": "Uluslararası SEO",
       "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı"
     },
@@ -655,6 +678,7 @@
       "italy": "İtalya",
       "japan": "Japonya",
       "netherlands": "Hollanda",
+      "new-zealand": "Yeni Zelanda",
       "romania": "Romanya",
       "south-korea": "Güney Kore",
       "sweden": "İsveç",
@@ -668,6 +692,7 @@
     "languages": {
       "english": "İngilizce",
       "spanish": "İspanyolca",
+      "polish": "Lehçe",
       "arabic": "Arapça",
       "dutch": "Felemenkçe",
       "greek": "Yunanca",

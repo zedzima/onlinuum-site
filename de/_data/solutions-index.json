@@ -30,11 +30,13 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -86,6 +88,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -97,6 +100,7 @@
           "english",
           "german",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -181,6 +185,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -192,6 +197,7 @@
           "english",
           "german",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -206,6 +212,102 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "seo-ecommerce",
+      "url": "/solutions/seo-ecommerce",
+      "title": "SEO für Online-Shops: Katalog crawlbar machen",
+      "description": "SEO für Online-Shops: Crawlbarkeit des Katalogs, Rankings der Produktseiten und Schutz der Suchsignale über Tausende SKUs. Beratung buchen.",
+      "menu": "SEO für Online-Shops",
+      "featured": false,
+      "scope": "seo-audit",
+      "industry": "ecommerce",
+      "starting_price": 1990.0,
+      "expert_count": 3,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "growth-marketing"
+        ],
+        "scopes": [
+          "seo-audit",
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "germany",
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "spanish",
+          "polish",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     }
@@ -228,11 +330,13 @@
       "aso-localization": "App-Lokalisierung",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google-App-Kampagnen",
+      "paid-social-for-apps": "Paid Social für Apps",
       "app-store-cro": "App-Store-CRO",
       "app-retention": "App-Retention",
       "content-strategy": "Content-Strategie",
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
+      "local-services-ads": "Local Services Ads Betreuung",
       "ppc-audit": "Google Ads Audit",
       "seo-audit": "SEO-Audit",
       "social-media-audit-strategy": "Social-Media-Audit und -Strategie",
@@ -243,14 +347,16 @@
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
-      "vitali-bakun": "Vitali Bakun"
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "services": {
       "content": "Content-Marketing",
       "aso": "App-Store-Optimierung",
       "app-user-acquisition": "User Acquisition für Apps",
       "seo": "SEO-Leistungen",
-      "ppc": "Google Ads"
+      "ppc": "Google Ads",
+      "cro": "Conversion-Optimierung"
     },
     "industries": {
       "saas": "SaaS",
@@ -284,6 +390,7 @@
       "japan": "Japan",
       "malaysia": "Malaysia",
       "netherlands": "Niederlande",
+      "new-zealand": "Neuseeland",
       "romania": "Rumänien",
       "singapore": "Singapur",
       "south-korea": "Südkorea",
@@ -295,6 +402,7 @@
       "english": "Englisch",
       "german": "Deutsch",
       "spanish": "Spanisch",
+      "polish": "Polnisch",
       "arabic": "Arabisch",
       "dutch": "Niederländisch",
       "greek": "Griechisch",

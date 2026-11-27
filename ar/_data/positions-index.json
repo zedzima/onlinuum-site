@@ -54,7 +54,8 @@
           "app-store-cro",
           "apple-search-ads",
           "app-retention",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -79,7 +80,8 @@
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "polish"
         ]
       },
       "services": [
@@ -308,6 +310,7 @@
           "spanish",
           "italian",
           "dutch",
+          "polish",
           "japanese",
           "arabic",
           "english"
@@ -412,6 +415,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -529,7 +533,8 @@
         ],
         "solutions": [
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -565,6 +570,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -576,6 +582,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "japanese",
           "arabic",
           "dutch",
@@ -705,6 +712,7 @@
         ],
         "languages": [
           "english",
+          "polish",
           "spanish"
         ]
       },
@@ -762,6 +770,7 @@
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "google-app-campaigns": "حملات التطبيقات في Google",
+      "paid-social-for-apps": "إعلانات التواصل للتطبيقات",
       "seo-research": "أبحاث السيو",
       "content-strategy": "استراتيجية المحتوى",
       "telegram-ads": "إعلانات تليجرام",
@@ -769,6 +778,7 @@
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
+      "local-services-ads": "إعلانات الخدمات المحلية",
       "technical-seo": "السيو التقني",
       "seo-audit": "تدقيق SEO",
       "telegram-channel-placements": "المواضع المدمجة في قنوات تليجرام",
@@ -778,7 +788,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "استشارات التسويق الرقمي",
-      "multilingual-seo": "multilingual SEO"
+      "multilingual-seo": "multilingual SEO",
+      "seo-ecommerce": "السيو للمتاجر الإلكترونية"
     },
     "services": {
       "aso": "تحسين متجر التطبيقات ASO",
@@ -823,6 +834,7 @@
       "greece": "اليونان",
       "ireland": "أيرلندا",
       "israel": "إسرائيل",
+      "new-zealand": "نيوزيلندا",
       "romania": "رومانيا",
       "south-korea": "كوريا الجنوبية",
       "switzerland": "سويسرا"
@@ -830,6 +842,7 @@
     "languages": {
       "english": "الإنجليزية",
       "spanish": "الإسبانية",
+      "polish": "البولندية",
       "italian": "الإيطالية",
       "dutch": "الهولندية",
       "arabic": "العربية",

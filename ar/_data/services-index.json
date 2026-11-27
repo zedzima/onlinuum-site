@@ -7,7 +7,7 @@
       "description": "خدمات app user acquisition: إعلانات Apple Search Ads وGoogle App Campaigns والإعلانات المدفوعة على وسائل التواصل لزيادة التثبيتات. اطلعوا على الأسعار.",
       "menu": "اكتساب مستخدمي التطبيقات",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -25,7 +25,8 @@
         ],
         "scopes": [
           "apple-search-ads",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "experts": [
           "dima-gerko"
@@ -61,6 +62,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -70,6 +72,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -140,6 +143,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -149,6 +153,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -197,7 +202,8 @@
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "industries": [
           "ecommerce",
@@ -230,6 +236,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -241,6 +248,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -283,6 +291,9 @@
           "performance-marketing",
           "product-marketing"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "industries": [
           "ecommerce",
           "saas"
@@ -306,6 +317,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -371,6 +383,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -396,7 +409,7 @@
       "description": "الإعلانات الممولة للبحث والتسوق وإعادة الاستهداف، بحملات لكل سوق وسعر معلن. ابدأوا بباقة PPC Starter من $400 شهريًا.",
       "menu": "PPC",
       "featured": true,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -416,7 +429,8 @@
           "ppc-audit",
           "google-ads-search",
           "google-shopping",
-          "youtube-ads"
+          "youtube-ads",
+          "local-services-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -458,6 +472,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -516,6 +531,7 @@
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
+          "seo-ecommerce",
           "multilingual-seo",
           "digital-marketing-consulting"
         ],
@@ -550,6 +566,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -561,6 +578,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -635,6 +653,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -670,6 +689,7 @@
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "حملات التطبيقات في Google",
+      "paid-social-for-apps": "إعلانات التواصل للتطبيقات",
       "aso-optimization": "تحسين ASO",
       "aso-localization": "توطين ASO",
       "seo-research": "أبحاث السيو",
@@ -679,6 +699,7 @@
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
+      "local-services-ads": "إعلانات الخدمات المحلية",
       "seo-audit": "تدقيق SEO",
       "technical-seo": "السيو التقني",
       "social-media-audit-strategy": "تدقيق السوشيال ميديا واستراتيجيتها",
@@ -693,6 +714,7 @@
     },
     "solutions": {
       "digital-marketing-consulting": "استشارات التسويق الرقمي",
+      "seo-ecommerce": "السيو للمتاجر الإلكترونية",
       "multilingual-seo": "multilingual SEO"
     },
     "industries": {
@@ -725,6 +747,7 @@
       "italy": "إيطاليا",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "new-zealand": "نيوزيلندا",
       "singapore": "سنغافورة",
       "south-korea": "كوريا الجنوبية",
       "sweden": "السويد",
@@ -737,6 +760,7 @@
     "languages": {
       "english": "الإنجليزية",
       "spanish": "الإسبانية",
+      "polish": "البولندية",
       "dutch": "الهولندية",
       "greek": "اليونانية",
       "italian": "الإيطالية",

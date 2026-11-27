@@ -54,7 +54,8 @@
           "app-store-cro",
           "apple-search-ads",
           "app-retention",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -79,7 +80,8 @@
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "polish"
         ]
       },
       "services": [
@@ -306,6 +308,7 @@
           "spanish",
           "italian",
           "dutch",
+          "polish",
           "japanese",
           "arabic",
           "english"
@@ -410,6 +413,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -526,7 +530,8 @@
         ],
         "solutions": [
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -562,6 +567,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -572,6 +578,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "japanese",
           "arabic",
           "dutch",
@@ -700,6 +707,7 @@
         ],
         "languages": [
           "english",
+          "polish",
           "spanish"
         ]
       },
@@ -757,6 +765,7 @@
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "アプリのリテンション",
       "google-app-campaigns": "Google アプリキャンペーン",
+      "paid-social-for-apps": "アプリのSNS広告",
       "seo-research": "キーワード選定",
       "content-strategy": "コンテンツ戦略",
       "telegram-ads": "Telegram Ads",
@@ -764,6 +773,7 @@
       "google-ads-search": "Google広告・検索広告",
       "google-shopping": "Googleショッピング広告",
       "youtube-ads": "YouTube広告",
+      "local-services-ads": "ローカルサービス広告",
       "technical-seo": "テクニカルSEO",
       "seo-audit": "SEO診断",
       "telegram-channel-placements": "Telegramチャンネル純広告",
@@ -773,7 +783,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "マーケティングコンサルティング",
-      "multilingual-seo": "多言語SEO"
+      "multilingual-seo": "多言語SEO",
+      "seo-ecommerce": "ECサイトのSEO対策"
     },
     "services": {
       "aso": "ASO対策",
@@ -817,6 +828,7 @@
       "greece": "ギリシャ",
       "ireland": "アイルランド",
       "israel": "イスラエル",
+      "new-zealand": "ニュージーランド",
       "romania": "ルーマニア",
       "south-korea": "韓国",
       "switzerland": "スイス"
@@ -824,6 +836,7 @@
     "languages": {
       "english": "英語",
       "spanish": "スペイン語",
+      "polish": "ポーランド語",
       "italian": "イタリア語",
       "dutch": "オランダ語",
       "arabic": "アラビア語",

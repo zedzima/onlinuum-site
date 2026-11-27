@@ -35,6 +35,9 @@
           "seo-research",
           "technical-seo"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "services": [
           "content",
           "seo"
@@ -114,6 +117,7 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "ppc-audit",
           "seo-audit"
         ],
@@ -121,6 +125,7 @@
           "alvadi"
         ],
         "solutions": [
+          "seo-ecommerce",
           "digital-marketing-consulting",
           "multilingual-seo"
         ],
@@ -158,6 +163,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -217,6 +223,7 @@
         "scopes": [
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -225,7 +232,8 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "ppc"
@@ -253,6 +261,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "spain",
@@ -291,11 +300,18 @@
       "aso-optimization": "ASO 최적화",
       "content-strategy": "콘텐츠 기획",
       "google-app-campaigns": "구글 앱 캠페인",
+      "paid-social-for-apps": "앱을 위한 유료 소셜",
       "ppc-audit": "광고 성과 분석",
       "seo-audit": "SEO 점검",
       "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
+      "local-services-ads": "Google 지역 서비스 광고",
       "youtube-ads": "유튜브 광고"
+    },
+    "solutions": {
+      "seo-ecommerce": "쇼핑몰 SEO",
+      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
+      "multilingual-seo": "다국어 SEO"
     },
     "services": {
       "content": "콘텐츠 마케팅",
@@ -331,6 +347,7 @@
       "japan": "일본",
       "malaysia": "말레이시아",
       "netherlands": "네덜란드",
+      "new-zealand": "뉴질랜드",
       "singapore": "싱가포르",
       "south-korea": "대한민국",
       "sweden": "스웨덴",
@@ -350,10 +367,6 @@
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "solutions": {
-      "digital-marketing-consulting": "디지털 마케팅 컨설팅",
-      "multilingual-seo": "다국어 SEO"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AI가 출처를 고르는 방식",

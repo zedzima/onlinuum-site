@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Local Services Ads Yönetimi: Lead Başına Ödeme",
+    "description": "Local Services Ads yönetimi: LSA profil kurulumu, doğrulama ve lead kalitesi incelemesi. Nitelikli lead başına ödeme, aylık 300 $'dan. Fiyatları görün.",
+    "lang": "tr",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "Uygulama Reklamı Verme: Meta ve TikTok'ta Yükleme",
+    "description": "Sosyal medyada uygulama reklamı verme: Meta ve TikTok'ta kanal stratejisi, kreatif testleri ve teklif optimizasyonu. Aylık 200 $'dan başlar.",
+    "lang": "tr",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "Google Reklam Analizi: Bütçe, İzleme, Büyüme",

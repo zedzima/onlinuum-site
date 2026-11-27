@@ -30,11 +30,13 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -85,6 +87,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -96,6 +99,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -179,6 +183,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -190,6 +195,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -204,6 +210,101 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "seo-ecommerce",
+      "url": "/solutions/seo-ecommerce",
+      "title": "Ecommerce SEO: فهرسة الكتالوج وترتيب صفحات المنتجات",
+      "description": "Ecommerce SEO للمتاجر الإلكترونية: زحف سليم إلى الكتالوج، وترتيب صفحات المنتجات، وحماية قيمة البحث عبر آلاف المنتجات. احجزوا استشارة.",
+      "menu": "السيو للمتاجر الإلكترونية",
+      "featured": false,
+      "scope": "seo-audit",
+      "industry": "ecommerce",
+      "starting_price": 1990.0,
+      "expert_count": 3,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "growth-marketing"
+        ],
+        "scopes": [
+          "seo-audit",
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "polish",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     }
@@ -226,11 +327,13 @@
       "aso-localization": "توطين ASO",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "حملات التطبيقات في Google",
+      "paid-social-for-apps": "إعلانات التواصل للتطبيقات",
       "app-store-cro": "App Store CRO",
       "app-retention": "الاحتفاظ بمستخدمي التطبيقات",
       "content-strategy": "استراتيجية المحتوى",
       "google-ads-search": "إعلانات جوجل للبحث",
       "google-shopping": "Google Shopping",
+      "local-services-ads": "إعلانات الخدمات المحلية",
       "ppc-audit": "تدقيق PPC",
       "seo-audit": "تدقيق SEO",
       "social-media-audit-strategy": "تدقيق السوشيال ميديا واستراتيجيتها",
@@ -241,14 +344,16 @@
     },
     "experts": {
       "dima-gerko": "ديما غيركو",
-      "vitali-bakun": "فيتالي باكون"
+      "vitali-bakun": "فيتالي باكون",
+      "alaaddin-saracyakupoglu": "علاء الدين ساراتشياكوبوغلو"
     },
     "services": {
       "content": "التسويق بالمحتوى",
       "aso": "تحسين متجر التطبيقات ASO",
       "app-user-acquisition": "اكتساب مستخدمي التطبيقات",
       "seo": "سيو SEO",
-      "ppc": "PPC"
+      "ppc": "PPC",
+      "cro": "تحسين معدل التحويل"
     },
     "industries": {
       "saas": "SaaS",
@@ -281,6 +386,7 @@
       "japan": "اليابان",
       "malaysia": "ماليزيا",
       "netherlands": "هولندا",
+      "new-zealand": "نيوزيلندا",
       "romania": "رومانيا",
       "singapore": "سنغافورة",
       "south-korea": "كوريا الجنوبية",
@@ -292,6 +398,7 @@
     "languages": {
       "english": "الإنجليزية",
       "spanish": "الإسبانية",
+      "polish": "البولندية",
       "arabic": "العربية",
       "dutch": "الهولندية",
       "greek": "اليونانية",

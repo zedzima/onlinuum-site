@@ -52,6 +52,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -124,6 +125,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -199,6 +201,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -274,6 +277,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -351,6 +355,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -600,6 +605,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -671,6 +677,129 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "local-services-ads",
+      "url": "/scopes/local-services-ads",
+      "title": "Local Services Ads: reklama Google z opłatą za lead",
+      "description": "Prowadzenie Local Services Ads: konfiguracja profilu Google LSA, weryfikacja i kontrola jakości leadów. Płatność za lead, od 300 USD/mies. Sprawdź cennik.",
+      "menu": "Prowadzenie Local Services Ads",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 4,
+      "country_count": 4,
+      "language_count": 3,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "paid-social-for-apps",
+      "url": "/scopes/paid-social-for-apps",
+      "title": "Paid social dla aplikacji: app install ads w Meta i TikToku",
+      "description": "App install ads w Meta i TikToku: strategia kanałów, testy kreacji i optymalizacja stawek przy reklamie aplikacji. Od 200 USD/mies. Sprawdź cennik.",
+      "menu": "Paid social dla aplikacji",
+      "featured": true,
+      "from_price": 200,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "polish",
+          "dutch",
+          "greek",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
         ]
       },
       "case_count": 0,
@@ -760,7 +889,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -868,6 +998,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -969,7 +1100,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -1005,6 +1137,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -1320,7 +1453,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "Doradztwo marketingowe",
-      "multilingual-seo": "Pozycjonowanie zagraniczne"
+      "multilingual-seo": "Pozycjonowanie zagraniczne",
+      "seo-ecommerce": "SEO dla e-commerce"
     },
     "industries": {
       "saas": "SaaS",
@@ -1352,6 +1486,7 @@
       "italy": "Włochy",
       "japan": "Japonia",
       "netherlands": "Holandia",
+      "new-zealand": "Nowa Zelandia",
       "singapore": "Singapur",
       "south-korea": "Korea Południowa",
       "sweden": "Szwecja",

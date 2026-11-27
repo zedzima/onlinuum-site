@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Local Services Ads Betreuung: Pay-per-Lead",
+    "description": "Local Services Ads Betreuung: Einrichtung und Verifizierung des LSA-Profils, Prüfung der Leads. Pay-per-Lead, ab 300 $/Monat. Preise ansehen.",
+    "lang": "de",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "Paid Social für Apps: Installationen über Meta und TikTok",
+    "description": "Paid Social für Apps: Kanalstrategie, Kreativtests und Gebotsoptimierung für App-Install-Kampagnen auf Meta und TikTok. Ab 200 $/Monat. Preise ansehen.",
+    "lang": "de",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "Google Ads Audit: Budget, Tracking und Potenzial",

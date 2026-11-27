@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Google Local Services Ads 운영: 리드당 과금 광고",
+    "description": "Google Local Services Ads 운영: LSA 프로필 설정, 인증, 리드 품질 검토까지. 검증된 리드에만 비용을 내는 리드 광고, $300/월부터.",
+    "lang": "ko",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "메타 앱 광고와 틱톡 앱 설치: 앱을 위한 유료 소셜",
+    "description": "메타 앱 광고와 TikTok 앱 설치 캠페인: 채널 전략, 광고 소재 테스트, 입찰 최적화까지. $200/월부터, 가격은 아래에서 확인하십시오.",
+    "lang": "ko",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "광고 성과 분석: 낭비 비용과 전환 추적 점검",

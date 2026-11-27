@@ -8,11 +8,11 @@
       "menu": "Motoryzacja",
       "featured": false,
       "icon": "automotive",
-      "scope_count": 13,
+      "scope_count": 14,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -29,6 +29,7 @@
           "content-strategy",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "telegram-ads",
@@ -46,6 +47,7 @@
           "alvadi"
         ],
         "solutions": [
+          "seo-ecommerce",
           "multilingual-seo",
           "digital-marketing-consulting"
         ],
@@ -78,6 +80,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "romania",
           "south-korea",
           "sweden",
@@ -114,11 +117,11 @@
       "menu": "Sklepy internetowe",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 21,
+      "scope_count": 22,
       "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -137,6 +140,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -163,6 +167,7 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
+          "seo-ecommerce",
           "multilingual-seo"
         ],
         "services": [
@@ -199,6 +204,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -240,11 +246,11 @@
       "menu": "Fintech i usługi finansowe",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -263,6 +269,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -281,7 +288,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -315,6 +323,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -355,11 +364,11 @@
       "menu": "Przemysł i produkcja",
       "featured": false,
       "icon": "manufacturing",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 3,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -377,6 +386,7 @@
           "content-writing",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit"
         ],
@@ -385,6 +395,7 @@
           "dima-gerko"
         ],
         "solutions": [
+          "seo-ecommerce",
           "multilingual-seo",
           "digital-marketing-consulting"
         ],
@@ -417,6 +428,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -453,11 +465,11 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 20,
+      "scope_count": 21,
       "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -476,6 +488,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -501,7 +514,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -537,6 +551,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -588,6 +603,7 @@
       "content-strategy": "Strategia treści",
       "google-ads-search": "Reklama w Google",
       "google-shopping": "Google Shopping",
+      "local-services-ads": "Prowadzenie Local Services Ads",
       "ppc-audit": "Audyt Google Ads",
       "seo-audit": "Kompleksowy audyt SEO",
       "telegram-ads": "Reklama na Telegramie",
@@ -600,6 +616,7 @@
       "aso-localization": "Lokalizacja aplikacji",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Paid social dla aplikacji",
       "app-store-cro": "CRO karty aplikacji",
       "app-retention": "Retencja aplikacji",
       "content-writing": "Copywriting SEO",
@@ -615,6 +632,7 @@
       "bamboo-ppc-landing-pages": "Bamboo Group"
     },
     "solutions": {
+      "seo-ecommerce": "SEO dla e-commerce",
       "multilingual-seo": "Pozycjonowanie zagraniczne",
       "digital-marketing-consulting": "Doradztwo marketingowe"
     },
@@ -650,6 +668,7 @@
       "italy": "Włochy",
       "japan": "Japonia",
       "netherlands": "Holandia",
+      "new-zealand": "Nowa Zelandia",
       "romania": "Rumunia",
       "south-korea": "Korea Południowa",
       "sweden": "Szwecja",

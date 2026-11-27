@@ -14,11 +14,11 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Deutsch",
       "dominant_language_code": "de",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 4,
       "expert_count": 1,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -35,6 +35,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -45,7 +46,8 @@
         ],
         "solutions": [
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -88,11 +90,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -111,6 +113,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -120,7 +123,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -163,11 +167,11 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Bulgarisch",
       "dominant_language_code": "bg",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -186,12 +190,14 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -233,11 +239,11 @@
       "significant_languages_count": 11,
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
-      "scope_count": 11,
+      "scope_count": 12,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -256,6 +262,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "video-content-production",
@@ -268,7 +275,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -313,11 +321,11 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Chinesisch",
       "dominant_language_code": "zh",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -336,6 +344,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -345,7 +354,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -383,11 +393,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Tschechisch",
       "dominant_language_code": "cs",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -406,6 +416,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -415,7 +426,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -457,11 +469,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Dänisch",
       "dominant_language_code": "da",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -480,12 +492,14 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -527,11 +541,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Estnisch",
       "dominant_language_code": "et",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 0,
       "case_count": 1,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -550,6 +564,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -558,7 +573,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -599,11 +615,11 @@
       "significant_languages_count": 20,
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 3,
       "case_count": 2,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -622,6 +638,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -636,7 +653,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -660,6 +678,7 @@
           "german",
           "italian",
           "spanish",
+          "polish",
           "dutch",
           "greek"
         ],
@@ -682,11 +701,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Finnisch",
       "dominant_language_code": "fi",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -705,12 +724,14 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -751,11 +772,11 @@
       "significant_languages_count": 6,
       "dominant_language_name": "Französisch",
       "dominant_language_code": "fr",
-      "scope_count": 16,
+      "scope_count": 18,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -773,12 +794,14 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -790,7 +813,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -838,11 +862,11 @@
       "significant_languages_count": 9,
       "dominant_language_name": "Deutsch",
       "dominant_language_code": "de",
-      "scope_count": 21,
+      "scope_count": 23,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -861,12 +885,14 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -883,7 +909,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -938,11 +965,11 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Griechisch",
       "dominant_language_code": "el",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -961,6 +988,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -970,7 +998,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1013,11 +1042,11 @@
       "significant_languages_count": 2,
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1036,6 +1065,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1045,7 +1075,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1086,11 +1117,11 @@
       "significant_languages_count": 7,
       "dominant_language_name": "Hebräisch",
       "dominant_language_code": "he",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1109,6 +1140,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1118,7 +1150,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1140,7 +1173,8 @@
         "languages": [
           "hebrew",
           "english",
-          "arabic"
+          "arabic",
+          "polish"
         ],
         "positions": [
           "seo-expert",
@@ -1162,11 +1196,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Italienisch",
       "dominant_language_code": "it",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1185,6 +1219,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1194,7 +1229,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1239,11 +1275,11 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Japanisch",
       "dominant_language_code": "ja",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1262,6 +1298,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1271,7 +1308,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1317,7 +1355,7 @@
       "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1340,7 +1378,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1379,11 +1418,11 @@
       "significant_languages_count": 6,
       "dominant_language_name": "Niederländisch",
       "dominant_language_code": "nl",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1402,6 +1441,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1411,7 +1451,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1444,6 +1485,81 @@
       }
     },
     {
+      "slug": "new-zealand",
+      "url": "/countries/new-zealand",
+      "title": "Marketing Agentur Neuseeland für internationale Marken",
+      "description": "Marketing Agentur für Neuseeland: feste Leistungspakete für internationale Marken, Umsetzung für den neuseeländischen Markt von Auckland bis Christchurch.",
+      "menu": "Neuseeland",
+      "featured": false,
+      "flag": "🇳🇿",
+      "population_total": "5.16M",
+      "population_total_raw": 5161210,
+      "official_languages_count": 1,
+      "significant_languages_count": 1,
+      "dominant_language_name": "Englisch",
+      "dominant_language_code": "en",
+      "scope_count": 9,
+      "service_count": 8,
+      "expert_count": 2,
+      "case_count": 0,
+      "solution_count": 3,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "community-marketing",
+          "brand-marketing",
+          "app-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "aso-optimization",
+          "aso-localization",
+          "apple-search-ads",
+          "google-app-campaigns",
+          "paid-social-for-apps",
+          "app-store-cro",
+          "app-retention"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo",
+          "seo-ecommerce"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "social-media",
+          "aso",
+          "orm",
+          "app-user-acquisition",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "poland",
       "url": "/countries/poland",
       "title": "Online Marketing Polen: SEO, Ads und Digital PR",
@@ -1457,11 +1573,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Polnisch",
       "dominant_language_code": "pl",
-      "scope_count": 17,
+      "scope_count": 18,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1479,6 +1595,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -1497,6 +1614,7 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
+          "seo-ecommerce",
           "multilingual-seo"
         ],
         "services": [
@@ -1514,6 +1632,7 @@
           "manufacturing"
         ],
         "languages": [
+          "polish",
           "english",
           "german"
         ],
@@ -1545,11 +1664,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Portugiesisch",
       "dominant_language_code": "pt",
-      "scope_count": 10,
+      "scope_count": 11,
       "service_count": 4,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1566,6 +1685,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -1577,6 +1697,7 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
+          "seo-ecommerce",
           "multilingual-seo"
         ],
         "services": [
@@ -1625,7 +1746,7 @@
       "service_count": 5,
       "expert_count": 0,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1644,7 +1765,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1683,11 +1805,11 @@
       "significant_languages_count": 4,
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1710,6 +1832,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1719,7 +1842,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1760,11 +1884,11 @@
       "significant_languages_count": 1,
       "dominant_language_name": "Koreanisch",
       "dominant_language_code": "ko",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1783,6 +1907,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1792,7 +1917,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1833,11 +1959,11 @@
       "significant_languages_count": 3,
       "dominant_language_name": "Spanisch",
       "dominant_language_code": "es",
-      "scope_count": 14,
+      "scope_count": 15,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1855,6 +1981,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
@@ -1870,6 +1997,7 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
+          "seo-ecommerce",
           "multilingual-seo"
         ],
         "services": [
@@ -1919,11 +2047,11 @@
       "significant_languages_count": 3,
       "dominant_language_name": "Schwedisch",
       "dominant_language_code": "sv",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -1942,6 +2070,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -1951,7 +2080,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -1993,11 +2123,11 @@
       "significant_languages_count": 5,
       "dominant_language_name": "Deutsch",
       "dominant_language_code": "de",
-      "scope_count": 8,
+      "scope_count": 9,
       "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2016,6 +2146,7 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention"
         ],
@@ -2025,7 +2156,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -2072,7 +2204,7 @@
       "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2096,7 +2228,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -2138,11 +2271,11 @@
       "significant_languages_count": 9,
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
-      "scope_count": 21,
+      "scope_count": 23,
       "service_count": 8,
       "expert_count": 3,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2161,12 +2294,14 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -2184,7 +2319,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -2206,7 +2342,8 @@
         "languages": [
           "english",
           "german",
-          "spanish"
+          "spanish",
+          "polish"
         ],
         "blog-posts": [
           "how-ai-chooses-sources",
@@ -2235,11 +2372,11 @@
       "significant_languages_count": 2,
       "dominant_language_name": "Englisch",
       "dominant_language_code": "en",
-      "scope_count": 21,
+      "scope_count": 23,
       "service_count": 8,
       "expert_count": 3,
       "case_count": 0,
-      "solution_count": 2,
+      "solution_count": 3,
       "facets": {
         "domains": [
           "search-marketing",
@@ -2258,12 +2395,14 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "content-writing",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -2281,7 +2420,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "content",
@@ -2338,6 +2478,7 @@
       "aso-localization": "App-Lokalisierung",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google-App-Kampagnen",
+      "paid-social-for-apps": "Paid Social für Apps",
       "app-store-cro": "App-Store-CRO",
       "app-retention": "App-Retention",
       "content-strategy": "Content-Strategie",
@@ -2348,6 +2489,7 @@
       "content-writing": "Texterstellung",
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
+      "local-services-ads": "Local Services Ads Betreuung",
       "ppc-audit": "Google Ads Audit",
       "social-media-audit-strategy": "Social-Media-Audit und -Strategie",
       "youtube-ads": "YouTube-Werbung",
@@ -2361,7 +2503,8 @@
     },
     "solutions": {
       "multilingual-seo": "Mehrsprachige SEO",
-      "digital-marketing-consulting": "Online-Marketing-Beratung"
+      "digital-marketing-consulting": "Online-Marketing-Beratung",
+      "seo-ecommerce": "SEO für Online-Shops"
     },
     "services": {
       "content": "Content-Marketing",
@@ -2387,6 +2530,7 @@
       "dutch": "Niederländisch",
       "spanish": "Spanisch",
       "arabic": "Arabisch",
+      "polish": "Polnisch",
       "greek": "Griechisch",
       "hebrew": "Hebräisch",
       "japanese": "Japanisch",

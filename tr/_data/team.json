@@ -35,6 +35,9 @@
           "seo-research",
           "technical-seo"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "services": [
           "content",
           "seo"
@@ -116,6 +119,7 @@
           "aso-optimization",
           "content-strategy",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "ppc-audit",
           "seo-audit"
         ],
@@ -123,6 +127,7 @@
           "alvadi"
         ],
         "solutions": [
+          "seo-ecommerce",
           "digital-marketing-consulting",
           "multilingual-seo"
         ],
@@ -160,6 +165,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -220,6 +226,7 @@
         "scopes": [
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "youtube-ads"
         ],
@@ -228,7 +235,8 @@
           "bamboo-ppc-landing-pages"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "ppc"
@@ -256,6 +264,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "spain",
@@ -294,11 +303,18 @@
       "aso-optimization": "ASO Çalışması",
       "content-strategy": "İçerik Stratejisi",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Uygulamalar için Ücretli Sosyal Medya",
       "ppc-audit": "Reklam Analizi",
       "seo-audit": "SEO Analizi",
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
+      "local-services-ads": "Local Services Ads (LSA)",
       "youtube-ads": "YouTube Ads"
+    },
+    "solutions": {
+      "seo-ecommerce": "E-ticaret için SEO",
+      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
+      "multilingual-seo": "Uluslararası SEO"
     },
     "services": {
       "content": "İçerik Pazarlama",
@@ -335,6 +351,7 @@
       "japan": "Japonya",
       "malaysia": "Malezya",
       "netherlands": "Hollanda",
+      "new-zealand": "Yeni Zelanda",
       "singapore": "Singapur",
       "south-korea": "Güney Kore",
       "sweden": "İsveç",
@@ -355,10 +372,6 @@
     "cases": {
       "alvadi": "ALVADI",
       "bamboo-ppc-landing-pages": "Bamboo Group"
-    },
-    "solutions": {
-      "digital-marketing-consulting": "Dijital Pazarlama Danışmanlığı",
-      "multilingual-seo": "Uluslararası SEO"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "Yapay zeka kaynakları nasıl seçer",

@@ -54,7 +54,8 @@
           "app-store-cro",
           "apple-search-ads",
           "app-retention",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -79,7 +80,8 @@
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "polish"
         ]
       },
       "services": [
@@ -306,6 +308,7 @@
           "spanish",
           "italian",
           "dutch",
+          "polish",
           "japanese",
           "arabic",
           "english"
@@ -410,6 +413,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -526,7 +530,8 @@
         ],
         "solutions": [
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -562,6 +567,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -572,6 +578,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "japanese",
           "arabic",
           "dutch",
@@ -700,6 +707,7 @@
         ],
         "languages": [
           "english",
+          "polish",
           "spanish"
         ]
       },
@@ -757,6 +765,7 @@
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "앱 리텐션",
       "google-app-campaigns": "구글 앱 캠페인",
+      "paid-social-for-apps": "앱을 위한 유료 소셜",
       "seo-research": "SEO 키워드 분석",
       "content-strategy": "콘텐츠 기획",
       "telegram-ads": "텔레그램 광고",
@@ -764,6 +773,7 @@
       "google-ads-search": "구글 검색광고",
       "google-shopping": "구글 쇼핑",
       "youtube-ads": "유튜브 광고",
+      "local-services-ads": "Google 지역 서비스 광고",
       "technical-seo": "테크니컬 SEO",
       "seo-audit": "SEO 점검",
       "telegram-channel-placements": "텔레그램 채널 홍보",
@@ -773,7 +783,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "디지털 마케팅 컨설팅",
-      "multilingual-seo": "다국어 SEO"
+      "multilingual-seo": "다국어 SEO",
+      "seo-ecommerce": "쇼핑몰 SEO"
     },
     "services": {
       "aso": "ASO 최적화",
@@ -817,6 +828,7 @@
       "greece": "그리스",
       "ireland": "아일랜드",
       "israel": "이스라엘",
+      "new-zealand": "뉴질랜드",
       "romania": "루마니아",
       "south-korea": "대한민국",
       "switzerland": "스위스"
@@ -824,6 +836,7 @@
     "languages": {
       "english": "영어",
       "spanish": "스페인어",
+      "polish": "폴란드어",
       "italian": "이탈리아어",
       "dutch": "네덜란드어",
       "arabic": "아랍어",

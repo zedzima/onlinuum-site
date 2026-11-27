@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Local Services Ads: reklama Google z opłatą za lead",
+    "description": "Prowadzenie Local Services Ads: konfiguracja profilu Google LSA, weryfikacja i kontrola jakości leadów. Płatność za lead, od 300 USD/mies. Sprawdź cennik.",
+    "lang": "pl",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "Paid social dla aplikacji: app install ads w Meta i TikToku",
+    "description": "App install ads w Meta i TikToku: strategia kanałów, testy kreacji i optymalizacja stawek przy reklamie aplikacji. Od 200 USD/mies. Sprawdź cennik.",
+    "lang": "pl",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "Audyt Google Ads: budżet, konwersje i plan wzrostu",

@@ -7,7 +7,7 @@
       "description": "App User Acquisition als Leistung: Apple Search Ads, Google App Campaigns und Paid Social für Installationen. Preise ansehen.",
       "menu": "User Acquisition für Apps",
       "featured": true,
-      "scope_count": 2,
+      "scope_count": 3,
       "expert_count": 1,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -25,7 +25,8 @@
         ],
         "scopes": [
           "apple-search-ads",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "experts": [
           "dima-gerko"
@@ -62,6 +63,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -71,6 +73,7 @@
           "english",
           "german",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -142,6 +145,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -151,6 +155,7 @@
           "english",
           "german",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -199,7 +204,8 @@
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "industries": [
           "ecommerce",
@@ -233,6 +239,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -244,6 +251,7 @@
           "english",
           "german",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -286,6 +294,9 @@
           "performance-marketing",
           "product-marketing"
         ],
+        "solutions": [
+          "seo-ecommerce"
+        ],
         "industries": [
           "ecommerce",
           "saas"
@@ -310,6 +321,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -376,6 +388,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -401,7 +414,7 @@
       "description": "Google Ads Agentur für Suche, Shopping und Remarketing: Kampagnen je Markt, fester Preis pro Modul. Start mit PPC Starter ab 400 $/Monat.",
       "menu": "Google Ads",
       "featured": true,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 2,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -421,7 +434,8 @@
           "ppc-audit",
           "google-ads-search",
           "google-shopping",
-          "youtube-ads"
+          "youtube-ads",
+          "local-services-ads"
         ],
         "experts": [
           "dima-gerko",
@@ -464,6 +478,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -522,6 +537,7 @@
           "alaaddin-saracyakupoglu"
         ],
         "solutions": [
+          "seo-ecommerce",
           "multilingual-seo",
           "digital-marketing-consulting"
         ],
@@ -557,6 +573,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -568,6 +585,7 @@
           "english",
           "german",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -643,6 +661,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -678,6 +697,7 @@
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google-App-Kampagnen",
+      "paid-social-for-apps": "Paid Social für Apps",
       "aso-optimization": "ASO-Optimierung",
       "aso-localization": "App-Lokalisierung",
       "seo-research": "SEO-Recherche",
@@ -687,6 +707,7 @@
       "google-ads-search": "Google Ads Suchkampagnen",
       "google-shopping": "Google Shopping Ads",
       "youtube-ads": "YouTube-Werbung",
+      "local-services-ads": "Local Services Ads Betreuung",
       "seo-audit": "SEO-Audit",
       "technical-seo": "Technisches SEO",
       "social-media-audit-strategy": "Social-Media-Audit und -Strategie",
@@ -701,6 +722,7 @@
     },
     "solutions": {
       "digital-marketing-consulting": "Online-Marketing-Beratung",
+      "seo-ecommerce": "SEO für Online-Shops",
       "multilingual-seo": "Mehrsprachige SEO"
     },
     "industries": {
@@ -734,6 +756,7 @@
       "italy": "Italien",
       "japan": "Japan",
       "netherlands": "Niederlande",
+      "new-zealand": "Neuseeland",
       "singapore": "Singapur",
       "south-korea": "Südkorea",
       "sweden": "Schweden",
@@ -746,6 +769,7 @@
       "english": "Englisch",
       "german": "Deutsch",
       "spanish": "Spanisch",
+      "polish": "Polnisch",
       "dutch": "Niederländisch",
       "greek": "Griechisch",
       "italian": "Italienisch",

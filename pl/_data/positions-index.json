@@ -54,7 +54,8 @@
           "app-store-cro",
           "apple-search-ads",
           "app-retention",
-          "google-app-campaigns"
+          "google-app-campaigns",
+          "paid-social-for-apps"
         ],
         "solutions": [
           "digital-marketing-consulting"
@@ -412,6 +413,7 @@
           "google-ads-search",
           "google-shopping",
           "youtube-ads",
+          "local-services-ads",
           "telegram-ads"
         ],
         "solutions": [
@@ -528,7 +530,8 @@
         ],
         "solutions": [
           "multilingual-seo",
-          "digital-marketing-consulting"
+          "digital-marketing-consulting",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -564,6 +567,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -761,6 +765,7 @@
       "apple-search-ads": "Apple Search Ads",
       "app-retention": "Retencja aplikacji",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Paid social dla aplikacji",
       "seo-research": "Analiza SEO",
       "content-strategy": "Strategia treści",
       "telegram-ads": "Reklama na Telegramie",
@@ -768,6 +773,7 @@
       "google-ads-search": "Reklama w Google",
       "google-shopping": "Google Shopping",
       "youtube-ads": "YouTube Ads",
+      "local-services-ads": "Prowadzenie Local Services Ads",
       "technical-seo": "SEO techniczne",
       "seo-audit": "Kompleksowy audyt SEO",
       "telegram-channel-placements": "Publikacje natywne w kanałach Telegram",
@@ -777,7 +783,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "Doradztwo marketingowe",
-      "multilingual-seo": "Pozycjonowanie zagraniczne"
+      "multilingual-seo": "Pozycjonowanie zagraniczne",
+      "seo-ecommerce": "SEO dla e-commerce"
     },
     "services": {
       "aso": "ASO aplikacji",
@@ -821,6 +828,7 @@
       "greece": "Grecja",
       "ireland": "Irlandia",
       "israel": "Izrael",
+      "new-zealand": "Nowa Zelandia",
       "romania": "Rumunia",
       "south-korea": "Korea Południowa",
       "switzerland": "Szwajcaria"

@@ -30,11 +30,13 @@
           "aso-localization",
           "apple-search-ads",
           "google-app-campaigns",
+          "paid-social-for-apps",
           "app-store-cro",
           "app-retention",
           "content-strategy",
           "google-ads-search",
           "google-shopping",
+          "local-services-ads",
           "ppc-audit",
           "seo-audit",
           "social-media-audit-strategy",
@@ -85,6 +87,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -96,6 +99,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -180,6 +184,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -191,6 +196,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -206,6 +212,102 @@
         "positions": [
           "seo-expert",
           "marketing-consultant"
+        ]
+      }
+    },
+    {
+      "slug": "seo-ecommerce",
+      "url": "/solutions/seo-ecommerce",
+      "title": "E-ticaret SEO Hizmeti: Katalog Taranabilirliği ve Sıralama",
+      "description": "Online mağazalar için e-ticaret SEO hizmeti: katalog taranabilirliği, ürün sayfası sıralamaları ve binlerce üründe arama değeri kaybı. Randevu alın.",
+      "menu": "E-ticaret için SEO",
+      "featured": false,
+      "scope": "seo-audit",
+      "industry": "ecommerce",
+      "starting_price": 1990.0,
+      "expert_count": 3,
+      "case_count": 0,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "community-marketing",
+          "product-marketing",
+          "brand-marketing",
+          "performance-marketing",
+          "growth-marketing"
+        ],
+        "scopes": [
+          "seo-audit",
+          "technical-seo"
+        ],
+        "experts": [
+          "dima-gerko",
+          "vitali-bakun",
+          "alaaddin-saracyakupoglu"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "seo"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "new-zealand",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "polish",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai",
+          "turkish"
+        ],
+        "blog-posts": [
+          "seo-packages-comparison",
+          "why-seo-matters-in-2026"
+        ],
+        "positions": [
+          "seo-expert"
         ]
       }
     }
@@ -228,11 +330,13 @@
       "aso-localization": "ASO Yerelleştirme",
       "apple-search-ads": "Apple Search Ads",
       "google-app-campaigns": "Google App Campaigns (UAC)",
+      "paid-social-for-apps": "Uygulamalar için Ücretli Sosyal Medya",
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "content-strategy": "İçerik Stratejisi",
       "google-ads-search": "Google Ads Arama Ağı",
       "google-shopping": "Google Shopping",
+      "local-services-ads": "Local Services Ads (LSA)",
       "ppc-audit": "Reklam Analizi",
       "seo-audit": "SEO Analizi",
       "social-media-audit-strategy": "Sosyal Medya Analizi ve Strateji",
@@ -243,14 +347,16 @@
     },
     "experts": {
       "dima-gerko": "Dima Gerko",
-      "vitali-bakun": "Vitali Bakun"
+      "vitali-bakun": "Vitali Bakun",
+      "alaaddin-saracyakupoglu": "Alaaddin Saracyakupoglu"
     },
     "services": {
       "content": "İçerik Pazarlama",
       "aso": "ASO Hizmeti",
       "app-user-acquisition": "Uygulamalar İçin User Acquisition",
       "seo": "SEO Hizmeti",
-      "ppc": "Performans Pazarlama"
+      "ppc": "Performans Pazarlama",
+      "cro": "CRO"
     },
     "industries": {
       "saas": "SaaS",
@@ -283,6 +389,7 @@
       "japan": "Japonya",
       "malaysia": "Malezya",
       "netherlands": "Hollanda",
+      "new-zealand": "Yeni Zelanda",
       "romania": "Romanya",
       "singapore": "Singapur",
       "south-korea": "Güney Kore",
@@ -294,6 +401,7 @@
     "languages": {
       "english": "İngilizce",
       "spanish": "İspanyolca",
+      "polish": "Lehçe",
       "arabic": "Arapça",
       "dutch": "Felemenkçe",
       "greek": "Yunanca",

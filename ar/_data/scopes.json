@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Local Services Ads: إدارة إعلانات Google بالدفع لكل عميل",
+    "description": "إدارة Local Services Ads: إعداد ملف LSA والتحقق منه ومراجعة جودة العملاء المحتملين. ادفعوا لكل عميل مؤهل، من $300 شهريًا. اطلعوا على الأسعار.",
+    "lang": "ar",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "Meta App Install Ads: حملات التثبيت على Meta وTikTok",
+    "description": "Meta app install ads وTikTok للتطبيقات: استراتيجية القنوات، واختبار المواد الإعلانية، وتحسين المزايدات. من $200 شهريًا. اطلعوا على الأسعار.",
+    "lang": "ar",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "PPC Audit: مراجعة الإنفاق والتتبع وفرص النمو",

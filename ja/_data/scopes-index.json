@@ -52,6 +52,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -60,6 +61,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -123,6 +125,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -131,6 +134,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -197,6 +201,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -205,6 +210,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -271,6 +277,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -279,6 +286,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -347,6 +355,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -355,6 +364,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -418,7 +428,8 @@
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "polish"
         ],
         "blog-posts": [
           "seo-content-marketing"
@@ -594,6 +605,7 @@
           "italy",
           "japan",
           "netherlands",
+          "new-zealand",
           "singapore",
           "south-korea",
           "sweden",
@@ -602,6 +614,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "dutch",
           "greek",
           "italian"
@@ -664,6 +677,129 @@
         ],
         "positions": [
           "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "local-services-ads",
+      "url": "/scopes/local-services-ads",
+      "title": "Local Services Adsの運用代行｜リード課金の広告",
+      "description": "Local Services Adsの運用代行。プロフィールの設定、認証、リードの質の確認まで。課金は有効なリードごと、月額 $300 から。料金を見る。",
+      "menu": "ローカルサービス広告",
+      "featured": false,
+      "from_price": 300,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 4,
+      "country_count": 4,
+      "language_count": 3,
+      "task_count": 4,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "performance-marketing"
+        ],
+        "experts": [
+          "vitali-bakun"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "ppc"
+        ],
+        "industries": [
+          "automotive",
+          "manufacturing"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "paid-social-for-apps",
+      "url": "/scopes/paid-social-for-apps",
+      "title": "アプリのSNS広告運用｜Meta広告とTikTokでインストール獲得",
+      "description": "アプリのインストールを伸ばすSNS広告。Meta広告とTikTokで、チャネル戦略、クリエイティブのテスト、入札の最適化を行います。月額 $200 から。",
+      "menu": "アプリのSNS広告",
+      "featured": true,
+      "from_price": 200,
+      "delivery": "monthly",
+      "expert_count": 2,
+      "industry_count": 5,
+      "country_count": 8,
+      "language_count": 7,
+      "task_count": 5,
+      "facets": {
+        "domains": [
+          "app-marketing"
+        ],
+        "experts": [
+          "dima-gerko"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "app-user-acquisition"
+        ],
+        "industries": [
+          "saas",
+          "fintech",
+          "ecommerce"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "france",
+          "austria",
+          "poland",
+          "portugal",
+          "spain",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "netherlands",
+          "new-zealand",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland"
+        ],
+        "languages": [
+          "english",
+          "spanish",
+          "polish",
+          "dutch",
+          "greek",
+          "italian"
+        ],
+        "positions": [
+          "aso-specialist"
         ]
       },
       "case_count": 0,
@@ -753,7 +889,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -780,6 +917,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "thai"
         ],
@@ -860,6 +998,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -870,6 +1009,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -960,7 +1100,8 @@
         ],
         "solutions": [
           "digital-marketing-consulting",
-          "multilingual-seo"
+          "multilingual-seo",
+          "seo-ecommerce"
         ],
         "services": [
           "seo"
@@ -996,6 +1137,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "new-zealand",
           "romania",
           "singapore",
           "south-korea",
@@ -1006,6 +1148,7 @@
         "languages": [
           "english",
           "spanish",
+          "polish",
           "arabic",
           "dutch",
           "greek",
@@ -1060,7 +1203,8 @@
           "poland"
         ],
         "languages": [
-          "english"
+          "english",
+          "polish"
         ],
         "positions": [
           "ppc-specialist",
@@ -1309,7 +1453,8 @@
     },
     "solutions": {
       "digital-marketing-consulting": "マーケティングコンサルティング",
-      "multilingual-seo": "多言語SEO"
+      "multilingual-seo": "多言語SEO",
+      "seo-ecommerce": "ECサイトのSEO対策"
     },
     "industries": {
       "saas": "SaaS",
@@ -1341,6 +1486,7 @@
       "italy": "イタリア",
       "japan": "日本",
       "netherlands": "オランダ",
+      "new-zealand": "ニュージーランド",
       "singapore": "シンガポール",
       "south-korea": "韓国",
       "sweden": "スウェーデン",
@@ -1352,6 +1498,7 @@
     "languages": {
       "english": "英語",
       "spanish": "スペイン語",
+      "polish": "ポーランド語",
       "dutch": "オランダ語",
       "greek": "ギリシャ語",
       "italian": "イタリア語",

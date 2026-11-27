@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "ניהול Local Services Ads: תשלום לפי ליד",
+    "description": "ניהול Local Services Ads: הקמת פרופיל LSA, אימות Google Guaranteed ובקרת איכות לידים. תשלום לפי ליד מאושר, החל מ-$300 לחודש. ראו מחירים.",
+    "lang": "he",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "TikTok App Install ו-Meta: פרסום ממומן לאפליקציות",
+    "description": "קמפיינים של TikTok app install ו-Meta app install ads: אסטרטגיית ערוצים, בדיקות קריאייטיב ואופטימיזציית הצעות מחיר. החל מ-$200 לחודש. ראו מחירים.",
+    "lang": "he",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "Google Ads Audit: בדיקת תקציב, מעקב וצמיחה",

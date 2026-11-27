@@ -160,6 +160,38 @@
     "reading_time": null
   },
   {
+    "slug": "local-services-ads",
+    "url": "/scopes/local-services-ads",
+    "title": "Local Services Adsの運用代行｜リード課金の広告",
+    "description": "Local Services Adsの運用代行。プロフィールの設定、認証、リードの質の確認まで。課金は有効なリードごと、月額 $300 から。料金を見る。",
+    "lang": "ja",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 300,
+    "featured": false,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
+    "slug": "paid-social-for-apps",
+    "url": "/scopes/paid-social-for-apps",
+    "title": "アプリのSNS広告運用｜Meta広告とTikTokでインストール獲得",
+    "description": "アプリのインストールを伸ばすSNS広告。Meta広告とTikTokで、チャネル戦略、クリエイティブのテスト、入札の最適化を行います。月額 $200 から。",
+    "lang": "ja",
+    "category": "",
+    "service": "",
+    "tags": [],
+    "price": 200,
+    "featured": true,
+    "date": "",
+    "author": "",
+    "type": "scope",
+    "reading_time": null
+  },
+  {
     "slug": "ppc-audit",
     "url": "/scopes/ppc-audit",
     "title": "リスティング広告の改善｜広告アカウント診断で無駄を可視化",
