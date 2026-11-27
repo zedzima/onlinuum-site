@@ -39,6 +39,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "youtube-ads",
           "youtube-creator-pilot"
         ],
@@ -84,7 +85,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -95,6 +98,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -174,7 +178,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -185,6 +191,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -226,6 +233,7 @@
       "seo-audit": "SEO診断",
       "social-media-audit-strategy": "SNS診断・戦略",
       "telegram-ads": "Telegram Ads",
+      "telegram-channel-placements": "Telegramチャンネル純広告",
       "youtube-ads": "YouTube広告",
       "youtube-creator-pilot": "YouTuber PRパイロット"
     },
@@ -271,7 +279,9 @@
       "japan": "日本",
       "malaysia": "マレーシア",
       "netherlands": "オランダ",
+      "romania": "ルーマニア",
       "singapore": "シンガポール",
+      "south-korea": "韓国",
       "sweden": "スウェーデン",
       "switzerland": "スイス",
       "thailand": "タイ"
@@ -282,6 +292,7 @@
       "arabic": "アラビア語",
       "dutch": "オランダ語",
       "greek": "ギリシャ語",
+      "indonesian": "インドネシア語",
       "italian": "イタリア語",
       "thai": "タイ語"
     },

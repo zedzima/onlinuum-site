@@ -15,7 +15,7 @@
       "market_country_count": 16,
       "official_countries_count": 16,
       "scope_count": 6,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -42,6 +42,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "orm",
           "ppc",
           "seo",
@@ -79,7 +80,7 @@
       "market_country_count": 3,
       "official_countries_count": 3,
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -113,6 +114,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -153,8 +155,8 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 20,
-      "service_count": 7,
+      "scope_count": 21,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -186,6 +188,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -205,6 +208,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -235,6 +239,7 @@
           "malaysia",
           "belgium",
           "austria",
+          "romania",
           "singapore",
           "greece",
           "denmark",
@@ -277,7 +282,7 @@
       "market_country_count": 2,
       "official_countries_count": 2,
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -311,6 +316,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -363,6 +369,68 @@
       }
     },
     {
+      "slug": "indonesian",
+      "url": "/languages/indonesian",
+      "title": "Endonezce Dijital Pazarlama: Anadil Bahasa Uzmanları",
+      "description": "Endonezya'ya giren markalar için Endonezce dijital pazarlama: SEO, reklam ve içerikte anadili Bahasa Indonesia olan uzmanlar. Hizmetleri keşfedin.",
+      "menu": "Endonezce",
+      "featured": false,
+      "flag": "",
+      "code": "ID",
+      "native_speakers_l1": "181M",
+      "market_speakers_display": "181M",
+      "market_speakers_est": 180519583,
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 6,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "netherlands"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "italian",
       "url": "/languages/italian",
       "title": "İtalyan Pazarı İçin İtalyanca Dijital Pazarlama",
@@ -377,7 +445,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -411,6 +479,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -489,6 +558,9 @@
       "case_count": 0,
       "solution_count": 0,
       "facets": {
+        "countries": [
+          "south-korea"
+        ],
         "positions": [
           "seo-expert"
         ]
@@ -566,6 +638,7 @@
           "usa",
           "france",
           "uk",
+          "romania",
           "canada",
           "portugal",
           "eu"
@@ -600,7 +673,7 @@
       "market_country_count": 1,
       "official_countries_count": 1,
       "scope_count": 5,
-      "service_count": 4,
+      "service_count": 5,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -626,6 +699,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "seo",
           "ppc"
@@ -658,7 +732,7 @@
       "market_country_count": 6,
       "official_countries_count": 6,
       "scope_count": 4,
-      "service_count": 4,
+      "service_count": 5,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -686,6 +760,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "orm",
           "seo",
           "ppc"
@@ -739,6 +814,7 @@
       "google-shopping": "Google Shopping",
       "social-media-audit-strategy": "Sosyal Medya Analizi ve Strateji",
       "telegram-ads": "Telegram Reklamları",
+      "telegram-channel-placements": "Telegram Kanal Yerleşimleri",
       "video-content-production": "Video İçerik Prodüksiyonu",
       "youtube-ads": "YouTube Ads",
       "youtube-channel-management": "YouTube Kanal Yönetimi",
@@ -750,6 +826,7 @@
     },
     "services": {
       "content": "İçerik Pazarlama",
+      "cro": "CRO",
       "orm": "İtibar Yönetimi",
       "ppc": "Performans Pazarlama",
       "seo": "SEO Hizmeti",
@@ -781,6 +858,7 @@
       "sweden": "İsveç",
       "malaysia": "Malezya",
       "austria": "Avusturya",
+      "romania": "Romanya",
       "singapore": "Singapur",
       "greece": "Yunanistan",
       "denmark": "Danimarka",
@@ -791,7 +869,8 @@
       "portugal": "Portugal",
       "bulgaria": "Bulgaristan",
       "estonia": "Estonya",
-      "japan": "Japonya"
+      "japan": "Japonya",
+      "south-korea": "Güney Kore"
     },
     "positions": {
       "seo-expert": "SEO Uzmanı",

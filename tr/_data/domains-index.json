@@ -61,6 +61,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -85,13 +86,14 @@
       "featured": true,
       "icon": "award",
       "service_count": 3,
-      "scope_count": 7,
+      "scope_count": 8,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "telegram-channel-placements",
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
@@ -142,7 +144,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -154,6 +158,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -173,13 +178,14 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "telegram-channel-placements",
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
@@ -228,6 +234,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -252,7 +259,7 @@
       "menu": "Growth Marketing (Büyüme)",
       "featured": true,
       "icon": "trending-up",
-      "service_count": 0,
+      "service_count": 1,
       "scope_count": 2,
       "solution_count": 2,
       "case_count": 0,
@@ -269,6 +276,9 @@
         "solutions": [
           "digital-marketing-consulting",
           "multilingual-seo"
+        ],
+        "services": [
+          "cro"
         ],
         "industries": [
           "manufacturing",
@@ -301,7 +311,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -313,6 +325,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -370,7 +383,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -381,6 +396,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -395,7 +411,7 @@
       "menu": "Performans Pazarlama",
       "featured": true,
       "icon": "target",
-      "service_count": 2,
+      "service_count": 3,
       "scope_count": 6,
       "solution_count": 1,
       "case_count": 2,
@@ -421,6 +437,7 @@
           "digital-marketing-consulting"
         ],
         "services": [
+          "cro",
           "ppc",
           "app-user-acquisition"
         ],
@@ -453,7 +470,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -465,6 +484,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -484,7 +504,7 @@
       "menu": "Ürün Pazarlaması",
       "featured": true,
       "icon": "compass",
-      "service_count": 1,
+      "service_count": 2,
       "scope_count": 3,
       "solution_count": 2,
       "case_count": 0,
@@ -504,7 +524,8 @@
           "multilingual-seo"
         ],
         "services": [
-          "content"
+          "content",
+          "cro"
         ],
         "industries": [
           "ecommerce",
@@ -537,7 +558,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -549,6 +572,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -628,7 +652,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -640,6 +666,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -667,6 +694,7 @@
       "app-store-cro": "App Store CRO",
       "app-retention": "Kullanıcı Elde Tutma",
       "seo-research": "SEO Araştırması",
+      "telegram-channel-placements": "Telegram Kanal Yerleşimleri",
       "youtube-channel-management": "YouTube Kanal Yönetimi",
       "video-content-production": "Video İçerik Prodüksiyonu",
       "youtube-creator-pilot": "YouTube Influencer Pilot Projesi",
@@ -696,6 +724,7 @@
       "social-media": "Sosyal Medya",
       "content": "İçerik Pazarlama",
       "orm": "İtibar Yönetimi",
+      "cro": "CRO",
       "ppc": "Performans Pazarlama",
       "seo": "SEO Hizmeti"
     },
@@ -730,9 +759,11 @@
       "japan": "Japonya",
       "netherlands": "Hollanda",
       "singapore": "Singapur",
+      "south-korea": "Güney Kore",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "malaysia": "Malezya",
+      "romania": "Romanya",
       "thailand": "Tayland",
       "turkey": "Türkiye"
     },
@@ -743,6 +774,7 @@
       "greek": "Yunanca",
       "italian": "İtalyanca",
       "arabic": "Arapça",
+      "indonesian": "Endonezce",
       "thai": "Tayca",
       "turkish": "Türkçe"
     },

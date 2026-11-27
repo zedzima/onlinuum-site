@@ -62,6 +62,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -139,6 +140,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -226,7 +228,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -237,6 +241,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -247,6 +252,72 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "cro",
+      "url": "/services/cro",
+      "title": "Conversion Rate Optimization: ניתוח CRO ובדיקות A/B",
+      "description": "Conversion rate optimization וניתוח CRO: אודיט UX, ניתוח משפך ו-A/B testing, וכל בדיקה נמדדת בגידול בהכנסות. החל מ-$500.",
+      "menu": "CRO",
+      "featured": false,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 2,
+      "country_count": 3,
+      "language_count": 2,
+      "domains": [
+        "growth-marketing",
+        "performance-marketing",
+        "product-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -296,7 +367,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -306,6 +379,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ]
       }
@@ -379,7 +453,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -390,6 +466,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -467,7 +544,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -478,6 +557,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -501,7 +581,7 @@
       "description": "ניהול רשתות חברתיות לצמיחת קהילה ולהכנסות: אסטרטגיה, תוכן ושיתופי פעולה עם משפיענים שנמדדים לפי ההמרות שהם מביאים.",
       "menu": "רשתות חברתיות",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -519,6 +599,7 @@
         ],
         "scopes": [
           "social-media-audit-strategy",
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
@@ -548,6 +629,7 @@
           "malaysia",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -557,6 +639,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -573,7 +656,8 @@
       "search-marketing": "שיווק במנועי חיפוש",
       "community-marketing": "ניהול קהילה",
       "product-marketing": "שיווק מוצר",
-      "brand-marketing": "שיווק מותג"
+      "brand-marketing": "שיווק מותג",
+      "growth-marketing": "שיווק צמיחה"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -590,6 +674,7 @@
       "seo-audit": "אודיט SEO",
       "technical-seo": "קידום אתרים טכני",
       "social-media-audit-strategy": "אודיט ואסטרטגיית סושיאל",
+      "telegram-channel-placements": "שיבוצים בערוצי טלגרם",
       "telegram-ads": "פרסום בטלגרם",
       "youtube-creator-pilot": "פיילוט יוצרי יוטיוב"
     },
@@ -633,9 +718,11 @@
       "japan": "יפן",
       "netherlands": "הולנד",
       "singapore": "סינגפור",
+      "south-korea": "דרום קוריאה",
       "sweden": "שוודיה",
       "switzerland": "שווייץ",
       "malaysia": "מלזיה",
+      "romania": "רומניה",
       "thailand": "תאילנד"
     },
     "languages": {
@@ -645,6 +732,7 @@
       "greek": "יוונית",
       "italian": "איטלקית",
       "arabic": "ערבית",
+      "indonesian": "אינדונזית",
       "thai": "תאית"
     },
     "positions": {

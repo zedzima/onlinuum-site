@@ -228,6 +228,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -240,6 +241,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -250,6 +252,72 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "cro",
+      "url": "/services/cro",
+      "title": "CRO 분석과 전환율 최적화 서비스",
+      "description": "CRO 분석과 전환율 최적화: UX 점검, 퍼널 분석, A/B 테스트를 진행하고 모든 테스트를 매출 증가로 측정합니다. $500부터 시작합니다.",
+      "menu": "CRO",
+      "featured": false,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 2,
+      "country_count": 3,
+      "language_count": 2,
+      "domains": [
+        "growth-marketing",
+        "performance-marketing",
+        "product-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -299,6 +367,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -310,6 +379,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ]
       }
@@ -383,6 +453,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -395,6 +466,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -472,6 +544,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -484,6 +557,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -507,7 +581,7 @@
       "description": "커뮤니티 성장과 매출을 위한 SNS 마케팅 대행입니다. 전략, 콘텐츠, 인플루언서 협업을 운영하고 전환 성과로 평가합니다.",
       "menu": "SNS 마케팅",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -525,6 +599,7 @@
         ],
         "scopes": [
           "social-media-audit-strategy",
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
@@ -564,6 +639,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -580,7 +656,8 @@
       "search-marketing": "검색엔진 마케팅",
       "community-marketing": "커뮤니티 마케팅",
       "product-marketing": "프로덕트 마케팅",
-      "brand-marketing": "브랜드 마케팅"
+      "brand-marketing": "브랜드 마케팅",
+      "growth-marketing": "그로스 마케팅"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -597,6 +674,7 @@
       "seo-audit": "SEO 점검",
       "technical-seo": "테크니컬 SEO",
       "social-media-audit-strategy": "SNS 진단·전략",
+      "telegram-channel-placements": "텔레그램 채널 홍보",
       "telegram-ads": "텔레그램 광고",
       "youtube-creator-pilot": "유튜브 크리에이터 파일럿"
     },
@@ -644,6 +722,7 @@
       "sweden": "스웨덴",
       "switzerland": "스위스",
       "malaysia": "말레이시아",
+      "romania": "루마니아",
       "thailand": "태국"
     },
     "languages": {
@@ -653,6 +732,7 @@
       "greek": "그리스어",
       "italian": "이탈리아어",
       "arabic": "아랍어",
+      "indonesian": "인도네시아어",
       "thai": "태국어"
     },
     "positions": {

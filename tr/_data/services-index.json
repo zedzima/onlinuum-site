@@ -62,6 +62,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -139,6 +140,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -226,7 +228,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -238,6 +242,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -249,6 +254,74 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "cro",
+      "url": "/services/cro",
+      "title": "CRO Analizi: Conversion Rate Optimization Hizmeti",
+      "description": "CRO analizi ve conversion rate optimization: UX audit, satış hunisi analizi ve A/B testi; her test gelir artışıyla ölçülür. 500 $'dan başlar.",
+      "menu": "CRO",
+      "featured": false,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 2,
+      "country_count": 3,
+      "language_count": 2,
+      "domains": [
+        "growth-marketing",
+        "performance-marketing",
+        "product-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand",
+          "turkey"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai",
+          "turkish"
         ]
       }
     },
@@ -298,7 +371,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -309,6 +384,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "turkish"
         ]
@@ -383,7 +459,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -395,6 +473,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -473,7 +552,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -485,6 +566,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai",
           "turkish"
@@ -509,7 +591,7 @@
       "description": "Gelire odaklı sosyal medya yönetimi: strateji, içerik, topluluk yönetimi ve dönüşümle ölçülen influencer iş birlikleri.",
       "menu": "Sosyal Medya",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -527,6 +609,7 @@
         ],
         "scopes": [
           "social-media-audit-strategy",
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
@@ -556,6 +639,7 @@
           "malaysia",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -565,6 +649,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -581,7 +666,8 @@
       "search-marketing": "Arama Motoru Pazarlaması",
       "community-marketing": "Topluluk Pazarlaması",
       "product-marketing": "Ürün Pazarlaması",
-      "brand-marketing": "Marka Pazarlaması"
+      "brand-marketing": "Marka Pazarlaması",
+      "growth-marketing": "Growth Marketing (Büyüme)"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -598,6 +684,7 @@
       "seo-audit": "SEO Analizi",
       "technical-seo": "Teknik SEO",
       "social-media-audit-strategy": "Sosyal Medya Analizi ve Strateji",
+      "telegram-channel-placements": "Telegram Kanal Yerleşimleri",
       "telegram-ads": "Telegram Reklamları",
       "youtube-creator-pilot": "YouTube Influencer Pilot Projesi"
     },
@@ -641,9 +728,11 @@
       "japan": "Japonya",
       "netherlands": "Hollanda",
       "singapore": "Singapur",
+      "south-korea": "Güney Kore",
       "sweden": "İsveç",
       "switzerland": "İsviçre",
       "malaysia": "Malezya",
+      "romania": "Romanya",
       "thailand": "Tayland",
       "turkey": "Türkiye"
     },
@@ -654,6 +743,7 @@
       "greek": "Yunanca",
       "italian": "İtalyanca",
       "arabic": "Arapça",
+      "indonesian": "Endonezce",
       "thai": "Tayca",
       "turkish": "Türkçe"
     },

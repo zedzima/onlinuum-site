@@ -15,7 +15,7 @@
       "market_country_count": 16,
       "official_countries_count": 16,
       "scope_count": 6,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -42,6 +42,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "orm",
           "ppc",
           "seo",
@@ -79,7 +80,7 @@
       "market_country_count": 3,
       "official_countries_count": 3,
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -113,6 +114,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -153,8 +155,8 @@
       "market_speakers_est": 1667436551,
       "market_country_count": 69,
       "official_countries_count": 69,
-      "scope_count": 20,
-      "service_count": 7,
+      "scope_count": 21,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -186,6 +188,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -205,6 +208,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -234,6 +238,7 @@
           "malaysia",
           "belgium",
           "austria",
+          "romania",
           "singapore",
           "greece",
           "denmark",
@@ -276,7 +281,7 @@
       "market_country_count": 2,
       "official_countries_count": 2,
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -310,6 +315,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -362,6 +368,68 @@
       }
     },
     {
+      "slug": "indonesian",
+      "url": "/languages/indonesian",
+      "title": "Indonesische teksten en marketing in Bahasa Indonesia",
+      "description": "Indonesische teksten en online marketing voor merken die Indonesië betreden: native specialisten in Bahasa Indonesia voor SEO, SEA en content.",
+      "menu": "Indonesisch",
+      "featured": false,
+      "flag": "",
+      "code": "ID",
+      "native_speakers_l1": "181M",
+      "market_speakers_display": "181M",
+      "market_speakers_est": 180519583,
+      "market_country_count": 2,
+      "official_countries_count": 2,
+      "scope_count": 6,
+      "service_count": 6,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit",
+          "youtube-ads"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "orm",
+          "social-media",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "manufacturing"
+        ],
+        "countries": [
+          "netherlands"
+        ],
+        "positions": [
+          "ppc-specialist"
+        ]
+      }
+    },
+    {
       "slug": "italian",
       "url": "/languages/italian",
       "title": "Italiaanse teksten en marketing voor de Italiaanse markt",
@@ -376,7 +444,7 @@
       "market_country_count": 9,
       "official_countries_count": 9,
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -410,6 +478,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -488,6 +557,9 @@
       "case_count": 0,
       "solution_count": 0,
       "facets": {
+        "countries": [
+          "south-korea"
+        ],
         "positions": [
           "seo-expert"
         ]
@@ -565,6 +637,7 @@
           "usa",
           "france",
           "uk",
+          "romania",
           "canada",
           "portugal",
           "eu"
@@ -599,7 +672,7 @@
       "market_country_count": 1,
       "official_countries_count": 1,
       "scope_count": 5,
-      "service_count": 4,
+      "service_count": 5,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -625,6 +698,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "seo",
           "ppc"
@@ -671,6 +745,7 @@
       "google-shopping": "Google Shopping",
       "social-media-audit-strategy": "Social media audit en strategie",
       "telegram-ads": "Telegram Ads-beheer",
+      "telegram-channel-placements": "Telegram-kanaalplaatsingen",
       "video-content-production": "Videoproductie",
       "youtube-ads": "YouTube Ads-beheer",
       "youtube-channel-management": "YouTube-kanaalbeheer",
@@ -682,6 +757,7 @@
     },
     "services": {
       "content": "Contentmarketing",
+      "cro": "Conversieoptimalisatie",
       "orm": "ORM",
       "ppc": "SEA",
       "seo": "SEO",
@@ -712,6 +788,7 @@
       "sweden": "Zweden",
       "malaysia": "Maleisië",
       "austria": "Oostenrijk",
+      "romania": "Roemenië",
       "singapore": "Singapore",
       "greece": "Griekenland",
       "denmark": "Denemarken",
@@ -722,7 +799,8 @@
       "portugal": "Portugal",
       "bulgaria": "Bulgarije",
       "estonia": "Estland",
-      "japan": "Japan"
+      "japan": "Japan",
+      "south-korea": "Zuid-Korea"
     },
     "positions": {
       "seo-expert": "SEO-specialist",

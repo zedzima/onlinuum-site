@@ -439,7 +439,8 @@
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "indonesian"
         ]
       },
       "services": [
@@ -563,7 +564,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -671,6 +674,7 @@
           "performance-marketing"
         ],
         "scopes": [
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "youtube-channel-management",
@@ -766,6 +770,7 @@
       "youtube-ads": "YouTube Ads",
       "technical-seo": "SEO techniczne",
       "seo-audit": "Kompleksowy audyt SEO",
+      "telegram-channel-placements": "Publikacje natywne w kanałach Telegram",
       "youtube-creator-pilot": "Pilotaż z twórcami YouTube",
       "youtube-channel-management": "Prowadzenie kanału na YouTube",
       "social-media-audit-strategy": "Audyt i strategia social media"
@@ -816,6 +821,8 @@
       "greece": "Grecja",
       "ireland": "Irlandia",
       "israel": "Izrael",
+      "romania": "Rumunia",
+      "south-korea": "Korea Południowa",
       "switzerland": "Szwajcaria"
     },
     "languages": {
@@ -826,6 +833,7 @@
       "dutch": "Niderlandzki",
       "arabic": "Arabski",
       "japanese": "Japoński",
+      "indonesian": "Indonezyjski",
       "greek": "Grecki",
       "hebrew": "Hebrajski",
       "korean": "Koreański",

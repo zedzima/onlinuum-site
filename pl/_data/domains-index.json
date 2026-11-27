@@ -61,6 +61,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -86,13 +87,14 @@
       "featured": true,
       "icon": "award",
       "service_count": 3,
-      "scope_count": 7,
+      "scope_count": 8,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "telegram-channel-placements",
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
@@ -143,7 +145,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -155,6 +159,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -173,13 +178,14 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "telegram-channel-placements",
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
@@ -228,6 +234,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -253,7 +260,7 @@
       "menu": "Growth marketing",
       "featured": true,
       "icon": "trending-up",
-      "service_count": 0,
+      "service_count": 1,
       "scope_count": 2,
       "solution_count": 2,
       "case_count": 0,
@@ -270,6 +277,9 @@
         "solutions": [
           "digital-marketing-consulting",
           "multilingual-seo"
+        ],
+        "services": [
+          "cro"
         ],
         "industries": [
           "manufacturing",
@@ -302,7 +312,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -314,6 +326,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -370,7 +383,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -380,6 +395,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ]
@@ -393,7 +409,7 @@
       "menu": "Marketing efektywnościowy",
       "featured": true,
       "icon": "target",
-      "service_count": 2,
+      "service_count": 3,
       "scope_count": 6,
       "solution_count": 1,
       "case_count": 2,
@@ -419,6 +435,7 @@
           "digital-marketing-consulting"
         ],
         "services": [
+          "cro",
           "ppc",
           "app-user-acquisition"
         ],
@@ -451,7 +468,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -462,6 +481,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -480,7 +500,7 @@
       "menu": "Marketing produktu",
       "featured": true,
       "icon": "compass",
-      "service_count": 1,
+      "service_count": 2,
       "scope_count": 3,
       "solution_count": 2,
       "case_count": 0,
@@ -500,7 +520,8 @@
           "multilingual-seo"
         ],
         "services": [
-          "content"
+          "content",
+          "cro"
         ],
         "industries": [
           "ecommerce",
@@ -533,7 +554,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -545,6 +568,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ]
@@ -623,7 +647,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -635,6 +661,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -661,6 +688,7 @@
       "app-store-cro": "CRO karty aplikacji",
       "app-retention": "Retencja aplikacji",
       "seo-research": "Analiza SEO",
+      "telegram-channel-placements": "Publikacje natywne w kanałach Telegram",
       "youtube-channel-management": "Prowadzenie kanału na YouTube",
       "video-content-production": "Produkcja treści wideo",
       "youtube-creator-pilot": "Pilotaż z twórcami YouTube",
@@ -690,6 +718,7 @@
       "social-media": "Social media",
       "content": "Content marketing",
       "orm": "Ochrona wizerunku",
+      "cro": "Optymalizacja konwersji",
       "ppc": "Google Ads",
       "seo": "Pozycjonowanie"
     },
@@ -724,9 +753,11 @@
       "japan": "Japonia",
       "netherlands": "Holandia",
       "singapore": "Singapur",
+      "south-korea": "Korea Południowa",
       "sweden": "Szwecja",
       "switzerland": "Szwajcaria",
       "malaysia": "Malezja",
+      "romania": "Rumunia",
       "thailand": "Tajlandia"
     },
     "languages": {
@@ -737,6 +768,7 @@
       "greek": "Grecki",
       "italian": "Włoski",
       "arabic": "Arabski",
+      "indonesian": "Indonezyjski",
       "thai": "Tajski"
     },
     "positions": {

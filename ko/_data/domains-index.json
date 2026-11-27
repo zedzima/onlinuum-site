@@ -86,13 +86,14 @@
       "featured": true,
       "icon": "award",
       "service_count": 3,
-      "scope_count": 7,
+      "scope_count": 8,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "telegram-channel-placements",
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
@@ -143,6 +144,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -155,6 +157,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -173,13 +176,14 @@
       "featured": true,
       "icon": "users",
       "service_count": 2,
-      "scope_count": 6,
+      "scope_count": 7,
       "solution_count": 2,
       "case_count": 0,
       "expert_count": 1,
       "facets": {
         "scopes": [
           "seo-research",
+          "telegram-channel-placements",
           "youtube-channel-management",
           "video-content-production",
           "youtube-creator-pilot",
@@ -253,7 +257,7 @@
       "menu": "그로스 마케팅",
       "featured": true,
       "icon": "trending-up",
-      "service_count": 0,
+      "service_count": 1,
       "scope_count": 2,
       "solution_count": 2,
       "case_count": 0,
@@ -270,6 +274,9 @@
         "solutions": [
           "digital-marketing-consulting",
           "multilingual-seo"
+        ],
+        "services": [
+          "cro"
         ],
         "industries": [
           "manufacturing",
@@ -302,6 +309,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -314,6 +322,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -370,6 +379,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -381,6 +391,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ]
@@ -394,7 +405,7 @@
       "menu": "퍼포먼스 마케팅",
       "featured": true,
       "icon": "target",
-      "service_count": 2,
+      "service_count": 3,
       "scope_count": 6,
       "solution_count": 1,
       "case_count": 2,
@@ -420,6 +431,7 @@
           "digital-marketing-consulting"
         ],
         "services": [
+          "cro",
           "ppc",
           "app-user-acquisition"
         ],
@@ -452,6 +464,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -464,6 +477,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -482,7 +496,7 @@
       "menu": "프로덕트 마케팅",
       "featured": true,
       "icon": "compass",
-      "service_count": 1,
+      "service_count": 2,
       "scope_count": 3,
       "solution_count": 2,
       "case_count": 0,
@@ -502,7 +516,8 @@
           "multilingual-seo"
         ],
         "services": [
-          "content"
+          "content",
+          "cro"
         ],
         "industries": [
           "ecommerce",
@@ -535,6 +550,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -547,6 +563,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ]
@@ -625,6 +642,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -637,6 +655,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -663,6 +682,7 @@
       "app-store-cro": "앱스토어 CRO",
       "app-retention": "앱 리텐션",
       "seo-research": "SEO 키워드 분석",
+      "telegram-channel-placements": "텔레그램 채널 홍보",
       "youtube-channel-management": "유튜브 채널 관리",
       "video-content-production": "영상 콘텐츠 제작",
       "youtube-creator-pilot": "유튜브 크리에이터 파일럿",
@@ -692,6 +712,7 @@
       "social-media": "SNS 마케팅",
       "content": "콘텐츠 마케팅",
       "orm": "평판 관리",
+      "cro": "CRO",
       "ppc": "검색광고",
       "seo": "SEO 대행"
     },
@@ -730,6 +751,7 @@
       "sweden": "스웨덴",
       "switzerland": "스위스",
       "malaysia": "말레이시아",
+      "romania": "루마니아",
       "thailand": "태국"
     },
     "languages": {
@@ -739,6 +761,7 @@
       "greek": "그리스어",
       "italian": "이탈리아어",
       "arabic": "아랍어",
+      "indonesian": "인도네시아어",
       "thai": "태국어"
     },
     "positions": {

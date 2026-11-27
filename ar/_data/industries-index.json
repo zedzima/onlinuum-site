@@ -8,7 +8,7 @@
       "menu": "السيارات",
       "featured": false,
       "icon": "automotive",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 1,
@@ -32,6 +32,7 @@
           "ppc-audit",
           "seo-audit",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -77,6 +78,8 @@
           "italy",
           "japan",
           "netherlands",
+          "romania",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -111,8 +114,8 @@
       "menu": "التجارة الإلكترونية",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 20,
-      "service_count": 7,
+      "scope_count": 21,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -144,6 +147,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -168,6 +172,7 @@
           "app-user-acquisition",
           "seo",
           "ppc",
+          "cro",
           "social-media"
         ],
         "countries": [
@@ -194,7 +199,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -206,6 +213,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -232,7 +240,7 @@
       "menu": "التكنولوجيا المالية",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 16,
+      "scope_count": 17,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -264,6 +272,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "youtube-ads"
         ],
         "experts": [
@@ -306,7 +315,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -318,6 +329,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ],
         "blog-posts": [
@@ -405,7 +417,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -415,6 +429,7 @@
           "spanish",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ],
         "blog-posts": [
@@ -437,8 +452,8 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 19,
-      "service_count": 7,
+      "scope_count": 20,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -469,6 +484,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -493,6 +509,7 @@
           "app-user-acquisition",
           "seo",
           "ppc",
+          "cro",
           "social-media"
         ],
         "countries": [
@@ -519,7 +536,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -531,6 +550,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -570,6 +590,7 @@
       "ppc-audit": "تدقيق PPC",
       "seo-audit": "تدقيق SEO",
       "telegram-ads": "إعلانات تليجرام",
+      "telegram-channel-placements": "المواضع المدمجة في قنوات تليجرام",
       "video-content-production": "إنتاج محتوى الفيديو",
       "youtube-ads": "YouTube Ads",
       "youtube-channel-management": "إدارة قناة YouTube",
@@ -603,7 +624,8 @@
       "seo": "سيو SEO",
       "ppc": "PPC",
       "aso": "تحسين متجر التطبيقات ASO",
-      "app-user-acquisition": "اكتساب مستخدمي التطبيقات"
+      "app-user-acquisition": "اكتساب مستخدمي التطبيقات",
+      "cro": "تحسين معدل التحويل"
     },
     "countries": {
       "usa": "الولايات المتحدة",
@@ -627,6 +649,8 @@
       "italy": "إيطاليا",
       "japan": "اليابان",
       "netherlands": "هولندا",
+      "romania": "رومانيا",
+      "south-korea": "كوريا الجنوبية",
       "sweden": "السويد",
       "switzerland": "سويسرا",
       "thailand": "تايلاند",
@@ -642,7 +666,8 @@
       "dutch": "الهولندية",
       "greek": "اليونانية",
       "italian": "الإيطالية",
-      "thai": "التايلاندية"
+      "thai": "التايلاندية",
+      "indonesian": "الإندونيسية"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "كيف يختار الذكاء الاصطناعي مصادره",

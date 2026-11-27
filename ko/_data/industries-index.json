@@ -8,7 +8,7 @@
       "menu": "자동차",
       "featured": false,
       "icon": "automotive",
-      "scope_count": 12,
+      "scope_count": 13,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 1,
@@ -32,6 +32,7 @@
           "ppc-audit",
           "seo-audit",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -77,6 +78,7 @@
           "italy",
           "japan",
           "netherlands",
+          "romania",
           "south-korea",
           "sweden",
           "switzerland",
@@ -111,8 +113,8 @@
       "menu": "이커머스",
       "featured": false,
       "icon": "ecommerce",
-      "scope_count": 20,
-      "service_count": 7,
+      "scope_count": 21,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -144,6 +146,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -168,6 +171,7 @@
           "app-user-acquisition",
           "seo",
           "ppc",
+          "cro",
           "social-media"
         ],
         "countries": [
@@ -194,6 +198,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -206,6 +211,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -232,7 +238,7 @@
       "menu": "핀테크",
       "featured": false,
       "icon": "fintech",
-      "scope_count": 16,
+      "scope_count": 17,
       "service_count": 6,
       "expert_count": 2,
       "case_count": 0,
@@ -264,6 +270,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "youtube-ads"
         ],
         "experts": [
@@ -306,6 +313,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -318,6 +326,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ],
         "blog-posts": [
@@ -405,6 +414,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -416,6 +426,7 @@
           "spanish",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ],
         "blog-posts": [
@@ -438,8 +449,8 @@
       "menu": "SaaS",
       "featured": false,
       "icon": "monitor",
-      "scope_count": 19,
-      "service_count": 7,
+      "scope_count": 20,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 1,
       "solution_count": 2,
@@ -470,6 +481,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -494,6 +506,7 @@
           "app-user-acquisition",
           "seo",
           "ppc",
+          "cro",
           "social-media"
         ],
         "countries": [
@@ -520,6 +533,7 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
           "south-korea",
           "sweden",
@@ -532,6 +546,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -571,6 +586,7 @@
       "ppc-audit": "광고 성과 분석",
       "seo-audit": "SEO 점검",
       "telegram-ads": "텔레그램 광고",
+      "telegram-channel-placements": "텔레그램 채널 홍보",
       "video-content-production": "영상 콘텐츠 제작",
       "youtube-ads": "유튜브 광고",
       "youtube-channel-management": "유튜브 채널 관리",
@@ -604,7 +620,8 @@
       "seo": "SEO 대행",
       "ppc": "검색광고",
       "aso": "ASO 최적화",
-      "app-user-acquisition": "앱 사용자 획득"
+      "app-user-acquisition": "앱 사용자 획득",
+      "cro": "CRO"
     },
     "countries": {
       "usa": "미국",
@@ -628,6 +645,7 @@
       "italy": "이탈리아",
       "japan": "일본",
       "netherlands": "네덜란드",
+      "romania": "루마니아",
       "south-korea": "대한민국",
       "sweden": "스웨덴",
       "switzerland": "스위스",
@@ -643,7 +661,8 @@
       "dutch": "네덜란드어",
       "greek": "그리스어",
       "italian": "이탈리아어",
-      "thai": "태국어"
+      "thai": "태국어",
+      "indonesian": "인도네시아어"
     },
     "blog-posts": {
       "how-ai-chooses-sources": "AI가 출처를 고르는 방식",

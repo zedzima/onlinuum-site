@@ -88,7 +88,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -123,6 +123,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -161,7 +162,7 @@
       "dominant_language_name": "불가리아어",
       "dominant_language_code": "bg",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -192,6 +193,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -229,7 +231,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 11,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -267,6 +269,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -307,7 +310,7 @@
       "dominant_language_name": "중국어",
       "dominant_language_code": "zh",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -342,6 +345,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -376,7 +380,7 @@
       "dominant_language_name": "체코어",
       "dominant_language_code": "cs",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -411,6 +415,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -448,7 +453,7 @@
       "dominant_language_name": "덴마크어",
       "dominant_language_code": "da",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -479,6 +484,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -516,7 +522,7 @@
       "dominant_language_name": "에스토니아어",
       "dominant_language_code": "et",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 0,
       "case_count": 1,
       "solution_count": 2,
@@ -550,6 +556,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -587,7 +594,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 2,
       "solution_count": 2,
@@ -627,6 +634,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -668,7 +676,7 @@
       "dominant_language_name": "핀란드어",
       "dominant_language_code": "fi",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 0,
       "case_count": 0,
       "solution_count": 2,
@@ -699,6 +707,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -821,7 +830,7 @@
       "dominant_language_name": "그리스어",
       "dominant_language_code": "el",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -856,6 +865,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -894,7 +904,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -929,6 +939,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -966,7 +977,7 @@
       "dominant_language_name": "히브리어",
       "dominant_language_code": "he",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1001,6 +1012,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1041,7 +1053,7 @@
       "dominant_language_name": "이탈리아어",
       "dominant_language_code": "it",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1076,6 +1088,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1116,7 +1129,7 @@
       "dominant_language_name": "일본어",
       "dominant_language_code": "ja",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1151,6 +1164,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1189,7 +1203,7 @@
       "dominant_language_name": "말레이어",
       "dominant_language_code": "ms",
       "scope_count": 6,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -1219,6 +1233,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "orm",
           "social-media",
           "seo",
@@ -1254,7 +1269,7 @@
       "dominant_language_name": "네덜란드어",
       "dominant_language_code": "nl",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1289,6 +1304,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1305,7 +1321,8 @@
         ],
         "languages": [
           "dutch",
-          "english"
+          "english",
+          "indonesian"
         ],
         "positions": [
           "seo-expert",
@@ -1328,7 +1345,7 @@
       "significant_languages_count": 4,
       "dominant_language_name": "폴란드어",
       "dominant_language_code": "pl",
-      "scope_count": 16,
+      "scope_count": 17,
       "service_count": 5,
       "expert_count": 2,
       "case_count": 0,
@@ -1358,6 +1375,7 @@
           "ppc-audit",
           "seo-audit",
           "telegram-ads",
+          "telegram-channel-placements",
           "youtube-ads",
           "youtube-creator-pilot"
         ],
@@ -1477,6 +1495,68 @@
       }
     },
     {
+      "slug": "romania",
+      "url": "/countries/romania",
+      "title": "루마니아 시장 진출을 위한 디지털 마케팅",
+      "description": "인구 1,810만 명의 EU 시장, 루마니아 시장에 진출하는 기업을 위한 디지털 마케팅. 고정 가격 모듈, 루마니아어 원어민 실행, 부쿠레슈티 사무실 불필요.",
+      "menu": "루마니아",
+      "featured": false,
+      "flag": "🇷🇴",
+      "population_total": "18.1M",
+      "population_total_raw": 18148200,
+      "official_languages_count": 5,
+      "significant_languages_count": 5,
+      "dominant_language_name": "루마니아어",
+      "dominant_language_code": "ro",
+      "scope_count": 5,
+      "service_count": 5,
+      "expert_count": 0,
+      "case_count": 0,
+      "solution_count": 2,
+      "facets": {
+        "domains": [
+          "search-marketing",
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing",
+          "marketing-operations",
+          "brand-marketing"
+        ],
+        "scopes": [
+          "technical-seo",
+          "seo-research",
+          "google-ads-search",
+          "google-shopping",
+          "ppc-audit"
+        ],
+        "solutions": [
+          "digital-marketing-consulting",
+          "multilingual-seo"
+        ],
+        "services": [
+          "content",
+          "cro",
+          "orm",
+          "seo",
+          "ppc"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive",
+          "manufacturing"
+        ],
+        "languages": [
+          "english",
+          "spanish"
+        ],
+        "positions": [
+          "seo-expert"
+        ]
+      }
+    },
+    {
       "slug": "singapore",
       "url": "/countries/singapore",
       "title": "싱가포르 시장 진출을 위한 디지털 마케팅 대행사",
@@ -1491,7 +1571,7 @@
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
       "scope_count": 12,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1530,6 +1610,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1567,7 +1648,7 @@
       "dominant_language_name": "한국어",
       "dominant_language_code": "ko",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1602,6 +1683,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1725,7 +1807,7 @@
       "dominant_language_name": "스웨덴어",
       "dominant_language_code": "sv",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1760,6 +1842,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1798,7 +1881,7 @@
       "dominant_language_name": "독일어",
       "dominant_language_code": "de",
       "scope_count": 8,
-      "service_count": 7,
+      "service_count": 8,
       "expert_count": 2,
       "case_count": 0,
       "solution_count": 2,
@@ -1833,6 +1916,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -1871,7 +1955,7 @@
       "dominant_language_name": "태국어",
       "dominant_language_code": "th",
       "scope_count": 6,
-      "service_count": 5,
+      "service_count": 6,
       "expert_count": 1,
       "case_count": 0,
       "solution_count": 2,
@@ -1902,6 +1986,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "orm",
           "social-media",
           "seo",
@@ -1939,8 +2024,8 @@
       "significant_languages_count": 9,
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
-      "scope_count": 20,
-      "service_count": 7,
+      "scope_count": 21,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 0,
       "solution_count": 2,
@@ -1972,6 +2057,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -1988,6 +2074,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -2033,8 +2120,8 @@
       "significant_languages_count": 2,
       "dominant_language_name": "영어",
       "dominant_language_code": "en",
-      "scope_count": 20,
-      "service_count": 7,
+      "scope_count": 21,
+      "service_count": 8,
       "expert_count": 3,
       "case_count": 0,
       "solution_count": 2,
@@ -2066,6 +2153,7 @@
           "seo-audit",
           "social-media-audit-strategy",
           "telegram-ads",
+          "telegram-channel-placements",
           "video-content-production",
           "youtube-ads",
           "youtube-channel-management",
@@ -2082,6 +2170,7 @@
         ],
         "services": [
           "content",
+          "cro",
           "social-media",
           "aso",
           "orm",
@@ -2147,7 +2236,8 @@
       "ppc-audit": "광고 성과 분석",
       "social-media-audit-strategy": "SNS 진단·전략",
       "youtube-ads": "유튜브 광고",
-      "telegram-ads": "텔레그램 광고"
+      "telegram-ads": "텔레그램 광고",
+      "telegram-channel-placements": "텔레그램 채널 홍보"
     },
     "experts": {
       "dima-gerko": "디마 게르코",
@@ -2163,6 +2253,7 @@
       "aso": "ASO 최적화",
       "app-user-acquisition": "앱 사용자 획득",
       "seo": "SEO 대행",
+      "cro": "CRO",
       "social-media": "SNS 마케팅",
       "orm": "평판 관리",
       "ppc": "검색광고"
@@ -2183,6 +2274,7 @@
       "greek": "그리스어",
       "hebrew": "히브리어",
       "japanese": "일본어",
+      "indonesian": "인도네시아어",
       "korean": "한국어",
       "thai": "태국어"
     },

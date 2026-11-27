@@ -62,6 +62,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "uae"
@@ -140,6 +141,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "uae"
@@ -228,7 +230,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -240,6 +244,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -250,6 +255,73 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "cro",
+      "url": "/services/cro",
+      "title": "تحسين معدل التحويل CRO: تحليل وتدقيق واختبارات A/B",
+      "description": "تحسين معدل التحويل CRO: تدقيق تجربة المستخدم وتحليل مسار التحويل واختبارات A/B، وكل اختبار يقاس بزيادة الإيرادات. من $500.",
+      "menu": "تحسين معدل التحويل",
+      "featured": false,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 2,
+      "country_count": 3,
+      "language_count": 2,
+      "domains": [
+        "growth-marketing",
+        "performance-marketing",
+        "product-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand",
+          "uae"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -299,7 +371,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -310,6 +384,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ]
       }
@@ -383,7 +458,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -395,6 +472,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -472,7 +550,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -484,6 +564,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -507,7 +588,7 @@
       "description": "إدارة حسابات التواصل الاجتماعي لنمو المجتمع والإيرادات: استراتيجية ومحتوى وشراكات مؤثرين تقاس بما تحققه من تحويلات.",
       "menu": "وسائل التواصل الاجتماعي",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -525,6 +606,7 @@
         ],
         "scopes": [
           "social-media-audit-strategy",
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
@@ -554,6 +636,7 @@
           "malaysia",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand",
@@ -564,6 +647,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -580,7 +664,8 @@
       "search-marketing": "التسويق عبر محركات البحث",
       "community-marketing": "التسويق المجتمعي",
       "product-marketing": "تسويق المنتجات",
-      "brand-marketing": "تسويق العلامة التجارية"
+      "brand-marketing": "تسويق العلامة التجارية",
+      "growth-marketing": "تسويق النمو"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -597,6 +682,7 @@
       "seo-audit": "تدقيق SEO",
       "technical-seo": "السيو التقني",
       "social-media-audit-strategy": "تدقيق السوشيال ميديا واستراتيجيتها",
+      "telegram-channel-placements": "المواضع المدمجة في قنوات تليجرام",
       "telegram-ads": "إعلانات تليجرام",
       "youtube-creator-pilot": "تجربة صناع المحتوى على YouTube"
     },
@@ -640,10 +726,12 @@
       "japan": "اليابان",
       "netherlands": "هولندا",
       "singapore": "سنغافورة",
+      "south-korea": "كوريا الجنوبية",
       "sweden": "السويد",
       "switzerland": "سويسرا",
       "uae": "الإمارات",
       "malaysia": "ماليزيا",
+      "romania": "رومانيا",
       "thailand": "تايلاند"
     },
     "languages": {
@@ -653,6 +741,7 @@
       "greek": "اليونانية",
       "italian": "الإيطالية",
       "arabic": "العربية",
+      "indonesian": "الإندونيسية",
       "thai": "التايلاندية"
     },
     "positions": {

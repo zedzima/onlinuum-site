@@ -62,6 +62,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -139,6 +140,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -226,7 +228,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -237,6 +241,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -247,6 +252,72 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "cro",
+      "url": "/services/cro",
+      "title": "CVR改善とCRO分析｜ABテスト・LPOを固定料金で",
+      "description": "CVR 改善のためのCRO分析。UX診断、ファネル分析、ABテストを行い、すべてのテストを売上の伸びで測ります。$500から。",
+      "menu": "CRO（CVR改善）",
+      "featured": false,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 2,
+      "country_count": 3,
+      "language_count": 2,
+      "domains": [
+        "growth-marketing",
+        "performance-marketing",
+        "product-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -296,7 +367,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -306,6 +379,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ]
       }
@@ -379,7 +453,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -390,6 +466,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -467,7 +544,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -478,6 +557,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -501,7 +581,7 @@
       "description": "コミュニティと売上のためのSNS運用代行です。戦略、コンテンツ制作、インフルエンサー連携まで、成果につながったかで評価する運用をご提供します。",
       "menu": "SNS運用代行",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -519,6 +599,7 @@
         ],
         "scopes": [
           "social-media-audit-strategy",
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
@@ -548,6 +629,7 @@
           "malaysia",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -557,6 +639,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -573,7 +656,8 @@
       "search-marketing": "検索マーケティング",
       "community-marketing": "コミュニティマーケティング",
       "product-marketing": "プロダクトマーケティング",
-      "brand-marketing": "ブランドマーケティング"
+      "brand-marketing": "ブランドマーケティング",
+      "growth-marketing": "グロースマーケティング"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -590,6 +674,7 @@
       "seo-audit": "SEO診断",
       "technical-seo": "テクニカルSEO",
       "social-media-audit-strategy": "SNS診断・戦略",
+      "telegram-channel-placements": "Telegramチャンネル純広告",
       "telegram-ads": "Telegram Ads",
       "youtube-creator-pilot": "YouTuber PRパイロット"
     },
@@ -633,9 +718,11 @@
       "japan": "日本",
       "netherlands": "オランダ",
       "singapore": "シンガポール",
+      "south-korea": "韓国",
       "sweden": "スウェーデン",
       "switzerland": "スイス",
       "malaysia": "マレーシア",
+      "romania": "ルーマニア",
       "thailand": "タイ"
     },
     "languages": {
@@ -645,6 +732,7 @@
       "greek": "ギリシャ語",
       "italian": "イタリア語",
       "arabic": "アラビア語",
+      "indonesian": "インドネシア語",
       "thai": "タイ語"
     },
     "positions": {

@@ -63,6 +63,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -142,6 +143,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -231,7 +233,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -243,6 +247,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -253,6 +258,74 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "cro",
+      "url": "/services/cro",
+      "title": "CRO-Analyse und Conversion-Rate-Optimierung",
+      "description": "CRO-Analyse und Conversion-Rate-Optimierung: UX-Audits, Funnel-Analyse und A/B-Testing, jeder Test am Umsatzplus gemessen. Ab 500 $.",
+      "menu": "Conversion-Optimierung",
+      "featured": false,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 2,
+      "country_count": 3,
+      "language_count": 2,
+      "domains": [
+        "growth-marketing",
+        "performance-marketing",
+        "product-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "germany",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "german",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -303,7 +376,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -314,6 +389,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ]
       }
@@ -388,7 +464,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -400,6 +478,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -478,7 +557,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -490,6 +571,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -513,7 +595,7 @@
       "description": "Social-Media-Agentur für Community und Umsatz: Strategie, Inhalte und Kooperationen, gemessen an Conversions. Starter ab 400 $/Monat.",
       "menu": "Social Media Betreuung",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -531,6 +613,7 @@
         ],
         "scopes": [
           "social-media-audit-strategy",
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
@@ -561,6 +644,7 @@
           "malaysia",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -571,6 +655,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -587,7 +672,8 @@
       "search-marketing": "Suchmaschinenmarketing",
       "community-marketing": "Community-Marketing",
       "product-marketing": "Produktmarketing",
-      "brand-marketing": "Markenmarketing"
+      "brand-marketing": "Markenmarketing",
+      "growth-marketing": "Growth-Marketing"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -604,6 +690,7 @@
       "seo-audit": "SEO-Audit",
       "technical-seo": "Technisches SEO",
       "social-media-audit-strategy": "Social-Media-Audit und -Strategie",
+      "telegram-channel-placements": "Platzierungen in Telegram-Kanälen",
       "telegram-ads": "Telegram-Werbung",
       "youtube-creator-pilot": "YouTube-Creator-Pilot"
     },
@@ -648,9 +735,11 @@
       "japan": "Japan",
       "netherlands": "Niederlande",
       "singapore": "Singapur",
+      "south-korea": "Südkorea",
       "sweden": "Schweden",
       "switzerland": "Schweiz",
       "malaysia": "Malaysia",
+      "romania": "Rumänien",
       "thailand": "Thailand"
     },
     "languages": {
@@ -661,6 +750,7 @@
       "greek": "Griechisch",
       "italian": "Italienisch",
       "arabic": "Arabisch",
+      "indonesian": "Indonesisch",
       "thai": "Thailändisch"
     },
     "positions": {

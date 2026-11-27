@@ -62,6 +62,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -140,6 +141,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -228,7 +230,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -240,6 +244,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -250,6 +255,72 @@
           "business-development-manager",
           "marketing-consultant",
           "social-media-manager"
+        ]
+      }
+    },
+    {
+      "slug": "cro",
+      "url": "/services/cro",
+      "title": "Optymalizacja konwersji (CRO): audyt UX i testy A/B",
+      "description": "Optymalizacja konwersji i analiza CRO: audyt UX, analiza lejka i testy A/B, a każdy test mierzony wzrostem przychodu. Od 500 USD.",
+      "menu": "Optymalizacja konwersji",
+      "featured": false,
+      "scope_count": 0,
+      "expert_count": 0,
+      "starting_price": 500.0,
+      "from_price": 500.0,
+      "industry_count": 2,
+      "country_count": 3,
+      "language_count": 2,
+      "domains": [
+        "growth-marketing",
+        "performance-marketing",
+        "product-marketing"
+      ],
+      "facets": {
+        "domains": [
+          "growth-marketing",
+          "performance-marketing",
+          "product-marketing"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "belgium",
+          "bulgaria",
+          "canada",
+          "china",
+          "czechia",
+          "denmark",
+          "estonia",
+          "eu",
+          "finland",
+          "greece",
+          "ireland",
+          "israel",
+          "italy",
+          "japan",
+          "malaysia",
+          "netherlands",
+          "romania",
+          "singapore",
+          "south-korea",
+          "sweden",
+          "switzerland",
+          "thailand"
+        ],
+        "languages": [
+          "english",
+          "arabic",
+          "dutch",
+          "greek",
+          "indonesian",
+          "italian",
+          "thai"
         ]
       }
     },
@@ -299,7 +370,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -309,6 +382,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian"
         ]
       }
@@ -382,7 +456,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -393,6 +469,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -470,7 +547,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -482,6 +561,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -505,7 +585,7 @@
       "description": "Prowadzenie social media nastawione na wzrost społeczności i przychód: strategia, treści i współprace z twórcami oceniane po konwersjach.",
       "menu": "Social media",
       "featured": false,
-      "scope_count": 4,
+      "scope_count": 5,
       "expert_count": 0,
       "starting_price": 400.0,
       "from_price": 400.0,
@@ -523,6 +603,7 @@
         ],
         "scopes": [
           "social-media-audit-strategy",
+          "telegram-channel-placements",
           "telegram-ads",
           "youtube-creator-pilot",
           "content-strategy"
@@ -552,6 +633,7 @@
           "malaysia",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -561,6 +643,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -577,7 +660,8 @@
       "search-marketing": "Marketing w wyszukiwarkach",
       "community-marketing": "Marketing społecznościowy",
       "product-marketing": "Marketing produktu",
-      "brand-marketing": "Marketing marki"
+      "brand-marketing": "Marketing marki",
+      "growth-marketing": "Growth marketing"
     },
     "scopes": {
       "apple-search-ads": "Apple Search Ads",
@@ -594,6 +678,7 @@
       "seo-audit": "Kompleksowy audyt SEO",
       "technical-seo": "SEO techniczne",
       "social-media-audit-strategy": "Audyt i strategia social media",
+      "telegram-channel-placements": "Publikacje natywne w kanałach Telegram",
       "telegram-ads": "Reklama na Telegramie",
       "youtube-creator-pilot": "Pilotaż z twórcami YouTube"
     },
@@ -637,9 +722,11 @@
       "japan": "Japonia",
       "netherlands": "Holandia",
       "singapore": "Singapur",
+      "south-korea": "Korea Południowa",
       "sweden": "Szwecja",
       "switzerland": "Szwajcaria",
       "malaysia": "Malezja",
+      "romania": "Rumunia",
       "thailand": "Tajlandia"
     },
     "languages": {
@@ -650,6 +737,7 @@
       "greek": "Grecki",
       "italian": "Włoski",
       "arabic": "Arabski",
+      "indonesian": "Indonezyjski",
       "thai": "Tajski"
     },
     "positions": {

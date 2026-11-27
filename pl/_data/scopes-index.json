@@ -53,6 +53,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -124,6 +125,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -198,6 +200,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -272,6 +275,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -348,6 +352,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -522,6 +527,7 @@
           "poland",
           "spain",
           "malaysia",
+          "romania",
           "singapore",
           "thailand"
         ],
@@ -529,6 +535,7 @@
           "english",
           "spanish",
           "arabic",
+          "indonesian",
           "thai"
         ],
         "positions": [
@@ -594,6 +601,7 @@
           "japan",
           "netherlands",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland"
         ],
@@ -652,12 +660,14 @@
           "poland",
           "spain",
           "malaysia",
+          "romania",
           "singapore",
           "thailand"
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "indonesian"
         ],
         "positions": [
           "ppc-specialist"
@@ -709,6 +719,7 @@
           "poland",
           "spain",
           "malaysia",
+          "romania",
           "singapore",
           "thailand"
         ],
@@ -716,6 +727,7 @@
           "english",
           "spanish",
           "arabic",
+          "indonesian",
           "thai"
         ],
         "positions": [
@@ -856,7 +868,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -868,6 +882,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -990,7 +1005,9 @@
           "japan",
           "malaysia",
           "netherlands",
+          "romania",
           "singapore",
+          "south-korea",
           "sweden",
           "switzerland",
           "thailand"
@@ -1002,6 +1019,7 @@
           "arabic",
           "dutch",
           "greek",
+          "indonesian",
           "italian",
           "thai"
         ],
@@ -1058,6 +1076,52 @@
         "positions": [
           "ppc-specialist",
           "marketing-consultant",
+          "social-media-manager"
+        ]
+      },
+      "case_count": 0,
+      "article_count": 0
+    },
+    {
+      "slug": "telegram-channel-placements",
+      "url": "/scopes/telegram-channel-placements",
+      "title": "Reklama natywna w kanałach na Telegramie",
+      "description": "Reklama natywna w kanałach na Telegramie jako sprawdzona fala publikacji: analiza, negocjacje, adaptacja tekstów i raport. Od 1 200 USD za falę.",
+      "menu": "Publikacje natywne w kanałach Telegram",
+      "featured": true,
+      "from_price": 1200,
+      "delivery": "one-time",
+      "expert_count": 0,
+      "industry_count": 8,
+      "country_count": 4,
+      "language_count": 2,
+      "task_count": 1,
+      "facets": {
+        "domains": [
+          "community-marketing",
+          "brand-marketing"
+        ],
+        "solutions": [
+          "digital-marketing-consulting"
+        ],
+        "services": [
+          "social-media"
+        ],
+        "industries": [
+          "ecommerce",
+          "saas",
+          "fintech",
+          "automotive"
+        ],
+        "countries": [
+          "usa",
+          "uk",
+          "poland"
+        ],
+        "languages": [
+          "english"
+        ],
+        "positions": [
           "social-media-manager"
         ]
       },
@@ -1143,7 +1207,8 @@
         ],
         "languages": [
           "english",
-          "spanish"
+          "spanish",
+          "indonesian"
         ],
         "positions": [
           "ppc-specialist"
@@ -1288,9 +1353,11 @@
       "japan": "Japonia",
       "netherlands": "Holandia",
       "singapore": "Singapur",
+      "south-korea": "Korea Południowa",
       "sweden": "Szwecja",
       "switzerland": "Szwajcaria",
       "malaysia": "Malezja",
+      "romania": "Rumunia",
       "thailand": "Tajlandia"
     },
     "languages": {
@@ -1301,6 +1368,7 @@
       "greek": "Grecki",
       "italian": "Włoski",
       "arabic": "Arabski",
+      "indonesian": "Indonezyjski",
       "thai": "Tajski"
     },
     "positions": {
